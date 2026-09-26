@@ -3,7 +3,7 @@
   "slug": "club-space",
   "name": "Club Space",
   "file": "club-space.ics",
-  "events": 25,
+  "events": 24,
   "estimated_times": 0,
   "next": "2026-09-25",
   "sources": [
@@ -86,7 +86,7 @@
   "slug": "boombox",
   "name": "The Boombox Miami",
   "file": "boombox.ics",
-  "events": 10,
+  "events": 11,
   "estimated_times": 0,
   "next": "2026-09-25",
   "sources": [
@@ -159,8 +159,8 @@
   "slug": "midline",
   "name": "Midline",
   "file": "midline.ics",
-  "events": 10,
-  "estimated_times": 3,
+  "events": 11,
+  "estimated_times": 1,
   "next": "2026-09-26",
   "sources": [
    "19hz",
@@ -172,8 +172,8 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 36,
-  "estimated_times": 20,
+  "events": 37,
+  "estimated_times": 19,
   "next": "2026-10-02",
   "sources": [
    "19hz",

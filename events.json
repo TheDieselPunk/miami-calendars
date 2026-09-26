@@ -148,7 +148,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "Free w/RSVP b4 midnight ladies / $22",
+   "price": "free w/rsvp b4 midnight ladies / $22",
    "genres": [
     "deep house",
     "progressive house",
@@ -756,33 +756,9 @@
    ]
   },
   {
-   "id": "dice:6ab54080f14ac000013b87a3",
-   "source": "dice",
-   "title": "Space Yoga",
-   "artists": [],
-   "venue": "Club Space Miami",
-   "venue_slug": "club-space",
-   "date": "2026-09-26",
-   "start": "2026-09-26T20:20:00+00:00",
-   "end": "2026-09-26T21:45:00+00:00",
-   "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
-   "price": " (sold out)",
-   "genres": [
-    "house",
-    "techno"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6ab54080f14ac000013b87a3",
-   "cancelled": false
-  },
-  {
    "id": "19hz:4444003-safesoundareturn",
    "source": "19hz",
-   "title": "Safe Sound / A Return To Practice / Each Other: Diego Andres, Mutant Pete , Terence Tabeau, Extra Andrew, Artime, Lotusoph",
+   "title": "Safe Sound / A Return To Practice / Each Other: Diego Andres, Mutant Pete, Terence Tabeau, Extra Andrew, Artime, Lotusoph",
    "artists": [],
    "venue": "Zoko Collective",
    "venue_slug": null,
@@ -1053,7 +1029,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$24.99",
+   "price": "$29.99",
    "genres": [],
    "genres_inferred": false,
    "organizer": "",
@@ -1234,7 +1210,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $10",
+   "price": "From $15",
    "genres": [
     "deep house",
     "tech house",
@@ -2245,7 +2221,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "Free w/RSVP b4 midnight ladies / $23",
+   "price": "free w/rsvp b4 midnight ladies / $23",
    "genres": [
     "melodic house",
     "organic house",
@@ -2393,7 +2369,7 @@
   },
   {
    "id": "shotgun:c3trlroom-7",
-   "source": "edmtrain+shotgun",
+   "source": "19hz+edmtrain+shotgun",
    "title": "Neumond: Lunaeye, Ad:Da, Paolo, Mila Rubio, Magno",
    "artists": [
     "Lunaeye",
@@ -2406,17 +2382,22 @@
    "venue_slug": null,
    "date": "2026-10-02",
    "start": "2026-10-03T02:00:00+00:00",
-   "end": null,
+   "end": "2026-10-03T09:00:00+00:00",
    "time_estimated": false,
    "address": "",
-   "ages": "",
+   "ages": "21+",
    "price": "$20.00",
-   "genres": [],
+   "genres": [
+    "melodic techno",
+    "progressive house",
+    "tech house"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/c3trlroom-7",
    "alt_urls": [
+    "https://ra.co/events/2540930",
     "https://edmtrain.com/miami-fl/neumond-lunaeye-538222"
    ]
   },
@@ -2932,6 +2913,29 @@
    "url": "https://shotgun.live/en/events/murder-mystery-night"
   },
   {
+   "id": "19hz:4444692-twistedfunkmiami",
+   "source": "19hz",
+   "title": "Twisted Funk Miami w/ Wally Lopez, Ollie Sanders & Dan.K",
+   "artists": [],
+   "venue": "Astra Miami Rooftop",
+   "venue_slug": null,
+   "date": "2026-10-03",
+   "start": "2026-10-04T01:00:00+00:00",
+   "end": "2026-10-04T07:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "free w/rsvp b4 11pm / $13-28",
+   "genres": [
+    "progressive house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.eventbrite.com/e/twisted-funk-miami-with-wally-lopez-ollie-sanders-dank-tickets-2001269800847"
+  },
+  {
    "id": "shotgun:gulp-by-sarah-tonin-mad-radio",
    "source": "shotgun",
    "title": "Gulp By Sarah Tonin @ Mad Radio",
@@ -3122,6 +3126,28 @@
    "url": "https://dice.fm/event/v3x88g-tamir-regev-3rd-oct-do-not-sit-on-the-furniture-miami-beach-tickets"
   },
   {
+   "id": "19hz:4444696-toolsheddannyver",
+   "source": "19hz",
+   "title": "Toolshed: Danny Verde",
+   "artists": [],
+   "venue": "Eagle",
+   "venue_slug": null,
+   "date": "2026-10-03",
+   "start": "2026-10-04T02:00:00+00:00",
+   "end": "2026-10-04T07:00:00+00:00",
+   "time_estimated": false,
+   "address": "Wilton Manors",
+   "ages": "21+",
+   "price": "$11.85",
+   "genres": [
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/v3lyyd-toolshed-ft-danny-verde-3rd-oct-eagle-wilton-manors-wilton-manors-tickets"
+  },
+  {
    "id": "19hz:4444696-elhormiguerogseg",
    "source": "19hz",
    "title": "El Hormiguero: G. Segurola, Legend Saylor, Mambo, Sierra, Tomix, TRIIPEL",
@@ -3208,23 +3234,29 @@
   },
   {
    "id": "shotgun:hot",
-   "source": "shotgun",
+   "source": "19hz+shotgun",
    "title": "Hot: Back To School Hyperpop X Perreo",
    "artists": [],
    "venue": "Miami",
    "venue_slug": null,
    "date": "2026-10-03",
    "start": "2026-10-04T02:00:00+00:00",
-   "end": null,
+   "end": "2026-10-04T08:00:00+00:00",
    "time_estimated": false,
    "address": "",
-   "ages": "",
+   "ages": "21+",
    "price": "$22.70",
-   "genres": [],
+   "genres": [
+    "hyperpop",
+    "perreo"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/hot"
+   "url": "https://shotgun.live/en/events/hot",
+   "alt_urls": [
+    "https://shotgun.live/en/events/hot"
+   ]
   },
   {
    "id": "19hz:4444696-robagwruhme",
@@ -3600,6 +3632,34 @@
    "url": "https://shotgun.live/en/events/piecesofpeoplemiami"
   },
   {
+   "id": "19hz:4444776-ellaromand",
+   "source": "19hz+edmtrain",
+   "title": "Ella Romand",
+   "artists": [
+    "Ella Romand"
+   ],
+   "venue": "Upside",
+   "venue_slug": null,
+   "date": "2026-10-04",
+   "start": "2026-10-04T22:00:00+00:00",
+   "end": "2026-10-05T04:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "free b4 8pm / $23",
+   "genres": [
+    "deep house",
+    "progressive house"
+   ],
+   "genres_inferred": false,
+   "organizer": "Apex",
+   "description": "",
+   "url": "https://posh.vip/e/ella-romand",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/ella-romand-537702"
+   ]
+  },
+  {
    "id": "19hz:4444783-livitup",
    "source": "19hz+edmtrain",
    "title": "Livitup",
@@ -3707,31 +3767,6 @@
    ]
   },
   {
-   "id": "edmtrain:537702",
-   "source": "edmtrain",
-   "title": "Ella Romand",
-   "artists": [
-    "Ella Romand"
-   ],
-   "venue": "UPSIDE",
-   "venue_slug": null,
-   "date": "2026-10-04",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "59 NW 28th St, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://posh.vip/e/ella-romand?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/ella-romand-537702"
-   ]
-  },
-  {
    "id": "19hz:4444879-atrain",
    "source": "19hz+edmtrain",
    "title": "A-Train",
@@ -3792,6 +3827,48 @@
    ]
   },
   {
+   "id": "19hz:4445076-dubplatesdragons",
+   "source": "19hz+edmtrain",
+   "title": "Dubplates & Dragons Wednesdayz",
+   "artists": [
+    "Medley",
+    "Sel. 6",
+    "Kharma",
+    "CeEmme",
+    "Empress Galaxy Sword",
+    "Flash",
+    "Franklin mint",
+    "Nois.net",
+    "3 Frequenseas",
+    "Cruces",
+    "Luna Thunderstorm",
+    "Wolfee Wolfenstein",
+    "Avalon Hechisarah Pendragon"
+   ],
+   "venue": "Hollywood Live Restaurant & Lounge",
+   "venue_slug": null,
+   "date": "2026-10-07",
+   "start": "2026-10-08T01:00:00+00:00",
+   "end": "2026-10-08T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "Hollywood",
+   "ages": "21+",
+   "price": "$5-10",
+   "genres": [
+    "bass music",
+    "dubstep",
+    "tech house",
+    "uk garage"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://app.hi.events/event/11229/dubplates-dragons-wednesdayz",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/dubplates-and-dragons-wednesdayz-medley-538160"
+   ]
+  },
+  {
    "id": "shotgun:madradiomiami100726",
    "source": "edmtrain+shotgun",
    "title": "Seb Coba / Rudy M & Fanchi / Face / Reydel / Alex Meadows",
@@ -3826,43 +3903,6 @@
    "created": "2026-09-25T01:37:54.000Z",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/reydel-alex-meadows-540055"
-   ]
-  },
-  {
-   "id": "edmtrain:538160",
-   "source": "edmtrain",
-   "title": "Dubplates & Dragons Wednesdayz: Medley, Sel. 6, Kharma, CeEmme, Empress Galaxy Sword, Flash, Franklin mint, Nois.net, 3 Frequenseas, Cruces, Luna Thunderstorm, Wolfee Wolfenstein, Avalon Hechisarah Pendragon",
-   "artists": [
-    "Medley",
-    "Sel. 6",
-    "Kharma",
-    "CeEmme",
-    "Empress Galaxy Sword",
-    "Flash",
-    "Franklin mint",
-    "Nois.net",
-    "3 Frequenseas",
-    "Cruces",
-    "Luna Thunderstorm",
-    "Wolfee Wolfenstein",
-    "Avalon Hechisarah Pendragon"
-   ],
-   "venue": "Hollywood Live",
-   "venue_slug": null,
-   "date": "2026-10-07",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "2333 Hollywood Blvd, Hollywood, FL 33020, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://app.hi.events/event/11229/dubplates-dragons-wednesdayz",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/dubplates-and-dragons-wednesdayz-medley-538160"
    ]
   },
   {
@@ -4129,7 +4169,7 @@
   },
   {
    "id": "shotgun:madradiomiami100926",
-   "source": "edmtrain+shotgun",
+   "source": "19hz+edmtrain+shotgun",
    "title": "Sandy Rivera / Misturada",
    "artists": [
     "Sandy Rivera"
@@ -4141,7 +4181,7 @@
    "end": "2026-10-10T07:00:00+00:00",
    "time_estimated": false,
    "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
-   "ages": "",
+   "ages": "21+",
    "price": "$21.80",
    "genres": [
     "house"
@@ -4159,6 +4199,7 @@
    },
    "created": "2026-09-22T16:05:47.000Z",
    "alt_urls": [
+    "https://shotgun.live/en/events/madradiomiami100926",
     "https://edmtrain.com/miami-fl/sandy-rivera-kings-of-tomorrow-misturada-539086"
    ]
   },
@@ -4440,6 +4481,34 @@
    ]
   },
   {
+   "id": "19hz:4445272-laterepliesglass",
+   "source": "19hz+edmtrain",
+   "title": "Late Replies + Glass Halo",
+   "artists": [
+    "Late Replies",
+    "Glass Halo"
+   ],
+   "venue": "Sable",
+   "venue_slug": null,
+   "date": "2026-10-09",
+   "start": "2026-10-10T02:00:00+00:00",
+   "end": "2026-10-10T07:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "$24.25",
+   "genres": [
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/dk72m6-late-replies-glass-halo-9th-oct-sable-miami-miami-tickets",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/late-replies-glass-halo-538275"
+   ]
+  },
+  {
    "id": "19hz:4445272-wuki",
    "source": "19hz+edmtrain",
    "title": "Wuki",
@@ -4635,7 +4704,7 @@
   },
   {
    "id": "shotgun:get-milked-alec-falconer-pres-by-sarah-tonin-un-mute",
-   "source": "edmtrain+shotgun",
+   "source": "19hz+edmtrain+shotgun",
    "title": "Get Milked: Alec Falconer Pres By Sarah Tonin & Un_Mute",
    "artists": [
     "Alec Falconer"
@@ -4644,17 +4713,21 @@
    "venue_slug": null,
    "date": "2026-10-09",
    "start": "2026-10-10T03:00:00+00:00",
-   "end": null,
+   "end": "2026-10-10T12:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "",
    "price": "$22.00",
-   "genres": [],
+   "genres": [
+    "progressive house",
+    "tech house"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/get-milked-alec-falconer-pres-by-sarah-tonin-un-mute",
    "alt_urls": [
+    "https://shotgun.live/en/events/get-milked-alec-falconer-pres-by-sarah-tonin-un-mute",
     "https://edmtrain.com/miami-fl/pres-by-sarah-tonin-and-un-mute-alec-falconer-538249"
    ]
   },
@@ -4710,32 +4783,6 @@
    "url": "https://dice.fm/event/6dolpq?pid=d6342b83",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/eternal-frequencies-cosmic-gate-527998"
-   ]
-  },
-  {
-   "id": "edmtrain:538275",
-   "source": "edmtrain",
-   "title": "Late Replies, Glass Halo",
-   "artists": [
-    "Late Replies",
-    "Glass Halo"
-   ],
-   "venue": "Sable Miami",
-   "venue_slug": null,
-   "date": "2026-10-09",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "2219 NW 2nd Ave, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/dk72m6?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/late-replies-glass-halo-538275"
    ]
   },
   {
@@ -5486,7 +5533,7 @@
   },
   {
    "id": "dice:6a907094edf55c0001de62e9",
-   "source": "dice",
+   "source": "19hz+dice",
    "title": "Nacho Scoppa + Isabella Roldán",
    "artists": [],
    "venue": "Floyd Miami",
@@ -5496,17 +5543,19 @@
    "end": "2026-10-12T09:00:00+00:00",
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
+   "ages": "21+",
    "price": "From $10",
    "genres": [
-    "house",
-    "techno"
+    "tech house"
    ],
-   "genres_inferred": true,
+   "genres_inferred": false,
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6a907094edf55c0001de62e9",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://link.dice.fm/nachoscoppafloyd"
+   ]
   },
   {
    "id": "19hz:4445640-djthreepeterwohe",
@@ -5696,6 +5745,34 @@
    "url": "https://shotgun.live/en/events/b2b-label-showcase"
   },
   {
+   "id": "19hz:4445848-b2brecordslabels",
+   "source": "19hz+edmtrain",
+   "title": "B2B Records Label Showcase",
+   "artists": [
+    "TBA"
+   ],
+   "venue": "Edge",
+   "venue_slug": null,
+   "date": "2026-10-15",
+   "start": "2026-10-16T02:00:00+00:00",
+   "end": "2026-10-16T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "free w/rsvp b4 11pm / $25",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://speakeasygo.com/event/EVE-TK8IS1",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/b2b-records-label-showcase-tba-537451"
+   ]
+  },
+  {
    "id": "dice:6a8362e91d183400011845d0",
    "source": "19hz+dice+edmtrain",
    "title": "Satellite: Moscoman, Red Axes, & Whitesquare",
@@ -5831,31 +5908,6 @@
    ]
   },
   {
-   "id": "edmtrain:537451",
-   "source": "edmtrain",
-   "title": "B2B Records Label Showcase: TBA",
-   "artists": [
-    "TBA"
-   ],
-   "venue": "Edge Miami",
-   "venue_slug": null,
-   "date": "2026-10-15",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "114 NE 20th Terrace, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://speakeasygo.com/event/EVE-TK8IS1?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/b2b-records-label-showcase-tba-537451"
-   ]
-  },
-  {
    "id": "19hz:4445916-iiipoints2026",
    "source": "19hz",
    "title": "III Points 2026",
@@ -5970,6 +6022,51 @@
     "https://calendar.zeyzeymiami.com/shows/party-pupils-16-oct",
     "https://edmtrain.com/miami-fl/party-pupils-529175"
    ]
+  },
+  {
+   "id": "19hz:4445940-saknoel",
+   "source": "19hz+edmtrain",
+   "title": "Sak Noel",
+   "artists": [
+    "Sak Noel"
+   ],
+   "venue": "Rooftop Live",
+   "venue_slug": null,
+   "date": "2026-10-16",
+   "start": "2026-10-17T01:00:00+00:00",
+   "end": "2026-10-17T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "Hollywood",
+   "ages": "21+",
+   "price": "free w/rsvp b4 10:30pm / $36",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "The Hour Events",
+   "description": "",
+   "url": "https://www.eventbrite.com/e/sak-noel-is-back-at-ayla-daer-rooftop-october-16-tickets-2001106177445",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/sak-noel-538271"
+   ]
+  },
+  {
+   "id": "19hz:4445940-ravefurrestmiami",
+   "source": "19hz",
+   "title": "Ravefurrest Miami: passengerprincess, Sixwing, Gaterror, Demifiend, kittenhouse, Dateline",
+   "artists": [],
+   "venue": "The Boombox",
+   "venue_slug": "boombox",
+   "date": "2026-10-16",
+   "start": "2026-10-17T01:00:00+00:00",
+   "end": "2026-10-17T07:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "18+",
+   "price": "$22-33.20",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://ra.co/events/2539489"
   },
   {
    "id": "19hz:4445944-thepicklegrandop",
@@ -6219,31 +6316,6 @@
    "url": "https://www.livnightclub.com/miami/event/EVE112156200020261016/friday/?ref=raco",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/black-coffee-537636"
-   ]
-  },
-  {
-   "id": "edmtrain:538271",
-   "source": "edmtrain",
-   "title": "Sak Noel",
-   "artists": [
-    "Sak Noel"
-   ],
-   "venue": "Rooftop Live",
-   "venue_slug": null,
-   "date": "2026-10-16",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "1 Lucky St, Davie, FL 33314, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.eventbrite.com/e/2001106177445?aff=ebdimtedmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/sak-noel-538271"
    ]
   },
   {
@@ -7284,6 +7356,34 @@
    "cancelled": false
   },
   {
+   "id": "19hz:4446612-wassu",
+   "source": "19hz+edmtrain",
+   "title": "Wassu",
+   "artists": [
+    "Wassu"
+   ],
+   "venue": "Upside",
+   "venue_slug": null,
+   "date": "2026-10-23",
+   "start": "2026-10-24T01:00:00+00:00",
+   "end": "2026-10-24T07:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "Free w/RSVP b4 midnight / $20",
+   "genres": [
+    "organic house",
+    "progressive house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/g58mga-wassu-23rd-oct-upside-miami-tickets",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/wassu-537380"
+   ]
+  },
+  {
    "id": "hardrock:202034",
    "source": "venue",
    "title": "Halloween Most Wanted",
@@ -7554,31 +7654,6 @@
    ]
   },
   {
-   "id": "edmtrain:537380",
-   "source": "edmtrain",
-   "title": "Wassu",
-   "artists": [
-    "Wassu"
-   ],
-   "venue": "UPSIDE",
-   "venue_slug": null,
-   "date": "2026-10-23",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "59 NW 28th St, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/g58mga?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/wassu-537380"
-   ]
-  },
-  {
    "id": "hardrock:206563",
    "source": "19hz+venue",
    "title": "Doomsday",
@@ -7601,6 +7676,30 @@
    "alt_urls": [
     "https://www.tixr.com/groups/daerdayclubsouthflorida/events/doomsday-daer-dayclub-afterdark-206563"
    ]
+  },
+  {
+   "id": "shotgun:karnival-halloween-party-horror-games-18-rave",
+   "source": "shotgun",
+   "title": "Karnival: Halloween Cosplay Party & Horror Gaming",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": "festivals",
+   "date": "2026-10-24",
+   "start": "2026-10-24T22:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.25",
+   "genres": [
+    "dance",
+    "techno",
+    "house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/karnival-halloween-party-horror-games-18-rave"
   },
   {
    "id": "shotgun:midnighthertz",
@@ -7656,27 +7755,31 @@
   },
   {
    "id": "shotgun:sammy-jackie-clarke-dj-set-with-special-guest-valery-karbia",
-   "source": "shotgun",
+   "source": "19hz+shotgun",
    "title": "Sammy Jackie-Clarke Dj Set With Special Guest Valery Karbia",
    "artists": [],
    "venue": "Miami",
    "venue_slug": "festivals",
    "date": "2026-10-24",
    "start": "2026-10-25T01:00:00+00:00",
-   "end": null,
+   "end": "2026-10-25T05:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "",
    "price": "Free",
    "genres": [
     "electro house",
+    "electronica",
     "hardstyle",
-    "electronica"
+    "house"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/sammy-jackie-clarke-dj-set-with-special-guest-valery-karbia"
+   "url": "https://shotgun.live/en/events/sammy-jackie-clarke-dj-set-with-special-guest-valery-karbia",
+   "alt_urls": [
+    "https://shotgun.live/en/events/sammy-jackie-clarke-dj-set-with-special-guest-valery-karbia"
+   ]
   },
   {
    "id": "19hz:4446712-pasodoble",
@@ -8121,7 +8224,7 @@
   },
   {
    "id": "dice:6a9072b7977d0a0001bea010",
-   "source": "dice",
+   "source": "19hz+dice",
    "title": "Frank Storm + Blaise Bracic",
    "artists": [],
    "venue": "Floyd Miami",
@@ -8131,17 +8234,20 @@
    "end": "2026-10-26T09:00:00+00:00",
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
+   "ages": "21+",
    "price": "From $10",
    "genres": [
-    "house",
-    "techno"
+    "deep house",
+    "tech house"
    ],
-   "genres_inferred": true,
+   "genres_inferred": false,
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6a9072b7977d0a0001bea010",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://link.dice.fm/frankblaisefloyd"
+   ]
   },
   {
    "id": "19hz:4447087-e11evenhalloween",
@@ -8278,6 +8384,29 @@
    ]
   },
   {
+   "id": "19hz:4447267-murderonthedance",
+   "source": "19hz+edmtrain",
+   "title": "Murder On The Dance Floor Halloweekend",
+   "artists": [],
+   "venue": "Rhythm & Vine",
+   "venue_slug": null,
+   "date": "2026-10-30",
+   "start": "2026-10-30T21:00:00+00:00",
+   "end": "2026-10-31T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "Fort Lauderdale",
+   "ages": "21+",
+   "price": "free w/rsvp / free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "Rhythm + Vine",
+   "description": "",
+   "url": "https://www.eventbrite.com/e/murder-on-the-dance-floor-halloweekend-rhythm-vine-tickets-2001249673646",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/murder-on-the-dance-floor-538267"
+   ]
+  },
+  {
    "id": "shotgun:halloween-se-7-en",
    "source": "shotgun",
    "title": "Halloween Se7en [ Oct 30 · 31 ]",
@@ -8356,7 +8485,7 @@
   },
   {
    "id": "hardrock:204541",
-   "source": "edmtrain+venue",
+   "source": "19hz+edmtrain+venue",
    "title": "DJ Pauly D - Halloween Weekend",
    "artists": [
     "DJ Pauly D"
@@ -8368,15 +8497,18 @@
    "end": "2026-10-31T08:00:00+00:00",
    "time_estimated": false,
    "address": "1 Seminole Way, Hollywood, FL 33314",
-   "ages": "",
-   "price": "",
-   "genres": [],
+   "ages": "21+",
+   "price": "$37",
+   "genres": [
+    "pop edm"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/204541",
    "generic_title": false,
    "alt_urls": [
+    "https://www.tixr.com/groups/daernightclubsouthflorida/events/dj-pauly-d-halloween-weekend-daer-nightclub-204541",
     "https://edmtrain.com/fort-lauderdale-fl/dj-pauly-d-538589"
    ]
   },
@@ -8453,6 +8585,29 @@
     "tech house",
     "techno",
     "house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/boris-oct30"
+  },
+  {
+   "id": "19hz:4447288-borissgx",
+   "source": "19hz",
+   "title": "Boris, SGX",
+   "artists": [],
+   "venue": "Edge",
+   "venue_slug": null,
+   "date": "2026-10-30",
+   "start": "2026-10-31T02:00:00+00:00",
+   "end": "2026-10-31T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free w/RSVP b4 midnight / $20",
+   "genres": [
+    "tech house",
+    "techno"
    ],
    "genres_inferred": false,
    "organizer": "",
@@ -8716,29 +8871,6 @@
    ]
   },
   {
-   "id": "edmtrain:538267",
-   "source": "edmtrain",
-   "title": "Murder On The Dance Floor",
-   "artists": [],
-   "venue": "Rhythm & Vine",
-   "venue_slug": null,
-   "date": "2026-10-30",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "401 NE 5th Terrace, Fort Lauderdale, FL 33301, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.eventbrite.com/e/2001249673646?aff=ebdimtedmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/murder-on-the-dance-floor-538267"
-   ]
-  },
-  {
    "id": "zeyzey:golden-a-k-pop-kids-party-31-oct",
    "source": "venue",
    "title": "GOLDEN: A K-Pop Kids Party",
@@ -8808,6 +8940,26 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/blond-ish-535914"
    ]
+  },
+  {
+   "id": "19hz:4447363-murderonthedance",
+   "source": "19hz",
+   "title": "Murder On The Dance Floor Halloweekend",
+   "artists": [],
+   "venue": "Rhythm & Vine",
+   "venue_slug": null,
+   "date": "2026-10-31",
+   "start": "2026-10-31T21:00:00+00:00",
+   "end": "2026-11-01T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "Fort Lauderdale",
+   "ages": "21+",
+   "price": "free w/rsvp / free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "Rhythm + Vine",
+   "description": "",
+   "url": "https://www.eventbrite.com/e/murder-on-the-dance-floor-halloweekend-rhythm-vine-tickets-2001249673646"
   },
   {
    "id": "zeyzey:mark-farina-s-mushroom-jazz-halloween-edition-31-oct",
@@ -9689,8 +9841,30 @@
    "cancelled": false
   },
   {
+   "id": "19hz:4447960-thepickle",
+   "source": "19hz",
+   "title": "The Pickle",
+   "artists": [],
+   "venue": "The Pickle",
+   "venue_slug": null,
+   "date": "2026-11-06",
+   "start": "2026-11-07T03:00:00+00:00",
+   "end": "2026-11-07T13:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.20-22.35",
+   "genres": [
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://ra.co/events/2528914"
+  },
+  {
    "id": "dice:6aac2b58ba4e800001745f0c",
-   "source": "dice+edmtrain",
+   "source": "19hz+dice+edmtrain",
    "title": "Paige Tomlinson + Lammer + Stüm",
    "artists": [
     "Paige Tomlinson",
@@ -9704,18 +9878,21 @@
    "end": "2026-11-07T12:00:00+00:00",
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
+   "ages": "21+",
    "price": "From $10",
    "genres": [
+    "breaks",
+    "eurodance",
     "house",
-    "techno"
+    "trance"
    ],
-   "genres_inferred": true,
+   "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6aac2b58ba4e800001745f0c",
+   "url": "https://dice.fm/event/g58ax5-paige-tomlinson-lammer-stm-6th-nov-the-ground-miami-miami-tickets",
    "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/g58ax5-paige-tomlinson-lammer-stm-6th-nov-the-ground-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/paige-tomlinson-lammer-538328"
    ]
   },
@@ -9739,6 +9916,36 @@
    "description": "",
    "url": "https://tixr.com/e/205527",
    "generic_title": true
+  },
+  {
+   "id": "19hz:4448032-vavorickyretro",
+   "source": "19hz+edmtrain",
+   "title": "Vavo & Ricky Retro",
+   "artists": [
+    "VAVO",
+    "Ricky Retro"
+   ],
+   "venue": "Palm Tree Club",
+   "venue_slug": null,
+   "date": "2026-11-07",
+   "start": "2026-11-07T21:00:00+00:00",
+   "end": "2026-11-08T03:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "$20+",
+   "genres": [
+    "bass house",
+    "edm",
+    "house"
+   ],
+   "genres_inferred": false,
+   "organizer": "Palm Tree Club Miami",
+   "description": "",
+   "url": "https://posh.vip/e/vavo-ricky-retro-presented-by-palm-tree-club-miami-copy",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/vavo-ricky-retro-535915"
+   ]
   },
   {
    "id": "zeyzey:dana-and-alden-07-nov",
@@ -9809,6 +10016,33 @@
    "generic_title": true
   },
   {
+   "id": "19hz:4448056-valentinhuedo",
+   "source": "19hz+edmtrain",
+   "title": "Valentin Huedo",
+   "artists": [
+    "Valentin Huedo"
+   ],
+   "venue": "Do Not Sit On The Furniture",
+   "venue_slug": null,
+   "date": "2026-11-07",
+   "start": "2026-11-08T03:00:00+00:00",
+   "end": "2026-11-08T10:00:00+00:00",
+   "time_estimated": false,
+   "address": "Miami Beach",
+   "ages": "21+",
+   "price": "$24+",
+   "genres": [
+    "house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/53k8vl-valentin-huedo-7th-nov-do-not-sit-on-the-furniture-miami-beach-tickets",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/valentin-huedo-536610"
+   ]
+  },
+  {
    "id": "dice:6aaae261eacc0d0001e8d9e6",
    "source": "dice",
    "title": "WE HEART RnB",
@@ -9833,53 +10067,28 @@
    "cancelled": false
   },
   {
-   "id": "edmtrain:536610",
-   "source": "edmtrain",
-   "title": "Valentin Huedo",
-   "artists": [
-    "Valentin Huedo"
-   ],
-   "venue": "Do Not Sit On The Furniture",
-   "venue_slug": null,
-   "date": "2026-11-07",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "423 16th St, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "deep house"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/53k8vl?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/valentin-huedo-536610"
-   ]
-  },
-  {
-   "id": "edmtrain:538129",
-   "source": "edmtrain",
+   "id": "19hz:4448062-martingarrix",
+   "source": "19hz+edmtrain",
    "title": "Martin Garrix",
    "artists": [
     "Martin Garrix"
    ],
-   "venue": "LIV Miami",
+   "venue": "Fontainebleau",
    "venue_slug": null,
    "date": "2026-11-07",
-   "start": null,
-   "end": null,
+   "start": "2026-11-08T04:30:00+00:00",
+   "end": "2026-11-08T09:30:00+00:00",
    "time_estimated": false,
-   "address": "4441 Collins Ave, Miami Beach, FL 33140, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
+   "address": "Miami Beach",
+   "ages": "21+",
+   "price": "$68+",
+   "genres": [
+    "big room house"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://ticketmaster.evyy.net/c/254533/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fid%2F14328774",
+   "url": "https://www.ticketweb.com/event/id/14328774",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/martin-garrix-538129"
    ]
@@ -9905,32 +10114,6 @@
    "url": "https://dice.fm/event/6dg2o3?pid=d6342b83",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/unkommon-539079"
-   ]
-  },
-  {
-   "id": "edmtrain:535915",
-   "source": "edmtrain",
-   "title": "VAVO, Ricky Retro",
-   "artists": [
-    "VAVO",
-    "Ricky Retro"
-   ],
-   "venue": "Palm Tree Club Miami",
-   "venue_slug": null,
-   "date": "2026-11-07",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "1819 79th Street Causeway, North Bay Village, FL 33141, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://posh.vip/e/vavo-ricky-retro-presented-by-palm-tree-club-miami-copy?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/vavo-ricky-retro-535915"
    ]
   },
   {
@@ -10027,26 +10210,31 @@
    ]
   },
   {
-   "id": "edmtrain:535421",
-   "source": "edmtrain",
+   "id": "19hz:4448143-chizzle",
+   "source": "19hz+edmtrain",
    "title": "Chizzle",
    "artists": [
     "Chizzle"
    ],
-   "venue": "E11EVEN",
+   "venue": "E11even",
    "venue_slug": null,
    "date": "2026-11-08",
-   "start": null,
-   "end": null,
+   "start": "2026-11-09T01:00:00+00:00",
+   "end": "2026-11-09T06:00:00+00:00",
    "time_estimated": false,
-   "address": "29 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
+   "address": "",
+   "ages": "21+",
+   "price": "free w/rsvp b4 1 / $23-34",
+   "genres": [
+    "electro house",
+    "hip-hop",
+    "pop edm",
+    "trap"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://speakeasygo.com/event/EVE-XZPXEC?t=edmtrain",
+   "url": "https://speakeasygo.com/event/EVE-XZPXEC",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/chizzle-535421"
    ]
@@ -10174,21 +10362,23 @@
   },
   {
    "id": "shotgun:nights-in-necropolis-presents-tiffadelic-detroit-blk-goth",
-   "source": "edmtrain+shotgun",
+   "source": "19hz+edmtrain+shotgun",
    "title": "Nights In Necropolis Presents: Tiffadelic (Detroit Blk Goth)",
    "artists": [],
    "venue": "Churchill's Pub",
    "venue_slug": null,
    "date": "2026-11-13",
    "start": "2026-11-14T02:00:00+00:00",
-   "end": null,
+   "end": "2026-11-14T08:00:00+00:00",
    "time_estimated": false,
    "address": "",
-   "ages": "",
+   "ages": "21+",
    "price": "$11.25",
    "genres": [
     "dark wave",
+    "darkwave",
     "ebm",
+    "minimal wave",
     "post-punk"
    ],
    "genres_inferred": false,
@@ -10196,12 +10386,13 @@
    "description": "",
    "url": "https://shotgun.live/en/events/nights-in-necropolis-presents-tiffadelic-detroit-blk-goth",
    "alt_urls": [
+    "https://shotgun.live/en/events/nights-in-necropolis-presents-tiffadelic-detroit-blk-goth",
     "https://edmtrain.com/miami-fl/nights-in-necropolis-presents-538671"
    ]
   },
   {
    "id": "zeyzey:christian-loffler-live-fall-2026-tour-13-nov",
-   "source": "edmtrain+venue",
+   "source": "19hz+edmtrain+venue",
    "title": "Christian Löffler LIVE – Fall 2026 Tour",
    "artists": [
     "Christian Löffler"
@@ -10213,10 +10404,11 @@
    "end": "2026-11-14T08:00:00+00:00",
    "time_estimated": false,
    "address": "",
-   "ages": "",
-   "price": "",
+   "ages": "18+",
+   "price": "$29+",
    "genres": [
-    "dance/electronic"
+    "deep house",
+    "progressive house"
    ],
    "genres_inferred": false,
    "organizer": "",
@@ -10224,6 +10416,7 @@
    "url": "https://calendar.zeyzeymiami.com/shows/christian-loffler-live-fall-2026-tour-13-nov",
    "cancelled": false,
    "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/christian-loffler-live-fall-2026-tour-13-nov",
     "https://edmtrain.com/miami-fl/christian-loffler-538533"
    ]
   },
@@ -10247,6 +10440,61 @@
    "description": "",
    "url": "https://tixr.com/e/206001",
    "generic_title": true
+  },
+  {
+   "id": "19hz:4448632-armenmiran",
+   "source": "19hz+edmtrain",
+   "title": "Armen Miran",
+   "artists": [
+    "Armen Miran"
+   ],
+   "venue": "Do Not Sit On The Furniture",
+   "venue_slug": null,
+   "date": "2026-11-13",
+   "start": "2026-11-14T03:00:00+00:00",
+   "end": "2026-11-14T10:00:00+00:00",
+   "time_estimated": false,
+   "address": "Miami Beach",
+   "ages": "21+",
+   "price": "$24.25",
+   "genres": [
+    "deep house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/7d5qvb-armen-miran-13th-nov-do-not-sit-on-the-furniture-miami-beach-tickets",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/armen-miran-536611"
+   ]
+  },
+  {
+   "id": "19hz:4448632-karstensollors",
+   "source": "19hz+edmtrain",
+   "title": "Karsten Sollors",
+   "artists": [
+    "Karsten Sollors"
+   ],
+   "venue": "Eagle",
+   "venue_slug": null,
+   "date": "2026-11-13",
+   "start": "2026-11-14T03:00:00+00:00",
+   "end": "2026-11-14T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "Wilton Manors",
+   "ages": "21+",
+   "price": "$17.79",
+   "genres": [
+    "jackin house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/g58yr5-victory-party-ft-karsten-sollors-13th-nov-eagle-wilton-manors-wilton-manors-tickets",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/karsten-sollors-534979"
+   ]
   },
   {
    "id": "dice:6a84879f8e0c81000177fc08",
@@ -10364,58 +10612,6 @@
    "alt_urls": [
     "https://dice.fm/event/2wqn27-notion-13th-nov-the-ground-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/notion-dj-flashdrive-532805"
-   ]
-  },
-  {
-   "id": "edmtrain:536611",
-   "source": "edmtrain",
-   "title": "Armen Miran",
-   "artists": [
-    "Armen Miran"
-   ],
-   "venue": "Do Not Sit On The Furniture",
-   "venue_slug": null,
-   "date": "2026-11-13",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "423 16th St, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "deep house"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/7d5qvb?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/armen-miran-536611"
-   ]
-  },
-  {
-   "id": "edmtrain:534979",
-   "source": "edmtrain",
-   "title": "Karsten Sollors",
-   "artists": [
-    "Karsten Sollors"
-   ],
-   "venue": "Eagle Wilton Manors",
-   "venue_slug": null,
-   "date": "2026-11-13",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "2209 Wilton Dr, Wilton Manors, FL 33305, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/g58yr5?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/karsten-sollors-534979"
    ]
   },
   {
@@ -10578,6 +10774,34 @@
    "generic_title": true
   },
   {
+   "id": "19hz:4448728-jeremyolander",
+   "source": "19hz+edmtrain",
+   "title": "Jeremy Olander",
+   "artists": [
+    "Jeremy Olander"
+   ],
+   "venue": "Do Not Sit On The Furniture",
+   "venue_slug": null,
+   "date": "2026-11-14",
+   "start": "2026-11-15T03:00:00+00:00",
+   "end": "2026-11-15T10:00:00+00:00",
+   "time_estimated": false,
+   "address": "Miami Beach",
+   "ages": "21+",
+   "price": "$24.25",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/py3rqw-jeremy-olander-14th-nov-do-not-sit-on-the-furniture-miami-beach-tickets",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/jeremy-olander-536612"
+   ]
+  },
+  {
    "id": "dice:6a3077721b98d10001598c8a",
    "source": "19hz+dice+edmtrain",
    "title": "ODESZA",
@@ -10642,33 +10866,37 @@
    ]
   },
   {
-   "id": "edmtrain:535253",
-   "source": "edmtrain",
+   "id": "19hz:4448728-krewella",
+   "source": "19hz+edmtrain",
    "title": "Krewella",
    "artists": [
     "Krewella"
    ],
-   "venue": "Midline Miami",
+   "venue": "Midline",
    "venue_slug": "midline",
    "date": "2026-11-14",
    "start": "2026-11-15T03:00:00+00:00",
    "end": "2026-11-15T08:00:00+00:00",
-   "time_estimated": true,
-   "address": "2221 NW Miami Ct, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
+   "time_estimated": false,
+   "address": "",
+   "ages": "18+",
+   "price": "$25.02",
+   "genres": [
+    "big room",
+    "electro house",
+    "trap"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzA0NTUxOjc=/clickthru",
+   "url": "https://wl.eventim.us/event/krewella-midline-miami/704551?afflky=Midline",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/krewella-535253"
    ]
   },
   {
    "id": "dice:6aac10c51773540001e4c41f",
-   "source": "dice+edmtrain",
+   "source": "19hz+dice+edmtrain",
    "title": "Carl Cox + Carlita",
    "artists": [
     "Carl Cox",
@@ -10683,24 +10911,25 @@
    "end": "2026-11-15T19:00:00+00:00",
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
+   "ages": "21+",
    "price": "From $30",
    "genres": [
-    "house",
+    "tech house",
     "techno"
    ],
-   "genres_inferred": true,
+   "genres_inferred": false,
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aac10c51773540001e4c41f",
    "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/6aac10c51773540001e4c41f",
     "https://edmtrain.com/miami-fl/carl-cox-carlita-537844"
    ]
   },
   {
    "id": "dice:6a88676d138c56000110cb09",
-   "source": "dice+edmtrain",
+   "source": "19hz+dice+edmtrain",
    "title": "suero x STAS: EQ",
    "artists": [
     "EQ"
@@ -10712,46 +10941,21 @@
    "end": "2026-11-15T12:00:00+00:00",
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
+   "ages": "18+",
    "price": "From $10",
    "genres": [
+    "baile funk",
     "house",
-    "techno"
+    "latin club"
    ],
-   "genres_inferred": true,
+   "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6a88676d138c56000110cb09",
+   "url": "https://dice.fm/event/eo6976-suero-x-stas-eq-14th-nov-the-ground-miami-miami-tickets",
    "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/eo6976-suero-x-stas-eq-14th-nov-the-ground-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/suero-x-stas-eq-531184"
-   ]
-  },
-  {
-   "id": "edmtrain:536612",
-   "source": "edmtrain",
-   "title": "Jeremy Olander",
-   "artists": [
-    "Jeremy Olander"
-   ],
-   "venue": "Do Not Sit On The Furniture",
-   "venue_slug": null,
-   "date": "2026-11-14",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "423 16th St, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "deep house"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/py3rqw?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/jeremy-olander-536612"
    ]
   },
   {
@@ -10984,6 +11188,34 @@
    ]
   },
   {
+   "id": "19hz:4449295-kapo",
+   "source": "19hz+edmtrain",
+   "title": "Kapo",
+   "artists": [
+    "KAPO"
+   ],
+   "venue": "Midline",
+   "venue_slug": "midline",
+   "date": "2026-11-20",
+   "start": "2026-11-21T01:00:00+00:00",
+   "end": "2026-11-21T04:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "$85.05",
+   "genres": [
+    "afro house",
+    "progressive house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://wl.eventim.us/event/kapo-midline-miami/705177?afflky=Midline",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/kapo-536724"
+   ]
+  },
+  {
    "id": "zeyzey:the-hails-21-nov",
    "source": "venue",
    "title": "The Hails",
@@ -11052,7 +11284,7 @@
   },
   {
    "id": "dice:6a9840d31cfa4500010544f6",
-   "source": "dice+edmtrain",
+   "source": "19hz+dice+edmtrain",
    "title": "RONI SIZE",
    "artists": [
     "Roni Size"
@@ -11064,18 +11296,19 @@
    "end": "2026-11-21T09:00:00+00:00",
    "time_estimated": false,
    "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
-   "ages": "",
-   "price": "",
+   "ages": "18+",
+   "price": "free w/rsvp b4 11pm / $26",
    "genres": [
-    "bass",
-    "dubstep"
+    "drum and bass",
+    "jungle"
    ],
-   "genres_inferred": true,
+   "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6a9840d31cfa4500010544f6",
+   "url": "https://dice.fm/event/bbg6eo-roni-size-20th-nov-kemistry-fort-lauderdale-tickets",
    "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/bbg6eo-roni-size-20th-nov-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/roni-size-534312"
    ]
   },
@@ -11105,31 +11338,6 @@
    "url": "https://posh.vip/e/darude-hype-tour",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/hype-tour-darude-517739"
-   ]
-  },
-  {
-   "id": "edmtrain:536724",
-   "source": "edmtrain",
-   "title": "KAPO",
-   "artists": [
-    "KAPO"
-   ],
-   "venue": "Midline Miami",
-   "venue_slug": "midline",
-   "date": "2026-11-20",
-   "start": "2026-11-21T03:00:00+00:00",
-   "end": "2026-11-21T08:00:00+00:00",
-   "time_estimated": true,
-   "address": "2221 NW Miami Ct, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzA1MTc3Ojc=/clickthru",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/kapo-536724"
    ]
   },
   {
@@ -11235,6 +11443,34 @@
    "generic_title": true
   },
   {
+   "id": "19hz:4449376-klingande",
+   "source": "19hz+edmtrain",
+   "title": "Klingande",
+   "artists": [
+    "Klingande"
+   ],
+   "venue": "Palm Tree Club",
+   "venue_slug": null,
+   "date": "2026-11-21",
+   "start": "2026-11-21T21:00:00+00:00",
+   "end": "2026-11-22T03:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "$20+",
+   "genres": [
+    "house",
+    "tropical house"
+   ],
+   "genres_inferred": false,
+   "organizer": "Palm Tree Club Miami",
+   "description": "",
+   "url": "https://posh.vip/e/klingande-presented-by-palm-tree-club-miami-copy",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/klingande-535916"
+   ]
+  },
+  {
    "id": "shotgun:zeyzey-selects-donny-benet",
    "source": "shotgun+venue",
    "title": "Donny Benét",
@@ -11329,6 +11565,34 @@
    ]
   },
   {
+   "id": "19hz:4449400-fernandoolayajes",
+   "source": "19hz+edmtrain",
+   "title": "Fernando Olaya, Jessy Nimni, Lucas Zarate",
+   "artists": [
+    "Fernando Olaya",
+    "Lucas Zárate"
+   ],
+   "venue": "Do Not Sit On The Furniture",
+   "venue_slug": null,
+   "date": "2026-11-21",
+   "start": "2026-11-22T03:00:00+00:00",
+   "end": "2026-11-22T10:00:00+00:00",
+   "time_estimated": false,
+   "address": "Miami Beach",
+   "ages": "21+",
+   "price": "$24.25",
+   "genres": [
+    "progressive house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6aabf64e76c1150001cda0f0",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/fernando-olaya-lucas-zarate-538078"
+   ]
+  },
+  {
    "id": "dice:6a64b93c7b94a300012b1b10",
    "source": "19hz+dice+edmtrain",
    "title": "STAR MONSTER",
@@ -11360,79 +11624,32 @@
   },
   {
    "id": "shotgun:rafeeki-vs-serious-jorg",
-   "source": "shotgun",
+   "source": "19hz+shotgun",
    "title": "Rafeeki Vs Serious Jorge",
    "artists": [],
    "venue": "Margate",
    "venue_slug": null,
    "date": "2026-11-21",
    "start": "2026-11-22T03:00:00+00:00",
-   "end": null,
+   "end": "2026-11-22T11:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "",
    "price": "$15.00",
    "genres": [
+    "bass music",
     "dub",
+    "dubstep",
+    "edm",
     "experimental",
-    "edm"
+    "glitch-hop"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/rafeeki-vs-serious-jorg"
-  },
-  {
-   "id": "edmtrain:538078",
-   "source": "edmtrain",
-   "title": "Fernando Olaya, Lucas Zárate",
-   "artists": [
-    "Fernando Olaya",
-    "Lucas Zárate"
-   ],
-   "venue": "Do Not Sit On The Furniture",
-   "venue_slug": null,
-   "date": "2026-11-21",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "423 16th St, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "deep house"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/dk72ev?pid=d6342b83",
+   "url": "https://shotgun.live/en/events/rafeeki-vs-serious-jorg",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/fernando-olaya-lucas-zarate-538078"
-   ]
-  },
-  {
-   "id": "edmtrain:535916",
-   "source": "edmtrain",
-   "title": "Klingande",
-   "artists": [
-    "Klingande"
-   ],
-   "venue": "Palm Tree Club Miami",
-   "venue_slug": null,
-   "date": "2026-11-21",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "1819 79th Street Causeway, North Bay Village, FL 33141, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://posh.vip/e/klingande-presented-by-palm-tree-club-miami-copy?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/klingande-535916"
+    "https://shotgun.live/en/events/rafeeki-vs-serious-jorg"
    ]
   },
   {
@@ -11549,33 +11766,58 @@
    ]
   },
   {
-   "id": "edmtrain:535422",
-   "source": "edmtrain",
+   "id": "19hz:4449583-mistergray",
+   "source": "19hz+edmtrain",
    "title": "Mister Gray",
    "artists": [
     "Mister Gray"
    ],
-   "venue": "E11EVEN",
+   "venue": "E11even",
    "venue_slug": null,
    "date": "2026-11-23",
-   "start": null,
-   "end": null,
+   "start": "2026-11-24T01:00:00+00:00",
+   "end": "2026-11-24T06:00:00+00:00",
    "time_estimated": false,
-   "address": "29 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
+   "address": "",
+   "ages": "21+",
+   "price": "free w/rsvp b4 1 / $23-34",
+   "genres": [
+    "house",
+    "pop"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://speakeasygo.com/event/EVE-SMYQ7G?t=edmtrain",
+   "url": "https://speakeasygo.com/event/EVE-SMYQ7G",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/mister-gray-535422"
    ]
   },
   {
+   "id": "19hz:4449772-inna",
+   "source": "19hz",
+   "title": "Inna",
+   "artists": [],
+   "venue": "Midline",
+   "venue_slug": "midline",
+   "date": "2026-11-25",
+   "start": "2026-11-26T00:00:00+00:00",
+   "end": "2026-11-26T04:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "18+",
+   "price": "$102.37",
+   "genres": [
+    "pop edm"
+   ],
+   "genres_inferred": false,
+   "organizer": "BLNK CNVS",
+   "description": "",
+   "url": "https://www.eventbrite.com/e/inna-midline-miami-tickets-1988628020943"
+  },
+  {
    "id": "dice:6a8b4d68fec4480001a68ffe",
-   "source": "dice+edmtrain",
+   "source": "19hz+dice+edmtrain",
    "title": "Helena Hauff",
    "artists": [
     "Helena Hauff"
@@ -11587,18 +11829,19 @@
    "end": "2026-11-26T09:00:00+00:00",
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
-   "ages": "",
+   "ages": "21+",
    "price": "From $7",
    "genres": [
-    "house",
-    "tech house"
+    "electro",
+    "techno"
    ],
-   "genres_inferred": true,
+   "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6a8b4d68fec4480001a68ffe",
+   "url": "https://dice.fm/event/l87pxx-helena-hauff-28th-nov-jolene-sound-room-miami-miami-tickets",
    "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/l87pxx-helena-hauff-28th-nov-jolene-sound-room-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/helena-hauff-537226"
    ]
   },
@@ -11624,8 +11867,37 @@
    "generic_title": true
   },
   {
+   "id": "19hz:4449976-sanderkleinenber",
+   "source": "19hz+edmtrain",
+   "title": "Sander Kleinenberg",
+   "artists": [
+    "Sander Kleinenberg",
+    "Lucas Zárate"
+   ],
+   "venue": "Do Not Sit On The Furniture",
+   "venue_slug": null,
+   "date": "2026-11-27",
+   "start": "2026-11-28T03:00:00+00:00",
+   "end": "2026-11-28T10:00:00+00:00",
+   "time_estimated": false,
+   "address": "Miami Beach",
+   "ages": "21+",
+   "price": "$24.25",
+   "genres": [
+    "house",
+    "progressive house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6aabf7a1a39fdf0001005e00",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/sander-kleinenberg-lucas-zarate-538079"
+   ]
+  },
+  {
    "id": "dice:6aaae809e78bd300017554b1",
-   "source": "dice+edmtrain",
+   "source": "19hz+dice+edmtrain",
    "title": "SPACE 92",
    "artists": [
     "Space 92"
@@ -11637,24 +11909,24 @@
    "end": "2026-11-28T09:00:00+00:00",
    "time_estimated": false,
    "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
-   "ages": "",
+   "ages": "18+",
    "price": "From $20",
    "genres": [
-    "bass",
-    "dubstep"
+    "techno"
    ],
-   "genres_inferred": true,
+   "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6aaae809e78bd300017554b1",
+   "url": "https://dice.fm/event/8e7g5w-space-92-27th-nov-kemistry-fort-lauderdale-tickets",
    "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/8e7g5w-space-92-27th-nov-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/space-92-538122"
    ]
   },
   {
    "id": "dice:6ab17e0bf1fdd8000191620e",
-   "source": "dice+edmtrain",
+   "source": "19hz+dice+edmtrain",
    "title": "Teletech",
    "artists": [],
    "venue": "Club Space Miami",
@@ -11664,47 +11936,19 @@
    "end": "2026-11-28T19:00:00+00:00",
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
+   "ages": "21+",
    "price": "From $20",
    "genres": [
-    "house",
-    "techno"
+    "hard techno"
    ],
-   "genres_inferred": true,
+   "genres_inferred": false,
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6ab17e0bf1fdd8000191620e",
    "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/6ab17e0bf1fdd8000191620e",
     "https://edmtrain.com/miami-fl/teletech-538703"
-   ]
-  },
-  {
-   "id": "edmtrain:538079",
-   "source": "edmtrain",
-   "title": "Sander Kleinenberg, Lucas Zárate",
-   "artists": [
-    "Sander Kleinenberg",
-    "Lucas Zárate"
-   ],
-   "venue": "Do Not Sit On The Furniture",
-   "venue_slug": null,
-   "date": "2026-11-27",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "423 16th St, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "deep house"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/eonmqd?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/sander-kleinenberg-lucas-zarate-538079"
    ]
   },
   {
@@ -11790,6 +12034,33 @@
    "generic_title": true
   },
   {
+   "id": "19hz:4450072-rawmainjessynimn",
+   "source": "19hz+edmtrain",
+   "title": "Raw Main, Jessy Nimni",
+   "artists": [
+    "Raw Main"
+   ],
+   "venue": "Do Not Sit On The Furniture",
+   "venue_slug": null,
+   "date": "2026-11-28",
+   "start": "2026-11-29T03:00:00+00:00",
+   "end": "2026-11-29T10:00:00+00:00",
+   "time_estimated": false,
+   "address": "Miami Beach",
+   "ages": "21+",
+   "price": "$30+",
+   "genres": [
+    "progressive house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/mxy9bl-raw-main-all-day-i-dream-lost-mircale-28th-nov-do-not-sit-on-the-furniture-miami-beach-tickets",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/raw-main-538080"
+   ]
+  },
+  {
    "id": "dice:6a6bc6a9f6f43900015dbfd4",
    "source": "19hz+dice+edmtrain",
    "title": "Ryan Elliot & Danny Daze",
@@ -11807,17 +12078,14 @@
    "ages": "21+",
    "price": "From $10",
    "genres": [
-    "electro",
-    "house",
-    "techno"
+    "house"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/l87pxx-helena-hauff-28th-nov-jolene-sound-room-miami-miami-tickets",
+   "url": "https://dice.fm/event/6do6o7-ryan-elliot-danny-daze-28th-nov-jolene-sound-room-miami-miami-tickets",
    "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/l87pxx-helena-hauff-28th-nov-jolene-sound-room-miami-miami-tickets",
     "https://dice.fm/event/6do6o7-ryan-elliot-danny-daze-28th-nov-jolene-sound-room-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/danny-daze-ryan-elliott-537621"
    ]
@@ -11906,7 +12174,7 @@
   },
   {
    "id": "dice:6a8f2332f7d5af0001278253",
-   "source": "dice+edmtrain",
+   "source": "19hz+dice+edmtrain",
    "title": "Two & Half Cats",
    "artists": [
     "Miguelle & Tons"
@@ -11918,18 +12186,19 @@
    "end": "2026-11-29T19:00:00+00:00",
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
+   "ages": "21+",
    "price": "From $30",
    "genres": [
     "house",
-    "techno"
+    "tech house"
    ],
-   "genres_inferred": true,
+   "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6a8f2332f7d5af0001278253",
+   "url": "https://dice.fm/event/py3ylk",
    "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/py3ylk",
     "https://edmtrain.com/miami-fl/miguelle-and-tons-532615"
    ]
   },
@@ -11963,33 +12232,6 @@
    "alt_urls": [
     "https://dice.fm/event/53kwqd-bag-raiders-28th-nov-floyd-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/bag-raiders-katie-ox-532664"
-   ]
-  },
-  {
-   "id": "edmtrain:538080",
-   "source": "edmtrain",
-   "title": "Raw Main",
-   "artists": [
-    "Raw Main"
-   ],
-   "venue": "Do Not Sit On The Furniture",
-   "venue_slug": null,
-   "date": "2026-11-28",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "423 16th St, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "deep house"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/mxy9bl?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/raw-main-538080"
    ]
   },
   {
@@ -12082,26 +12324,29 @@
    "generic_title": true
   },
   {
-   "id": "edmtrain:533948",
-   "source": "edmtrain",
+   "id": "19hz:4450159-yissel",
+   "source": "19hz+edmtrain",
    "title": "Yissel",
    "artists": [
     "Yissel"
    ],
-   "venue": "E11EVEN",
+   "venue": "E11even",
    "venue_slug": null,
    "date": "2026-11-29",
-   "start": null,
-   "end": null,
+   "start": "2026-11-30T01:00:00+00:00",
+   "end": "2026-11-30T06:00:00+00:00",
    "time_estimated": false,
-   "address": "29 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
+   "address": "",
+   "ages": "21+",
+   "price": "free w/rsvp b4 1 / $23-34",
+   "genres": [
+    "hip-hop",
+    "house"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://speakeasygo.com/event/EVE-29ZST3?t=edmtrain",
+   "url": "https://speakeasygo.com/event/EVE-29ZST3",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/yissel-533948"
    ]
@@ -12282,6 +12527,42 @@
    "cancelled": false
   },
   {
+   "id": "19hz:4450447-unkommonartweek4",
+   "source": "19hz+edmtrain",
+   "title": "unKommon Art Week 4 Day Pass",
+   "artists": [
+    "Bedouin",
+    "WhoMadeWho",
+    "Nandu",
+    "Francis Mercier",
+    "Guy Gerber",
+    "Monolink",
+    "Monobase",
+    "Riche"
+   ],
+   "venue": "Little River Studios",
+   "venue_slug": null,
+   "date": "2026-12-02",
+   "start": "2026-12-03T01:00:00+00:00",
+   "end": "2026-12-03T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "$257.31",
+   "genres": [
+    "deep house",
+    "progressive house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/g53ag6-unkommon-art-week-2026-4-day-pass-2nd-dec-little-river-studios-miami-tickets",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/unkommon-art-week-bedouin-533698"
+   ]
+  },
+  {
    "id": "dice:6ab443f8697fd600018d79bd",
    "source": "dice+edmtrain",
    "title": "Basel: Benny Benassi (Italo Disco Set)",
@@ -12386,38 +12667,6 @@
    "url": "https://dice.fm/event/l8moop?pid=d6342b83",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/deron-536847"
-   ]
-  },
-  {
-   "id": "edmtrain:533698",
-   "source": "edmtrain",
-   "title": "unKommon Art Week: Bedouin, WhoMadeWho, Nandu, Francis Mercier, Guy Gerber, Monolink, Monobase, Riche",
-   "artists": [
-    "Bedouin",
-    "WhoMadeWho",
-    "Nandu",
-    "Francis Mercier",
-    "Guy Gerber",
-    "Monolink",
-    "Monobase",
-    "Riche"
-   ],
-   "venue": "Little River Studios",
-   "venue_slug": null,
-   "date": "2026-12-02",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "300 NE 71st St, Miami, FL 33138, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/g53ag6?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/unkommon-art-week-bedouin-533698"
    ]
   },
   {
@@ -12978,31 +13227,6 @@
    "generic_title": true
   },
   {
-   "id": "edmtrain:534466",
-   "source": "edmtrain",
-   "title": "III Points Basel - Michael Bibi's One Life: Michael Bibi",
-   "artists": [
-    "Michael Bibi"
-   ],
-   "venue": "Hialeah Park Casino Racetrack",
-   "venue_slug": "festivals",
-   "date": "2026-12-05",
-   "start": "2026-12-05T20:00:00+00:00",
-   "end": "2026-12-06T07:00:00+00:00",
-   "time_estimated": true,
-   "address": "2200 E 4th Ave, Hialeah, FL 33013, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://link.dice.fm/e03c76e15273?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/iii-points-basel-michael-bibis-one-life-michael-bibi-534466"
-   ]
-  },
-  {
    "id": "edmtrain:463361",
    "source": "edmtrain",
    "title": "Cyclops Cove",
@@ -13023,6 +13247,33 @@
    "url": "https://laylo.com/subtronics/cyclopscove4?utm_source=2d65QY9eqctgGASihmBqtZRSA&utm_medium=rsvpCard&utm_campaign=null&utm_id=dropLikeThis",
    "alt_urls": [
     "https://edmtrain.com/fort-lauderdale-fl/cyclops-cove-463361"
+   ]
+  },
+  {
+   "id": "19hz:4450723-michaelbibi",
+   "source": "19hz+edmtrain",
+   "title": "Michael Bibi",
+   "artists": [
+    "Michael Bibi"
+   ],
+   "venue": "Hialeah Park Casino",
+   "venue_slug": "festivals",
+   "date": "2026-12-05",
+   "start": "2026-12-05T22:00:00+00:00",
+   "end": "2026-12-06T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "$64.99",
+   "genres": [
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/v3lvwd-iii-points-basel-michael-bibis-one-life-5th-dec-hialeah-park-casino-hialeah-tickets",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/iii-points-basel-michael-bibis-one-life-michael-bibi-534466"
    ]
   },
   {
@@ -13126,7 +13377,7 @@
   },
   {
    "id": "dice:6aa06694dcd56d0001733719",
-   "source": "dice+edmtrain",
+   "source": "19hz+dice+edmtrain",
    "title": "Obskür Presents: The System (Floyd Basel 2026)",
    "artists": [
     "Obskür"
@@ -13138,18 +13389,18 @@
    "end": "2026-12-06T10:00:00+00:00",
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
+   "ages": "21+",
    "price": "From $25",
    "genres": [
-    "house",
-    "techno"
+    "tech house"
    ],
-   "genres_inferred": true,
+   "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6aa06694dcd56d0001733719",
+   "url": "https://dice.fm/event/l8ml6p-obskr-presents-the-system-floyd-basel-2026-5th-dec-floyd-miami-miami-tickets",
    "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/l8ml6p-obskr-presents-the-system-floyd-basel-2026-5th-dec-floyd-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/obskur-535431"
    ]
   },
@@ -13434,6 +13685,35 @@
    "generic_title": true
   },
   {
+   "id": "19hz:4451392-frankwalker",
+   "source": "19hz+edmtrain",
+   "title": "Frank Walker",
+   "artists": [
+    "Frank Walker"
+   ],
+   "venue": "Palm Tree Club",
+   "venue_slug": null,
+   "date": "2026-12-12",
+   "start": "2026-12-12T21:00:00+00:00",
+   "end": "2026-12-13T03:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "$20+",
+   "genres": [
+    "future bass",
+    "pop edm",
+    "trap"
+   ],
+   "genres_inferred": false,
+   "organizer": "Palm Tree Club Miami",
+   "description": "",
+   "url": "https://posh.vip/e/frank-walker-presented-by-palm-tree-club-miami-copy",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/frank-walker-535917"
+   ]
+  },
+  {
    "id": "shotgun:buko-boys-floating-around-tour-at-lincoln-s-beard-miami-fl",
    "source": "shotgun",
    "title": "Buko Boys Floating Around Tour At Lincoln's Beard Miami, Fl",
@@ -13552,53 +13832,31 @@
    "cancelled": false
   },
   {
-   "id": "edmtrain:537637",
-   "source": "edmtrain",
+   "id": "19hz:4451422-sonnyfodera",
+   "source": "19hz+edmtrain",
    "title": "Sonny Fodera",
    "artists": [
     "Sonny Fodera"
    ],
-   "venue": "LIV Miami",
+   "venue": "Liv Miami",
    "venue_slug": null,
    "date": "2026-12-12",
-   "start": null,
-   "end": null,
+   "start": "2026-12-13T04:30:00+00:00",
+   "end": "2026-12-13T09:30:00+00:00",
    "time_estimated": false,
-   "address": "4441 Collins Ave, Miami Beach, FL 33140, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
+   "address": "Miami Beach",
+   "ages": "21+",
+   "price": "$62+",
+   "genres": [
+    "deep house",
+    "tech house"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://ticketmaster.evyy.net/c/254533/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fid%2F14322674",
+   "url": "https://www.ticketweb.com/event/id/14322674",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/sonny-fodera-537637"
-   ]
-  },
-  {
-   "id": "edmtrain:535917",
-   "source": "edmtrain",
-   "title": "Frank Walker",
-   "artists": [
-    "Frank Walker"
-   ],
-   "venue": "Palm Tree Club Miami",
-   "venue_slug": null,
-   "date": "2026-12-12",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "1819 79th Street Causeway, North Bay Village, FL 33141, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://posh.vip/e/frank-walker-presented-by-palm-tree-club-miami-copy?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/frank-walker-535917"
    ]
   },
   {
@@ -13724,26 +13982,28 @@
    ]
   },
   {
-   "id": "edmtrain:535570",
-   "source": "edmtrain",
-   "title": "KLOUD",
+   "id": "19hz:4451992-kloud",
+   "source": "19hz+edmtrain",
+   "title": "Kloud",
    "artists": [
     "KLOUD"
    ],
    "venue": "Studio 60",
    "venue_slug": null,
    "date": "2026-12-18",
-   "start": null,
-   "end": null,
+   "start": "2026-12-19T03:00:00+00:00",
+   "end": "2026-12-19T12:00:00+00:00",
    "time_estimated": false,
-   "address": "2300 NW 36th St, Miami, FL 33142, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
+   "address": "",
+   "ages": "21+",
+   "price": "$16.99",
+   "genres": [
+    "hard techno"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/bbgwwg?pid=d6342b83",
+   "url": "https://dice.fm/event/bbgwwg-kloud-18th-dec-studio-60-miami-miami-tickets",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/kloud-535570"
    ]

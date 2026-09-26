@@ -89,38 +89,52 @@ STATUS:CONFIRMED
 CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-535253@midline.miami-calendars
-DTSTAMP:20260922T005009Z
-LAST-MODIFIED:20260922T005009Z
-SEQUENCE:1
+UID:19hz-4448728-krewella@midline.miami-calendars
+DTSTAMP:20260926T221817Z
+LAST-MODIFIED:20260926T221817Z
+SEQUENCE:0
 DTSTART:20261115T030000Z
 DTEND:20261115T080000Z
 SUMMARY:Krewella
-LOCATION:Midline Miami\, 2221 NW Miami Ct\, Miami\, FL 33127\, USA
-DESCRIPTION:Lineup: Krewella\nTimes are an estimate from Midline's usual ho
- urs - the listing has no start time yet. Check the link.\nhttps://prod-nts
- -api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzA0NTUxOjc=/clickthru\nh
- ttps://edmtrain.com/miami-fl/krewella-535253
-URL:https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzA0NT
- UxOjc=/clickthru
+LOCATION:Midline
+DESCRIPTION:Lineup: Krewella\nTags: big room\, electro house\, trap\nAges: 
+ 18+\nhttps://wl.eventim.us/event/krewella-midline-miami/704551?afflky=Midl
+ ine\nhttps://edmtrain.com/miami-fl/krewella-535253
+URL:https://wl.eventim.us/event/krewella-midline-miami/704551?afflky=Midlin
+ e
 STATUS:CONFIRMED
+CATEGORIES:big room,electro house,trap
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-536724@midline.miami-calendars
-DTSTAMP:20260922T005009Z
-LAST-MODIFIED:20260922T005009Z
-SEQUENCE:1
-DTSTART:20261121T030000Z
-DTEND:20261121T080000Z
-SUMMARY:KAPO
-LOCATION:Midline Miami\, 2221 NW Miami Ct\, Miami\, FL 33127\, USA
-DESCRIPTION:Lineup: KAPO\nTimes are an estimate from Midline's usual hours 
- - the listing has no start time yet. Check the link.\nhttps://prod-nts-api
- .seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzA1MTc3Ojc=/clickthru\nhttps
- ://edmtrain.com/miami-fl/kapo-536724
-URL:https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzA1MT
- c3Ojc=/clickthru
+UID:19hz-4449295-kapo@midline.miami-calendars
+DTSTAMP:20260926T221817Z
+LAST-MODIFIED:20260926T221817Z
+SEQUENCE:0
+DTSTART:20261121T010000Z
+DTEND:20261121T040000Z
+SUMMARY:Kapo
+LOCATION:Midline
+DESCRIPTION:Lineup: KAPO\nTags: afro house\, progressive house\nAges: 21+\n
+ https://wl.eventim.us/event/kapo-midline-miami/705177?afflky=Midline\nhttp
+ s://edmtrain.com/miami-fl/kapo-536724
+URL:https://wl.eventim.us/event/kapo-midline-miami/705177?afflky=Midline
 STATUS:CONFIRMED
+CATEGORIES:afro house,progressive house
+END:VEVENT
+BEGIN:VEVENT
+UID:19hz-4449772-inna@midline.miami-calendars
+DTSTAMP:20260926T221817Z
+LAST-MODIFIED:20260926T221817Z
+SEQUENCE:0
+DTSTART:20261126T000000Z
+DTEND:20261126T040000Z
+SUMMARY:Inna
+LOCATION:Midline
+DESCRIPTION:Tags: pop edm\nPresented by: BLNK CNVS\nAges: 18+\nhttps://www.
+ eventbrite.com/e/inna-midline-miami-tickets-1988628020943
+URL:https://www.eventbrite.com/e/inna-midline-miami-tickets-1988628020943
+STATUS:CONFIRMED
+CATEGORIES:pop edm
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4450072-wonkywilla@midline.miami-calendars

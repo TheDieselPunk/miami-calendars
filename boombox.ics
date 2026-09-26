@@ -158,6 +158,20 @@ CATEGORIES:hardcore,metalcore
 GEO:25.7287781;-80.3169309
 END:VEVENT
 BEGIN:VEVENT
+UID:19hz-4445940-ravefurrestmiami@boombox.miami-calendars
+DTSTAMP:20260926T221817Z
+LAST-MODIFIED:20260926T221817Z
+SEQUENCE:0
+DTSTART:20261017T010000Z
+DTEND:20261017T070000Z
+SUMMARY:Ravefurrest Miami: passengerprincess\, Sixwing\, Gaterror\, Demifie
+ nd\, kittenhouse\, Dateline
+LOCATION:The Boombox
+DESCRIPTION:Ages: 18+\nhttps://ra.co/events/2539489
+URL:https://ra.co/events/2539489
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:rocky-horror-picture-show@shotgun.live
 DTSTAMP:20260925T221819Z
 LAST-MODIFIED:20260925T221819Z

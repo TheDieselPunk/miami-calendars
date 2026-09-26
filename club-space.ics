@@ -40,21 +40,6 @@ STATUS:CONFIRMED
 CATEGORIES:club music,garage,house,techno
 END:VEVENT
 BEGIN:VEVENT
-UID:dice-6ab54080f14ac000013b87a3@club-space.miami-calendars
-DTSTAMP:20260924T161816Z
-LAST-MODIFIED:20260924T161816Z
-SEQUENCE:0
-DTSTART:20260926T202000Z
-DTEND:20260926T214500Z
-SUMMARY:Space Yoga
-LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6ab54080f14
- ac000013b87a3
-URL:https://dice.fm/event/6ab54080f14ac000013b87a3
-STATUS:CONFIRMED
-CATEGORIES:house,techno
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6a622b00a98bab0001e8e46c@club-space.miami-calendars
 DTSTAMP:20260922T004154Z
 LAST-MODIFIED:20260922T004154Z
@@ -303,19 +288,19 @@ CATEGORIES:deep house,tech house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aac10c51773540001e4c41f@club-space.miami-calendars
-DTSTAMP:20260923T161804Z
-LAST-MODIFIED:20260923T161804Z
-SEQUENCE:2
+DTSTAMP:20260926T221817Z
+LAST-MODIFIED:20260926T221817Z
+SEQUENCE:3
 DTSTART:20261115T040000Z
 DTEND:20261115T190000Z
 SUMMARY:Carl Cox + Carlita
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Carl Cox\, Carlita\, Ms. Mada\, Sister System\nTags (gu
- ess): house\, techno\nhttps://dice.fm/event/6aac10c51773540001e4c41f\nhttp
- s://edmtrain.com/miami-fl/carl-cox-carlita-537844
+DESCRIPTION:Lineup: Carl Cox\, Carlita\, Ms. Mada\, Sister System\nTags: te
+ ch house\, techno\nAges: 21+\nhttps://dice.fm/event/6aac10c51773540001e4c4
+ 1f\nhttps://edmtrain.com/miami-fl/carl-cox-carlita-537844
 URL:https://dice.fm/event/6aac10c51773540001e4c41f
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:tech house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab54b4737b4c00001654ff2@club-space.miami-calendars
@@ -335,34 +320,34 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab17e0bf1fdd8000191620e@club-space.miami-calendars
-DTSTAMP:20260922T041759Z
-LAST-MODIFIED:20260922T041759Z
-SEQUENCE:2
+DTSTAMP:20260926T221817Z
+LAST-MODIFIED:20260926T221817Z
+SEQUENCE:3
 DTSTART:20261128T040000Z
 DTEND:20261128T190000Z
 SUMMARY:Teletech
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6ab17e0bf1f
+DESCRIPTION:Tags: hard techno\nAges: 21+\nhttps://dice.fm/event/6ab17e0bf1f
  dd8000191620e\nhttps://edmtrain.com/miami-fl/teletech-538703
 URL:https://dice.fm/event/6ab17e0bf1fdd8000191620e
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:hard techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a8f2332f7d5af0001278253@club-space.miami-calendars
-DTSTAMP:20260922T004038Z
-LAST-MODIFIED:20260922T004038Z
-SEQUENCE:1
+DTSTAMP:20260926T221817Z
+LAST-MODIFIED:20260926T221817Z
+SEQUENCE:2
 DTSTART:20261129T040000Z
 DTEND:20261129T190000Z
 SUMMARY:Two & Half Cats
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Miguelle & Tons\nTags (guess): house\, techno\nhttps://
- dice.fm/event/6a8f2332f7d5af0001278253\nhttps://edmtrain.com/miami-fl/migu
- elle-and-tons-532615
-URL:https://dice.fm/event/6a8f2332f7d5af0001278253
+DESCRIPTION:Lineup: Miguelle & Tons\nTags: house\, tech house\nAges: 21+\nh
+ ttps://dice.fm/event/py3ylk\nhttps://edmtrain.com/miami-fl/miguelle-and-to
+ ns-532615
+URL:https://dice.fm/event/py3ylk
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a99cb73538ad500019a2ce3@club-space.miami-calendars

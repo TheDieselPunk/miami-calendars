@@ -332,17 +332,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:hardrock-204541@daer.miami-calendars
-DTSTAMP:20260921T200554Z
-LAST-MODIFIED:20260921T200554Z
-SEQUENCE:0
+DTSTAMP:20260926T221817Z
+LAST-MODIFIED:20260926T221817Z
+SEQUENCE:1
 DTSTART:20261031T020000Z
 DTEND:20261031T080000Z
 SUMMARY:DJ Pauly D - Halloween Weekend
 LOCATION:DAER Nightclub\, 1 Seminole Way\, Hollywood\, FL 33314
-DESCRIPTION:Lineup: DJ Pauly D\nhttps://tixr.com/e/204541\nhttps://edmtrain
- .com/fort-lauderdale-fl/dj-pauly-d-538589
+DESCRIPTION:Lineup: DJ Pauly D\nTags: pop edm\nAges: 21+\nhttps://tixr.com/
+ e/204541\nhttps://edmtrain.com/fort-lauderdale-fl/dj-pauly-d-538589\nhttps
+ ://www.tixr.com/groups/daernightclubsouthflorida/events/dj-pauly-d-hallowe
+ en-weekend-daer-nightclub-204541
 URL:https://tixr.com/e/204541
 STATUS:CONFIRMED
+CATEGORIES:pop edm
 END:VEVENT
 BEGIN:VEVENT
 UID:hardrock-204543@daer.miami-calendars

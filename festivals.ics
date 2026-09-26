@@ -91,9 +91,9 @@ CATEGORIES:country,pop edm
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101026@shotgun.live
-DTSTAMP:20260926T161813Z
-LAST-MODIFIED:20260926T161813Z
-SEQUENCE:13
+DTSTAMP:20260926T221817Z
+LAST-MODIFIED:20260926T221817Z
+SEQUENCE:15
 DTSTART:20261011T010000Z
 DTEND:20261011T070000Z
 SUMMARY:III Points Satelitte: Tian / Israel Sunshine / Pino / Puma
@@ -246,21 +246,38 @@ STATUS:CONFIRMED
 CATEGORIES:techno
 END:VEVENT
 BEGIN:VEVENT
+UID:karnival-halloween-party-horror-games-18-rave@shotgun.live
+DTSTAMP:20260926T221817Z
+LAST-MODIFIED:20260926T221817Z
+SEQUENCE:0
+DTSTART:20261024T220000Z
+DTEND:20261025T030000Z
+SUMMARY:Karnival: Halloween Cosplay Party & Horror Gaming
+LOCATION:Miami
+DESCRIPTION:Tags: dance\, techno\, house\nhttps://shotgun.live/en/events/ka
+ rnival-halloween-party-horror-games-18-rave
+URL:https://shotgun.live/en/events/karnival-halloween-party-horror-games-18
+ -rave
+STATUS:CONFIRMED
+CATEGORIES:dance,techno,house
+END:VEVENT
+BEGIN:VEVENT
 UID:sammy-jackie-clarke-dj-set-with-special-guest-valery-karbia@shotgun.liv
  e
-DTSTAMP:20260921T214009Z
-LAST-MODIFIED:20260921T214009Z
-SEQUENCE:0
+DTSTAMP:20260926T221817Z
+LAST-MODIFIED:20260926T221817Z
+SEQUENCE:1
 DTSTART:20261025T010000Z
-DTEND:20261025T060000Z
+DTEND:20261025T050000Z
 SUMMARY:Sammy Jackie-Clarke Dj Set With Special Guest Valery Karbia
 LOCATION:Miami
-DESCRIPTION:Tags: electro house\, hardstyle\, electronica\nhttps://shotgun.
- live/en/events/sammy-jackie-clarke-dj-set-with-special-guest-valery-karbia
+DESCRIPTION:Tags: electro house\, electronica\, hardstyle\, house\nhttps://
+ shotgun.live/en/events/sammy-jackie-clarke-dj-set-with-special-guest-valer
+ y-karbia
 URL:https://shotgun.live/en/events/sammy-jackie-clarke-dj-set-with-special-
  guest-valery-karbia
 STATUS:CONFIRMED
-CATEGORIES:electro house,hardstyle,electronica
+CATEGORIES:electro house,electronica,hardstyle,house
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4447279-hallorave@festivals.miami-calendars
@@ -367,23 +384,6 @@ STATUS:CONFIRMED
 CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-534466@festivals.miami-calendars
-DTSTAMP:20260922T005009Z
-LAST-MODIFIED:20260922T005009Z
-SEQUENCE:2
-DTSTART:20261205T200000Z
-DTEND:20261206T070000Z
-SUMMARY:III Points Basel - Michael Bibi's One Life: Michael Bibi
-LOCATION:Hialeah Park Casino Racetrack\, 2200 E 4th Ave\, Hialeah\, FL 3301
- 3\, USA
-DESCRIPTION:Lineup: Michael Bibi\nTimes are an estimate from Festivals & on
- e-offs's usual hours - the listing has no start time yet. Check the link.
- \nhttps://link.dice.fm/e03c76e15273?pid=d6342b83\nhttps://edmtrain.com/mia
- mi-fl/iii-points-basel-michael-bibis-one-life-michael-bibi-534466
-URL:https://link.dice.fm/e03c76e15273?pid=d6342b83
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:edmtrain-463361@festivals.miami-calendars
 DTSTAMP:20260922T005009Z
 LAST-MODIFIED:20260922T005009Z
@@ -401,6 +401,24 @@ DESCRIPTION:Times are an estimate from Festivals & one-offs's usual hours -
 URL:https://laylo.com/subtronics/cyclopscove4?utm_source=2d65QY9eqctgGASihm
  BqtZRSA&utm_medium=rsvpCard&utm_campaign=null&utm_id=dropLikeThis
 STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:19hz-4450723-michaelbibi@festivals.miami-calendars
+DTSTAMP:20260926T221817Z
+LAST-MODIFIED:20260926T221817Z
+SEQUENCE:0
+DTSTART:20261205T220000Z
+DTEND:20261206T060000Z
+SUMMARY:Michael Bibi
+LOCATION:Hialeah Park Casino
+DESCRIPTION:Lineup: Michael Bibi\nTags: tech house\nAges: 21+\nhttps://dice
+ .fm/event/v3lvwd-iii-points-basel-michael-bibis-one-life-5th-dec-hialeah-p
+ ark-casino-hialeah-tickets\nhttps://edmtrain.com/miami-fl/iii-points-basel
+ -michael-bibis-one-life-michael-bibi-534466
+URL:https://dice.fm/event/v3lvwd-iii-points-basel-michael-bibis-one-life-5t
+ h-dec-hialeah-park-casino-hialeah-tickets
+STATUS:CONFIRMED
+CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aa82e05fcb1030001a9cd65@festivals.miami-calendars

@@ -145,18 +145,18 @@ CATEGORIES:progressive house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a907094edf55c0001de62e9@floyd.miami-calendars
-DTSTAMP:20260922T004038Z
-LAST-MODIFIED:20260922T004038Z
-SEQUENCE:1
+DTSTAMP:20260926T221817Z
+LAST-MODIFIED:20260926T221817Z
+SEQUENCE:2
 DTSTART:20261012T030000Z
 DTEND:20261012T090000Z
 SUMMARY:Nacho Scoppa + Isabella Roldán
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6a907094edf
- 55c0001de62e9
+DESCRIPTION:Tags: tech house\nAges: 21+\nhttps://dice.fm/event/6a907094edf5
+ 5c0001de62e9\nhttps://link.dice.fm/nachoscoppafloyd
 URL:https://dice.fm/event/6a907094edf55c0001de62e9
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a8362e91d183400011845d0@floyd.miami-calendars
@@ -266,18 +266,18 @@ CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a9072b7977d0a0001bea010@floyd.miami-calendars
-DTSTAMP:20260922T004038Z
-LAST-MODIFIED:20260922T004038Z
-SEQUENCE:1
+DTSTAMP:20260926T221817Z
+LAST-MODIFIED:20260926T221817Z
+SEQUENCE:2
 DTSTART:20261026T030000Z
 DTEND:20261026T090000Z
 SUMMARY:Frank Storm + Blaise Bracic
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6a9072b7977
- d0a0001bea010
+DESCRIPTION:Tags: deep house\, tech house\nAges: 21+\nhttps://dice.fm/event
+ /6a9072b7977d0a0001bea010\nhttps://link.dice.fm/frankblaisefloyd
 URL:https://dice.fm/event/6a9072b7977d0a0001bea010
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:deep house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a90734702c6070001b79a91@floyd.miami-calendars
@@ -378,19 +378,20 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aa06694dcd56d0001733719@floyd.miami-calendars
-DTSTAMP:20260922T004038Z
-LAST-MODIFIED:20260922T004038Z
-SEQUENCE:1
+DTSTAMP:20260926T221817Z
+LAST-MODIFIED:20260926T221817Z
+SEQUENCE:2
 DTSTART:20261206T040000Z
 DTEND:20261206T100000Z
 SUMMARY:Obskür Presents: The System (Floyd Basel 2026)
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Obskür\nTags (guess): house\, techno\nhttps://dice.fm/
- event/6aa06694dcd56d0001733719\nhttps://edmtrain.com/miami-fl/obskur-53543
- 1
-URL:https://dice.fm/event/6aa06694dcd56d0001733719
+DESCRIPTION:Lineup: Obskür\nTags: tech house\nAges: 21+\nhttps://dice.fm/e
+ vent/l8ml6p-obskr-presents-the-system-floyd-basel-2026-5th-dec-floyd-miami
+ -miami-tickets\nhttps://edmtrain.com/miami-fl/obskur-535431
+URL:https://dice.fm/event/l8ml6p-obskr-presents-the-system-floyd-basel-2026
+ -5th-dec-floyd-miami-miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aa064da79036d0001631490@floyd.miami-calendars

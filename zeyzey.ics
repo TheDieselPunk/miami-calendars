@@ -762,20 +762,21 @@ END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-christian-loffler-live-fall-2026-tour-13-nov@zeyzey.miami-calend
  ars
-DTSTAMP:20260921T200140Z
-LAST-MODIFIED:20260921T200140Z
-SEQUENCE:0
+DTSTAMP:20260926T221817Z
+LAST-MODIFIED:20260926T221817Z
+SEQUENCE:1
 DTSTART:20261114T020000Z
 DTEND:20261114T080000Z
 SUMMARY:Christian Löffler LIVE – Fall 2026 Tour
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: Christian Löffler\nTags: dance/electronic\nhttps://cal
- endar.zeyzeymiami.com/shows/christian-loffler-live-fall-2026-tour-13-nov\n
- https://edmtrain.com/miami-fl/christian-loffler-538533
+DESCRIPTION:Lineup: Christian Löffler\nTags: deep house\, progressive hous
+ e\nAges: 18+\nhttps://calendar.zeyzeymiami.com/shows/christian-loffler-liv
+ e-fall-2026-tour-13-nov\nhttps://edmtrain.com/miami-fl/christian-loffler-5
+ 38533
 URL:https://calendar.zeyzeymiami.com/shows/christian-loffler-live-fall-2026
  -tour-13-nov
 STATUS:CONFIRMED
-CATEGORIES:dance/electronic
+CATEGORIES:deep house,progressive house
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-tul8te-world-tour-14-nov@zeyzey.miami-calendars

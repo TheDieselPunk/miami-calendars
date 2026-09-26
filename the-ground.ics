@@ -193,19 +193,21 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aac2b58ba4e800001745f0c@the-ground.miami-calendars
-DTSTAMP:20260922T004038Z
-LAST-MODIFIED:20260922T004038Z
-SEQUENCE:1
+DTSTAMP:20260926T221817Z
+LAST-MODIFIED:20260926T221817Z
+SEQUENCE:2
 DTSTART:20261107T040000Z
 DTEND:20261107T120000Z
 SUMMARY:Paige Tomlinson + Lammer + Stüm
 LOCATION:The Ground Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Paige Tomlinson\, LAMMER\, Stüm\nTags (guess): house\,
-  techno\nhttps://dice.fm/event/6aac2b58ba4e800001745f0c\nhttps://edmtrain.
- com/miami-fl/paige-tomlinson-lammer-538328
-URL:https://dice.fm/event/6aac2b58ba4e800001745f0c
+DESCRIPTION:Lineup: Paige Tomlinson\, LAMMER\, Stüm\nTags: breaks\, euroda
+ nce\, house\, trance\nAges: 21+\nhttps://dice.fm/event/g58ax5-paige-tomlin
+ son-lammer-stm-6th-nov-the-ground-miami-miami-tickets\nhttps://edmtrain.co
+ m/miami-fl/paige-tomlinson-lammer-538328
+URL:https://dice.fm/event/g58ax5-paige-tomlinson-lammer-stm-6th-nov-the-gro
+ und-miami-miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:breaks,eurodance,house,trance
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a9050c13e2dcd00013c2e7e@the-ground.miami-calendars
@@ -227,19 +229,20 @@ CATEGORIES:bassline,drum and bass,uk garage
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a88676d138c56000110cb09@the-ground.miami-calendars
-DTSTAMP:20260922T004038Z
-LAST-MODIFIED:20260922T004038Z
-SEQUENCE:1
+DTSTAMP:20260926T221817Z
+LAST-MODIFIED:20260926T221817Z
+SEQUENCE:2
 DTSTART:20261115T040000Z
 DTEND:20261115T120000Z
 SUMMARY:suero x STAS: EQ
 LOCATION:The Ground Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: EQ\nTags (guess): house\, techno\nhttps://dice.fm/event
- /6a88676d138c56000110cb09\nhttps://edmtrain.com/miami-fl/suero-x-stas-eq-5
- 31184
-URL:https://dice.fm/event/6a88676d138c56000110cb09
+DESCRIPTION:Lineup: EQ\nTags: baile funk\, house\, latin club\nAges: 18+\nh
+ ttps://dice.fm/event/eo6976-suero-x-stas-eq-14th-nov-the-ground-miami-miam
+ i-tickets\nhttps://edmtrain.com/miami-fl/suero-x-stas-eq-531184
+URL:https://dice.fm/event/eo6976-suero-x-stas-eq-14th-nov-the-ground-miami-
+ miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:baile funk,house,latin club
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a079483f03f2d0001135fb0@the-ground.miami-calendars

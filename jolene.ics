@@ -288,39 +288,40 @@ CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a8b4d68fec4480001a68ffe@jolene.miami-calendars
-DTSTAMP:20260922T004038Z
-LAST-MODIFIED:20260922T004038Z
-SEQUENCE:1
+DTSTAMP:20260926T221817Z
+LAST-MODIFIED:20260926T221817Z
+SEQUENCE:2
 DTSTART:20261126T030000Z
 DTEND:20261126T090000Z
 SUMMARY:Helena Hauff
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Lineup: Helena Hauff\nTags (guess): house\, tech house\nhttps:/
- /dice.fm/event/6a8b4d68fec4480001a68ffe\nhttps://edmtrain.com/miami-fl/hel
- ena-hauff-537226
-URL:https://dice.fm/event/6a8b4d68fec4480001a68ffe
+DESCRIPTION:Lineup: Helena Hauff\nTags: electro\, techno\nAges: 21+\nhttps:
+ //dice.fm/event/l87pxx-helena-hauff-28th-nov-jolene-sound-room-miami-miami
+ -tickets\nhttps://edmtrain.com/miami-fl/helena-hauff-537226
+URL:https://dice.fm/event/l87pxx-helena-hauff-28th-nov-jolene-sound-room-mi
+ ami-miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:house,tech house
+CATEGORIES:electro,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a6bc6a9f6f43900015dbfd4@jolene.miami-calendars
-DTSTAMP:20260922T004154Z
-LAST-MODIFIED:20260922T004154Z
-SEQUENCE:2
+DTSTAMP:20260926T221817Z
+LAST-MODIFIED:20260926T221817Z
+SEQUENCE:3
 DTSTART:20261129T030000Z
 DTEND:20261129T090000Z
 SUMMARY:Ryan Elliot & Danny Daze
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Lineup: Danny Daze\, Ryan Elliott\nTags: electro\, house\, tech
- no\nAges: 21+\nhttps://dice.fm/event/l87pxx-helena-hauff-28th-nov-jolene-s
- ound-room-miami-miami-tickets\nhttps://edmtrain.com/miami-fl/danny-daze-ry
- an-elliott-537621
-URL:https://dice.fm/event/l87pxx-helena-hauff-28th-nov-jolene-sound-room-mi
- ami-miami-tickets
+DESCRIPTION:Lineup: Danny Daze\, Ryan Elliott\nTags: house\nAges: 21+\nhttp
+ s://dice.fm/event/6do6o7-ryan-elliot-danny-daze-28th-nov-jolene-sound-room
+ -miami-miami-tickets\nhttps://edmtrain.com/miami-fl/danny-daze-ryan-elliot
+ t-537621
+URL:https://dice.fm/event/6do6o7-ryan-elliot-danny-daze-28th-nov-jolene-sou
+ nd-room-miami-miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:electro,house,techno
+CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab44b4b28d5d90001e98039@jolene.miami-calendars
