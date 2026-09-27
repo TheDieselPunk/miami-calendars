@@ -557,8 +557,8 @@
    "url": "https://www.universe.com/events/XF5VW9"
   },
   {
-   "id": "shotgun:aurora-two",
-   "source": "19hz+edmtrain+shotgun",
+   "id": "19hz:4444080-auroratwo",
+   "source": "19hz+edmtrain",
    "title": "Aurora Two",
    "artists": [],
    "venue": "Baoshi Food Hall + Bar",
@@ -567,9 +567,9 @@
    "start": "2026-09-27T16:00:00+00:00",
    "end": "2026-09-27T21:00:00+00:00",
    "time_estimated": false,
-   "address": "",
+   "address": "Pembroke Pines",
    "ages": "All ages",
-   "price": "Free",
+   "price": "free",
    "genres": [
     "afro house",
     "deep house",
@@ -580,7 +580,6 @@
    "description": "",
    "url": "https://shotgun.live/en/events/aurora-two",
    "alt_urls": [
-    "https://shotgun.live/en/events/aurora-two",
     "https://edmtrain.com/fort-lauderdale-fl/aurora-two-538042"
    ]
   },
@@ -1027,6 +1026,32 @@
    ]
   },
   {
+   "id": "edmtrain:540389",
+   "source": "edmtrain",
+   "title": "Rodrigo Vieira b2b Dmeyer",
+   "artists": [
+    "Rodrigo Vieira",
+    "Dmeyer"
+   ],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-09-30",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "111 NE 20th St, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/rodrigo-vieira-b2b-dmeyer-more?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/rodrigo-vieira-dmeyer-540389"
+   ]
+  },
+  {
    "id": "shotgun:zeyzey-presents-dadi-freyr-too-much-not-enough",
    "source": "shotgun+venue",
    "title": "Daði Freyr",
@@ -1061,6 +1086,30 @@
    "alt_urls": [
     "https://calendar.zeyzeymiami.com/shows/dadi-freyr-01-oct"
    ]
+  },
+  {
+   "id": "dice:6ab96a95ad076e00011393d5",
+   "source": "dice",
+   "title": "B0YG1RL ALBUM RELEASE PARTY",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2026-10-01",
+   "start": "2026-10-02T00:00:00+00:00",
+   "end": "2026-10-02T04:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ab96a95ad076e00011393d5",
+   "cancelled": false
   },
   {
    "id": "shotgun:riot-sessions",
