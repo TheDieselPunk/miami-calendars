@@ -8,21 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4443928-newbloodtransfus@boombox.miami-calendars
-DTSTAMP:20260926T161813Z
-LAST-MODIFIED:20260926T161813Z
-SEQUENCE:1
-DTSTART:20260926T020000Z
-DTEND:20260926T080000Z
-SUMMARY:New Blood + Transfusion
-LOCATION:The Boombox
-DESCRIPTION:Tags: darkwave\, hard techno\, idm\, midtempo\, schranz\, tranc
- e\nAges: 18+\nhttps://shotgun.live/en/events/new-blood-transfusion
-URL:https://shotgun.live/en/events/new-blood-transfusion
-STATUS:CONFIRMED
-CATEGORIES:darkwave,hard techno,idm,midtempo,schranz,trance
-END:VEVENT
-BEGIN:VEVENT
 UID:gothstarmiami@shotgun.live
 DTSTAMP:20260926T041822Z
 LAST-MODIFIED:20260926T041822Z
@@ -173,9 +158,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rocky-horror-picture-show@shotgun.live
-DTSTAMP:20260925T221819Z
-LAST-MODIFIED:20260925T221819Z
-SEQUENCE:1
+DTSTAMP:20260927T041810Z
+LAST-MODIFIED:20260927T041810Z
+SEQUENCE:2
 DTSTART:20261023T000000Z
 DTEND:20261024T070000Z
 SUMMARY:Rocky Horror Picture Show
@@ -197,10 +182,10 @@ DESCRIPTION:DON’T DREAM IT BE IT 💥 The Boombox (@theboomboxmiami) and
  this October darlings when the mood takes us we’re known to be quite gen
  erous 💋 Follow @rockyhorrormiami for early tricks n’ treats and more 
  behind the scenes looks at The Rocky Horror Party Show Project!! See you t
- here\, mon chers 💌\nTickets: 11:45PM SHOWTIME $20 (sold out)\, 8PM SHOW
- TIME $20 (sold out)\, 8PM SHOWTIME $20 (sold out)\, 11:45PM SHOWTIME TIER 
- 2 $30\, 8PM SHOWTIME TIER 2 $30\, 8PM SHOWTIME TIER 2 $20\nhttps://shotgun
- .live/en/events/rocky-horror-picture-show
+ here\, mon chers 💌\nTickets: 11:45PM SHOWTIME EARLY BIRD $20 (sold out)
+ \, 8PM SHOWTIME EARLY BIRD $20 (sold out)\, 11:45PM SHOWTIME GA $30\, 8PM 
+ SHOWTIME GA $30\, 8PM SHOWTIME EARLY BIRD $20 (sold out)\, 8PM SHOWTIME GA
+  $30\nhttps://shotgun.live/en/events/rocky-horror-picture-show
 URL:https://shotgun.live/en/events/rocky-horror-picture-show
 STATUS:CONFIRMED
 GEO:25.7287781;-80.3169309

@@ -8,22 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4443928-gravedgr@kemistry.miami-calendars
-DTSTAMP:20260926T161813Z
-LAST-MODIFIED:20260926T161813Z
-SEQUENCE:0
-DTSTART:20260926T020000Z
-DTEND:20260926T080000Z
-SUMMARY:Gravedgr
-LOCATION:Kemistry\, Fort Lauderdale
-DESCRIPTION:Tags: dubstep\, trap\nAges: 18+\nhttps://dice.fm/event/ry8bwv-g
- ravedgr-25th-sep-kemistry-fort-lauderdale-tickets
-URL:https://dice.fm/event/ry8bwv-gravedgr-25th-sep-kemistry-fort-lauderdale
- -tickets
-STATUS:CONFIRMED
-CATEGORIES:dubstep,trap
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6a90c4acedf55c000191e6b7@kemistry.miami-calendars
 DTSTAMP:20260925T041815Z
 LAST-MODIFIED:20260925T041815Z
@@ -439,6 +423,22 @@ DESCRIPTION:Lineup: Automhate\nTags (guess): bass\, dubstep\nhttps://dice.f
  m/event/6a6267e25c999a000109f8ae\nhttps://edmtrain.com/fort-lauderdale-fl/
  automhate-524125
 URL:https://dice.fm/event/6a6267e25c999a000109f8ae
+STATUS:CONFIRMED
+CATEGORIES:bass,dubstep
+END:VEVENT
+BEGIN:VEVENT
+UID:dice-6a6261171e9f6e0001fe74da@kemistry.miami-calendars
+DTSTAMP:20260927T041810Z
+LAST-MODIFIED:20260927T041810Z
+SEQUENCE:0
+DTSTART:20261220T010000Z
+DTEND:20261220T090000Z
+SUMMARY:CANDYLAND : 30 YEAR ANNIVERSARY
+LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
+ 312\, United States
+DESCRIPTION:Tags (guess): bass\, dubstep\nhttps://dice.fm/event/6a6261171e9
+ f6e0001fe74da
+URL:https://dice.fm/event/6a6261171e9f6e0001fe74da
 STATUS:CONFIRMED
 CATEGORIES:bass,dubstep
 END:VEVENT

@@ -8,34 +8,17 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4443931-shonkyjenniferlo@floyd.miami-calendars
-DTSTAMP:20260926T161813Z
-LAST-MODIFIED:20260926T161813Z
-SEQUENCE:1
-DTSTART:20260926T030000Z
-DTEND:20260926T090000Z
-SUMMARY:Shonky\, Jennifer Loveless
-LOCATION:Floyd Miami
-DESCRIPTION:Tags: tech house\nAges: 21+\nhttps://dice.fm/event/yod8px-shonk
- y-jennifer-loveless-25th-sep-floyd-miami-miami-tickets
-URL:https://dice.fm/event/yod8px-shonky-jennifer-loveless-25th-sep-floyd-mi
- ami-miami-tickets
-STATUS:CONFIRMED
-CATEGORIES:tech house
-END:VEVENT
-BEGIN:VEVENT
-UID:dice-6a74ad89e04de600012d3783@floyd.miami-calendars
-DTSTAMP:20260922T004038Z
-LAST-MODIFIED:20260922T004038Z
-SEQUENCE:2
+UID:19hz-4444027-myfriendmisty@floyd.miami-calendars
+DTSTAMP:20260927T041810Z
+LAST-MODIFIED:20260927T041810Z
+SEQUENCE:0
 DTSTART:20260927T030000Z
 DTEND:20260927T090000Z
 SUMMARY:My Friend Misty
-LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags: minimal\, tech house\nAges: 21+\nhttps://dice.fm/event/6a
- 74ad89e04de600012d3783\nhttps://edmtrain.com/miami-fl/my-friend-misty-5335
- 22\nhttps://link.dice.fm/mfmseptember
-URL:https://dice.fm/event/6a74ad89e04de600012d3783
+LOCATION:Floyd
+DESCRIPTION:Tags: minimal\, tech house\nAges: 21+\nhttps://link.dice.fm/mfm
+ september\nhttps://edmtrain.com/miami-fl/my-friend-misty-533522
+URL:https://link.dice.fm/mfmseptember
 STATUS:CONFIRMED
 CATEGORIES:minimal,tech house
 END:VEVENT
