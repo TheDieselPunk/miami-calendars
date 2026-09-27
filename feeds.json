@@ -86,12 +86,11 @@
   "slug": "boombox",
   "name": "The Boombox Miami",
   "file": "boombox.ics",
-  "events": 10,
-  "estimated_times": 1,
-  "next": "2026-09-26",
+  "events": 9,
+  "estimated_times": 0,
+  "next": "2026-09-27",
   "sources": [
    "19hz",
-   "edmtrain",
    "shotgun"
   ],
   "hours_note": "Observed on Shotgun: club nights 10 PM-4 AM; live/hardcore shows 6-11 PM."
@@ -159,9 +158,9 @@
   "slug": "midline",
   "name": "Midline",
   "file": "midline.ics",
-  "events": 11,
-  "estimated_times": 1,
-  "next": "2026-09-26",
+  "events": 10,
+  "estimated_times": 0,
+  "next": "2026-10-09",
   "sources": [
    "19hz",
    "edmtrain"

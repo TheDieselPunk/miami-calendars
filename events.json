@@ -25,11 +25,9 @@
   },
   {
    "id": "19hz:4443984-landis",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Landis",
-   "artists": [
-    "Landis"
-   ],
+   "artists": [],
    "venue": "Daer Dayclub",
    "venue_slug": "daer",
    "date": "2026-09-26",
@@ -43,10 +41,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://www.tixr.com/groups/daerdayclubsouthflorida/events/saturday-september-26th-daer-dayclub-199438",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/landis-539553"
-   ]
+   "url": "https://www.tixr.com/groups/daerdayclubsouthflorida/events/saturday-september-26th-daer-dayclub-199438"
   },
   {
    "id": "19hz:4444000-intrigadaypartyf",
@@ -74,11 +69,9 @@
   },
   {
    "id": "19hz:4444000-loudluxury",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Loud Luxury",
-   "artists": [
-    "Loud Luxury"
-   ],
+   "artists": [],
    "venue": "Palm Tree Club",
    "venue_slug": null,
    "date": "2026-09-26",
@@ -97,10 +90,7 @@
    "genres_inferred": false,
    "organizer": "Palm Tree Club Miami",
    "description": "",
-   "url": "https://posh.vip/e/loud-luxury-presented-by-palm-tree-club-miami-copy",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/loud-luxury-534050"
-   ]
+   "url": "https://posh.vip/e/loud-luxury-presented-by-palm-tree-club-miami-copy"
   },
   {
    "id": "19hz:4444003-safesoundareturn",
@@ -150,11 +140,9 @@
   },
   {
    "id": "19hz:4444015-ruckus",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Ruckus",
-   "artists": [
-    "Ruckus"
-   ],
+   "artists": [],
    "venue": "E11even",
    "venue_slug": null,
    "date": "2026-09-26",
@@ -171,43 +159,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://speakeasygo.com/event/EVE-0O8CYX",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/ruckus-514338"
-   ]
-  },
-  {
-   "id": "shotgun:emo-night-tribe",
-   "source": "shotgun",
-   "title": "Emo Night & Tribe!",
-   "artists": [],
-   "venue": "Tribe Tea Kava Lounge",
-   "venue_slug": null,
-   "date": "2026-09-26",
-   "start": "2026-09-27T00:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "post-punk",
-    "rock",
-    "indie rock"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/emo-night-tribe"
+   "url": "https://speakeasygo.com/event/EVE-0O8CYX"
   },
   {
    "id": "19hz:4444015-offaiah",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Offaiah",
-   "artists": [
-    "Offaiah",
-    "MindGazm"
-   ],
+   "artists": [],
    "venue": "Upside",
    "venue_slug": null,
    "date": "2026-09-26",
@@ -223,19 +181,13 @@
    "genres_inferred": false,
    "organizer": "Right Now Productions",
    "description": "",
-   "url": "https://dice.fm/event/l8mlbl-upside-presents-offaiah-mindgazm-friends-26th-sep-upside-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/upside-presents-offaiah-534842"
-   ]
+   "url": "https://dice.fm/event/l8mlbl-upside-presents-offaiah-mindgazm-friends-26th-sep-upside-miami-tickets"
   },
   {
    "id": "tablelist:05c68f7fbdffbe06",
-   "source": "19hz+edmtrain+tablelist",
+   "source": "19hz+tablelist",
    "title": "Riva Starr + Seamus Haji",
-   "artists": [
-    "Riva Starr",
-    "Seamus Haji"
-   ],
+   "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-09-26",
@@ -255,25 +207,21 @@
    "url": "https://buy.tablelist.com/e/05c68f7fbdffbe06",
    "alt_urls": [
     "https://ra.co/events/2506139",
-    "https://calendar.zeyzeymiami.com/shows/riva-starr-26-sep",
-    "https://edmtrain.com/miami-fl/nervous-records-riva-starr-518461"
+    "https://calendar.zeyzeymiami.com/shows/riva-starr-26-sep"
    ]
   },
   {
-   "id": "shotgun:madradiomiami092626",
-   "source": "19hz+edmtrain+shotgun",
-   "title": "Dj Ray & Ez Dee",
-   "artists": [
-    "DJ ray",
-    "EZ Dee"
-   ],
-   "venue": "Mad Radio Miami",
+   "id": "19hz:4444020-djrayezdee",
+   "source": "19hz",
+   "title": "DJ Ray / Ez Dee",
+   "artists": [],
+   "venue": "Mad Radio",
    "venue_slug": "mad-radio",
    "date": "2026-09-26",
    "start": "2026-09-27T01:00:00+00:00",
    "end": "2026-09-27T07:00:00+00:00",
    "time_estimated": false,
-   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "address": "",
    "ages": "21+",
    "price": "free w/rsvp b4 midnight ladies / $22",
    "genres": [
@@ -283,29 +231,15 @@
     "house"
    ],
    "genres_inferred": false,
-   "organizer": "Mad Radio Miami",
-   "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY BEFORE 10 PM / FREE ENTRY LADIES UNTIL MIDNIGHT HAPPY HOUR 5 PM - 9 PM\"",
-   "url": "https://shotgun.live/en/events/madradiomiami092626",
-   "tickets": "",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.8462027,
-    "longitude": -80.1851332
-   },
-   "created": null,
-   "alt_urls": [
-    "https://shotgun.live/en/events/madradiomiami092626",
-    "https://edmtrain.com/miami-fl/dj-ray-ez-dee-531846"
-   ]
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/madradiomiami092626"
   },
   {
    "id": "19hz:4444024-nikisadeki",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Niki Sadeki",
-   "artists": [
-    "Niki Sadeki"
-   ],
+   "artists": [],
    "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
    "date": "2026-09-26",
@@ -323,21 +257,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/q2pqqo-niki-sadeki-26th-sep-do-not-sit-on-the-furniture-miami-beach-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/niki-sadeki-520450"
-   ]
+   "url": "https://dice.fm/event/q2pqqo-niki-sadeki-26th-sep-do-not-sit-on-the-furniture-miami-beach-tickets"
   },
   {
    "id": "19hz:4444024-vladimirdubyshki",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Vladimir Dubyshkin, Grace Dahl",
-   "artists": [
-    "Vladimir Dubyshkin",
-    "Grace Dahl",
-    "Ultrathem",
-    "Mila Gama"
-   ],
+   "artists": [],
    "venue": "Domicile",
    "venue_slug": "domicile",
    "date": "2026-09-26",
@@ -353,41 +279,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/bb97ro-vladimir-dubyshkin-grace-dahl-26th-sep-domicile-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/vladimir-dubyshkin-grace-dahl-529511"
-   ]
-  },
-  {
-   "id": "shotgun:daniel-orpi-sep-26",
-   "source": "shotgun",
-   "title": "Daniel Orpi At Edge",
-   "artists": [],
-   "venue": "EDGE MIAMI",
-   "venue_slug": null,
-   "date": "2026-09-26",
-   "start": "2026-09-27T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "tech house",
-    "house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/daniel-orpi-sep-26"
+   "url": "https://dice.fm/event/bb97ro-vladimir-dubyshkin-grace-dahl-26th-sep-domicile-miami-miami-tickets"
   },
   {
    "id": "19hz:4444024-danielorpi",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Daniel Orpi",
-   "artists": [
-    "Daniel Orpi"
-   ],
+   "artists": [],
    "venue": "Edge",
    "venue_slug": null,
    "date": "2026-09-26",
@@ -403,18 +301,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/ww9mbp-daniel-orpi-26th-sep-edge-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/daniel-orpi-529518"
-   ]
+   "url": "https://dice.fm/event/ww9mbp-daniel-orpi-26th-sep-edge-miami-miami-tickets"
   },
   {
    "id": "19hz:4444024-fisher",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Fisher",
-   "artists": [
-    "Fisher"
-   ],
+   "artists": [],
    "venue": "Factory Town",
    "venue_slug": "factory-town",
    "date": "2026-09-26",
@@ -430,25 +323,20 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/avxpod-fisher-26th-sep-factory-town-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/fisher-527882"
-   ]
+   "url": "https://dice.fm/event/avxpod-fisher-26th-sep-factory-town-miami-tickets"
   },
   {
-   "id": "dice:6a3c39e5f0933d00010b0805",
-   "source": "19hz+dice+edmtrain",
+   "id": "19hz:4444024-nickwarren",
+   "source": "19hz",
    "title": "Nick Warren",
-   "artists": [
-    "Nick Warren"
-   ],
-   "venue": "Jolene Sound Room Miami",
+   "artists": [],
+   "venue": "Jolene Downtown",
    "venue_slug": "jolene",
    "date": "2026-09-26",
    "start": "2026-09-27T02:00:00+00:00",
    "end": "2026-09-27T08:00:00+00:00",
    "time_estimated": false,
-   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "address": "",
    "ages": "21+",
    "price": "$10+",
    "genres": [
@@ -459,16 +347,11 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/v32736-nick-warren-26th-sep-jolene-sound-room-miami-miami-tickets",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/event/v32736-nick-warren-26th-sep-jolene-sound-room-miami-miami-tickets",
-    "https://edmtrain.com/miami-fl/nick-warren-516319"
-   ]
+   "url": "https://dice.fm/event/v32736-nick-warren-26th-sep-jolene-sound-room-miami-miami-tickets"
   },
   {
    "id": "19hz:4444024-rewind2000srave",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Rewind: 2000s Rave",
    "artists": [],
    "venue": "Kemistry",
@@ -487,10 +370,7 @@
    "genres_inferred": true,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/3obkrv-rewind-2000s-rave-26th-sep-kemistry-fort-lauderdale-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/rewind-2000s-rave-537514"
-   ]
+   "url": "https://dice.fm/event/3obkrv-rewind-2000s-rave-26th-sep-kemistry-fort-lauderdale-tickets"
   },
   {
    "id": "19hz:4444024-madotamanumat",
@@ -516,14 +396,10 @@
    "url": "https://www.therumor.com/p/madota"
   },
   {
-   "id": "shotgun:lunasol-pres-sebastienleger-2",
-   "source": "19hz+edmtrain+shotgun",
-   "title": "Lunasol Pres. Sebastien Leger",
-   "artists": [
-    "Sébastien Léger",
-    "Conosur",
-    "Terramuzik"
-   ],
+   "id": "19hz:4444024-sebastienlegerco",
+   "source": "19hz",
+   "title": "Sebastien Leger, Conosur, and Terramuzik",
+   "artists": [],
    "venue": "Lunasol",
    "venue_slug": null,
    "date": "2026-09-26",
@@ -534,72 +410,18 @@
    "ages": "21+",
    "price": "$36+",
    "genres": [
-    "afro house",
-    "deep house",
     "french house",
-    "melodic house & techno",
     "tech house",
     "techno"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/lunasol-pres-sebastienleger-2",
-   "alt_urls": [
-    "https://dice.fm/event/eo6p2w-sebastien-leger-conosur-and-terramuzik-26th-sep-lunasol-miami-tickets",
-    "https://edmtrain.com/miami-fl/sebastien-leger-conosur-526031"
-   ]
-  },
-  {
-   "id": "shotgun:yaoi",
-   "source": "19hz+edmtrain+shotgun",
-   "title": "Yaoi★ The Rave Miami Fl X Hyperperreo",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-09-26",
-   "start": "2026-09-27T02:00:00+00:00",
-   "end": "2026-09-27T09:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "$17.62-22.03",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/yaoi",
-   "alt_urls": [
-    "https://shotgun.live/en/events/yaoi",
-    "https://edmtrain.com/miami-fl/yaoi-the-rave-miami-fl-x-hyperperreo-531546"
-   ]
-  },
-  {
-   "id": "edmtrain:529368",
-   "source": "edmtrain",
-   "title": "It's A 2000's Party - Miami",
-   "artists": [],
-   "venue": "Midline Miami",
-   "venue_slug": "midline",
-   "date": "2026-09-26",
-   "start": "2026-09-27T02:00:00+00:00",
-   "end": "2026-09-27T07:00:00+00:00",
-   "time_estimated": true,
-   "address": "2221 NW Miami Ct, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.itsa2000sparty.com/products/its-a-2000s-party-miami-2",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/its-a-2000s-party-miami-529368"
-   ]
+   "url": "https://dice.fm/event/eo6p2w-sebastien-leger-conosur-and-terramuzik-26th-sep-lunasol-miami-tickets"
   },
   {
    "id": "19hz:4444024-theworldisyoursp",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "The World Is Yours Presents Brylin Vs The World",
    "artists": [],
    "venue": "Nowhere Ftl",
@@ -618,18 +440,13 @@
    "genres_inferred": false,
    "organizer": "Nowhere Ftl, The World Is Yours",
    "description": "",
-   "url": "https://posh.vip/e/the-wiggle-room-nowhere-special-event-1",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/the-world-is-yours-530073"
-   ]
+   "url": "https://posh.vip/e/the-wiggle-room-nowhere-special-event-1"
   },
   {
    "id": "19hz:4444024-fluxpavilion",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Flux Pavilion",
-   "artists": [
-    "Flux Pavilion"
-   ],
+   "artists": [],
    "venue": "Studio 60",
    "venue_slug": null,
    "date": "2026-09-26",
@@ -647,56 +464,42 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/923ggd-flux-pavilion-special-guests-26th-sep-studio-60-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/flux-pavilion-531455"
-   ]
+   "url": "https://dice.fm/event/923ggd-flux-pavilion-special-guests-26th-sep-studio-60-miami-miami-tickets"
   },
   {
-   "id": "edmtrain:516876",
-   "source": "edmtrain",
-   "title": "kwasi kao",
-   "artists": [
-    "kwasi kao"
-   ],
-   "venue": "The Boombox Miami",
-   "venue_slug": "boombox",
+   "id": "19hz:4444027-yaoitheravemiami",
+   "source": "19hz",
+   "title": "Yaoi - The Rave Miami Fl X Hyperperreo",
+   "artists": [],
+   "venue": "777 Northeast 79th Street",
+   "venue_slug": null,
    "date": "2026-09-26",
-   "start": "2026-09-27T02:00:00+00:00",
-   "end": "2026-09-27T08:00:00+00:00",
-   "time_estimated": true,
-   "address": "4447 SW 75th Ave, Miami, FL 33155, USA",
-   "ages": "",
-   "price": "",
+   "start": "2026-09-27T03:00:00+00:00",
+   "end": "2026-09-27T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "$17.62-22.03",
    "genres": [],
    "genres_inferred": false,
-   "organizer": "",
+   "organizer": "Supernatural",
    "description": "",
-   "url": "https://shotgun.live/events/gothstarmiami?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/kwasi-kao-516876"
-   ]
+   "url": "https://shotgun.live/en/events/yaoi"
   },
   {
-   "id": "dice:6a622b00a98bab0001e8e46c",
-   "source": "19hz+dice+edmtrain",
-   "title": "Franky Rizardo presents FLOW",
-   "artists": [
-    "Franky Rizardo",
-    "Toman",
-    "Chelina Manuhutu",
-    "Ms. Mada",
-    "Grace Arribas"
-   ],
-   "venue": "Club Space Miami",
+   "id": "19hz:4444027-frankyrizardo",
+   "source": "19hz",
+   "title": "Franky Rizardo",
+   "artists": [],
+   "venue": "Club Space",
    "venue_slug": "club-space",
    "date": "2026-09-26",
    "start": "2026-09-27T03:00:00+00:00",
    "end": "2026-09-27T18:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": "From $32 (sold out)",
+   "price": "$30+",
    "genres": [
     "deep house",
     "funky house",
@@ -706,16 +509,11 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/yod8nx-franky-rizardo-presents-flow-26th-sep-club-space-miami-miami-tickets",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/event/yod8nx-franky-rizardo-presents-flow-26th-sep-club-space-miami-miami-tickets",
-    "https://edmtrain.com/miami-fl/franky-rizardo-toman-526179"
-   ]
+   "url": "https://dice.fm/event/yod8nx-franky-rizardo-presents-flow-26th-sep-club-space-miami-miami-tickets"
   },
   {
    "id": "19hz:4444027-myfriendmisty",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "My Friend Misty",
    "artists": [],
    "venue": "Floyd",
@@ -734,42 +532,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://link.dice.fm/mfmseptember",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/my-friend-misty-533522"
-   ]
-  },
-  {
-   "id": "shotgun:a-2016-party-by-p",
-   "source": "shotgun",
-   "title": "A 2016 Party By Pg",
-   "artists": [],
-   "venue": "Hialeah",
-   "venue_slug": null,
-   "date": "2026-09-26",
-   "start": "2026-09-27T03:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "afro",
-    "reggaeton",
-    "house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/a-2016-party-by-p"
+   "url": "https://link.dice.fm/mfmseptember"
   },
   {
    "id": "19hz:4444027-crankdat",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Crankdat",
-   "artists": [
-    "Crankdat"
-   ],
+   "artists": [],
    "venue": "Liv Nightclub",
    "venue_slug": null,
    "date": "2026-09-26",
@@ -785,67 +554,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://www.universe.com/events/XF5VW9",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/crankdat-519370"
-   ]
-  },
-  {
-   "id": "edmtrain:536468",
-   "source": "edmtrain",
-   "title": "Pendulum, Steve Lawler, Ella Romand",
-   "artists": [
-    "Pendulum",
-    "Steve Lawler",
-    "Ella Romand"
-   ],
-   "venue": "AIRE Miami",
-   "venue_slug": null,
-   "date": "2026-09-26",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "111 NE 20th St, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://posh.vip/e/aire-miami-pendulum-with-steve-lawler-ella-romand-and-stefaina?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/pendulum-steve-lawler-536468"
-   ]
-  },
-  {
-   "id": "edmtrain:537503",
-   "source": "edmtrain",
-   "title": "INTRIGA x BOHO HOUSE - DAY 1 (NEW LOCATION): Santelises, Goa '98, Marie Posa, Laura carmer, delu, Axatipe",
-   "artists": [
-    "Santelises",
-    "Goa '98",
-    "Marie Posa",
-    "Laura carmer",
-    "delu",
-    "Axatipe"
-   ],
-   "venue": "BOHO Wynwood",
-   "venue_slug": null,
-   "date": "2026-09-26",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "85 NW 25th St, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://link.dice.fm/T85e97e9fe20?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/intriga-x-boho-house-day-1-new-location-santelises-537503"
-   ]
+   "url": "https://www.universe.com/events/XF5VW9"
   },
   {
    "id": "shotgun:aurora-two",

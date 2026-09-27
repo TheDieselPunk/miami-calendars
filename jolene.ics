@@ -8,18 +8,17 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a3c39e5f0933d00010b0805@jolene.miami-calendars
-DTSTAMP:20260922T004154Z
-LAST-MODIFIED:20260922T004154Z
-SEQUENCE:2
+UID:19hz-4444024-nickwarren@jolene.miami-calendars
+DTSTAMP:20260927T161800Z
+LAST-MODIFIED:20260927T161800Z
+SEQUENCE:0
 DTSTART:20260927T020000Z
 DTEND:20260927T080000Z
 SUMMARY:Nick Warren
-LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
- a 33131\, United States
-DESCRIPTION:Lineup: Nick Warren\nTags: deep house\, tech house\, techno\nAg
- es: 21+\nhttps://dice.fm/event/v32736-nick-warren-26th-sep-jolene-sound-ro
- om-miami-miami-tickets\nhttps://edmtrain.com/miami-fl/nick-warren-516319
+LOCATION:Jolene Downtown
+DESCRIPTION:Tags: deep house\, tech house\, techno\nAges: 21+\nhttps://dice
+ .fm/event/v32736-nick-warren-26th-sep-jolene-sound-room-miami-miami-ticket
+ s
 URL:https://dice.fm/event/v32736-nick-warren-26th-sep-jolene-sound-room-mia
  mi-miami-tickets
 STATUS:CONFIRMED
