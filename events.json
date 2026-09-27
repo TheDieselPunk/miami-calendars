@@ -177,45 +177,6 @@
    ]
   },
   {
-   "id": "shotgun:gothstarmiami",
-   "source": "edmtrain+shotgun",
-   "title": "Gothstar Tour X Gothic Cabaret / Johnny Based, Kwasi Kao",
-   "artists": [
-    "Johnny Based",
-    "His Panic",
-    "Laboratory A.D."
-   ],
-   "venue": "The Boombox Miami",
-   "venue_slug": "boombox",
-   "date": "2026-09-26",
-   "start": "2026-09-27T00:00:00+00:00",
-   "end": "2026-09-27T06:00:00+00:00",
-   "time_estimated": false,
-   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
-   "ages": "",
-   "price": "$28.13",
-   "genres": [
-    "alternative",
-    "dark wave",
-    "rock"
-   ],
-   "genres_inferred": false,
-   "organizer": "Antiheroine Productions",
-   "description": "MIAMI, GET READY FOR A NIGHT OF GOTHIC CHAOS. 🖤 GOTHIC COSPLAY CABARET x GOTHSTAR TOUR A dark night of live music, gothic cosplay, burlesque, drag, and theatrical performances - all in one place. 🖤 GothStar Tour (Johnny Based & Kwasi Kao) 🖤 Local support Laboratory & His Panic 🖤 Burlesque + drag + fire + cirque 🖤 Gothic Cosplay 🖤 $100 Costume Contest 📅 September 26 📍 Boombox 18+ Last week to grab your ticket before the night arrives. *Costume Contest $100 CASH PRIZE + 2 Tickets to next Black Moon Theater event Bring your favorite gothic lore to life, or put a gothic twist on your favorite characters to take home the cash prize.",
-   "url": "https://shotgun.live/en/events/gothstarmiami",
-   "tickets": "General Admin $20 (sold out), General Admin - Day of $25",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.7287781,
-    "longitude": -80.3169309
-   },
-   "created": "2026-06-26T16:00:05.000Z",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/kwasi-kao-516876"
-   ]
-  },
-  {
    "id": "shotgun:emo-night-tribe",
    "source": "shotgun",
    "title": "Emo Night & Tribe!",
@@ -228,7 +189,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$11.35",
+   "price": "",
    "genres": [
     "post-punk",
     "rock",
@@ -269,7 +230,7 @@
   },
   {
    "id": "tablelist:05c68f7fbdffbe06",
-   "source": "19hz+edmtrain+tablelist+venue",
+   "source": "19hz+edmtrain+tablelist",
    "title": "Riva Starr + Seamus Haji",
    "artists": [
     "Riva Starr",
@@ -283,7 +244,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "Free",
+   "price": "free w/rsvp",
    "genres": [
     "deep house",
     "tech house"
@@ -293,7 +254,6 @@
    "description": "",
    "url": "https://buy.tablelist.com/e/05c68f7fbdffbe06",
    "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/riva-starr-26-sep",
     "https://ra.co/events/2506139",
     "https://calendar.zeyzeymiami.com/shows/riva-starr-26-sep",
     "https://edmtrain.com/miami-fl/nervous-records-riva-starr-518461"
@@ -315,7 +275,7 @@
    "time_estimated": false,
    "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
    "ages": "21+",
-   "price": "$21.80",
+   "price": "free w/rsvp b4 midnight ladies / $22",
    "genres": [
     "acid",
     "club music",
@@ -326,38 +286,18 @@
    "organizer": "Mad Radio Miami",
    "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY BEFORE 10 PM / FREE ENTRY LADIES UNTIL MIDNIGHT HAPPY HOUR 5 PM - 9 PM\"",
    "url": "https://shotgun.live/en/events/madradiomiami092626",
-   "tickets": "AFTER 10 PM $20, FREE LADIES RSVP BEFORE 12 AM Free",
+   "tickets": "",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
     "latitude": 25.8462027,
     "longitude": -80.1851332
    },
-   "created": "2026-08-25T13:25:43.000Z",
+   "created": null,
    "alt_urls": [
     "https://shotgun.live/en/events/madradiomiami092626",
     "https://edmtrain.com/miami-fl/dj-ray-ez-dee-531846"
    ]
-  },
-  {
-   "id": "shotgun:boris-larramendi-in-concert-3",
-   "source": "shotgun",
-   "title": "Boris Larramendi In Concert",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-09-26",
-   "start": "2026-09-27T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$29.99",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/boris-larramendi-in-concert-3"
   },
   {
    "id": "19hz:4444024-nikisadeki",
@@ -469,9 +409,9 @@
    ]
   },
   {
-   "id": "dice:6a7a01575051510001c83c86",
-   "source": "19hz+dice+edmtrain",
-   "title": "FISHER",
+   "id": "19hz:4444024-fisher",
+   "source": "19hz+edmtrain",
+   "title": "Fisher",
    "artists": [
     "Fisher"
    ],
@@ -481,9 +421,9 @@
    "start": "2026-09-27T02:00:00+00:00",
    "end": "2026-09-27T09:00:00+00:00",
    "time_estimated": false,
-   "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
+   "address": "",
    "ages": "18+",
-   "price": "From $130 (sold out)",
+   "price": "$125.5",
    "genres": [
     "tech house"
    ],
@@ -491,9 +431,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/avxpod-fisher-26th-sep-factory-town-miami-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/avxpod-fisher-26th-sep-factory-town-miami-tickets",
     "https://edmtrain.com/miami-fl/fisher-527882"
    ]
   },
@@ -529,9 +467,9 @@
    ]
   },
   {
-   "id": "dice:6a90c4acedf55c000191e6b7",
-   "source": "19hz+dice+edmtrain",
-   "title": "REWIND: 2000s RAVE",
+   "id": "19hz:4444024-rewind2000srave",
+   "source": "19hz+edmtrain",
+   "title": "Rewind: 2000s Rave",
    "artists": [],
    "venue": "Kemistry",
    "venue_slug": "kemistry",
@@ -539,9 +477,9 @@
    "start": "2026-09-27T02:00:00+00:00",
    "end": "2026-09-27T08:00:00+00:00",
    "time_estimated": false,
-   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "address": "Fort Lauderdale",
    "ages": "18+",
-   "price": "From $42",
+   "price": "$29+",
    "genres": [
     "bass",
     "dubstep"
@@ -550,9 +488,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/3obkrv-rewind-2000s-rave-26th-sep-kemistry-fort-lauderdale-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/3obkrv-rewind-2000s-rave-26th-sep-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/rewind-2000s-rave-537514"
    ]
   },
@@ -717,6 +653,31 @@
    ]
   },
   {
+   "id": "edmtrain:516876",
+   "source": "edmtrain",
+   "title": "kwasi kao",
+   "artists": [
+    "kwasi kao"
+   ],
+   "venue": "The Boombox Miami",
+   "venue_slug": "boombox",
+   "date": "2026-09-26",
+   "start": "2026-09-27T02:00:00+00:00",
+   "end": "2026-09-27T08:00:00+00:00",
+   "time_estimated": true,
+   "address": "4447 SW 75th Ave, Miami, FL 33155, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/gothstarmiami?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/kwasi-kao-516876"
+   ]
+  },
+  {
    "id": "dice:6a622b00a98bab0001e8e46c",
    "source": "19hz+dice+edmtrain",
    "title": "Franky Rizardo presents FLOW",
@@ -735,7 +696,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $30",
+   "price": "From $32 (sold out)",
    "genres": [
     "deep house",
     "funky house",
@@ -791,7 +752,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$34.05",
+   "price": "",
    "genres": [
     "afro",
     "reggaeton",
@@ -13559,9 +13520,9 @@
    "generic_title": true
   },
   {
-   "id": "19hz:4452760-avello",
-   "source": "19hz+edmtrain",
-   "title": "Avello",
+   "id": "dice:6a60e5e3f0b16700018157d5",
+   "source": "19hz+dice+edmtrain",
+   "title": "AVELLO",
    "artists": [
     "AVELLO"
    ],
@@ -13571,9 +13532,9 @@
    "start": "2026-12-27T03:00:00+00:00",
    "end": "2026-12-27T09:00:00+00:00",
    "time_estimated": false,
-   "address": "Fort Lauderdale",
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "18+",
-   "price": "$39.67",
+   "price": "From $40",
    "genres": [
     "bass music",
     "dubstep"
@@ -13582,7 +13543,9 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/53m9ew-avello-26th-dec-kemistry-fort-lauderdale-tickets",
+   "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/53m9ew-avello-26th-dec-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/avello-524557"
    ]
   },

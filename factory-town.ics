@@ -8,14 +8,14 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a7a01575051510001c83c86@factory-town.miami-calendars
-DTSTAMP:20260922T004154Z
-LAST-MODIFIED:20260922T004154Z
-SEQUENCE:3
+UID:19hz-4444024-fisher@factory-town.miami-calendars
+DTSTAMP:20260927T101801Z
+LAST-MODIFIED:20260927T101801Z
+SEQUENCE:0
 DTSTART:20260927T020000Z
 DTEND:20260927T090000Z
-SUMMARY:FISHER
-LOCATION:Factory Town\, 4800 NW 37th Ave\, Miami\, FL 33142\, USA
+SUMMARY:Fisher
+LOCATION:Factory Town
 DESCRIPTION:Lineup: Fisher\nTags: tech house\nAges: 18+\nhttps://dice.fm/ev
  ent/avxpod-fisher-26th-sep-factory-town-miami-tickets\nhttps://edmtrain.co
  m/miami-fl/fisher-527882

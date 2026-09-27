@@ -87,7 +87,7 @@
   "name": "The Boombox Miami",
   "file": "boombox.ics",
   "events": 10,
-  "estimated_times": 0,
+  "estimated_times": 1,
   "next": "2026-09-26",
   "sources": [
    "19hz",

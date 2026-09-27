@@ -8,33 +8,20 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:gothstarmiami@shotgun.live
-DTSTAMP:20260926T041822Z
-LAST-MODIFIED:20260926T041822Z
-SEQUENCE:3
-DTSTART:20260927T000000Z
-DTEND:20260927T060000Z
-SUMMARY:Gothstar Tour X Gothic Cabaret / Johnny Based\, Kwasi Kao
-LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
- \, USA
-DESCRIPTION:MIAMI\, GET READY FOR A NIGHT OF GOTHIC CHAOS. 🖤 GOTHIC COSP
- LAY CABARET x GOTHSTAR TOUR A dark night of live music\, gothic cosplay\, 
- burlesque\, drag\, and theatrical performances - all in one place. 🖤 Go
- thStar Tour (Johnny Based & Kwasi Kao) 🖤 Local support Laboratory & His
-  Panic 🖤 Burlesque + drag + fire + cirque 🖤 Gothic Cosplay 🖤 $100
-  Costume Contest 📅 September 26 📍 Boombox 18+ Last week to grab your
-  ticket before the night arrives. *Costume Contest $100 CASH PRIZE + 2 Tic
- kets to next Black Moon Theater event Bring your favorite gothic lore to l
- ife\, or put a gothic twist on your favorite characters to take home the c
- ash prize.\nLineup: Johnny Based\, His Panic\, Laboratory A.D.\nTags: alte
- rnative\, dark wave\, rock\nPresented by: Antiheroine Productions\nTickets
- : General Admin $20 (sold out)\, General Admin - Day of $25\nhttps://shotg
- un.live/en/events/gothstarmiami\nhttps://edmtrain.com/miami-fl/kwasi-kao-5
- 16876
-URL:https://shotgun.live/en/events/gothstarmiami
+UID:edmtrain-516876@boombox.miami-calendars
+DTSTAMP:20260927T101801Z
+LAST-MODIFIED:20260927T101801Z
+SEQUENCE:0
+DTSTART:20260927T020000Z
+DTEND:20260927T080000Z
+SUMMARY:kwasi kao
+LOCATION:The Boombox Miami\, 4447 SW 75th Ave\, Miami\, FL 33155\, USA
+DESCRIPTION:Lineup: kwasi kao\nTimes are an estimate from The Boombox Miami
+ 's usual hours - the listing has no start time yet. Check the link.\nhttps
+ ://shotgun.live/events/gothstarmiami?utm_source=edmtrain\nhttps://edmtrain
+ .com/miami-fl/kwasi-kao-516876
+URL:https://shotgun.live/events/gothstarmiami?utm_source=edmtrain
 STATUS:CONFIRMED
-CATEGORIES:alternative,dark wave,rock
-GEO:25.7287781;-80.3169309
 END:VEVENT
 BEGIN:VEVENT
 UID:velora-sallywants-thesourdrops-drifting-at-boomboox-9-27@shotgun.live

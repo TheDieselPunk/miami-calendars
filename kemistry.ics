@@ -8,15 +8,14 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a90c4acedf55c000191e6b7@kemistry.miami-calendars
-DTSTAMP:20260925T041815Z
-LAST-MODIFIED:20260925T041815Z
-SEQUENCE:2
+UID:19hz-4444024-rewind2000srave@kemistry.miami-calendars
+DTSTAMP:20260927T101801Z
+LAST-MODIFIED:20260927T101801Z
+SEQUENCE:0
 DTSTART:20260927T020000Z
 DTEND:20260927T080000Z
-SUMMARY:REWIND: 2000s RAVE
-LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
- 312\, United States
+SUMMARY:Rewind: 2000s Rave
+LOCATION:Kemistry\, Fort Lauderdale
 DESCRIPTION:Tags (guess): bass\, dubstep\nAges: 18+\nhttps://dice.fm/event/
  3obkrv-rewind-2000s-rave-26th-sep-kemistry-fort-lauderdale-tickets\nhttps:
  //edmtrain.com/fort-lauderdale-fl/rewind-2000s-rave-537514
@@ -443,14 +442,15 @@ STATUS:CONFIRMED
 CATEGORIES:bass,dubstep
 END:VEVENT
 BEGIN:VEVENT
-UID:19hz-4452760-avello@kemistry.miami-calendars
-DTSTAMP:20260921T200140Z
-LAST-MODIFIED:20260921T200140Z
+UID:dice-6a60e5e3f0b16700018157d5@kemistry.miami-calendars
+DTSTAMP:20260927T101801Z
+LAST-MODIFIED:20260927T101801Z
 SEQUENCE:0
 DTSTART:20261227T030000Z
 DTEND:20261227T090000Z
-SUMMARY:Avello
-LOCATION:Kemistry\, Fort Lauderdale
+SUMMARY:AVELLO
+LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
+ 312\, United States
 DESCRIPTION:Lineup: AVELLO\nTags: bass music\, dubstep\nAges: 18+\nhttps://
  dice.fm/event/53m9ew-avello-26th-dec-kemistry-fort-lauderdale-tickets\nhtt
  ps://edmtrain.com/fort-lauderdale-fl/avello-524557
