@@ -461,6 +461,23 @@ STATUS:CONFIRMED
 CATEGORIES:indie/alternative
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-leon-bridges-presents-happiness-anytime-28-oct@zeyzey.miami-cale
+ ndars
+DTSTAMP:20260928T161803Z
+LAST-MODIFIED:20260928T161803Z
+SEQUENCE:0
+DTSTART:20261028T230000Z
+DTEND:20261029T050000Z
+SUMMARY:Leon Bridges Presents: Happiness Anytime
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: indie/alternative\nhttps://calendar.zeyzeymiami.com/shows
+ /leon-bridges-presents-happiness-anytime-28-oct
+URL:https://calendar.zeyzeymiami.com/shows/leon-bridges-presents-happiness-
+ anytime-28-oct
+STATUS:CONFIRMED
+CATEGORIES:indie/alternative
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-puma-blue-29-oct@zeyzey.miami-calendars
 DTSTAMP:20260921T200140Z
 LAST-MODIFIED:20260921T200140Z
@@ -752,21 +769,6 @@ DESCRIPTION:Lineup: Club 1BD\, DJ Hunny Bee\, Pressure Point\, Spinelli\nTa
 URL:https://dice.fm/event/6a0eff0b5ffbf40001c9044c
 STATUS:CONFIRMED
 CATEGORIES:hip-hop/rap
-END:VEVENT
-BEGIN:VEVENT
-UID:zeyzey-el-david-aguilar-17-nov@zeyzey.miami-calendars
-DTSTAMP:20260921T200140Z
-LAST-MODIFIED:20260921T200140Z
-SEQUENCE:0
-DTSTART:20261118T000000Z
-DTEND:20261118T060000Z
-SUMMARY:El David Aguilar
-LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: latin\nhttps://calendar.zeyzeymiami.com/shows/el-david-ag
- uilar-17-nov
-URL:https://calendar.zeyzeymiami.com/shows/el-david-aguilar-17-nov
-STATUS:CONFIRMED
-CATEGORIES:latin
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-vicente-garcia-19-nov@zeyzey.miami-calendars

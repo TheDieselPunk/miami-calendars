@@ -142,18 +142,17 @@ STATUS:CONFIRMED
 CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-540242@factory-town.miami-calendars
-DTSTAMP:20260926T101815Z
-LAST-MODIFIED:20260926T101815Z
+UID:dice-6ab5a8633fd3b20001e06e58@factory-town.miami-calendars
+DTSTAMP:20260928T161803Z
+LAST-MODIFIED:20260928T161803Z
 SEQUENCE:0
-DTSTART:20261207T020000Z
-DTEND:20261207T100000Z
-SUMMARY:Elrow
+DTSTART:20261207T030000Z
+DTEND:20261207T110000Z
+SUMMARY:elrow Miami (Factory Basel 2026 Closing Party)
 LOCATION:Factory Town\, 4800 NW 37th Ave\, Miami\, FL 33142\, USA
-DESCRIPTION:Tags (guess): house\, techno\nTimes are an estimate from Factor
- y Town's usual hours - the listing has no start time yet. Check the link.
- \nhttps://ra.co/events/2100903\nhttps://edmtrain.com/miami-fl/elrow-540242
-URL:https://ra.co/events/2100903
+DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6ab5a8633fd
+ 3b20001e06e58\nhttps://edmtrain.com/miami-fl/elrow-540242
+URL:https://dice.fm/event/6ab5a8633fd3b20001e06e58
 STATUS:CONFIRMED
 CATEGORIES:house,techno
 END:VEVENT
