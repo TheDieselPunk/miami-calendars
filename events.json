@@ -147,29 +147,9 @@
    ]
   },
   {
-   "id": "shotgun:rendezvous1-9",
-   "source": "shotgun",
-   "title": "Sukkot After: Adi-J, Røyé, Dmeyer, Bagdelan, Lerso",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-09-27",
-   "start": "2026-09-28T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$25.00",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/rendezvous1-9"
-  },
-  {
-   "id": "dice:6a6122ea7433b5000169d332",
-   "source": "19hz+dice+edmtrain",
-   "title": "Knight Club: Spray",
+   "id": "19hz:4444123-knightclubsprayc",
+   "source": "19hz+edmtrain",
+   "title": "Knight Club : Spray, Cole Knight, Lucaz",
    "artists": [],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
@@ -177,9 +157,9 @@
    "start": "2026-09-28T03:00:00+00:00",
    "end": "2026-09-28T09:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": "From $15",
+   "price": "$15+",
    "genres": [
     "progressive house",
     "tech house"
@@ -188,9 +168,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/nvp3oq-knight-club-27th-sep-floyd-miami-miami-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/nvp3oq-knight-club-27th-sep-floyd-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/knight-club-524863"
    ]
   },
@@ -597,6 +575,26 @@
    "alt_urls": [
     "https://dice.fm/event/6a8b4c2bfec44800018bccb4"
    ]
+  },
+  {
+   "id": "shotgun:superqueen-34",
+   "source": "shotgun",
+   "title": "Superqueen: Monster High",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-10-01",
+   "start": "2026-10-02T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$10.00",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/superqueen-34"
   },
   {
    "id": "edmtrain:534840",
@@ -3030,7 +3028,7 @@
    "time_estimated": false,
    "address": "353 Northeast 61st Street, Miami, FL 33137, USA",
    "ages": "21+",
-   "price": "$56.75",
+   "price": "$28.38",
    "genres": [
     "afro house",
     "house",
@@ -3042,7 +3040,7 @@
    "organizer": "Solmates Miami",
    "description": "Solmates brings together two European producers whose work meets at the intersection of melody, groove, and late-night dance music. Built around a shared appreciation for emotional, forward-thinking electronic music, Solmates creates a space where established sounds and new perspectives can meet on the dancefloor. Stockholm-born Fahlberg has built his sound around deep basslines, hypnotic textures, and what he describes as “Nordic Melodic” — a Scandinavian sense of atmosphere shaped through contemporary house and techno. His releases have appeared on labels including Diynamic, Watergate, Siamese, MoBlack, and When Stars Align, with support from Solomun, Keinemusik, Black Coffee, and Pete Tong. Tracks such as “Somebody” and “Chaka” have reached major Beatport chart positions, while recent work includes collaborations with Layer J, Argødes, and Jeremy Olander, alongside an official remix for RÜFÜS DU SOL. Joining him is Paris- and London-based Orsay, a producer whose melodic house sound is informed by an early classical background. Having studied piano from the age of six and trained at a music conservatory, Orsay brings that foundation into productions built around rhythm, emotion, and melody. His music has been released through Ninja Tune, Siamese, Universal Music, and Kitsuné, with tracks including “Mind Off,” “Amado,” and “Magik” receiving support from Adriatique, Solomun, WhoMadeWho, Carlita, and RÜFÜS DU SOL. In 2025, he took his sets across Europe, the UAE, and South America. Together, Fahlberg and Orsay represent the sound and spirit behind Solmates: a meeting point for artists and audiences drawn to melodic, groove-led electronic music, with a focus on connection, discovery, and the energy of the night. Rooted in Europe but looking outward, Solmates brings together different musical backgrounds and perspectives under one shared atmosphere — where melody meets movement and the right records create lasting moments. 21+ event",
    "url": "https://shotgun.live/en/events/solmates-season-opener-ft-fahlberg-orsay-more",
-   "tickets": "VIP (1st Release) $50, Entry before 11 PM $10 (sold out)",
+   "tickets": "VIP (1st Release) $50, Entry before 11 PM $10 (sold out), Entry Anytime (1st Release) $25",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -11391,6 +11389,31 @@
    "url": "https://dice.fm/event/bbg3vk?pid=d6342b83",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/nandu-nico-morano-536848"
+   ]
+  },
+  {
+   "id": "edmtrain:540449",
+   "source": "edmtrain",
+   "title": "Solèy: Francis Mercier",
+   "artists": [
+    "Francis Mercier"
+   ],
+   "venue": "Little River Studios",
+   "venue_slug": null,
+   "date": "2026-12-03",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "300 NE 71st St, Miami, FL 33138, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://fever.pxf.io/c/254533/1928078/16345?prodsku=778755&u=https%3A%2F%2Ffeverup.com%2Fm%2F778755&intsrc=APIG_15532",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/soley-francis-mercier-540449"
    ]
   },
   {
