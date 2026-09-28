@@ -31,7 +31,7 @@
   "slug": "floyd",
   "name": "Floyd",
   "file": "floyd.ics",
-  "events": 22,
+  "events": 23,
   "estimated_times": 0,
   "next": "2026-09-27",
   "sources": [
@@ -72,9 +72,9 @@
   "slug": "kemistry",
   "name": "Kemistry (Fort Lauderdale)",
   "file": "kemistry.ics",
-  "events": 27,
+  "events": 28,
   "estimated_times": 1,
-  "next": "2026-10-02",
+  "next": "2026-10-01",
   "sources": [
    "19hz",
    "dice",
@@ -86,7 +86,7 @@
   "slug": "boombox",
   "name": "The Boombox Miami",
   "file": "boombox.ics",
-  "events": 8,
+  "events": 9,
   "estimated_times": 0,
   "next": "2026-10-02",
   "sources": [
@@ -171,7 +171,7 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 37,
+  "events": 38,
   "estimated_times": 19,
   "next": "2026-10-02",
   "sources": [

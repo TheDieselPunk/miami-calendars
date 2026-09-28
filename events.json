@@ -186,6 +186,28 @@
    ]
   },
   {
+   "id": "shotgun:miami-jazz-jam-every-monday-15",
+   "source": "shotgun",
+   "title": "Miami Jazz Jam Every Monday",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-09-28",
+   "start": "2026-09-29T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "jazz"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/miami-jazz-jam-every-monday-15"
+  },
+  {
    "id": "19hz:4444303-yissel",
    "source": "19hz+edmtrain",
    "title": "Yissel",
@@ -530,6 +552,30 @@
    "alt_urls": [
     "https://dice.fm/event/6a8b4c2bfec44800018bccb4"
    ]
+  },
+  {
+   "id": "dice:6abac44271279e00013e85c7",
+   "source": "dice",
+   "title": "PINK OUT",
+   "artists": [],
+   "venue": "Kemistry",
+   "venue_slug": "kemistry",
+   "date": "2026-10-01",
+   "start": "2026-10-02T02:00:00+00:00",
+   "end": "2026-10-02T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "bass",
+    "dubstep"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6abac44271279e00013e85c7",
+   "cancelled": false
   },
   {
    "id": "shotgun:superqueen-34",
@@ -1041,7 +1087,7 @@
    ],
    "genres_inferred": false,
    "organizer": "The Boombox Miami",
-   "description": "Joey Cash live",
+   "description": "Joey Cash live THIS IS AN 18+ EVENT Physical ID’s only, Photo ID’s will not be accepted RSVP prioritizes entry, but does not guarantee it Rain or Shine",
    "url": "https://shotgun.live/en/events/joey-cash-the-boombox",
    "tickets": "Early Bird $15 (sold out), T1 $20 (sold out), T2 $25 (sold out), T3 $30",
    "cancelled": false,
@@ -1058,7 +1104,7 @@
   {
    "id": "dice:6a91e895ea5f22000128b2ee",
    "source": "19hz+dice+edmtrain",
-   "title": "Disco Dom & The Brothers Macklovitch",
+   "title": "Dombresky presents Disco Dom & The Brothers Macklovitch (A-Trak & Dave 1)",
    "artists": [
     "Dombresky (Disco Dom Set)",
     "The Brothers Macklovitch (A-Trak & Dave 1 of Chromeo)",
@@ -1464,6 +1510,28 @@
    "cancelled": false
   },
   {
+   "id": "shotgun:hcanathalycandelajoelvengasoct3",
+   "source": "shotgun",
+   "title": "Hca Presents: Nathaly Candela & Joel Venegas",
+   "artists": [],
+   "venue": "Hoy Como Ayer",
+   "venue_slug": null,
+   "date": "2026-10-03",
+   "start": "2026-10-04T01:30:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.70",
+   "genres": [
+    "salsa"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/hcanathalycandelajoelvengasoct3"
+  },
+  {
    "id": "shotgun:c3trlroom-8",
    "source": "edmtrain+shotgun",
    "title": "Dance Therapy: Dmeyer, Marie Posa, Mindgazm, Xonya",
@@ -1714,7 +1782,7 @@
    ],
    "genres_inferred": false,
    "organizer": "omnisoundsevents",
-   "description": "Machina Records presents \"Circuit\" — the first edition of their label party in Miami. Headlining the night is the prolific DJ Marfox from Portugal, pioneer of the Kuduro/Batida sound born out of Angola and label head of Príncipe Discos. Joining him is SAY3, a Liberian/Haitian DJ and early adopter of the Batida sound. Featured on Club Djembe alongside DJ Lycox, he's no stranger to the sonic palette of this Angolan sound. Machina Records label head RARA goes B2B with Ianko FJ, providing support for this deep night of Afrobeat and Afro-electronica. Boombox residents Mango and Guacharo hold down the fort for the night.",
+   "description": "Machina Records presents \"Circuit\" — the first edition of their label party in Miami. Headlining the night is the prolific DJ Marfox from Portugal, pioneer of the Kuduro/Batida sound born out of Angola and label head of Príncipe Discos. Joining him is SAY3, a Liberian/Haitian DJ and early adopter of the Batida sound. Featured on Club Djembe alongside DJ Lycox, he's no stranger to the sonic palette of this Angolan sound. Machina Records label head RARA goes B2B with Ianko FJ, providing support for this deep night of Afrobeat and Afro-electronica. Boombox residents Mango and Guacharo hold down the fort for the night. THIS IS AN 18+ EVENT Physical ID’s only, Photo ID’s will not be accepted RSVP prioritizes entry, but does not guarantee it Rain or Shine",
    "url": "https://shotgun.live/en/events/machina-records-presents-circuit",
    "tickets": "Tier 1 $13.33",
    "cancelled": false,
@@ -1762,7 +1830,7 @@
   {
    "id": "dice:6a91ebccea5f2200012d4c71",
    "source": "19hz+dice+edmtrain",
-   "title": "Âme DJ, Hardt Antoine, & Maceo Plex",
+   "title": "Âme (DJ), Hardt Antoine, & Maceo Plex",
    "artists": [
     "Âme",
     "Hardt Antoine",
@@ -2035,6 +2103,38 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/piecesofpeoplemiami"
+  },
+  {
+   "id": "shotgun:pon-di-box",
+   "source": "shotgun",
+   "title": "Pon DI Box",
+   "artists": [],
+   "venue": "The Boombox Miami",
+   "venue_slug": "boombox",
+   "date": "2026-10-04",
+   "start": "2026-10-04T22:00:00+00:00",
+   "end": "2026-10-05T04:00:00+00:00",
+   "time_estimated": false,
+   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
+   "ages": "",
+   "price": "$5.00",
+   "genres": [
+    "dancehall",
+    "cumbia",
+    "reggae"
+   ],
+   "genres_inferred": false,
+   "organizer": "The Boombox Miami",
+   "description": "Escape Room & The Boombox join forces Two Stages 6pm-12am $5 Pre-Sale $10 at the Door 21+ Only Must bring physical ID's Photos of ID's wont be accepted Rain or Shine",
+   "url": "https://shotgun.live/en/events/pon-di-box",
+   "tickets": "Pre-Sale $5",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.7287781,
+    "longitude": -80.3169309
+   },
+   "created": "2026-09-28T17:00:05.000Z"
   },
   {
    "id": "19hz:4444776-ellaromand",
@@ -2396,7 +2496,7 @@
   {
    "id": "dice:6aad6a7f4e3af20001d7ad92",
    "source": "dice",
-   "title": "Thursday, October 8",
+   "title": "Mila Gama, Proletar, & Fiuza",
    "artists": [],
    "venue": "Jolene Sound Room Miami",
    "venue_slug": "jolene",
@@ -7698,7 +7798,7 @@
   {
    "id": "dice:6a91f5e0a0dc520001e3fe2f",
    "source": "dice+edmtrain",
-   "title": "Halloweek: Halloween Night",
+   "title": "Halloweek: Bedouin + Seth Troxler b2b Victor Calderone + Jamback b2b Toman",
    "artists": [],
    "venue": "Club Space Miami",
    "venue_slug": "club-space",
@@ -9036,6 +9136,30 @@
    ]
   },
   {
+   "id": "shotgun:the-hall-pres-roy-rosenfeld",
+   "source": "shotgun",
+   "title": "The Hall Pres. Roy Rosenfeld",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": "festivals",
+   "date": "2026-11-13",
+   "start": "2026-11-14T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.69",
+   "genres": [
+    "house",
+    "melodic house & techno",
+    "indie dance"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/the-hall-pres-roy-rosenfeld"
+  },
+  {
    "id": "dice:6a9050c13e2dcd00013c2e7e",
    "source": "19hz+dice+edmtrain",
    "title": "NOTION",
@@ -10117,7 +10241,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$11.35",
+   "price": "$17.03",
    "genres": [],
    "genres_inferred": false,
    "organizer": "",
@@ -13157,6 +13281,30 @@
    "alt_urls": [
     "https://edmtrain.com/fort-lauderdale-fl/hamro-sqishi-534522"
    ]
+  },
+  {
+   "id": "dice:6aba864e4479fc0001853144",
+   "source": "dice",
+   "title": "TeeDee",
+   "artists": [],
+   "venue": "Floyd Miami",
+   "venue_slug": "floyd",
+   "date": "2027-01-22",
+   "start": "2027-01-23T04:00:00+00:00",
+   "end": "2027-01-23T10:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6aba864e4479fc0001853144",
+   "cancelled": false
   },
   {
    "id": "edmtrain:458945",

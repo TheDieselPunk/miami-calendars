@@ -510,14 +510,14 @@
   "modified": "2026-09-22T00:40:38+00:00"
  },
  "dice-6a91e895ea5f22000128b2ee@club-space.miami-calendars": {
-  "hash": "0a2ed78f3af212af",
-  "seq": 2,
-  "modified": "2026-09-22T00:40:38+00:00"
+  "hash": "827520943619c3d7",
+  "seq": 3,
+  "modified": "2026-09-28T22:18:05+00:00"
  },
  "dice-6a91ebccea5f2200012d4c71@club-space.miami-calendars": {
-  "hash": "8d003bfb91b6853e",
-  "seq": 3,
-  "modified": "2026-09-22T00:40:38+00:00"
+  "hash": "dd33a181e6acae45",
+  "seq": 4,
+  "modified": "2026-09-28T22:18:05+00:00"
  },
  "dice-6a91ed7fa0dc520001417d57@club-space.miami-calendars": {
   "hash": "ebfa6c3b5e25976e",
@@ -540,9 +540,9 @@
   "modified": "2026-09-22T00:40:38+00:00"
  },
  "dice-6a91f5e0a0dc520001e3fe2f@club-space.miami-calendars": {
-  "hash": "27fad9da312585d9",
-  "seq": 1,
-  "modified": "2026-09-22T00:40:38+00:00"
+  "hash": "b57446f8855640fd",
+  "seq": 2,
+  "modified": "2026-09-28T22:18:05+00:00"
  },
  "dice-6a91f7bca0dc520001e02d08@club-space.miami-calendars": {
   "hash": "2d42f4c3e54e05b9",
@@ -675,9 +675,9 @@
   "modified": "2026-09-26T22:18:17+00:00"
  },
  "dice-6aad6a7f4e3af20001d7ad92@jolene.miami-calendars": {
-  "hash": "d8c11780a4cf9dc6",
-  "seq": 1,
-  "modified": "2026-09-22T00:40:38+00:00"
+  "hash": "c5daa7ff80d22e2d",
+  "seq": 2,
+  "modified": "2026-09-28T22:18:05+00:00"
  },
  "dice-6ab179c76d5a1f0001669601@kemistry.miami-calendars": {
   "hash": "f6e5d2b493bb392a",
@@ -753,6 +753,16 @@
   "hash": "030f2bff3df41968",
   "seq": 0,
   "modified": "2026-09-27T22:18:03+00:00"
+ },
+ "dice-6aba864e4479fc0001853144@floyd.miami-calendars": {
+  "hash": "88fc5c3da49fd5d2",
+  "seq": 0,
+  "modified": "2026-09-28T22:18:05+00:00"
+ },
+ "dice-6abac44271279e00013e85c7@kemistry.miami-calendars": {
+  "hash": "abbcea4b4d52973e",
+  "seq": 0,
+  "modified": "2026-09-28T22:18:05+00:00"
  },
  "edmtrain-434705@festivals.miami-calendars": {
   "hash": "e416a5823d96ff63",
@@ -1170,9 +1180,9 @@
   "modified": "2026-09-25T16:18:07+00:00"
  },
  "joey-cash-the-boombox@shotgun.live": {
-  "hash": "7def28157f9f9161",
-  "seq": 1,
-  "modified": "2026-09-21T20:01:40+00:00"
+  "hash": "d213c8671f974fbd",
+  "seq": 2,
+  "modified": "2026-09-28T22:18:05+00:00"
  },
  "karnival-halloween-party-horror-games-18-rave@shotgun.live": {
   "hash": "aae110cf34b27367",
@@ -1180,9 +1190,9 @@
   "modified": "2026-09-26T22:18:17+00:00"
  },
  "machina-records-presents-circuit@shotgun.live": {
-  "hash": "d46d25ffd5fe53be",
-  "seq": 1,
-  "modified": "2026-09-21T20:01:40+00:00"
+  "hash": "31a47aff58af69a9",
+  "seq": 2,
+  "modified": "2026-09-28T22:18:05+00:00"
  },
  "madradiomiami093026@shotgun.live": {
   "hash": "699755d5dce81c57",
@@ -1221,13 +1231,18 @@
  },
  "madradiomiami101026@shotgun.live": {
   "hash": "0dfb5564add0f10c",
-  "seq": 29,
-  "modified": "2026-09-28T16:18:03+00:00"
+  "seq": 31,
+  "modified": "2026-09-28T22:18:05+00:00"
  },
  "paloma-morphy-miami@shotgun.live": {
   "hash": "1c469fee0d3a69fd",
   "seq": 2,
   "modified": "2026-09-28T04:18:01+00:00"
+ },
+ "pon-di-box@shotgun.live": {
+  "hash": "ba57269f4b5ea31a",
+  "seq": 0,
+  "modified": "2026-09-28T22:18:05+00:00"
  },
  "quick-to-judge-at-the-boombox-10-9@shotgun.live": {
   "hash": "b0c33bc13aa28b6d",
@@ -1263,6 +1278,11 @@
   "hash": "17fac52d4fe0288b",
   "seq": 3,
   "modified": "2026-09-28T04:18:01+00:00"
+ },
+ "the-hall-pres-roy-rosenfeld@shotgun.live": {
+  "hash": "2ce1fd939df891bf",
+  "seq": 0,
+  "modified": "2026-09-28T22:18:05+00:00"
  },
  "zeyzey-alta-joda-fest-17-oct@zeyzey.miami-calendars": {
   "hash": "f5700ea31efe09cd",

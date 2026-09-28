@@ -91,9 +91,9 @@ CATEGORIES:country,pop edm
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101026@shotgun.live
-DTSTAMP:20260928T161803Z
-LAST-MODIFIED:20260928T161803Z
-SEQUENCE:29
+DTSTAMP:20260928T221805Z
+LAST-MODIFIED:20260928T221805Z
+SEQUENCE:31
 DTSTART:20261011T010000Z
 DTEND:20261011T070000Z
 SUMMARY:III Points Satelitte: Tian / Israel Sunshine / Pino / Puma
@@ -293,6 +293,21 @@ DESCRIPTION:Tags: drum and bass\, jungle\, uk bass\, uk garage\nhttps://pos
 URL:https://posh.vip/e/hallowrave-1
 STATUS:CONFIRMED
 CATEGORIES:drum and bass,jungle,uk bass,uk garage
+END:VEVENT
+BEGIN:VEVENT
+UID:the-hall-pres-roy-rosenfeld@shotgun.live
+DTSTAMP:20260928T221805Z
+LAST-MODIFIED:20260928T221805Z
+SEQUENCE:0
+DTSTART:20261114T030000Z
+DTEND:20261114T080000Z
+SUMMARY:The Hall Pres. Roy Rosenfeld
+LOCATION:Miami
+DESCRIPTION:Tags: house\, melodic house & techno\, indie dance\nhttps://sho
+ tgun.live/en/events/the-hall-pres-roy-rosenfeld
+URL:https://shotgun.live/en/events/the-hall-pres-roy-rosenfeld
+STATUS:CONFIRMED
+CATEGORIES:house,melodic house & techno,indie dance
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4448695-sacredmeadowsart@festivals.miami-calendars
