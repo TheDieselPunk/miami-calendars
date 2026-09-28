@@ -8,21 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4444024-fisher@factory-town.miami-calendars
-DTSTAMP:20260927T161800Z
-LAST-MODIFIED:20260927T161800Z
-SEQUENCE:1
-DTSTART:20260927T020000Z
-DTEND:20260927T090000Z
-SUMMARY:Fisher
-LOCATION:Factory Town
-DESCRIPTION:Tags: tech house\nAges: 18+\nhttps://dice.fm/event/avxpod-fishe
- r-26th-sep-factory-town-miami-tickets
-URL:https://dice.fm/event/avxpod-fisher-26th-sep-factory-town-miami-tickets
-STATUS:CONFIRMED
-CATEGORIES:tech house
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6a35888fc559de000170027a@factory-town.miami-calendars
 DTSTAMP:20260922T004154Z
 LAST-MODIFIED:20260922T004154Z

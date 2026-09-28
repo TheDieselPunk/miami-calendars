@@ -8,36 +8,17 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:tablelist-05c68f7fbdffbe06@zeyzey.miami-calendars
-DTSTAMP:20260927T161800Z
-LAST-MODIFIED:20260927T161800Z
-SEQUENCE:1
-DTSTART:20260927T000000Z
-DTEND:20260927T060000Z
-SUMMARY:Riva Starr + Seamus Haji
-LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: deep house\, tech house\nAges: 21+\nhttps://buy.tablelist
- .com/e/05c68f7fbdffbe06\nhttps://calendar.zeyzeymiami.com/shows/riva-starr
- -26-sep\nhttps://ra.co/events/2506139
-URL:https://buy.tablelist.com/e/05c68f7fbdffbe06
-STATUS:CONFIRMED
-CATEGORIES:deep house,tech house
-END:VEVENT
-BEGIN:VEVENT
 UID:tablelist-ff19f2b25fe40779@zeyzey.miami-calendars
-DTSTAMP:20260921T200140Z
-LAST-MODIFIED:20260921T200140Z
-SEQUENCE:2
+DTSTAMP:20260928T041801Z
+LAST-MODIFIED:20260928T041801Z
+SEQUENCE:3
 DTSTART:20260927T230000Z
 DTEND:20260928T030000Z
 SUMMARY:A.CHAL
 LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: hip-hop/rap\nhttps://buy.tablelist.com/e/ff19f2b25fe40779
- \nhttps://calendar.zeyzeymiami.com/shows/a-chal-27-sep\nhttps://calendar.z
- eyzeymiami.com/shows/zeyzey-juniors-27-sep
+DESCRIPTION:https://buy.tablelist.com/e/ff19f2b25fe40779
 URL:https://buy.tablelist.com/e/ff19f2b25fe40779
 STATUS:CONFIRMED
-CATEGORIES:hip-hop/rap
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-presents-dadi-freyr-too-much-not-enough@shotgun.live
@@ -187,9 +168,9 @@ CATEGORIES:dance/electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:solmates-season-opener-ft-fahlberg-orsay-more@shotgun.live
-DTSTAMP:20260927T041810Z
-LAST-MODIFIED:20260927T041810Z
-SEQUENCE:7
+DTSTAMP:20260928T041801Z
+LAST-MODIFIED:20260928T041801Z
+SEQUENCE:8
 DTSTART:20261010T020000Z
 DTEND:20261010T070000Z
 SUMMARY:Solmates Season Opener Ft. Fahlberg\, Orsay & More
@@ -224,12 +205,12 @@ DESCRIPTION:Solmates brings together two European producers whose work meet
  d the right records create lasting moments. 21+ event\nLineup: Fahlberg\, 
  Axel Plays\nTags: afro house\, house\, latin\, melodic house & techno\, pr
  ogressive house\nPresented by: Solmates Miami\nTickets: VIP (1st Release) 
- $50\, Entry before 11 PM $10 (sold out)\, Entry Anytime (1st Release) $25
- \nAges: 21+\nhttps://shotgun.live/en/events/solmates-season-opener-ft-fahl
- berg-orsay-more\nhttps://calendar.zeyzeymiami.com/shows/cain-culto-free-en
- try-09-oct\nhttps://calendar.zeyzeymiami.com/shows/fahlberg-orsay-more-tba
- -09-oct\nhttps://dice.fm/event/6a9750591ac7ec00014fffc8\nhttps://edmtrain.
- com/miami-fl/solmates-fahlberg-534168\nhttps://ra.co/events/2529443
+ $50\, Entry before 11 PM $10 (sold out)\nAges: 21+\nhttps://shotgun.live/e
+ n/events/solmates-season-opener-ft-fahlberg-orsay-more\nhttps://calendar.z
+ eyzeymiami.com/shows/cain-culto-free-entry-09-oct\nhttps://calendar.zeyzey
+ miami.com/shows/fahlberg-orsay-more-tba-09-oct\nhttps://dice.fm/event/6a97
+ 50591ac7ec00014fffc8\nhttps://edmtrain.com/miami-fl/solmates-fahlberg-5341
+ 68\nhttps://ra.co/events/2529443
 URL:https://shotgun.live/en/events/solmates-season-opener-ft-fahlberg-orsay
  -more
 STATUS:CONFIRMED
@@ -1020,9 +1001,9 @@ CATEGORIES:emo
 END:VEVENT
 BEGIN:VEVENT
 UID:paloma-morphy-miami@shotgun.live
-DTSTAMP:20260923T161804Z
-LAST-MODIFIED:20260923T161804Z
-SEQUENCE:1
+DTSTAMP:20260928T041801Z
+LAST-MODIFIED:20260928T041801Z
+SEQUENCE:2
 DTSTART:20270512T230000Z
 DTEND:20270513T060000Z
 SUMMARY:Paloma Morphy
@@ -1042,7 +1023,8 @@ DESCRIPTION:Paloma Morphy With special guest(s) to be announced soon. Where
   honest\, and deeply immersive. Don’t miss the chance to experience one 
  of Latin pop’s fastest-rising artists in Miami this fall\nLineup: Paloma
   Morphy\nTags: latin\, indie pop\, pop\nPresented by: Mishu\nTickets: GA -
-  Tier 1 $20\nhttps://shotgun.live/en/events/paloma-morphy-miami
+  Tier 1 $20 (sold out)\, GA - Tier 2 $25\nhttps://shotgun.live/en/events/p
+ aloma-morphy-miami
 URL:https://shotgun.live/en/events/paloma-morphy-miami
 STATUS:CONFIRMED
 CATEGORIES:latin,indie pop,pop

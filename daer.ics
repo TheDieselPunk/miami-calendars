@@ -8,33 +8,18 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4443984-landis@daer.miami-calendars
-DTSTAMP:20260927T161800Z
-LAST-MODIFIED:20260927T161800Z
-SEQUENCE:1
-DTSTART:20260926T160000Z
-DTEND:20260926T230000Z
-SUMMARY:Landis
-LOCATION:Daer Dayclub\, Hollywood
-DESCRIPTION:Ages: 21+\nhttps://www.tixr.com/groups/daerdayclubsouthflorida/
- events/saturday-september-26th-daer-dayclub-199438
-URL:https://www.tixr.com/groups/daerdayclubsouthflorida/events/saturday-sep
- tember-26th-daer-dayclub-199438
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:hardrock-199440@daer.miami-calendars
-DTSTAMP:20260921T200554Z
-LAST-MODIFIED:20260921T200554Z
+UID:19hz-4444080-goodnightjohnboy@daer.miami-calendars
+DTSTAMP:20260928T041801Z
+LAST-MODIFIED:20260928T041801Z
 SEQUENCE:0
 DTSTART:20260927T160000Z
-DTEND:20260927T220000Z
-SUMMARY:GoodNight JohnBoys Pool Party
-LOCATION:DAER Dayclub\, 1 Seminole Way\, Hollywood\, FL 33314
-DESCRIPTION:Ages: 21+\nhttps://tixr.com/e/199440\nhttps://www.tixr.com/grou
- ps/daerdayclubsouthflorida/events/goodnight-johnboys-pool-party-daer-daycl
- ub-199440
-URL:https://tixr.com/e/199440
+DTEND:20260927T230000Z
+SUMMARY:Goodnight Johnboys Pool Party
+LOCATION:Daer Dayclub\, Hollywood
+DESCRIPTION:Ages: 21+\nhttps://www.tixr.com/groups/daerdayclubsouthflorida/
+ events/goodnight-johnboys-pool-party-daer-dayclub-199440
+URL:https://www.tixr.com/groups/daerdayclubsouthflorida/events/goodnight-jo
+ hnboys-pool-party-daer-dayclub-199440
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

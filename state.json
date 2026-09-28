@@ -1,43 +1,8 @@
 {
- "19hz-4443984-landis@daer.miami-calendars": {
-  "hash": "df90a8ab4a450094",
-  "seq": 1,
-  "modified": "2026-09-27T16:18:00+00:00"
- },
- "19hz-4444020-djrayezdee@mad-radio.miami-calendars": {
-  "hash": "e23a072d9f173abe",
+ "19hz-4444080-goodnightjohnboy@daer.miami-calendars": {
+  "hash": "1bc672ad3fdbe93a",
   "seq": 0,
-  "modified": "2026-09-27T16:18:00+00:00"
- },
- "19hz-4444024-fisher@factory-town.miami-calendars": {
-  "hash": "b77edafbd04f5e6c",
-  "seq": 1,
-  "modified": "2026-09-27T16:18:00+00:00"
- },
- "19hz-4444024-nickwarren@jolene.miami-calendars": {
-  "hash": "5676486836dd9317",
-  "seq": 0,
-  "modified": "2026-09-27T16:18:00+00:00"
- },
- "19hz-4444024-rewind2000srave@kemistry.miami-calendars": {
-  "hash": "d6835ea2c67bbde3",
-  "seq": 1,
-  "modified": "2026-09-27T16:18:00+00:00"
- },
- "19hz-4444024-vladimirdubyshki@domicile.miami-calendars": {
-  "hash": "71113a19781c7458",
-  "seq": 1,
-  "modified": "2026-09-27T16:18:00+00:00"
- },
- "19hz-4444027-frankyrizardo@club-space.miami-calendars": {
-  "hash": "753355bd5a5cc212",
-  "seq": 0,
-  "modified": "2026-09-27T16:18:00+00:00"
- },
- "19hz-4444027-myfriendmisty@floyd.miami-calendars": {
-  "hash": "7bd222d1e20cc286",
-  "seq": 1,
-  "modified": "2026-09-27T16:18:00+00:00"
+  "modified": "2026-09-28T04:18:01+00:00"
  },
  "19hz-4444588-bloodfeastvseven@festivals.miami-calendars": {
   "hash": "0037ba6738533c23",
@@ -914,11 +879,6 @@
   "seq": 0,
   "modified": "2026-09-25T22:18:19+00:00"
  },
- "hardrock-199440@daer.miami-calendars": {
-  "hash": "3dc25cd572b97f5d",
-  "seq": 0,
-  "modified": "2026-09-21T20:05:54+00:00"
- },
  "hardrock-201835@daer.miami-calendars": {
   "hash": "a87d32c582115a1d",
   "seq": 1,
@@ -1261,13 +1221,13 @@
  },
  "madradiomiami101026@shotgun.live": {
   "hash": "0dfb5564add0f10c",
-  "seq": 23,
-  "modified": "2026-09-27T22:18:03+00:00"
+  "seq": 25,
+  "modified": "2026-09-28T04:18:01+00:00"
  },
  "paloma-morphy-miami@shotgun.live": {
-  "hash": "c26dcce8dc56d5ca",
-  "seq": 1,
-  "modified": "2026-09-23T16:18:04+00:00"
+  "hash": "1c469fee0d3a69fd",
+  "seq": 2,
+  "modified": "2026-09-28T04:18:01+00:00"
  },
  "quick-to-judge-at-the-boombox-10-9@shotgun.live": {
   "hash": "b0c33bc13aa28b6d",
@@ -1290,29 +1250,19 @@
   "modified": "2026-09-26T22:18:17+00:00"
  },
  "solmates-season-opener-ft-fahlberg-orsay-more@shotgun.live": {
-  "hash": "30fde512ba22734d",
-  "seq": 7,
-  "modified": "2026-09-27T04:18:10+00:00"
+  "hash": "d496708beb65cd77",
+  "seq": 8,
+  "modified": "2026-09-28T04:18:01+00:00"
  },
  "soundtuaryoctober3@shotgun.live": {
   "hash": "316ffee3a07cd1bc",
   "seq": 0,
   "modified": "2026-09-21T21:40:09+00:00"
  },
- "tablelist-05c68f7fbdffbe06@zeyzey.miami-calendars": {
-  "hash": "eef67dfbab769db4",
-  "seq": 1,
-  "modified": "2026-09-27T16:18:00+00:00"
- },
  "tablelist-ff19f2b25fe40779@zeyzey.miami-calendars": {
-  "hash": "99a573b5c73c612b",
-  "seq": 2,
-  "modified": "2026-09-21T20:01:40+00:00"
- },
- "velora-sallywants-thesourdrops-drifting-at-boomboox-9-27@shotgun.live": {
-  "hash": "b40b921b23b14f75",
-  "seq": 0,
-  "modified": "2026-09-22T22:18:08+00:00"
+  "hash": "17fac52d4fe0288b",
+  "seq": 3,
+  "modified": "2026-09-28T04:18:01+00:00"
  },
  "zeyzey-alta-joda-fest-17-oct@zeyzey.miami-calendars": {
   "hash": "f5700ea31efe09cd",
