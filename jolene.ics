@@ -204,12 +204,12 @@ CATEGORIES:techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a86066921cf70000141b5a6@jolene.miami-calendars
-DTSTAMP:20260922T004038Z
-LAST-MODIFIED:20260922T004038Z
-SEQUENCE:1
+DTSTAMP:20260929T221815Z
+LAST-MODIFIED:20260929T221815Z
+SEQUENCE:2
 DTSTART:20261030T020000Z
 DTEND:20261030T080000Z
-SUMMARY:Hercules & Love Affair
+SUMMARY:Hercules & Love Affair (DJ Set)
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
 DESCRIPTION:Lineup: Hercules & Love Affair\nTags: deep house\, disco\, tech
@@ -271,14 +271,15 @@ STATUS:CONFIRMED
 CATEGORIES:electro,techno
 END:VEVENT
 BEGIN:VEVENT
-UID:19hz-4450072-ryanelliot@jolene.miami-calendars
-DTSTAMP:20260929T161809Z
-LAST-MODIFIED:20260929T161809Z
+UID:dice-6a6bc6a9f6f43900015dbfd4@jolene.miami-calendars
+DTSTAMP:20260929T221815Z
+LAST-MODIFIED:20260929T221815Z
 SEQUENCE:0
 DTSTART:20261129T030000Z
 DTEND:20261129T090000Z
-SUMMARY:Ryan Elliot
-LOCATION:Jolene Downtown
+SUMMARY:Ryan Elliot & Danny Daze
+LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
+ a 33131\, United States
 DESCRIPTION:Lineup: Danny Daze\, Ryan Elliott\nTags: house\nAges: 21+\nhttp
  s://dice.fm/event/6do6o7-ryan-elliot-danny-daze-28th-nov-jolene-sound-room
  -miami-miami-tickets\nhttps://edmtrain.com/miami-fl/danny-daze-ryan-elliot

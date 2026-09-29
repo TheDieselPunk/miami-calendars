@@ -73,6 +73,30 @@
    "url": "https://shotgun.live/en/events/comedy-night-at-churchill-s-5"
   },
   {
+   "id": "shotgun:manchester-meets-miami-every-tuesday",
+   "source": "shotgun",
+   "title": "Manchester Meets Miami : Every Tuesday",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-09-29",
+   "start": "2026-09-30T02:30:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "alternative dance",
+    "electro",
+    "new wave"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/manchester-meets-miami-every-tuesday"
+  },
+  {
    "id": "shotgun:undertone",
    "source": "edmtrain+shotgun",
    "title": "Undertone",
@@ -1245,7 +1269,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$28.38",
+   "price": "$34.05",
    "genres": [
     "afro house",
     "house",
@@ -2886,6 +2910,32 @@
    "url": "https://dice.fm/event/6do778-yokoo-9th-oct-do-not-sit-on-the-furniture-miami-beach-tickets",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/yokoo-523282"
+   ]
+  },
+  {
+   "id": "shotgun:mints-on-the-house-oct-09",
+   "source": "edmtrain+shotgun",
+   "title": "Mints On The House",
+   "artists": [],
+   "venue": "EDGE MIAMI",
+   "venue_slug": null,
+   "date": "2026-10-09",
+   "start": "2026-10-10T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$20.00",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/mints-on-the-house-oct-09",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/mints-on-the-house-540956"
    ]
   },
   {
@@ -4927,6 +4977,33 @@
    "url": "https://www.livnightclub.com/miami/event/EVE112156200020261016/friday/?ref=raco",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/black-coffee-537636"
+   ]
+  },
+  {
+   "id": "edmtrain:540949",
+   "source": "edmtrain",
+   "title": "MoBlack Records: Re.You",
+   "artists": [
+    "Re.You"
+   ],
+   "venue": "Do Not Sit On The Furniture",
+   "venue_slug": null,
+   "date": "2026-10-16",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "423 16th St, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "deep house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/7dxxk9?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/moblack-records-re-you-540949"
    ]
   },
   {
@@ -7048,7 +7125,7 @@
   {
    "id": "dice:6a86066921cf70000141b5a6",
    "source": "19hz+dice+edmtrain",
-   "title": "Hercules & Love Affair",
+   "title": "Hercules & Love Affair (DJ Set)",
    "artists": [
     "Hercules & Love Affair"
    ],
@@ -7075,6 +7152,33 @@
    "alt_urls": [
     "https://dice.fm/event/6a86066921cf70000141b5a6",
     "https://edmtrain.com/miami-fl/hercules-and-love-affair-530459"
+   ]
+  },
+  {
+   "id": "edmtrain:540950",
+   "source": "edmtrain",
+   "title": "Viken Arman",
+   "artists": [
+    "Viken Arman"
+   ],
+   "venue": "Do Not Sit On The Furniture",
+   "venue_slug": null,
+   "date": "2026-10-29",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "423 16th St, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "deep house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/eo95ow?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/viken-arman-540950"
    ]
   },
   {
@@ -7746,7 +7850,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$23",
+   "price": "$22.70",
    "genres": [
     "disco",
     "disco house",
@@ -8607,6 +8711,30 @@
    "organizer": "",
    "description": "",
    "url": "https://ra.co/events/2528914"
+  },
+  {
+   "id": "dice:6abbdcda4a21e200016b9d90",
+   "source": "dice",
+   "title": "808 Life: DJ Assault + DJ Godfather",
+   "artists": [],
+   "venue": "The Ground Miami",
+   "venue_slug": "the-ground",
+   "date": "2026-11-06",
+   "start": "2026-11-07T04:00:00+00:00",
+   "end": "2026-11-07T12:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $10",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6abbdcda4a21e200016b9d90",
+   "cancelled": false
   },
   {
    "id": "dice:6aac2b58ba4e800001745f0c",
@@ -9573,9 +9701,11 @@
   },
   {
    "id": "hardrock:206002",
-   "source": "venue",
+   "source": "edmtrain+venue",
    "title": "Maddix",
-   "artists": [],
+   "artists": [
+    "Maddix"
+   ],
    "venue": "DAER Nightclub",
    "venue_slug": "daer",
    "date": "2026-11-14",
@@ -9590,7 +9720,10 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/206002",
-   "generic_title": false
+   "generic_title": false,
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/maddix-540878"
+   ]
   },
   {
    "id": "19hz:4448728-jeremyolander",
@@ -10170,9 +10303,9 @@
   {
    "id": "edmtrain:537172",
    "source": "edmtrain",
-   "title": "Rodriguez Jr.",
+   "title": "Halo Varga",
    "artists": [
-    "Rodriguez Jr."
+    "Halo Varga"
    ],
    "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
@@ -10191,7 +10324,7 @@
    "description": "",
    "url": "https://dice.fm/event/py39ry?pid=d6342b83",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/rodriguez-jr-537172"
+    "https://edmtrain.com/miami-fl/halo-varga-537172"
    ]
   },
   {
@@ -10642,6 +10775,30 @@
    ]
   },
   {
+   "id": "dice:6abbde6877c894000165e049",
+   "source": "dice",
+   "title": "PAYÉ",
+   "artists": [],
+   "venue": "The Ground Miami",
+   "venue_slug": "the-ground",
+   "date": "2026-11-25",
+   "start": "2026-11-26T04:00:00+00:00",
+   "end": "2026-11-26T12:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $10",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6abbde6877c894000165e049",
+   "cancelled": false
+  },
+  {
    "id": "hardrock:206020",
    "source": "venue",
    "title": "DAER Nightclub",
@@ -10746,6 +10903,30 @@
     "https://dice.fm/event/6ab17e0bf1fdd8000191620e",
     "https://edmtrain.com/miami-fl/teletech-538703"
    ]
+  },
+  {
+   "id": "dice:6abbe1d7214d4c0001006f40",
+   "source": "dice",
+   "title": "RUMBLE IN THE JUNGLE: Nikki Nair + Nanoos",
+   "artists": [],
+   "venue": "The Ground Miami",
+   "venue_slug": "the-ground",
+   "date": "2026-11-27",
+   "start": "2026-11-28T04:00:00+00:00",
+   "end": "2026-11-28T12:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $10",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6abbe1d7214d4c0001006f40",
+   "cancelled": false
   },
   {
    "id": "edmtrain:539771",
@@ -10857,22 +11038,22 @@
    ]
   },
   {
-   "id": "19hz:4450072-ryanelliot",
-   "source": "19hz+edmtrain",
-   "title": "Ryan Elliot",
+   "id": "dice:6a6bc6a9f6f43900015dbfd4",
+   "source": "19hz+dice+edmtrain",
+   "title": "Ryan Elliot & Danny Daze",
    "artists": [
     "Danny Daze",
     "Ryan Elliott"
    ],
-   "venue": "Jolene Downtown",
+   "venue": "Jolene Sound Room Miami",
    "venue_slug": "jolene",
    "date": "2026-11-28",
    "start": "2026-11-29T03:00:00+00:00",
    "end": "2026-11-29T09:00:00+00:00",
    "time_estimated": false,
-   "address": "",
+   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "$10",
+   "price": "From $10",
    "genres": [
     "house"
    ],
@@ -10880,7 +11061,9 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6do6o7-ryan-elliot-danny-daze-28th-nov-jolene-sound-room-miami-miami-tickets",
+   "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/6do6o7-ryan-elliot-danny-daze-28th-nov-jolene-sound-room-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/danny-daze-ryan-elliott-537621"
    ]
   },
@@ -11027,6 +11210,30 @@
     "https://dice.fm/event/53kwqd-bag-raiders-28th-nov-floyd-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/bag-raiders-katie-ox-532664"
    ]
+  },
+  {
+   "id": "dice:6abbe310b2412f00017024b3",
+   "source": "dice",
+   "title": "Ritmo Celestial",
+   "artists": [],
+   "venue": "The Ground Miami",
+   "venue_slug": "the-ground",
+   "date": "2026-11-28",
+   "start": "2026-11-29T04:00:00+00:00",
+   "end": "2026-11-29T12:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $23",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6abbe310b2412f00017024b3",
+   "cancelled": false
   },
   {
    "id": "edmtrain:533040",
@@ -12937,6 +13144,33 @@
    "description": "",
    "url": "https://tixr.com/e/207838",
    "generic_title": true
+  },
+  {
+   "id": "edmtrain:540836",
+   "source": "edmtrain",
+   "title": "EAZYBAKED, Dabow, Rafeeki",
+   "artists": [
+    "EAZYBAKED",
+    "Dabow",
+    "Rafeeki"
+   ],
+   "venue": "Midline Miami",
+   "venue_slug": "midline",
+   "date": "2026-12-19",
+   "start": "2026-12-20T03:00:00+00:00",
+   "end": "2026-12-20T08:00:00+00:00",
+   "time_estimated": true,
+   "address": "2221 NW Miami Ct, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzA2NjQzOjc=/clickthru",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/eazybaked-dabow-540836"
+   ]
   },
   {
    "id": "edmtrain:534106",

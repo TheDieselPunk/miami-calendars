@@ -138,6 +138,23 @@ STATUS:CONFIRMED
 CATEGORIES:bass music,dubstep
 END:VEVENT
 BEGIN:VEVENT
+UID:edmtrain-540836@midline.miami-calendars
+DTSTAMP:20260929T221815Z
+LAST-MODIFIED:20260929T221815Z
+SEQUENCE:0
+DTSTART:20261220T030000Z
+DTEND:20261220T080000Z
+SUMMARY:EAZYBAKED\, Dabow\, Rafeeki
+LOCATION:Midline Miami\, 2221 NW Miami Ct\, Miami\, FL 33127\, USA
+DESCRIPTION:Lineup: EAZYBAKED\, Dabow\, Rafeeki\nTimes are an estimate from
+  Midline's usual hours - the listing has no start time yet. Check the link
+ .\nhttps://prod-nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzA2Nj
+ QzOjc=/clickthru\nhttps://edmtrain.com/miami-fl/eazybaked-dabow-540836
+URL:https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzA2Nj
+ QzOjc=/clickthru
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:19hz-4453236-dreamland2026mai@midline.miami-calendars
 DTSTAMP:20260921T214009Z
 LAST-MODIFIED:20260921T214009Z
