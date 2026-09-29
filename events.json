@@ -30,28 +30,6 @@
    ]
   },
   {
-   "id": "shotgun:miami-jazz-jam-every-monday-15",
-   "source": "shotgun",
-   "title": "Miami Jazz Jam Every Monday",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-09-28",
-   "start": "2026-09-29T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [
-    "jazz"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/miami-jazz-jam-every-monday-15"
-  },
-  {
    "id": "19hz:4444303-yissel",
    "source": "19hz+edmtrain",
    "title": "Yissel",
@@ -305,7 +283,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "",
-   "price": "",
+   "price": " (sold out)",
    "genres": [
     "house",
     "techno"
