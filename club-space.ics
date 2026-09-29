@@ -43,16 +43,16 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a91ebccea5f2200012d4c71@club-space.miami-calendars
-DTSTAMP:20260928T221805Z
-LAST-MODIFIED:20260928T221805Z
-SEQUENCE:4
+DTSTAMP:20260929T041814Z
+LAST-MODIFIED:20260929T041814Z
+SEQUENCE:5
 DTSTART:20261004T030000Z
 DTEND:20261004T180000Z
 SUMMARY:Âme (DJ)\, Hardt Antoine\, & Maceo Plex
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Âme\, Hardt Antoine\, Maceo Plex\nTags: tech house\nAg
- es: 21+\nhttps://dice.fm/event/6a91ebccea5f2200012d4c71\nhttps://edmtrain.
- com/miami-fl/ame-hardt-antoine-533025
+DESCRIPTION:Lineup: Âme\, Hardt Antoine\, Maceo Plex\, Cami di Marzo\, Aab
+ el\nTags: tech house\nAges: 21+\nhttps://dice.fm/event/6a91ebccea5f2200012
+ d4c71\nhttps://edmtrain.com/miami-fl/ame-hardt-antoine-533025
 URL:https://dice.fm/event/6a91ebccea5f2200012d4c71
 STATUS:CONFIRMED
 CATEGORIES:tech house
@@ -76,16 +76,17 @@ CATEGORIES:minimal,tech house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a72288c57ddd20001097968@club-space.miami-calendars
-DTSTAMP:20260922T004154Z
-LAST-MODIFIED:20260922T004154Z
-SEQUENCE:3
+DTSTAMP:20260929T041814Z
+LAST-MODIFIED:20260929T041814Z
+SEQUENCE:4
 DTSTART:20261011T030000Z
 DTEND:20261011T180000Z
 SUMMARY:MVSON
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Mason Collective\nTags: tech house\nAges: 21+\nhttps://
- dice.fm/event/7dx7bv-mvson-10th-oct-club-space-miami-miami-tickets\nhttps:
- //edmtrain.com/miami-fl/mason-collective-526382
+DESCRIPTION:Lineup: Mason Collective\, Dennis Ferrer\, Bontan\, Classmatic
+ \, AJ Christou\, Rooléh\nTags: tech house\nAges: 21+\nhttps://dice.fm/eve
+ nt/7dx7bv-mvson-10th-oct-club-space-miami-miami-tickets\nhttps://edmtrain.
+ com/miami-fl/mason-collective-dennis-ferrer-526382
 URL:https://dice.fm/event/7dx7bv-mvson-10th-oct-club-space-miami-miami-tick
  ets
 STATUS:CONFIRMED
@@ -221,16 +222,17 @@ CATEGORIES:deep house,progressive house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a91f5e0a0dc520001e3fe2f@club-space.miami-calendars
-DTSTAMP:20260928T221805Z
-LAST-MODIFIED:20260928T221805Z
-SEQUENCE:2
+DTSTAMP:20260929T041814Z
+LAST-MODIFIED:20260929T041814Z
+SEQUENCE:3
 DTSTART:20261101T030000Z
 DTEND:20261101T190000Z
 SUMMARY:Halloweek: Bedouin + Seth Troxler b2b Victor Calderone + Jamback b2
  b Toman
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6a91f5e0a0d
- c520001e3fe2f\nhttps://edmtrain.com/miami-fl/halloweek-531560
+DESCRIPTION:Lineup: Bedouin\, Seth Troxler\, Victor Calderone\, Jamback\, T
+ oman\nTags (guess): house\, techno\nhttps://dice.fm/event/6a91f5e0a0dc5200
+ 01e3fe2f\nhttps://edmtrain.com/miami-fl/halloweek-bedouin-531560
 URL:https://dice.fm/event/6a91f5e0a0dc520001e3fe2f
 STATUS:CONFIRMED
 CATEGORIES:house,techno

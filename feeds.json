@@ -31,9 +31,9 @@
   "slug": "floyd",
   "name": "Floyd",
   "file": "floyd.ics",
-  "events": 23,
+  "events": 22,
   "estimated_times": 0,
-  "next": "2026-09-27",
+  "next": "2026-10-02",
   "sources": [
    "19hz",
    "dice",
@@ -91,6 +91,7 @@
   "next": "2026-10-02",
   "sources": [
    "19hz",
+   "edmtrain",
    "shotgun"
   ],
   "hours_note": "Observed on Shotgun: club nights 10 PM-4 AM; live/hardcore shows 6-11 PM."
@@ -101,13 +102,12 @@
   "file": "zeyzey.ics",
   "events": 61,
   "estimated_times": 0,
-  "next": "2026-09-27",
+  "next": "2026-10-01",
   "sources": [
    "19hz",
    "dice",
    "edmtrain",
    "shotgun",
-   "tablelist",
    "venue"
   ],
   "hours_note": "Observed on Shotgun: shows 7 PM-1 AM; Friday DJ nights 10 PM-3 AM."
@@ -130,9 +130,9 @@
   "slug": "daer",
   "name": "DAER (Hard Rock Hollywood)",
   "file": "daer.ics",
-  "events": 61,
+  "events": 60,
   "estimated_times": 1,
-  "next": "2026-09-27",
+  "next": "2026-10-02",
   "sources": [
    "19hz",
    "edmtrain",

@@ -8,22 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4444123-knightclubsprayc@floyd.miami-calendars
-DTSTAMP:20260928T161803Z
-LAST-MODIFIED:20260928T161803Z
-SEQUENCE:1
-DTSTART:20260928T030000Z
-DTEND:20260928T090000Z
-SUMMARY:Knight Club : Spray\, Cole Knight\, Lucaz
-LOCATION:Floyd Miami
-DESCRIPTION:Tags: progressive house\, tech house\nAges: 21+\nhttps://dice.f
- m/event/nvp3oq-knight-club-27th-sep-floyd-miami-miami-tickets
-URL:https://dice.fm/event/nvp3oq-knight-club-27th-sep-floyd-miami-miami-tic
- kets
-STATUS:CONFIRMED
-CATEGORIES:progressive house,tech house
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6a906d9602c6070001fac780@floyd.miami-calendars
 DTSTAMP:20260922T004154Z
 LAST-MODIFIED:20260922T004154Z

@@ -8,19 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:tablelist-ff19f2b25fe40779@zeyzey.miami-calendars
-DTSTAMP:20260928T041801Z
-LAST-MODIFIED:20260928T041801Z
-SEQUENCE:3
-DTSTART:20260927T230000Z
-DTEND:20260928T030000Z
-SUMMARY:A.CHAL
-LOCATION:ZeyZey Miami
-DESCRIPTION:https://buy.tablelist.com/e/ff19f2b25fe40779
-URL:https://buy.tablelist.com/e/ff19f2b25fe40779
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:zeyzey-presents-dadi-freyr-too-much-not-enough@shotgun.live
 DTSTAMP:20260921T200140Z
 LAST-MODIFIED:20260921T200140Z
@@ -968,6 +955,19 @@ URL:https://calendar.zeyzeymiami.com/shows/ax-and-the-hatchetmen-the-late-c
  heckout-tour-2026-13-dec
 STATUS:CONFIRMED
 CATEGORIES:indie/alternative
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-i-love-r-b-party-18-dec@zeyzey.miami-calendars
+DTSTAMP:20260929T041814Z
+LAST-MODIFIED:20260929T041814Z
+SEQUENCE:0
+DTSTART:20261219T010000Z
+DTEND:20261219T080000Z
+SUMMARY:I Love R&B party
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://calendar.zeyzeymiami.com/shows/i-love-r-b-party-18-dec
+URL:https://calendar.zeyzeymiami.com/shows/i-love-r-b-party-18-dec
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-dayme-arocena-la-ultima-rumba-19-dec@zeyzey.miami-calendars
