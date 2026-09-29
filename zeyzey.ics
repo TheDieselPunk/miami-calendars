@@ -480,6 +480,40 @@ STATUS:CONFIRMED
 CATEGORIES:indie/alternative
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-salsa-z-30-oct@zeyzey.miami-calendars
+DTSTAMP:20260929T161809Z
+LAST-MODIFIED:20260929T161809Z
+SEQUENCE:0
+DTSTART:20261030T230000Z
+DTEND:20261031T070000Z
+SUMMARY:Salsa Z
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: latin\nhttps://calendar.zeyzeymiami.com/shows/salsa-z-30-
+ oct
+URL:https://calendar.zeyzeymiami.com/shows/salsa-z-30-oct
+STATUS:CONFIRMED
+CATEGORIES:latin
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-fleetmac-wood-horror-hifi-free-entry-30-oct@zeyzey.miami-calenda
+ rs
+DTSTAMP:20260929T161809Z
+LAST-MODIFIED:20260929T161809Z
+SEQUENCE:2
+DTSTART:20261031T010000Z
+DTEND:20261031T070000Z
+SUMMARY:Fleetmac Wood + Horror HiFi (Free Entry)
+LOCATION:ZeyZey Miami
+DESCRIPTION:Lineup: Fleetmac Wood\, Roxanne Roll\, Alex Oxley\nTags: disco
+ \, funk\nAges: All ages\nhttps://calendar.zeyzeymiami.com/shows/fleetmac-w
+ ood-horror-hifi-free-entry-30-oct\nhttps://edmtrain.com/miami-fl/fleetmac-
+ wood-roxanne-roll-524856
+URL:https://calendar.zeyzeymiami.com/shows/fleetmac-wood-horror-hifi-free-e
+ ntry-30-oct
+STATUS:CONFIRMED
+CATEGORIES:disco,funk
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-ile-30-oct@zeyzey.miami-calendars
 DTSTAMP:20260921T200140Z
 LAST-MODIFIED:20260921T200140Z
@@ -493,23 +527,19 @@ URL:https://calendar.zeyzeymiami.com/shows/ile-30-oct
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:zeyzey-fleetmac-wood-horror-hifi-free-entry-30-oct@zeyzey.miami-calenda
- rs
-DTSTAMP:20260921T235357Z
-LAST-MODIFIED:20260921T235357Z
-SEQUENCE:1
-DTSTART:20261031T030000Z
+UID:zeyzey-salsa-vs-perreo-30-oct@zeyzey.miami-calendars
+DTSTAMP:20260929T161809Z
+LAST-MODIFIED:20260929T161809Z
+SEQUENCE:0
+DTSTART:20261031T023000Z
 DTEND:20261031T070000Z
-SUMMARY:Fleetmac Wood + Horror HiFi (Free Entry)
+SUMMARY:Salsa vs Perreo
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: Fleetmac Wood\, Roxanne Roll\, Alex Oxley\nTags: disco
- \, funk\nAges: All ages\nhttps://calendar.zeyzeymiami.com/shows/fleetmac-w
- ood-horror-hifi-free-entry-30-oct\nhttps://edmtrain.com/miami-fl/fleetmac-
- wood-roxanne-roll-524856
-URL:https://calendar.zeyzeymiami.com/shows/fleetmac-wood-horror-hifi-free-e
- ntry-30-oct
+DESCRIPTION:Tags: latin\nhttps://calendar.zeyzeymiami.com/shows/salsa-vs-pe
+ rreo-30-oct
+URL:https://calendar.zeyzeymiami.com/shows/salsa-vs-perreo-30-oct
 STATUS:CONFIRMED
-CATEGORIES:disco,funk
+CATEGORIES:latin
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-golden-a-k-pop-kids-party-31-oct@zeyzey.miami-calendars

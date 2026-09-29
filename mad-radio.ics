@@ -197,9 +197,9 @@ GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101026@shotgun.live
-DTSTAMP:20260929T101808Z
-LAST-MODIFIED:20260929T101808Z
-SEQUENCE:34
+DTSTAMP:20260929T161809Z
+LAST-MODIFIED:20260929T161809Z
+SEQUENCE:36
 DTSTART:20261011T010000Z
 DTEND:20261011T070000Z
 SUMMARY:III Points Satelitte: Tian / Israel Sunshine / Pino / Puma
@@ -215,6 +215,29 @@ DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
  hotgun.live/en/events/madradiomiami101026\nhttps://edmtrain.com/miami-fl/t
  ian-israel-sunshine-540057
 URL:https://shotgun.live/en/events/madradiomiami101026
+STATUS:CONFIRMED
+CATEGORIES:deep house,house
+GEO:25.8462027;-80.1851332
+END:VEVENT
+BEGIN:VEVENT
+UID:madradiomiami102926@shotgun.live
+DTSTAMP:20260929T161809Z
+LAST-MODIFIED:20260929T161809Z
+SEQUENCE:0
+DTSTART:20261030T010000Z
+DTEND:20261030T070000Z
+SUMMARY:Wax'n Dance X Never Forever: Per Hammar / Yunks / Gali
+LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
+DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
+ ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
+  our slick radio show serving up the latest tracks. Save the date and cath
+  the urban-chic experience at Mad Radio Miami. See you on the dance floor!
+  Come early\, stay late\, and let the night unfold FREE ENTRY BEFORE 10 PM
+  / FREE ENTRY LADIES UNTIL MIDNIGHT +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
+ \nLineup: Per Hammar\, YUNKS.FM\nTags (guess): deep house\, house\nTickets
+ : AFTER 10 PM $20\, FREE LADIES RSVP BEFORE 12 AM Free\nhttps://shotgun.li
+ ve/en/events/madradiomiami102926
+URL:https://shotgun.live/en/events/madradiomiami102926
 STATUS:CONFIRMED
 CATEGORIES:deep house,house
 GEO:25.8462027;-80.1851332

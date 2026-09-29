@@ -2,11 +2,9 @@
  "events": [
   {
    "id": "19hz:4444207-prankstisci",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Prankstisci",
-   "artists": [
-    "Prankstisci"
-   ],
+   "artists": [],
    "venue": "E11even",
    "venue_slug": null,
    "date": "2026-09-28",
@@ -24,10 +22,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://speakeasygo.com/event/EVE-BDV3I4",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/prankstisci-524470"
-   ]
+   "url": "https://speakeasygo.com/event/EVE-BDV3I4"
   },
   {
    "id": "19hz:4444303-yissel",
@@ -99,6 +94,30 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/undertone-540599"
    ]
+  },
+  {
+   "id": "shotgun:open-mic-at-churchill-s-pub-15",
+   "source": "shotgun",
+   "title": "Open Mic : Every Wednesday",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-09-30",
+   "start": "2026-10-01T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "punk",
+    "post-punk",
+    "rock"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/open-mic-at-churchill-s-pub-15"
   },
   {
    "id": "shotgun:madradiomiami093026",
@@ -351,6 +370,30 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/trip-dont-sleep-auphoria-540052"
    ]
+  },
+  {
+   "id": "shotgun:vocal-jukebox-every-thursday-11",
+   "source": "shotgun",
+   "title": "Vocal Jukebox : Every Thursday",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-10-01",
+   "start": "2026-10-02T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "post-punk",
+    "new wave",
+    "indie"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/vocal-jukebox-every-thursday-11"
   },
   {
    "id": "dice:6ab3eef6a713180001f76939",
@@ -771,7 +814,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$20.00",
+   "price": "$10.00",
    "genres": [
     "house",
     "latin house",
@@ -1458,7 +1501,7 @@
   {
    "id": "hardrock:202029",
    "source": "venue",
-   "title": "DAER Nightclub",
+   "title": "T.I.",
    "artists": [],
    "venue": "DAER Nightclub",
    "venue_slug": "daer",
@@ -1474,7 +1517,7 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/202029",
-   "generic_title": true
+   "generic_title": false
   },
   {
    "id": "19hz:4444696-tamirregevjessyn",
@@ -2176,6 +2219,29 @@
    "url": "https://shotgun.live/en/events/sunday-scaries-a-comedy-show-at-wanderlust"
   },
   {
+   "id": "shotgun:psych-on-drugs-every-sunday",
+   "source": "shotgun",
+   "title": "Psych On Drugs: Every Sunday",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-10-04",
+   "start": "2026-10-05T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "psychedelic rock",
+    "rock"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/psych-on-drugs-every-sunday"
+  },
+  {
    "id": "dice:6a906eeb3e2dcd0001b0a622",
    "source": "19hz+dice+edmtrain",
    "title": "Jay De Lys",
@@ -2584,6 +2650,30 @@
    "created": "2026-09-09T16:34:34.000Z"
   },
   {
+   "id": "shotgun:flow-fright",
+   "source": "shotgun",
+   "title": "Flow Fright",
+   "artists": [],
+   "venue": "Klub Kutters Bar & Lounge",
+   "venue_slug": null,
+   "date": "2026-10-09",
+   "start": "2026-10-09T23:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$8.11",
+   "genres": [
+    "riddim",
+    "techno",
+    "trance"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/flow-fright"
+  },
+  {
    "id": "19hz:4445263-ultrasunnthebeas",
    "source": "19hz",
    "title": "Ultra Sunn The Beast In You Tour + Soft Vein",
@@ -2813,7 +2903,7 @@
    "venue_slug": "factory-town",
    "date": "2026-10-09",
    "start": "2026-10-10T02:00:00+00:00",
-   "end": "2026-10-10T09:00:00+00:00",
+   "end": "2026-10-10T08:00:00+00:00",
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
@@ -3670,6 +3760,30 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/sidequest-534375"
    ]
+  },
+  {
+   "id": "shotgun:tudo-bem-refilled-miami-debut",
+   "source": "shotgun",
+   "title": "Tudo Bem: Refilled Miami Debut",
+   "artists": [],
+   "venue": "Sunkissed",
+   "venue_slug": null,
+   "date": "2026-10-10",
+   "start": "2026-10-11T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "miami bass",
+    "baile funk",
+    "bass"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/tudo-bem-refilled-miami-debut"
   },
   {
    "id": "dice:6a72288c57ddd20001097968",
@@ -6898,6 +7012,40 @@
    "url": "https://wl.eventim.us/event/sunsquabi/703607?afflky=FunkyBiscuit"
   },
   {
+   "id": "shotgun:madradiomiami102926",
+   "source": "shotgun",
+   "title": "Wax'n Dance X Never Forever: Per Hammar / Yunks / Gali",
+   "artists": [
+    "Per Hammar",
+    "YUNKS.FM"
+   ],
+   "venue": "Mad Radio Miami",
+   "venue_slug": "mad-radio",
+   "date": "2026-10-29",
+   "start": "2026-10-30T01:00:00+00:00",
+   "end": "2026-10-30T07:00:00+00:00",
+   "time_estimated": false,
+   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "ages": "",
+   "price": "$21.80",
+   "genres": [
+    "deep house",
+    "house"
+   ],
+   "genres_inferred": true,
+   "organizer": "Mad Radio Miami",
+   "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY BEFORE 10 PM / FREE ENTRY LADIES UNTIL MIDNIGHT +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
+   "url": "https://shotgun.live/en/events/madradiomiami102926",
+   "tickets": "AFTER 10 PM $20, FREE LADIES RSVP BEFORE 12 AM Free",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.8462027,
+    "longitude": -80.1851332
+   },
+   "created": "2026-09-29T16:00:11.000Z"
+  },
+  {
    "id": "dice:6a86066921cf70000141b5a6",
    "source": "19hz+dice+edmtrain",
    "title": "Hercules & Love Affair",
@@ -6981,6 +7129,29 @@
    "created": "2026-09-25T17:00:02.000Z"
   },
   {
+   "id": "zeyzey:salsa-z-30-oct",
+   "source": "venue",
+   "title": "Salsa Z",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-10-30",
+   "start": "2026-10-30T23:00:00+00:00",
+   "end": "2026-10-31T07:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "latin"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/salsa-z-30-oct",
+   "cancelled": false
+  },
+  {
    "id": "19hz:4447279-hallorave",
    "source": "19hz+edmtrain",
    "title": "Hallorave",
@@ -7006,6 +7177,38 @@
    "url": "https://posh.vip/e/hallowrave-1",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/hallorave-533552"
+   ]
+  },
+  {
+   "id": "zeyzey:fleetmac-wood-horror-hifi-free-entry-30-oct",
+   "source": "19hz+edmtrain+venue",
+   "title": "Fleetmac Wood + Horror HiFi (Free Entry)",
+   "artists": [
+    "Fleetmac Wood",
+    "Roxanne Roll",
+    "Alex Oxley"
+   ],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-10-30",
+   "start": "2026-10-31T01:00:00+00:00",
+   "end": "2026-10-31T07:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "All ages",
+   "price": "Free",
+   "genres": [
+    "disco",
+    "funk"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/fleetmac-wood-horror-hifi-free-entry-30-oct",
+   "cancelled": false,
+   "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/fleetmac-wood-horror-hifi-free-entry-30-oct",
+    "https://edmtrain.com/miami-fl/fleetmac-wood-roxanne-roll-524856"
    ]
   },
   {
@@ -7270,6 +7473,29 @@
    "url": "https://ra.co/events/2527634"
   },
   {
+   "id": "zeyzey:salsa-vs-perreo-30-oct",
+   "source": "venue",
+   "title": "Salsa vs Perreo",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-10-30",
+   "start": "2026-10-31T02:30:00+00:00",
+   "end": "2026-10-31T07:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "latin"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/salsa-vs-perreo-30-oct",
+   "cancelled": false
+  },
+  {
    "id": "dice:6a91f44e3fb32f00016121ba",
    "source": "19hz+dice+edmtrain",
    "title": "Halloweek: Camelphat & Volkoder",
@@ -7358,38 +7584,6 @@
    "description": "",
    "url": "https://dice.fm/event/6a9077ed977d0a0001892d5d",
    "cancelled": false
-  },
-  {
-   "id": "zeyzey:fleetmac-wood-horror-hifi-free-entry-30-oct",
-   "source": "19hz+edmtrain+venue",
-   "title": "Fleetmac Wood + Horror HiFi (Free Entry)",
-   "artists": [
-    "Fleetmac Wood",
-    "Roxanne Roll",
-    "Alex Oxley"
-   ],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-10-30",
-   "start": "2026-10-31T03:00:00+00:00",
-   "end": "2026-10-31T07:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "All ages",
-   "price": "Free",
-   "genres": [
-    "disco",
-    "funk"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/fleetmac-wood-horror-hifi-free-entry-30-oct",
-   "cancelled": false,
-   "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/fleetmac-wood-horror-hifi-free-entry-30-oct",
-    "https://edmtrain.com/miami-fl/fleetmac-wood-roxanne-roll-524856"
-   ]
   },
   {
    "id": "edmtrain:538674",
@@ -8631,7 +8825,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "",
+   "price": "$16.88",
    "genres": [
     "dark wave",
     "alternative",
@@ -9380,7 +9574,7 @@
   {
    "id": "hardrock:206002",
    "source": "venue",
-   "title": "DAER Nightclub",
+   "title": "Maddix",
    "artists": [],
    "venue": "DAER Nightclub",
    "venue_slug": "daer",
@@ -9396,7 +9590,7 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/206002",
-   "generic_title": true
+   "generic_title": false
   },
   {
    "id": "19hz:4448728-jeremyolander",
@@ -10663,22 +10857,22 @@
    ]
   },
   {
-   "id": "dice:6a6bc6a9f6f43900015dbfd4",
-   "source": "19hz+dice+edmtrain",
-   "title": "Ryan Elliot & Danny Daze",
+   "id": "19hz:4450072-ryanelliot",
+   "source": "19hz+edmtrain",
+   "title": "Ryan Elliot",
    "artists": [
     "Danny Daze",
     "Ryan Elliott"
    ],
-   "venue": "Jolene Sound Room Miami",
+   "venue": "Jolene Downtown",
    "venue_slug": "jolene",
    "date": "2026-11-28",
    "start": "2026-11-29T03:00:00+00:00",
    "end": "2026-11-29T09:00:00+00:00",
    "time_estimated": false,
-   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "address": "",
    "ages": "21+",
-   "price": "From $10",
+   "price": "$10",
    "genres": [
     "house"
    ],
@@ -10686,9 +10880,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6do6o7-ryan-elliot-danny-daze-28th-nov-jolene-sound-room-miami-miami-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/6do6o7-ryan-elliot-danny-daze-28th-nov-jolene-sound-room-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/danny-daze-ryan-elliott-537621"
    ]
   },
