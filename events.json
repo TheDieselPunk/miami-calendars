@@ -2,11 +2,9 @@
  "events": [
   {
    "id": "19hz:4444303-yissel",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Yissel",
-   "artists": [
-    "Yissel"
-   ],
+   "artists": [],
    "venue": "E11even",
    "venue_slug": null,
    "date": "2026-09-29",
@@ -23,10 +21,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://speakeasygo.com/event/EVE-X8TZD9",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/yissel-522762"
-   ]
+   "url": "https://speakeasygo.com/event/EVE-X8TZD9"
   },
   {
    "id": "shotgun:undertone",
@@ -1434,7 +1429,7 @@
   {
    "id": "shotgun:c3trlroom-8",
    "source": "edmtrain+shotgun",
-   "title": "Dance Therapy: Dmeyer, Marie Posa, Mindgazm, Xonya",
+   "title": "Dance Therapy: Dmeyer, Marie Posa, Mindgazm, Chddr, Le//On",
    "artists": [],
    "venue": "Club M2 Miami",
    "venue_slug": null,
@@ -3492,7 +3487,7 @@
    "organizer": "Talk Less Just Dance",
    "description": "EVANORA UNLIMITED — NORTH AMERICA TOUR: MIAMI Evanora Unlimited makes their way to Miami for a special stop on the North America Tour, presented by Talk Less Just Dance, EQUINOX BOOKING , say Tech & smile DOORS 6:00PM ALL AGES One night bringing together live performances + some of our favorite artists from Miami and beyond. LINEUP: EVANORA UNLIMITED ANGUS GREEN GODS WISDOM NASKA ZNX MIA VENDETTA DEAD LOTUS JWELSET",
    "url": "https://shotgun.live/en/events/evanora-unlimited-north-america-tour-miami-fl",
-   "tickets": "OFFER / FLASH DEAL $15, Early Bird $22.02, second tier $26.43, third tier $35.24",
+   "tickets": "Early Bird $22.02, second tier $26.43, third tier $35.24, OFFER / FLASH DEAL $15",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -4256,6 +4251,26 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/iii-points-and-dale-zin-present-trip-magazeen-miami-book-launch-peter-wohelski-531565"
    ]
+  },
+  {
+   "id": "shotgun:comedy-night-at-churchill-s-6",
+   "source": "shotgun",
+   "title": "Comedy Night At Churchill's",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-10-13",
+   "start": "2026-10-14T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/comedy-night-at-churchill-s-6"
   },
   {
    "id": "dice:6a85fa1255f47f0001c509a5",
@@ -5554,7 +5569,7 @@
   {
    "id": "hardrock:202012",
    "source": "venue",
-   "title": "Gameday Watch Party",
+   "title": "Gameday Watch Party 10/18",
    "artists": [],
    "venue": "DAER Dayclub",
    "venue_slug": "daer",
@@ -5877,6 +5892,46 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/campinginalaska-lincolnsbeard-october-20"
+  },
+  {
+   "id": "shotgun:comedy-night-at-churchill-s-7",
+   "source": "shotgun",
+   "title": "Comedy Night At Churchill's",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-10-20",
+   "start": "2026-10-21T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/comedy-night-at-churchill-s-7"
+  },
+  {
+   "id": "shotgun:comedy-night-at-churchill-s-8",
+   "source": "shotgun",
+   "title": "Comedy Night At Churchill's",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-10-20",
+   "start": "2026-10-21T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/comedy-night-at-churchill-s-8"
   },
   {
    "id": "edmtrain:537181",
@@ -6927,7 +6982,7 @@
   {
    "id": "hardrock:202018",
    "source": "venue",
-   "title": "DAER Dayclub",
+   "title": "Gameday Watch Party 10/25",
    "artists": [],
    "venue": "DAER Dayclub",
    "venue_slug": "daer",
@@ -6943,7 +6998,7 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/202018",
-   "generic_title": true
+   "generic_title": false
   },
   {
    "id": "zeyzey:peter-bjorn-and-john-writer-s-block-20th-anniversary-tour-25-oct",
@@ -7618,6 +7673,30 @@
    "alt_urls": [
     "https://dice.fm/event/6aa2fa7b8fd8d8000155bbf4"
    ]
+  },
+  {
+   "id": "dice:6abc56c1a24952000158beb2",
+   "source": "dice",
+   "title": "HALLOWEEN PARTY",
+   "artists": [],
+   "venue": "Kemistry",
+   "venue_slug": "kemistry",
+   "date": "2026-10-30",
+   "start": "2026-10-31T02:00:00+00:00",
+   "end": "2026-10-31T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "ages": "",
+   "price": "From $18",
+   "genres": [
+    "bass",
+    "dubstep"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6abc56c1a24952000158beb2",
+   "cancelled": false
   },
   {
    "id": "shotgun:sarah-tonin-presents-strange-creatures-w-los-refrescos-more",
@@ -8380,6 +8459,27 @@
    "description": "",
    "url": "https://tixr.com/e/204544",
    "generic_title": true
+  },
+  {
+   "id": "zeyzey:afroman-01-nov",
+   "source": "venue",
+   "title": "Afroman",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-11-01",
+   "start": "2026-11-01T23:00:00+00:00",
+   "end": "2026-11-02T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/afroman-01-nov",
+   "cancelled": false
   },
   {
    "id": "19hz:4447471-mistergray",
@@ -13430,9 +13530,9 @@
    "generic_title": true
   },
   {
-   "id": "dice:6a60e5e3f0b16700018157d5",
-   "source": "19hz+dice+edmtrain",
-   "title": "AVELLO",
+   "id": "19hz:4452760-avello",
+   "source": "19hz+edmtrain",
+   "title": "Avello",
    "artists": [
     "AVELLO"
    ],
@@ -13442,9 +13542,9 @@
    "start": "2026-12-27T03:00:00+00:00",
    "end": "2026-12-27T09:00:00+00:00",
    "time_estimated": false,
-   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "address": "Fort Lauderdale",
    "ages": "18+",
-   "price": "From $40",
+   "price": "$39.67",
    "genres": [
     "bass music",
     "dubstep"
@@ -13453,9 +13553,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/53m9ew-avello-26th-dec-kemistry-fort-lauderdale-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/53m9ew-avello-26th-dec-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/avello-524557"
    ]
   },

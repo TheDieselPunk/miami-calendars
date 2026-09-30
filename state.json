@@ -124,6 +124,11 @@
   "seq": 0,
   "modified": "2026-09-26T22:18:17+00:00"
  },
+ "19hz-4452760-avello@kemistry.miami-calendars": {
+  "hash": "a10a9af9ba37caac",
+  "seq": 0,
+  "modified": "2026-09-30T16:18:12+00:00"
+ },
  "19hz-4453236-dreamland2026mai@midline.miami-calendars": {
   "hash": "0f2ec8d8956fd6a2",
   "seq": 0,
@@ -208,11 +213,6 @@
   "hash": "ed95a0d2d77ba247",
   "seq": 1,
   "modified": "2026-09-22T00:40:38+00:00"
- },
- "dice-6a60e5e3f0b16700018157d5@kemistry.miami-calendars": {
-  "hash": "f1c36acf955931cb",
-  "seq": 0,
-  "modified": "2026-09-27T10:18:01+00:00"
  },
  "dice-6a60e813170f000001bd0743@kemistry.miami-calendars": {
   "hash": "bd2cbb8622e05963",
@@ -779,6 +779,11 @@
   "seq": 0,
   "modified": "2026-09-29T22:18:15+00:00"
  },
+ "dice-6abc56c1a24952000158beb2@kemistry.miami-calendars": {
+  "hash": "53a96a233f5b36b7",
+  "seq": 0,
+  "modified": "2026-09-30T16:18:12+00:00"
+ },
  "edmtrain-434705@festivals.miami-calendars": {
   "hash": "e416a5823d96ff63",
   "seq": 2,
@@ -890,9 +895,9 @@
   "modified": "2026-09-30T04:18:26+00:00"
  },
  "evanora-unlimited-north-america-tour-miami-fl@shotgun.live": {
-  "hash": "744fca6cbe13a4d0",
-  "seq": 0,
-  "modified": "2026-09-30T04:18:26+00:00"
+  "hash": "236e546f4de0dccf",
+  "seq": 1,
+  "modified": "2026-09-30T16:18:12+00:00"
  },
  "girl-of-glass-at-boombox-11-8@shotgun.live": {
   "hash": "9b03b4734e200b0c",
@@ -940,14 +945,14 @@
   "modified": "2026-09-21T20:05:54+00:00"
  },
  "hardrock-202012@daer.miami-calendars": {
-  "hash": "291577f8a5f2ba87",
-  "seq": 2,
-  "modified": "2026-09-25T16:18:07+00:00"
+  "hash": "0c04a22db51e9c9f",
+  "seq": 3,
+  "modified": "2026-09-30T16:18:12+00:00"
  },
  "hardrock-202018@daer.miami-calendars": {
-  "hash": "dc91997abcf71888",
-  "seq": 1,
-  "modified": "2026-09-21T20:07:29+00:00"
+  "hash": "65515c8c8cda4026",
+  "seq": 2,
+  "modified": "2026-09-30T16:18:12+00:00"
  },
  "hardrock-202028@daer.miami-calendars": {
   "hash": "badcdc717202dfc2",
@@ -1256,8 +1261,8 @@
  },
  "madradiomiami101026@shotgun.live": {
   "hash": "0dfb5564add0f10c",
-  "seq": 43,
-  "modified": "2026-09-30T10:18:11+00:00"
+  "seq": 45,
+  "modified": "2026-09-30T16:18:12+00:00"
  },
  "madradiomiami102926@shotgun.live": {
   "hash": "b3c7c2960c71ebd0",
@@ -1308,6 +1313,11 @@
   "hash": "2ce1fd939df891bf",
   "seq": 0,
   "modified": "2026-09-28T22:18:05+00:00"
+ },
+ "zeyzey-afroman-01-nov@zeyzey.miami-calendars": {
+  "hash": "40bad7f3502ddc01",
+  "seq": 0,
+  "modified": "2026-09-30T16:18:12+00:00"
  },
  "zeyzey-alta-joda-fest-17-oct@zeyzey.miami-calendars": {
   "hash": "f5700ea31efe09cd",

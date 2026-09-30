@@ -216,6 +216,22 @@ STATUS:CONFIRMED
 CATEGORIES:progressive house,trance
 END:VEVENT
 BEGIN:VEVENT
+UID:dice-6abc56c1a24952000158beb2@kemistry.miami-calendars
+DTSTAMP:20260930T161812Z
+LAST-MODIFIED:20260930T161812Z
+SEQUENCE:0
+DTSTART:20261031T020000Z
+DTEND:20261031T080000Z
+SUMMARY:HALLOWEEN PARTY
+LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
+ 312\, United States
+DESCRIPTION:Tags (guess): bass\, dubstep\nhttps://dice.fm/event/6abc56c1a24
+ 952000158beb2
+URL:https://dice.fm/event/6abc56c1a24952000158beb2
+STATUS:CONFIRMED
+CATEGORIES:bass,dubstep
+END:VEVENT
+BEGIN:VEVENT
 UID:dice-6a6fe2cc1f37f90001ee3794@kemistry.miami-calendars
 DTSTAMP:20260922T004038Z
 LAST-MODIFIED:20260922T004038Z
@@ -441,15 +457,14 @@ STATUS:CONFIRMED
 CATEGORIES:bass,dubstep
 END:VEVENT
 BEGIN:VEVENT
-UID:dice-6a60e5e3f0b16700018157d5@kemistry.miami-calendars
-DTSTAMP:20260927T101801Z
-LAST-MODIFIED:20260927T101801Z
+UID:19hz-4452760-avello@kemistry.miami-calendars
+DTSTAMP:20260930T161812Z
+LAST-MODIFIED:20260930T161812Z
 SEQUENCE:0
 DTSTART:20261227T030000Z
 DTEND:20261227T090000Z
-SUMMARY:AVELLO
-LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
- 312\, United States
+SUMMARY:Avello
+LOCATION:Kemistry\, Fort Lauderdale
 DESCRIPTION:Lineup: AVELLO\nTags: bass music\, dubstep\nAges: 18+\nhttps://
  dice.fm/event/53m9ew-avello-26th-dec-kemistry-fort-lauderdale-tickets\nhtt
  ps://edmtrain.com/fort-lauderdale-fl/avello-524557
