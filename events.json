@@ -1,30 +1,6 @@
 {
  "events": [
   {
-   "id": "19hz:4444207-prankstisci",
-   "source": "19hz",
-   "title": "Prankstisci",
-   "artists": [],
-   "venue": "E11even",
-   "venue_slug": null,
-   "date": "2026-09-28",
-   "start": "2026-09-29T00:00:00+00:00",
-   "end": "2026-09-29T05:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "free w/rsvp b4 midnight / $23-34",
-   "genres": [
-    "edm",
-    "hip-hop",
-    "house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://speakeasygo.com/event/EVE-BDV3I4"
-  },
-  {
    "id": "19hz:4444303-yissel",
    "source": "19hz+edmtrain",
    "title": "Yissel",
@@ -51,26 +27,6 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/yissel-522762"
    ]
-  },
-  {
-   "id": "shotgun:comedy-night-at-churchill-s-5",
-   "source": "shotgun",
-   "title": "Comedy Night At Churchill's",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-09-29",
-   "start": "2026-09-30T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/comedy-night-at-churchill-s-5"
   },
   {
    "id": "shotgun:manchester-meets-miami-every-tuesday",
@@ -2071,7 +2027,7 @@
    "time_estimated": false,
    "address": "353 Northeast 61st Street, Miami, Florida 33137, United States",
    "ages": "",
-   "price": "From $44",
+   "price": "From $46",
    "genres": [
     "r&b/soul"
    ],
@@ -2296,6 +2252,31 @@
    "alt_urls": [
     "https://dice.fm/event/dk7l9o-jay-de-lys-4th-oct-floyd-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/jay-de-lys-ms-mada-532659"
+   ]
+  },
+  {
+   "id": "edmtrain:541012",
+   "source": "edmtrain",
+   "title": "Kofla",
+   "artists": [
+    "Kofla"
+   ],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-10-04",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "111 NE 20th St, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/humans-alike-46?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/kofla-541012"
    ]
   },
   {
@@ -3370,6 +3351,31 @@
    ]
   },
   {
+   "id": "edmtrain:540997",
+   "source": "edmtrain",
+   "title": "Ghovvl",
+   "artists": [
+    "Ghovvl"
+   ],
+   "venue": "Klub Kutters",
+   "venue_slug": null,
+   "date": "2026-10-09",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "215 SW 27th Ave, Fort Lauderdale, FL 33312, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/flow-fright?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/ghovvl-540997"
+   ]
+  },
+  {
    "id": "edmtrain:527998",
    "source": "edmtrain",
    "title": "Eternal Frequencies: Cosmic Gate",
@@ -3482,14 +3488,23 @@
    "id": "shotgun:evanora-unlimited-north-america-tour-miami-fl",
    "source": "shotgun",
    "title": "Evanora Unlimited North America Tour Miami Fl",
-   "artists": [],
-   "venue": "Miami, United States 🇺🇸",
-   "venue_slug": null,
+   "artists": [
+    "Evanora:Unlimited",
+    "Ladybug",
+    "Gods Wisdom",
+    "jwelset",
+    "znx",
+    "miavendetta",
+    "Dead Lotus",
+    "Angus Scratch Green"
+   ],
+   "venue": "The Boombox Miami",
+   "venue_slug": "boombox",
    "date": "2026-10-10",
    "start": "2026-10-10T21:30:00+00:00",
-   "end": null,
+   "end": "2026-10-11T04:00:00+00:00",
    "time_estimated": false,
-   "address": "",
+   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
    "ages": "",
    "price": "$17.03",
    "genres": [
@@ -3498,9 +3513,17 @@
     "electro"
    ],
    "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/evanora-unlimited-north-america-tour-miami-fl"
+   "organizer": "Talk Less Just Dance",
+   "description": "EVANORA UNLIMITED — NORTH AMERICA TOUR: MIAMI Evanora Unlimited makes their way to Miami for a special stop on the North America Tour, presented by Talk Less Just Dance, EQUINOX BOOKING , say Tech & smile DOORS 6:00PM ALL AGES One night bringing together live performances + some of our favorite artists from Miami and beyond. LINEUP: EVANORA UNLIMITED ANGUS GREEN GODS WISDOM NASKA ZNX MIA VENDETTA DEAD LOTUS JWELSET",
+   "url": "https://shotgun.live/en/events/evanora-unlimited-north-america-tour-miami-fl",
+   "tickets": "OFFER / FLASH DEAL $15, Early Bird $22.02, second tier $26.43, third tier $35.24",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.7287781,
+    "longitude": -80.3169309
+   },
+   "created": "2026-09-09T16:11:34.000Z"
   },
   {
    "id": "dice:6aa1904c7b78cf000187096e",
@@ -3813,9 +3836,11 @@
   },
   {
    "id": "shotgun:tudo-bem-refilled-miami-debut",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Tudo Bem: Refilled Miami Debut",
-   "artists": [],
+   "artists": [
+    "Refilled"
+   ],
    "venue": "Sunkissed",
    "venue_slug": null,
    "date": "2026-10-10",
@@ -3826,14 +3851,17 @@
    "ages": "",
    "price": "",
    "genres": [
-    "miami bass",
     "baile funk",
-    "bass"
+    "bass",
+    "miami bass"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/tudo-bem-refilled-miami-debut"
+   "url": "https://shotgun.live/en/events/tudo-bem-refilled-miami-debut",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/refilled-541164"
+   ]
   },
   {
    "id": "dice:6a72288c57ddd20001097968",
@@ -3984,6 +4012,33 @@
    "url": "https://shotgun.live/events/slow-life-w-cecilio-paolo-mosca-rapture-s-deli-anniversary?utm_source=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/slow-life-adam-bogdan-539104"
+   ]
+  },
+  {
+   "id": "edmtrain:541135",
+   "source": "edmtrain",
+   "title": "Seb Zito, Jesse Calosso, Shahar",
+   "artists": [
+    "Seb Zito",
+    "Jesse Calosso",
+    "Shahar"
+   ],
+   "venue": "Sable Miami",
+   "venue_slug": null,
+   "date": "2026-10-10",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "2219 NW 2nd Ave, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/92v9nd?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/seb-zito-jesse-calosso-541135"
    ]
   },
   {
@@ -6416,6 +6471,37 @@
    "url": "https://shotgun.live/en/events/karnival-halloween-party-horror-games-18-rave"
   },
   {
+   "id": "shotgun:askysoblack-dime-22-grief-second-frame-at-boombox-10-24",
+   "source": "shotgun",
+   "title": "Askysoblack, Dime, 22 Grief, Second Frame At Boombox 10/24",
+   "artists": [],
+   "venue": "The Boombox Miami",
+   "venue_slug": "boombox",
+   "date": "2026-10-24",
+   "start": "2026-10-24T22:00:00+00:00",
+   "end": "2026-10-25T02:30:00+00:00",
+   "time_estimated": false,
+   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
+   "ages": "",
+   "price": "$17.03",
+   "genres": [
+    "rock",
+    "hardcore"
+   ],
+   "genres_inferred": false,
+   "organizer": "Equinox Booking",
+   "description": "Equinox Booking Presents Askysoblack Dime 22 Grief Second Frame $15 online / $20 day of 6 pm doors all ages",
+   "url": "https://shotgun.live/en/events/askysoblack-dime-22-grief-second-frame-at-boombox-10-24",
+   "tickets": "General Admission $15",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.7287781,
+    "longitude": -80.3169309
+   },
+   "created": "2026-09-30T00:49:54.000Z"
+  },
+  {
    "id": "shotgun:midnighthertz",
    "source": "shotgun",
    "title": "Midnight Hertz",
@@ -6964,6 +7050,31 @@
    ]
   },
   {
+   "id": "edmtrain:541227",
+   "source": "edmtrain",
+   "title": "Durante",
+   "artists": [
+    "Durante"
+   ],
+   "venue": "UPSIDE",
+   "venue_slug": null,
+   "date": "2026-10-25",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "59 NW 28th St, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/g5v7gp?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/durante-541227"
+   ]
+  },
+  {
    "id": "zeyzey:leon-bridges-presents-happiness-anytime-28-oct",
    "source": "venue",
    "title": "Leon Bridges Presents: Happiness Anytime",
@@ -7090,7 +7201,7 @@
   },
   {
    "id": "shotgun:madradiomiami102926",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Wax'n Dance X Never Forever: Per Hammar / Yunks / Gali",
    "artists": [
     "Per Hammar",
@@ -7120,7 +7231,10 @@
     "latitude": 25.8462027,
     "longitude": -80.1851332
    },
-   "created": "2026-09-29T16:00:11.000Z"
+   "created": "2026-09-29T16:00:11.000Z",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/waxn-dance-x-never-forever-per-hammar-541055"
+   ]
   },
   {
    "id": "dice:6a86066921cf70000141b5a6",
@@ -8714,9 +8828,12 @@
   },
   {
    "id": "dice:6abbdcda4a21e200016b9d90",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "808 Life: DJ Assault + DJ Godfather",
-   "artists": [],
+   "artists": [
+    "DJ Assault",
+    "DJ Godfather"
+   ],
    "venue": "The Ground Miami",
    "venue_slug": "the-ground",
    "date": "2026-11-06",
@@ -8734,7 +8851,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6abbdcda4a21e200016b9d90",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/808-life-dj-assault-541192"
+   ]
   },
   {
    "id": "dice:6aac2b58ba4e800001745f0c",
@@ -9911,6 +10031,31 @@
    ]
   },
   {
+   "id": "edmtrain:541044",
+   "source": "edmtrain",
+   "title": "Ian Asher",
+   "artists": [
+    "Ian Asher"
+   ],
+   "venue": "LIV Miami",
+   "venue_slug": null,
+   "date": "2026-11-14",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "4441 Collins Ave, Miami Beach, FL 33140, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://ticketmaster.evyy.net/c/254533/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fid%2F14351964",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/ian-asher-541044"
+   ]
+  },
+  {
    "id": "hardrock:205537",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -10906,9 +11051,12 @@
   },
   {
    "id": "dice:6abbe1d7214d4c0001006f40",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "RUMBLE IN THE JUNGLE: Nikki Nair + Nanoos",
-   "artists": [],
+   "artists": [
+    "Nikki Nair",
+    "Nanoos"
+   ],
    "venue": "The Ground Miami",
    "venue_slug": "the-ground",
    "date": "2026-11-27",
@@ -10926,7 +11074,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6abbe1d7214d4c0001006f40",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/rumble-in-the-jungle-nikki-nair-541195"
+   ]
   },
   {
    "id": "edmtrain:539771",
@@ -13148,11 +13299,9 @@
   {
    "id": "edmtrain:540836",
    "source": "edmtrain",
-   "title": "EAZYBAKED, Dabow, Rafeeki",
+   "title": "EAZYBAKED",
    "artists": [
-    "EAZYBAKED",
-    "Dabow",
-    "Rafeeki"
+    "EAZYBAKED"
    ],
    "venue": "Midline Miami",
    "venue_slug": "midline",
@@ -13169,7 +13318,7 @@
    "description": "",
    "url": "https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzA2NjQzOjc=/clickthru",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/eazybaked-dabow-540836"
+    "https://edmtrain.com/miami-fl/eazybaked-540836"
    ]
   },
   {

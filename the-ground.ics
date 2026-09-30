@@ -193,15 +193,16 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abbdcda4a21e200016b9d90@the-ground.miami-calendars
-DTSTAMP:20260929T221815Z
-LAST-MODIFIED:20260929T221815Z
-SEQUENCE:0
+DTSTAMP:20260930T041826Z
+LAST-MODIFIED:20260930T041826Z
+SEQUENCE:1
 DTSTART:20261107T040000Z
 DTEND:20261107T120000Z
 SUMMARY:808 Life: DJ Assault + DJ Godfather
 LOCATION:The Ground Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6abbdcda4a2
- 1e200016b9d90
+DESCRIPTION:Lineup: DJ Assault\, DJ Godfather\nTags (guess): house\, techno
+ \nhttps://dice.fm/event/6abbdcda4a21e200016b9d90\nhttps://edmtrain.com/mia
+ mi-fl/808-life-dj-assault-541192
 URL:https://dice.fm/event/6abbdcda4a21e200016b9d90
 STATUS:CONFIRMED
 CATEGORIES:house,techno
@@ -291,15 +292,16 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abbe1d7214d4c0001006f40@the-ground.miami-calendars
-DTSTAMP:20260929T221815Z
-LAST-MODIFIED:20260929T221815Z
-SEQUENCE:0
+DTSTAMP:20260930T041826Z
+LAST-MODIFIED:20260930T041826Z
+SEQUENCE:1
 DTSTART:20261128T040000Z
 DTEND:20261128T120000Z
 SUMMARY:RUMBLE IN THE JUNGLE: Nikki Nair + Nanoos
 LOCATION:The Ground Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6abbe1d7214
- d4c0001006f40
+DESCRIPTION:Lineup: Nikki Nair\, Nanoos\nTags (guess): house\, techno\nhttp
+ s://dice.fm/event/6abbe1d7214d4c0001006f40\nhttps://edmtrain.com/miami-fl/
+ rumble-in-the-jungle-nikki-nair-541195
 URL:https://dice.fm/event/6abbe1d7214d4c0001006f40
 STATUS:CONFIRMED
 CATEGORIES:house,techno
