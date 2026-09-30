@@ -29,30 +29,6 @@
    ]
   },
   {
-   "id": "shotgun:manchester-meets-miami-every-tuesday",
-   "source": "shotgun",
-   "title": "Manchester Meets Miami : Every Tuesday",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-09-29",
-   "start": "2026-09-30T02:30:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [
-    "alternative dance",
-    "electro",
-    "new wave"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/manchester-meets-miami-every-tuesday"
-  },
-  {
    "id": "shotgun:undertone",
    "source": "edmtrain+shotgun",
    "title": "Undertone",
@@ -13156,7 +13132,8 @@
    "source": "dice+edmtrain",
    "title": "THE RESISTANCE",
    "artists": [
-    "Automhate"
+    "The Resistance",
+    "Automhate (Vyle Set)"
    ],
    "venue": "Kemistry",
    "venue_slug": "kemistry",
@@ -13177,7 +13154,7 @@
    "url": "https://dice.fm/event/6a6267e25c999a000109f8ae",
    "cancelled": false,
    "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/automhate-524125"
+    "https://edmtrain.com/fort-lauderdale-fl/rise-of-the-shadowcell-the-resistance-524125"
    ]
   },
   {
