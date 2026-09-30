@@ -253,7 +253,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "",
-   "price": " (sold out)",
+   "price": "",
    "genres": [
     "house",
     "techno"
@@ -1448,6 +1448,28 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/dance-therapy-540179"
    ]
+  },
+  {
+   "id": "shotgun:c3trlroom-9",
+   "source": "shotgun",
+   "title": "Techno Trance Miami",
+   "artists": [],
+   "venue": "Club M2 Miami",
+   "venue_slug": null,
+   "date": "2026-10-03",
+   "start": "2026-10-04T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$20.00",
+   "genres": [
+    "trance"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/c3trlroom-9"
   },
   {
    "id": "hardrock:202029",
@@ -3542,6 +3564,30 @@
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/cannons-10-oct",
    "cancelled": false
+  },
+  {
+   "id": "shotgun:soniqe-lunasol",
+   "source": "shotgun",
+   "title": "Soniqe @ Lunasol",
+   "artists": [],
+   "venue": "Lunasol",
+   "venue_slug": null,
+   "date": "2026-10-10",
+   "start": "2026-10-11T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.25",
+   "genres": [
+    "afro house",
+    "house",
+    "deep house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/soniqe-lunasol"
   },
   {
    "id": "shotgun:madradiomiami101026",
@@ -6234,6 +6280,30 @@
    ]
   },
   {
+   "id": "dice:6abd7555c82c800001a1b0c7",
+   "source": "dice",
+   "title": "Pearson Sound",
+   "artists": [],
+   "venue": "Jolene Sound Room Miami",
+   "venue_slug": "jolene",
+   "date": "2026-10-23",
+   "start": "2026-10-24T02:00:00+00:00",
+   "end": "2026-10-24T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "ages": "",
+   "price": "From $7",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6abd7555c82c800001a1b0c7",
+   "cancelled": false
+  },
+  {
    "id": "dice:69dc9d05fd62d30001cecb18",
    "source": "dice+edmtrain",
    "title": "REAPER",
@@ -8677,7 +8747,7 @@
   {
    "id": "shotgun:daisychain-off-orbit-47-bandit-lovejane",
    "source": "shotgun",
-   "title": "Daisychain / Off Orbit / 47 Bandit / Love Jane",
+   "title": "Daisychain / Off Orbit / 47*Bandit / Love Jane",
    "artists": [],
    "venue": "Churchill's Pub",
    "venue_slug": null,
@@ -8903,36 +8973,6 @@
    "url": "https://ra.co/events/2528914"
   },
   {
-   "id": "dice:6abbdcda4a21e200016b9d90",
-   "source": "dice+edmtrain",
-   "title": "808 Life: DJ Assault + DJ Godfather",
-   "artists": [
-    "DJ Assault",
-    "DJ Godfather"
-   ],
-   "venue": "The Ground Miami",
-   "venue_slug": "the-ground",
-   "date": "2026-11-06",
-   "start": "2026-11-07T04:00:00+00:00",
-   "end": "2026-11-07T12:00:00+00:00",
-   "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
-   "price": "From $10",
-   "genres": [
-    "house",
-    "techno"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6abbdcda4a21e200016b9d90",
-   "cancelled": false,
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/808-life-dj-assault-541192"
-   ]
-  },
-  {
    "id": "dice:6aac2b58ba4e800001745f0c",
    "source": "19hz+dice+edmtrain",
    "title": "Paige Tomlinson + Lammer + Stüm",
@@ -8963,7 +9003,8 @@
    "cancelled": false,
    "alt_urls": [
     "https://dice.fm/event/g58ax5-paige-tomlinson-lammer-stm-6th-nov-the-ground-miami-miami-tickets",
-    "https://edmtrain.com/miami-fl/paige-tomlinson-lammer-538328"
+    "https://edmtrain.com/miami-fl/paige-tomlinson-lammer-538328",
+    "https://edmtrain.com/miami-fl/808-life-dj-assault-541192"
    ]
   },
   {
@@ -9159,6 +9200,30 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/cirqueofthedamned"
+  },
+  {
+   "id": "dice:6abbdcda4a21e200016b9d90",
+   "source": "dice",
+   "title": "808 Life: DJ Assault + DJ Godfather",
+   "artists": [],
+   "venue": "The Ground Miami",
+   "venue_slug": "the-ground",
+   "date": "2026-11-07",
+   "start": "2026-11-08T04:00:00+00:00",
+   "end": "2026-11-08T12:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $10",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6abbdcda4a21e200016b9d90",
+   "cancelled": false
   },
   {
    "id": "19hz:4448062-martingarrix",
@@ -11330,7 +11395,9 @@
    "source": "19hz+edmtrain",
    "title": "Wonkywilla",
    "artists": [
-    "WonkyWilla"
+    "WonkyWilla",
+    "rSUN",
+    "SLOTH"
    ],
    "venue": "Midline",
    "venue_slug": "midline",
@@ -11350,7 +11417,7 @@
    "description": "",
    "url": "https://www.eventbrite.com/e/wonkywilla-midline-miami-tickets-1991488953068",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/wonkywilla-512230"
+    "https://edmtrain.com/miami-fl/wonkywilla-rsun-512230"
    ]
   },
   {
@@ -11805,7 +11872,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "",
-   "price": "",
+   "price": "From $12",
    "genres": [
     "house",
     "tech house"
@@ -12614,7 +12681,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "",
-   "price": "",
+   "price": "From $20",
    "genres": [
     "house",
     "tech house"
