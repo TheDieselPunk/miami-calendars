@@ -216,6 +216,22 @@ STATUS:CONFIRMED
 CATEGORIES:progressive house,trance
 END:VEVENT
 BEGIN:VEVENT
+UID:dice-6abdf679bbcbf60001fcc8e9@kemistry.miami-calendars
+DTSTAMP:20261001T221830Z
+LAST-MODIFIED:20261001T221830Z
+SEQUENCE:0
+DTSTART:20261030T020000Z
+DTEND:20261030T080000Z
+SUMMARY:HAUNTED RAVEYARD TOUR: FORT LAUDERDALE
+LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
+ 312\, United States
+DESCRIPTION:Tags (guess): bass\, dubstep\nhttps://dice.fm/event/6abdf679bbc
+ bf60001fcc8e9
+URL:https://dice.fm/event/6abdf679bbcbf60001fcc8e9
+STATUS:CONFIRMED
+CATEGORIES:bass,dubstep
+END:VEVENT
+BEGIN:VEVENT
 UID:dice-6abc56c1a24952000158beb2@kemistry.miami-calendars
 DTSTAMP:20260930T161812Z
 LAST-MODIFIED:20260930T161812Z
@@ -437,22 +453,6 @@ DESCRIPTION:Lineup: The Resistance\, Automhate (Vyle Set)\nTags (guess): ba
  ss\, dubstep\nhttps://dice.fm/event/6a6267e25c999a000109f8ae\nhttps://edmt
  rain.com/fort-lauderdale-fl/rise-of-the-shadowcell-the-resistance-524125
 URL:https://dice.fm/event/6a6267e25c999a000109f8ae
-STATUS:CONFIRMED
-CATEGORIES:bass,dubstep
-END:VEVENT
-BEGIN:VEVENT
-UID:dice-6a6261171e9f6e0001fe74da@kemistry.miami-calendars
-DTSTAMP:20260927T041810Z
-LAST-MODIFIED:20260927T041810Z
-SEQUENCE:0
-DTSTART:20261220T010000Z
-DTEND:20261220T090000Z
-SUMMARY:CANDYLAND : 30 YEAR ANNIVERSARY
-LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
- 312\, United States
-DESCRIPTION:Tags (guess): bass\, dubstep\nhttps://dice.fm/event/6a6261171e9
- f6e0001fe74da
-URL:https://dice.fm/event/6a6261171e9f6e0001fe74da
 STATUS:CONFIRMED
 CATEGORIES:bass,dubstep
 END:VEVENT

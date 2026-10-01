@@ -91,12 +91,12 @@ CATEGORIES:country,pop edm
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101026@shotgun.live
-DTSTAMP:20261001T161812Z
-LAST-MODIFIED:20261001T161812Z
-SEQUENCE:53
+DTSTAMP:20261001T221830Z
+LAST-MODIFIED:20261001T221830Z
+SEQUENCE:55
 DTSTART:20261011T010000Z
 DTEND:20261011T070000Z
-SUMMARY:III Points Satelitte: Tian / Israel Sunshine / Pino / Puma
+SUMMARY:III Points Satellite: Tian / Israel Sunshine / Pino / Puma
 LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
 DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
  ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
@@ -127,6 +127,50 @@ DESCRIPTION:Tags: house\nPresented by: Trip Events\, Explorer\nAges: 21+\nh
 URL:https://ra.co/events/2517792
 STATUS:CONFIRMED
 CATEGORIES:house
+END:VEVENT
+BEGIN:VEVENT
+UID:madradiomiami101426@shotgun.live
+DTSTAMP:20261001T221830Z
+LAST-MODIFIED:20261001T221830Z
+SEQUENCE:1
+DTSTART:20261015T010000Z
+DTEND:20261015T070000Z
+SUMMARY:III Points Satellite/Shyft Academy:Conflectuado/Scimmie/Diff
+LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
+DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
+ ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
+  our slick radio show serving up the latest tracks. Save the date and cath
+  the urban-chic experience at Mad Radio Miami. See you on the dance floor!
+  Come early\, stay late\, and let the night unfold FREE ENTRY 25+ YEARS OL
+ D HAPPY HOUR 5 PM - 9 PM"\nTags (guess): deep house\, house\nPresented by:
+  Mad Radio Miami\nTickets: RSVP Free\nhttps://shotgun.live/en/events/madra
+ diomiami101426
+URL:https://shotgun.live/en/events/madradiomiami101426
+STATUS:CONFIRMED
+CATEGORIES:deep house,house
+GEO:25.8462027;-80.1851332
+END:VEVENT
+BEGIN:VEVENT
+UID:madradiomiami101526@shotgun.live
+DTSTAMP:20261001T221830Z
+LAST-MODIFIED:20261001T221830Z
+SEQUENCE:1
+DTSTART:20261016T010000Z
+DTEND:20261016T070000Z
+SUMMARY:III Points Satellite / Discosonido: Tian & Ennio Skoto
+LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
+DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
+ ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
+  our slick radio show serving up the latest tracks. Save the date and cath
+  the urban-chic experience at Mad Radio Miami. See you on the dance floor!
+  Come early\, stay late\, and let the night unfold FREE ENTRY +25 YEARS OL
+ D HAPPY HOUR 5 PM - 9 PM"\nTags (guess): deep house\, house\nPresented by:
+  Mad Radio Miami\nTickets: RSVP Free\nhttps://shotgun.live/en/events/madra
+ diomiami101526
+URL:https://shotgun.live/en/events/madradiomiami101526
+STATUS:CONFIRMED
+CATEGORIES:deep house,house
+GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4445916-iiipoints2026@festivals.miami-calendars

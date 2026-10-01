@@ -9,9 +9,9 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:zeyzey-presents-dadi-freyr-too-much-not-enough@shotgun.live
-DTSTAMP:20261001T041824Z
-LAST-MODIFIED:20261001T041824Z
-SEQUENCE:2
+DTSTAMP:20261001T221830Z
+LAST-MODIFIED:20261001T221830Z
+SEQUENCE:3
 DTSTART:20261001T230000Z
 DTEND:20261002T050000Z
 SUMMARY:Daði Freyr
@@ -20,7 +20,8 @@ DESCRIPTION:Ticket sales for this event have moved. Please visit this link
  to get tickets: https://calendar.zeyzeymiami.com/shows/dadi-freyr-01-oct\n
  Lineup: BRÍET\, Daði Freyr\nTags: pop\nhttps://shotgun.live/en/events/ze
  yzey-presents-dadi-freyr-too-much-not-enough\nhttps://buy.tablelist.com/e/
- ba02a544fc49c805\nhttps://calendar.zeyzeymiami.com/shows/dadi-freyr-01-oct
+ 3cd935868309e1a6\nhttps://buy.tablelist.com/e/ba02a544fc49c805\nhttps://ca
+ lendar.zeyzeymiami.com/shows/dadi-freyr-01-oct
 URL:https://shotgun.live/en/events/zeyzey-presents-dadi-freyr-too-much-not-
  enough
 STATUS:CONFIRMED

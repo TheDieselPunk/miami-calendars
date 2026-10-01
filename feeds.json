@@ -31,8 +31,8 @@
   "slug": "floyd",
   "name": "Floyd",
   "file": "floyd.ics",
-  "events": 22,
-  "estimated_times": 0,
+  "events": 30,
+  "estimated_times": 2,
   "next": "2026-10-02",
   "sources": [
    "19hz",
@@ -117,8 +117,8 @@
   "slug": "mad-radio",
   "name": "Mad Radio Miami",
   "file": "mad-radio.ics",
-  "events": 10,
-  "estimated_times": 0,
+  "events": 20,
+  "estimated_times": 1,
   "next": "2026-09-30",
   "sources": [
    "19hz",
@@ -172,7 +172,7 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 38,
+  "events": 40,
   "estimated_times": 19,
   "next": "2026-10-02",
   "sources": [
