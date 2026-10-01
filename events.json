@@ -2,11 +2,9 @@
  "events": [
   {
    "id": "19hz:4444404-undertonejoaquin",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Undertone: Joaquin Bohmer",
-   "artists": [
-    "Tombo"
-   ],
+   "artists": [],
    "venue": "Mad Radio",
    "venue_slug": "mad-radio",
    "date": "2026-09-30",
@@ -22,19 +20,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/madradiomiami093026",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/undertone-tombo-531847"
-   ]
+   "url": "https://shotgun.live/en/events/madradiomiami093026"
   },
   {
    "id": "19hz:4444408-jessyfriendsrola",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Jessy & Friends: Roland Clark, Louie Dager, Dall Ea, Elvi$ b2b Curly",
-   "artists": [
-    "Jessy",
-    "Roland Clark"
-   ],
+   "artists": [],
    "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
    "date": "2026-09-30",
@@ -50,59 +42,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://link.dice.fm/ac290c2482bd",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/jessy-roland-clark-537171"
-   ]
-  },
-  {
-   "id": "edmtrain:540599",
-   "source": "edmtrain",
-   "title": "Undertone",
-   "artists": [],
-   "venue": "777 NE 79th St",
-   "venue_slug": null,
-   "date": "2026-09-30",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "777 NE 79th St, Miami, FL 33138, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/undertone?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/undertone-540599"
-   ]
-  },
-  {
-   "id": "edmtrain:540389",
-   "source": "edmtrain",
-   "title": "Rodrigo Vieira b2b Dmeyer",
-   "artists": [
-    "Rodrigo Vieira",
-    "Dmeyer"
-   ],
-   "venue": "AIRE Miami",
-   "venue_slug": null,
-   "date": "2026-09-30",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "111 NE 20th St, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://posh.vip/e/rodrigo-vieira-b2b-dmeyer-more?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/rodrigo-vieira-dmeyer-540389"
-   ]
+   "url": "https://link.dice.fm/ac290c2482bd"
   },
   {
    "id": "shotgun:zeyzey-presents-dadi-freyr-too-much-not-enough",
@@ -4045,7 +3985,7 @@
   },
   {
    "id": "tablelist:f6601f8b0a7abeb1",
-   "source": "19hz+edmtrain+tablelist+venue",
+   "source": "19hz+edmtrain+tablelist",
    "title": "Lukas & Frank",
    "artists": [
     "Lukas & Frank"
@@ -4068,7 +4008,6 @@
    "description": "",
    "url": "https://buy.tablelist.com/e/f6601f8b0a7abeb1",
    "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/lukas-frank-11-oct",
     "https://ra.co/events/2513782",
     "https://edmtrain.com/miami-fl/lukas-and-frank-536639"
    ]
@@ -4180,6 +4119,27 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/iii-points-and-dale-zin-present-trip-magazeen-miami-book-launch-peter-wohelski-531565"
    ]
+  },
+  {
+   "id": "zeyzey:the-hour-a-silent-reading-night-13-oct",
+   "source": "venue",
+   "title": "The Hour: A Silent Reading Night",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-10-13",
+   "start": "2026-10-13T23:00:00+00:00",
+   "end": "2026-10-14T05:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/the-hour-a-silent-reading-night-13-oct",
+   "cancelled": false
   },
   {
    "id": "shotgun:comedy-night-at-churchill-s-6",
@@ -13425,6 +13385,27 @@
    "description": "",
    "url": "https://tixr.com/e/207855",
    "generic_title": true
+  },
+  {
+   "id": "zeyzey:lukas-frank-11-oct",
+   "source": "venue",
+   "title": "Lukas & Frank",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-12-20",
+   "start": "2026-12-20T22:00:00+00:00",
+   "end": "2026-12-21T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/lukas-frank-11-oct",
+   "cancelled": false
   },
   {
    "id": "hardrock:207839",

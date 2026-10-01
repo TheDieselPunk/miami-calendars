@@ -196,20 +196,34 @@ CATEGORIES:electropop,pop
 END:VEVENT
 BEGIN:VEVENT
 UID:tablelist-f6601f8b0a7abeb1@zeyzey.miami-calendars
-DTSTAMP:20261001T041824Z
-LAST-MODIFIED:20261001T041824Z
-SEQUENCE:0
+DTSTAMP:20261001T161812Z
+LAST-MODIFIED:20261001T161812Z
+SEQUENCE:1
 DTSTART:20261011T210000Z
 DTEND:20261012T010000Z
 SUMMARY:Lukas & Frank
 LOCATION:ZeyZey Miami
 DESCRIPTION:Lineup: Lukas & Frank\nTags: afro house\, house\nAges: 21+\nhtt
- ps://buy.tablelist.com/e/f6601f8b0a7abeb1\nhttps://calendar.zeyzeymiami.co
- m/shows/lukas-frank-11-oct\nhttps://edmtrain.com/miami-fl/lukas-and-frank-
- 536639\nhttps://ra.co/events/2513782
+ ps://buy.tablelist.com/e/f6601f8b0a7abeb1\nhttps://edmtrain.com/miami-fl/l
+ ukas-and-frank-536639\nhttps://ra.co/events/2513782
 URL:https://buy.tablelist.com/e/f6601f8b0a7abeb1
 STATUS:CONFIRMED
 CATEGORIES:afro house,house
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-the-hour-a-silent-reading-night-13-oct@zeyzey.miami-calendars
+DTSTAMP:20261001T161812Z
+LAST-MODIFIED:20261001T161812Z
+SEQUENCE:0
+DTSTART:20261013T230000Z
+DTEND:20261014T050000Z
+SUMMARY:The Hour: A Silent Reading Night
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://calendar.zeyzeymiami.com/shows/the-hour-a-silent-readin
+ g-night-13-oct
+URL:https://calendar.zeyzeymiami.com/shows/the-hour-a-silent-reading-night-
+ 13-oct
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a85fa1255f47f0001c509a5@zeyzey.miami-calendars
@@ -946,6 +960,19 @@ URL:https://calendar.zeyzeymiami.com/shows/dayme-arocena-la-ultima-rumba-19
  -dec
 STATUS:CONFIRMED
 CATEGORIES:latin
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-lukas-frank-11-oct@zeyzey.miami-calendars
+DTSTAMP:20261001T161812Z
+LAST-MODIFIED:20261001T161812Z
+SEQUENCE:0
+DTSTART:20261220T220000Z
+DTEND:20261221T060000Z
+SUMMARY:Lukas & Frank
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://calendar.zeyzeymiami.com/shows/lukas-frank-11-oct
+URL:https://calendar.zeyzeymiami.com/shows/lukas-frank-11-oct
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-the-unofficial-end-cruise-party-21-jan@zeyzey.miami-calendars

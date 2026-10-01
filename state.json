@@ -1,8 +1,8 @@
 {
  "19hz-4444404-undertonejoaquin@mad-radio.miami-calendars": {
-  "hash": "32cf194829f3df43",
-  "seq": 0,
-  "modified": "2026-10-01T10:18:12+00:00"
+  "hash": "8cb0fba24b08d34c",
+  "seq": 1,
+  "modified": "2026-10-01T16:18:12+00:00"
  },
  "19hz-4444588-bloodfeastvseven@festivals.miami-calendars": {
   "hash": "0037ba6738533c23",
@@ -1271,8 +1271,8 @@
  },
  "madradiomiami101026@shotgun.live": {
   "hash": "0dfb5564add0f10c",
-  "seq": 51,
-  "modified": "2026-10-01T10:18:12+00:00"
+  "seq": 53,
+  "modified": "2026-10-01T16:18:12+00:00"
  },
  "madradiomiami102926@shotgun.live": {
   "hash": "b3c7c2960c71ebd0",
@@ -1390,9 +1390,9 @@
   "modified": "2026-10-01T04:18:24+00:00"
  },
  "tablelist-f6601f8b0a7abeb1@zeyzey.miami-calendars": {
-  "hash": "7510fd00af253641",
-  "seq": 0,
-  "modified": "2026-10-01T04:18:24+00:00"
+  "hash": "992175288a3150ed",
+  "seq": 1,
+  "modified": "2026-10-01T16:18:12+00:00"
  },
  "tablelist-f68f86a4f33a974d@zeyzey.miami-calendars": {
   "hash": "f0dba44f27ecf408",
@@ -1499,6 +1499,11 @@
   "seq": 0,
   "modified": "2026-09-21T20:01:40+00:00"
  },
+ "zeyzey-lukas-frank-11-oct@zeyzey.miami-calendars": {
+  "hash": "87ece9478afa0d98",
+  "seq": 0,
+  "modified": "2026-10-01T16:18:12+00:00"
+ },
  "zeyzey-oscar-g-anastazja-28-nov@zeyzey.miami-calendars": {
   "hash": "c0931b592f7f6274",
   "seq": 0,
@@ -1558,6 +1563,11 @@
   "hash": "087100401a02fa46",
   "seq": 0,
   "modified": "2026-09-21T20:01:40+00:00"
+ },
+ "zeyzey-the-hour-a-silent-reading-night-13-oct@zeyzey.miami-calendars": {
+  "hash": "c675b10e0a54f404",
+  "seq": 0,
+  "modified": "2026-10-01T16:18:12+00:00"
  },
  "zeyzey-the-unofficial-end-cruise-party-21-jan@zeyzey.miami-calendars": {
   "hash": "f87b09ebb3dce9e7",
