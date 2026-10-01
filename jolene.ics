@@ -185,16 +185,17 @@ CATEGORIES:funk,hip-hop,house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abd7555c82c800001a1b0c7@jolene.miami-calendars
-DTSTAMP:20260930T221815Z
-LAST-MODIFIED:20260930T221815Z
-SEQUENCE:0
+DTSTAMP:20261001T041824Z
+LAST-MODIFIED:20261001T041824Z
+SEQUENCE:1
 DTSTART:20261024T020000Z
 DTEND:20261024T080000Z
 SUMMARY:Pearson Sound
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6abd755
- 5c82c800001a1b0c7
+DESCRIPTION:Lineup: Pearson Sound\, Milo Ziro\, Liquid J\nTags (guess): hou
+ se\, tech house\nhttps://dice.fm/event/6abd7555c82c800001a1b0c7\nhttps://e
+ dmtrain.com/miami-fl/pearson-sound-milo-ziro-541423
 URL:https://dice.fm/event/6abd7555c82c800001a1b0c7
 STATUS:CONFIRMED
 CATEGORIES:house,tech house

@@ -355,14 +355,14 @@
   "modified": "2026-09-22T00:40:38+00:00"
  },
  "dice-6a85fa1255f47f0001c509a5@zeyzey.miami-calendars": {
-  "hash": "f3ec54725a193c42",
-  "seq": 3,
-  "modified": "2026-09-22T00:41:54+00:00"
+  "hash": "6fa0d4132cb4333b",
+  "seq": 4,
+  "modified": "2026-10-01T04:18:24+00:00"
  },
  "dice-6a85fa446932660001a56c43@zeyzey.miami-calendars": {
-  "hash": "aa14204179eaaae2",
-  "seq": 4,
-  "modified": "2026-09-22T00:41:54+00:00"
+  "hash": "cc0910a1e7200038",
+  "seq": 5,
+  "modified": "2026-10-01T04:18:24+00:00"
  },
  "dice-6a85fa6621cf7000019482af@zeyzey.miami-calendars": {
   "hash": "9174f16ea17dd575",
@@ -665,9 +665,9 @@
   "modified": "2026-09-26T22:18:17+00:00"
  },
  "dice-6aac2b58ba4e800001745f0c@the-ground.miami-calendars": {
-  "hash": "b3810c9170747c9d",
-  "seq": 3,
-  "modified": "2026-09-30T22:18:15+00:00"
+  "hash": "643152469ff9a12a",
+  "seq": 4,
+  "modified": "2026-10-01T04:18:24+00:00"
  },
  "dice-6aad6a7f4e3af20001d7ad92@jolene.miami-calendars": {
   "hash": "c5daa7ff80d22e2d",
@@ -750,9 +750,9 @@
   "modified": "2026-09-27T22:18:03+00:00"
  },
  "dice-6aba864e4479fc0001853144@floyd.miami-calendars": {
-  "hash": "88fc5c3da49fd5d2",
-  "seq": 0,
-  "modified": "2026-09-28T22:18:05+00:00"
+  "hash": "e8d327ad772aadee",
+  "seq": 1,
+  "modified": "2026-10-01T04:18:24+00:00"
  },
  "dice-6abac44271279e00013e85c7@kemistry.miami-calendars": {
   "hash": "abbcea4b4d52973e",
@@ -785,9 +785,14 @@
   "modified": "2026-09-30T16:18:12+00:00"
  },
  "dice-6abd7555c82c800001a1b0c7@jolene.miami-calendars": {
-  "hash": "5db423dd0a1da82e",
+  "hash": "31bc3fc88ff59ec9",
+  "seq": 1,
+  "modified": "2026-10-01T04:18:24+00:00"
+ },
+ "dice-6abdb6ed6c22d500012247ce@club-space.miami-calendars": {
+  "hash": "12f086b718daa25d",
   "seq": 0,
-  "modified": "2026-09-30T22:18:15+00:00"
+  "modified": "2026-10-01T04:18:24+00:00"
  },
  "edmtrain-434705@festivals.miami-calendars": {
   "hash": "e416a5823d96ff63",
@@ -1266,8 +1271,8 @@
  },
  "madradiomiami101026@shotgun.live": {
   "hash": "0dfb5564add0f10c",
-  "seq": 47,
-  "modified": "2026-09-30T22:18:15+00:00"
+  "seq": 49,
+  "modified": "2026-10-01T04:18:24+00:00"
  },
  "madradiomiami102926@shotgun.live": {
   "hash": "b3c7c2960c71ebd0",
@@ -1305,14 +1310,99 @@
   "modified": "2026-09-26T22:18:17+00:00"
  },
  "solmates-season-opener-ft-fahlberg-orsay-more@shotgun.live": {
-  "hash": "30fde512ba22734d",
-  "seq": 9,
-  "modified": "2026-09-28T10:18:10+00:00"
+  "hash": "c3c1129b6e6bb404",
+  "seq": 10,
+  "modified": "2026-10-01T04:18:24+00:00"
  },
  "soundtuaryoctober3@shotgun.live": {
   "hash": "316ffee3a07cd1bc",
   "seq": 0,
   "modified": "2026-09-21T21:40:09+00:00"
+ },
+ "tablelist-09696654a43f6624@zeyzey.miami-calendars": {
+  "hash": "9997861bed52c96e",
+  "seq": 0,
+  "modified": "2026-10-01T04:18:24+00:00"
+ },
+ "tablelist-2e996312a3fbfc09@zeyzey.miami-calendars": {
+  "hash": "538f1ddab69ce74d",
+  "seq": 0,
+  "modified": "2026-10-01T04:18:24+00:00"
+ },
+ "tablelist-303b09419bf8998a@zeyzey.miami-calendars": {
+  "hash": "c8e961307ae86593",
+  "seq": 0,
+  "modified": "2026-10-01T04:18:24+00:00"
+ },
+ "tablelist-3e08cc38cf7b0afa@zeyzey.miami-calendars": {
+  "hash": "8f4a91fa636af3fe",
+  "seq": 0,
+  "modified": "2026-10-01T04:18:24+00:00"
+ },
+ "tablelist-3e4f70ad438fc504@zeyzey.miami-calendars": {
+  "hash": "974064ede343a83d",
+  "seq": 0,
+  "modified": "2026-10-01T04:18:24+00:00"
+ },
+ "tablelist-45a1d056dcb77912@zeyzey.miami-calendars": {
+  "hash": "30eb08283c9f6858",
+  "seq": 0,
+  "modified": "2026-10-01T04:18:24+00:00"
+ },
+ "tablelist-7c5e948162a39cd3@zeyzey.miami-calendars": {
+  "hash": "d64629cb50950090",
+  "seq": 0,
+  "modified": "2026-10-01T04:18:24+00:00"
+ },
+ "tablelist-a2c7b0c91d4ac64b@zeyzey.miami-calendars": {
+  "hash": "b4ba0b3bb6430cd3",
+  "seq": 0,
+  "modified": "2026-10-01T04:18:24+00:00"
+ },
+ "tablelist-abc873e7b3df0c6a@zeyzey.miami-calendars": {
+  "hash": "eddf308abae7d730",
+  "seq": 0,
+  "modified": "2026-10-01T04:18:24+00:00"
+ },
+ "tablelist-b7cca09069029abe@zeyzey.miami-calendars": {
+  "hash": "0befa1316cfe6ed1",
+  "seq": 0,
+  "modified": "2026-10-01T04:18:24+00:00"
+ },
+ "tablelist-be4b8785c1b327f9@zeyzey.miami-calendars": {
+  "hash": "099f40826fc7ab55",
+  "seq": 0,
+  "modified": "2026-10-01T04:18:24+00:00"
+ },
+ "tablelist-cb59f6b1c057040a@zeyzey.miami-calendars": {
+  "hash": "436543e0b4348487",
+  "seq": 0,
+  "modified": "2026-10-01T04:18:24+00:00"
+ },
+ "tablelist-f10b685adc35d405@zeyzey.miami-calendars": {
+  "hash": "3209738510b88278",
+  "seq": 0,
+  "modified": "2026-10-01T04:18:24+00:00"
+ },
+ "tablelist-f1a299c797f4b9b1@zeyzey.miami-calendars": {
+  "hash": "bd5a2f7a23bca065",
+  "seq": 0,
+  "modified": "2026-10-01T04:18:24+00:00"
+ },
+ "tablelist-f6601f8b0a7abeb1@zeyzey.miami-calendars": {
+  "hash": "7510fd00af253641",
+  "seq": 0,
+  "modified": "2026-10-01T04:18:24+00:00"
+ },
+ "tablelist-f68f86a4f33a974d@zeyzey.miami-calendars": {
+  "hash": "f0dba44f27ecf408",
+  "seq": 0,
+  "modified": "2026-10-01T04:18:24+00:00"
+ },
+ "tablelist-f760a46c86a093ab@zeyzey.miami-calendars": {
+  "hash": "48a500cf1afcdd06",
+  "seq": 0,
+  "modified": "2026-10-01T04:18:24+00:00"
  },
  "the-hall-pres-roy-rosenfeld@shotgun.live": {
   "hash": "2ce1fd939df891bf",
@@ -1323,11 +1413,6 @@
   "hash": "40bad7f3502ddc01",
   "seq": 0,
   "modified": "2026-09-30T16:18:12+00:00"
- },
- "zeyzey-alta-joda-fest-17-oct@zeyzey.miami-calendars": {
-  "hash": "f5700ea31efe09cd",
-  "seq": 0,
-  "modified": "2026-09-21T20:01:40+00:00"
  },
  "zeyzey-amarji-king-20-nov@zeyzey.miami-calendars": {
   "hash": "67b83ee57172f3fc",
@@ -1349,11 +1434,6 @@
   "seq": 0,
   "modified": "2026-09-21T20:01:40+00:00"
  },
- "zeyzey-black-chiney-sound-22-oct@zeyzey.miami-calendars": {
-  "hash": "80dfcc5a580174d9",
-  "seq": 0,
-  "modified": "2026-09-21T20:01:40+00:00"
- },
  "zeyzey-blueface-x-ddg-fresh-out-of-love-tour-16-sep@zeyzey.miami-calendars": {
   "hash": "7741ab19195c9714",
   "seq": 0,
@@ -1361,16 +1441,6 @@
  },
  "zeyzey-bombargo-21-oct@zeyzey.miami-calendars": {
   "hash": "c02c36fdecafca3f",
-  "seq": 0,
-  "modified": "2026-09-21T20:01:40+00:00"
- },
- "zeyzey-cannons-10-oct@zeyzey.miami-calendars": {
-  "hash": "625e6bf215d25afb",
-  "seq": 0,
-  "modified": "2026-09-21T20:01:40+00:00"
- },
- "zeyzey-cannons-dj-set-10-oct@zeyzey.miami-calendars": {
-  "hash": "1fd6f26ed6bc7940",
   "seq": 0,
   "modified": "2026-09-21T20:01:40+00:00"
  },
@@ -1404,50 +1474,10 @@
   "seq": 0,
   "modified": "2026-09-21T20:01:40+00:00"
  },
- "zeyzey-dope-lemon-23-oct@zeyzey.miami-calendars": {
-  "hash": "392b75975011673b",
-  "seq": 0,
-  "modified": "2026-09-21T20:01:40+00:00"
- },
- "zeyzey-electric-feels-indie-rock-electronic-dance-party-03-oct@zeyzey.miami-calendars": {
-  "hash": "721e8c72f7d0bc25",
-  "seq": 0,
-  "modified": "2026-09-21T20:01:40+00:00"
- },
- "zeyzey-flamingosis-02-oct@zeyzey.miami-calendars": {
-  "hash": "343a8fa142f97e7a",
-  "seq": 1,
-  "modified": "2026-09-21T23:53:57+00:00"
- },
- "zeyzey-fleetmac-wood-horror-hifi-free-entry-30-oct@zeyzey.miami-calendars": {
-  "hash": "1593a7eeb43aeecc",
-  "seq": 2,
-  "modified": "2026-09-29T16:18:09+00:00"
- },
- "zeyzey-golden-a-k-pop-kids-party-31-oct@zeyzey.miami-calendars": {
-  "hash": "9a1c2bb688cf7431",
-  "seq": 1,
-  "modified": "2026-09-23T22:18:04+00:00"
- },
  "zeyzey-i-love-r-b-party-18-dec@zeyzey.miami-calendars": {
   "hash": "3a9aef0ac187e159",
   "seq": 0,
   "modified": "2026-09-29T04:18:14+00:00"
- },
- "zeyzey-ile-30-oct@zeyzey.miami-calendars": {
-  "hash": "6d69586cf061cc59",
-  "seq": 0,
-  "modified": "2026-09-21T20:01:40+00:00"
- },
- "zeyzey-intima-ft-ammo-amor-baby-bass-dcal-sebas-23-oct@zeyzey.miami-calendars": {
-  "hash": "f796208ce4ef67da",
-  "seq": 0,
-  "modified": "2026-09-21T20:01:40+00:00"
- },
- "zeyzey-jime-angel-02-oct@zeyzey.miami-calendars": {
-  "hash": "dd92fbd5e34cea6d",
-  "seq": 0,
-  "modified": "2026-09-22T16:18:02+00:00"
  },
  "zeyzey-justin-nozuka-01-dec@zeyzey.miami-calendars": {
   "hash": "aba4f767cadf01c4",
@@ -1464,43 +1494,8 @@
   "seq": 0,
   "modified": "2026-09-21T20:01:40+00:00"
  },
- "zeyzey-leon-bridges-presents-happiness-anytime-28-oct@zeyzey.miami-calendars": {
-  "hash": "dc68a6affa2fc0ed",
-  "seq": 0,
-  "modified": "2026-09-28T16:18:03+00:00"
- },
- "zeyzey-lewis-ofman-24-oct@zeyzey.miami-calendars": {
-  "hash": "e5ce20a7eddd05e4",
-  "seq": 1,
-  "modified": "2026-09-21T23:53:57+00:00"
- },
  "zeyzey-los-amigos-invisibles-11-dec@zeyzey.miami-calendars": {
   "hash": "3970ed7b73110793",
-  "seq": 0,
-  "modified": "2026-09-21T20:01:40+00:00"
- },
- "zeyzey-lukas-frank-11-oct@zeyzey.miami-calendars": {
-  "hash": "0aefb80db82c10c6",
-  "seq": 0,
-  "modified": "2026-09-22T22:18:08+00:00"
- },
- "zeyzey-mark-farina-s-mushroom-jazz-halloween-edition-31-oct@zeyzey.miami-calendars": {
-  "hash": "3b9c72d8cf323322",
-  "seq": 1,
-  "modified": "2026-09-21T23:53:57+00:00"
- },
- "zeyzey-mashbit-22-oct@zeyzey.miami-calendars": {
-  "hash": "459de53ee522a5bf",
-  "seq": 0,
-  "modified": "2026-09-21T20:01:40+00:00"
- },
- "zeyzey-monsieur-perine-02-oct@zeyzey.miami-calendars": {
-  "hash": "cab7a069bd9c87a3",
-  "seq": 0,
-  "modified": "2026-09-21T20:01:40+00:00"
- },
- "zeyzey-night-tapes-08-oct@zeyzey.miami-calendars": {
-  "hash": "9ad7cd0f53137902",
   "seq": 0,
   "modified": "2026-09-21T20:01:40+00:00"
  },
@@ -1509,30 +1504,15 @@
   "seq": 0,
   "modified": "2026-09-25T16:18:07+00:00"
  },
- "zeyzey-party-pupils-16-oct@zeyzey.miami-calendars": {
-  "hash": "484ca9e4bca39454",
-  "seq": 0,
-  "modified": "2026-09-21T20:01:40+00:00"
- },
- "zeyzey-peter-bjorn-and-john-writer-s-block-20th-anniversary-tour-25-oct@zeyzey.miami-calendars": {
-  "hash": "34b0c7503cec031b",
-  "seq": 0,
-  "modified": "2026-09-21T20:01:40+00:00"
- },
  "zeyzey-presents-dadi-freyr-too-much-not-enough@shotgun.live": {
-  "hash": "a5a276e81b229111",
-  "seq": 1,
-  "modified": "2026-09-21T20:01:40+00:00"
+  "hash": "aae488d235975184",
+  "seq": 2,
+  "modified": "2026-10-01T04:18:24+00:00"
  },
  "zeyzey-presents-parra-for-cuva@shotgun.live": {
   "hash": "4ae749e0e1541853",
   "seq": 3,
   "modified": "2026-09-21T23:53:57+00:00"
- },
- "zeyzey-puma-blue-29-oct@zeyzey.miami-calendars": {
-  "hash": "e9a062badc8b34c8",
-  "seq": 0,
-  "modified": "2026-09-21T20:01:40+00:00"
  },
  "zeyzey-salsa-vs-perreo-30-oct@zeyzey.miami-calendars": {
   "hash": "d0e415645581f220",
@@ -1598,10 +1578,5 @@
   "hash": "434325626ca19652",
   "seq": 0,
   "modified": "2026-09-21T20:01:40+00:00"
- },
- "zeyzey-whipped-cream-03-oct@zeyzey.miami-calendars": {
-  "hash": "a2685f7411ba05cd",
-  "seq": 1,
-  "modified": "2026-09-21T23:53:57+00:00"
  }
 }

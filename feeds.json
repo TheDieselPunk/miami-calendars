@@ -3,7 +3,7 @@
   "slug": "club-space",
   "name": "Club Space",
   "file": "club-space.ics",
-  "events": 22,
+  "events": 23,
   "estimated_times": 0,
   "next": "2026-10-01",
   "sources": [
@@ -100,7 +100,7 @@
   "slug": "zeyzey",
   "name": "ZeyZey Miami",
   "file": "zeyzey.ics",
-  "events": 64,
+  "events": 58,
   "estimated_times": 0,
   "next": "2026-10-01",
   "sources": [
@@ -108,6 +108,7 @@
    "dice",
    "edmtrain",
    "shotgun",
+   "tablelist",
    "venue"
   ],
   "hours_note": "Observed on Shotgun: shows 7 PM-1 AM; Friday DJ nights 10 PM-3 AM."

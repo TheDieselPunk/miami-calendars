@@ -1,52 +1,6 @@
 {
  "events": [
   {
-   "id": "19hz:4444303-yissel",
-   "source": "19hz",
-   "title": "Yissel",
-   "artists": [],
-   "venue": "E11even",
-   "venue_slug": null,
-   "date": "2026-09-29",
-   "start": "2026-09-30T00:00:00+00:00",
-   "end": "2026-09-30T05:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "free w/rsvp b4 midnight / $23-34",
-   "genres": [
-    "hip-hop",
-    "house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://speakeasygo.com/event/EVE-X8TZD9"
-  },
-  {
-   "id": "shotgun:undertone",
-   "source": "edmtrain+shotgun",
-   "title": "Undertone",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-09-30",
-   "start": "2026-10-01T00:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/undertone",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/undertone-540599"
-   ]
-  },
-  {
    "id": "shotgun:open-mic-at-churchill-s-pub-15",
    "source": "shotgun",
    "title": "Open Mic : Every Wednesday",
@@ -107,26 +61,6 @@
    ]
   },
   {
-   "id": "shotgun:comedy-show-tomorrowland-5",
-   "source": "shotgun",
-   "title": "Comedy Show @ Tomorrowland",
-   "artists": [],
-   "venue": "Tomorrowland Miami",
-   "venue_slug": null,
-   "date": "2026-09-30",
-   "start": "2026-10-01T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$6.00",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/comedy-show-tomorrowland-5"
-  },
-  {
    "id": "shotgun:ben-s-folk-hootenanny",
    "source": "shotgun",
    "title": "Ben's Folk Hootenanny",
@@ -179,6 +113,29 @@
    ]
   },
   {
+   "id": "edmtrain:540599",
+   "source": "edmtrain",
+   "title": "Undertone",
+   "artists": [],
+   "venue": "777 NE 79th St",
+   "venue_slug": null,
+   "date": "2026-09-30",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "777 NE 79th St, Miami, FL 33138, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/undertone?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/undertone-540599"
+   ]
+  },
+  {
    "id": "edmtrain:540389",
    "source": "edmtrain",
    "title": "Rodrigo Vieira b2b Dmeyer",
@@ -206,7 +163,7 @@
   },
   {
    "id": "shotgun:zeyzey-presents-dadi-freyr-too-much-not-enough",
-   "source": "shotgun+venue",
+   "source": "shotgun+tablelist+venue",
    "title": "Daði Freyr",
    "artists": [
     "BRÍET",
@@ -237,6 +194,7 @@
    },
    "created": null,
    "alt_urls": [
+    "https://buy.tablelist.com/e/ba02a544fc49c805",
     "https://calendar.zeyzeymiami.com/shows/dadi-freyr-01-oct"
    ]
   },
@@ -277,7 +235,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$12.00",
+   "price": "$15.00",
    "genres": [
     "rock"
    ],
@@ -506,27 +464,38 @@
    ]
   },
   {
-   "id": "zeyzey:monsieur-perine-02-oct",
-   "source": "venue",
+   "id": "tablelist:3e08cc38cf7b0afa",
+   "source": "19hz+edmtrain+tablelist+venue",
    "title": "Monsieur Periné - Instrucciones Para Ser Feliz",
-   "artists": [],
+   "artists": [
+    "Flamingosis"
+   ],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-10-02",
    "start": "2026-10-03T00:00:00+00:00",
-   "end": "2026-10-03T07:00:00+00:00",
+   "end": "2026-10-03T06:00:00+00:00",
    "time_estimated": false,
    "address": "",
-   "ages": "",
-   "price": "",
+   "ages": "All ages",
+   "price": "Free",
    "genres": [
+    "downtempo",
+    "funk",
+    "hip-hop",
     "indie/alternative"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/monsieur-perine-02-oct",
-   "cancelled": false
+   "url": "https://buy.tablelist.com/e/3e08cc38cf7b0afa",
+   "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/flamingosis-02-oct",
+    "https://calendar.zeyzeymiami.com/shows/jime-angel-02-oct",
+    "https://calendar.zeyzeymiami.com/shows/monsieur-perine-02-oct",
+    "https://calendar.zeyzeymiami.com/shows/flamingosis-02-oct",
+    "https://edmtrain.com/miami-fl/flamingosis-514144"
+   ]
   },
   {
    "id": "shotgun:bobby-peru-inscribed-a-plague-of-angels-and-more",
@@ -605,37 +574,6 @@
    "organizer": "",
    "description": "",
    "url": "https://ra.co/events/2534770"
-  },
-  {
-   "id": "zeyzey:flamingosis-02-oct",
-   "source": "19hz+edmtrain+venue",
-   "title": "Flamingosis",
-   "artists": [
-    "Flamingosis"
-   ],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-10-02",
-   "start": "2026-10-03T01:00:00+00:00",
-   "end": "2026-10-03T07:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "All ages",
-   "price": "$24",
-   "genres": [
-    "downtempo",
-    "funk",
-    "hip-hop"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/flamingosis-02-oct",
-   "cancelled": false,
-   "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/flamingosis-02-oct",
-    "https://edmtrain.com/miami-fl/flamingosis-514144"
-   ]
   },
   {
    "id": "shotgun:c3trlroom-7",
@@ -793,7 +731,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $7",
+   "price": "From $10",
    "genres": [
     "progressive house",
     "tech house"
@@ -1022,29 +960,6 @@
    ]
   },
   {
-   "id": "zeyzey:jime-angel-02-oct",
-   "source": "venue",
-   "title": "Jime Angel (Free Entry)",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-10-02",
-   "start": "2026-10-03T03:59:00+00:00",
-   "end": "2026-10-03T07:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [
-    "dance/electronic"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/jime-angel-02-oct",
-   "cancelled": false
-  },
-  {
    "id": "edmtrain:536353",
    "source": "edmtrain",
    "title": "Ava Blank, Eva Myra May",
@@ -1176,6 +1091,30 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/third-party-536114"
    ]
+  },
+  {
+   "id": "dice:6abdb6ed6c22d500012247ce",
+   "source": "dice",
+   "title": "Space Yoga",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2026-10-03",
+   "start": "2026-10-03T20:20:00+00:00",
+   "end": "2026-10-03T21:45:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6abdb6ed6c22d500012247ce",
+   "cancelled": false
   },
   {
    "id": "shotgun:soundtuaryoctober3",
@@ -1382,27 +1321,36 @@
    ]
   },
   {
-   "id": "zeyzey:electric-feels-indie-rock-electronic-dance-party-03-oct",
-   "source": "venue",
+   "id": "tablelist:45a1d056dcb77912",
+   "source": "19hz+edmtrain+tablelist+venue",
    "title": "Electric Feels: Indie Rock + Electronic Dance Party",
-   "artists": [],
+   "artists": [
+    "WHIPPED CREAM"
+   ],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-10-03",
    "start": "2026-10-04T01:00:00+00:00",
-   "end": "2026-10-04T05:00:00+00:00",
+   "end": "2026-10-04T06:00:00+00:00",
    "time_estimated": false,
    "address": "",
-   "ages": "",
-   "price": "",
+   "ages": "18+",
+   "price": "$25",
    "genres": [
-    "dance/electronic"
+    "bass music",
+    "club music",
+    "trap"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/electric-feels-indie-rock-electronic-dance-party-03-oct",
-   "cancelled": false
+   "url": "https://buy.tablelist.com/e/45a1d056dcb77912",
+   "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/electric-feels-indie-rock-electronic-dance-party-03-oct",
+    "https://calendar.zeyzeymiami.com/shows/whipped-cream-03-oct",
+    "https://calendar.zeyzeymiami.com/shows/whipped-cream-03-oct",
+    "https://edmtrain.com/miami-fl/whipped-cream-509115"
+   ]
   },
   {
    "id": "shotgun:hcanathalycandelajoelvengasoct3",
@@ -1721,37 +1669,6 @@
    ]
   },
   {
-   "id": "zeyzey:whipped-cream-03-oct",
-   "source": "19hz+edmtrain+venue",
-   "title": "Whipped Cream",
-   "artists": [
-    "WHIPPED CREAM"
-   ],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-10-03",
-   "start": "2026-10-04T02:00:00+00:00",
-   "end": "2026-10-04T05:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "18+",
-   "price": "$25",
-   "genres": [
-    "bass music",
-    "club music",
-    "trap"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/whipped-cream-03-oct",
-   "cancelled": false,
-   "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/whipped-cream-03-oct",
-    "https://edmtrain.com/miami-fl/whipped-cream-509115"
-   ]
-  },
-  {
    "id": "dice:6a91ebccea5f2200012d4c71",
    "source": "19hz+dice+edmtrain",
    "title": "Âme (DJ), Hardt Antoine, & Maceo Plex",
@@ -1770,7 +1687,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $20",
+   "price": "From $30",
    "genres": [
     "tech house"
    ],
@@ -2439,15 +2356,15 @@
    ]
   },
   {
-   "id": "zeyzey:night-tapes-08-oct",
-   "source": "venue",
+   "id": "tablelist:2e996312a3fbfc09",
+   "source": "tablelist+venue",
    "title": "Night Tapes",
    "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-10-08",
    "start": "2026-10-08T23:00:00+00:00",
-   "end": "2026-10-09T05:00:00+00:00",
+   "end": "2026-10-09T04:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "",
@@ -2458,8 +2375,30 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/night-tapes-08-oct",
-   "cancelled": false
+   "url": "https://buy.tablelist.com/e/2e996312a3fbfc09",
+   "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/night-tapes-08-oct"
+   ]
+  },
+  {
+   "id": "tablelist:a2c7b0c91d4ac64b",
+   "source": "tablelist",
+   "title": "Night Tapes",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-10-08",
+   "start": "2026-10-08T23:00:00+00:00",
+   "end": "2026-10-09T04:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://buy.tablelist.com/e/a2c7b0c91d4ac64b"
   },
   {
    "id": "zeyzey:degs-craze-shinobi-b2b-stereotype-08-oct",
@@ -2544,6 +2483,26 @@
    "description": "",
    "url": "https://dice.fm/event/6aad6a7f4e3af20001d7ad92",
    "cancelled": false
+  },
+  {
+   "id": "shotgun:superqueen-35",
+   "source": "shotgun",
+   "title": "Superqueen: Pokemon & Cosplay Hotties (18+)",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-10-08",
+   "start": "2026-10-09T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$10.00",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/superqueen-35"
   },
   {
    "id": "shotgun:loofy-sable-october-8th",
@@ -3147,7 +3106,7 @@
   },
   {
    "id": "shotgun:solmates-season-opener-ft-fahlberg-orsay-more",
-   "source": "19hz+dice+edmtrain+shotgun+venue",
+   "source": "19hz+dice+edmtrain+shotgun+tablelist+venue",
    "title": "Solmates Season Opener Ft. Fahlberg, Orsay & More",
    "artists": [
     "Fahlberg",
@@ -3173,7 +3132,7 @@
    "organizer": "Solmates Miami",
    "description": "Solmates brings together two European producers whose work meets at the intersection of melody, groove, and late-night dance music. Built around a shared appreciation for emotional, forward-thinking electronic music, Solmates creates a space where established sounds and new perspectives can meet on the dancefloor. Stockholm-born Fahlberg has built his sound around deep basslines, hypnotic textures, and what he describes as “Nordic Melodic” — a Scandinavian sense of atmosphere shaped through contemporary house and techno. His releases have appeared on labels including Diynamic, Watergate, Siamese, MoBlack, and When Stars Align, with support from Solomun, Keinemusik, Black Coffee, and Pete Tong. Tracks such as “Somebody” and “Chaka” have reached major Beatport chart positions, while recent work includes collaborations with Layer J, Argødes, and Jeremy Olander, alongside an official remix for RÜFÜS DU SOL. Joining him is Paris- and London-based Orsay, a producer whose melodic house sound is informed by an early classical background. Having studied piano from the age of six and trained at a music conservatory, Orsay brings that foundation into productions built around rhythm, emotion, and melody. His music has been released through Ninja Tune, Siamese, Universal Music, and Kitsuné, with tracks including “Mind Off,” “Amado,” and “Magik” receiving support from Adriatique, Solomun, WhoMadeWho, Carlita, and RÜFÜS DU SOL. In 2025, he took his sets across Europe, the UAE, and South America. Together, Fahlberg and Orsay represent the sound and spirit behind Solmates: a meeting point for artists and audiences drawn to melodic, groove-led electronic music, with a focus on connection, discovery, and the energy of the night. Rooted in Europe but looking outward, Solmates brings together different musical backgrounds and perspectives under one shared atmosphere — where melody meets movement and the right records create lasting moments. 21+ event",
    "url": "https://shotgun.live/en/events/solmates-season-opener-ft-fahlberg-orsay-more",
-   "tickets": "VIP (1st Release) $50, Entry before 11 PM $10 (sold out), Entry Anytime (1st Release) $25",
+   "tickets": "VIP (1st Release) $50, BUY 3 GET 1 FREE (1st Release) $75, Entry before 11 PM $10 (sold out), Entry Anytime (1st Release) $25",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -3183,6 +3142,8 @@
    "created": "2026-09-01T22:00:00.000Z",
    "alt_urls": [
     "https://dice.fm/event/6a9750591ac7ec00014fffc8",
+    "https://buy.tablelist.com/e/a3c6a4f30491acd7",
+    "https://buy.tablelist.com/e/ad02c1510e06e0f9",
     "https://calendar.zeyzeymiami.com/shows/cain-culto-free-entry-09-oct",
     "https://calendar.zeyzeymiami.com/shows/fahlberg-orsay-more-tba-09-oct",
     "https://ra.co/events/2529443",
@@ -3543,51 +3504,32 @@
    "cancelled": false
   },
   {
-   "id": "zeyzey:cannons-10-oct",
-   "source": "venue",
-   "title": "Cannons — The Everything Glows Tour",
+   "id": "tablelist:be4b8785c1b327f9",
+   "source": "19hz+tablelist+venue",
+   "title": "Cannons",
    "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-10-10",
    "start": "2026-10-11T00:00:00+00:00",
-   "end": "2026-10-11T05:00:00+00:00",
+   "end": "2026-10-11T06:00:00+00:00",
    "time_estimated": false,
    "address": "",
-   "ages": "",
-   "price": "",
+   "ages": "18+",
+   "price": "$28.75-34.50",
    "genres": [
+    "electropop",
     "pop"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/cannons-10-oct",
-   "cancelled": false
-  },
-  {
-   "id": "shotgun:soniqe-lunasol",
-   "source": "shotgun",
-   "title": "Soniqe @ Lunasol",
-   "artists": [],
-   "venue": "Lunasol",
-   "venue_slug": null,
-   "date": "2026-10-10",
-   "start": "2026-10-11T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$11.25",
-   "genres": [
-    "afro house",
-    "house",
-    "deep house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/soniqe-lunasol"
+   "url": "https://buy.tablelist.com/e/be4b8785c1b327f9",
+   "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/cannons-10-oct",
+    "https://calendar.zeyzeymiami.com/shows/cannons-dj-set-10-oct",
+    "https://ra.co/events/2525260"
+   ]
   },
   {
    "id": "shotgun:madradiomiami101026",
@@ -3805,6 +3747,30 @@
    ]
   },
   {
+   "id": "shotgun:soniqe-lunasol",
+   "source": "shotgun",
+   "title": "Soniqe @ Lunasol",
+   "artists": [],
+   "venue": "Lunasol",
+   "venue_slug": null,
+   "date": "2026-10-10",
+   "start": "2026-10-11T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.25",
+   "genres": [
+    "afro house",
+    "house",
+    "deep house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/soniqe-lunasol"
+  },
+  {
    "id": "shotgun:slow-life-w-cecilio-paolo-mosca-rapture-s-deli-anniversary",
    "source": "shotgun",
    "title": "Slow Life W/Cecilio & Paolo Mosca+Rapture's Deli Anniversary",
@@ -3974,32 +3940,6 @@
    ]
   },
   {
-   "id": "zeyzey:cannons-dj-set-10-oct",
-   "source": "19hz+venue",
-   "title": "Cannons DJ Set Afterparty",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-10-10",
-   "start": "2026-10-11T03:30:00+00:00",
-   "end": "2026-10-11T05:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "18+",
-   "price": "$28.75-34.50",
-   "genres": [
-    "electropop"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/cannons-dj-set-10-oct",
-   "cancelled": false,
-   "alt_urls": [
-    "https://ra.co/events/2525260"
-   ]
-  },
-  {
    "id": "edmtrain:539104",
    "source": "edmtrain",
    "title": "Slow Life: Adam Bogdan, Boghian, jeremiasbarna, Elizabëth, GALI, Michelle Mavris, rhaff, yomayo",
@@ -4161,8 +4101,8 @@
    "cancelled": false
   },
   {
-   "id": "zeyzey:lukas-frank-11-oct",
-   "source": "19hz+edmtrain+venue",
+   "id": "tablelist:f6601f8b0a7abeb1",
+   "source": "19hz+edmtrain+tablelist+venue",
    "title": "Lukas & Frank",
    "artists": [
     "Lukas & Frank"
@@ -4171,7 +4111,7 @@
    "venue_slug": "zeyzey",
    "date": "2026-10-11",
    "start": "2026-10-11T21:00:00+00:00",
-   "end": "2026-10-12T05:00:00+00:00",
+   "end": "2026-10-12T01:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "21+",
@@ -4183,9 +4123,9 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/lukas-frank-11-oct",
-   "cancelled": false,
+   "url": "https://buy.tablelist.com/e/f6601f8b0a7abeb1",
    "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/lukas-frank-11-oct",
     "https://ra.co/events/2513782",
     "https://edmtrain.com/miami-fl/lukas-and-frank-536639"
    ]
@@ -4320,7 +4260,7 @@
   },
   {
    "id": "dice:6a85fa1255f47f0001c509a5",
-   "source": "19hz+dice+edmtrain+venue",
+   "source": "19hz+dice+edmtrain+tablelist+venue",
    "title": "Satellite: Neon Indian (DJ Set), Twin Shadow & Washed Out (DJ Set)",
    "artists": [
     "Neon Indian"
@@ -4344,6 +4284,7 @@
    "url": "https://dice.fm/event/ww999v-satellite-neon-indian-dj-set-twin-shadow-washed-out-dj-set-14th-oct-zeyzey-miami-tickets",
    "cancelled": false,
    "alt_urls": [
+    "https://buy.tablelist.com/e/a93613d6361b626d",
     "https://calendar.zeyzeymiami.com/shows/satellite-neon-indian-dj-set-twin-shadow-washed-out-dj-set-14-oct",
     "https://dice.fm/event/ww999v-satellite-neon-indian-dj-set-twin-shadow-washed-out-dj-set-14th-oct-zeyzey-miami-tickets",
     "https://edmtrain.com/miami-fl/neon-indian-532196"
@@ -4351,7 +4292,7 @@
   },
   {
    "id": "dice:6a85fa446932660001a56c43",
-   "source": "19hz+dice+edmtrain+venue",
+   "source": "19hz+dice+edmtrain+tablelist+venue",
    "title": "Satellite: Chasewest B2B Discip, Ragie Ban, Dan Molinari & Stixx",
    "artists": [
     "ChaseWest",
@@ -4378,6 +4319,7 @@
    "url": "https://dice.fm/event/6dooo2-satellite-chasewest-b2b-discip-ragie-ban-dan-molinari-stixx-15th-oct-zeyzey-miami-tickets",
    "cancelled": false,
    "alt_urls": [
+    "https://buy.tablelist.com/e/0333e4f6895f5ec6",
     "https://calendar.zeyzeymiami.com/shows/satellite-chasewest-b2b-discip-ragie-ban-dan-molinari-stixx-15-oct",
     "https://dice.fm/event/6dooo2-satellite-chasewest-b2b-discip-ragie-ban-dan-molinari-stixx-15th-oct-zeyzey-miami-tickets",
     "https://edmtrain.com/miami-fl/chasewest-discip-532846"
@@ -4747,8 +4689,8 @@
    "url": "https://shotgun.live/en/events/hardcore-apocalypse"
   },
   {
-   "id": "zeyzey:party-pupils-16-oct",
-   "source": "19hz+edmtrain+venue",
+   "id": "tablelist:09696654a43f6624",
+   "source": "19hz+edmtrain+tablelist+venue",
    "title": "Party Pupils",
    "artists": [
     "Party Pupils"
@@ -4757,7 +4699,7 @@
    "venue_slug": "zeyzey",
    "date": "2026-10-16",
    "start": "2026-10-17T00:00:00+00:00",
-   "end": "2026-10-17T07:00:00+00:00",
+   "end": "2026-10-17T06:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "21+",
@@ -4769,9 +4711,9 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/party-pupils-16-oct",
-   "cancelled": false,
+   "url": "https://buy.tablelist.com/e/09696654a43f6624",
    "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/party-pupils-16-oct",
     "https://calendar.zeyzeymiami.com/shows/party-pupils-16-oct",
     "https://edmtrain.com/miami-fl/party-pupils-529175"
    ]
@@ -4887,6 +4829,29 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6a85c26e21cf7000014e0781"
+  },
+  {
+   "id": "shotgun:something-chill-oct-16",
+   "source": "shotgun",
+   "title": "Something Chill",
+   "artists": [],
+   "venue": "EDGE MIAMI",
+   "venue_slug": null,
+   "date": "2026-10-16",
+   "start": "2026-10-17T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$20.00",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/something-chill-oct-16"
   },
   {
    "id": "dice:6a823197b96d4a000112d8fb",
@@ -5124,6 +5089,30 @@
    ]
   },
   {
+   "id": "shotgun:qi-spotlight-2026-trade-show-ft-p-la-cangri",
+   "source": "shotgun",
+   "title": "Qi Spotlight 2026 Trade Show Ft. P La Cangri",
+   "artists": [],
+   "venue": "Quality Importers Trading Company",
+   "venue_slug": null,
+   "date": "2026-10-17",
+   "start": "2026-10-17T15:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "dance",
+    "afro house",
+    "afrobeat"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/qi-spotlight-2026-trade-show-ft-p-la-cangri"
+  },
+  {
    "id": "hardrock:202011",
    "source": "19hz+edmtrain+venue",
    "title": "Ian Asher",
@@ -5307,15 +5296,15 @@
    ]
   },
   {
-   "id": "zeyzey:alta-joda-fest-17-oct",
-   "source": "venue",
+   "id": "tablelist:f760a46c86a093ab",
+   "source": "tablelist+venue",
    "title": "Alta Joda Fest",
    "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-10-17",
    "start": "2026-10-18T01:00:00+00:00",
-   "end": "2026-10-18T05:00:00+00:00",
+   "end": "2026-10-18T06:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "",
@@ -5324,8 +5313,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/alta-joda-fest-17-oct",
-   "cancelled": false
+   "url": "https://buy.tablelist.com/e/f760a46c86a093ab",
+   "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/alta-joda-fest-17-oct"
+   ]
   },
   {
    "id": "shotgun:paint",
@@ -6076,9 +6067,9 @@
    ]
   },
   {
-   "id": "zeyzey:mashbit-22-oct",
-   "source": "19hz+edmtrain+venue",
-   "title": "MashBit",
+   "id": "tablelist:b7cca09069029abe",
+   "source": "19hz+edmtrain+tablelist+venue",
+   "title": "Mashbit",
    "artists": [
     "MashBit"
    ],
@@ -6090,7 +6081,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "18+",
-   "price": "$25",
+   "price": "Free",
    "genres": [
     "edm",
     "progressive house"
@@ -6098,9 +6089,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/mashbit-22-oct",
-   "cancelled": false,
+   "url": "https://buy.tablelist.com/e/b7cca09069029abe",
    "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/black-chiney-sound-22-oct",
+    "https://calendar.zeyzeymiami.com/shows/mashbit-22-oct",
     "https://calendar.zeyzeymiami.com/shows/mashbit-22-oct",
     "https://edmtrain.com/miami-fl/mashbit-532000"
    ]
@@ -6134,27 +6126,6 @@
    "created": "2026-09-24T18:00:03.000Z"
   },
   {
-   "id": "zeyzey:black-chiney-sound-22-oct",
-   "source": "venue",
-   "title": "Black Chiney Sound (Free Entry)",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-10-22",
-   "start": "2026-10-23T00:00:00+00:00",
-   "end": "2026-10-23T05:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/black-chiney-sound-22-oct",
-   "cancelled": false
-  },
-  {
    "id": "dice:6ab179c76d5a1f0001669601",
    "source": "dice",
    "title": "HAUNTED RAVEYARD PRE-PARTY",
@@ -6179,15 +6150,15 @@
    "cancelled": false
   },
   {
-   "id": "zeyzey:dope-lemon-23-oct",
-   "source": "venue",
-   "title": "DOPE LEMON",
+   "id": "tablelist:abc873e7b3df0c6a",
+   "source": "tablelist+venue",
+   "title": "Dope Lemon",
    "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-10-23",
    "start": "2026-10-24T00:00:00+00:00",
-   "end": "2026-10-24T07:00:00+00:00",
+   "end": "2026-10-24T03:30:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "",
@@ -6198,8 +6169,11 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/dope-lemon-23-oct",
-   "cancelled": false
+   "url": "https://buy.tablelist.com/e/abc873e7b3df0c6a",
+   "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/dope-lemon-23-oct",
+    "https://calendar.zeyzeymiami.com/shows/intima-ft-ammo-amor-baby-bass-dcal-sebas-23-oct"
+   ]
   },
   {
    "id": "19hz:4446612-wassu",
@@ -6281,9 +6255,13 @@
   },
   {
    "id": "dice:6abd7555c82c800001a1b0c7",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "Pearson Sound",
-   "artists": [],
+   "artists": [
+    "Pearson Sound",
+    "Milo Ziro",
+    "Liquid J"
+   ],
    "venue": "Jolene Sound Room Miami",
    "venue_slug": "jolene",
    "date": "2026-10-23",
@@ -6301,7 +6279,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6abd7555c82c800001a1b0c7",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/pearson-sound-milo-ziro-541423"
+   ]
   },
   {
    "id": "dice:69dc9d05fd62d30001cecb18",
@@ -6446,29 +6427,6 @@
     "https://dice.fm/event/dkdr2g-baby-j-23rd-oct-the-ground-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/baby-j-526707"
    ]
-  },
-  {
-   "id": "zeyzey:intima-ft-ammo-amor-baby-bass-dcal-sebas-23-oct",
-   "source": "venue",
-   "title": "Intima ft. Ammo Amor, Baby Bass, DCAL & Sebas",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-10-23",
-   "start": "2026-10-24T03:00:00+00:00",
-   "end": "2026-10-24T07:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "dance/electronic"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/intima-ft-ammo-amor-baby-bass-dcal-sebas-23-oct",
-   "cancelled": false
   },
   {
    "id": "edmtrain:534083",
@@ -6915,8 +6873,8 @@
    "cancelled": false
   },
   {
-   "id": "zeyzey:lewis-ofman-24-oct",
-   "source": "19hz+edmtrain+venue",
+   "id": "tablelist:f1a299c797f4b9b1",
+   "source": "19hz+edmtrain+tablelist+venue",
    "title": "Lewis OfMan",
    "artists": [
     "Lewis OfMan"
@@ -6925,7 +6883,7 @@
    "venue_slug": "zeyzey",
    "date": "2026-10-24",
    "start": "2026-10-25T03:00:00+00:00",
-   "end": "2026-10-25T05:00:00+00:00",
+   "end": "2026-10-25T07:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "18+",
@@ -6938,9 +6896,9 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/lewis-ofman-24-oct",
-   "cancelled": false,
+   "url": "https://buy.tablelist.com/e/f1a299c797f4b9b1",
    "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/lewis-ofman-24-oct",
     "https://ra.co/events/2534428",
     "https://edmtrain.com/miami-fl/lewis-ofman-535661"
    ]
@@ -7071,15 +7029,15 @@
    "generic_title": false
   },
   {
-   "id": "zeyzey:peter-bjorn-and-john-writer-s-block-20th-anniversary-tour-25-oct",
-   "source": "venue",
-   "title": "Peter Bjorn and John - Writer’s Block 20th Anniversary Tour",
+   "id": "tablelist:3e4f70ad438fc504",
+   "source": "tablelist+venue",
+   "title": "Peter Bjorn and John - Writer’s Block",
    "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-10-25",
    "start": "2026-10-25T23:00:00+00:00",
-   "end": "2026-10-26T05:00:00+00:00",
+   "end": "2026-10-26T06:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "",
@@ -7090,8 +7048,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/peter-bjorn-and-john-writer-s-block-20th-anniversary-tour-25-oct",
-   "cancelled": false
+   "url": "https://buy.tablelist.com/e/3e4f70ad438fc504",
+   "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/peter-bjorn-and-john-writer-s-block-20th-anniversary-tour-25-oct"
+   ]
   },
   {
    "id": "19hz:4446799-chizzle",
@@ -7176,8 +7136,8 @@
    ]
   },
   {
-   "id": "zeyzey:leon-bridges-presents-happiness-anytime-28-oct",
-   "source": "venue",
+   "id": "tablelist:303b09419bf8998a",
+   "source": "tablelist+venue",
    "title": "Leon Bridges Presents: Happiness Anytime",
    "artists": [],
    "venue": "ZeyZey Miami",
@@ -7195,8 +7155,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/leon-bridges-presents-happiness-anytime-28-oct",
-   "cancelled": false
+   "url": "https://buy.tablelist.com/e/303b09419bf8998a",
+   "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/leon-bridges-presents-happiness-anytime-28-oct"
+   ]
   },
   {
    "id": "19hz:4447087-e11evenhalloween",
@@ -7228,15 +7190,15 @@
    ]
   },
   {
-   "id": "zeyzey:puma-blue-29-oct",
-   "source": "venue",
+   "id": "tablelist:f68f86a4f33a974d",
+   "source": "tablelist+venue",
    "title": "Puma Blue",
    "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-10-29",
    "start": "2026-10-29T22:00:00+00:00",
-   "end": "2026-10-30T05:00:00+00:00",
+   "end": "2026-10-30T04:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "",
@@ -7247,8 +7209,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/puma-blue-29-oct",
-   "cancelled": false
+   "url": "https://buy.tablelist.com/e/f68f86a4f33a974d",
+   "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/puma-blue-29-oct"
+   ]
   },
   {
    "id": "19hz:4447183-e11evenhalloween",
@@ -7499,47 +7463,15 @@
    ]
   },
   {
-   "id": "zeyzey:fleetmac-wood-horror-hifi-free-entry-30-oct",
-   "source": "19hz+edmtrain+venue",
-   "title": "Fleetmac Wood + Horror HiFi (Free Entry)",
-   "artists": [
-    "Fleetmac Wood",
-    "Roxanne Roll",
-    "Alex Oxley"
-   ],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-10-30",
-   "start": "2026-10-31T01:00:00+00:00",
-   "end": "2026-10-31T07:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "All ages",
-   "price": "Free",
-   "genres": [
-    "disco",
-    "funk"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/fleetmac-wood-horror-hifi-free-entry-30-oct",
-   "cancelled": false,
-   "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/fleetmac-wood-horror-hifi-free-entry-30-oct",
-    "https://edmtrain.com/miami-fl/fleetmac-wood-roxanne-roll-524856"
-   ]
-  },
-  {
-   "id": "zeyzey:ile-30-oct",
-   "source": "venue",
+   "id": "tablelist:f10b685adc35d405",
+   "source": "tablelist+venue",
    "title": "iLe",
    "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-10-30",
    "start": "2026-10-31T01:00:00+00:00",
-   "end": "2026-10-31T07:00:00+00:00",
+   "end": "2026-10-31T06:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "",
@@ -7548,8 +7480,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/ile-30-oct",
-   "cancelled": false
+   "url": "https://buy.tablelist.com/e/f10b685adc35d405",
+   "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/ile-30-oct"
+   ]
   },
   {
    "id": "hardrock:204541",
@@ -7929,6 +7863,38 @@
    "cancelled": false
   },
   {
+   "id": "tablelist:7c5e948162a39cd3",
+   "source": "19hz+edmtrain+tablelist+venue",
+   "title": "Fleetmac Wood + Horror HiFi",
+   "artists": [
+    "Fleetmac Wood",
+    "Roxanne Roll",
+    "Alex Oxley"
+   ],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-10-30",
+   "start": "2026-10-31T03:00:00+00:00",
+   "end": "2026-10-31T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "All ages",
+   "price": "Free",
+   "genres": [
+    "disco",
+    "funk"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://buy.tablelist.com/e/7c5e948162a39cd3",
+   "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/fleetmac-wood-horror-hifi-free-entry-30-oct",
+    "https://calendar.zeyzeymiami.com/shows/fleetmac-wood-horror-hifi-free-entry-30-oct",
+    "https://edmtrain.com/miami-fl/fleetmac-wood-roxanne-roll-524856"
+   ]
+  },
+  {
    "id": "edmtrain:538674",
    "source": "edmtrain",
    "title": "SGX",
@@ -7952,27 +7918,6 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/sgx-538674"
    ]
-  },
-  {
-   "id": "zeyzey:golden-a-k-pop-kids-party-31-oct",
-   "source": "venue",
-   "title": "GOLDEN: A K-Pop Kids Party",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-10-31",
-   "start": "2026-10-31T14:30:00+00:00",
-   "end": "2026-11-01T05:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/golden-a-k-pop-kids-party-31-oct",
-   "cancelled": false
   },
   {
    "id": "hardrock:204543",
@@ -8045,9 +7990,9 @@
    "url": "https://www.eventbrite.com/e/murder-on-the-dance-floor-halloweekend-rhythm-vine-tickets-2001249673646"
   },
   {
-   "id": "zeyzey:mark-farina-s-mushroom-jazz-halloween-edition-31-oct",
-   "source": "19hz+edmtrain+venue",
-   "title": "Mark Farina's Mushroom Jazz - Halloween Edition with Nutritious",
+   "id": "tablelist:cb59f6b1c057040a",
+   "source": "19hz+edmtrain+tablelist+venue",
+   "title": "Mark Farina’s Mushroom Jazz",
    "artists": [
     "Mark Farina",
     "Nutritious"
@@ -8056,7 +8001,7 @@
    "venue_slug": "zeyzey",
    "date": "2026-10-31",
    "start": "2026-10-31T22:00:00+00:00",
-   "end": "2026-11-01T05:00:00+00:00",
+   "end": "2026-11-01T04:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "18+",
@@ -8069,9 +8014,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/mark-farina-s-mushroom-jazz-halloween-edition-31-oct",
-   "cancelled": false,
+   "url": "https://buy.tablelist.com/e/cb59f6b1c057040a",
    "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/golden-a-k-pop-kids-party-31-oct",
+    "https://calendar.zeyzeymiami.com/shows/mark-farina-s-mushroom-jazz-halloween-edition-31-oct",
     "https://calendar.zeyzeymiami.com/shows/mark-farina-s-mushroom-jazz-halloween-edition-31-oct",
     "https://edmtrain.com/miami-fl/mark-farina-nutritious-524906"
    ]
@@ -9003,8 +8949,7 @@
    "cancelled": false,
    "alt_urls": [
     "https://dice.fm/event/g58ax5-paige-tomlinson-lammer-stm-6th-nov-the-ground-miami-miami-tickets",
-    "https://edmtrain.com/miami-fl/paige-tomlinson-lammer-538328",
-    "https://edmtrain.com/miami-fl/808-life-dj-assault-541192"
+    "https://edmtrain.com/miami-fl/paige-tomlinson-lammer-538328"
    ]
   },
   {
@@ -12526,6 +12471,31 @@
    ]
   },
   {
+   "id": "edmtrain:541436",
+   "source": "edmtrain",
+   "title": "HUGEL",
+   "artists": [
+    "HUGEL"
+   ],
+   "venue": "National Hotel",
+   "venue_slug": null,
+   "date": "2026-12-04",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1677 Collins Ave, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/92nkk6?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/hugel-541436"
+   ]
+  },
+  {
    "id": "hardrock:207848",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -14069,9 +14039,11 @@
   },
   {
    "id": "dice:6aba864e4479fc0001853144",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "TeeDee",
-   "artists": [],
+   "artists": [
+    "TeeDee"
+   ],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
    "date": "2027-01-22",
@@ -14089,7 +14061,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aba864e4479fc0001853144",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/teedee-541419"
+   ]
   },
   {
    "id": "edmtrain:458945",
