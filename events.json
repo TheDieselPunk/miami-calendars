@@ -1,88 +1,31 @@
 {
  "events": [
   {
-   "id": "shotgun:open-mic-at-churchill-s-pub-15",
-   "source": "shotgun",
-   "title": "Open Mic : Every Wednesday",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-09-30",
-   "start": "2026-10-01T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [
-    "punk",
-    "post-punk",
-    "rock"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/open-mic-at-churchill-s-pub-15"
-  },
-  {
-   "id": "shotgun:madradiomiami093026",
-   "source": "19hz+edmtrain+shotgun",
-   "title": "Undertone: Tombo / Hueso / Andre Bass & Asørey",
+   "id": "19hz:4444404-undertonejoaquin",
+   "source": "19hz+edmtrain",
+   "title": "Undertone: Joaquin Bohmer",
    "artists": [
     "Tombo"
    ],
-   "venue": "Mad Radio Miami",
+   "venue": "Mad Radio",
    "venue_slug": "mad-radio",
    "date": "2026-09-30",
    "start": "2026-10-01T01:00:00+00:00",
    "end": "2026-10-01T07:00:00+00:00",
    "time_estimated": false,
-   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "address": "",
    "ages": "21+",
-   "price": "Free",
+   "price": "free",
    "genres": [
     "house"
    ],
    "genres_inferred": false,
-   "organizer": "Mad Radio Miami",
-   "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY 25+ YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
-   "url": "https://shotgun.live/en/events/madradiomiami093026",
-   "tickets": "RSVP Free",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.8462027,
-    "longitude": -80.1851332
-   },
-   "created": "2026-08-25T13:28:37.000Z",
-   "alt_urls": [
-    "https://shotgun.live/en/events/madradiomiami093026",
-    "https://edmtrain.com/miami-fl/undertone-tombo-531847"
-   ]
-  },
-  {
-   "id": "shotgun:ben-s-folk-hootenanny",
-   "source": "shotgun",
-   "title": "Ben's Folk Hootenanny",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-09-30",
-   "start": "2026-10-01T01:30:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "blues",
-    "rock",
-    "folk"
-   ],
-   "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/ben-s-folk-hootenanny"
+   "url": "https://shotgun.live/en/events/madradiomiami093026",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/undertone-tombo-531847"
+   ]
   },
   {
    "id": "19hz:4444408-jessyfriendsrola",
@@ -211,7 +154,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "",
-   "price": "",
+   "price": " (sold out)",
    "genres": [
     "house",
     "techno"
@@ -1240,7 +1183,7 @@
    ],
    "genres_inferred": true,
    "organizer": "Sarah Tonin",
-   "description": "Born and raised in Buenos Aires, Gulp is a DJ, producer, and curator. After residing for 10 years in Berlin, he built his craft by digging deep into music — sourcing, mastering, and blending genres with a collector’s obsession. Residencies, podcasts, and features in Resident Advisor and XLR8R established him as a versatile and restless musical voice. His sets and productions draw from a wide but deliberate palette, stitching together surrealist fragments into something distinctly his own. That same sensibility drives People People, his cross-genre ensemble that keeps pushing genre boundaries. In 2021, he co-founded The Pressure Company — a label and platform built around electronic music in all its forms, reflecting the same boundless curiosity that",
+   "description": "Born and raised in Buenos Aires, Gulp is a DJ, producer, and curator. After residing for 10 years in Berlin, he built his craft by digging deep into music — sourcing, mastering, and blending genres with a collector’s obsession. Residencies, podcasts, and features in Resident Advisor and XLR8R established him as a versatile and restless musical voice. His sets and productions draw from a wide but deliberate palette, stitching together surrealist fragments into something distinctly his own. That same sensibility drives People People, his cross-genre ensemble that keeps pushing genre boundaries. In 2021, he co-founded The Pressure Company — a label and platform built around electronic music in all its forms, reflecting the same boundless curiosity that defines everything he does.",
    "url": "https://shotgun.live/en/events/gulp-by-sarah-tonin-mad-radio",
    "tickets": "FREE BEFORE 11PM Free, ANY TIME ENTRY TIER 1 $20",
    "cancelled": false,
