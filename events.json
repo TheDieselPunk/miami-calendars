@@ -1,47 +1,49 @@
 {
  "events": [
   {
-   "id": "shotgun:zeyzey-presents-dadi-freyr-too-much-not-enough",
-   "source": "shotgun+tablelist+venue",
+   "id": "tablelist:ba02a544fc49c805",
+   "source": "tablelist",
    "title": "Daði Freyr",
-   "artists": [
-    "BRÍET",
-    "Daði Freyr"
-   ],
+   "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-10-01",
    "start": "2026-10-01T23:00:00+00:00",
    "end": "2026-10-02T05:00:00+00:00",
    "time_estimated": false,
-   "address": "353 Northeast 61st Street, Miami, FL 33137, USA",
+   "address": "",
    "ages": "",
    "price": "",
-   "genres": [
-    "pop"
-   ],
+   "genres": [],
    "genres_inferred": false,
-   "organizer": "ZeyZey",
-   "description": "Ticket sales for this event have moved. Please visit this link to get tickets: https://calendar.zeyzeymiami.com/shows/dadi-freyr-01-oct",
-   "url": "https://shotgun.live/en/events/zeyzey-presents-dadi-freyr-too-much-not-enough",
-   "tickets": "",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.8327924,
-    "longitude": -80.1891253
-   },
-   "created": null,
-   "alt_urls": [
-    "https://buy.tablelist.com/e/3cd935868309e1a6",
-    "https://buy.tablelist.com/e/ba02a544fc49c805",
-    "https://calendar.zeyzeymiami.com/shows/dadi-freyr-01-oct"
-   ]
+   "organizer": "",
+   "description": "",
+   "url": "https://buy.tablelist.com/e/ba02a544fc49c805"
   },
   {
-   "id": "shotgun:madradiomiami100126",
-   "source": "edmtrain+shotgun",
-   "title": "Trip Don't Sleep: Auphoria / Daizy / Nicole Gallamini",
+   "id": "tablelist:3cd935868309e1a6",
+   "source": "tablelist",
+   "title": "The Hails",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-10-01",
+   "start": "2026-10-02T00:00:00+00:00",
+   "end": "2026-10-02T03:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://buy.tablelist.com/e/3cd935868309e1a6"
+  },
+  {
+   "id": "edmtrain:540052",
+   "source": "edmtrain",
+   "title": "Trip Don't Sleep: Auphoria",
    "artists": [
     "Auphoria"
    ],
@@ -50,53 +52,21 @@
    "date": "2026-10-01",
    "start": "2026-10-02T01:00:00+00:00",
    "end": "2026-10-02T07:00:00+00:00",
-   "time_estimated": false,
-   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "time_estimated": true,
+   "address": "7700 Biscayne Blvd, Miami, FL 33138, USA",
    "ages": "",
-   "price": "Free",
+   "price": "",
    "genres": [
     "deep house",
     "house"
    ],
    "genres_inferred": true,
-   "organizer": "Mad Radio Miami",
-   "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
-   "url": "https://shotgun.live/en/events/madradiomiami100126",
-   "tickets": "RSVP Free",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.8462027,
-    "longitude": -80.1851332
-   },
-   "created": "2026-09-25T01:29:57.000Z",
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/madradiomiami100126?utm_source=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/trip-dont-sleep-auphoria-540052"
    ]
-  },
-  {
-   "id": "shotgun:vocal-jukebox-every-thursday-11",
-   "source": "shotgun",
-   "title": "Vocal Jukebox : Every Thursday",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-10-01",
-   "start": "2026-10-02T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [
-    "post-punk",
-    "new wave",
-    "indie"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/vocal-jukebox-every-thursday-11"
   },
   {
    "id": "dice:6ab3eef6a713180001f76939",
@@ -147,26 +117,6 @@
    "description": "",
    "url": "https://dice.fm/event/6abac44271279e00013e85c7",
    "cancelled": false
-  },
-  {
-   "id": "shotgun:superqueen-34",
-   "source": "shotgun",
-   "title": "Superqueen: Monster High",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-10-01",
-   "start": "2026-10-02T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$10.00",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/superqueen-34"
   },
   {
    "id": "edmtrain:534840",
@@ -2829,6 +2779,26 @@
    "organizer": "Apex",
    "description": "",
    "url": "https://dice.fm/event/6dolpq-eternal-frequencies-with-cosmic-gate-9th-oct-la-otra-miami-tickets"
+  },
+  {
+   "id": "shotgun:codered2",
+   "source": "shotgun",
+   "title": "Code Red: Bloodlust",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-10-09",
+   "start": "2026-10-10T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.35",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/codered2"
   },
   {
    "id": "shotgun:roots-of-bass-bear-grillz",
@@ -14571,6 +14541,34 @@
    "url": "https://wl.eventim.us/event/heyz-midline-miami/704806?afflky=Midline",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/heyz-535699"
+   ]
+  },
+  {
+   "id": "edmtrain:541640",
+   "source": "edmtrain",
+   "title": "Junkie Kid",
+   "artists": [
+    "Junkie Kid"
+   ],
+   "venue": "Kemistry",
+   "venue_slug": "kemistry",
+   "date": "2027-01-30",
+   "start": "2027-01-31T03:00:00+00:00",
+   "end": "2027-01-31T09:00:00+00:00",
+   "time_estimated": true,
+   "address": "307 SW 2nd St, Fort Lauderdale, FL 33312, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "bass",
+    "dubstep"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/53k25d?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/junkie-kid-541640"
    ]
   },
   {

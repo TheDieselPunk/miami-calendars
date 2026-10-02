@@ -508,4 +508,21 @@ URL:https://dice.fm/event/py3lmy-hamro-22nd-jan-kemistry-fort-lauderdale-ti
 STATUS:CONFIRMED
 CATEGORIES:bass music,dubstep
 END:VEVENT
+BEGIN:VEVENT
+UID:edmtrain-541640@kemistry.miami-calendars
+DTSTAMP:20261002T101826Z
+LAST-MODIFIED:20261002T101826Z
+SEQUENCE:0
+DTSTART:20270131T030000Z
+DTEND:20270131T090000Z
+SUMMARY:Junkie Kid
+LOCATION:Kemistry\, 307 SW 2nd St\, Fort Lauderdale\, FL 33312\, USA
+DESCRIPTION:Lineup: Junkie Kid\nTags (guess): bass\, dubstep\nTimes are an 
+ estimate from Kemistry (Fort Lauderdale)'s usual hours - the listing has n
+ o start time yet. Check the link.\nhttps://dice.fm/event/53k25d?pid=d6342b
+ 83\nhttps://edmtrain.com/fort-lauderdale-fl/junkie-kid-541640
+URL:https://dice.fm/event/53k25d?pid=d6342b83
+STATUS:CONFIRMED
+CATEGORIES:bass,dubstep
+END:VEVENT
 END:VCALENDAR

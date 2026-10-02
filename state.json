@@ -929,6 +929,11 @@
   "seq": 0,
   "modified": "2026-10-01T22:18:30+00:00"
  },
+ "edmtrain-540052@mad-radio.miami-calendars": {
+  "hash": "3509743bfca63994",
+  "seq": 0,
+  "modified": "2026-10-02T10:18:26+00:00"
+ },
  "edmtrain-540053@mad-radio.miami-calendars": {
   "hash": "1ccd10b95029daaa",
   "seq": 0,
@@ -943,6 +948,11 @@
   "hash": "b6467e7fb90fdaa0",
   "seq": 0,
   "modified": "2026-10-01T22:18:30+00:00"
+ },
+ "edmtrain-541640@kemistry.miami-calendars": {
+  "hash": "8e78a04aca7f581e",
+  "seq": 0,
+  "modified": "2026-10-02T10:18:26+00:00"
  },
  "evanora-unlimited-north-america-tour-miami-fl@shotgun.live": {
   "hash": "236e546f4de0dccf",
@@ -1274,11 +1284,6 @@
   "seq": 3,
   "modified": "2026-09-29T04:18:14+00:00"
  },
- "madradiomiami100126@shotgun.live": {
-  "hash": "2234d8f992e92d5e",
-  "seq": 1,
-  "modified": "2026-09-25T22:18:19+00:00"
- },
  "madradiomiami100226@shotgun.live": {
   "hash": "825b165aee4fad37",
   "seq": 0,
@@ -1306,18 +1311,18 @@
  },
  "madradiomiami101026@shotgun.live": {
   "hash": "543e4758c311a030",
-  "seq": 57,
-  "modified": "2026-10-02T04:18:29+00:00"
+  "seq": 59,
+  "modified": "2026-10-02T10:18:26+00:00"
  },
  "madradiomiami101426@shotgun.live": {
   "hash": "3edde36d3f0d9cc8",
-  "seq": 3,
-  "modified": "2026-10-02T04:18:29+00:00"
+  "seq": 5,
+  "modified": "2026-10-02T10:18:26+00:00"
  },
  "madradiomiami101526@shotgun.live": {
   "hash": "3abb96f7428a3dd6",
-  "seq": 3,
-  "modified": "2026-10-02T04:18:29+00:00"
+  "seq": 5,
+  "modified": "2026-10-02T10:18:26+00:00"
  },
  "madradiomiami101626@shotgun.live": {
   "hash": "4162ef2a898ea280",
@@ -1414,6 +1419,11 @@
   "seq": 0,
   "modified": "2026-10-01T04:18:24+00:00"
  },
+ "tablelist-3cd935868309e1a6@zeyzey.miami-calendars": {
+  "hash": "acba47fc28f4f318",
+  "seq": 0,
+  "modified": "2026-10-02T10:18:26+00:00"
+ },
  "tablelist-3e08cc38cf7b0afa@zeyzey.miami-calendars": {
   "hash": "8f4a91fa636af3fe",
   "seq": 0,
@@ -1448,6 +1458,11 @@
   "hash": "0befa1316cfe6ed1",
   "seq": 0,
   "modified": "2026-10-01T04:18:24+00:00"
+ },
+ "tablelist-ba02a544fc49c805@zeyzey.miami-calendars": {
+  "hash": "318311d23f72b23b",
+  "seq": 0,
+  "modified": "2026-10-02T10:18:26+00:00"
  },
  "tablelist-be4b8785c1b327f9@zeyzey.miami-calendars": {
   "hash": "099f40826fc7ab55",
@@ -1588,11 +1603,6 @@
   "hash": "c0931b592f7f6274",
   "seq": 0,
   "modified": "2026-09-25T16:18:07+00:00"
- },
- "zeyzey-presents-dadi-freyr-too-much-not-enough@shotgun.live": {
-  "hash": "a2dc4c7bbf0d98e9",
-  "seq": 3,
-  "modified": "2026-10-01T22:18:30+00:00"
  },
  "zeyzey-presents-parra-for-cuva@shotgun.live": {
   "hash": "4ae749e0e1541853",
