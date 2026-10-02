@@ -1,9 +1,4 @@
 {
- "19hz-4444404-undertonejoaquin@mad-radio.miami-calendars": {
-  "hash": "8cb0fba24b08d34c",
-  "seq": 1,
-  "modified": "2026-10-01T16:18:12+00:00"
- },
  "19hz-4444588-bloodfeastvseven@festivals.miami-calendars": {
   "hash": "0037ba6738533c23",
   "seq": 0,
@@ -724,11 +719,6 @@
   "seq": 0,
   "modified": "2026-09-28T16:18:03+00:00"
  },
- "dice-6ab96a95ad076e00011393d5@club-space.miami-calendars": {
-  "hash": "030f2bff3df41968",
-  "seq": 0,
-  "modified": "2026-09-27T22:18:03+00:00"
- },
  "dice-6abac44271279e00013e85c7@kemistry.miami-calendars": {
   "hash": "abbcea4b4d52973e",
   "seq": 0,
@@ -1316,18 +1306,18 @@
  },
  "madradiomiami101026@shotgun.live": {
   "hash": "543e4758c311a030",
-  "seq": 55,
-  "modified": "2026-10-01T22:18:30+00:00"
+  "seq": 57,
+  "modified": "2026-10-02T04:18:29+00:00"
  },
  "madradiomiami101426@shotgun.live": {
   "hash": "3edde36d3f0d9cc8",
-  "seq": 1,
-  "modified": "2026-10-01T22:18:30+00:00"
+  "seq": 3,
+  "modified": "2026-10-02T04:18:29+00:00"
  },
  "madradiomiami101526@shotgun.live": {
   "hash": "3abb96f7428a3dd6",
-  "seq": 1,
-  "modified": "2026-10-01T22:18:30+00:00"
+  "seq": 3,
+  "modified": "2026-10-02T04:18:29+00:00"
  },
  "madradiomiami101626@shotgun.live": {
   "hash": "4162ef2a898ea280",

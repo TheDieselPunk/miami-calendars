@@ -1,50 +1,6 @@
 {
  "events": [
   {
-   "id": "19hz:4444404-undertonejoaquin",
-   "source": "19hz",
-   "title": "Undertone: Joaquin Bohmer",
-   "artists": [],
-   "venue": "Mad Radio",
-   "venue_slug": "mad-radio",
-   "date": "2026-09-30",
-   "start": "2026-10-01T01:00:00+00:00",
-   "end": "2026-10-01T07:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "free",
-   "genres": [
-    "house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/madradiomiami093026"
-  },
-  {
-   "id": "19hz:4444408-jessyfriendsrola",
-   "source": "19hz",
-   "title": "Jessy & Friends: Roland Clark, Louie Dager, Dall Ea, Elvi$ b2b Curly",
-   "artists": [],
-   "venue": "Do Not Sit On The Furniture",
-   "venue_slug": null,
-   "date": "2026-09-30",
-   "start": "2026-10-01T02:00:00+00:00",
-   "end": "2026-10-01T09:00:00+00:00",
-   "time_estimated": false,
-   "address": "Miami Beach",
-   "ages": "21+",
-   "price": "free w/rsvp b4 midnight ladies / $18-30",
-   "genres": [
-    "house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://link.dice.fm/ac290c2482bd"
-  },
-  {
    "id": "shotgun:zeyzey-presents-dadi-freyr-too-much-not-enough",
    "source": "shotgun+tablelist+venue",
    "title": "Daði Freyr",
@@ -81,52 +37,6 @@
     "https://buy.tablelist.com/e/ba02a544fc49c805",
     "https://calendar.zeyzeymiami.com/shows/dadi-freyr-01-oct"
    ]
-  },
-  {
-   "id": "dice:6ab96a95ad076e00011393d5",
-   "source": "dice",
-   "title": "B0YG1RL ALBUM RELEASE PARTY",
-   "artists": [],
-   "venue": "Club Space Miami",
-   "venue_slug": "club-space",
-   "date": "2026-10-01",
-   "start": "2026-10-02T00:00:00+00:00",
-   "end": "2026-10-02T04:00:00+00:00",
-   "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "house",
-    "techno"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6ab96a95ad076e00011393d5",
-   "cancelled": false
-  },
-  {
-   "id": "shotgun:riot-sessions",
-   "source": "shotgun",
-   "title": "Riot Sessions",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-10-01",
-   "start": "2026-10-02T00:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$15.00",
-   "genres": [
-    "rock"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/riot-sessions"
   },
   {
    "id": "shotgun:madradiomiami100126",
@@ -201,7 +111,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $7",
+   "price": "$7",
    "genres": [
     "house"
    ],
@@ -227,7 +137,7 @@
    "time_estimated": false,
    "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "",
-   "price": "",
+   "price": " (sold out)",
    "genres": [
     "bass",
     "dubstep"
@@ -1306,7 +1216,7 @@
   },
   {
    "id": "shotgun:c3trlroom-9",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Techno Trance Miami",
    "artists": [],
    "venue": "Club M2 Miami",
@@ -1324,7 +1234,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/c3trlroom-9"
+   "url": "https://shotgun.live/en/events/c3trlroom-9",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/techno-trance-miami-541599"
+   ]
   },
   {
    "id": "hardrock:202029",
@@ -5110,6 +5023,32 @@
    "url": "https://dice.fm/event/7dxxk9?pid=d6342b83",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/moblack-records-re-you-540949"
+   ]
+  },
+  {
+   "id": "edmtrain:541583",
+   "source": "edmtrain",
+   "title": "Seth David, Special Guest",
+   "artists": [
+    "Seth David",
+    "Special Guest"
+   ],
+   "venue": "Studio 60",
+   "venue_slug": null,
+   "date": "2026-10-16",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "2300 NW 36th St, Miami, FL 33142, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/dkyrwq?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/seth-david-special-guest-541583"
    ]
   },
   {
