@@ -116,19 +116,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-degs-craze-shinobi-b2b-stereotype-08-oct@zeyzey.miami-calendars
-DTSTAMP:20260921T200140Z
-LAST-MODIFIED:20260921T200140Z
-SEQUENCE:0
+DTSTAMP:20261002T221826Z
+LAST-MODIFIED:20261002T221826Z
+SEQUENCE:1
 DTSTART:20261009T000000Z
 DTEND:20261009T050000Z
 SUMMARY:DEGS\, Craze & Shinobi b2b Stereotype
 LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
- degs-craze-shinobi-b2b-stereotype-08-oct
+DESCRIPTION:Tags: drum and bass\nAges: 21+\nhttps://calendar.zeyzeymiami.co
+ m/shows/degs-craze-shinobi-b2b-stereotype-08-oct\nhttps://ra.co/events/254
+ 5867
 URL:https://calendar.zeyzeymiami.com/shows/degs-craze-shinobi-b2b-stereotyp
  e-08-oct
 STATUS:CONFIRMED
-CATEGORIES:dance/electronic
+CATEGORIES:drum and bass
 END:VEVENT
 BEGIN:VEVENT
 UID:solmates-season-opener-ft-fahlberg-orsay-more@shotgun.live
@@ -654,23 +655,6 @@ URL:https://calendar.zeyzeymiami.com/shows/las-migas-10-nov
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:zeyzey-blueface-x-ddg-fresh-out-of-love-tour-16-sep@zeyzey.miami-calend
- ars
-DTSTAMP:20260921T200140Z
-LAST-MODIFIED:20260921T200140Z
-SEQUENCE:0
-DTSTART:20261111T060000Z
-DTEND:20261111T110000Z
-SUMMARY:Blueface x DDG - Fresh Out of Love Tour
-LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: hip-hop/rap\nhttps://calendar.zeyzeymiami.com/shows/bluef
- ace-x-ddg-fresh-out-of-love-tour-16-sep
-URL:https://calendar.zeyzeymiami.com/shows/blueface-x-ddg-fresh-out-of-love
- -tour-16-sep
-STATUS:CONFIRMED
-CATEGORIES:hip-hop/rap
-END:VEVENT
-BEGIN:VEVENT
 UID:zeyzey-the-altons-show-you-love-tour-13-nov@zeyzey.miami-calendars
 DTSTAMP:20260921T200140Z
 LAST-MODIFIED:20260921T200140Z
@@ -819,6 +803,21 @@ DESCRIPTION:Tags: rock\nhttps://calendar.zeyzeymiami.com/shows/arde-bogota-
 URL:https://calendar.zeyzeymiami.com/shows/arde-bogota-22-nov
 STATUS:CONFIRMED
 CATEGORIES:rock
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-reggaeton-rave-27-nov@zeyzey.miami-calendars
+DTSTAMP:20261002T221826Z
+LAST-MODIFIED:20261002T221826Z
+SEQUENCE:0
+DTSTART:20261128T020000Z
+DTEND:20261128T080000Z
+SUMMARY:Reggaeton Rave
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: latin\nhttps://calendar.zeyzeymiami.com/shows/reggaeton-r
+ ave-27-nov
+URL:https://calendar.zeyzeymiami.com/shows/reggaeton-rave-27-nov
+STATUS:CONFIRMED
+CATEGORIES:latin
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-oscar-g-anastazja-28-nov@zeyzey.miami-calendars

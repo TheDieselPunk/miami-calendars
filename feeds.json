@@ -73,7 +73,7 @@
   "name": "Kemistry (Fort Lauderdale)",
   "file": "kemistry.ics",
   "events": 30,
-  "estimated_times": 2,
+  "estimated_times": 1,
   "next": "2026-10-02",
   "sources": [
    "19hz",
@@ -86,7 +86,7 @@
   "slug": "boombox",
   "name": "The Boombox Miami",
   "file": "boombox.ics",
-  "events": 11,
+  "events": 12,
   "estimated_times": 0,
   "next": "2026-10-02",
   "sources": [
@@ -118,7 +118,7 @@
   "name": "Mad Radio Miami",
   "file": "mad-radio.ics",
   "events": 18,
-  "estimated_times": 1,
+  "estimated_times": 0,
   "next": "2026-10-02",
   "sources": [
    "19hz",
@@ -145,9 +145,9 @@
   "slug": "jolene",
   "name": "Jolene Sound Room",
   "file": "jolene.ics",
-  "events": 24,
+  "events": 23,
   "estimated_times": 0,
-  "next": "2026-10-01",
+  "next": "2026-10-02",
   "sources": [
    "19hz",
    "dice",
@@ -160,7 +160,7 @@
   "name": "Midline",
   "file": "midline.ics",
   "events": 11,
-  "estimated_times": 1,
+  "estimated_times": 0,
   "next": "2026-10-09",
   "sources": [
    "19hz",
@@ -172,7 +172,7 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 40,
+  "events": 41,
   "estimated_times": 19,
   "next": "2026-10-02",
   "sources": [

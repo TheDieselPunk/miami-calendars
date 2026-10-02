@@ -138,21 +138,22 @@ STATUS:CONFIRMED
 CATEGORIES:bass music,dubstep
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-540836@midline.miami-calendars
-DTSTAMP:20260930T041826Z
-LAST-MODIFIED:20260930T041826Z
-SEQUENCE:1
+UID:19hz-4452088-eazybaked@midline.miami-calendars
+DTSTAMP:20261002T221826Z
+LAST-MODIFIED:20261002T221826Z
+SEQUENCE:0
 DTSTART:20261220T030000Z
 DTEND:20261220T080000Z
-SUMMARY:EAZYBAKED
-LOCATION:Midline Miami\, 2221 NW Miami Ct\, Miami\, FL 33127\, USA
-DESCRIPTION:Lineup: EAZYBAKED\nTimes are an estimate from Midline's usual h
- ours - the listing has no start time yet. Check the link.\nhttps://prod-nt
- s-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzA2NjQzOjc=/clickthru\n
- https://edmtrain.com/miami-fl/eazybaked-540836
-URL:https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzA2Nj
- QzOjc=/clickthru
+SUMMARY:Eazybaked
+LOCATION:Midline
+DESCRIPTION:Lineup: EAZYBAKED\nTags: bass music\, glitch-hop\, trap\nAges: 
+ 21+\nhttps://wl.eventim.us/event/eazybaked/706643?afflky=Midline&nts_trk=1
+ bb6e67a-b285-4f4e-a912-299ed27425cb\nhttps://edmtrain.com/miami-fl/eazybak
+ ed-540836
+URL:https://wl.eventim.us/event/eazybaked/706643?afflky=Midline&nts_trk=1bb
+ 6e67a-b285-4f4e-a912-299ed27425cb
 STATUS:CONFIRMED
+CATEGORIES:bass music,glitch-hop,trap
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4453236-dreamland2026mai@midline.miami-calendars

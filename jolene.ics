@@ -8,21 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4444504-generousb@jolene.miami-calendars
-DTSTAMP:20261002T161826Z
-LAST-MODIFIED:20261002T161826Z
-SEQUENCE:0
-DTSTART:20261002T020000Z
-DTEND:20261002T080000Z
-SUMMARY:Generous B
-LOCATION:Jolene Downtown
-DESCRIPTION:Tags: house\nAges: 21+\nhttps://dice.fm/event/6a8b4c2bfec448000
- 18bccb4
-URL:https://dice.fm/event/6a8b4c2bfec44800018bccb4
-STATUS:CONFIRMED
-CATEGORIES:house
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6a8b4c2bfec44800018bccb4@jolene.miami-calendars
 DTSTAMP:20260925T041815Z
 LAST-MODIFIED:20260925T041815Z
@@ -340,20 +325,20 @@ CATEGORIES:house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab443f8697fd600018d79bd@jolene.miami-calendars
-DTSTAMP:20260924T041810Z
-LAST-MODIFIED:20260924T041810Z
-SEQUENCE:1
+DTSTAMP:20261002T221826Z
+LAST-MODIFIED:20261002T221826Z
+SEQUENCE:2
 DTSTART:20261203T031500Z
 DTEND:20261203T090000Z
 SUMMARY:Basel: Benny Benassi (Italo Disco Set)
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Lineup: Benny Benassi\nTags (guess): house\, tech house\nhttps:
- //dice.fm/event/6ab443f8697fd600018d79bd\nhttps://edmtrain.com/miami-fl/it
- alo-disco-benny-benassi-539604
+DESCRIPTION:Lineup: Benny Benassi\nTags: edm\, house\, tech house\nAges: 21
+ +\nhttps://dice.fm/event/6ab443f8697fd600018d79bd\nhttps://edmtrain.com/mi
+ ami-fl/italo-disco-benny-benassi-539604
 URL:https://dice.fm/event/6ab443f8697fd600018d79bd
 STATUS:CONFIRMED
-CATEGORIES:house,tech house
+CATEGORIES:edm,house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab3a356f3be0b000115831c@jolene.miami-calendars
@@ -373,36 +358,36 @@ CATEGORIES:house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab44533af1ad900014f7295@jolene.miami-calendars
-DTSTAMP:20260923T221804Z
-LAST-MODIFIED:20260923T221804Z
-SEQUENCE:0
+DTSTAMP:20261002T221826Z
+LAST-MODIFIED:20261002T221826Z
+SEQUENCE:1
 DTSTART:20261205T030000Z
 DTEND:20261205T090000Z
 SUMMARY:Basel: SlapFunk
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6ab4453
- 3af1ad900014f7295
+DESCRIPTION:Tags: house\nAges: 21+\nhttps://dice.fm/event/6ab44533af1ad9000
+ 14f7295
 URL:https://dice.fm/event/6ab44533af1ad900014f7295
 STATUS:CONFIRMED
-CATEGORIES:house,tech house
+CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab446f49e8bcf0001f96b29@jolene.miami-calendars
-DTSTAMP:20260924T041810Z
-LAST-MODIFIED:20260924T041810Z
-SEQUENCE:1
+DTSTAMP:20261002T221826Z
+LAST-MODIFIED:20261002T221826Z
+SEQUENCE:2
 DTSTART:20261206T030000Z
 DTEND:20261206T090000Z
 SUMMARY:Basel: Francis Mercier
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Lineup: Francis Mercier\nTags (guess): house\, tech house\nhttp
- s://dice.fm/event/6ab446f49e8bcf0001f96b29\nhttps://edmtrain.com/miami-fl/
- francis-mercier-539605
+DESCRIPTION:Lineup: Francis Mercier\nTags: organic house\, progressive hous
+ e\nAges: 21+\nhttps://dice.fm/event/6ab446f49e8bcf0001f96b29\nhttps://edmt
+ rain.com/miami-fl/francis-mercier-539605
 URL:https://dice.fm/event/6ab446f49e8bcf0001f96b29
 STATUS:CONFIRMED
-CATEGORIES:house,tech house
+CATEGORIES:organic house,progressive house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab448eab6c65c00012abd8a@jolene.miami-calendars
