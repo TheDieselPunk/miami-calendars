@@ -1,46 +1,6 @@
 {
  "events": [
   {
-   "id": "tablelist:ba02a544fc49c805",
-   "source": "tablelist",
-   "title": "Daði Freyr",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-10-01",
-   "start": "2026-10-01T23:00:00+00:00",
-   "end": "2026-10-02T05:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://buy.tablelist.com/e/ba02a544fc49c805"
-  },
-  {
-   "id": "tablelist:3cd935868309e1a6",
-   "source": "tablelist",
-   "title": "The Hails",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-10-01",
-   "start": "2026-10-02T00:00:00+00:00",
-   "end": "2026-10-02T03:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://buy.tablelist.com/e/3cd935868309e1a6"
-  },
-  {
    "id": "19hz:4444588-bloodfeastvseven",
    "source": "19hz+edmtrain",
    "title": "Blood Feast: V.Seven B2B Proletar, Hunter Steel B2B Icky, Dadrev, Domnrob, Cobb Douglas B2B Joey, Franky De Rey, Stinny Stone",
@@ -273,27 +233,6 @@
    ]
   },
   {
-   "id": "hardrock:202028",
-   "source": "venue",
-   "title": "Skilla Baby",
-   "artists": [],
-   "venue": "DAER Nightclub",
-   "venue_slug": "daer",
-   "date": "2026-10-02",
-   "start": "2026-10-03T02:00:00+00:00",
-   "end": "2026-10-03T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "1 Seminole Way, Hollywood, FL 33314",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://tixr.com/e/202028",
-   "generic_title": false
-  },
-  {
    "id": "19hz:4444600-talfussman",
    "source": "19hz+edmtrain",
    "title": "Tal Fussman",
@@ -366,7 +305,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$10.00",
+   "price": "$17.62",
    "genres": [
     "house",
     "latin house",
@@ -394,7 +333,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $10",
+   "price": "$7+",
    "genres": [
     "progressive house",
     "tech house"
@@ -498,7 +437,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$10.00",
+   "price": "$15.00",
    "genres": [],
    "genres_inferred": false,
    "organizer": "",
@@ -572,6 +511,37 @@
    ]
   },
   {
+   "id": "19hz:4444600-andystottcarrier",
+   "source": "19hz+edmtrain",
+   "title": "Andy Stott, Carrier, Uchi, Adam at the Door",
+   "artists": [
+    "Andy Stott",
+    "Carrier",
+    "Adam At The Door"
+   ],
+   "venue": "The Ground",
+   "venue_slug": "the-ground",
+   "date": "2026-10-02",
+   "start": "2026-10-03T02:00:00+00:00",
+   "end": "2026-10-03T10:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "$15+",
+   "genres": [
+    "downtempo",
+    "experimental",
+    "techno"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6dgdq3-andy-stott-carrier-2nd-oct-the-ground-miami-miami-tickets",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/andy-stott-carrier-532804"
+   ]
+  },
+  {
    "id": "dice:6a91e895ea5f22000128b2ee",
    "source": "19hz+dice+edmtrain",
    "title": "Dombresky presents Disco Dom & The Brothers Macklovitch (A-Trak & Dave 1)",
@@ -591,7 +561,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $30",
+   "price": "$30+",
    "genres": [
     "house",
     "techno"
@@ -607,9 +577,9 @@
    ]
   },
   {
-   "id": "dice:6a906d9602c6070001fac780",
-   "source": "19hz+dice+edmtrain",
-   "title": "LuSiD + Samantha Loveridge",
+   "id": "19hz:4444603-lusidsamanthalov",
+   "source": "19hz+edmtrain",
+   "title": "Lusid, Samantha Loveridge",
    "artists": [
     "LuSiD",
     "Samantha Loveridge",
@@ -622,9 +592,9 @@
    "start": "2026-10-03T03:00:00+00:00",
    "end": "2026-10-03T09:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": "From $15",
+   "price": "$15+",
    "genres": [
     "progressive house"
    ],
@@ -632,9 +602,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/92n9l7-lusid-samantha-loveridge-2nd-oct-floyd-miami-miami-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/92n9l7-lusid-samantha-loveridge-2nd-oct-floyd-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/lusid-samantha-loveridge-532658"
    ]
   },
@@ -661,39 +629,6 @@
    "organizer": "",
    "description": "",
    "url": "https://ra.co/events/2548897"
-  },
-  {
-   "id": "dice:6a8f403b417eef0001d29461",
-   "source": "19hz+dice+edmtrain",
-   "title": "Andy Stott & Carrier",
-   "artists": [
-    "Andy Stott",
-    "Carrier",
-    "Adam At The Door"
-   ],
-   "venue": "The Ground Miami",
-   "venue_slug": "the-ground",
-   "date": "2026-10-02",
-   "start": "2026-10-03T03:00:00+00:00",
-   "end": "2026-10-03T11:00:00+00:00",
-   "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "21+",
-   "price": "From $15",
-   "genres": [
-    "downtempo",
-    "experimental",
-    "techno"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6dgdq3-andy-stott-carrier-2nd-oct-the-ground-miami-miami-tickets",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/event/6dgdq3-andy-stott-carrier-2nd-oct-the-ground-miami-miami-tickets",
-    "https://edmtrain.com/miami-fl/andy-stott-carrier-532804"
-   ]
   },
   {
    "id": "edmtrain:536353",
@@ -2169,6 +2104,33 @@
    ]
   },
   {
+   "id": "edmtrain:541816",
+   "source": "edmtrain",
+   "title": "Sophie Du Futur, Solune, Doin' Us and",
+   "artists": [
+    "Sophie Du Futur",
+    "Solune",
+    "Doin' Us and"
+   ],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-10-07",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "111 NE 20th St, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/sophie-du-futur-solune-doin-us-and-anna-belen-by-pitch-park?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/sophie-du-futur-solune-541816"
+   ]
+  },
+  {
    "id": "tablelist:2e996312a3fbfc09",
    "source": "tablelist+venue",
    "title": "Night Tapes",
@@ -3214,6 +3176,60 @@
    ]
   },
   {
+   "id": "edmtrain:541902",
+   "source": "edmtrain",
+   "title": "Swavé, Pensión, Sophie Du Futur",
+   "artists": [
+    "Swavé",
+    "Pensión",
+    "Sophie Du Futur"
+   ],
+   "venue": "M2 Nightclub",
+   "venue_slug": null,
+   "date": "2026-10-09",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1235 Washington Ave, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "open-format"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/somethin-light-swav-pensin-sophie-du-futur?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/swave-pension-541902"
+   ]
+  },
+  {
+   "id": "edmtrain:541726",
+   "source": "edmtrain",
+   "title": "GET LOST - a phone-free music experience: MEMENTO (FL)",
+   "artists": [
+    "MEMENTO (FL)"
+   ],
+   "venue": "Nowhere FTL",
+   "venue_slug": null,
+   "date": "2026-10-09",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "204 SW 2nd St, Fort Lauderdale, FL 33301, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/get-lost-nowhere-takeover-event?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/get-lost-a-phone-free-music-experience-memento-fl-541726"
+   ]
+  },
+  {
    "id": "19hz:4445323-mc4d",
    "source": "19hz+edmtrain",
    "title": "MC4D",
@@ -3529,7 +3545,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $75",
+   "price": "From $85",
    "genres": [
     "big room house",
     "trance"
@@ -3631,7 +3647,7 @@
   },
   {
    "id": "shotgun:y2kpop-2",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Club Danceteria: Madonna X Charli Rave",
    "artists": [],
    "venue": "Miami",
@@ -3647,7 +3663,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/y2kpop-2"
+   "url": "https://shotgun.live/en/events/y2kpop-2",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/club-danceteria-madonna-x-charli-rave-541813"
+   ]
   },
   {
    "id": "shotgun:slow-life-w-cecilio-paolo-mosca-rapture-s-deli-anniversary",
@@ -3816,6 +3835,32 @@
    "url": "https://www.universe.com/events/BJ4M7D",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/sidepiece-517744"
+   ]
+  },
+  {
+   "id": "edmtrain:541817",
+   "source": "edmtrain",
+   "title": "Peter Guzman, Terranova",
+   "artists": [
+    "Peter Guzman",
+    "Terranova"
+   ],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-10-10",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "111 NE 20th St, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/peter-guzman-b2b-terranova-all-night-long?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/peter-guzman-terranova-541817"
    ]
   },
   {
@@ -5039,6 +5084,31 @@
    ]
   },
   {
+   "id": "edmtrain:541818",
+   "source": "edmtrain",
+   "title": "Markem",
+   "artists": [
+    "Markem"
+   ],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-10-16",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "111 NE 20th St, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/inner-circle-by-markem-1?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/markem-541818"
+   ]
+  },
+  {
    "id": "edmtrain:540949",
    "source": "edmtrain",
    "title": "MoBlack Records: Re.You",
@@ -5458,9 +5528,12 @@
   },
   {
    "id": "shotgun:brian-cid-ladobe-oct-17",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Brian Cid Presents Ladobé",
-   "artists": [],
+   "artists": [
+    "Brian Cid",
+    "Louis Puig"
+   ],
    "venue": "EDGE MIAMI",
    "venue_slug": null,
    "date": "2026-10-17",
@@ -5471,14 +5544,17 @@
    "ages": "",
    "price": "$20.00",
    "genres": [
-    "tech house",
     "afro house",
-    "latin house"
+    "latin house",
+    "tech house"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/brian-cid-ladobe-oct-17"
+   "url": "https://shotgun.live/en/events/brian-cid-ladobe-oct-17",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/brian-cid-louis-puig-541867"
+   ]
   },
   {
    "id": "dice:6a823726dd1b160001c44659",
@@ -6020,6 +6096,31 @@
    ]
   },
   {
+   "id": "edmtrain:541807",
+   "source": "edmtrain",
+   "title": "7-Zip",
+   "artists": [
+    "7-Zip"
+   ],
+   "venue": "215 SW 27th Ave",
+   "venue_slug": null,
+   "date": "2026-10-18",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "215 SW 27th Ave, Fort Lauderdale, FL 33312, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/zombie-rave?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/7-zip-541807"
+   ]
+  },
+  {
    "id": "shotgun:campinginalaska-lincolnsbeard-october-20",
    "source": "shotgun",
    "title": "Camping In Alaska At Lincoln’S Beard 10/20",
@@ -6367,6 +6468,30 @@
     "https://calendar.zeyzeymiami.com/shows/dope-lemon-23-oct",
     "https://calendar.zeyzeymiami.com/shows/intima-ft-ammo-amor-baby-bass-dcal-sebas-23-oct"
    ]
+  },
+  {
+   "id": "shotgun:indieween",
+   "source": "shotgun",
+   "title": "Indieween",
+   "artists": [],
+   "venue": "Lincoln's Beard Brewing & Cocktails",
+   "venue_slug": null,
+   "date": "2026-10-23",
+   "start": "2026-10-24T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.25",
+   "genres": [
+    "indie",
+    "rock",
+    "alternative"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/indieween"
   },
   {
    "id": "shotgun:madradiomiami102326",
@@ -6961,7 +7086,8 @@
    "source": "19hz+dice+edmtrain",
    "title": "KASIA",
    "artists": [
-    "Kasia"
+    "Kasia",
+    "Stone Van Brooken"
    ],
    "venue": "Kemistry",
    "venue_slug": "kemistry",
@@ -6983,7 +7109,7 @@
    "cancelled": false,
    "alt_urls": [
     "https://dice.fm/event/yodxp2-kasia-24th-oct-kemistry-fort-lauderdale-tickets",
-    "https://edmtrain.com/fort-lauderdale-fl/kasia-535154"
+    "https://edmtrain.com/fort-lauderdale-fl/kasia-stone-van-brooken-535154"
    ]
   },
   {
@@ -9800,9 +9926,10 @@
   {
    "id": "edmtrain:532667",
    "source": "edmtrain",
-   "title": "Sunsquabi",
+   "title": "Sunsquabi, Phyphr",
    "artists": [
-    "Sunsquabi"
+    "Sunsquabi",
+    "Phyphr"
    ],
    "venue": "Funky Biscuit",
    "venue_slug": null,
@@ -9819,7 +9946,7 @@
    "description": "",
    "url": "https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzAzNjA3Ojc=/clickthru",
    "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/sunsquabi-532667"
+    "https://edmtrain.com/fort-lauderdale-fl/sunsquabi-phyphr-532667"
    ]
   },
   {
@@ -10081,7 +10208,7 @@
    "time_estimated": false,
    "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "",
-   "price": "From $40",
+   "price": "From $53",
    "genres": [
     "bass",
     "dubstep"
@@ -12540,6 +12667,30 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/beltools-space-basel-2026-534719"
    ]
+  },
+  {
+   "id": "dice:6aa05e5de8caab0001795dc7",
+   "source": "dice",
+   "title": "PRISMA Showcase (Floyd Basel 2026)",
+   "artists": [],
+   "venue": "Floyd Miami",
+   "venue_slug": "floyd",
+   "date": "2026-12-02",
+   "start": "2026-12-03T04:00:00+00:00",
+   "end": "2026-12-03T10:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $20",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6aa05e5de8caab0001795dc7",
+   "cancelled": false
   },
   {
    "id": "edmtrain:536847",
