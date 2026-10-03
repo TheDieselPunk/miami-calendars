@@ -4,6 +4,11 @@
   "seq": 0,
   "modified": "2026-09-21T21:40:09+00:00"
  },
+ "19hz-4444596-hedonismnarcisse@mad-radio.miami-calendars": {
+  "hash": "2f94cc3dd390b6e3",
+  "seq": 0,
+  "modified": "2026-10-03T10:18:36+00:00"
+ },
  "19hz-4444596-transcendentxt4t@festivals.miami-calendars": {
   "hash": "9c1b306c9cf9494b",
   "seq": 0,
@@ -14,10 +19,25 @@
   "seq": 0,
   "modified": "2026-10-03T04:18:28+00:00"
  },
+ "19hz-4444600-generousbdedroha@jolene.miami-calendars": {
+  "hash": "f8eccf83d944d232",
+  "seq": 0,
+  "modified": "2026-10-03T10:18:36+00:00"
+ },
+ "19hz-4444600-joeycash@boombox.miami-calendars": {
+  "hash": "098e851c9286b81d",
+  "seq": 0,
+  "modified": "2026-10-03T10:18:36+00:00"
+ },
  "19hz-4444600-noisemafiatabeam@domicile.miami-calendars": {
   "hash": "c5bb7c6f126ee90c",
   "seq": 0,
   "modified": "2026-09-21T20:01:40+00:00"
+ },
+ "19hz-4444600-planetofthedrums@kemistry.miami-calendars": {
+  "hash": "9324a10d5fb02294",
+  "seq": 0,
+  "modified": "2026-10-03T10:18:36+00:00"
  },
  "19hz-4444603-lusidsamanthalov@floyd.miami-calendars": {
   "hash": "ab16072d3665bccc",
@@ -154,11 +174,6 @@
   "seq": 0,
   "modified": "2026-10-02T22:18:26+00:00"
  },
- "19hz-4452760-avello@kemistry.miami-calendars": {
-  "hash": "a10a9af9ba37caac",
-  "seq": 0,
-  "modified": "2026-09-30T16:18:12+00:00"
- },
  "19hz-4453236-dreamland2026mai@midline.miami-calendars": {
   "hash": "0f2ec8d8956fd6a2",
   "seq": 0,
@@ -248,6 +263,11 @@
   "hash": "ed95a0d2d77ba247",
   "seq": 1,
   "modified": "2026-09-22T00:40:38+00:00"
+ },
+ "dice-6a60e5e3f0b16700018157d5@kemistry.miami-calendars": {
+  "hash": "f1c36acf955931cb",
+  "seq": 0,
+  "modified": "2026-10-03T10:18:36+00:00"
  },
  "dice-6a60e813170f000001bd0743@kemistry.miami-calendars": {
   "hash": "bd2cbb8622e05963",
@@ -400,9 +420,9 @@
   "modified": "2026-10-01T04:18:24+00:00"
  },
  "dice-6a85fa6621cf7000019482af@zeyzey.miami-calendars": {
-  "hash": "9174f16ea17dd575",
-  "seq": 2,
-  "modified": "2026-09-22T00:40:38+00:00"
+  "hash": "6fe7cdd67197b4ee",
+  "seq": 3,
+  "modified": "2026-10-03T10:18:36+00:00"
  },
  "dice-6a85fc0f21cf70000116039a@jolene.miami-calendars": {
   "hash": "26038230e6efc666",
@@ -439,20 +459,10 @@
   "seq": 2,
   "modified": "2026-09-26T22:18:17+00:00"
  },
- "dice-6a8b4c2bfec44800018bccb4@jolene.miami-calendars": {
-  "hash": "e3d5293a4dca7afb",
-  "seq": 2,
-  "modified": "2026-09-25T04:18:15+00:00"
- },
  "dice-6a8b4d68fec4480001a68ffe@jolene.miami-calendars": {
   "hash": "727f469417ec6457",
   "seq": 2,
   "modified": "2026-09-26T22:18:17+00:00"
- },
- "dice-6a8c76d5c583f90001abc9b2@kemistry.miami-calendars": {
-  "hash": "ff5d806743ea10d5",
-  "seq": 3,
-  "modified": "2026-09-22T00:41:54+00:00"
  },
  "dice-6a8f2332f7d5af0001278253@club-space.miami-calendars": {
   "hash": "90b7c9d3593c5c61",
@@ -675,9 +685,9 @@
   "modified": "2026-10-01T22:18:30+00:00"
  },
  "dice-6aad6a7f4e3af20001d7ad92@jolene.miami-calendars": {
-  "hash": "c5daa7ff80d22e2d",
-  "seq": 2,
-  "modified": "2026-09-28T22:18:05+00:00"
+  "hash": "60f697cead190c92",
+  "seq": 3,
+  "modified": "2026-10-03T10:18:36+00:00"
  },
  "dice-6ab179c76d5a1f0001669601@kemistry.miami-calendars": {
   "hash": "f6e5d2b493bb392a",
@@ -953,6 +963,11 @@
   "hash": "8e78a04aca7f581e",
   "seq": 0,
   "modified": "2026-10-02T10:18:26+00:00"
+ },
+ "edmtrain-541995@festivals.miami-calendars": {
+  "hash": "33d45ec356fe93a5",
+  "seq": 0,
+  "modified": "2026-10-03T10:18:36+00:00"
  },
  "evanora-unlimited-north-america-tour-miami-fl@shotgun.live": {
   "hash": "236e546f4de0dccf",
@@ -1264,11 +1279,6 @@
   "seq": 0,
   "modified": "2026-09-25T16:18:07+00:00"
  },
- "joey-cash-the-boombox@shotgun.live": {
-  "hash": "b6c60dd0c8ac4736",
-  "seq": 5,
-  "modified": "2026-10-02T22:18:26+00:00"
- },
  "karnival-halloween-party-horror-games-18-rave@shotgun.live": {
   "hash": "aae110cf34b27367",
   "seq": 0,
@@ -1277,11 +1287,6 @@
  "machina-records-presents-circuit@shotgun.live": {
   "hash": "31bdd0f915edca59",
   "seq": 4,
-  "modified": "2026-10-02T22:18:26+00:00"
- },
- "madradiomiami100226@shotgun.live": {
-  "hash": "59fb64be7711f879",
-  "seq": 1,
   "modified": "2026-10-02T22:18:26+00:00"
  },
  "madradiomiami100326@shotgun.live": {
@@ -1295,9 +1300,9 @@
   "modified": "2026-10-02T22:18:26+00:00"
  },
  "madradiomiami100826@shotgun.live": {
-  "hash": "f6f9d1366a3c624d",
-  "seq": 2,
-  "modified": "2026-10-01T22:18:30+00:00"
+  "hash": "f5d104cde03d066e",
+  "seq": 3,
+  "modified": "2026-10-03T10:18:36+00:00"
  },
  "madradiomiami100926@shotgun.live": {
   "hash": "fdcd9e8933b452df",
@@ -1305,19 +1310,19 @@
   "modified": "2026-09-26T22:18:17+00:00"
  },
  "madradiomiami101026@shotgun.live": {
-  "hash": "543e4758c311a030",
-  "seq": 65,
-  "modified": "2026-10-03T04:18:28+00:00"
+  "hash": "3912b9fdc1f02008",
+  "seq": 67,
+  "modified": "2026-10-03T10:18:36+00:00"
  },
  "madradiomiami101426@shotgun.live": {
   "hash": "3edde36d3f0d9cc8",
-  "seq": 11,
-  "modified": "2026-10-03T04:18:28+00:00"
+  "seq": 13,
+  "modified": "2026-10-03T10:18:36+00:00"
  },
  "madradiomiami101526@shotgun.live": {
   "hash": "3abb96f7428a3dd6",
-  "seq": 11,
-  "modified": "2026-10-03T04:18:28+00:00"
+  "seq": 13,
+  "modified": "2026-10-03T10:18:36+00:00"
  },
  "madradiomiami101626@shotgun.live": {
   "hash": "4162ef2a898ea280",
@@ -1415,9 +1420,9 @@
   "modified": "2026-10-01T04:18:24+00:00"
  },
  "tablelist-3e08cc38cf7b0afa@zeyzey.miami-calendars": {
-  "hash": "8f4a91fa636af3fe",
-  "seq": 0,
-  "modified": "2026-10-01T04:18:24+00:00"
+  "hash": "2d6188f43fa2a28b",
+  "seq": 1,
+  "modified": "2026-10-03T10:18:36+00:00"
  },
  "tablelist-3e4f70ad438fc504@zeyzey.miami-calendars": {
   "hash": "974064ede343a83d",
@@ -1485,9 +1490,9 @@
   "modified": "2026-10-01T04:18:24+00:00"
  },
  "the-boombox-equinox-bookings-presents-arythmia@shotgun.live": {
-  "hash": "1256b02e21cdc8ae",
-  "seq": 0,
-  "modified": "2026-10-02T22:18:26+00:00"
+  "hash": "7af14fdf913838a1",
+  "seq": 1,
+  "modified": "2026-10-03T10:18:36+00:00"
  },
  "the-hall-pres-roy-rosenfeld@shotgun.live": {
   "hash": "2ce1fd939df891bf",

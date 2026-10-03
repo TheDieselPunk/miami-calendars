@@ -91,9 +91,9 @@ CATEGORIES:country,pop edm
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101026@shotgun.live
-DTSTAMP:20261003T041828Z
-LAST-MODIFIED:20261003T041828Z
-SEQUENCE:65
+DTSTAMP:20261003T101836Z
+LAST-MODIFIED:20261003T101836Z
+SEQUENCE:67
 DTSTART:20261011T010000Z
 DTEND:20261011T070000Z
 SUMMARY:III Points Satellite: Tian / Israel Sunshine / Pino / Puma
@@ -104,13 +104,14 @@ DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
   the urban-chic experience at Mad Radio Miami. See you on the dance floor!
   Come early\, stay late\, and let the night unfold FREE ENTRY BEFORE 10 PM
   / FREE ENTRY LADIES UNTIL MIDNIGHT + 25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
- \nLineup: Tian\, Israel Sunshine\, Puma\nTags (guess): deep house\, house
- \nPresented by: Mad Radio Miami\nTickets: AFTER 10 PM $20\, FREE LADIES RS
- VP BEFORE 12 AM Free\nhttps://shotgun.live/en/events/madradiomiami101026\n
- https://edmtrain.com/miami-fl/tian-israel-sunshine-540057
+ \nLineup: Tian\, Israel Sunshine\, Puma\nTags: deep house\, progressive ho
+ use\, tech house\nPresented by: Mad Radio Miami\nTickets: AFTER 10 PM $20
+ \, FREE LADIES RSVP BEFORE 12 AM Free\nAges: 21+\nhttps://shotgun.live/en/
+ events/madradiomiami101026\nhttps://edmtrain.com/miami-fl/tian-israel-suns
+ hine-540057
 URL:https://shotgun.live/en/events/madradiomiami101026
 STATUS:CONFIRMED
-CATEGORIES:deep house,house
+CATEGORIES:deep house,progressive house,tech house
 GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
@@ -130,9 +131,9 @@ CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101426@shotgun.live
-DTSTAMP:20261003T041828Z
-LAST-MODIFIED:20261003T041828Z
-SEQUENCE:11
+DTSTAMP:20261003T101836Z
+LAST-MODIFIED:20261003T101836Z
+SEQUENCE:13
 DTSTART:20261015T010000Z
 DTEND:20261015T070000Z
 SUMMARY:III Points Satellite/Shyft Academy:Conflectuado/Scimmie/Diff
@@ -152,9 +153,9 @@ GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101526@shotgun.live
-DTSTAMP:20261003T041828Z
-LAST-MODIFIED:20261003T041828Z
-SEQUENCE:11
+DTSTAMP:20261003T101836Z
+LAST-MODIFIED:20261003T101836Z
+SEQUENCE:13
 DTSTART:20261016T010000Z
 DTEND:20261016T070000Z
 SUMMARY:III Points Satellite / Discosonido: Tian & Ennio Skoto
@@ -322,6 +323,23 @@ URL:https://shotgun.live/en/events/sammy-jackie-clarke-dj-set-with-special-
  guest-valery-karbia
 STATUS:CONFIRMED
 CATEGORIES:electro house,electronica,hardstyle,house
+END:VEVENT
+BEGIN:VEVENT
+UID:edmtrain-541995@festivals.miami-calendars
+DTSTAMP:20261003T101836Z
+LAST-MODIFIED:20261003T101836Z
+SEQUENCE:0
+DTSTART:20261030T190000Z
+DTEND:20261031T060000Z
+SUMMARY:Joel Corry
+LOCATION:The Shorely At Marina Village\, 849 Seabreeze Blvd\, Fort Lauderda
+ le\, FL 33316\, USA
+DESCRIPTION:Lineup: Joel Corry\nTimes are an estimate from Festivals & one-
+ offs's usual hours - the listing has no start time yet. Check the link.\nh
+ ttps://www.eventbrite.com/e/2002723474825?aff=ebdimtedmtrain\nhttps://edmt
+ rain.com/fort-lauderdale-fl/joel-corry-541995
+URL:https://www.eventbrite.com/e/2002723474825?aff=ebdimtedmtrain
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4447279-hallorave@festivals.miami-calendars
