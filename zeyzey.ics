@@ -578,17 +578,18 @@ STATUS:CONFIRMED
 CATEGORIES:downtempo,electro,idm,synthpop
 END:VEVENT
 BEGIN:VEVENT
-UID:zeyzey-dana-and-alden-07-nov@zeyzey.miami-calendars
-DTSTAMP:20260921T200140Z
-LAST-MODIFIED:20260921T200140Z
+UID:dice-6ac015bea7ef55000125063f@zeyzey.miami-calendars
+DTSTAMP:20261003T221823Z
+LAST-MODIFIED:20261003T221823Z
 SEQUENCE:0
-DTSTART:20261107T220000Z
-DTEND:20261108T060000Z
-SUMMARY:Dana and Alden
-LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: jazz\nhttps://calendar.zeyzeymiami.com/shows/dana-and-ald
- en-07-nov
-URL:https://calendar.zeyzeymiami.com/shows/dana-and-alden-07-nov
+DTSTART:20261108T000000Z
+DTEND:20261108T090000Z
+SUMMARY:CASA WHISPERS x MTRNM Present: Dia De Los Muertos - Zey Zey\, Miami
+LOCATION:ZeyZey\, 353 Northeast 61st Street\, Miami\, Florida 33137\, Unite
+ d States
+DESCRIPTION:Tags: jazz\nhttps://dice.fm/event/6ac015bea7ef55000125063f\nhtt
+ ps://calendar.zeyzeymiami.com/shows/dana-and-alden-07-nov
+URL:https://dice.fm/event/6ac015bea7ef55000125063f
 STATUS:CONFIRMED
 CATEGORIES:jazz
 END:VEVENT

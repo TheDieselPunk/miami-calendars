@@ -789,11 +789,6 @@
   "seq": 1,
   "modified": "2026-10-01T04:18:24+00:00"
  },
- "dice-6abdb6ed6c22d500012247ce@club-space.miami-calendars": {
-  "hash": "12f086b718daa25d",
-  "seq": 0,
-  "modified": "2026-10-01T04:18:24+00:00"
- },
  "dice-6abdf679bbcbf60001fcc8e9@kemistry.miami-calendars": {
   "hash": "c7fca4df55c84710",
   "seq": 0,
@@ -848,6 +843,11 @@
   "hash": "bdba7ac8c9c9da41",
   "seq": 0,
   "modified": "2026-10-01T22:18:30+00:00"
+ },
+ "dice-6ac015bea7ef55000125063f@zeyzey.miami-calendars": {
+  "hash": "1a932760163176ba",
+  "seq": 0,
+  "modified": "2026-10-03T22:18:23+00:00"
  },
  "edmtrain-434705@festivals.miami-calendars": {
   "hash": "e416a5823d96ff63",
@@ -1311,18 +1311,18 @@
  },
  "madradiomiami101026@shotgun.live": {
   "hash": "3912b9fdc1f02008",
-  "seq": 69,
-  "modified": "2026-10-03T16:18:25+00:00"
+  "seq": 71,
+  "modified": "2026-10-03T22:18:23+00:00"
  },
  "madradiomiami101426@shotgun.live": {
   "hash": "3edde36d3f0d9cc8",
-  "seq": 15,
-  "modified": "2026-10-03T16:18:25+00:00"
+  "seq": 17,
+  "modified": "2026-10-03T22:18:23+00:00"
  },
  "madradiomiami101526@shotgun.live": {
   "hash": "3abb96f7428a3dd6",
-  "seq": 15,
-  "modified": "2026-10-03T16:18:25+00:00"
+  "seq": 17,
+  "modified": "2026-10-03T22:18:23+00:00"
  },
  "madradiomiami101626@shotgun.live": {
   "hash": "4162ef2a898ea280",
@@ -1541,11 +1541,6 @@
  },
  "zeyzey-curawaka-06-nov@zeyzey.miami-calendars": {
   "hash": "ec9ad721af7fc82f",
-  "seq": 0,
-  "modified": "2026-09-21T20:01:40+00:00"
- },
- "zeyzey-dana-and-alden-07-nov@zeyzey.miami-calendars": {
-  "hash": "a7dbbf5326cea9d2",
   "seq": 0,
   "modified": "2026-09-21T20:01:40+00:00"
  },

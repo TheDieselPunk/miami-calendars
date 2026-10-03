@@ -492,30 +492,6 @@
    ]
   },
   {
-   "id": "dice:6abdb6ed6c22d500012247ce",
-   "source": "dice",
-   "title": "Space Yoga",
-   "artists": [],
-   "venue": "Club Space Miami",
-   "venue_slug": "club-space",
-   "date": "2026-10-03",
-   "start": "2026-10-03T20:20:00+00:00",
-   "end": "2026-10-03T21:45:00+00:00",
-   "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
-   "price": " (sold out)",
-   "genres": [
-    "house",
-    "techno"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6abdb6ed6c22d500012247ce",
-   "cancelled": false
-  },
-  {
    "id": "19hz:4444687-pubdubzsunriseiv",
    "source": "19hz",
    "title": "Pub Dubz (Sunrise Ivns)",
@@ -9487,17 +9463,17 @@
    ]
   },
   {
-   "id": "zeyzey:dana-and-alden-07-nov",
-   "source": "venue",
-   "title": "Dana and Alden",
+   "id": "dice:6ac015bea7ef55000125063f",
+   "source": "dice+venue",
+   "title": "CASA WHISPERS x MTRNM Present: Dia De Los Muertos - Zey Zey, Miami",
    "artists": [],
-   "venue": "ZeyZey Miami",
+   "venue": "ZeyZey",
    "venue_slug": "zeyzey",
    "date": "2026-11-07",
-   "start": "2026-11-07T22:00:00+00:00",
-   "end": "2026-11-08T06:00:00+00:00",
+   "start": "2026-11-08T00:00:00+00:00",
+   "end": "2026-11-08T09:00:00+00:00",
    "time_estimated": false,
-   "address": "",
+   "address": "353 Northeast 61st Street, Miami, Florida 33137, United States",
    "ages": "",
    "price": "",
    "genres": [
@@ -9506,8 +9482,11 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/dana-and-alden-07-nov",
-   "cancelled": false
+   "url": "https://dice.fm/event/6ac015bea7ef55000125063f",
+   "cancelled": false,
+   "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/dana-and-alden-07-nov"
+   ]
   },
   {
    "id": "shotgun:leaetherstrip-live",
