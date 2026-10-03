@@ -9,17 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:tablelist-3e08cc38cf7b0afa@zeyzey.miami-calendars
-DTSTAMP:20261003T101836Z
-LAST-MODIFIED:20261003T101836Z
-SEQUENCE:1
+DTSTAMP:20261003T161825Z
+LAST-MODIFIED:20261003T161825Z
+SEQUENCE:2
 DTSTART:20261003T000000Z
 DTEND:20261003T060000Z
 SUMMARY:Monsieur Periné - Instrucciones Para Ser Feliz
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: Flamingosis\nTags: downtempo\, funk\, hip-hop\nAges: Al
- l ages\nhttps://buy.tablelist.com/e/3e08cc38cf7b0afa\nhttps://calendar.zey
- zeymiami.com/shows/flamingosis-02-oct\nhttps://edmtrain.com/miami-fl/flami
- ngosis-514144
+DESCRIPTION:Tags: downtempo\, funk\, hip-hop\nAges: All ages\nhttps://buy.t
+ ablelist.com/e/3e08cc38cf7b0afa\nhttps://calendar.zeyzeymiami.com/shows/fl
+ amingosis-02-oct
 URL:https://buy.tablelist.com/e/3e08cc38cf7b0afa
 STATUS:CONFIRMED
 CATEGORIES:downtempo,funk,hip-hop

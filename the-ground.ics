@@ -9,17 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4444600-andystottcarrier@the-ground.miami-calendars
-DTSTAMP:20261003T041828Z
-LAST-MODIFIED:20261003T041828Z
-SEQUENCE:0
+DTSTAMP:20261003T161825Z
+LAST-MODIFIED:20261003T161825Z
+SEQUENCE:1
 DTSTART:20261003T020000Z
 DTEND:20261003T100000Z
 SUMMARY:Andy Stott\, Carrier\, Uchi\, Adam at the Door
 LOCATION:The Ground
-DESCRIPTION:Lineup: Andy Stott\, Carrier\, Adam At The Door\nTags: downtemp
- o\, experimental\, techno\nAges: 21+\nhttps://dice.fm/event/6dgdq3-andy-st
- ott-carrier-2nd-oct-the-ground-miami-miami-tickets\nhttps://edmtrain.com/m
- iami-fl/andy-stott-carrier-532804
+DESCRIPTION:Tags: downtempo\, experimental\, techno\nAges: 21+\nhttps://dic
+ e.fm/event/6dgdq3-andy-stott-carrier-2nd-oct-the-ground-miami-miami-ticket
+ s
 URL:https://dice.fm/event/6dgdq3-andy-stott-carrier-2nd-oct-the-ground-miam
  i-miami-tickets
 STATUS:CONFIRMED

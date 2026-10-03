@@ -9,16 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4444600-noisemafiatabeam@domicile.miami-calendars
-DTSTAMP:20260921T200140Z
-LAST-MODIFIED:20260921T200140Z
-SEQUENCE:0
+DTSTAMP:20261003T161825Z
+LAST-MODIFIED:20261003T161825Z
+SEQUENCE:1
 DTSTART:20261003T020000Z
 DTEND:20261003T090000Z
 SUMMARY:Noise Mafia\, Tabea\, Mania
 LOCATION:Domicile
-DESCRIPTION:Lineup: Noise Mafia\nTags: hard techno\, trance\nAges: 18+\nhtt
- ps://dice.fm/event/53kd9k-noise-mafia-2nd-oct-domicile-miami-miami-tickets
- \nhttps://edmtrain.com/miami-fl/noise-mafia-533939
+DESCRIPTION:Tags: hard techno\, trance\nAges: 18+\nhttps://dice.fm/event/53
+ kd9k-noise-mafia-2nd-oct-domicile-miami-miami-tickets
 URL:https://dice.fm/event/53kd9k-noise-mafia-2nd-oct-domicile-miami-miami-t
  ickets
 STATUS:CONFIRMED

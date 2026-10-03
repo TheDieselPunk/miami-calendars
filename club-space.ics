@@ -8,20 +8,16 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a91e895ea5f22000128b2ee@club-space.miami-calendars
-DTSTAMP:20260928T221805Z
-LAST-MODIFIED:20260928T221805Z
-SEQUENCE:3
+UID:19hz-4444603-discodomthebroth@club-space.miami-calendars
+DTSTAMP:20261003T161825Z
+LAST-MODIFIED:20261003T161825Z
+SEQUENCE:0
 DTSTART:20261003T030000Z
 DTEND:20261003T180000Z
-SUMMARY:Dombresky presents Disco Dom & The Brothers Macklovitch (A-Trak & D
- ave 1)
-LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Dombresky (Disco Dom Set)\, The Brothers Macklovitch (A
- -Trak & Dave 1 of Chromeo)\, A-Trak\, Dave 1 (of Chromeo)\, Danyelino\, Ba
- kke\nTags (guess): house\, techno\nAges: 21+\nhttps://dice.fm/event/6a91e8
- 95ea5f22000128b2ee\nhttps://edmtrain.com/miami-fl/dombresky-disco-dom-set-
- the-brothers-macklovitch-a-trak-and-dave-1-of-chromeo-533024
+SUMMARY:Disco Dom\, The Brothers Macklovitch
+LOCATION:Club Space
+DESCRIPTION:Tags (guess): house\, techno\nAges: 21+\nhttps://dice.fm/event/
+ 6a91e895ea5f22000128b2ee
 URL:https://dice.fm/event/6a91e895ea5f22000128b2ee
 STATUS:CONFIRMED
 CATEGORIES:house,techno

@@ -2,18 +2,9 @@
  "events": [
   {
    "id": "19hz:4444588-bloodfeastvseven",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Blood Feast: V.Seven B2B Proletar, Hunter Steel B2B Icky, Dadrev, Domnrob, Cobb Douglas B2B Joey, Franky De Rey, Stinny Stone",
-   "artists": [
-    "PROLETAR",
-    "HUNTER STEEL",
-    "Icky",
-    "Dadrev",
-    "DomnRob",
-    "COBB DOUGLAS",
-    "Franky De Rey",
-    "Stinny Stone"
-   ],
+   "artists": [],
    "venue": "Casa Nube Wynwood",
    "venue_slug": "festivals",
    "date": "2026-10-02",
@@ -30,10 +21,7 @@
    "genres_inferred": false,
    "organizer": "Black Room",
    "description": "",
-   "url": "https://ra.co/events/2529889",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/blood-feast-proletar-535396"
-   ]
+   "url": "https://ra.co/events/2529889"
   },
   {
    "id": "19hz:4444588-cosmomakercollen",
@@ -57,11 +45,9 @@
   },
   {
    "id": "19hz:4444591-timgreen",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Tim Green",
-   "artists": [
-    "Tim Green"
-   ],
+   "artists": [],
    "venue": "Aire Miami",
    "venue_slug": null,
    "date": "2026-10-02",
@@ -79,18 +65,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://airemia.com/events/aire-presents-tim-green",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/tim-green-537556"
-   ]
+   "url": "https://airemia.com/events/aire-presents-tim-green"
   },
   {
    "id": "tablelist:3e08cc38cf7b0afa",
-   "source": "19hz+edmtrain+tablelist",
+   "source": "19hz+tablelist",
    "title": "Monsieur Periné - Instrucciones Para Ser Feliz",
-   "artists": [
-    "Flamingosis"
-   ],
+   "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-10-02",
@@ -110,8 +91,7 @@
    "description": "",
    "url": "https://buy.tablelist.com/e/3e08cc38cf7b0afa",
    "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/flamingosis-02-oct",
-    "https://edmtrain.com/miami-fl/flamingosis-514144"
+    "https://calendar.zeyzeymiami.com/shows/flamingosis-02-oct"
    ]
   },
   {
@@ -161,11 +141,9 @@
   },
   {
    "id": "19hz:4444600-talfussman",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Tal Fussman",
-   "artists": [
-    "Tal Fussman"
-   ],
+   "artists": [],
    "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
    "date": "2026-10-02",
@@ -183,18 +161,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/3or99l-tal-fussman-2nd-oct-do-not-sit-on-the-furniture-miami-beach-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/tal-fussman-523281"
-   ]
+   "url": "https://dice.fm/event/3or99l-tal-fussman-2nd-oct-do-not-sit-on-the-furniture-miami-beach-tickets"
   },
   {
    "id": "19hz:4444600-noisemafiatabeam",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Noise Mafia, Tabea, Mania",
-   "artists": [
-    "Noise Mafia"
-   ],
+   "artists": [],
    "venue": "Domicile",
    "venue_slug": "domicile",
    "date": "2026-10-02",
@@ -211,10 +184,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/53kd9k-noise-mafia-2nd-oct-domicile-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/noise-mafia-533939"
-   ]
+   "url": "https://dice.fm/event/53kd9k-noise-mafia-2nd-oct-domicile-miami-miami-tickets"
   },
   {
    "id": "19hz:4444600-manifestbyamalne",
@@ -241,7 +211,7 @@
   },
   {
    "id": "19hz:4444600-generousbdedroha",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Generous B: Dedro, Hakuna, Birds in Paradise",
    "artists": [],
    "venue": "Jolene Downtown",
@@ -260,21 +230,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/bb9q7o-generous-b-presents-2nd-oct-jolene-sound-room-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/generous-b-presents-538119"
-   ]
+   "url": "https://dice.fm/event/bb9q7o-generous-b-presents-2nd-oct-jolene-sound-room-miami-miami-tickets"
   },
   {
    "id": "19hz:4444600-planetofthedrums",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Planet Of The Drums",
-   "artists": [
-    "Dieselboy",
-    "AK1200",
-    "MC Messinian",
-    "Dara"
-   ],
+   "artists": [],
    "venue": "Kemistry",
    "venue_slug": "kemistry",
    "date": "2026-10-02",
@@ -290,10 +252,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/q2dxea-planet-of-the-drums-2nd-oct-kemistry-fort-lauderdale-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/dieselboy-ak1200-532686"
-   ]
+   "url": "https://dice.fm/event/q2dxea-planet-of-the-drums-2nd-oct-kemistry-fort-lauderdale-tickets"
   },
   {
    "id": "19hz:4444600-nicolinojonnylei",
@@ -317,15 +276,9 @@
   },
   {
    "id": "19hz:4444600-neumondlunaeyead",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Neumond: Lunaeye, Ad:Da, Paolo, Mila Rubio, Magno",
-   "artists": [
-    "Lunaeye",
-    "Ad:da",
-    "Paolo",
-    "Mila Rubio",
-    "Magno"
-   ],
+   "artists": [],
    "venue": "M2",
    "venue_slug": null,
    "date": "2026-10-02",
@@ -343,19 +296,13 @@
    "genres_inferred": false,
    "organizer": "Pitchpark Events",
    "description": "",
-   "url": "https://ra.co/events/2540930",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/neumond-lunaeye-538222"
-   ]
+   "url": "https://ra.co/events/2540930"
   },
   {
    "id": "19hz:4444600-djsubzerodamaged",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "DJ Sub Zero + Damaged Goods",
-   "artists": [
-    "DJ Sub Zero",
-    "Damaged Goods"
-   ],
+   "artists": [],
    "venue": "Sable",
    "venue_slug": null,
    "date": "2026-10-02",
@@ -372,18 +319,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/2wnwka-dj-sub-zero-damaged-goods-2nd-oct-sable-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/dj-sub-zero-damaged-goods-540740"
-   ]
+   "url": "https://dice.fm/event/2wnwka-dj-sub-zero-damaged-goods-2nd-oct-sable-miami-miami-tickets"
   },
   {
    "id": "19hz:4444600-joeycash",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Joey Cash",
-   "artists": [
-    "Joey Cash"
-   ],
+   "artists": [],
    "venue": "The Boombox",
    "venue_slug": "boombox",
    "date": "2026-10-02",
@@ -399,20 +341,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/joey-cash-the-boombox",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/joey-cash-540767"
-   ]
+   "url": "https://shotgun.live/en/events/joey-cash-the-boombox"
   },
   {
    "id": "19hz:4444600-andystottcarrier",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Andy Stott, Carrier, Uchi, Adam at the Door",
-   "artists": [
-    "Andy Stott",
-    "Carrier",
-    "Adam At The Door"
-   ],
+   "artists": [],
    "venue": "The Ground",
    "venue_slug": "the-ground",
    "date": "2026-10-02",
@@ -430,30 +365,20 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6dgdq3-andy-stott-carrier-2nd-oct-the-ground-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/andy-stott-carrier-532804"
-   ]
+   "url": "https://dice.fm/event/6dgdq3-andy-stott-carrier-2nd-oct-the-ground-miami-miami-tickets"
   },
   {
-   "id": "dice:6a91e895ea5f22000128b2ee",
-   "source": "19hz+dice+edmtrain",
-   "title": "Dombresky presents Disco Dom & The Brothers Macklovitch (A-Trak & Dave 1)",
-   "artists": [
-    "Dombresky (Disco Dom Set)",
-    "The Brothers Macklovitch (A-Trak & Dave 1 of Chromeo)",
-    "A-Trak",
-    "Dave 1 (of Chromeo)",
-    "Danyelino",
-    "Bakke"
-   ],
-   "venue": "Club Space Miami",
+   "id": "19hz:4444603-discodomthebroth",
+   "source": "19hz",
+   "title": "Disco Dom, The Brothers Macklovitch",
+   "artists": [],
+   "venue": "Club Space",
    "venue_slug": "club-space",
    "date": "2026-10-02",
    "start": "2026-10-03T03:00:00+00:00",
    "end": "2026-10-03T18:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
    "price": "$30+",
    "genres": [
@@ -463,23 +388,13 @@
    "genres_inferred": true,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6a91e895ea5f22000128b2ee",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/event/6a91e895ea5f22000128b2ee",
-    "https://edmtrain.com/miami-fl/dombresky-disco-dom-set-the-brothers-macklovitch-a-trak-and-dave-1-of-chromeo-533024"
-   ]
+   "url": "https://dice.fm/event/6a91e895ea5f22000128b2ee"
   },
   {
    "id": "19hz:4444603-lusidsamanthalov",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Lusid, Samantha Loveridge",
-   "artists": [
-    "LuSiD",
-    "Samantha Loveridge",
-    "Jake Mercer",
-    "Siegel"
-   ],
+   "artists": [],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
    "date": "2026-10-02",
@@ -495,10 +410,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/92n9l7-lusid-samantha-loveridge-2nd-oct-floyd-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/lusid-samantha-loveridge-532658"
-   ]
+   "url": "https://dice.fm/event/92n9l7-lusid-samantha-loveridge-2nd-oct-floyd-miami-miami-tickets"
   },
   {
    "id": "19hz:4444603-nightshift",
@@ -523,84 +435,6 @@
    "organizer": "",
    "description": "",
    "url": "https://ra.co/events/2548897"
-  },
-  {
-   "id": "edmtrain:531805",
-   "source": "edmtrain",
-   "title": "Amal Nemer, Jaycee",
-   "artists": [
-    "Amal Nemer",
-    "Jaycee"
-   ],
-   "venue": "Edge Miami",
-   "venue_slug": null,
-   "date": "2026-10-02",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "114 NE 20th Terrace, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/amal-nemer-manifest-oct-02?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/amal-nemer-jaycee-531805"
-   ]
-  },
-  {
-   "id": "edmtrain:536353",
-   "source": "edmtrain",
-   "title": "Ava Blank, Eva Myra May",
-   "artists": [
-    "Ava Blank",
-    "Eva Myra May"
-   ],
-   "venue": "Hollywood, FL",
-   "venue_slug": null,
-   "date": "2026-10-02",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "Hollywood, Florida, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://ra.co/events/2534770",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/ava-blank-eva-myra-may-536353"
-   ]
-  },
-  {
-   "id": "edmtrain:540790",
-   "source": "edmtrain",
-   "title": "BING, cyzz",
-   "artists": [
-    "BING",
-    "cyzz"
-   ],
-   "venue": "Treehouse Miami Beach",
-   "venue_slug": null,
-   "date": "2026-10-02",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "323 23rd St, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.etix.com/ticket/p/34115118",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/bing-cyzz-540790"
-   ]
   },
   {
    "id": "hardrock:202003",
@@ -7001,7 +6835,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$11.25",
+   "price": "$16.88",
    "genres": [
     "dance",
     "techno",
@@ -8277,7 +8111,7 @@
   },
   {
    "id": "dice:6abc56c1a24952000158beb2",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "HALLOWEEN PARTY",
    "artists": [],
    "venue": "Kemistry",
@@ -8297,7 +8131,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6abc56c1a24952000158beb2",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/fort-lauderdale-halloween-542024"
+   ]
   },
   {
    "id": "shotgun:sarah-tonin-presents-strange-creatures-w-los-refrescos-more",

@@ -9,17 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4444600-planetofthedrums@kemistry.miami-calendars
-DTSTAMP:20261003T101836Z
-LAST-MODIFIED:20261003T101836Z
-SEQUENCE:0
+DTSTAMP:20261003T161825Z
+LAST-MODIFIED:20261003T161825Z
+SEQUENCE:1
 DTSTART:20261003T020000Z
 DTEND:20261003T080000Z
 SUMMARY:Planet Of The Drums
 LOCATION:Kemistry\, Fort Lauderdale
-DESCRIPTION:Lineup: Dieselboy\, AK1200\, MC Messinian\, Dara\nTags: drum an
- d bass\nAges: 18+\nhttps://dice.fm/event/q2dxea-planet-of-the-drums-2nd-oc
- t-kemistry-fort-lauderdale-tickets\nhttps://edmtrain.com/fort-lauderdale-f
- l/dieselboy-ak1200-532686
+DESCRIPTION:Tags: drum and bass\nAges: 18+\nhttps://dice.fm/event/q2dxea-pl
+ anet-of-the-drums-2nd-oct-kemistry-fort-lauderdale-tickets
 URL:https://dice.fm/event/q2dxea-planet-of-the-drums-2nd-oct-kemistry-fort-
  lauderdale-tickets
 STATUS:CONFIRMED
@@ -217,16 +215,17 @@ CATEGORIES:bass,dubstep
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abc56c1a24952000158beb2@kemistry.miami-calendars
-DTSTAMP:20260930T161812Z
-LAST-MODIFIED:20260930T161812Z
-SEQUENCE:0
+DTSTAMP:20261003T161825Z
+LAST-MODIFIED:20261003T161825Z
+SEQUENCE:1
 DTSTART:20261031T020000Z
 DTEND:20261031T080000Z
 SUMMARY:HALLOWEEN PARTY
 LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
  312\, United States
 DESCRIPTION:Tags (guess): bass\, dubstep\nhttps://dice.fm/event/6abc56c1a24
- 952000158beb2
+ 952000158beb2\nhttps://edmtrain.com/fort-lauderdale-fl/fort-lauderdale-hal
+ loween-542024
 URL:https://dice.fm/event/6abc56c1a24952000158beb2
 STATUS:CONFIRMED
 CATEGORIES:bass,dubstep

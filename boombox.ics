@@ -9,15 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4444600-joeycash@boombox.miami-calendars
-DTSTAMP:20261003T101836Z
-LAST-MODIFIED:20261003T101836Z
-SEQUENCE:0
+DTSTAMP:20261003T161825Z
+LAST-MODIFIED:20261003T161825Z
+SEQUENCE:1
 DTSTART:20261003T020000Z
 DTEND:20261003T080000Z
 SUMMARY:Joey Cash
 LOCATION:The Boombox
-DESCRIPTION:Lineup: Joey Cash\nTags: house\nhttps://shotgun.live/en/events/
- joey-cash-the-boombox\nhttps://edmtrain.com/miami-fl/joey-cash-540767
+DESCRIPTION:Tags: house\nhttps://shotgun.live/en/events/joey-cash-the-boomb
+ ox
 URL:https://shotgun.live/en/events/joey-cash-the-boombox
 STATUS:CONFIRMED
 CATEGORIES:house

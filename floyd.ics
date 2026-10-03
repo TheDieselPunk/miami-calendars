@@ -9,17 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4444603-lusidsamanthalov@floyd.miami-calendars
-DTSTAMP:20261003T041828Z
-LAST-MODIFIED:20261003T041828Z
-SEQUENCE:0
+DTSTAMP:20261003T161825Z
+LAST-MODIFIED:20261003T161825Z
+SEQUENCE:1
 DTSTART:20261003T030000Z
 DTEND:20261003T090000Z
 SUMMARY:Lusid\, Samantha Loveridge
 LOCATION:Floyd Miami
-DESCRIPTION:Lineup: LuSiD\, Samantha Loveridge\, Jake Mercer\, Siegel\nTags
- : progressive house\nAges: 21+\nhttps://dice.fm/event/92n9l7-lusid-samanth
- a-loveridge-2nd-oct-floyd-miami-miami-tickets\nhttps://edmtrain.com/miami-
- fl/lusid-samantha-loveridge-532658
+DESCRIPTION:Tags: progressive house\nAges: 21+\nhttps://dice.fm/event/92n9l
+ 7-lusid-samantha-loveridge-2nd-oct-floyd-miami-miami-tickets
 URL:https://dice.fm/event/92n9l7-lusid-samantha-loveridge-2nd-oct-floyd-mia
  mi-miami-tickets
 STATUS:CONFIRMED
