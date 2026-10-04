@@ -129,18 +129,18 @@ CATEGORIES:breaks,club,dubstep
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a90763252ac72000187b29b@the-ground.miami-calendars
-DTSTAMP:20260922T004038Z
-LAST-MODIFIED:20260922T004038Z
-SEQUENCE:1
+DTSTAMP:20261004T221819Z
+LAST-MODIFIED:20261004T221819Z
+SEQUENCE:2
 DTSTART:20261025T030000Z
 DTEND:20261025T110000Z
 SUMMARY:BLACK ROOM: KANDER
 LOCATION:The Ground Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6a90763252a
- c72000187b29b
+DESCRIPTION:Tags: hard bounce\, hard groove\, tr ance\nAges: 21+\nhttps://d
+ ice.fm/event/6a90763252ac72000187b29b\nhttps://link.dice.fm/brkander
 URL:https://dice.fm/event/6a90763252ac72000187b29b
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:hard bounce,hard groove,tr ance
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a9077ed977d0a0001892d5d@the-ground.miami-calendars
@@ -159,18 +159,20 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a90769e977d0a000107271f@the-ground.miami-calendars
-DTSTAMP:20260922T004038Z
-LAST-MODIFIED:20260922T004038Z
-SEQUENCE:1
+DTSTAMP:20261004T221819Z
+LAST-MODIFIED:20261004T221819Z
+SEQUENCE:2
 DTSTART:20261101T030000Z
 DTEND:20261101T120000Z
 SUMMARY:Perreo Del Futuro: Halloween
 LOCATION:The Ground Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6a90769e977
- d0a000107271f
-URL:https://dice.fm/event/6a90769e977d0a000107271f
+DESCRIPTION:Tags: baile funk\, bass music\, dembow\, reggaeton\, techno\nAg
+ es: 21+\nhttps://dice.fm/event/g58ww5-perreo-del-futuro-halloween-31st-oct
+ -the-ground-miami-miami-tickets
+URL:https://dice.fm/event/g58ww5-perreo-del-futuro-halloween-31st-oct-the-g
+ round-miami-miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:baile funk,bass music,dembow,reggaeton,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aac2b58ba4e800001745f0c@the-ground.miami-calendars
@@ -303,18 +305,20 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a95af3f8ba41600019bdfd5@the-ground.miami-calendars
-DTSTAMP:20260922T004038Z
-LAST-MODIFIED:20260922T004038Z
-SEQUENCE:1
+DTSTAMP:20261004T221819Z
+LAST-MODIFIED:20261004T221819Z
+SEQUENCE:2
 DTSTART:20261204T040000Z
 DTEND:20261204T120000Z
 SUMMARY:RAW CUTS (Ground Basel 2026)
 LOCATION:The Ground Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
 DESCRIPTION:Lineup: HAAi\, Bakke\, Sister System\, EREZ.JPG\, shanty mane\,
-  Erin Page\nTags (guess): house\, techno\nhttps://dice.fm/event/6a95af3f8b
- a41600019bdfd5\nhttps://edmtrain.com/miami-fl/haai-bakke-536948
-URL:https://dice.fm/event/6a95af3f8ba41600019bdfd5
+  Erin Page\nTags: deep house\, techno\, uk garage\nAges: 21+\nhttps://dice
+ .fm/event/6dgpd2-raw-cuts-ground-basel-2026-3rd-dec-the-ground-miami-miami
+ -tickets\nhttps://edmtrain.com/miami-fl/haai-bakke-536948
+URL:https://dice.fm/event/6dgpd2-raw-cuts-ground-basel-2026-3rd-dec-the-gro
+ und-miami-miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:deep house,techno,uk garage
 END:VEVENT
 END:VCALENDAR

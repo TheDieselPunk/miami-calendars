@@ -32,7 +32,7 @@
   "name": "Floyd",
   "file": "floyd.ics",
   "events": 31,
-  "estimated_times": 2,
+  "estimated_times": 1,
   "next": "2026-10-03",
   "sources": [
    "19hz",
@@ -58,7 +58,7 @@
   "slug": "factory-town",
   "name": "Factory Town",
   "file": "factory-town.ics",
-  "events": 9,
+  "events": 10,
   "estimated_times": 0,
   "next": "2026-10-09",
   "sources": [
@@ -72,8 +72,8 @@
   "slug": "kemistry",
   "name": "Kemistry (Fort Lauderdale)",
   "file": "kemistry.ics",
-  "events": 22,
-  "estimated_times": 3,
+  "events": 29,
+  "estimated_times": 1,
   "next": "2026-10-03",
   "sources": [
    "19hz",
@@ -172,7 +172,7 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 41,
+  "events": 43,
   "estimated_times": 20,
   "next": "2026-10-03",
   "sources": [

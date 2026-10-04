@@ -272,36 +272,37 @@ CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab44b4b28d5d90001e98039@jolene.miami-calendars
-DTSTAMP:20260923T221804Z
-LAST-MODIFIED:20260923T221804Z
-SEQUENCE:0
+DTSTAMP:20261004T221819Z
+LAST-MODIFIED:20261004T221819Z
+SEQUENCE:1
 DTSTART:20261201T030000Z
 DTEND:20261201T090000Z
 SUMMARY:Basel: Special Guest
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6ab44b4
- b28d5d90001e98039
-URL:https://dice.fm/event/6ab44b4b28d5d90001e98039
+DESCRIPTION:Tags: house\, tech house\, techno\nAges: 21+\nhttps://dice.fm/e
+ vent/6ab44d3879b6750001a8fb66
+URL:https://dice.fm/event/6ab44d3879b6750001a8fb66
 STATUS:CONFIRMED
-CATEGORIES:house,tech house
+CATEGORIES:house,tech house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab442b0fb764f0001259171@jolene.miami-calendars
-DTSTAMP:20260924T041810Z
-LAST-MODIFIED:20260924T041810Z
-SEQUENCE:0
+DTSTAMP:20261004T221819Z
+LAST-MODIFIED:20261004T221819Z
+SEQUENCE:1
 DTSTART:20261202T030000Z
 DTEND:20261202T090000Z
 SUMMARY:Basel: Paco Osuna
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Lineup: Paco Osuna\nTags (guess): house\, tech house\nhttps://d
- ice.fm/event/6ab442b0fb764f0001259171\nhttps://edmtrain.com/miami-fl/paco-
- osuna-539603
-URL:https://dice.fm/event/6ab442b0fb764f0001259171
+DESCRIPTION:Lineup: Paco Osuna\nTags: tech house\, techno\nAges: 21+\nhttps
+ ://dice.fm/event/avk8vx-basel-paco-osuna-1st-dec-jolene-sound-room-miami-m
+ iami-tickets\nhttps://edmtrain.com/miami-fl/paco-osuna-539603
+URL:https://dice.fm/event/avk8vx-basel-paco-osuna-1st-dec-jolene-sound-room
+ -miami-miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:house,tech house
+CATEGORIES:tech house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab443f8697fd600018d79bd@jolene.miami-calendars
@@ -322,19 +323,19 @@ CATEGORIES:edm,house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab3a356f3be0b000115831c@jolene.miami-calendars
-DTSTAMP:20260923T221804Z
-LAST-MODIFIED:20260923T221804Z
-SEQUENCE:0
+DTSTAMP:20261004T221819Z
+LAST-MODIFIED:20261004T221819Z
+SEQUENCE:1
 DTSTART:20261204T030000Z
 DTEND:20261204T090000Z
 SUMMARY:Basel: AFTERJAM
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6ab3a35
- 6f3be0b000115831c
+DESCRIPTION:Tags: minimal\, tech house\nAges: 21+\nhttps://dice.fm/event/6a
+ b3a356f3be0b000115831c
 URL:https://dice.fm/event/6ab3a356f3be0b000115831c
 STATUS:CONFIRMED
-CATEGORIES:house,tech house
+CATEGORIES:minimal,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab44533af1ad900014f7295@jolene.miami-calendars

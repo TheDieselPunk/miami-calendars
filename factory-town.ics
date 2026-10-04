@@ -124,10 +124,25 @@ STATUS:CONFIRMED
 CATEGORIES:future bass,house,synthpop
 END:VEVENT
 BEGIN:VEVENT
+UID:19hz-4450456-factorybasel2026@factory-town.miami-calendars
+DTSTAMP:20261004T221819Z
+LAST-MODIFIED:20261004T221819Z
+SEQUENCE:0
+DTSTART:20261203T030000Z
+DTEND:20261203T110000Z
+SUMMARY:Factory Basel 2026 5-Day Pass
+LOCATION:Factory Town
+DESCRIPTION:Tags: house\, tech house\, techno\nAges: 18+\nhttps://dice.fm/e
+ vent/6aaafb88d2cb540001cdd853
+URL:https://dice.fm/event/6aaafb88d2cb540001cdd853
+STATUS:CONFIRMED
+CATEGORIES:house,tech house,techno
+END:VEVENT
+BEGIN:VEVENT
 UID:dice-6aa82e05fcb1030001a9cd65@factory-town.miami-calendars
-DTSTAMP:20260922T004038Z
-LAST-MODIFIED:20260922T004038Z
-SEQUENCE:1
+DTSTAMP:20261004T221819Z
+LAST-MODIFIED:20261004T221819Z
+SEQUENCE:2
 DTSTART:20261206T030000Z
 DTEND:20261206T120000Z
 SUMMARY:Circoloco Miami (Factory Basel 2026)
@@ -135,11 +150,12 @@ LOCATION:Factory Town\, 4800 NW 37th Ave\, Miami\, FL 33142\, USA
 DESCRIPTION:Lineup: Aline Umber\, Beltran\, Carlita\, Chloé Caillet\, Dixo
  n\, Jamback\, Jimi Jules\, Luke Dean\, Make A Dance\, Max Dean\, Miguelle 
  & Tons\, Omar+\, Palms Trax\, PAWSA\, Prospa\, Rampa\, Rony Seikaly\, Seth
-  Troxler\nTags (guess): house\, techno\nhttps://dice.fm/event/6aa82e05fcb1
- 030001a9cd65\nhttps://edmtrain.com/miami-fl/circoloco-miami-536726
+  Troxler\nTags: deep house\, funky house\, tech house\nAges: 18+\nhttps://
+ dice.fm/event/6aa82e05fcb1030001a9cd65\nhttps://edmtrain.com/miami-fl/circ
+ oloco-miami-536726
 URL:https://dice.fm/event/6aa82e05fcb1030001a9cd65
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:deep house,funky house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab5a8633fd3b20001e06e58@factory-town.miami-calendars
