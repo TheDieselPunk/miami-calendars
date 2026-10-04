@@ -4,10 +4,20 @@
   "seq": 0,
   "modified": "2026-10-04T04:18:27+00:00"
  },
+ "19hz-4444687-amememaliveopena@festivals.miami-calendars": {
+  "hash": "68963c66c2db87fa",
+  "seq": 0,
+  "modified": "2026-10-04T10:18:22+00:00"
+ },
  "19hz-4444692-sarahtoninfernyg@mad-radio.miami-calendars": {
   "hash": "21e23945b6e4042b",
   "seq": 0,
   "modified": "2026-10-02T22:18:26+00:00"
+ },
+ "19hz-4444696-circuitdjmarfox@boombox.miami-calendars": {
+  "hash": "1c912a85a6c2d94d",
+  "seq": 0,
+  "modified": "2026-10-04T10:18:22+00:00"
  },
  "19hz-4444699-dublon@floyd.miami-calendars": {
   "hash": "b83f7cb1877d08a4",
@@ -935,9 +945,9 @@
   "modified": "2026-10-04T04:18:27+00:00"
  },
  "evanora-unlimited-north-america-tour-miami-fl@shotgun.live": {
-  "hash": "72c4096d1a9c44d5",
-  "seq": 2,
-  "modified": "2026-10-04T04:18:27+00:00"
+  "hash": "30a5e53b6734bf1b",
+  "seq": 3,
+  "modified": "2026-10-04T10:18:22+00:00"
  },
  "galactic-halloween@shotgun.live": {
   "hash": "fc786244f70af36d",
@@ -948,11 +958,6 @@
   "hash": "9b03b4734e200b0c",
   "seq": 0,
   "modified": "2026-09-21T19:13:57+00:00"
- },
- "gulp-by-sarah-tonin-mad-radio@shotgun.live": {
-  "hash": "f2c03c1b12bf1659",
-  "seq": 1,
-  "modified": "2026-10-01T10:18:12+00:00"
  },
  "guy-j-art-basel-edition-by-apex-x-the-hall@shotgun.live": {
   "hash": "df94820341ad1d55",
@@ -1244,16 +1249,6 @@
   "seq": 0,
   "modified": "2026-09-26T22:18:17+00:00"
  },
- "machina-records-presents-circuit@shotgun.live": {
-  "hash": "31bdd0f915edca59",
-  "seq": 4,
-  "modified": "2026-10-02T22:18:26+00:00"
- },
- "madradiomiami100326@shotgun.live": {
-  "hash": "81e6efec11bb89fd",
-  "seq": 2,
-  "modified": "2026-10-01T22:18:30+00:00"
- },
  "madradiomiami100726@shotgun.live": {
   "hash": "5435e53112b98ccd",
   "seq": 2,
@@ -1271,18 +1266,18 @@
  },
  "madradiomiami101026@shotgun.live": {
   "hash": "3912b9fdc1f02008",
-  "seq": 73,
-  "modified": "2026-10-04T04:18:27+00:00"
+  "seq": 75,
+  "modified": "2026-10-04T10:18:22+00:00"
  },
  "madradiomiami101426@shotgun.live": {
   "hash": "3edde36d3f0d9cc8",
-  "seq": 19,
-  "modified": "2026-10-04T04:18:27+00:00"
+  "seq": 21,
+  "modified": "2026-10-04T10:18:22+00:00"
  },
  "madradiomiami101526@shotgun.live": {
   "hash": "3abb96f7428a3dd6",
-  "seq": 19,
-  "modified": "2026-10-04T04:18:27+00:00"
+  "seq": 21,
+  "modified": "2026-10-04T10:18:22+00:00"
  },
  "madradiomiami101626@shotgun.live": {
   "hash": "4162ef2a898ea280",
@@ -1340,9 +1335,9 @@
   "modified": "2026-09-21T19:13:57+00:00"
  },
  "rocky-horror-picture-show@shotgun.live": {
-  "hash": "b7462525e07c32d2",
-  "seq": 3,
-  "modified": "2026-10-04T04:18:27+00:00"
+  "hash": "7829d75ded1a0a62",
+  "seq": 4,
+  "modified": "2026-10-04T10:18:22+00:00"
  },
  "roots-of-bass-bear-grillz@shotgun.live": {
   "hash": "3ff069cce8134076",
@@ -1358,11 +1353,6 @@
   "hash": "c3c1129b6e6bb404",
   "seq": 10,
   "modified": "2026-10-01T04:18:24+00:00"
- },
- "soundtuaryoctober3@shotgun.live": {
-  "hash": "316ffee3a07cd1bc",
-  "seq": 0,
-  "modified": "2026-09-21T21:40:09+00:00"
  },
  "tablelist-09696654a43f6624@zeyzey.miami-calendars": {
   "hash": "5938acf875179f00",
@@ -1385,9 +1375,9 @@
   "modified": "2026-10-01T04:18:24+00:00"
  },
  "tablelist-45a1d056dcb77912@zeyzey.miami-calendars": {
-  "hash": "30eb08283c9f6858",
-  "seq": 0,
-  "modified": "2026-10-01T04:18:24+00:00"
+  "hash": "ada9a4d7540fda3a",
+  "seq": 1,
+  "modified": "2026-10-04T10:18:22+00:00"
  },
  "tablelist-7c5e948162a39cd3@zeyzey.miami-calendars": {
   "hash": "d64629cb50950090",

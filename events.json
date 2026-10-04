@@ -104,9 +104,9 @@
    ]
   },
   {
-   "id": "shotgun:soundtuaryoctober3",
-   "source": "19hz+edmtrain+shotgun",
-   "title": "Soundtuary Present Amémé & Malive - Open Air",
+   "id": "19hz:4444687-amememaliveopena",
+   "source": "19hz+edmtrain",
+   "title": "Ameme & Malive - Open Air",
    "artists": [
     "AMÉMÉ",
     "Malive",
@@ -122,44 +122,18 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$56.75",
+   "price": "$28 b4 10 / $45+",
    "genres": [
     "afro house",
-    "house",
     "tech house"
    ],
    "genres_inferred": false,
-   "organizer": "",
+   "organizer": "Soundtuary",
    "description": "",
    "url": "https://shotgun.live/en/events/soundtuaryoctober3",
    "alt_urls": [
-    "https://shotgun.live/en/events/soundtuaryoctober3",
     "https://edmtrain.com/miami-fl/soundtuary-ameme-536892"
    ]
-  },
-  {
-   "id": "shotgun:murder-mystery-night",
-   "source": "shotgun",
-   "title": "Murder Mystery Night",
-   "artists": [],
-   "venue": "Tribe Tea Kava Lounge",
-   "venue_slug": null,
-   "date": "2026-10-03",
-   "start": "2026-10-04T00:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$11.35",
-   "genres": [
-    "hardcore",
-    "rock",
-    "pop rock"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/murder-mystery-night"
   },
   {
    "id": "19hz:4444692-twistedfunkmiami",
@@ -183,29 +157,6 @@
    "organizer": "",
    "description": "",
    "url": "https://www.eventbrite.com/e/twisted-funk-miami-with-wally-lopez-ollie-sanders-dank-tickets-2001269800847"
-  },
-  {
-   "id": "shotgun:london-dungeon",
-   "source": "shotgun",
-   "title": "London Dungeon",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-10-03",
-   "start": "2026-10-04T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$6.00",
-   "genres": [
-    "punk",
-    "post-punk"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/london-dungeon"
   },
   {
    "id": "19hz:4444692-sarahtoninfernyg",
@@ -236,68 +187,6 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/sarah-tonin-ferny-540053"
    ]
-  },
-  {
-   "id": "shotgun:gulp-by-sarah-tonin-mad-radio",
-   "source": "shotgun",
-   "title": "Gulp By Sarah Tonin @ Mad Radio",
-   "artists": [],
-   "venue": "Mad Radio Miami",
-   "venue_slug": "mad-radio",
-   "date": "2026-10-03",
-   "start": "2026-10-04T01:00:00+00:00",
-   "end": "2026-10-04T07:00:00+00:00",
-   "time_estimated": false,
-   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
-   "ages": "",
-   "price": "$22.00",
-   "genres": [
-    "deep house",
-    "house"
-   ],
-   "genres_inferred": true,
-   "organizer": "Sarah Tonin",
-   "description": "Born and raised in Buenos Aires, Gulp is a DJ, producer, and curator. After residing for 10 years in Berlin, he built his craft by digging deep into music — sourcing, mastering, and blending genres with a collector’s obsession. Residencies, podcasts, and features in Resident Advisor and XLR8R established him as a versatile and restless musical voice. His sets and productions draw from a wide but deliberate palette, stitching together surrealist fragments into something distinctly his own. That same sensibility drives People People, his cross-genre ensemble that keeps pushing genre boundaries. In 2021, he co-founded The Pressure Company — a label and platform built around electronic music in all its forms, reflecting the same boundless curiosity that defines everything he does.",
-   "url": "https://shotgun.live/en/events/gulp-by-sarah-tonin-mad-radio",
-   "tickets": "FREE BEFORE 11PM Free, ANY TIME ENTRY TIER 1 $20",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.8462027,
-    "longitude": -80.1851332
-   },
-   "created": "2026-09-24T17:23:25.000Z"
-  },
-  {
-   "id": "shotgun:madradiomiami100326",
-   "source": "shotgun",
-   "title": "Sarah Tonin: Gulp / Ferny",
-   "artists": [],
-   "venue": "Mad Radio Miami",
-   "venue_slug": "mad-radio",
-   "date": "2026-10-03",
-   "start": "2026-10-04T01:00:00+00:00",
-   "end": "2026-10-04T07:00:00+00:00",
-   "time_estimated": false,
-   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
-   "ages": "",
-   "price": "$21.80",
-   "genres": [
-    "deep house",
-    "house"
-   ],
-   "genres_inferred": true,
-   "organizer": "Mad Radio Miami",
-   "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY BEFORE 10 PM / FREE ENTRY LADIES UNTIL MIDNIGHT + 25 YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
-   "url": "https://shotgun.live/en/events/madradiomiami100326",
-   "tickets": "AFTER 10 PM $20, FREE LADIES RSVP BEFORE 12 AM Free",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.8462027,
-    "longitude": -80.1851332
-   },
-   "created": "2026-09-25T01:35:35.000Z"
   },
   {
    "id": "19hz:4444692-welkeressejkatz",
@@ -332,7 +221,7 @@
   },
   {
    "id": "tablelist:45a1d056dcb77912",
-   "source": "19hz+edmtrain+tablelist+venue",
+   "source": "19hz+edmtrain+tablelist",
    "title": "Electric Feels: Indie Rock + Electronic Dance Party",
    "artists": [
     "WHIPPED CREAM"
@@ -356,85 +245,32 @@
    "description": "",
    "url": "https://buy.tablelist.com/e/45a1d056dcb77912",
    "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/electric-feels-indie-rock-electronic-dance-party-03-oct",
-    "https://calendar.zeyzeymiami.com/shows/whipped-cream-03-oct",
     "https://calendar.zeyzeymiami.com/shows/whipped-cream-03-oct",
     "https://edmtrain.com/miami-fl/whipped-cream-509115"
    ]
   },
   {
-   "id": "shotgun:hcanathalycandelajoelvengasoct3",
-   "source": "shotgun",
-   "title": "Hca Presents: Nathaly Candela & Joel Venegas",
+   "id": "19hz:4444696-hotbacktoschoolh",
+   "source": "19hz",
+   "title": "Hot: Back To School Hyperpop X Perreo",
    "artists": [],
-   "venue": "Hoy Como Ayer",
-   "venue_slug": null,
-   "date": "2026-10-03",
-   "start": "2026-10-04T01:30:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$22.70",
-   "genres": [
-    "salsa"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/hcanathalycandelajoelvengasoct3"
-  },
-  {
-   "id": "shotgun:c3trlroom-8",
-   "source": "19hz+edmtrain+shotgun",
-   "title": "Dance Therapy: Dmeyer, Marie Posa, Mindgazm, Chddr, Le//On",
-   "artists": [],
-   "venue": "Club M2 Miami",
+   "venue": "777 Northeast 79th Street",
    "venue_slug": null,
    "date": "2026-10-03",
    "start": "2026-10-04T02:00:00+00:00",
-   "end": "2026-10-04T09:00:00+00:00",
+   "end": "2026-10-04T08:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$20.00",
+   "price": "free w/rsvp / $23-34",
    "genres": [
-    "house",
-    "tech house"
+    "hyperpop",
+    "perreo"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/c3trlroom-8",
-   "alt_urls": [
-    "https://ra.co/events/2546261",
-    "https://edmtrain.com/miami-fl/dance-therapy-540179"
-   ]
-  },
-  {
-   "id": "shotgun:c3trlroom-9",
-   "source": "edmtrain+shotgun",
-   "title": "Techno Trance Miami",
-   "artists": [],
-   "venue": "Club M2 Miami",
-   "venue_slug": null,
-   "date": "2026-10-03",
-   "start": "2026-10-04T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$20.00",
-   "genres": [
-    "trance"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/c3trlroom-9",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/techno-trance-miami-541599"
-   ]
+   "url": "https://shotgun.live/en/events/hot"
   },
   {
    "id": "19hz:4444696-tamirregevjessyn",
@@ -460,36 +296,6 @@
    "url": "https://dice.fm/event/v3x88g-tamir-regev-3rd-oct-do-not-sit-on-the-furniture-miami-beach-tickets"
   },
   {
-   "id": "shotgun:el-hormiguero",
-   "source": "19hz+edmtrain+shotgun",
-   "title": "El Hormiguero",
-   "artists": [],
-   "venue": "EDGE Miami",
-   "venue_slug": null,
-   "date": "2026-10-03",
-   "start": "2026-10-04T02:00:00+00:00",
-   "end": "2026-10-04T09:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$22.70",
-   "genres": [
-    "deep tech",
-    "electro",
-    "minimal",
-    "minimal house",
-    "tech house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/el-hormiguero",
-   "alt_urls": [
-    "https://bubbl.so/event/public/dFneCpJAtONjUTmAfs3Y",
-    "https://edmtrain.com/miami-fl/el-hormiguero-540643"
-   ]
-  },
-  {
    "id": "19hz:4444696-toolsheddannyver",
    "source": "19hz",
    "title": "Toolshed: Danny Verde",
@@ -510,6 +316,33 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/v3lyyd-toolshed-ft-danny-verde-3rd-oct-eagle-wilton-manors-wilton-manors-tickets"
+  },
+  {
+   "id": "19hz:4444696-elhormiguerogseg",
+   "source": "19hz+edmtrain",
+   "title": "El Hormiguero: G. Segurola, Legend Saylor, Mambo, Sierra, Tomix, TRIIPEL",
+   "artists": [],
+   "venue": "Edge",
+   "venue_slug": null,
+   "date": "2026-10-03",
+   "start": "2026-10-04T02:00:00+00:00",
+   "end": "2026-10-04T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "electro",
+    "minimal",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://bubbl.so/event/public/dFneCpJAtONjUTmAfs3Y",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/el-hormiguero-540643"
+   ]
   },
   {
    "id": "dice:6a6cf7d798cdba0001582d19",
@@ -573,29 +406,29 @@
    ]
   },
   {
-   "id": "shotgun:hot",
-   "source": "19hz+shotgun",
-   "title": "Hot: Back To School Hyperpop X Perreo",
+   "id": "19hz:4444696-dancetherapydmey",
+   "source": "19hz+edmtrain",
+   "title": "Dance Therapy: Dmeyer, Marie Posa, Mindgazm, Xonya",
    "artists": [],
-   "venue": "Miami",
+   "venue": "M2",
    "venue_slug": null,
    "date": "2026-10-03",
    "start": "2026-10-04T02:00:00+00:00",
-   "end": "2026-10-04T08:00:00+00:00",
+   "end": "2026-10-04T09:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$22.70",
+   "price": "free w/rsvp b4 midnight / $20",
    "genres": [
-    "hyperpop",
-    "perreo"
+    "house",
+    "tech house"
    ],
    "genres_inferred": false,
-   "organizer": "",
+   "organizer": "Pitchpark Events",
    "description": "",
-   "url": "https://shotgun.live/en/events/hot",
+   "url": "https://ra.co/events/2546261",
    "alt_urls": [
-    "https://shotgun.live/en/events/hot"
+    "https://edmtrain.com/miami-fl/dance-therapy-540179"
    ]
   },
   {
@@ -622,45 +455,34 @@
    "url": "https://dice.fm/event/k62kb9-robag-wruhme-jake-mercer-3rd-oct-sable-miami-miami-tickets"
   },
   {
-   "id": "shotgun:machina-records-presents-circuit",
-   "source": "19hz+edmtrain+shotgun",
-   "title": "Machina Records Presents: Circuit - Dj Marfox",
+   "id": "19hz:4444696-circuitdjmarfox",
+   "source": "19hz+edmtrain",
+   "title": "Circuit - DJ Marfox",
    "artists": [
-    "Dj Marfox",
-    "RARA",
-    "Say3",
+    "DJ Marfox",
+    "Rara",
+    "SAY3",
     "ianko fj",
     "mango."
    ],
-   "venue": "The Boombox Miami",
+   "venue": "The Boombox",
    "venue_slug": "boombox",
    "date": "2026-10-03",
    "start": "2026-10-04T02:00:00+00:00",
    "end": "2026-10-04T08:00:00+00:00",
    "time_estimated": false,
-   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
+   "address": "",
    "ages": "18+",
-   "price": "$15.00",
+   "price": "$15-20",
    "genres": [
     "afro house",
-    "afrobeat",
-    "afrobeats",
-    "electronica"
+    "afrobeats"
    ],
    "genres_inferred": false,
-   "organizer": "omnisoundsevents",
-   "description": "Machina Records presents \"Circuit\" — the first edition of their label party in Miami. Headlining the night is the prolific DJ Marfox from Portugal, pioneer of the Kuduro/Batida sound born out of Angola and label head of Príncipe Discos. Joining him is SAY3, a Liberian/Haitian DJ and early adopter of the Batida sound. Featured on Club Djembe alongside DJ Lycox, he's no stranger to the sonic palette of this Angolan sound. Machina Records label head RARA goes B2B with Ianko FJ, providing support for this deep night of Afrobeat and Afro-electronica. Boombox residents Mango and Guacharo hold down the fort for the night. THIS IS AN 18+ EVENT Physical ID’s only, Photo ID’s will not be accepted RSVP prioritizes entry, but does not guarantee it Rain or Shine",
+   "organizer": "Machina Records",
+   "description": "",
    "url": "https://shotgun.live/en/events/machina-records-presents-circuit",
-   "tickets": "Tier 1 $13.33",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.7287781,
-    "longitude": -80.3169309
-   },
-   "created": "2026-09-10T03:44:09.000Z",
    "alt_urls": [
-    "https://shotgun.live/en/events/machina-records-presents-circuit",
     "https://edmtrain.com/miami-fl/machina-records-presents-circuit-dj-marfox-540768"
    ]
   },
@@ -821,6 +643,31 @@
    "url": "https://dice.fm/event/v3lyyd?pid=d6342b83",
    "alt_urls": [
     "https://edmtrain.com/fort-lauderdale-fl/danny-verde-537597"
+   ]
+  },
+  {
+   "id": "edmtrain:541599",
+   "source": "edmtrain",
+   "title": "Techno Trance Miami",
+   "artists": [],
+   "venue": "M2 Nightclub",
+   "venue_slug": null,
+   "date": "2026-10-03",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1235 Washington Ave, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "trance"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/7d9677?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/techno-trance-miami-541599"
    ]
   },
   {
@@ -3059,7 +2906,7 @@
    "organizer": "Talk Less Just Dance",
    "description": "EVANORA UNLIMITED — NORTH AMERICA TOUR: MIAMI Evanora Unlimited makes their way to Miami for a special stop on the North America Tour, presented by Talk Less Just Dance, EQUINOX BOOKING , say Tech & smile DOORS 10:00PM 18+ One night bringing together live performances + some of our favorite artists from Miami and beyond. LINEUP: EVANORA UNLIMITED ANGUS GREEN GODS WISDOM DEP4RTED ZNX MIA VENDETTA DEAD LOTUS JWELSET",
    "url": "https://shotgun.live/en/events/evanora-unlimited-north-america-tour-miami-fl",
-   "tickets": "Early Bird $22.02, second tier $26.43, third tier $35.24, OFFER / FLASH DEAL $15 (sold out)",
+   "tickets": "second tier $22.02, Third tier $26.43, Last tier $35.24, First tier $15",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -5862,13 +5709,13 @@
    "time_estimated": false,
    "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
    "ages": "",
-   "price": "$30.00",
+   "price": "",
    "genres": [],
    "genres_inferred": false,
    "organizer": "The Boombox Miami",
    "description": "DON’T DREAM IT BE IT 💥 The Boombox (@theboomboxmiami) and the talent of Miami-Dade (@rockyhorrormiami) have teamed up to create THE ROCKY HORROR PARTY SHOW, a multi-medium performance piece that immerses the audience into the salacious world of this beloved queer cult classic 🪭💫 WHEN: THURSDAY Oct 22 8PM FRIDAY Oct 23 8PM/12AM WHERE: The Boombox #yatusabes WEAR: Slut or Suit no exceptions!! Checking drip and IDs (18+) at the the door 🫵 2 nights, 3 shows you can bring your co-worker with bangs to, and one wild final MIDNIGHT ride you’re not going to want to miss!! Expect live music, cabaret, cinematic projections, y más 💫 There will be flashing lights, sudden sounds, and other practical effects designed to heighten your senses. Please check the ticket info for how you can best enjoy this invento of party show 🥳 SEATS AND TICKETS LIMITED BOOTS LET UR FRIENDS KNOWW Give yourself over to absolute pleasure this October darlings when the mood takes us we’re known to be quite generous 💋 Follow @rockyhorrormiami for early tricks n’ treats and more behind the scenes looks at The Rocky Horror Party Show Project!! See you there, mon chers 💌",
    "url": "https://shotgun.live/en/events/rocky-horror-picture-show",
-   "tickets": "11:45PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME GA $30 (sold out), 8PM SHOWTIME GA $30, 8PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME GA $30",
+   "tickets": "11:45PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME GA $30 (sold out), 8PM SHOWTIME GA $30 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME GA $30 (sold out)",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -9232,7 +9079,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$20.25",
+   "price": "$19.69",
    "genres": [
     "dark wave",
     "alternative",

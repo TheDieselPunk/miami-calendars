@@ -24,57 +24,6 @@ STATUS:CONFIRMED
 CATEGORIES:progressive house,tech house
 END:VEVENT
 BEGIN:VEVENT
-UID:gulp-by-sarah-tonin-mad-radio@shotgun.live
-DTSTAMP:20261001T101812Z
-LAST-MODIFIED:20261001T101812Z
-SEQUENCE:1
-DTSTART:20261004T010000Z
-DTEND:20261004T070000Z
-SUMMARY:Gulp By Sarah Tonin @ Mad Radio
-LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
-DESCRIPTION:Born and raised in Buenos Aires\, Gulp is a DJ\, producer\, and
-  curator. After residing for 10 years in Berlin\, he built his craft by di
- gging deep into music — sourcing\, mastering\, and blending genres with 
- a collector’s obsession. Residencies\, podcasts\, and features in Reside
- nt Advisor and XLR8R established him as a versatile and restless musical v
- oice. His sets and productions draw from a wide but deliberate palette\, s
- titching together surrealist fragments into something distinctly his own. 
- That same sensibility drives People People\, his cross-genre ensemble that
-  keeps pushing genre boundaries. In 2021\, he co-founded The Pressure Comp
- any — a label and platform built around electronic music in all its form
- s\, reflecting the same boundless curiosity that defines everything he doe
- s.\nTags (guess): deep house\, house\nPresented by: Sarah Tonin\nTickets: 
- FREE BEFORE 11PM Free\, ANY TIME ENTRY TIER 1 $20\nhttps://shotgun.live/en
- /events/gulp-by-sarah-tonin-mad-radio
-URL:https://shotgun.live/en/events/gulp-by-sarah-tonin-mad-radio
-STATUS:CONFIRMED
-CATEGORIES:deep house,house
-GEO:25.8462027;-80.1851332
-END:VEVENT
-BEGIN:VEVENT
-UID:madradiomiami100326@shotgun.live
-DTSTAMP:20261001T221830Z
-LAST-MODIFIED:20261001T221830Z
-SEQUENCE:2
-DTSTART:20261004T010000Z
-DTEND:20261004T070000Z
-SUMMARY:Sarah Tonin: Gulp / Ferny
-LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
-DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
- ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
-  our slick radio show serving up the latest tracks. Save the date and cath
-  the urban-chic experience at Mad Radio Miami. See you on the dance floor!
-  Come early\, stay late\, and let the night unfold FREE ENTRY BEFORE 10 PM
-  / FREE ENTRY LADIES UNTIL MIDNIGHT + 25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
- \nTags (guess): deep house\, house\nTickets: AFTER 10 PM $20\, FREE LADIES
-  RSVP BEFORE 12 AM Free\nhttps://shotgun.live/en/events/madradiomiami10032
- 6
-URL:https://shotgun.live/en/events/madradiomiami100326
-STATUS:CONFIRMED
-CATEGORIES:deep house,house
-GEO:25.8462027;-80.1851332
-END:VEVENT
-BEGIN:VEVENT
 UID:madradiomiami100726@shotgun.live
 DTSTAMP:20261002T221826Z
 LAST-MODIFIED:20261002T221826Z
@@ -145,9 +94,9 @@ GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101026@shotgun.live
-DTSTAMP:20261004T041827Z
-LAST-MODIFIED:20261004T041827Z
-SEQUENCE:72
+DTSTAMP:20261004T101822Z
+LAST-MODIFIED:20261004T101822Z
+SEQUENCE:74
 DTSTART:20261011T010000Z
 DTEND:20261011T070000Z
 SUMMARY:III Points Satellite: Tian / Israel Sunshine / Pino / Puma
@@ -169,9 +118,9 @@ GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101426@shotgun.live
-DTSTAMP:20261004T041827Z
-LAST-MODIFIED:20261004T041827Z
-SEQUENCE:18
+DTSTAMP:20261004T101822Z
+LAST-MODIFIED:20261004T101822Z
+SEQUENCE:20
 DTSTART:20261015T010000Z
 DTEND:20261015T070000Z
 SUMMARY:III Points Satellite/Shyft Academy:Conflectuado/Scimmie/Diff
@@ -190,9 +139,9 @@ GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101526@shotgun.live
-DTSTAMP:20261004T041827Z
-LAST-MODIFIED:20261004T041827Z
-SEQUENCE:18
+DTSTAMP:20261004T101822Z
+LAST-MODIFIED:20261004T101822Z
+SEQUENCE:20
 DTSTART:20261016T010000Z
 DTEND:20261016T070000Z
 SUMMARY:III Points Satellite / Discosonido: Tian & Ennio Skoto
