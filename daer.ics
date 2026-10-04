@@ -8,33 +8,20 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:hardrock-202003@daer.miami-calendars
-DTSTAMP:20260921T200554Z
-LAST-MODIFIED:20260921T200554Z
+UID:19hz-4444656-djkhaled@daer.miami-calendars
+DTSTAMP:20261004T041827Z
+LAST-MODIFIED:20261004T041827Z
 SEQUENCE:0
 DTSTART:20261003T160000Z
-DTEND:20261003T220000Z
+DTEND:20261003T230000Z
 SUMMARY:DJ Khaled
-LOCATION:DAER Dayclub\, 1 Seminole Way\, Hollywood\, FL 33314
-DESCRIPTION:Tags: hip-hop\nAges: 21+\nhttps://tixr.com/e/202003\nhttps://ww
- w.tixr.com/groups/daerdayclubsouthflorida/events/dj-khaled-daer-dayclub-20
- 2003
-URL:https://tixr.com/e/202003
+LOCATION:Daer Dayclub\, Hollywood
+DESCRIPTION:Tags: hip-hop\nAges: 21+\nhttps://www.tixr.com/groups/daerdaycl
+ ubsouthflorida/events/dj-khaled-daer-dayclub-202003
+URL:https://www.tixr.com/groups/daerdayclubsouthflorida/events/dj-khaled-da
+ er-dayclub-202003
 STATUS:CONFIRMED
 CATEGORIES:hip-hop
-END:VEVENT
-BEGIN:VEVENT
-UID:hardrock-202029@daer.miami-calendars
-DTSTAMP:20260929T161809Z
-LAST-MODIFIED:20260929T161809Z
-SEQUENCE:2
-DTSTART:20261004T020000Z
-DTEND:20261004T080000Z
-SUMMARY:T.I.
-LOCATION:DAER Nightclub\, 1 Seminole Way\, Hollywood\, FL 33314
-DESCRIPTION:https://tixr.com/e/202029
-URL:https://tixr.com/e/202029
-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:hardrock-202007@daer.miami-calendars

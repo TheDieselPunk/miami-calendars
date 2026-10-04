@@ -8,21 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4444600-joeycash@boombox.miami-calendars
-DTSTAMP:20261003T161825Z
-LAST-MODIFIED:20261003T161825Z
-SEQUENCE:1
-DTSTART:20261003T020000Z
-DTEND:20261003T080000Z
-SUMMARY:Joey Cash
-LOCATION:The Boombox
-DESCRIPTION:Tags: house\nhttps://shotgun.live/en/events/joey-cash-the-boomb
- ox
-URL:https://shotgun.live/en/events/joey-cash-the-boombox
-STATUS:CONFIRMED
-CATEGORIES:house
-END:VEVENT
-BEGIN:VEVENT
 UID:machina-records-presents-circuit@shotgun.live
 DTSTAMP:20261002T221826Z
 LAST-MODIFIED:20261002T221826Z
@@ -94,25 +79,25 @@ GEO:25.7287781;-80.3169309
 END:VEVENT
 BEGIN:VEVENT
 UID:evanora-unlimited-north-america-tour-miami-fl@shotgun.live
-DTSTAMP:20260930T161812Z
-LAST-MODIFIED:20260930T161812Z
-SEQUENCE:1
-DTSTART:20261010T213000Z
-DTEND:20261011T040000Z
+DTSTAMP:20261004T041827Z
+LAST-MODIFIED:20261004T041827Z
+SEQUENCE:2
+DTSTART:20261011T020000Z
+DTEND:20261011T060000Z
 SUMMARY:Evanora Unlimited North America Tour Miami Fl
 LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
  \, USA
 DESCRIPTION:EVANORA UNLIMITED — NORTH AMERICA TOUR: MIAMI Evanora Unlimit
  ed makes their way to Miami for a special stop on the North America Tour\,
   presented by Talk Less Just Dance\, EQUINOX BOOKING \, say Tech & smile D
- OORS 6:00PM ALL AGES One night bringing together live performances + some 
- of our favorite artists from Miami and beyond. LINEUP: EVANORA UNLIMITED A
- NGUS GREEN GODS WISDOM NASKA ZNX MIA VENDETTA DEAD LOTUS JWELSET\nLineup: 
- Evanora:Unlimited\, Ladybug\, Gods Wisdom\, jwelset\, znx\, miavendetta\, 
- Dead Lotus\, Angus Scratch Green\nTags: edm\, experimental\, electro\nPres
- ented by: Talk Less Just Dance\nTickets: Early Bird $22.02\, second tier $
- 26.43\, third tier $35.24\, OFFER / FLASH DEAL $15\nhttps://shotgun.live/e
- n/events/evanora-unlimited-north-america-tour-miami-fl
+ OORS 10:00PM 18+ One night bringing together live performances + some of o
+ ur favorite artists from Miami and beyond. LINEUP: EVANORA UNLIMITED ANGUS
+  GREEN GODS WISDOM DEP4RTED ZNX MIA VENDETTA DEAD LOTUS JWELSET\nLineup: E
+ vanora:Unlimited\, Gods Wisdom\, jwelset\, znx\, miavendetta\, Dead Lotus
+ \, Angus Scratch Green\, dep4rted\nTags: edm\, experimental\, electro\nPre
+ sented by: Talk Less Just Dance\nTickets: Early Bird $22.02\, second tier 
+ $26.43\, third tier $35.24\, OFFER / FLASH DEAL $15 (sold out)\nhttps://sh
+ otgun.live/en/events/evanora-unlimited-north-america-tour-miami-fl
 URL:https://shotgun.live/en/events/evanora-unlimited-north-america-tour-mia
  mi-fl
 STATUS:CONFIRMED
@@ -155,9 +140,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rocky-horror-picture-show@shotgun.live
-DTSTAMP:20260927T041810Z
-LAST-MODIFIED:20260927T041810Z
-SEQUENCE:2
+DTSTAMP:20261004T041827Z
+LAST-MODIFIED:20261004T041827Z
+SEQUENCE:3
 DTSTART:20261023T000000Z
 DTEND:20261024T070000Z
 SUMMARY:Rocky Horror Picture Show
@@ -180,9 +165,9 @@ DESCRIPTION:DON’T DREAM IT BE IT 💥 The Boombox (@theboomboxmiami) and
  erous 💋 Follow @rockyhorrormiami for early tricks n’ treats and more 
  behind the scenes looks at The Rocky Horror Party Show Project!! See you t
  here\, mon chers 💌\nTickets: 11:45PM SHOWTIME EARLY BIRD $20 (sold out)
- \, 8PM SHOWTIME EARLY BIRD $20 (sold out)\, 11:45PM SHOWTIME GA $30\, 8PM 
- SHOWTIME GA $30\, 8PM SHOWTIME EARLY BIRD $20 (sold out)\, 8PM SHOWTIME GA
-  $30\nhttps://shotgun.live/en/events/rocky-horror-picture-show
+ \, 8PM SHOWTIME EARLY BIRD $20 (sold out)\, 11:45PM SHOWTIME GA $30 (sold 
+ out)\, 8PM SHOWTIME GA $30\, 8PM SHOWTIME EARLY BIRD $20 (sold out)\, 8PM 
+ SHOWTIME GA $30\nhttps://shotgun.live/en/events/rocky-horror-picture-show
 URL:https://shotgun.live/en/events/rocky-horror-picture-show
 STATUS:CONFIRMED
 GEO:25.7287781;-80.3169309
