@@ -8,17 +8,16 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a91ebccea5f2200012d4c71@club-space.miami-calendars
-DTSTAMP:20260929T041814Z
-LAST-MODIFIED:20260929T041814Z
-SEQUENCE:5
+UID:19hz-4444699-amehardtantoine@club-space.miami-calendars
+DTSTAMP:20261004T161823Z
+LAST-MODIFIED:20261004T161823Z
+SEQUENCE:0
 DTSTART:20261004T030000Z
 DTEND:20261004T180000Z
-SUMMARY:Âme (DJ)\, Hardt Antoine\, & Maceo Plex
-LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Âme\, Hardt Antoine\, Maceo Plex\, Cami di Marzo\, Aab
- el\nTags: tech house\nAges: 21+\nhttps://dice.fm/event/6a91ebccea5f2200012
- d4c71\nhttps://edmtrain.com/miami-fl/ame-hardt-antoine-533025
+SUMMARY:Ame\, Hardt Antoine
+LOCATION:Club Space
+DESCRIPTION:Tags: tech house\nAges: 21+\nhttps://dice.fm/event/6a91ebccea5f
+ 2200012d4c71
 URL:https://dice.fm/event/6a91ebccea5f2200012d4c71
 STATUS:CONFIRMED
 CATEGORIES:tech house
