@@ -78,12 +78,12 @@ GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101026@shotgun.live
-DTSTAMP:20261005T161824Z
-LAST-MODIFIED:20261005T161824Z
-SEQUENCE:84
+DTSTAMP:20261005T221830Z
+LAST-MODIFIED:20261005T221830Z
+SEQUENCE:86
 DTSTART:20261011T010000Z
 DTEND:20261011T070000Z
-SUMMARY:III Points Satellite: Tian / Israel Sunshine / Pino / Puma
+SUMMARY:Tian / Israel Sunshine / Pino / Puma
 LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
 DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
  ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
@@ -102,12 +102,12 @@ GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101426@shotgun.live
-DTSTAMP:20261005T161824Z
-LAST-MODIFIED:20261005T161824Z
-SEQUENCE:30
+DTSTAMP:20261005T221830Z
+LAST-MODIFIED:20261005T221830Z
+SEQUENCE:32
 DTSTART:20261015T010000Z
 DTEND:20261015T070000Z
-SUMMARY:III Points Satellite/Shyft Academy:Conflectuado/Scimmie/Diff
+SUMMARY:III Points Satellite Party / Shyft Academy Showcase
 LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
 DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
  ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
@@ -123,12 +123,12 @@ GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101526@shotgun.live
-DTSTAMP:20261005T161824Z
-LAST-MODIFIED:20261005T161824Z
-SEQUENCE:30
+DTSTAMP:20261005T221830Z
+LAST-MODIFIED:20261005T221830Z
+SEQUENCE:32
 DTSTART:20261016T010000Z
 DTEND:20261016T070000Z
-SUMMARY:III Points Satellite / Discosonido: Tian & Ennio Skoto
+SUMMARY:III Points Satellite Party: Tian & Ennio Skoto
 LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
 DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
  ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
@@ -144,12 +144,12 @@ GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101626@shotgun.live
-DTSTAMP:20261001T221830Z
-LAST-MODIFIED:20261001T221830Z
-SEQUENCE:0
+DTSTAMP:20261005T221830Z
+LAST-MODIFIED:20261005T221830Z
+SEQUENCE:1
 DTSTART:20261017T010000Z
 DTEND:20261017T070000Z
-SUMMARY:Kenny Jones / Leo Del Toro
+SUMMARY:III Points Satellite Party: Kenny Jones / Leo Del Toro
 LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
 DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
  ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
@@ -167,12 +167,12 @@ GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101726@shotgun.live
-DTSTAMP:20261001T221830Z
-LAST-MODIFIED:20261001T221830Z
-SEQUENCE:0
+DTSTAMP:20261005T221830Z
+LAST-MODIFIED:20261005T221830Z
+SEQUENCE:1
 DTSTART:20261018T010000Z
 DTEND:20261018T070000Z
-SUMMARY:My House My Rules: Israel Sunshine / Tomas Saenz
+SUMMARY:III Points Satellite Party: Israel Sunshine / Tomas Saenz
 LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
 DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
  ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
@@ -182,7 +182,8 @@ DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
   / FREE ENTRY LADIES UNTIL MIDNIGHT + 25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
  \nLineup: Israel Sunshine ARTISANO\nTags (guess): deep house\, house\nTick
  ets: AFTER 10 PM $20\, FREE LADIES RSVP BEFORE 12 AM Free\nhttps://shotgun
- .live/en/events/madradiomiami101726
+ .live/en/events/madradiomiami101726\nhttps://edmtrain.com/miami-fl/iii-poi
+ nts-satellite-iliad-531627
 URL:https://shotgun.live/en/events/madradiomiami101726
 STATUS:CONFIRMED
 CATEGORIES:deep house,house

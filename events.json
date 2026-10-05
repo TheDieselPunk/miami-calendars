@@ -269,6 +269,54 @@
    "url": "https://shotgun.live/en/events/lovenote-6"
   },
   {
+   "id": "shotgun:drop-out-of-life-with-gucci-handlesman",
+   "source": "shotgun",
+   "title": "Drop Out Of Life With Gucci Handlesman",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-10-07",
+   "start": "2026-10-08T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "post-punk",
+    "rock",
+    "alternative"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/drop-out-of-life-with-gucci-handlesman"
+  },
+  {
+   "id": "shotgun:open-mic-at-churchill-s-pub-16",
+   "source": "shotgun",
+   "title": "Open Mic : Every Wednesday",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-10-07",
+   "start": "2026-10-08T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "rock",
+    "punk",
+    "post-punk"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/open-mic-at-churchill-s-pub-16"
+  },
+  {
    "id": "19hz:4445076-dubplatesdragons",
    "source": "19hz+edmtrain",
    "title": "Dubplates & Dragons Wednesdayz",
@@ -504,6 +552,30 @@
    ]
   },
   {
+   "id": "shotgun:vocal-jukebox-every-thursday-12",
+   "source": "shotgun",
+   "title": "Vocal Jukebox : Every Thursday",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-10-08",
+   "start": "2026-10-09T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "rock",
+    "post-punk",
+    "punk"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/vocal-jukebox-every-thursday-12"
+  },
+  {
    "id": "dice:6aad6a7f4e3af20001d7ad92",
    "source": "19hz+dice",
    "title": "Mila Gama, Proletar, & Fiuza",
@@ -528,6 +600,30 @@
    "alt_urls": [
     "https://dice.fm/event/6aad6a7f4e3af20001d7ad92"
    ]
+  },
+  {
+   "id": "dice:6ac3df8fe902670001dd876a",
+   "source": "dice",
+   "title": "DRAKE NIGHT",
+   "artists": [],
+   "venue": "Kemistry",
+   "venue_slug": "kemistry",
+   "date": "2026-10-08",
+   "start": "2026-10-09T02:00:00+00:00",
+   "end": "2026-10-09T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "bass",
+    "dubstep"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ac3df8fe902670001dd876a",
+   "cancelled": false
   },
   {
    "id": "shotgun:superqueen-35",
@@ -959,7 +1055,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $50",
+   "price": "From $60",
    "genres": [
     "drum and bass"
    ],
@@ -1367,7 +1463,7 @@
   {
    "id": "dice:6a5a971f5dff640001733cb0",
    "source": "dice+edmtrain",
-   "title": "Rebecca Black: Exhibitionism on Tour",
+   "title": "Exhibitionism on Tour: Rebecca Black (DJ Set) & Blu DeTiger (DJ Set)",
    "artists": [
     "Rebecca Black"
    ],
@@ -1681,7 +1777,7 @@
   {
    "id": "shotgun:madradiomiami101026",
    "source": "19hz+edmtrain+shotgun",
-   "title": "III Points Satellite: Tian / Israel Sunshine / Pino / Puma",
+   "title": "Tian / Israel Sunshine / Pino / Puma",
    "artists": [
     "Tian",
     "Israel Sunshine",
@@ -1716,9 +1812,6 @@
    "alt_urls": [
     "https://shotgun.live/en/events/madradiomiami101026",
     "https://edmtrain.com/miami-fl/tian-israel-sunshine-540057"
-   ],
-   "also": [
-    "festivals"
    ]
   },
   {
@@ -2342,13 +2435,13 @@
    "cancelled": false
   },
   {
-   "id": "tablelist:f6601f8b0a7abeb1",
-   "source": "19hz+edmtrain+tablelist",
+   "id": "19hz:4445443-lukasfrank",
+   "source": "19hz+edmtrain",
    "title": "Lukas & Frank",
    "artists": [
     "Lukas & Frank"
    ],
-   "venue": "ZeyZey Miami",
+   "venue": "Zeyzey",
    "venue_slug": "zeyzey",
    "date": "2026-10-11",
    "start": "2026-10-11T21:00:00+00:00",
@@ -2362,11 +2455,10 @@
     "house"
    ],
    "genres_inferred": false,
-   "organizer": "",
+   "organizer": "Happy Hour",
    "description": "",
-   "url": "https://buy.tablelist.com/e/f6601f8b0a7abeb1",
+   "url": "https://ra.co/events/2513782",
    "alt_urls": [
-    "https://ra.co/events/2513782",
     "https://edmtrain.com/miami-fl/lukas-and-frank-536639"
    ]
   },
@@ -2545,6 +2637,30 @@
    "url": "https://shotgun.live/en/events/comedy-night-at-churchill-s-6"
   },
   {
+   "id": "shotgun:katseye-the-wild-world-tour-aftrrparty",
+   "source": "shotgun",
+   "title": "Katseye The Wild World Tour Aftrrparty",
+   "artists": [],
+   "venue": "Mama Tried",
+   "venue_slug": null,
+   "date": "2026-10-13",
+   "start": "2026-10-14T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "pop",
+    "dance",
+    "k-pop"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/katseye-the-wild-world-tour-aftrrparty"
+  },
+  {
    "id": "dice:6a85fa1255f47f0001c509a5",
    "source": "19hz+dice+edmtrain+tablelist+venue",
    "title": "Satellite: Neon Indian (DJ Set), Twin Shadow & Washed Out (DJ Set)",
@@ -2579,7 +2695,7 @@
   {
    "id": "shotgun:madradiomiami101426",
    "source": "shotgun",
-   "title": "III Points Satellite/Shyft Academy:Conflectuado/Scimmie/Diff",
+   "title": "III Points Satellite Party / Shyft Academy Showcase",
    "artists": [],
    "venue": "Mad Radio Miami",
    "venue_slug": "mad-radio",
@@ -2761,7 +2877,7 @@
   {
    "id": "shotgun:madradiomiami101526",
    "source": "shotgun",
-   "title": "III Points Satellite / Discosonido: Tian & Ennio Skoto",
+   "title": "III Points Satellite Party: Tian & Ennio Skoto",
    "artists": [],
    "venue": "Mad Radio Miami",
    "venue_slug": "mad-radio",
@@ -3166,7 +3282,7 @@
   {
    "id": "shotgun:madradiomiami101626",
    "source": "shotgun",
-   "title": "Kenny Jones / Leo Del Toro",
+   "title": "III Points Satellite Party: Kenny Jones / Leo Del Toro",
    "artists": [
     "Kenia",
     "Leo Del Toro"
@@ -3195,7 +3311,10 @@
     "latitude": 25.8462027,
     "longitude": -80.1851332
    },
-   "created": "2026-10-01T20:44:18.000Z"
+   "created": "2026-10-01T20:44:18.000Z",
+   "also": [
+    "festivals"
+   ]
   },
   {
    "id": "19hz:4445940-saknoel",
@@ -3864,16 +3983,9 @@
   },
   {
    "id": "19hz:4446036-iliadearwormnofo",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Iliad, Earworm, Noforms, Sana, Ember, & Miss Purple Shampoo",
-   "artists": [
-    "Iliad",
-    "Earworm",
-    "Noforms",
-    "SANA",
-    "EMBER",
-    "miss purple shampoo"
-   ],
+   "artists": [],
    "venue": "Las Rosas",
    "venue_slug": null,
    "date": "2026-10-17",
@@ -3887,15 +3999,12 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/k62pqq-iii-points-satellite-iliad-earworm-noforms-sana-ember-miss-purple-shampoo-17th-oct-las-rosas-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/iii-points-satellite-iliad-531627"
-   ]
+   "url": "https://dice.fm/event/k62pqq-iii-points-satellite-iliad-earworm-noforms-sana-ember-miss-purple-shampoo-17th-oct-las-rosas-miami-tickets"
   },
   {
    "id": "shotgun:madradiomiami101726",
-   "source": "shotgun",
-   "title": "My House My Rules: Israel Sunshine / Tomas Saenz",
+   "source": "edmtrain+shotgun",
+   "title": "III Points Satellite Party: Israel Sunshine / Tomas Saenz",
    "artists": [
     "Israel Sunshine ARTISANO"
    ],
@@ -3923,7 +4032,13 @@
     "latitude": 25.8462027,
     "longitude": -80.1851332
    },
-   "created": "2026-10-01T20:47:55.000Z"
+   "created": "2026-10-01T20:47:55.000Z",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/iii-points-satellite-iliad-531627"
+   ],
+   "also": [
+    "festivals"
+   ]
   },
   {
    "id": "tablelist:f760a46c86a093ab",
@@ -4900,13 +5015,13 @@
    "time_estimated": false,
    "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
    "ages": "",
-   "price": "$20.00",
+   "price": "$30.00",
    "genres": [],
    "genres_inferred": false,
    "organizer": "The Boombox Miami",
    "description": "DON’T DREAM IT BE IT 💥 The Boombox (@theboomboxmiami) and the talent of Miami-Dade (@rockyhorrormiami) have teamed up to create THE ROCKY HORROR PARTY SHOW, a multi-medium performance piece that immerses the audience into the salacious world of this beloved queer cult classic 🪭💫 WHEN: THURSDAY Oct 22 8PM FRIDAY Oct 23 8PM/12AM WHERE: The Boombox #yatusabes WEAR: Slut or Suit no exceptions!! Checking drip and IDs (18+) at the the door 🫵 2 nights, 3 shows you can bring your co-worker with bangs to, and one wild final MIDNIGHT ride you’re not going to want to miss!! Expect live music, cabaret, cinematic projections, y más 💫 There will be flashing lights, sudden sounds, and other practical effects designed to heighten your senses. Please check the ticket info for how you can best enjoy this invento of party show 🥳 SEATS AND TICKETS LIMITED BOOTS LET UR FRIENDS KNOWW Give yourself over to absolute pleasure this October darlings when the mood takes us we’re known to be quite generous 💋 Follow @rockyhorrormiami for early tricks n’ treats and more behind the scenes looks at The Rocky Horror Party Show Project!! See you there, mon chers 💌",
    "url": "https://shotgun.live/en/events/rocky-horror-picture-show",
-   "tickets": "11:45PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME EARLY BIRD $20, 11:45PM SHOWTIME GA $30 (sold out), 8PM SHOWTIME GA $30 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME GA $30 (sold out)",
+   "tickets": "11:45PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME GA $30 (sold out), 8PM SHOWTIME GA $30 (sold out), 11:45PM SHOWTIME GA $30, 8PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME GA $30 (sold out)",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -4972,7 +5087,7 @@
   },
   {
    "id": "19hz:4446520-hallowrave",
-   "source": "19hz",
+   "source": "19hz+edmtrain",
    "title": "Hallowrave",
    "artists": [],
    "venue": "Munchie's Pizza Club",
@@ -4988,7 +5103,10 @@
    "genres_inferred": false,
    "organizer": "Munchie's Pizza Club",
    "description": "",
-   "url": "https://www.eventbrite.com/e/1022-hallowrave-munchies-fort-lauderdale-tickets-2002559062062"
+   "url": "https://www.eventbrite.com/e/1022-hallowrave-munchies-fort-lauderdale-tickets-2002559062062",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/fort-lauderdale-hallowrave-542320"
+   ]
   },
   {
    "id": "19hz:4446526-anuelaabillboard",
@@ -5120,6 +5238,26 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/wassu-537380"
    ]
+  },
+  {
+   "id": "shotgun:rendezvous1-12",
+   "source": "shotgun",
+   "title": "Ctrl Room: Conobi, Royce, Shayoos, Sunny-D, + More",
+   "artists": [],
+   "venue": "Club M2 Miami",
+   "venue_slug": null,
+   "date": "2026-10-23",
+   "start": "2026-10-24T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$20.00",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/rendezvous1-12"
   },
   {
    "id": "hardrock:202034",
@@ -6087,6 +6225,26 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/chizzle-528571"
    ]
+  },
+  {
+   "id": "shotgun:despecho",
+   "source": "shotgun",
+   "title": "Despecho: Sonido Erotik X Pa’Lante",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-10-25",
+   "start": "2026-10-26T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.35",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/despecho"
   },
   {
    "id": "dice:6a9072b7977d0a0001bea010",
@@ -7983,6 +8141,30 @@
    ]
   },
   {
+   "id": "shotgun:subculture-1-v-1-dance-battle-at-respectables",
+   "source": "shotgun",
+   "title": "Subculture 1v1 Dance Battle At Respectables",
+   "artists": [],
+   "venue": "West Palm Beach",
+   "venue_slug": null,
+   "date": "2026-11-06",
+   "start": "2026-11-07T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$10.00",
+   "genres": [
+    "industrial",
+    "indie rock",
+    "rock"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/subculture-1-v-1-dance-battle-at-respectables"
+  },
+  {
    "id": "zeyzey:com-truise-06-nov",
    "source": "19hz+edmtrain+venue",
    "title": "Com Truise",
@@ -9303,6 +9485,37 @@
    "description": "",
    "url": "https://dice.fm/event/6a9c6f1a8e70340001656cb5",
    "cancelled": false
+  },
+  {
+   "id": "shotgun:i-liedtomyself-descry-iliad-see-you-next-ar-boombox-11-14",
+   "source": "shotgun",
+   "title": "I.Liedtomyself, Descry, Iliad, See You Next Ar Boombox 11/14",
+   "artists": [],
+   "venue": "The Boombox Miami",
+   "venue_slug": "boombox",
+   "date": "2026-11-14",
+   "start": "2026-11-14T23:00:00+00:00",
+   "end": "2026-11-15T03:00:00+00:00",
+   "time_estimated": false,
+   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
+   "ages": "",
+   "price": "$11.35",
+   "genres": [
+    "indie",
+    "rock"
+   ],
+   "genres_inferred": false,
+   "organizer": "Equinox Booking",
+   "description": "Equinox Booking Presents i.liedtomyself descry iliad see you next november 14th $10 online / $15 day of 6 pm all ages",
+   "url": "https://shotgun.live/en/events/i-liedtomyself-descry-iliad-see-you-next-ar-boombox-11-14",
+   "tickets": "General Admission $10",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.7287781,
+    "longitude": -80.3169309
+   },
+   "created": "2026-10-05T20:43:28.000Z"
   },
   {
    "id": "hardrock:206002",
@@ -13938,9 +14151,9 @@
    ]
   },
   {
-   "id": "dice:6a17a579b4fd860001a0bd2e",
-   "source": "19hz+dice+edmtrain",
-   "title": "INFECTED MUSHROOM",
+   "id": "19hz:4454776-infectedmushroom",
+   "source": "19hz+edmtrain",
+   "title": "Infected Mushroom",
    "artists": [
     "Infected Mushroom"
    ],
@@ -13950,9 +14163,9 @@
    "start": "2027-01-17T03:00:00+00:00",
    "end": "2027-01-17T09:00:00+00:00",
    "time_estimated": false,
-   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "address": "Fort Lauderdale",
    "ages": "18+",
-   "price": "From $26",
+   "price": "$26.45",
    "genres": [
     "electro house",
     "glitch",
@@ -13962,9 +14175,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6daxpq-infected-mushroom-16th-jan-kemistry-fort-lauderdale-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/6daxpq-infected-mushroom-16th-jan-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/infected-mushroom-511448"
    ]
   },

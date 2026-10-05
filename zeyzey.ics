@@ -123,18 +123,18 @@ STATUS:CONFIRMED
 CATEGORIES:electropop,pop
 END:VEVENT
 BEGIN:VEVENT
-UID:tablelist-f6601f8b0a7abeb1@zeyzey.miami-calendars
-DTSTAMP:20261001T161812Z
-LAST-MODIFIED:20261001T161812Z
-SEQUENCE:1
+UID:19hz-4445443-lukasfrank@zeyzey.miami-calendars
+DTSTAMP:20261005T221830Z
+LAST-MODIFIED:20261005T221830Z
+SEQUENCE:0
 DTSTART:20261011T210000Z
 DTEND:20261012T010000Z
 SUMMARY:Lukas & Frank
-LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: Lukas & Frank\nTags: afro house\, house\nAges: 21+\nhtt
- ps://buy.tablelist.com/e/f6601f8b0a7abeb1\nhttps://edmtrain.com/miami-fl/l
- ukas-and-frank-536639\nhttps://ra.co/events/2513782
-URL:https://buy.tablelist.com/e/f6601f8b0a7abeb1
+LOCATION:Zeyzey
+DESCRIPTION:Lineup: Lukas & Frank\nTags: afro house\, house\nPresented by: 
+ Happy Hour\nAges: 21+\nhttps://ra.co/events/2513782\nhttps://edmtrain.com/
+ miami-fl/lukas-and-frank-536639
+URL:https://ra.co/events/2513782
 STATUS:CONFIRMED
 CATEGORIES:afro house,house
 END:VEVENT

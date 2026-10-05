@@ -42,31 +42,6 @@ STATUS:CONFIRMED
 CATEGORIES:country,pop edm
 END:VEVENT
 BEGIN:VEVENT
-UID:madradiomiami101026@shotgun.live
-DTSTAMP:20261005T161824Z
-LAST-MODIFIED:20261005T161824Z
-SEQUENCE:85
-DTSTART:20261011T010000Z
-DTEND:20261011T070000Z
-SUMMARY:III Points Satellite: Tian / Israel Sunshine / Pino / Puma
-LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
-DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
- ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
-  our slick radio show serving up the latest tracks. Save the date and cath
-  the urban-chic experience at Mad Radio Miami. See you on the dance floor!
-  Come early\, stay late\, and let the night unfold FREE ENTRY BEFORE 10 PM
-  / FREE ENTRY LADIES UNTIL MIDNIGHT + 25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
- \nLineup: Tian\, Israel Sunshine\, Puma\nTags: deep house\, progressive ho
- use\, tech house\nPresented by: Mad Radio Miami\nTickets: AFTER 10 PM $20
- \, FREE LADIES RSVP BEFORE 12 AM Free\nAges: 21+\nhttps://shotgun.live/en/
- events/madradiomiami101026\nhttps://edmtrain.com/miami-fl/tian-israel-suns
- hine-540057
-URL:https://shotgun.live/en/events/madradiomiami101026
-STATUS:CONFIRMED
-CATEGORIES:deep house,progressive house,tech house
-GEO:25.8462027;-80.1851332
-END:VEVENT
-BEGIN:VEVENT
 UID:19hz-4445364-slowlifeshowcase@festivals.miami-calendars
 DTSTAMP:20260921T214009Z
 LAST-MODIFIED:20260921T214009Z
@@ -83,12 +58,12 @@ CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101426@shotgun.live
-DTSTAMP:20261005T161824Z
-LAST-MODIFIED:20261005T161824Z
-SEQUENCE:31
+DTSTAMP:20261005T221830Z
+LAST-MODIFIED:20261005T221830Z
+SEQUENCE:33
 DTSTART:20261015T010000Z
 DTEND:20261015T070000Z
-SUMMARY:III Points Satellite/Shyft Academy:Conflectuado/Scimmie/Diff
+SUMMARY:III Points Satellite Party / Shyft Academy Showcase
 LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
 DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
  ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
@@ -105,12 +80,12 @@ GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101526@shotgun.live
-DTSTAMP:20261005T161824Z
-LAST-MODIFIED:20261005T161824Z
-SEQUENCE:31
+DTSTAMP:20261005T221830Z
+LAST-MODIFIED:20261005T221830Z
+SEQUENCE:33
 DTSTART:20261016T010000Z
 DTEND:20261016T070000Z
-SUMMARY:III Points Satellite / Discosonido: Tian & Ennio Skoto
+SUMMARY:III Points Satellite Party: Tian & Ennio Skoto
 LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
 DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
  ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
@@ -175,6 +150,29 @@ URL:https://iiipoints.frontgatetickets.com/?utm_source=Promoters&utm_medium
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:madradiomiami101626@shotgun.live
+DTSTAMP:20261005T221830Z
+LAST-MODIFIED:20261005T221830Z
+SEQUENCE:2
+DTSTART:20261017T010000Z
+DTEND:20261017T070000Z
+SUMMARY:III Points Satellite Party: Kenny Jones / Leo Del Toro
+LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
+DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
+ ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
+  our slick radio show serving up the latest tracks. Save the date and cath
+  the urban-chic experience at Mad Radio Miami. See you on the dance floor!
+  Come early\, stay late\, and let the night unfold FREE ENTRY BEFORE 10 PM
+  / FREE ENTRY LADIES UNTIL MIDNIGHT +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
+ \nLineup: Kenia\, Leo Del Toro\nTags (guess): deep house\, house\nPresente
+ d by: Mad Radio Miami\nTickets: AFTER 10 PM $20\, FREE LADIES RSVP BEFORE 
+ 12 AM Free\nhttps://shotgun.live/en/events/madradiomiami101626
+URL:https://shotgun.live/en/events/madradiomiami101626
+STATUS:CONFIRMED
+CATEGORIES:deep house,house
+GEO:25.8462027;-80.1851332
+END:VEVENT
+BEGIN:VEVENT
 UID:edmtrain-434706@festivals.miami-calendars
 DTSTAMP:20260922T005009Z
 LAST-MODIFIED:20260922T005009Z
@@ -202,6 +200,30 @@ DESCRIPTION:Lineup: Four Tet\, KETTAMA\, Blood Orange\, Fakemink\, Underwor
 URL:https://iiipoints.frontgatetickets.com/?utm_source=Promoters&utm_medium
  =edmtrain&utm_campaign=edmtrain
 STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:madradiomiami101726@shotgun.live
+DTSTAMP:20261005T221830Z
+LAST-MODIFIED:20261005T221830Z
+SEQUENCE:2
+DTSTART:20261018T010000Z
+DTEND:20261018T070000Z
+SUMMARY:III Points Satellite Party: Israel Sunshine / Tomas Saenz
+LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
+DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
+ ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
+  our slick radio show serving up the latest tracks. Save the date and cath
+  the urban-chic experience at Mad Radio Miami. See you on the dance floor!
+  Come early\, stay late\, and let the night unfold FREE ENTRY BEFORE 10 PM
+  / FREE ENTRY LADIES UNTIL MIDNIGHT + 25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
+ \nLineup: Israel Sunshine ARTISANO\nTags (guess): deep house\, house\nPres
+ ented by: Mad Radio Miami\nTickets: AFTER 10 PM $20\, FREE LADIES RSVP BEF
+ ORE 12 AM Free\nhttps://shotgun.live/en/events/madradiomiami101726\nhttps:
+ //edmtrain.com/miami-fl/iii-points-satellite-iliad-531627
+URL:https://shotgun.live/en/events/madradiomiami101726
+STATUS:CONFIRMED
+CATEGORIES:deep house,house
+GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4446108-satellitemaccabi@festivals.miami-calendars

@@ -72,9 +72,9 @@
   "slug": "kemistry",
   "name": "Kemistry (Fort Lauderdale)",
   "file": "kemistry.ics",
-  "events": 28,
+  "events": 29,
   "estimated_times": 1,
-  "next": "2026-10-09",
+  "next": "2026-10-08",
   "sources": [
    "19hz",
    "dice",
@@ -86,7 +86,7 @@
   "slug": "boombox",
   "name": "The Boombox Miami",
   "file": "boombox.ics",
-  "events": 10,
+  "events": 11,
   "estimated_times": 0,
   "next": "2026-10-04",
   "sources": [
@@ -172,7 +172,7 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 42,
+  "events": 43,
   "estimated_times": 20,
   "next": "2026-10-09",
   "sources": [
