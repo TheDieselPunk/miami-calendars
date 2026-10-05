@@ -45,11 +45,9 @@
   },
   {
    "id": "19hz:4444776-ellaromand",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Ella Romand",
-   "artists": [
-    "Ella Romand"
-   ],
+   "artists": [],
    "venue": "Upside",
    "venue_slug": null,
    "date": "2026-10-04",
@@ -66,18 +64,13 @@
    "genres_inferred": false,
    "organizer": "Apex",
    "description": "",
-   "url": "https://posh.vip/e/ella-romand",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/ella-romand-537702"
-   ]
+   "url": "https://posh.vip/e/ella-romand"
   },
   {
    "id": "19hz:4444783-livitup",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Livitup",
-   "artists": [
-    "Livitup"
-   ],
+   "artists": [],
    "venue": "E11even",
    "venue_slug": null,
    "date": "2026-10-04",
@@ -96,20 +89,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://speakeasygo.com/event/EVE-AKBM9R",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/livitup-529029"
-   ]
+   "url": "https://speakeasygo.com/event/EVE-AKBM9R"
   },
   {
    "id": "19hz:4444795-jaydelys",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Jay De Lys",
-   "artists": [
-    "Jay de Lys",
-    "Ms. Mada",
-    "Alezsandro"
-   ],
+   "artists": [],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
    "date": "2026-10-04",
@@ -127,35 +113,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/dk7l9o-jay-de-lys-4th-oct-floyd-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/jay-de-lys-ms-mada-532659"
-   ]
-  },
-  {
-   "id": "edmtrain:541012",
-   "source": "edmtrain",
-   "title": "Kofla",
-   "artists": [
-    "Kofla"
-   ],
-   "venue": "AIRE Miami",
-   "venue_slug": null,
-   "date": "2026-10-04",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "111 NE 20th St, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://posh.vip/e/humans-alike-46?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/kofla-541012"
-   ]
+   "url": "https://dice.fm/event/dk7l9o-jay-de-lys-4th-oct-floyd-miami-miami-tickets"
   },
   {
    "id": "19hz:4444879-atrain",
@@ -1671,6 +1629,26 @@
    "description": "",
    "url": "https://dice.fm/event/6aa1904c7b78cf000187096e",
    "cancelled": false
+  },
+  {
+   "id": "shotgun:hexed",
+   "source": "shotgun",
+   "title": "Hexed (18+)",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-10-10",
+   "start": "2026-10-10T22:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.35",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/hexed"
   },
   {
    "id": "tablelist:be4b8785c1b327f9",
@@ -7850,6 +7828,29 @@
    "url": "https://shotgun.live/en/events/11-04-peace-talks-pgh-at-churchills-pub"
   },
   {
+   "id": "zeyzey:rae-sada-b2b-ape-drums-05-nov",
+   "source": "venue",
+   "title": "Rae Sada b2b Ape Drums",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-11-05",
+   "start": "2026-11-06T00:00:00+00:00",
+   "end": "2026-11-06T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "dance/electronic"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/rae-sada-b2b-ape-drums-05-nov",
+   "cancelled": false
+  },
+  {
    "id": "zeyzey:the-floozies-05-nov",
    "source": "19hz+edmtrain+venue",
    "title": "The Floozies",
@@ -9787,6 +9788,29 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/george-clanton-527103"
    ]
+  },
+  {
+   "id": "zeyzey:vicente-garcia-second-show-18-nov",
+   "source": "venue",
+   "title": "Vicente Garcia (Second Show)",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-11-18",
+   "start": "2026-11-19T01:00:00+00:00",
+   "end": "2026-11-19T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "latin"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/vicente-garcia-second-show-18-nov",
+   "cancelled": false
   },
   {
    "id": "zeyzey:vicente-garcia-19-nov",
@@ -12749,7 +12773,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "",
+   "price": "From $75",
    "genres": [
     "progressive house",
     "tech house"

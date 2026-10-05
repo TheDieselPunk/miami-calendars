@@ -9,17 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4444795-jaydelys@floyd.miami-calendars
-DTSTAMP:20261005T041818Z
-LAST-MODIFIED:20261005T041818Z
-SEQUENCE:0
+DTSTAMP:20261005T161824Z
+LAST-MODIFIED:20261005T161824Z
+SEQUENCE:1
 DTSTART:20261005T030000Z
 DTEND:20261005T090000Z
 SUMMARY:Jay De Lys
 LOCATION:Floyd Miami
-DESCRIPTION:Lineup: Jay de Lys\, Ms. Mada\, Alezsandro\nTags: minimal\, tec
- h house\, techno\nAges: 21+\nhttps://dice.fm/event/dk7l9o-jay-de-lys-4th-o
- ct-floyd-miami-miami-tickets\nhttps://edmtrain.com/miami-fl/jay-de-lys-ms-
- mada-532659
+DESCRIPTION:Tags: minimal\, tech house\, techno\nAges: 21+\nhttps://dice.fm
+ /event/dk7l9o-jay-de-lys-4th-oct-floyd-miami-miami-tickets
 URL:https://dice.fm/event/dk7l9o-jay-de-lys-4th-oct-floyd-miami-miami-ticke
  ts
 STATUS:CONFIRMED

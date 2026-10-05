@@ -464,6 +464,21 @@ URL:https://calendar.zeyzeymiami.com/shows/scattrbrain-03-nov
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-rae-sada-b2b-ape-drums-05-nov@zeyzey.miami-calendars
+DTSTAMP:20261005T161824Z
+LAST-MODIFIED:20261005T161824Z
+SEQUENCE:0
+DTSTART:20261106T000000Z
+DTEND:20261106T060000Z
+SUMMARY:Rae Sada b2b Ape Drums
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
+ rae-sada-b2b-ape-drums-05-nov
+URL:https://calendar.zeyzeymiami.com/shows/rae-sada-b2b-ape-drums-05-nov
+STATUS:CONFIRMED
+CATEGORIES:dance/electronic
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-the-floozies-05-nov@zeyzey.miami-calendars
 DTSTAMP:20260921T235357Z
 LAST-MODIFIED:20260921T235357Z
@@ -667,6 +682,22 @@ DESCRIPTION:Lineup: Club 1BD\, DJ Hunny Bee\, Pressure Point\, Spinelli\nTa
 URL:https://dice.fm/event/6a0eff0b5ffbf40001c9044c
 STATUS:CONFIRMED
 CATEGORIES:hip-hop/rap
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-vicente-garcia-second-show-18-nov@zeyzey.miami-calendars
+DTSTAMP:20261005T161824Z
+LAST-MODIFIED:20261005T161824Z
+SEQUENCE:0
+DTSTART:20261119T010000Z
+DTEND:20261119T060000Z
+SUMMARY:Vicente Garcia (Second Show)
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: latin\nhttps://calendar.zeyzeymiami.com/shows/vicente-gar
+ cia-second-show-18-nov
+URL:https://calendar.zeyzeymiami.com/shows/vicente-garcia-second-show-18-no
+ v
+STATUS:CONFIRMED
+CATEGORIES:latin
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-vicente-garcia-19-nov@zeyzey.miami-calendars
