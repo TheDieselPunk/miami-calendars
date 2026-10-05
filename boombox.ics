@@ -8,39 +8,20 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4444696-circuitdjmarfox@boombox.miami-calendars
-DTSTAMP:20261004T161823Z
-LAST-MODIFIED:20261004T161823Z
-SEQUENCE:1
-DTSTART:20261004T020000Z
-DTEND:20261004T080000Z
-SUMMARY:Circuit - DJ Marfox
-LOCATION:The Boombox
-DESCRIPTION:Tags: afro house\, afrobeats\nPresented by: Machina Records\nAg
- es: 18+\nhttps://shotgun.live/en/events/machina-records-presents-circuit
-URL:https://shotgun.live/en/events/machina-records-presents-circuit
-STATUS:CONFIRMED
-CATEGORIES:afro house,afrobeats
-END:VEVENT
-BEGIN:VEVENT
-UID:pon-di-box@shotgun.live
-DTSTAMP:20261002T221826Z
-LAST-MODIFIED:20261002T221826Z
-SEQUENCE:1
+UID:19hz-4444776-pondibox7zipaphe@boombox.miami-calendars
+DTSTAMP:20261005T041818Z
+LAST-MODIFIED:20261005T041818Z
+SEQUENCE:0
 DTSTART:20261004T220000Z
 DTEND:20261005T040000Z
-SUMMARY:Pon DI Box
-LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
- \, USA
-DESCRIPTION:Escape Room & The Boombox join forces Two Stages 6pm-12am $5 Pr
- e-Sale $10 at the Door 21+ Only Must bring physical ID's Photos of ID's wo
- nt be accepted Rain or Shine\nTags: cumbia\, dancehall\, dembow\, reggae\,
-  reggaeton\nTickets: Pre-Sale $5\nAges: 21+\nhttps://shotgun.live/en/event
- s/pon-di-box
+SUMMARY:Pon Di Box: 7.Zip\, Aphex Twink\, Blayd\, Guacharo\, Grue5Ome\, Lad
+ y Narcisse\, Mister Lo\, Noxheaven\, Santo\, Sucia!
+LOCATION:The Boombox
+DESCRIPTION:Tags: dembow\, reggaeton\nAges: 21+\nhttps://shotgun.live/en/ev
+ ents/pon-di-box
 URL:https://shotgun.live/en/events/pon-di-box
 STATUS:CONFIRMED
-CATEGORIES:cumbia,dancehall,dembow,reggae,reggaeton
-GEO:25.7287781;-80.3169309
+CATEGORIES:dembow,reggaeton
 END:VEVENT
 BEGIN:VEVENT
 UID:quick-to-judge-at-the-boombox-10-9@shotgun.live
@@ -125,9 +106,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rocky-horror-picture-show@shotgun.live
-DTSTAMP:20261004T101822Z
-LAST-MODIFIED:20261004T101822Z
-SEQUENCE:4
+DTSTAMP:20261005T041818Z
+LAST-MODIFIED:20261005T041818Z
+SEQUENCE:5
 DTSTART:20261023T000000Z
 DTEND:20261024T070000Z
 SUMMARY:Rocky Horror Picture Show
@@ -150,10 +131,10 @@ DESCRIPTION:DON’T DREAM IT BE IT 💥 The Boombox (@theboomboxmiami) and
  erous 💋 Follow @rockyhorrormiami for early tricks n’ treats and more 
  behind the scenes looks at The Rocky Horror Party Show Project!! See you t
  here\, mon chers 💌\nTickets: 11:45PM SHOWTIME EARLY BIRD $20 (sold out)
- \, 8PM SHOWTIME EARLY BIRD $20 (sold out)\, 11:45PM SHOWTIME GA $30 (sold 
- out)\, 8PM SHOWTIME GA $30 (sold out)\, 8PM SHOWTIME EARLY BIRD $20 (sold 
- out)\, 8PM SHOWTIME GA $30 (sold out)\nhttps://shotgun.live/en/events/rock
- y-horror-picture-show
+ \, 8PM SHOWTIME EARLY BIRD $20 (sold out)\, 11:45PM SHOWTIME EARLY BIRD $2
+ 0\, 11:45PM SHOWTIME GA $30 (sold out)\, 8PM SHOWTIME GA $30 (sold out)\, 
+ 8PM SHOWTIME EARLY BIRD $20 (sold out)\, 8PM SHOWTIME GA $30 (sold out)\nh
+ ttps://shotgun.live/en/events/rocky-horror-picture-show
 URL:https://shotgun.live/en/events/rocky-horror-picture-show
 STATUS:CONFIRMED
 GEO:25.7287781;-80.3169309
