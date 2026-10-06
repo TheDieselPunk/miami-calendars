@@ -258,15 +258,16 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abbd7cb208dff0001ff466c@floyd.miami-calendars
-DTSTAMP:20261006T041839Z
-LAST-MODIFIED:20261006T041839Z
-SEQUENCE:1
+DTSTAMP:20261006T221830Z
+LAST-MODIFIED:20261006T221830Z
+SEQUENCE:2
 DTSTART:20261114T040000Z
 DTEND:20261114T100000Z
 SUMMARY:Tre Reynolds + Ferra Black
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6abbd7cb208
- dff0001ff466c
+DESCRIPTION:Lineup: Ferra Black\nTags (guess): house\, techno\nhttps://dice
+ .fm/event/6abbd7cb208dff0001ff466c\nhttps://edmtrain.com/miami-fl/ferra-bl
+ ack-542893
 URL:https://dice.fm/event/6abbd7cb208dff0001ff466c
 STATUS:CONFIRMED
 CATEGORIES:house,techno

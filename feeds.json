@@ -3,7 +3,7 @@
   "slug": "club-space",
   "name": "Club Space",
   "file": "club-space.ics",
-  "events": 19,
+  "events": 20,
   "estimated_times": 0,
   "next": "2026-10-09",
   "sources": [
@@ -131,7 +131,7 @@
   "slug": "daer",
   "name": "DAER (Hard Rock Hollywood)",
   "file": "daer.ics",
-  "events": 56,
+  "events": 57,
   "estimated_times": 1,
   "next": "2026-10-09",
   "sources": [

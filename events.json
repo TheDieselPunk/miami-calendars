@@ -219,7 +219,7 @@
   {
    "id": "shotgun:madradiomiami100726",
    "source": "19hz+edmtrain+shotgun",
-   "title": "Seb Coba / Rudy M & Fanchi / Face / Reydel / Alex Meadows",
+   "title": "Seb Coba / Rudy M / Fanchi & Facee / Reydel / Alex Meadows",
    "artists": [
     "Reydel",
     "Alex Meadows"
@@ -348,9 +348,14 @@
   },
   {
    "id": "zeyzey:degs-craze-shinobi-b2b-stereotype-08-oct",
-   "source": "19hz+venue",
+   "source": "19hz+edmtrain+venue",
    "title": "DEGS, Craze & Shinobi b2b Stereotype",
-   "artists": [],
+   "artists": [
+    "Degs",
+    "Craze",
+    "Shinobi",
+    "Stereotype"
+   ],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-10-08",
@@ -369,7 +374,8 @@
    "url": "https://calendar.zeyzeymiami.com/shows/degs-craze-shinobi-b2b-stereotype-08-oct",
    "cancelled": false,
    "alt_urls": [
-    "https://ra.co/events/2545867"
+    "https://ra.co/events/2545867",
+    "https://edmtrain.com/miami-fl/degs-craze-542957"
    ]
   },
   {
@@ -526,6 +532,33 @@
    "url": "https://shotgun.live/en/events/loofy-sable-october-8th",
    "alt_urls": [
     "https://dice.fm/event/wwk9wg-2mrw-frqnc-moji-presents-loofy-8th-oct-sable-miami-miami-tickets"
+   ]
+  },
+  {
+   "id": "edmtrain:542830",
+   "source": "edmtrain",
+   "title": "Dub X redbar: Reydel, the feds, Santos",
+   "artists": [
+    "Reydel",
+    "the feds",
+    "Santos"
+   ],
+   "venue": "RedBar",
+   "venue_slug": null,
+   "date": "2026-10-08",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "52 SW 10th St, Miami, FL 33130, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/dub-x-red-bar-brickell?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/dub-x-redbar-reydel-542830"
    ]
   },
   {
@@ -1188,7 +1221,7 @@
    "time_estimated": false,
    "address": "353 Northeast 61st Street, Miami, FL 33137, USA",
    "ages": "21+",
-   "price": "$28.38",
+   "price": "$34.05",
    "genres": [
     "afro house",
     "house",
@@ -1200,7 +1233,7 @@
    "organizer": "Solmates Miami",
    "description": "Solmates brings together two European producers whose work meets at the intersection of melody, groove, and late-night dance music. Built around a shared appreciation for emotional, forward-thinking electronic music, Solmates creates a space where established sounds and new perspectives can meet on the dancefloor. Stockholm-born Fahlberg has built his sound around deep basslines, hypnotic textures, and what he describes as “Nordic Melodic” — a Scandinavian sense of atmosphere shaped through contemporary house and techno. His releases have appeared on labels including Diynamic, Watergate, Siamese, MoBlack, and When Stars Align, with support from Solomun, Keinemusik, Black Coffee, and Pete Tong. Tracks such as “Somebody” and “Chaka” have reached major Beatport chart positions, while recent work includes collaborations with Layer J, Argødes, and Jeremy Olander, alongside an official remix for RÜFÜS DU SOL. Joining him is Paris- and London-based Orsay, a producer whose melodic house sound is informed by an early classical background. Having studied piano from the age of six and trained at a music conservatory, Orsay brings that foundation into productions built around rhythm, emotion, and melody. His music has been released through Ninja Tune, Siamese, Universal Music, and Kitsuné, with tracks including “Mind Off,” “Amado,” and “Magik” receiving support from Adriatique, Solomun, WhoMadeWho, Carlita, and RÜFÜS DU SOL. In 2025, he took his sets across Europe, the UAE, and South America. Together, Fahlberg and Orsay represent the sound and spirit behind Solmates: a meeting point for artists and audiences drawn to melodic, groove-led electronic music, with a focus on connection, discovery, and the energy of the night. Rooted in Europe but looking outward, Solmates brings together different musical backgrounds and perspectives under one shared atmosphere — where melody meets movement and the right records create lasting moments. 21+ event",
    "url": "https://shotgun.live/en/events/solmates-season-opener-ft-fahlberg-orsay-more",
-   "tickets": "VIP (1st Release) $50, BUY 3 GET 1 FREE (1st Release) $75, Entry before 11 PM $10 (sold out), Entry Anytime (1st Release) $25",
+   "tickets": "Entry Anytime (2nd Release) $30, VIP (1st Release) $50, BUY 3 GET 1 FREE (1st Release) $75, Entry before 11 PM $10 (sold out), Entry Anytime (1st Release) $25 (sold out)",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -1584,9 +1617,13 @@
   },
   {
    "id": "shotgun:miami-synth-meet-3",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Miami Synth Meet 3",
-   "artists": [],
+   "artists": [
+    "Nosivel",
+    "Christopher Lombardo",
+    "GrayGhost"
+   ],
    "venue": "Churchill's Pub",
    "venue_slug": null,
    "date": "2026-10-10",
@@ -1604,7 +1641,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/miami-synth-meet-3"
+   "url": "https://shotgun.live/en/events/miami-synth-meet-3",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/miami-synth-meet-3-nosivel-542862"
+   ]
   },
   {
    "id": "shotgun:intriga-x-boho-house-day-party-vol-2",
@@ -1927,7 +1967,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $85",
+   "price": "$75",
    "genres": [
     "big room house",
     "trance"
@@ -3398,9 +3438,12 @@
   },
   {
    "id": "19hz:4445940-ravefurrestmiami",
-   "source": "19hz",
+   "source": "19hz+edmtrain",
    "title": "Ravefurrest Miami: passengerprincess, Sixwing, Gaterror, Demifiend, kittenhouse, Dateline",
-   "artists": [],
+   "artists": [
+    "Demifiend",
+    "Kittenhouse"
+   ],
    "venue": "The Boombox",
    "venue_slug": "boombox",
    "date": "2026-10-16",
@@ -3414,7 +3457,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://ra.co/events/2539489"
+   "url": "https://ra.co/events/2539489",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/demifiend-kittenhouse-542910"
+   ]
   },
   {
    "id": "19hz:4445944-thepicklegrandop",
@@ -3466,7 +3512,7 @@
   {
    "id": "hardrock:202032",
    "source": "venue",
-   "title": "DAER Nightclub",
+   "title": "Dalvin La Melodia with Alex Sensation",
    "artists": [],
    "venue": "DAER Nightclub",
    "venue_slug": "daer",
@@ -3482,7 +3528,7 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/202032",
-   "generic_title": true
+   "generic_title": false
   },
   {
    "id": "19hz:4445944-chrisschwarzwald",
@@ -5651,6 +5697,30 @@
    ]
   },
   {
+   "id": "dice:6ac536f590411600012213de",
+   "source": "dice",
+   "title": "Race To Space",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2026-10-24",
+   "start": "2026-10-24T11:00:00+00:00",
+   "end": "2026-10-24T15:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ac536f590411600012213de",
+   "cancelled": false
+  },
+  {
    "id": "hardrock:206563",
    "source": "19hz+venue",
    "title": "Doomsday",
@@ -5687,7 +5757,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$16.88",
+   "price": "$11.25",
    "genres": [
     "dance",
     "techno",
@@ -6669,6 +6739,26 @@
    "cancelled": false
   },
   {
+   "id": "shotgun:international-house-party-halloween",
+   "source": "shotgun",
+   "title": "International House Party Halloween",
+   "artists": [],
+   "venue": "Miami, United States 🇺🇸",
+   "venue_slug": null,
+   "date": "2026-10-29",
+   "start": "2026-10-30T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$16.95",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/international-house-party-halloween"
+  },
+  {
    "id": "edmtrain:541995",
    "source": "edmtrain",
    "title": "Joel Corry",
@@ -6840,6 +6930,27 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/the-dancing-dead-halloween-extravaganza-542613"
    ]
+  },
+  {
+   "id": "hardrock:210188",
+   "source": "venue",
+   "title": "Alex Sensation",
+   "artists": [],
+   "venue": "DAER Dayclub Afterdark",
+   "venue_slug": "daer",
+   "date": "2026-10-30",
+   "start": "2026-10-31T02:00:00+00:00",
+   "end": "2026-10-31T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "1 Seminole Way, Hollywood, FL 33314",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://tixr.com/e/210188",
+   "generic_title": false
   },
   {
    "id": "hardrock:204541",
@@ -8000,6 +8111,31 @@
    "alt_urls": [
     "https://dice.fm/event/6a91f7bca0dc520001e02d08",
     "https://edmtrain.com/miami-fl/halloweek-dixon-531562"
+   ]
+  },
+  {
+   "id": "edmtrain:542974",
+   "source": "edmtrain",
+   "title": "Massane",
+   "artists": [
+    "Massane"
+   ],
+   "venue": "Upside",
+   "venue_slug": null,
+   "date": "2026-11-01",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "59 NW 28th St, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://ra.co/events/2551218",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/massane-542974"
    ]
   },
   {
@@ -9441,9 +9577,11 @@
   },
   {
    "id": "dice:6abbd7cb208dff0001ff466c",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "Tre Reynolds + Ferra Black",
-   "artists": [],
+   "artists": [
+    "Ferra Black"
+   ],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
    "date": "2026-11-13",
@@ -9461,7 +9599,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6abbd7cb208dff0001ff466c",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/ferra-black-542893"
+   ]
   },
   {
    "id": "dice:6a9050c13e2dcd00013c2e7e",
@@ -12726,9 +12867,13 @@
   },
   {
    "id": "shotgun:lee-foss-art-week-miami",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Lee Foss, Vito (Uk), Andrea Quintero & More (Art Week Miami)",
-   "artists": [],
+   "artists": [
+    "Lee Foss",
+    "Vito (UK)",
+    "Andrea Quintero"
+   ],
    "venue": "EDGE MIAMI",
    "venue_slug": null,
    "date": "2026-12-04",
@@ -12745,7 +12890,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/lee-foss-art-week-miami"
+   "url": "https://shotgun.live/en/events/lee-foss-art-week-miami",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/lee-foss-vito-uk-542873"
+   ]
   },
   {
    "id": "dice:6ab44533af1ad900014f7295",
@@ -12976,9 +13124,11 @@
   },
   {
    "id": "shotgun:pendulum-steve-lawler-art-week-miami",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Pendulum By Steve Lawler (Art Week Miami)",
-   "artists": [],
+   "artists": [
+    "Steve Lawler"
+   ],
    "venue": "EDGE MIAMI",
    "venue_slug": null,
    "date": "2026-12-05",
@@ -12989,14 +13139,17 @@
    "ages": "",
    "price": "",
    "genres": [
-    "progressive house",
+    "afro house",
     "house",
-    "afro house"
+    "progressive house"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/pendulum-steve-lawler-art-week-miami"
+   "url": "https://shotgun.live/en/events/pendulum-steve-lawler-art-week-miami",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/steve-lawler-542874"
+   ]
   },
   {
    "id": "dice:6aa82e05fcb1030001a9cd65",
@@ -13924,9 +14077,11 @@
   },
   {
    "id": "zeyzey:lukas-frank-11-oct",
-   "source": "venue",
+   "source": "edmtrain+venue",
    "title": "Lukas & Frank",
-   "artists": [],
+   "artists": [
+    "Lukas & Frank"
+   ],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-12-20",
@@ -13941,7 +14096,10 @@
    "organizer": "",
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/lukas-frank-11-oct",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/lukas-and-frank-542965"
+   ]
   },
   {
    "id": "hardrock:207839",
