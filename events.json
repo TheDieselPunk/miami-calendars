@@ -31,28 +31,6 @@
    ]
   },
   {
-   "id": "shotgun:miami-jazz-jam-every-monday-16",
-   "source": "shotgun",
-   "title": "Miami Jazz Jam Every Monday",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-10-05",
-   "start": "2026-10-06T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [
-    "jazz"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/miami-jazz-jam-every-monday-16"
-  },
-  {
    "id": "19hz:4444975-crespo",
    "source": "19hz+edmtrain",
    "title": "Crespo",
@@ -1634,6 +1612,39 @@
    "url": "https://shotgun.live/en/events/miami-synth-meet-3"
   },
   {
+   "id": "shotgun:intriga-x-boho-house-day-party-vol-2",
+   "source": "edmtrain+shotgun",
+   "title": "Intriga X Boho House: Day Party Vol. 2",
+   "artists": [
+    "Santelises",
+    "Shelley De Vos",
+    "goa 98",
+    "luneye",
+    "Marie Posa"
+   ],
+   "venue": "BOHO House Miami",
+   "venue_slug": null,
+   "date": "2026-10-10",
+   "start": "2026-10-10T20:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$34.05",
+   "genres": [
+    "afro house",
+    "deep house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/intriga-x-boho-house-day-party-vol-2",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/intriga-x-boho-house-day-party-vol-2-santelises-542744"
+   ]
+  },
+  {
    "id": "19hz:4445344-benjaminlloyd",
    "source": "19hz+edmtrain",
    "title": "Benjamin Lloyd",
@@ -2279,35 +2290,6 @@
    "url": "https://posh.vip/e/peter-guzman-b2b-terranova-all-night-long?t=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/peter-guzman-terranova-541817"
-   ]
-  },
-  {
-   "id": "edmtrain:542744",
-   "source": "edmtrain",
-   "title": "INTRIGA x BOHO House - Day Party Vol. 2: Santelises, Shelley De Vos, goa 98, luneye, Marie Posa",
-   "artists": [
-    "Santelises",
-    "Shelley De Vos",
-    "goa 98",
-    "luneye",
-    "Marie Posa"
-   ],
-   "venue": "BOHO Wynwood",
-   "venue_slug": null,
-   "date": "2026-10-10",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "85 NW 25th St, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/l8plxr?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/intriga-x-boho-house-day-party-vol-2-santelises-542744"
    ]
   },
   {
@@ -4470,7 +4452,7 @@
    "time_estimated": false,
    "address": "353 Northeast 61st Street, Miami, Florida 33137, United States",
    "ages": "18+",
-   "price": "From $20",
+   "price": "From $30",
    "genres": [
     "drum and bass",
     "jungle",
