@@ -8,22 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4444795-jaydelys@floyd.miami-calendars
-DTSTAMP:20261005T161824Z
-LAST-MODIFIED:20261005T161824Z
-SEQUENCE:1
-DTSTART:20261005T030000Z
-DTEND:20261005T090000Z
-SUMMARY:Jay De Lys
-LOCATION:Floyd Miami
-DESCRIPTION:Tags: minimal\, tech house\, techno\nAges: 21+\nhttps://dice.fm
- /event/dk7l9o-jay-de-lys-4th-oct-floyd-miami-miami-tickets
-URL:https://dice.fm/event/dk7l9o-jay-de-lys-4th-oct-floyd-miami-miami-ticke
- ts
-STATUS:CONFIRMED
-CATEGORIES:minimal,tech house,techno
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6a906e504e1d1f00013d8f76@floyd.miami-calendars
 DTSTAMP:20260922T004154Z
 LAST-MODIFIED:20260922T004154Z
@@ -274,12 +258,12 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abbd7cb208dff0001ff466c@floyd.miami-calendars
-DTSTAMP:20261001T221830Z
-LAST-MODIFIED:20261001T221830Z
-SEQUENCE:0
+DTSTAMP:20261006T041839Z
+LAST-MODIFIED:20261006T041839Z
+SEQUENCE:1
 DTSTART:20261114T040000Z
 DTEND:20261114T100000Z
-SUMMARY:Tre Reynolds
+SUMMARY:Tre Reynolds + Ferra Black
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
 DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6abbd7cb208
  dff0001ff466c
@@ -442,16 +426,17 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aa05ff479036d0001a67b91@floyd.miami-calendars
-DTSTAMP:20261005T041818Z
-LAST-MODIFIED:20261005T041818Z
-SEQUENCE:0
+DTSTAMP:20261006T041839Z
+LAST-MODIFIED:20261006T041839Z
+SEQUENCE:1
 DTSTART:20261205T040000Z
 DTEND:20261205T100000Z
 SUMMARY:Ciao Melódie! (Floyd Basel 2026)
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags: house\nAges: 21+\nhttps://dice.fm/event/avkodx-ciao-dany-
- x-meldie-floyd-basel-2026-4th-dec-floyd-miami-miami-tickets\nhttps://edmtr
- ain.com/miami-fl/ciao-dany-x-melodie-floyd-basel-2026-535519
+DESCRIPTION:Lineup: Natalia Roth\, Danyelino\, Dyed Soundorom\, Enzo Siragu
+ sa\, Marlie\nTags: house\nAges: 21+\nhttps://dice.fm/event/avkodx-ciao-dan
+ y-x-meldie-floyd-basel-2026-4th-dec-floyd-miami-miami-tickets\nhttps://edm
+ train.com/miami-fl/ciao-melodie-floyd-basel-2026-natalia-roth-535519
 URL:https://dice.fm/event/avkodx-ciao-dany-x-meldie-floyd-basel-2026-4th-de
  c-floyd-miami-miami-tickets
 STATUS:CONFIRMED

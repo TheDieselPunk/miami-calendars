@@ -465,15 +465,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-rae-sada-b2b-ape-drums-05-nov@zeyzey.miami-calendars
-DTSTAMP:20261005T161824Z
-LAST-MODIFIED:20261005T161824Z
-SEQUENCE:0
+DTSTAMP:20261006T041839Z
+LAST-MODIFIED:20261006T041839Z
+SEQUENCE:1
 DTSTART:20261106T000000Z
 DTEND:20261106T060000Z
 SUMMARY:Rae Sada b2b Ape Drums
 LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
- rae-sada-b2b-ape-drums-05-nov
+DESCRIPTION:Lineup: RAE SADA\, Ape Drums\nTags: dance/electronic\nhttps://c
+ alendar.zeyzeymiami.com/shows/rae-sada-b2b-ape-drums-05-nov\nhttps://edmtr
+ ain.com/miami-fl/rae-sada-ape-drums-542737
 URL:https://calendar.zeyzeymiami.com/shows/rae-sada-b2b-ape-drums-05-nov
 STATUS:CONFIRMED
 CATEGORIES:dance/electronic

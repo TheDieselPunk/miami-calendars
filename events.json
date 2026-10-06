@@ -1,121 +1,6 @@
 {
  "events": [
   {
-   "id": "19hz:4444768-chillinngrillina",
-   "source": "19hz",
-   "title": "Chillin N Grillin: Arisan, Ventura",
-   "artists": [],
-   "venue": "Lion's Den at Fooqs",
-   "venue_slug": null,
-   "date": "2026-10-04",
-   "start": "2026-10-04T20:00:00+00:00",
-   "end": "2026-10-05T02:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.therumor.com/p/arisan"
-  },
-  {
-   "id": "19hz:4444776-pondibox7zipaphe",
-   "source": "19hz",
-   "title": "Pon Di Box: 7.Zip, Aphex Twink, Blayd, Guacharo, Grue5Ome, Lady Narcisse, Mister Lo, Noxheaven, Santo, Sucia!",
-   "artists": [],
-   "venue": "The Boombox",
-   "venue_slug": "boombox",
-   "date": "2026-10-04",
-   "start": "2026-10-04T22:00:00+00:00",
-   "end": "2026-10-05T04:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "$5",
-   "genres": [
-    "dembow",
-    "reggaeton"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/pon-di-box"
-  },
-  {
-   "id": "19hz:4444776-ellaromand",
-   "source": "19hz",
-   "title": "Ella Romand",
-   "artists": [],
-   "venue": "Upside",
-   "venue_slug": null,
-   "date": "2026-10-04",
-   "start": "2026-10-04T22:00:00+00:00",
-   "end": "2026-10-05T04:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "free b4 8pm / $23",
-   "genres": [
-    "deep house",
-    "progressive house"
-   ],
-   "genres_inferred": false,
-   "organizer": "Apex",
-   "description": "",
-   "url": "https://posh.vip/e/ella-romand"
-  },
-  {
-   "id": "19hz:4444783-livitup",
-   "source": "19hz",
-   "title": "Livitup",
-   "artists": [],
-   "venue": "E11even",
-   "venue_slug": null,
-   "date": "2026-10-04",
-   "start": "2026-10-05T00:00:00+00:00",
-   "end": "2026-10-05T05:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "free w/rsvp b4 midnight / $23-34",
-   "genres": [
-    "hip-hop",
-    "house",
-    "latin",
-    "nu-disco"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://speakeasygo.com/event/EVE-AKBM9R"
-  },
-  {
-   "id": "19hz:4444795-jaydelys",
-   "source": "19hz",
-   "title": "Jay De Lys",
-   "artists": [],
-   "venue": "Floyd Miami",
-   "venue_slug": "floyd",
-   "date": "2026-10-04",
-   "start": "2026-10-05T03:00:00+00:00",
-   "end": "2026-10-05T09:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "$10+",
-   "genres": [
-    "minimal",
-    "tech house",
-    "techno"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/dk7l9o-jay-de-lys-4th-oct-floyd-miami-miami-tickets"
-  },
-  {
    "id": "19hz:4444879-atrain",
    "source": "19hz+edmtrain",
    "title": "A-Train",
@@ -696,6 +581,31 @@
    ]
   },
   {
+   "id": "edmtrain:542655",
+   "source": "edmtrain",
+   "title": "Chris Valencia",
+   "artists": [
+    "Chris Valencia"
+   ],
+   "venue": "Selva Miami",
+   "venue_slug": null,
+   "date": "2026-10-08",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "800 Brickell Ave, Miami, FL 33131, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/chris-valencia-selva-9?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/chris-valencia-542655"
+   ]
+  },
+  {
    "id": "hardrock:201835",
    "source": "19hz+venue",
    "title": "Luck Work",
@@ -1191,7 +1101,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$22.00",
+   "price": "$26.00",
    "genres": [
     "bass",
     "bass music",
@@ -1341,12 +1251,11 @@
    "title": "Mind Against, Maxi Meraki & Luch",
    "artists": [
     "Mind Against",
-    "Meraki",
-    "Luch",
     "Maxi Meraki",
+    "Luch",
     "Bakke",
     "Danyelino",
-    "DIFFER"
+    "Thunderpony"
    ],
    "venue": "Club Space Miami",
    "venue_slug": "club-space",
@@ -1369,7 +1278,7 @@
    "cancelled": false,
    "alt_urls": [
     "https://dice.fm/event/6a91ed7fa0dc520001417d57",
-    "https://edmtrain.com/miami-fl/mind-against-meraki-533026"
+    "https://edmtrain.com/miami-fl/mind-against-maxi-meraki-533026"
    ]
   },
   {
@@ -1463,7 +1372,7 @@
   {
    "id": "dice:6a5a971f5dff640001733cb0",
    "source": "dice+edmtrain",
-   "title": "Exhibitionism on Tour: Rebecca Black (DJ Set) & Blu DeTiger (DJ Set)",
+   "title": "Rebecca Black (DJ Set) & Blu DeTiger (DJ Set)",
    "artists": [
     "Rebecca Black"
    ],
@@ -1594,6 +1503,31 @@
    ]
   },
   {
+   "id": "edmtrain:542656",
+   "source": "edmtrain",
+   "title": "Cassimm",
+   "artists": [
+    "Cassimm"
+   ],
+   "venue": "Selva Miami",
+   "venue_slug": null,
+   "date": "2026-10-09",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "800 Brickell Ave, Miami, FL 33131, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/cassimm-selva?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/cassimm-542656"
+   ]
+  },
+  {
    "id": "edmtrain:541996",
    "source": "edmtrain",
    "title": "Swavé",
@@ -1674,6 +1608,30 @@
     "https://www.tixr.com/groups/daerdayclubsouthflorida/events/gorgon-city-daer-dayclub-202009",
     "https://edmtrain.com/fort-lauderdale-fl/gorgon-city-536839"
    ]
+  },
+  {
+   "id": "shotgun:miami-synth-meet-3",
+   "source": "shotgun",
+   "title": "Miami Synth Meet 3",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-10-10",
+   "start": "2026-10-10T18:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$5.00",
+   "genres": [
+    "experimental",
+    "industrial",
+    "techno"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/miami-synth-meet-3"
   },
   {
    "id": "19hz:4445344-benjaminlloyd",
@@ -2273,6 +2231,31 @@
    ]
   },
   {
+   "id": "edmtrain:542533",
+   "source": "edmtrain",
+   "title": "Hexed",
+   "artists": [
+    "Hexed"
+   ],
+   "venue": "777 NE 79th St",
+   "venue_slug": null,
+   "date": "2026-10-10",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "777 NE 79th St, Miami, FL 33138, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/hexed?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/hexed-542533"
+   ]
+  },
+  {
    "id": "edmtrain:541817",
    "source": "edmtrain",
    "title": "Peter Guzman, Terranova",
@@ -2296,6 +2279,35 @@
    "url": "https://posh.vip/e/peter-guzman-b2b-terranova-all-night-long?t=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/peter-guzman-terranova-541817"
+   ]
+  },
+  {
+   "id": "edmtrain:542744",
+   "source": "edmtrain",
+   "title": "INTRIGA x BOHO House - Day Party Vol. 2: Santelises, Shelley De Vos, goa 98, luneye, Marie Posa",
+   "artists": [
+    "Santelises",
+    "Shelley De Vos",
+    "goa 98",
+    "luneye",
+    "Marie Posa"
+   ],
+   "venue": "BOHO Wynwood",
+   "venue_slug": null,
+   "date": "2026-10-10",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "85 NW 25th St, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/l8plxr?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/intriga-x-boho-house-day-party-vol-2-santelises-542744"
    ]
   },
   {
@@ -2540,6 +2552,32 @@
    ]
   },
   {
+   "id": "edmtrain:542535",
+   "source": "edmtrain",
+   "title": "Bassel Darwish, Grahm Radio",
+   "artists": [
+    "Bassel Darwish",
+    "Grahm Radio"
+   ],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-10-11",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "111 NE 20th St, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/3orlng?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/bassel-darwish-grahm-radio-542535"
+   ]
+  },
+  {
    "id": "edmtrain:542006",
    "source": "edmtrain",
    "title": "Sundance: Ella Romand",
@@ -2694,7 +2732,7 @@
   },
   {
    "id": "shotgun:madradiomiami101426",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "III Points Satellite Party / Shyft Academy Showcase",
    "artists": [],
    "venue": "Mad Radio Miami",
@@ -2722,6 +2760,9 @@
     "longitude": -80.1851332
    },
    "created": "2026-10-01T20:36:54.000Z",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/iii-points-satellite-party-542614"
+   ],
    "also": [
     "festivals"
    ]
@@ -2876,7 +2917,7 @@
   },
   {
    "id": "shotgun:madradiomiami101526",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "III Points Satellite Party: Tian & Ennio Skoto",
    "artists": [],
    "venue": "Mad Radio Miami",
@@ -2904,15 +2945,22 @@
     "longitude": -80.1851332
    },
    "created": "2026-10-01T20:39:28.000Z",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/iii-points-satellite-party-542615"
+   ],
    "also": [
     "festivals"
    ]
   },
   {
    "id": "19hz:4445844-nervousxnegronid",
-   "source": "19hz",
+   "source": "19hz+edmtrain",
    "title": "Nervous X Negroni DJ Showcase: Mike Nervous b2b Mandiz, Nathalia Palacio, Brooklyn Mike, Aquaa, Andrea Velazquez",
-   "artists": [],
+   "artists": [
+    "Mike Nervous",
+    "Mandiz",
+    "Brooklyn Mike"
+   ],
    "venue": "Negroni Bistro & Sushi Bar",
    "venue_slug": null,
    "date": "2026-10-15",
@@ -2928,7 +2976,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://ra.co/events/2545173"
+   "url": "https://ra.co/events/2545173",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/mike-nervous-mandiz-542415"
+   ]
   },
   {
    "id": "shotgun:b2b-label-showcase",
@@ -3281,7 +3332,7 @@
   },
   {
    "id": "shotgun:madradiomiami101626",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "III Points Satellite Party: Kenny Jones / Leo Del Toro",
    "artists": [
     "Kenia",
@@ -3312,6 +3363,9 @@
     "longitude": -80.1851332
    },
    "created": "2026-10-01T20:44:18.000Z",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/iii-points-satellite-party-542616"
+   ],
    "also": [
     "festivals"
    ]
@@ -3387,7 +3441,7 @@
   },
   {
    "id": "shotgun:rendezvous1-10",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Rendezvous",
    "artists": [],
    "venue": "Club M2 Miami",
@@ -3403,7 +3457,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/rendezvous1-10"
+   "url": "https://shotgun.live/en/events/rendezvous1-10",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/rendezvous-542610"
+   ]
   },
   {
    "id": "hardrock:202032",
@@ -4034,7 +4091,8 @@
    },
    "created": "2026-10-01T20:47:55.000Z",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/iii-points-satellite-iliad-531627"
+    "https://edmtrain.com/miami-fl/iii-points-satellite-iliad-531627",
+    "https://edmtrain.com/miami-fl/iii-points-satellite-party-tomas-saenz-542617"
    ],
    "also": [
     "festivals"
@@ -5536,6 +5594,36 @@
    "url": "https://www.livnightclub.com/miami/event/EVE112156200020261023/friday/?ref=raco"
   },
   {
+   "id": "edmtrain:542612",
+   "source": "edmtrain",
+   "title": "Conobi, Royce & Tan, Shayoos, Sunny-D",
+   "artists": [
+    "Conobi",
+    "Royce & Tan",
+    "Shayoos",
+    "Sunny-D"
+   ],
+   "venue": "M2 Nightclub",
+   "venue_slug": null,
+   "date": "2026-10-23",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1235 Washington Ave, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "open-format"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/rendezvous1-12?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/conobi-royce-and-tan-542612"
+   ]
+  },
+  {
    "id": "edmtrain:534083",
    "source": "edmtrain",
    "title": "Green Velvet, Green Velvet (Cajmere Set)",
@@ -6731,7 +6819,7 @@
   },
   {
    "id": "shotgun:rendezvous1-11",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "The Dancing Dead: Halloween Extravaganza",
    "artists": [],
    "venue": "Club M2 Miami",
@@ -6747,7 +6835,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/rendezvous1-11"
+   "url": "https://shotgun.live/en/events/rendezvous1-11",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/the-dancing-dead-halloween-extravaganza-542613"
+   ]
   },
   {
    "id": "hardrock:204541",
@@ -7987,9 +8078,12 @@
   },
   {
    "id": "zeyzey:rae-sada-b2b-ape-drums-05-nov",
-   "source": "venue",
+   "source": "edmtrain+venue",
    "title": "Rae Sada b2b Ape Drums",
-   "artists": [],
+   "artists": [
+    "RAE SADA",
+    "Ape Drums"
+   ],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-11-05",
@@ -8006,7 +8100,10 @@
    "organizer": "",
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/rae-sada-b2b-ape-drums-05-nov",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/rae-sada-ape-drums-542737"
+   ]
   },
   {
    "id": "zeyzey:the-floozies-05-nov",
@@ -8392,6 +8489,31 @@
    "description": "",
    "url": "https://tixr.com/e/205527",
    "generic_title": true
+  },
+  {
+   "id": "edmtrain:542565",
+   "source": "edmtrain",
+   "title": "Alex Farell",
+   "artists": [
+    "Alex Farell"
+   ],
+   "venue": "Casa Nube Wynwood",
+   "venue_slug": "festivals",
+   "date": "2026-11-07",
+   "start": "2026-11-07T20:00:00+00:00",
+   "end": "2026-11-08T07:00:00+00:00",
+   "time_estimated": true,
+   "address": "2060 NW 1st Ave, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/alex-farell?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/alex-farell-542565"
+   ]
   },
   {
    "id": "19hz:4448032-vavorickyretro",
@@ -8948,6 +9070,31 @@
    ]
   },
   {
+   "id": "edmtrain:542603",
+   "source": "edmtrain",
+   "title": "BOLO",
+   "artists": [
+    "BOLO"
+   ],
+   "venue": "LIV Miami",
+   "venue_slug": null,
+   "date": "2026-11-12",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "4441 Collins Ave, Miami Beach, FL 33140, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://ticketmaster.evyy.net/c/254533/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fid%2F14363814",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/bolo-542603"
+   ]
+  },
+  {
    "id": "zeyzey:the-altons-show-you-love-tour-13-nov",
    "source": "venue",
    "title": "The Altons: Show You Love Tour",
@@ -9294,7 +9441,7 @@
   {
    "id": "dice:6abbd7cb208dff0001ff466c",
    "source": "dice",
-   "title": "Tre Reynolds",
+   "title": "Tre Reynolds + Ferra Black",
    "artists": [],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
@@ -10718,6 +10865,31 @@
    "url": "https://www.bouncelife.com/events/6aac7392b849ebb265615a19",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/playtime-present-project-b-jane-vanderbilt-542164"
+   ]
+  },
+  {
+   "id": "edmtrain:542605",
+   "source": "edmtrain",
+   "title": "D.O.D",
+   "artists": [
+    "D.O.D"
+   ],
+   "venue": "LIV Miami",
+   "venue_slug": null,
+   "date": "2026-11-21",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "4441 Collins Ave, Miami Beach, FL 33140, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://ticketmaster.evyy.net/c/254533/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fid%2F14363794",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/d-o-d-542605"
    ]
   },
   {
@@ -12151,7 +12323,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $10",
+   "price": "From $15",
    "genres": [
     "minimal",
     "tech house"
@@ -12609,7 +12781,13 @@
    "id": "dice:6aa05ff479036d0001a67b91",
    "source": "19hz+dice+edmtrain",
    "title": "Ciao Melódie! (Floyd Basel 2026)",
-   "artists": [],
+   "artists": [
+    "Natalia Roth",
+    "Danyelino",
+    "Dyed Soundorom",
+    "Enzo Siragusa",
+    "Marlie"
+   ],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
    "date": "2026-12-04",
@@ -12629,7 +12807,7 @@
    "cancelled": false,
    "alt_urls": [
     "https://dice.fm/event/avkodx-ciao-dany-x-meldie-floyd-basel-2026-4th-dec-floyd-miami-miami-tickets",
-    "https://edmtrain.com/miami-fl/ciao-dany-x-melodie-floyd-basel-2026-535519"
+    "https://edmtrain.com/miami-fl/ciao-melodie-floyd-basel-2026-natalia-roth-535519"
    ]
   },
   {

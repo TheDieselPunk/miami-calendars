@@ -58,9 +58,9 @@ CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101426@shotgun.live
-DTSTAMP:20261005T221830Z
-LAST-MODIFIED:20261005T221830Z
-SEQUENCE:33
+DTSTAMP:20261006T041839Z
+LAST-MODIFIED:20261006T041839Z
+SEQUENCE:35
 DTSTART:20261015T010000Z
 DTEND:20261015T070000Z
 SUMMARY:III Points Satellite Party / Shyft Academy Showcase
@@ -72,7 +72,8 @@ DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
   Come early\, stay late\, and let the night unfold FREE ENTRY 25+ YEARS OL
  D HAPPY HOUR 5 PM - 9 PM"\nTags (guess): deep house\, house\nPresented by:
   Mad Radio Miami\nTickets: RSVP Free\nhttps://shotgun.live/en/events/madra
- diomiami101426
+ diomiami101426\nhttps://edmtrain.com/miami-fl/iii-points-satellite-party-5
+ 42614
 URL:https://shotgun.live/en/events/madradiomiami101426
 STATUS:CONFIRMED
 CATEGORIES:deep house,house
@@ -80,9 +81,9 @@ GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101526@shotgun.live
-DTSTAMP:20261005T221830Z
-LAST-MODIFIED:20261005T221830Z
-SEQUENCE:33
+DTSTAMP:20261006T041839Z
+LAST-MODIFIED:20261006T041839Z
+SEQUENCE:35
 DTSTART:20261016T010000Z
 DTEND:20261016T070000Z
 SUMMARY:III Points Satellite Party: Tian & Ennio Skoto
@@ -94,7 +95,8 @@ DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
   Come early\, stay late\, and let the night unfold FREE ENTRY +25 YEARS OL
  D HAPPY HOUR 5 PM - 9 PM"\nTags (guess): deep house\, house\nPresented by:
   Mad Radio Miami\nTickets: RSVP Free\nhttps://shotgun.live/en/events/madra
- diomiami101526
+ diomiami101526\nhttps://edmtrain.com/miami-fl/iii-points-satellite-party-5
+ 42615
 URL:https://shotgun.live/en/events/madradiomiami101526
 STATUS:CONFIRMED
 CATEGORIES:deep house,house
@@ -151,9 +153,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101626@shotgun.live
-DTSTAMP:20261005T221830Z
-LAST-MODIFIED:20261005T221830Z
-SEQUENCE:2
+DTSTAMP:20261006T041839Z
+LAST-MODIFIED:20261006T041839Z
+SEQUENCE:4
 DTSTART:20261017T010000Z
 DTEND:20261017T070000Z
 SUMMARY:III Points Satellite Party: Kenny Jones / Leo Del Toro
@@ -166,7 +168,8 @@ DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
   / FREE ENTRY LADIES UNTIL MIDNIGHT +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
  \nLineup: Kenia\, Leo Del Toro\nTags (guess): deep house\, house\nPresente
  d by: Mad Radio Miami\nTickets: AFTER 10 PM $20\, FREE LADIES RSVP BEFORE 
- 12 AM Free\nhttps://shotgun.live/en/events/madradiomiami101626
+ 12 AM Free\nhttps://shotgun.live/en/events/madradiomiami101626\nhttps://ed
+ mtrain.com/miami-fl/iii-points-satellite-party-542616
 URL:https://shotgun.live/en/events/madradiomiami101626
 STATUS:CONFIRMED
 CATEGORIES:deep house,house
@@ -203,9 +206,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101726@shotgun.live
-DTSTAMP:20261005T221830Z
-LAST-MODIFIED:20261005T221830Z
-SEQUENCE:2
+DTSTAMP:20261006T041839Z
+LAST-MODIFIED:20261006T041839Z
+SEQUENCE:4
 DTSTART:20261018T010000Z
 DTEND:20261018T070000Z
 SUMMARY:III Points Satellite Party: Israel Sunshine / Tomas Saenz
@@ -219,7 +222,8 @@ DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
  \nLineup: Israel Sunshine ARTISANO\nTags (guess): deep house\, house\nPres
  ented by: Mad Radio Miami\nTickets: AFTER 10 PM $20\, FREE LADIES RSVP BEF
  ORE 12 AM Free\nhttps://shotgun.live/en/events/madradiomiami101726\nhttps:
- //edmtrain.com/miami-fl/iii-points-satellite-iliad-531627
+ //edmtrain.com/miami-fl/iii-points-satellite-iliad-531627\nhttps://edmtrai
+ n.com/miami-fl/iii-points-satellite-party-tomas-saenz-542617
 URL:https://shotgun.live/en/events/madradiomiami101726
 STATUS:CONFIRMED
 CATEGORIES:deep house,house
@@ -362,6 +366,22 @@ DESCRIPTION:Tags: afro\, reggaeton\, house\nhttps://shotgun.live/en/events/
 URL:https://shotgun.live/en/events/galactic-halloween
 STATUS:CONFIRMED
 CATEGORIES:afro,reggaeton,house
+END:VEVENT
+BEGIN:VEVENT
+UID:edmtrain-542565@festivals.miami-calendars
+DTSTAMP:20261006T041839Z
+LAST-MODIFIED:20261006T041839Z
+SEQUENCE:0
+DTSTART:20261107T200000Z
+DTEND:20261108T070000Z
+SUMMARY:Alex Farell
+LOCATION:Casa Nube Wynwood\, 2060 NW 1st Ave\, Miami\, FL 33127\, USA
+DESCRIPTION:Lineup: Alex Farell\nTimes are an estimate from Festivals & one
+ -offs's usual hours - the listing has no start time yet. Check the link.\n
+ https://posh.vip/e/alex-farell?t=edmtrain\nhttps://edmtrain.com/miami-fl/a
+ lex-farell-542565
+URL:https://posh.vip/e/alex-farell?t=edmtrain
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:the-hall-pres-roy-rosenfeld@shotgun.live
