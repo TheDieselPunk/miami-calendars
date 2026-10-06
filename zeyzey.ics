@@ -667,9 +667,9 @@ GEO:25.8327584;-80.1890685
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a0eff0b5ffbf40001c9044c@zeyzey.miami-calendars
-DTSTAMP:20260922T004038Z
-LAST-MODIFIED:20260922T004038Z
-SEQUENCE:2
+DTSTAMP:20261006T161825Z
+LAST-MODIFIED:20261006T161825Z
+SEQUENCE:3
 DTSTART:20261115T200000Z
 DTEND:20261116T000000Z
 SUMMARY:Club 1BD Miami ft. Chvmeleon\, Hunny Bee\, Pressure Point\, & Spine
@@ -678,8 +678,9 @@ LOCATION:ZeyZey\, 353 Northeast 61st Street\, Miami\, Florida 33137\, Unite
  d States
 DESCRIPTION:Lineup: Club 1BD\, DJ Hunny Bee\, Pressure Point\, Spinelli\nTa
  gs: hip-hop/rap\nhttps://dice.fm/event/6a0eff0b5ffbf40001c9044c\nhttps://c
- alendar.zeyzeymiami.com/shows/club-1bd-miami-day-party-15-nov\nhttps://edm
- train.com/miami-fl/club-1bd-dj-hunny-bee-517966
+ alendar.zeyzeymiami.com/shows/club-1bd-miami-day-party-15-nov\nhttps://cal
+ endar.zeyzeymiami.com/shows/evening-elephants-15-nov\nhttps://edmtrain.com
+ /miami-fl/club-1bd-dj-hunny-bee-517966
 URL:https://dice.fm/event/6a0eff0b5ffbf40001c9044c
 STATUS:CONFIRMED
 CATEGORIES:hip-hop/rap
@@ -971,6 +972,21 @@ URL:https://calendar.zeyzeymiami.com/shows/the-unofficial-end-cruise-party-
  21-jan
 STATUS:CONFIRMED
 CATEGORIES:emo
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-early-show-mamas-gun-26-feb@zeyzey.miami-calendars
+DTSTAMP:20261006T161825Z
+LAST-MODIFIED:20261006T161825Z
+SEQUENCE:0
+DTSTART:20270227T000000Z
+DTEND:20270227T080000Z
+SUMMARY:Mama's Gun (Free Entry)
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: r&b/soul\nhttps://calendar.zeyzeymiami.com/shows/early-sh
+ ow-mamas-gun-26-feb
+URL:https://calendar.zeyzeymiami.com/shows/early-show-mamas-gun-26-feb
+STATUS:CONFIRMED
+CATEGORIES:r&b/soul
 END:VEVENT
 BEGIN:VEVENT
 UID:paloma-morphy-miami@shotgun.live
