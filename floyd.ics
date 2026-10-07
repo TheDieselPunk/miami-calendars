@@ -397,15 +397,16 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aa05e5de8caab0001795dc7@floyd.miami-calendars
-DTSTAMP:20261003T041828Z
-LAST-MODIFIED:20261003T041828Z
-SEQUENCE:0
+DTSTAMP:20261007T041839Z
+LAST-MODIFIED:20261007T041839Z
+SEQUENCE:1
 DTSTART:20261203T040000Z
 DTEND:20261203T100000Z
 SUMMARY:PRISMA Showcase (Floyd Basel 2026)
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6aa05e5de8c
- aab0001795dc7
+DESCRIPTION:Lineup: Demi Riquísimo\, Make A Dance\, Musclecars\, Natasha D
+ iggs\nTags (guess): house\, techno\nhttps://dice.fm/event/6aa05e5de8caab00
+ 01795dc7\nhttps://edmtrain.com/miami-fl/demi-riquisimo-make-a-dance-543112
 URL:https://dice.fm/event/6aa05e5de8caab0001795dc7
 STATUS:CONFIRMED
 CATEGORIES:house,techno

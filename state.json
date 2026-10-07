@@ -340,9 +340,9 @@
   "modified": "2026-09-22T00:41:54+00:00"
  },
  "dice-6a8380fbb132fb00010733cd@the-ground.miami-calendars": {
-  "hash": "5e45012cb2b44c06",
-  "seq": 3,
-  "modified": "2026-09-22T00:41:54+00:00"
+  "hash": "2bf2544cfc82e30e",
+  "seq": 4,
+  "modified": "2026-10-07T04:18:39+00:00"
  },
  "dice-6a838327c1861c000191d7c5@the-ground.miami-calendars": {
   "hash": "24b8c41b5714e0c2",
@@ -560,9 +560,9 @@
   "modified": "2026-10-04T22:18:19+00:00"
  },
  "dice-6aa05e5de8caab0001795dc7@floyd.miami-calendars": {
-  "hash": "fec6ff3659abd03d",
-  "seq": 0,
-  "modified": "2026-10-03T04:18:28+00:00"
+  "hash": "42208ed33e7f4521",
+  "seq": 1,
+  "modified": "2026-10-07T04:18:39+00:00"
  },
  "dice-6aa05f20dcd56d0001894f1e@floyd.miami-calendars": {
   "hash": "2365253969a673be",
@@ -645,9 +645,9 @@
   "modified": "2026-09-26T22:18:17+00:00"
  },
  "dice-6ab3a356f3be0b000115831c@jolene.miami-calendars": {
-  "hash": "ed989aa3a3505536",
-  "seq": 1,
-  "modified": "2026-10-04T22:18:19+00:00"
+  "hash": "1842fb1133e04c9c",
+  "seq": 2,
+  "modified": "2026-10-07T04:18:39+00:00"
  },
  "dice-6ab3fb9d80f9a500012b3792@kemistry.miami-calendars": {
   "hash": "4af2d24278050bfd",
@@ -929,10 +929,25 @@
   "seq": 0,
   "modified": "2026-10-06T04:18:39+00:00"
  },
+ "edmtrain-543166@midline.miami-calendars": {
+  "hash": "407290ce5863d462",
+  "seq": 0,
+  "modified": "2026-10-07T04:18:39+00:00"
+ },
+ "edmtrain-543177@festivals.miami-calendars": {
+  "hash": "98d2fdd792658fe6",
+  "seq": 0,
+  "modified": "2026-10-07T04:18:39+00:00"
+ },
+ "edmtrain-543280@festivals.miami-calendars": {
+  "hash": "f5ea70d5fce728a6",
+  "seq": 0,
+  "modified": "2026-10-07T04:18:39+00:00"
+ },
  "evanora-unlimited-north-america-tour-miami-fl@shotgun.live": {
-  "hash": "5f7e53a5a4d1f149",
-  "seq": 4,
-  "modified": "2026-10-04T16:18:23+00:00"
+  "hash": "5859e1d899574bd9",
+  "seq": 5,
+  "modified": "2026-10-07T04:18:39+00:00"
  },
  "galactic-halloween@shotgun.live": {
   "hash": "fc786244f70af36d",
@@ -983,11 +998,6 @@
   "hash": "9ea0f16fd5916d83",
   "seq": 0,
   "modified": "2026-09-21T20:05:54+00:00"
- },
- "hardrock-202032@daer.miami-calendars": {
-  "hash": "646f6720aad3e798",
-  "seq": 2,
-  "modified": "2026-10-06T22:18:30+00:00"
  },
  "hardrock-202033@daer.miami-calendars": {
   "hash": "2777ae4a30929fd2",
@@ -1261,23 +1271,23 @@
  },
  "madradiomiami101426@shotgun.live": {
   "hash": "e39ed81b6a1686bf",
-  "seq": 41,
-  "modified": "2026-10-06T22:18:30+00:00"
+  "seq": 43,
+  "modified": "2026-10-07T04:18:39+00:00"
  },
  "madradiomiami101526@shotgun.live": {
   "hash": "d90990d3aa3265cc",
-  "seq": 41,
-  "modified": "2026-10-06T22:18:30+00:00"
+  "seq": 43,
+  "modified": "2026-10-07T04:18:39+00:00"
  },
  "madradiomiami101626@shotgun.live": {
   "hash": "58a12604e5af3392",
-  "seq": 10,
-  "modified": "2026-10-06T22:18:30+00:00"
+  "seq": 12,
+  "modified": "2026-10-07T04:18:39+00:00"
  },
  "madradiomiami101726@shotgun.live": {
   "hash": "f459f060a060733f",
-  "seq": 10,
-  "modified": "2026-10-06T22:18:30+00:00"
+  "seq": 12,
+  "modified": "2026-10-07T04:18:39+00:00"
  },
  "madradiomiami102126@shotgun.live": {
   "hash": "7682cc251e858a48",
@@ -1510,9 +1520,9 @@
   "modified": "2026-10-06T22:18:30+00:00"
  },
  "zeyzey-oscar-g-anastazja-28-nov@zeyzey.miami-calendars": {
-  "hash": "c0931b592f7f6274",
-  "seq": 0,
-  "modified": "2026-09-25T16:18:07+00:00"
+  "hash": "ac304b5c50e0c010",
+  "seq": 1,
+  "modified": "2026-10-07T04:18:39+00:00"
  },
  "zeyzey-presents-parra-for-cuva@shotgun.live": {
   "hash": "4ae749e0e1541853",
@@ -1520,9 +1530,9 @@
   "modified": "2026-09-21T23:53:57+00:00"
  },
  "zeyzey-rae-sada-b2b-ape-drums-05-nov@zeyzey.miami-calendars": {
-  "hash": "b2992e844fdc12fd",
-  "seq": 1,
-  "modified": "2026-10-06T04:18:39+00:00"
+  "hash": "ad15eda2e6c68e59",
+  "seq": 2,
+  "modified": "2026-10-07T04:18:39+00:00"
  },
  "zeyzey-reggaeton-rave-27-nov@zeyzey.miami-calendars": {
   "hash": "c6f9ac57554e2bbd",

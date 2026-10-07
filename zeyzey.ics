@@ -467,12 +467,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-rae-sada-b2b-ape-drums-05-nov@zeyzey.miami-calendars
-DTSTAMP:20261006T041839Z
-LAST-MODIFIED:20261006T041839Z
-SEQUENCE:1
+DTSTAMP:20261007T041839Z
+LAST-MODIFIED:20261007T041839Z
+SEQUENCE:2
 DTSTART:20261106T000000Z
 DTEND:20261106T060000Z
-SUMMARY:Rae Sada b2b Ape Drums
+SUMMARY:Rae Sada b2b Ape Drums (Free Entry)
 LOCATION:ZeyZey Miami
 DESCRIPTION:Lineup: RAE SADA\, Ape Drums\nTags: dance/electronic\nhttps://c
  alendar.zeyzeymiami.com/shows/rae-sada-b2b-ape-drums-05-nov\nhttps://edmtr
@@ -801,12 +801,12 @@ CATEGORIES:latin
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-oscar-g-anastazja-28-nov@zeyzey.miami-calendars
-DTSTAMP:20260925T161807Z
-LAST-MODIFIED:20260925T161807Z
-SEQUENCE:0
+DTSTAMP:20261007T041839Z
+LAST-MODIFIED:20261007T041839Z
+SEQUENCE:1
 DTSTART:20261129T030000Z
 DTEND:20261129T060000Z
-SUMMARY:Oscar G + Anastazja
+SUMMARY:Oscar G + Anastazja (Free Entry)
 LOCATION:ZeyZey Miami
 DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
  oscar-g-anastazja-28-nov

@@ -131,7 +131,7 @@
   "slug": "daer",
   "name": "DAER (Hard Rock Hollywood)",
   "file": "daer.ics",
-  "events": 57,
+  "events": 56,
   "estimated_times": 1,
   "next": "2026-10-09",
   "sources": [
@@ -159,8 +159,8 @@
   "slug": "midline",
   "name": "Midline",
   "file": "midline.ics",
-  "events": 11,
-  "estimated_times": 0,
+  "events": 12,
+  "estimated_times": 1,
   "next": "2026-10-09",
   "sources": [
    "19hz",
@@ -172,8 +172,8 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 44,
-  "estimated_times": 21,
+  "events": 46,
+  "estimated_times": 23,
   "next": "2026-10-09",
   "sources": [
    "19hz",

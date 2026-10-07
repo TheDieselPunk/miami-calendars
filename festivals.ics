@@ -58,9 +58,9 @@ CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101426@shotgun.live
-DTSTAMP:20261006T221830Z
-LAST-MODIFIED:20261006T221830Z
-SEQUENCE:41
+DTSTAMP:20261007T041839Z
+LAST-MODIFIED:20261007T041839Z
+SEQUENCE:43
 DTSTART:20261015T010000Z
 DTEND:20261015T070000Z
 SUMMARY:III Points Satellite Party / Shyft Academy Showcase
@@ -81,9 +81,9 @@ GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101526@shotgun.live
-DTSTAMP:20261006T221830Z
-LAST-MODIFIED:20261006T221830Z
-SEQUENCE:41
+DTSTAMP:20261007T041839Z
+LAST-MODIFIED:20261007T041839Z
+SEQUENCE:43
 DTSTART:20261016T010000Z
 DTEND:20261016T070000Z
 SUMMARY:III Points Satellite Party: Tian & Ennio Skoto
@@ -153,9 +153,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101626@shotgun.live
-DTSTAMP:20261006T221830Z
-LAST-MODIFIED:20261006T221830Z
-SEQUENCE:10
+DTSTAMP:20261007T041839Z
+LAST-MODIFIED:20261007T041839Z
+SEQUENCE:12
 DTSTART:20261017T010000Z
 DTEND:20261017T070000Z
 SUMMARY:III Points Satellite Party: Kenny Jones / Leo Del Toro
@@ -206,9 +206,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101726@shotgun.live
-DTSTAMP:20261006T221830Z
-LAST-MODIFIED:20261006T221830Z
-SEQUENCE:10
+DTSTAMP:20261007T041839Z
+LAST-MODIFIED:20261007T041839Z
+SEQUENCE:12
 DTSTART:20261018T010000Z
 DTEND:20261018T070000Z
 SUMMARY:III Points Satellite Party: Israel Sunshine / Tomas Saenz
@@ -335,6 +335,23 @@ STATUS:CONFIRMED
 CATEGORIES:drum and bass,jungle,uk bass,uk garage
 END:VEVENT
 BEGIN:VEVENT
+UID:edmtrain-543280@festivals.miami-calendars
+DTSTAMP:20261007T041839Z
+LAST-MODIFIED:20261007T041839Z
+SEQUENCE:0
+DTSTART:20261031T190000Z
+DTEND:20261101T070000Z
+SUMMARY:Fedde Le Grand
+LOCATION:The Shorely At Marina Village\, 849 Seabreeze Blvd\, Fort Lauderda
+ le\, FL 33316\, USA
+DESCRIPTION:Lineup: Fedde Le Grand\nTimes are an estimate from Festivals & 
+ one-offs's usual hours - the listing has no start time yet. Check the link
+ .\nhttps://www.eventbrite.com/e/2002959594064?aff=ebdimtedmtrain\nhttps://
+ edmtrain.com/fort-lauderdale-fl/fedde-le-grand-543280
+URL:https://www.eventbrite.com/e/2002959594064?aff=ebdimtedmtrain
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:19hz-4447380-zoey808x9b49hall@festivals.miami-calendars
 DTSTAMP:20261004T221819Z
 LAST-MODIFIED:20261004T221819Z
@@ -415,6 +432,25 @@ DESCRIPTION:Lineup: Truth\, Hairitage\, Buku\, Esseks\, INAKTIV\, Smith.\,
 URL:https://sacredmeadowsfest.com/
 STATUS:CONFIRMED
 CATEGORIES:bass music,dubstep
+END:VEVENT
+BEGIN:VEVENT
+UID:edmtrain-543177@festivals.miami-calendars
+DTSTAMP:20261007T041839Z
+LAST-MODIFIED:20261007T041839Z
+SEQUENCE:0
+DTSTART:20261125T200000Z
+DTEND:20261126T070000Z
+SUMMARY:KARAN!\, LAMEBOT\, JEAN SEAN\, Craze
+LOCATION:North Beach Bandshell\, 7275 Collins Ave\, Miami Beach\, FL 33141
+ \, USA
+DESCRIPTION:Lineup: KARAN!\, LAMEBOT\, JEAN SEAN\, Craze\nTimes are an esti
+ mate from Festivals & one-offs's usual hours - the listing has no start ti
+ me yet. Check the link.\nhttps://prod-nts-api.seeticketsusa.us/v1.0.0/prom
+ ote/YWZmOlNUVVMtNzA0ODE1Ojc=/clickthru\nhttps://edmtrain.com/miami-fl/kara
+ n-lamebot-543177
+URL:https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzA0OD
+ E1Ojc=/clickthru
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4449940-urgemiamifestiva@festivals.miami-calendars

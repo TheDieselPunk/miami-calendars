@@ -307,16 +307,17 @@ CATEGORIES:edm,house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab3a356f3be0b000115831c@jolene.miami-calendars
-DTSTAMP:20261004T221819Z
-LAST-MODIFIED:20261004T221819Z
-SEQUENCE:1
+DTSTAMP:20261007T041839Z
+LAST-MODIFIED:20261007T041839Z
+SEQUENCE:2
 DTSTART:20261204T030000Z
 DTEND:20261204T090000Z
 SUMMARY:Basel: AFTERJAM
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Tags: minimal\, tech house\nAges: 21+\nhttps://dice.fm/event/6a
- b3a356f3be0b000115831c
+DESCRIPTION:Lineup: Jamback\nTags: minimal\, tech house\nAges: 21+\nhttps:/
+ /dice.fm/event/6ab3a356f3be0b000115831c\nhttps://edmtrain.com/miami-fl/jam
+ back-543134
 URL:https://dice.fm/event/6ab3a356f3be0b000115831c
 STATUS:CONFIRMED
 CATEGORIES:minimal,tech house

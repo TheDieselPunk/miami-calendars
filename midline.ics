@@ -106,6 +106,23 @@ STATUS:CONFIRMED
 CATEGORIES:afro house,progressive house
 END:VEVENT
 BEGIN:VEVENT
+UID:edmtrain-543166@midline.miami-calendars
+DTSTAMP:20261007T041839Z
+LAST-MODIFIED:20261007T041839Z
+SEQUENCE:0
+DTSTART:20261122T030000Z
+DTEND:20261122T080000Z
+SUMMARY:NOTD\, VHS
+LOCATION:Midline Miami\, 2221 NW Miami Ct\, Miami\, FL 33127\, USA
+DESCRIPTION:Lineup: NOTD\, VHS\nTimes are an estimate from Midline's usual 
+ hours - the listing has no start time yet. Check the link.\nhttps://prod-n
+ ts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzAzMzM5Ojc=/clickthru
+ \nhttps://edmtrain.com/miami-fl/notd-vhs-543166
+URL:https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzAzMz
+ M5Ojc=/clickthru
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:19hz-4449772-inna@midline.miami-calendars
 DTSTAMP:20260926T221817Z
 LAST-MODIFIED:20260926T221817Z
