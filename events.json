@@ -398,7 +398,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "$12",
+   "price": "From $7",
    "genres": [
     "house"
    ],
@@ -659,6 +659,26 @@
    "organizer": "Heroes Live Entertainment",
    "description": "",
    "url": "https://uswpb.eventbrite.com/"
+  },
+  {
+   "id": "shotgun:sillies-on-south-beach-comedy-show",
+   "source": "shotgun",
+   "title": "Sillies On South Beach Comedy Show",
+   "artists": [],
+   "venue": "South Beach Brewing Company Taproom & Restaurant",
+   "venue_slug": null,
+   "date": "2026-10-09",
+   "start": "2026-10-10T00:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$4.50",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sillies-on-south-beach-comedy-show"
   },
   {
    "id": "19hz:4445268-dvs1",
@@ -1157,7 +1177,7 @@
    "title": "Solmates Season Opener Ft. Fahlberg, Orsay & More",
    "artists": [
     "Fahlberg",
-    "Axel Plays"
+    "Orsay"
    ],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
@@ -3340,6 +3360,26 @@
    "url": "https://shotgun.live/en/events/hardcore-apocalypse"
   },
   {
+   "id": "shotgun:sillies-on-south-beach-comedy-show-2",
+   "source": "shotgun",
+   "title": "Sillies On South Beach Comedy Show",
+   "artists": [],
+   "venue": "South Beach Brewing Company Taproom & Restaurant",
+   "venue_slug": null,
+   "date": "2026-10-16",
+   "start": "2026-10-17T00:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$4.50",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sillies-on-south-beach-comedy-show-2"
+  },
+  {
    "id": "tablelist:09696654a43f6624",
    "source": "19hz+edmtrain+tablelist+venue",
    "title": "Party Pupils",
@@ -4766,7 +4806,7 @@
   {
    "id": "dice:6a838327c1861c000191d7c5",
    "source": "19hz+dice+edmtrain",
-   "title": "Satellite: 1tbsp, DJ Chaotic Ugly, TECH G1RLS, & More",
+   "title": "Satellite: Bassvictim (Dj Set), 1tbsp, DJ Chaotic Ugly, TECH G1RLS, & More",
    "artists": [
     "1tbsp",
     "Chaotic Ugly",
@@ -5146,6 +5186,30 @@
    "created": "2026-10-01T20:51:56.000Z"
   },
   {
+   "id": "dice:6ac67e9f19d9030001b0b3ea",
+   "source": "dice",
+   "title": "Megusta, Jesse Fernandez, & Blotter",
+   "artists": [],
+   "venue": "Jolene Sound Room Miami",
+   "venue_slug": "jolene",
+   "date": "2026-10-22",
+   "start": "2026-10-23T02:00:00+00:00",
+   "end": "2026-10-23T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "ages": "",
+   "price": "From $7",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ac67e9f19d9030001b0b3ea",
+   "cancelled": false
+  },
+  {
    "id": "dice:6ab179c76d5a1f0001669601",
    "source": "dice",
    "title": "HAUNTED RAVEYARD PRE-PARTY",
@@ -5238,6 +5302,26 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/secret-thursdays-543067"
    ]
+  },
+  {
+   "id": "shotgun:sillies-on-south-beach-comedy-show-3",
+   "source": "shotgun",
+   "title": "Sillies On South Beach Comedy Show",
+   "artists": [],
+   "venue": "South Beach Brewing Company Taproom & Restaurant",
+   "venue_slug": null,
+   "date": "2026-10-23",
+   "start": "2026-10-24T00:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$4.50",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sillies-on-south-beach-comedy-show-3"
   },
   {
    "id": "tablelist:abc873e7b3df0c6a",
@@ -6865,6 +6949,26 @@
    "cancelled": false
   },
   {
+   "id": "shotgun:sillies-on-south-beach-comedy-show-4",
+   "source": "shotgun",
+   "title": "Sillies On South Beach Comedy Show",
+   "artists": [],
+   "venue": "South Beach Brewing Company Taproom & Restaurant",
+   "venue_slug": null,
+   "date": "2026-10-30",
+   "start": "2026-10-31T00:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$4.50",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sillies-on-south-beach-comedy-show-4"
+  },
+  {
    "id": "19hz:4447279-hallorave",
    "source": "19hz+edmtrain",
    "title": "Hallorave",
@@ -8403,6 +8507,30 @@
    ]
   },
   {
+   "id": "dice:6ac6aa74f13291000127aaa6",
+   "source": "dice",
+   "title": "King's Paradox: Marian (BR), Mvcias, Dalva, & Seguez",
+   "artists": [],
+   "venue": "Jolene Sound Room Miami",
+   "venue_slug": "jolene",
+   "date": "2026-11-05",
+   "start": "2026-11-06T03:00:00+00:00",
+   "end": "2026-11-06T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "ages": "",
+   "price": "From $7",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ac6aa74f13291000127aaa6",
+   "cancelled": false
+  },
+  {
    "id": "zeyzey:curawaka-06-nov",
    "source": "venue",
    "title": "Curawaka",
@@ -8424,6 +8552,26 @@
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/curawaka-06-nov",
    "cancelled": false
+  },
+  {
+   "id": "shotgun:sillies-on-south-beach-comedy-show-5",
+   "source": "shotgun",
+   "title": "Sillies On South Beach Comedy Show",
+   "artists": [],
+   "venue": "South Beach Brewing Company Taproom & Restaurant",
+   "venue_slug": null,
+   "date": "2026-11-06",
+   "start": "2026-11-07T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$4.50",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sillies-on-south-beach-comedy-show-5"
   },
   {
    "id": "zeyzey:amtrac-live-06-nov",
@@ -8604,6 +8752,30 @@
    "organizer": "",
    "description": "",
    "url": "https://ra.co/events/2528914"
+  },
+  {
+   "id": "dice:6ac66d60ede61600010d1cba",
+   "source": "dice",
+   "title": "Dennis Cruz + Moodymann b2b Carl Craig",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2026-11-06",
+   "start": "2026-11-07T04:00:00+00:00",
+   "end": "2026-11-07T17:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $30",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ac66d60ede61600010d1cba",
+   "cancelled": false
   },
   {
    "id": "dice:6abe7ba3c57ae3000111bebb",
@@ -8954,6 +9126,30 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/cirqueofthedamned"
+  },
+  {
+   "id": "dice:6ac68f6c19d9030001a4695e",
+   "source": "dice",
+   "title": "TBA",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2026-11-07",
+   "start": "2026-11-08T04:00:00+00:00",
+   "end": "2026-11-08T17:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $20",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ac68f6c19d9030001a4695e",
+   "cancelled": false
   },
   {
    "id": "dice:6abe7c7c6f21220001c6e04f",
@@ -9756,6 +9952,30 @@
    "organizer": "",
    "description": "",
    "url": "https://ra.co/events/2528917"
+  },
+  {
+   "id": "dice:6ac681e6ede6160001275006",
+   "source": "dice",
+   "title": "James Hype + HILLS",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2026-11-13",
+   "start": "2026-11-14T04:00:00+00:00",
+   "end": "2026-11-14T17:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $30",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ac681e6ede6160001275006",
+   "cancelled": false
   },
   {
    "id": "dice:6abbd7cb208dff0001ff466c",
@@ -11215,6 +11435,30 @@
    ]
   },
   {
+   "id": "dice:6ac69100272a2a00015116c5",
+   "source": "dice",
+   "title": "TBA",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2026-11-21",
+   "start": "2026-11-22T04:00:00+00:00",
+   "end": "2026-11-23T01:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": " (sold out)",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ac69100272a2a00015116c5",
+   "cancelled": false
+  },
+  {
    "id": "dice:6abe812a02ef7e0001ee351d",
    "source": "dice",
    "title": "TBA",
@@ -11408,6 +11652,30 @@
    "cancelled": false
   },
   {
+   "id": "dice:6ac69157ede6160001290447",
+   "source": "dice",
+   "title": "TBA",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2026-11-22",
+   "start": "2026-11-23T04:00:00+00:00",
+   "end": "2026-11-24T01:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ac69157ede6160001290447",
+   "cancelled": false
+  },
+  {
    "id": "dice:6abe81edcf1f4100017bc3b4",
    "source": "dice",
    "title": "Divorcée",
@@ -11560,6 +11828,30 @@
    "organizer": "",
    "description": "",
    "url": "https://ra.co/events/2528921"
+  },
+  {
+   "id": "dice:6ac68eedf6f26b00017c493b",
+   "source": "dice",
+   "title": "Franky Rizardo + East End Dubs",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2026-11-25",
+   "start": "2026-11-26T04:00:00+00:00",
+   "end": "2026-11-26T19:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $30",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ac68eedf6f26b00017c493b",
+   "cancelled": false
   },
   {
    "id": "dice:6abbde6877c894000165e049",
@@ -13104,6 +13396,30 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/unkommon-events-and-framework-present-anotr-527848"
    ]
+  },
+  {
+   "id": "shotgun:100-michael-jackson-party-in-miami",
+   "source": "shotgun",
+   "title": "100% Michael Jackson Party In Miami !!",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-12-04",
+   "start": "2026-12-04T23:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "pop",
+    "pop rock",
+    "r&b"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/100-michael-jackson-party-in-miami"
   },
   {
    "id": "19hz:4450639-bedouin",

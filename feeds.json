@@ -3,7 +3,7 @@
   "slug": "club-space",
   "name": "Club Space",
   "file": "club-space.ics",
-  "events": 20,
+  "events": 26,
   "estimated_times": 0,
   "next": "2026-10-09",
   "sources": [
@@ -145,7 +145,7 @@
   "slug": "jolene",
   "name": "Jolene Sound Room",
   "file": "jolene.ics",
-  "events": 21,
+  "events": 23,
   "estimated_times": 0,
   "next": "2026-10-08",
   "sources": [

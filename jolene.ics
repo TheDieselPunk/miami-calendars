@@ -132,6 +132,22 @@ STATUS:CONFIRMED
 CATEGORIES:funk,hip-hop,house
 END:VEVENT
 BEGIN:VEVENT
+UID:dice-6ac67e9f19d9030001b0b3ea@jolene.miami-calendars
+DTSTAMP:20261007T221838Z
+LAST-MODIFIED:20261007T221838Z
+SEQUENCE:0
+DTSTART:20261023T020000Z
+DTEND:20261023T080000Z
+SUMMARY:Megusta\, Jesse Fernandez\, & Blotter
+LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
+ a 33131\, United States
+DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6ac67e9
+ f19d9030001b0b3ea
+URL:https://dice.fm/event/6ac67e9f19d9030001b0b3ea
+STATUS:CONFIRMED
+CATEGORIES:house,tech house
+END:VEVENT
+BEGIN:VEVENT
 UID:dice-6abd7555c82c800001a1b0c7@jolene.miami-calendars
 DTSTAMP:20261001T041824Z
 LAST-MODIFIED:20261001T041824Z
@@ -199,6 +215,22 @@ DESCRIPTION:Tags: funk\, house\, live electronic\nAges: 21+\nhttps://dice.f
 URL:https://dice.fm/event/6aa2fa7b8fd8d8000155bbf4
 STATUS:CONFIRMED
 CATEGORIES:funk,house,live electronic
+END:VEVENT
+BEGIN:VEVENT
+UID:dice-6ac6aa74f13291000127aaa6@jolene.miami-calendars
+DTSTAMP:20261007T221838Z
+LAST-MODIFIED:20261007T221838Z
+SEQUENCE:0
+DTSTART:20261106T030000Z
+DTEND:20261106T090000Z
+SUMMARY:King's Paradox: Marian (BR)\, Mvcias\, Dalva\, & Seguez
+LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
+ a 33131\, United States
+DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6ac6aa7
+ 4f13291000127aaa6
+URL:https://dice.fm/event/6ac6aa74f13291000127aaa6
+STATUS:CONFIRMED
+CATEGORIES:house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a85fc0f21cf70000116039a@jolene.miami-calendars
