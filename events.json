@@ -31,30 +31,6 @@
    ]
   },
   {
-   "id": "shotgun:manchester-meets-miami-every-tuesday-2",
-   "source": "shotgun",
-   "title": "Manchester Meets Miami : Every Tuesday",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-10-06",
-   "start": "2026-10-07T03:30:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [
-    "post-punk",
-    "electro",
-    "new wave"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/manchester-meets-miami-every-tuesday-2"
-  },
-  {
    "id": "19hz:4445068-stochastic",
    "source": "19hz+edmtrain",
    "title": "Stochastic",
@@ -10458,6 +10434,31 @@
    "cancelled": false
   },
   {
+   "id": "edmtrain:543314",
+   "source": "edmtrain",
+   "title": "Rodriguez Jr.",
+   "artists": [
+    "Rodriguez Jr."
+   ],
+   "venue": "Upside",
+   "venue_slug": null,
+   "date": "2026-11-15",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "59 NW 28th St, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/nvrqe3?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/rodriguez-jr-543314"
+   ]
+  },
+  {
    "id": "19hz:4448911-georgeclanton",
    "source": "19hz+edmtrain",
    "title": "George Clanton",
@@ -13042,7 +13043,10 @@
    "source": "19hz+edmtrain",
    "title": "Anotr",
    "artists": [
-    "ANOTR"
+    "ANOTR",
+    "Adriatique",
+    "Miguelle & Tons",
+    "ISAbella"
    ],
    "venue": "Watson Island Park",
    "venue_slug": "festivals",
@@ -13061,7 +13065,7 @@
    "description": "",
    "url": "https://dice.fm/partner/tickets/event/2wqeoa-unkommon-events-framework-present-anotr-4th-dec-watson-island-park-miami-beach-tickets",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/unkommon-anotr-527848"
+    "https://edmtrain.com/miami-fl/unkommon-events-and-framework-present-anotr-527848"
    ]
   },
   {
@@ -13201,6 +13205,30 @@
    "alt_urls": [
     "https://dice.fm/event/6ab44533af1ad900014f7295"
    ]
+  },
+  {
+   "id": "shotgun:lunasol-pres-tortuga",
+   "source": "shotgun",
+   "title": "Lunasol Pres. Tortuga Showcase",
+   "artists": [],
+   "venue": "Lunasol",
+   "venue_slug": null,
+   "date": "2026-12-04",
+   "start": "2026-12-05T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$34.20",
+   "genres": [
+    "house",
+    "deep house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/lunasol-pres-tortuga"
   },
   {
    "id": "dice:6aa19424a8735500017d3f72",
