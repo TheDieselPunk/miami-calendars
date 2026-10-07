@@ -453,6 +453,22 @@ URL:https://calendar.zeyzeymiami.com/shows/afroman-01-nov
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-haitian-vinyl-night-by-patrice-esperant-with-special-guest-rum-c
+ oke-miami-01-nov@zeyzey.miami-calendars
+DTSTAMP:20261007T161826Z
+LAST-MODIFIED:20261007T161826Z
+SEQUENCE:0
+DTSTART:20261102T013000Z
+DTEND:20261102T060000Z
+SUMMARY:Haitian Vinyl Night
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://calendar.zeyzeymiami.com/shows/haitian-vinyl-night-by-p
+ atrice-esperant-with-special-guest-rum-coke-miami-01-nov
+URL:https://calendar.zeyzeymiami.com/shows/haitian-vinyl-night-by-patrice-e
+ sperant-with-special-guest-rum-coke-miami-01-nov
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-scattrbrain-03-nov@zeyzey.miami-calendars
 DTSTAMP:20260921T200140Z
 LAST-MODIFIED:20260921T200140Z
@@ -633,9 +649,9 @@ CATEGORIES:deep house,progressive house
 END:VEVENT
 BEGIN:VEVENT
 UID:beiruttomiami1@shotgun.live
-DTSTAMP:20261005T041818Z
-LAST-MODIFIED:20261005T041818Z
-SEQUENCE:0
+DTSTAMP:20261007T161826Z
+LAST-MODIFIED:20261007T161826Z
+SEQUENCE:1
 DTSTART:20261115T040000Z
 DTEND:20261115T080000Z
 SUMMARY:Beirut Nights In Presents: Beirut To Miami
@@ -661,7 +677,8 @@ DESCRIPTION:Beirut Nights In Presents: Beirut to Miami! Immerse yourself in
  ple - $750 Minimum Spend $150\, VIP Table for 8 People - $1000 Minimum Spe
  nd $200\, VIP Table for 10 People - $1250 Minimum Spend $250\nhttps://shot
  gun.live/en/events/beiruttomiami1\nhttps://calendar.zeyzeymiami.com/shows/
- tul8te-world-tour-14-nov
+ beirut-nights-in-14-nov\nhttps://calendar.zeyzeymiami.com/shows/tul8te-wor
+ ld-tour-14-nov
 URL:https://shotgun.live/en/events/beiruttomiami1
 STATUS:CONFIRMED
 CATEGORIES:afro house,arabic house,arabic pop,indie/alternative
