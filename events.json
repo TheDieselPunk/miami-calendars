@@ -1,31 +1,6 @@
 {
  "events": [
   {
-   "id": "19hz:4444975-crespo",
-   "source": "19hz",
-   "title": "Crespo",
-   "artists": [],
-   "venue": "E11even",
-   "venue_slug": null,
-   "date": "2026-10-06",
-   "start": "2026-10-07T00:00:00+00:00",
-   "end": "2026-10-07T05:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "free w/rsvp b4 midnight / $23-34",
-   "genres": [
-    "dubstep",
-    "electro house",
-    "pop edm",
-    "trap"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://speakeasygo.com/event/EVE-VFY4VP"
-  },
-  {
    "id": "19hz:4445068-stochastic",
    "source": "19hz+edmtrain",
    "title": "Stochastic",
@@ -51,26 +26,6 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/stochastic-540639"
    ]
-  },
-  {
-   "id": "shotgun:lovenote-6",
-   "source": "shotgun",
-   "title": "Love Note: Piano + Poetry Open Mic",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-10-07",
-   "start": "2026-10-08T00:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/lovenote-6"
   },
   {
    "id": "shotgun:drop-out-of-life-with-gucci-handlesman",
@@ -360,6 +315,26 @@
     "https://shotgun.live/en/events/madradiomiami100826",
     "https://edmtrain.com/miami-fl/will-buck-dylan-schwartz-540056"
    ]
+  },
+  {
+   "id": "shotgun:laughs-at-the-library-comedy-show",
+   "source": "shotgun",
+   "title": "Laughs At The Library Comedy Show",
+   "artists": [],
+   "venue": "The Library Speakeasy",
+   "venue_slug": null,
+   "date": "2026-10-08",
+   "start": "2026-10-09T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/laughs-at-the-library-comedy-show"
   },
   {
    "id": "shotgun:vocal-jukebox-every-thursday-12",
@@ -2159,7 +2134,7 @@
    "time_estimated": false,
    "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
    "ages": "",
-   "price": "$30.00",
+   "price": "$22.70",
    "genres": [
     "edm",
     "experimental",
@@ -2169,7 +2144,7 @@
    "organizer": "Talk Less Just Dance",
    "description": "EVANORA UNLIMITED — NORTH AMERICA TOUR: MIAMI Evanora Unlimited makes their way to Miami for a special stop on the North America Tour, presented by Talk Less Just Dance, EQUINOX BOOKING , say Tech & smile DOORS 10:00PM 18+ One night bringing together live performances + some of our favorite artists from Miami and beyond. LINEUP: EVANORA UNLIMITED ANGUS GREEN GODS WISDOM DEP4RTED ZNX MIA VENDETTA DEAD LOTUS JWELSET",
    "url": "https://shotgun.live/en/events/evanora-unlimited-north-america-tour-miami-fl",
-   "tickets": "second tier $22.02 (sold out), Third tier $26.43, Last tier $35.24, First tier $15 (sold out)",
+   "tickets": "second tier $22.02 (sold out), Third tier $26.43, Last tier $35.24, First tier $15 (sold out), LIMITED DISCOUNT TICKETS $20",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -2725,7 +2700,7 @@
    "time_estimated": false,
    "address": "353 Northeast 61st Street, Miami, Florida 33137, United States",
    "ages": "18+",
-   "price": "From $30",
+   "price": "From $33",
    "genres": [
     "indie/alternative",
     "synthpop"
@@ -2992,6 +2967,26 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/mike-nervous-mandiz-542415"
    ]
+  },
+  {
+   "id": "shotgun:laughs-at-the-library-comedy-show-2",
+   "source": "shotgun",
+   "title": "Laughs At The Library Comedy Show",
+   "artists": [],
+   "venue": "The Library Speakeasy",
+   "venue_slug": null,
+   "date": "2026-10-15",
+   "start": "2026-10-16T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/laughs-at-the-library-comedy-show-2"
   },
   {
    "id": "shotgun:b2b-label-showcase",
@@ -4536,7 +4531,7 @@
    "time_estimated": false,
    "address": "353 Northeast 61st Street, Miami, Florida 33137, United States",
    "ages": "18+",
-   "price": "From $30",
+   "price": "From $20",
    "genres": [
     "drum and bass",
     "jungle",
@@ -5046,6 +5041,29 @@
    "created": "2026-10-01T20:50:11.000Z"
   },
   {
+   "id": "zeyzey:pangea-sound-presents-mezclao-free-entry-21-oct",
+   "source": "venue",
+   "title": "Pangea Sound Presents: Mezclao (Free Entry)",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-10-21",
+   "start": "2026-10-22T01:00:00+00:00",
+   "end": "2026-10-22T05:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "dance/electronic"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/pangea-sound-presents-mezclao-free-entry-21-oct",
+   "cancelled": false
+  },
+  {
    "id": "edmtrain:537182",
    "source": "edmtrain",
    "title": "DJ EU",
@@ -5184,6 +5202,26 @@
     "longitude": -80.1851332
    },
    "created": "2026-10-01T20:51:56.000Z"
+  },
+  {
+   "id": "shotgun:laughs-at-the-library-comedy-show-3",
+   "source": "shotgun",
+   "title": "Laughs At The Library Comedy Show",
+   "artists": [],
+   "venue": "The Library Speakeasy",
+   "venue_slug": null,
+   "date": "2026-10-22",
+   "start": "2026-10-23T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/laughs-at-the-library-comedy-show-3"
   },
   {
    "id": "dice:6ac67e9f19d9030001b0b3ea",
@@ -5938,6 +5976,26 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/edx-532634"
    ]
+  },
+  {
+   "id": "shotgun:silly-sips-comedy-show",
+   "source": "shotgun",
+   "title": "Silly Sips Comedy Show",
+   "artists": [],
+   "venue": "Mellow Grapes Miami",
+   "venue_slug": null,
+   "date": "2026-10-24",
+   "start": "2026-10-25T00:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$14.99",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/silly-sips-comedy-show"
   },
   {
    "id": "shotgun:madradiomiami102426",
@@ -6741,6 +6799,26 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/waxn-dance-x-never-forever-per-hammar-541055"
    ]
+  },
+  {
+   "id": "shotgun:laughs-at-the-library-comedy-show-4",
+   "source": "shotgun",
+   "title": "Laughs At The Library Comedy Show",
+   "artists": [],
+   "venue": "The Library Speakeasy",
+   "venue_slug": null,
+   "date": "2026-10-29",
+   "start": "2026-10-30T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/laughs-at-the-library-comedy-show-4"
   },
   {
    "id": "19hz:4447192-vikenarman",
@@ -8353,6 +8431,26 @@
    ]
   },
   {
+   "id": "shotgun:tuesday-night-comedy-at-thorn",
+   "source": "shotgun",
+   "title": "Tuesday Night Comedy At Thorn",
+   "artists": [],
+   "venue": "Thorn",
+   "venue_slug": null,
+   "date": "2026-11-03",
+   "start": "2026-11-04T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/tuesday-night-comedy-at-thorn"
+  },
+  {
    "id": "zeyzey:scattrbrain-03-nov",
    "source": "venue",
    "title": "Scattrbrain",
@@ -8505,6 +8603,26 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/grant-fisher-531580"
    ]
+  },
+  {
+   "id": "shotgun:laughs-at-the-library-comedy-show-5",
+   "source": "shotgun",
+   "title": "Laughs At The Library Comedy Show",
+   "artists": [],
+   "venue": "The Library Speakeasy",
+   "venue_slug": null,
+   "date": "2026-11-05",
+   "start": "2026-11-06T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/laughs-at-the-library-comedy-show-5"
   },
   {
    "id": "dice:6ac6aa74f13291000127aaa6",
@@ -8730,6 +8848,26 @@
    "description": "",
    "url": "https://dice.fm/event/6a77d938f193780001937329",
    "cancelled": false
+  },
+  {
+   "id": "shotgun:sillies-on-south-beach-comedy-show-13",
+   "source": "shotgun",
+   "title": "Sillies On South Beach Late Night Comedy Show",
+   "artists": [],
+   "venue": "South Beach Brewing Company Taproom & Restaurant",
+   "venue_slug": null,
+   "date": "2026-11-06",
+   "start": "2026-11-07T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$4.50",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sillies-on-south-beach-comedy-show-13"
   },
   {
    "id": "19hz:4447960-thepickle",
@@ -9585,6 +9723,26 @@
    ]
   },
   {
+   "id": "shotgun:laughs-at-the-library-comedy-show-6",
+   "source": "shotgun",
+   "title": "Laughs At The Library Comedy Show",
+   "artists": [],
+   "venue": "The Library Speakeasy",
+   "venue_slug": null,
+   "date": "2026-11-12",
+   "start": "2026-11-13T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/laughs-at-the-library-comedy-show-6"
+  },
+  {
    "id": "edmtrain:542603",
    "source": "edmtrain",
    "title": "BOLO",
@@ -9631,6 +9789,26 @@
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/the-altons-show-you-love-tour-13-nov",
    "cancelled": false
+  },
+  {
+   "id": "shotgun:sillies-on-south-beach-comedy-show-6",
+   "source": "shotgun",
+   "title": "Sillies On South Beach Comedy Show",
+   "artists": [],
+   "venue": "South Beach Brewing Company Taproom & Restaurant",
+   "venue_slug": null,
+   "date": "2026-11-13",
+   "start": "2026-11-14T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$4.50",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sillies-on-south-beach-comedy-show-6"
   },
   {
    "id": "shotgun:nights-in-necropolis-presents-tiffadelic-detroit-blk-goth",
@@ -9932,6 +10110,26 @@
    "url": "https://shotgun.live/en/events/the-hall-pres-roy-rosenfeld"
   },
   {
+   "id": "shotgun:sillies-on-south-beach-comedy-show-14",
+   "source": "shotgun",
+   "title": "Sillies On South Beach Late Night Comedy Show",
+   "artists": [],
+   "venue": "South Beach Brewing Company Taproom & Restaurant",
+   "venue_slug": null,
+   "date": "2026-11-13",
+   "start": "2026-11-14T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$4.50",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sillies-on-south-beach-comedy-show-14"
+  },
+  {
    "id": "19hz:4448632-specialguests",
    "source": "19hz",
    "title": "Special Guests",
@@ -10230,6 +10428,26 @@
     "longitude": -80.3169309
    },
    "created": "2026-10-05T20:43:28.000Z"
+  },
+  {
+   "id": "shotgun:silly-sips-comedy-show-2",
+   "source": "shotgun",
+   "title": "Silly Sips Comedy Show",
+   "artists": [],
+   "venue": "Mellow Grapes Miami",
+   "venue_slug": null,
+   "date": "2026-11-14",
+   "start": "2026-11-15T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$14.99",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/silly-sips-comedy-show-2"
   },
   {
    "id": "hardrock:206002",
@@ -10790,6 +11008,26 @@
    "cancelled": false
   },
   {
+   "id": "shotgun:laughs-at-the-library-comedy-show-7",
+   "source": "shotgun",
+   "title": "Laughs At The Library Comedy Show",
+   "artists": [],
+   "venue": "The Library Speakeasy",
+   "venue_slug": null,
+   "date": "2026-11-19",
+   "start": "2026-11-20T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/laughs-at-the-library-comedy-show-7"
+  },
+  {
    "id": "edmtrain:533946",
    "source": "edmtrain",
    "title": "Rockwell",
@@ -10892,6 +11130,26 @@
    "organizer": "Gigatonegroup",
    "description": "",
    "url": "https://ra.co/events/2537402"
+  },
+  {
+   "id": "shotgun:sillies-on-south-beach-comedy-show-8",
+   "source": "shotgun",
+   "title": "Sillies On South Beach Comedy Show",
+   "artists": [],
+   "venue": "South Beach Brewing Company Taproom & Restaurant",
+   "venue_slug": null,
+   "date": "2026-11-20",
+   "start": "2026-11-21T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$4.50",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sillies-on-south-beach-comedy-show-8"
   },
   {
    "id": "zeyzey:the-hails-21-nov",
@@ -11070,6 +11328,26 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/hype-tour-darude-517739"
    ]
+  },
+  {
+   "id": "shotgun:sillies-on-south-beach-comedy-show-15",
+   "source": "shotgun",
+   "title": "Sillies On South Beach Late Night Comedy Show",
+   "artists": [],
+   "venue": "South Beach Brewing Company Taproom & Restaurant",
+   "venue_slug": null,
+   "date": "2026-11-20",
+   "start": "2026-11-21T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$4.50",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sillies-on-south-beach-comedy-show-15"
   },
   {
    "id": "19hz:4449304-specialguests",
@@ -11898,6 +12176,26 @@
    "url": "https://www.eventbrite.com/e/urge-miami-festival-2026-festival-passes-tickets-1987540335647"
   },
   {
+   "id": "shotgun:sillies-on-south-beach-comedy-show-7",
+   "source": "shotgun",
+   "title": "Sillies On South Beach Comedy Show",
+   "artists": [],
+   "venue": "South Beach Brewing Company Taproom & Restaurant",
+   "venue_slug": null,
+   "date": "2026-11-27",
+   "start": "2026-11-28T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$4.50",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sillies-on-south-beach-comedy-show-7"
+  },
+  {
    "id": "zeyzey:reggaeton-rave-27-nov",
    "source": "venue",
    "title": "Reggaeton Rave",
@@ -11998,6 +12296,26 @@
     "https://dice.fm/event/8e7g5w-space-92-27th-nov-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/space-92-538122"
    ]
+  },
+  {
+   "id": "shotgun:sillies-on-south-beach-comedy-show-16",
+   "source": "shotgun",
+   "title": "Sillies On South Beach Late Night Comedy Show",
+   "artists": [],
+   "venue": "South Beach Brewing Company Taproom & Restaurant",
+   "venue_slug": null,
+   "date": "2026-11-27",
+   "start": "2026-11-28T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$4.50",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sillies-on-south-beach-comedy-show-16"
   },
   {
    "id": "dice:6ab17e0bf1fdd8000191620e",
@@ -12692,6 +13010,26 @@
    "cancelled": false
   },
   {
+   "id": "shotgun:tuesday-night-comedy-at-thorn-2",
+   "source": "shotgun",
+   "title": "Tuesday Night Comedy At Thorn",
+   "artists": [],
+   "venue": "Thorn",
+   "venue_slug": null,
+   "date": "2026-12-01",
+   "start": "2026-12-02T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/tuesday-night-comedy-at-thorn-2"
+  },
+  {
    "id": "dice:6ab442b0fb764f0001259171",
    "source": "19hz+dice+edmtrain",
    "title": "Basel: Paco Osuna",
@@ -13003,6 +13341,26 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/soley-francis-mercier-540449"
    ]
+  },
+  {
+   "id": "shotgun:laughs-at-the-library-comedy-show-8",
+   "source": "shotgun",
+   "title": "Laughs At The Library Comedy Show",
+   "artists": [],
+   "venue": "The Library Speakeasy",
+   "venue_slug": null,
+   "date": "2026-12-03",
+   "start": "2026-12-04T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/laughs-at-the-library-comedy-show-8"
   },
   {
    "id": "19hz:4450552-wherearemykeysar",
@@ -13454,6 +13812,26 @@
    ]
   },
   {
+   "id": "shotgun:sillies-on-south-beach-comedy-show-9",
+   "source": "shotgun",
+   "title": "Sillies On South Beach Comedy Show",
+   "artists": [],
+   "venue": "South Beach Brewing Company Taproom & Restaurant",
+   "venue_slug": null,
+   "date": "2026-12-04",
+   "start": "2026-12-05T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$4.50",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sillies-on-south-beach-comedy-show-9"
+  },
+  {
    "id": "hardrock:207833",
    "source": "venue",
    "title": "DAER Nightclub",
@@ -13582,6 +13960,26 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/lunasol-pres-tortuga"
+  },
+  {
+   "id": "shotgun:sillies-on-south-beach-comedy-show-17",
+   "source": "shotgun",
+   "title": "Sillies On South Beach Late Night Comedy Show",
+   "artists": [],
+   "venue": "South Beach Brewing Company Taproom & Restaurant",
+   "venue_slug": null,
+   "date": "2026-12-04",
+   "start": "2026-12-05T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$4.50",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sillies-on-south-beach-comedy-show-17"
   },
   {
    "id": "dice:6aa19424a8735500017d3f72",
@@ -14093,6 +14491,26 @@
    ]
   },
   {
+   "id": "shotgun:laughs-at-the-library-comedy-show-9",
+   "source": "shotgun",
+   "title": "Laughs At The Library Comedy Show",
+   "artists": [],
+   "venue": "The Library Speakeasy",
+   "venue_slug": null,
+   "date": "2026-12-10",
+   "start": "2026-12-11T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/laughs-at-the-library-comedy-show-9"
+  },
+  {
    "id": "shotgun:minotaur-booking-presents-sudden-infant-death-syndrome-ky",
    "source": "shotgun",
    "title": "Minotaur Booking Presents: Sudden Infant Death Syndrome (Ky)",
@@ -14115,6 +14533,26 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/minotaur-booking-presents-sudden-infant-death-syndrome-ky"
+  },
+  {
+   "id": "shotgun:sillies-on-south-beach-comedy-show-10",
+   "source": "shotgun",
+   "title": "Sillies On South Beach Comedy Show",
+   "artists": [],
+   "venue": "South Beach Brewing Company Taproom & Restaurant",
+   "venue_slug": null,
+   "date": "2026-12-11",
+   "start": "2026-12-12T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$4.50",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sillies-on-south-beach-comedy-show-10"
   },
   {
    "id": "zeyzey:los-amigos-invisibles-11-dec",
@@ -14157,6 +14595,26 @@
    "description": "",
    "url": "https://tixr.com/e/207835",
    "generic_title": true
+  },
+  {
+   "id": "shotgun:sillies-on-south-beach-comedy-show-18",
+   "source": "shotgun",
+   "title": "Sillies On South Beach Late Night Comedy Show",
+   "artists": [],
+   "venue": "South Beach Brewing Company Taproom & Restaurant",
+   "venue_slug": null,
+   "date": "2026-12-11",
+   "start": "2026-12-12T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$4.50",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sillies-on-south-beach-comedy-show-18"
   },
   {
    "id": "hardrock:207851",
@@ -14231,6 +14689,26 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/buko-boys-floating-around-tour-at-lincoln-s-beard-miami-fl"
+  },
+  {
+   "id": "shotgun:silly-sips-comedy-show-3",
+   "source": "shotgun",
+   "title": "Silly Sips Comedy Show",
+   "artists": [],
+   "venue": "Mellow Grapes Miami",
+   "venue_slug": null,
+   "date": "2026-12-12",
+   "start": "2026-12-13T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$14.99",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/silly-sips-comedy-show-3"
   },
   {
    "id": "shotgun:minotaur-booking-presents-sids-ky-w-shinkaza-more",
@@ -14469,6 +14947,46 @@
    "cancelled": false
   },
   {
+   "id": "shotgun:laughs-at-the-library-comedy-show-10",
+   "source": "shotgun",
+   "title": "Laughs At The Library Comedy Show",
+   "artists": [],
+   "venue": "The Library Speakeasy",
+   "venue_slug": null,
+   "date": "2026-12-17",
+   "start": "2026-12-18T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/laughs-at-the-library-comedy-show-10"
+  },
+  {
+   "id": "shotgun:sillies-on-south-beach-comedy-show-11",
+   "source": "shotgun",
+   "title": "Sillies On South Beach Comedy Show",
+   "artists": [],
+   "venue": "South Beach Brewing Company Taproom & Restaurant",
+   "venue_slug": null,
+   "date": "2026-12-18",
+   "start": "2026-12-19T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$4.50",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sillies-on-south-beach-comedy-show-11"
+  },
+  {
    "id": "zeyzey:i-love-r-b-party-18-dec",
    "source": "venue",
    "title": "I Love R&B party",
@@ -14540,6 +15058,26 @@
     "https://dice.fm/event/7dxyd9-the-resistance-18th-dec-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/rise-of-the-shadowcell-the-resistance-524125"
    ]
+  },
+  {
+   "id": "shotgun:sillies-on-south-beach-comedy-show-19",
+   "source": "shotgun",
+   "title": "Sillies On South Beach Late Night Comedy Show",
+   "artists": [],
+   "venue": "South Beach Brewing Company Taproom & Restaurant",
+   "venue_slug": null,
+   "date": "2026-12-18",
+   "start": "2026-12-19T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$4.50",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sillies-on-south-beach-comedy-show-19"
   },
   {
    "id": "19hz:4451992-kloud",
@@ -15196,6 +15734,106 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/jody-wisternoff-537703"
    ]
+  },
+  {
+   "id": "shotgun:tuesday-night-comedy-at-thorn-3",
+   "source": "shotgun",
+   "title": "Tuesday Night Comedy At Thorn",
+   "artists": [],
+   "venue": "Thorn",
+   "venue_slug": null,
+   "date": "2027-01-05",
+   "start": "2027-01-06T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/tuesday-night-comedy-at-thorn-3"
+  },
+  {
+   "id": "shotgun:laughs-at-the-library-comedy-show-11",
+   "source": "shotgun",
+   "title": "Laughs At The Library Comedy Show",
+   "artists": [],
+   "venue": "The Library Speakeasy",
+   "venue_slug": null,
+   "date": "2027-01-07",
+   "start": "2027-01-08T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/laughs-at-the-library-comedy-show-11"
+  },
+  {
+   "id": "shotgun:sillies-on-south-beach-comedy-show-12",
+   "source": "shotgun",
+   "title": "Sillies On South Beach Comedy Show",
+   "artists": [],
+   "venue": "South Beach Brewing Company Taproom & Restaurant",
+   "venue_slug": null,
+   "date": "2027-01-08",
+   "start": "2027-01-09T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$4.50",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sillies-on-south-beach-comedy-show-12"
+  },
+  {
+   "id": "shotgun:sillies-on-south-beach-comedy-show-20",
+   "source": "shotgun",
+   "title": "Sillies On South Beach Late Night Comedy Show",
+   "artists": [],
+   "venue": "South Beach Brewing Company Taproom & Restaurant",
+   "venue_slug": null,
+   "date": "2027-01-08",
+   "start": "2027-01-09T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$4.50",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sillies-on-south-beach-comedy-show-20"
+  },
+  {
+   "id": "shotgun:silly-sips-comedy-show-4",
+   "source": "shotgun",
+   "title": "Silly Sips Comedy Show",
+   "artists": [],
+   "venue": "Mellow Grapes Miami",
+   "venue_slug": null,
+   "date": "2027-01-09",
+   "start": "2027-01-10T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$14.99",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/silly-sips-comedy-show-4"
   },
   {
    "id": "19hz:4454776-infectedmushroom",
