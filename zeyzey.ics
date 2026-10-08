@@ -995,6 +995,21 @@ URL:https://calendar.zeyzeymiami.com/shows/lukas-frank-11-oct
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-booker-t-jones-15-jan@zeyzey.miami-calendars
+DTSTAMP:20261008T161834Z
+LAST-MODIFIED:20261008T161834Z
+SEQUENCE:0
+DTSTART:20270116T010000Z
+DTEND:20270116T080000Z
+SUMMARY:Booker T. Jones
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: r&b/soul\nhttps://calendar.zeyzeymiami.com/shows/booker-t
+ -jones-15-jan
+URL:https://calendar.zeyzeymiami.com/shows/booker-t-jones-15-jan
+STATUS:CONFIRMED
+CATEGORIES:r&b/soul
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-the-unofficial-end-cruise-party-21-jan@zeyzey.miami-calendars
 DTSTAMP:20260921T200140Z
 LAST-MODIFIED:20260921T200140Z

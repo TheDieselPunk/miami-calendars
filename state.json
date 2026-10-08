@@ -1,8 +1,13 @@
 {
  "19hz-4445076-sebcobarudymfanc@mad-radio.miami-calendars": {
-  "hash": "4f21ca5514d7bfa2",
+  "hash": "a01c836e65aae94f",
+  "seq": 1,
+  "modified": "2026-10-08T16:18:34+00:00"
+ },
+ "19hz-4445176-milagamaproletar@jolene.miami-calendars": {
+  "hash": "733c73ddd5324298",
   "seq": 0,
-  "modified": "2026-10-08T10:18:25+00:00"
+  "modified": "2026-10-08T16:18:34+00:00"
  },
  "19hz-4445268-dvs1@domicile.miami-calendars": {
   "hash": "df6b18116dd30b54",
@@ -33,6 +38,11 @@
   "hash": "13ddc9408591a4ba",
   "seq": 0,
   "modified": "2026-09-21T21:40:09+00:00"
+ },
+ "19hz-4445371-masoncollectived@club-space.miami-calendars": {
+  "hash": "48fd129d1fa7662b",
+  "seq": 0,
+  "modified": "2026-10-08T16:18:34+00:00"
  },
  "19hz-4445443-lukasfrank@zeyzey.miami-calendars": {
   "hash": "f2e5c3d660d05338",
@@ -285,9 +295,9 @@
   "modified": "2026-10-04T22:18:19+00:00"
  },
  "dice-6a72288c57ddd20001097968@club-space.miami-calendars": {
-  "hash": "972dff32536e5d65",
-  "seq": 4,
-  "modified": "2026-09-29T04:18:14+00:00"
+  "hash": "e41f1a5b7a14daca",
+  "seq": 5,
+  "modified": "2026-10-08T16:18:34+00:00"
  },
  "dice-6a77d938f193780001937329@kemistry.miami-calendars": {
   "hash": "97c65e1555427f3d",
@@ -634,11 +644,6 @@
   "seq": 5,
   "modified": "2026-10-01T22:18:30+00:00"
  },
- "dice-6aad6a7f4e3af20001d7ad92@jolene.miami-calendars": {
-  "hash": "60f697cead190c92",
-  "seq": 3,
-  "modified": "2026-10-03T10:18:36+00:00"
- },
  "dice-6ab179c76d5a1f0001669601@kemistry.miami-calendars": {
   "hash": "f6e5d2b493bb392a",
   "seq": 1,
@@ -848,6 +853,11 @@
   "hash": "6079a33baa03d3ed",
   "seq": 0,
   "modified": "2026-10-07T22:18:38+00:00"
+ },
+ "dice-6ac7a7ae0eaa770001a96e07@club-space.miami-calendars": {
+  "hash": "bc3eb6154645a13f",
+  "seq": 0,
+  "modified": "2026-10-08T16:18:34+00:00"
  },
  "edmtrain-434705@festivals.miami-calendars": {
   "hash": "e416a5823d96ff63",
@@ -1311,23 +1321,23 @@
  },
  "madradiomiami101426@shotgun.live": {
   "hash": "e39ed81b6a1686bf",
-  "seq": 53,
-  "modified": "2026-10-08T10:18:25+00:00"
+  "seq": 55,
+  "modified": "2026-10-08T16:18:34+00:00"
  },
  "madradiomiami101526@shotgun.live": {
   "hash": "d90990d3aa3265cc",
-  "seq": 53,
-  "modified": "2026-10-08T10:18:25+00:00"
+  "seq": 55,
+  "modified": "2026-10-08T16:18:34+00:00"
  },
  "madradiomiami101626@shotgun.live": {
   "hash": "58a12604e5af3392",
-  "seq": 22,
-  "modified": "2026-10-08T10:18:25+00:00"
+  "seq": 24,
+  "modified": "2026-10-08T16:18:34+00:00"
  },
  "madradiomiami101726@shotgun.live": {
   "hash": "f459f060a060733f",
-  "seq": 22,
-  "modified": "2026-10-08T10:18:25+00:00"
+  "seq": 24,
+  "modified": "2026-10-08T16:18:34+00:00"
  },
  "madradiomiami102126@shotgun.live": {
   "hash": "7682cc251e858a48",
@@ -1498,6 +1508,11 @@
   "hash": "c02c36fdecafca3f",
   "seq": 0,
   "modified": "2026-09-21T20:01:40+00:00"
+ },
+ "zeyzey-booker-t-jones-15-jan@zeyzey.miami-calendars": {
+  "hash": "25212b1bdf6a65c6",
+  "seq": 0,
+  "modified": "2026-10-08T16:18:34+00:00"
  },
  "zeyzey-christian-loffler-live-fall-2026-tour-13-nov@zeyzey.miami-calendars": {
   "hash": "c33479056151983c",

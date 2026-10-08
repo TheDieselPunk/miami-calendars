@@ -2,11 +2,9 @@
  "events": [
   {
    "id": "19hz:4445068-stochastic",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Stochastic",
-   "artists": [
-    "Stochastic"
-   ],
+   "artists": [],
    "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
    "date": "2026-10-07",
@@ -22,30 +20,13 @@
    "genres_inferred": false,
    "organizer": "Jared Dillian",
    "description": "",
-   "url": "https://www.eventbrite.com/e/stochastic-at-do-not-sit-tickets-1991665354690",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/stochastic-540639"
-   ]
+   "url": "https://www.eventbrite.com/e/stochastic-at-do-not-sit-tickets-1991665354690"
   },
   {
    "id": "19hz:4445076-dubplatesdragons",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Dubplates & Dragons Wednesdayz",
-   "artists": [
-    "Medley",
-    "Sel. 6",
-    "Kharma",
-    "CeEmme",
-    "Empress Galaxy Sword",
-    "Flash",
-    "Franklin mint",
-    "Nois.net",
-    "3 Frequenseas",
-    "Cruces",
-    "Luna Thunderstorm",
-    "Wolfee Wolfenstein",
-    "Avalon Hechisarah Pendragon"
-   ],
+   "artists": [],
    "venue": "Hollywood Live Restaurant & Lounge",
    "venue_slug": null,
    "date": "2026-10-07",
@@ -64,19 +45,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://app.hi.events/event/11229/dubplates-dragons-wednesdayz",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/dubplates-and-dragons-wednesdayz-medley-538160"
-   ]
+   "url": "https://app.hi.events/event/11229/dubplates-dragons-wednesdayz"
   },
   {
    "id": "19hz:4445076-sebcobarudymfanc",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Seb Coba / Rudy M & Fanchi / Face / Reydel / Alex Meadows",
-   "artists": [
-    "Reydel",
-    "Alex Meadows"
-   ],
+   "artists": [],
    "venue": "Mad Radio",
    "venue_slug": "mad-radio",
    "date": "2026-10-07",
@@ -93,37 +68,7 @@
    "genres_inferred": true,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/madradiomiami100726",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/reydel-alex-meadows-540055"
-   ]
-  },
-  {
-   "id": "edmtrain:541816",
-   "source": "edmtrain",
-   "title": "Sophie Du Futur, Solune, Doin' Us and",
-   "artists": [
-    "Sophie Du Futur",
-    "Solune",
-    "Doin' Us and"
-   ],
-   "venue": "AIRE Miami",
-   "venue_slug": null,
-   "date": "2026-10-07",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "111 NE 20th St, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://posh.vip/e/sophie-du-futur-solune-doin-us-and-anna-belen-by-pitch-park?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/sophie-du-futur-solune-541816"
-   ]
+   "url": "https://shotgun.live/en/events/madradiomiami100726"
   },
   {
    "id": "tablelist:2e996312a3fbfc09",
@@ -284,30 +229,26 @@
    "url": "https://shotgun.live/en/events/vocal-jukebox-every-thursday-12"
   },
   {
-   "id": "dice:6aad6a7f4e3af20001d7ad92",
-   "source": "19hz+dice",
+   "id": "19hz:4445176-milagamaproletar",
+   "source": "19hz",
    "title": "Mila Gama, Proletar, & Fiuza",
    "artists": [],
-   "venue": "Jolene Sound Room Miami",
+   "venue": "Jolene Downtown",
    "venue_slug": "jolene",
    "date": "2026-10-08",
    "start": "2026-10-09T02:00:00+00:00",
    "end": "2026-10-09T08:00:00+00:00",
    "time_estimated": false,
-   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "address": "",
    "ages": "21+",
-   "price": "From $7",
+   "price": "$12",
    "genres": [
     "house"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6aad6a7f4e3af20001d7ad92",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/event/6aad6a7f4e3af20001d7ad92"
-   ]
+   "url": "https://dice.fm/event/6aad6a7f4e3af20001d7ad92"
   },
   {
    "id": "dice:6ac3df8fe902670001dd876a",
@@ -1572,6 +1513,30 @@
    ]
   },
   {
+   "id": "dice:6ac7a7ae0eaa770001a96e07",
+   "source": "dice",
+   "title": "Space Yoga",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2026-10-10",
+   "start": "2026-10-10T20:20:00+00:00",
+   "end": "2026-10-10T21:45:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ac7a7ae0eaa770001a96e07",
+   "cancelled": false
+  },
+  {
    "id": "dice:6aa1904c7b78cf000187096e",
    "source": "dice",
    "title": "Day Made Tour Ft. Big Red (Alex Dougherty)",
@@ -2078,9 +2043,9 @@
    "created": "2026-09-09T16:11:34.000Z"
   },
   {
-   "id": "dice:6a72288c57ddd20001097968",
-   "source": "19hz+dice+edmtrain",
-   "title": "MVSON",
+   "id": "19hz:4445371-masoncollectived",
+   "source": "19hz+edmtrain",
+   "title": "Mason Collective, Dennis Ferrer, Bontan, Classmatic, AJ Christou, Rooleh, Ms. Mada",
    "artists": [
     "Mason Collective",
     "Dennis Ferrer",
@@ -2089,15 +2054,15 @@
     "AJ Christou",
     "Rooléh"
    ],
-   "venue": "Club Space Miami",
+   "venue": "Club Space",
    "venue_slug": "club-space",
    "date": "2026-10-10",
    "start": "2026-10-11T03:00:00+00:00",
    "end": "2026-10-11T18:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": "From $30",
+   "price": "$30",
    "genres": [
     "tech house"
    ],
@@ -2105,11 +2070,33 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/7dx7bv-mvson-10th-oct-club-space-miami-miami-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/7dx7bv-mvson-10th-oct-club-space-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/mason-collective-dennis-ferrer-526382"
    ]
+  },
+  {
+   "id": "dice:6a72288c57ddd20001097968",
+   "source": "dice",
+   "title": "MVSON",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2026-10-10",
+   "start": "2026-10-11T03:00:00+00:00",
+   "end": "2026-10-11T18:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $30",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6a72288c57ddd20001097968",
+   "cancelled": false
   },
   {
    "id": "dice:6a90700ddd78440001e06b8c",
@@ -13482,7 +13469,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "",
+   "price": "$15.00",
    "genres": [
     "house",
     "tech house"
@@ -13761,7 +13748,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "",
+   "price": "$15.00",
    "genres": [
     "afro house",
     "house",
@@ -15198,6 +15185,29 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/silly-sips-comedy-show-4"
+  },
+  {
+   "id": "zeyzey:booker-t-jones-15-jan",
+   "source": "venue",
+   "title": "Booker T. Jones",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2027-01-15",
+   "start": "2027-01-16T01:00:00+00:00",
+   "end": "2027-01-16T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "r&b/soul"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/booker-t-jones-15-jan",
+   "cancelled": false
   },
   {
    "id": "19hz:4454776-infectedmushroom",
