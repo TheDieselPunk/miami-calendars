@@ -124,19 +124,49 @@ STATUS:CONFIRMED
 CATEGORIES:future bass,house,synthpop
 END:VEVENT
 BEGIN:VEVENT
-UID:19hz-4450456-factorybasel2026@factory-town.miami-calendars
-DTSTAMP:20261004T221819Z
-LAST-MODIFIED:20261004T221819Z
+UID:dice-6ac6b477b79982000164dae2@factory-town.miami-calendars
+DTSTAMP:20261008T221912Z
+LAST-MODIFIED:20261008T221912Z
 SEQUENCE:0
 DTSTART:20261203T030000Z
 DTEND:20261203T110000Z
-SUMMARY:Factory Basel 2026 5-Day Pass
-LOCATION:Factory Town
+SUMMARY:Factory Basel 2026 (Wednesday Pass)
+LOCATION:Factory Town\, 4800 NW 37th Ave\, Miami\, FL 33142\, USA
 DESCRIPTION:Tags: house\, tech house\, techno\nAges: 18+\nhttps://dice.fm/e
  vent/6aaafb88d2cb540001cdd853
 URL:https://dice.fm/event/6aaafb88d2cb540001cdd853
 STATUS:CONFIRMED
 CATEGORIES:house,tech house,techno
+END:VEVENT
+BEGIN:VEVENT
+UID:dice-6ac6b8aa8532130001c3c2df@factory-town.miami-calendars
+DTSTAMP:20261008T221912Z
+LAST-MODIFIED:20261008T221912Z
+SEQUENCE:0
+DTSTART:20261204T030000Z
+DTEND:20261204T110000Z
+SUMMARY:Factory Basel 2026 (Thursday Pass)
+LOCATION:Factory Town\, 4800 NW 37th Ave\, Miami\, FL 33142\, USA
+DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6ac6b8aa853
+ 2130001c3c2df
+URL:https://dice.fm/event/6ac6b8aa8532130001c3c2df
+STATUS:CONFIRMED
+CATEGORIES:house,techno
+END:VEVENT
+BEGIN:VEVENT
+UID:dice-6ac6bc67f132910001aa91b9@factory-town.miami-calendars
+DTSTAMP:20261008T221912Z
+LAST-MODIFIED:20261008T221912Z
+SEQUENCE:0
+DTSTART:20261205T030000Z
+DTEND:20261205T120000Z
+SUMMARY:Factory Basel 2026 (Friday Pass)
+LOCATION:Factory Town\, 4800 NW 37th Ave\, Miami\, FL 33142\, USA
+DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6ac6bc67f13
+ 2910001aa91b9
+URL:https://dice.fm/event/6ac6bc67f132910001aa91b9
+STATUS:CONFIRMED
+CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aa82e05fcb1030001a9cd65@factory-town.miami-calendars
@@ -159,12 +189,12 @@ CATEGORIES:deep house,funky house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab5a8633fd3b20001e06e58@factory-town.miami-calendars
-DTSTAMP:20261002T221826Z
-LAST-MODIFIED:20261002T221826Z
-SEQUENCE:1
+DTSTAMP:20261008T221912Z
+LAST-MODIFIED:20261008T221912Z
+SEQUENCE:2
 DTSTART:20261207T030000Z
 DTEND:20261207T110000Z
-SUMMARY:elrow Miami (Factory Basel 2026 Closing Party)
+SUMMARY:Factory Basel 2026 (Sunday Pass)
 LOCATION:Factory Town\, 4800 NW 37th Ave\, Miami\, FL 33142\, USA
 DESCRIPTION:Tags: progressive house\, tech house\nAges: 18+\nhttps://dice.f
  m/event/6ab5a8633fd3b20001e06e58\nhttps://edmtrain.com/miami-fl/elrow-5402

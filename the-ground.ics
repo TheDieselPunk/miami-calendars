@@ -306,4 +306,19 @@ URL:https://dice.fm/event/6dgpd2-raw-cuts-ground-basel-2026-3rd-dec-the-gro
 STATUS:CONFIRMED
 CATEGORIES:deep house,techno,uk garage
 END:VEVENT
+BEGIN:VEVENT
+UID:dice-6ac7e104051f140001741eed@the-ground.miami-calendars
+DTSTAMP:20261008T221912Z
+LAST-MODIFIED:20261008T221912Z
+SEQUENCE:0
+DTSTART:20261213T040000Z
+DTEND:20261213T120000Z
+SUMMARY:My Friend Misty x OTHERWORLD Present: Sagittarius Soiree
+LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
+DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6ac7e104051
+ f140001741eed
+URL:https://dice.fm/event/6ac7e104051f140001741eed
+STATUS:CONFIRMED
+CATEGORIES:house,techno
+END:VEVENT
 END:VCALENDAR

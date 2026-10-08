@@ -17,7 +17,7 @@
   "slug": "the-ground",
   "name": "The Ground at Space",
   "file": "the-ground.ics",
-  "events": 18,
+  "events": 19,
   "estimated_times": 0,
   "next": "2026-10-09",
   "sources": [
@@ -58,7 +58,7 @@
   "slug": "factory-town",
   "name": "Factory Town",
   "file": "factory-town.ics",
-  "events": 10,
+  "events": 12,
   "estimated_times": 0,
   "next": "2026-10-09",
   "sources": [
@@ -172,7 +172,7 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 46,
+  "events": 47,
   "estimated_times": 23,
   "next": "2026-10-09",
   "sources": [
