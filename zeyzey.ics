@@ -9,18 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:tablelist-2e996312a3fbfc09@zeyzey.miami-calendars
-DTSTAMP:20261001T041824Z
-LAST-MODIFIED:20261001T041824Z
-SEQUENCE:0
+DTSTAMP:20261009T041829Z
+LAST-MODIFIED:20261009T041829Z
+SEQUENCE:1
 DTSTART:20261008T230000Z
 DTEND:20261009T040000Z
 SUMMARY:Night Tapes
 LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: dance/electronic\nhttps://buy.tablelist.com/e/2e996312a3f
- bfc09\nhttps://calendar.zeyzeymiami.com/shows/night-tapes-08-oct
+DESCRIPTION:https://buy.tablelist.com/e/2e996312a3fbfc09
 URL:https://buy.tablelist.com/e/2e996312a3fbfc09
 STATUS:CONFIRMED
-CATEGORIES:dance/electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:tablelist-a2c7b0c91d4ac64b@zeyzey.miami-calendars
@@ -500,19 +498,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-rae-sada-b2b-ape-drums-05-nov@zeyzey.miami-calendars
-DTSTAMP:20261007T041839Z
-LAST-MODIFIED:20261007T041839Z
-SEQUENCE:2
+DTSTAMP:20261009T041829Z
+LAST-MODIFIED:20261009T041829Z
+SEQUENCE:3
 DTSTART:20261106T000000Z
 DTEND:20261106T060000Z
 SUMMARY:Rae Sada b2b Ape Drums (Free Entry)
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: RAE SADA\, Ape Drums\nTags: dance/electronic\nhttps://c
- alendar.zeyzeymiami.com/shows/rae-sada-b2b-ape-drums-05-nov\nhttps://edmtr
- ain.com/miami-fl/rae-sada-ape-drums-542737
+DESCRIPTION:Lineup: RAE SADA\, Ape Drums\nTags: big room\, dancehall\nAges:
+  18+\nhttps://calendar.zeyzeymiami.com/shows/rae-sada-b2b-ape-drums-05-nov
+ \nhttps://edmtrain.com/miami-fl/rae-sada-ape-drums-542737
 URL:https://calendar.zeyzeymiami.com/shows/rae-sada-b2b-ape-drums-05-nov
 STATUS:CONFIRMED
-CATEGORIES:dance/electronic
+CATEGORIES:big room,dancehall
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-the-floozies-05-nov@zeyzey.miami-calendars

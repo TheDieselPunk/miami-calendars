@@ -213,15 +213,17 @@ CATEGORIES:house,trance
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abe7ba3c57ae3000111bebb@floyd.miami-calendars
-DTSTAMP:20261001T221830Z
-LAST-MODIFIED:20261001T221830Z
-SEQUENCE:0
+DTSTAMP:20261009T041829Z
+LAST-MODIFIED:20261009T041829Z
+SEQUENCE:1
 DTSTART:20261107T040000Z
 DTEND:20261107T100000Z
 SUMMARY:Veronica Vasicka [Minimal Wave]
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6abe7ba3c57
- ae3000111bebb
+DESCRIPTION:Lineup: Veronica Vasicka\, Minimal Wave\, True Vine\, Souls Dep
+ arted\, SATURNSARii\nTags (guess): house\, techno\nhttps://dice.fm/event/6
+ abe7ba3c57ae3000111bebb\nhttps://edmtrain.com/miami-fl/veronica-vasicka-mi
+ nimal-wave-543657
 URL:https://dice.fm/event/6abe7ba3c57ae3000111bebb
 STATUS:CONFIRMED
 CATEGORIES:house,techno
@@ -460,6 +462,23 @@ URL:https://dice.fm/event/l8ml6p-obskr-presents-the-system-floyd-basel-2026
  -5th-dec-floyd-miami-miami-tickets
 STATUS:CONFIRMED
 CATEGORIES:tech house
+END:VEVENT
+BEGIN:VEVENT
+UID:edmtrain-543658@floyd.miami-calendars
+DTSTAMP:20261009T041829Z
+LAST-MODIFIED:20261009T041829Z
+SEQUENCE:0
+DTSTART:20261207T040000Z
+DTEND:20261207T100000Z
+SUMMARY:Knight Club: MCR-T\, Mija\, Cole Knight\, Berrakka
+LOCATION:Floyd\, 34 NE 11th St\, Miami\, FL 33132\, USA
+DESCRIPTION:Lineup: MCR-T\, Mija\, Cole Knight\, Berrakka\nTags (guess): ho
+ use\, techno\nTimes are an estimate from Floyd's usual hours - the listing
+  has no start time yet. Check the link.\nhttps://dice.fm/event/q2drry?pid=
+ d6342b83\nhttps://edmtrain.com/miami-fl/knight-club-mcr-t-543658
+URL:https://dice.fm/event/q2drry?pid=d6342b83
+STATUS:CONFIRMED
+CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:edmtrain-541419@floyd.miami-calendars

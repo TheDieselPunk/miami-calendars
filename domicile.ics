@@ -24,6 +24,23 @@ STATUS:CONFIRMED
 CATEGORIES:techno
 END:VEVENT
 BEGIN:VEVENT
+UID:edmtrain-543643@domicile.miami-calendars
+DTSTAMP:20261009T041829Z
+LAST-MODIFIED:20261009T041829Z
+SEQUENCE:0
+DTSTART:20261017T020000Z
+DTEND:20261017T090000Z
+SUMMARY:hhunter\, Antimatter
+LOCATION:Domicile Miami\, 2900 NW 7th Ave\, Miami\, FL 33127\, USA
+DESCRIPTION:Lineup: hhunter\, Antimatter\nTags (guess): techno\nTimes are a
+ n estimate from Domicile's usual hours - the listing has no start time yet
+ . Check the link.\nhttps://dice.fm/event/2wnv6a?pid=d6342b83\nhttps://edmt
+ rain.com/miami-fl/hhunter-antimatter-543643
+URL:https://dice.fm/event/2wnv6a?pid=d6342b83
+STATUS:CONFIRMED
+CATEGORIES:techno
+END:VEVENT
+BEGIN:VEVENT
 UID:edmtrain-542091@domicile.miami-calendars
 DTSTAMP:20261004T041827Z
 LAST-MODIFIED:20261004T041827Z

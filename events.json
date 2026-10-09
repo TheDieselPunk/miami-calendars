@@ -1,78 +1,8 @@
 {
  "events": [
   {
-   "id": "19hz:4445068-stochastic",
-   "source": "19hz",
-   "title": "Stochastic",
-   "artists": [],
-   "venue": "Do Not Sit On The Furniture",
-   "venue_slug": null,
-   "date": "2026-10-07",
-   "start": "2026-10-07T23:00:00+00:00",
-   "end": "2026-10-08T03:00:00+00:00",
-   "time_estimated": false,
-   "address": "Miami Beach",
-   "ages": "21+",
-   "price": "$25-35",
-   "genres": [
-    "progressive house"
-   ],
-   "genres_inferred": false,
-   "organizer": "Jared Dillian",
-   "description": "",
-   "url": "https://www.eventbrite.com/e/stochastic-at-do-not-sit-tickets-1991665354690"
-  },
-  {
-   "id": "19hz:4445076-dubplatesdragons",
-   "source": "19hz",
-   "title": "Dubplates & Dragons Wednesdayz",
-   "artists": [],
-   "venue": "Hollywood Live Restaurant & Lounge",
-   "venue_slug": null,
-   "date": "2026-10-07",
-   "start": "2026-10-08T01:00:00+00:00",
-   "end": "2026-10-08T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "Hollywood",
-   "ages": "21+",
-   "price": "$5-10",
-   "genres": [
-    "bass music",
-    "dubstep",
-    "tech house",
-    "uk garage"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://app.hi.events/event/11229/dubplates-dragons-wednesdayz"
-  },
-  {
-   "id": "19hz:4445076-sebcobarudymfanc",
-   "source": "19hz",
-   "title": "Seb Coba / Rudy M & Fanchi / Face / Reydel / Alex Meadows",
-   "artists": [],
-   "venue": "Mad Radio",
-   "venue_slug": "mad-radio",
-   "date": "2026-10-07",
-   "start": "2026-10-08T01:00:00+00:00",
-   "end": "2026-10-08T07:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "free",
-   "genres": [
-    "deep house",
-    "house"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/madradiomiami100726"
-  },
-  {
    "id": "tablelist:2e996312a3fbfc09",
-   "source": "tablelist+venue",
+   "source": "tablelist",
    "title": "Night Tapes",
    "artists": [],
    "venue": "ZeyZey Miami",
@@ -84,16 +14,11 @@
    "address": "",
    "ages": "",
    "price": "",
-   "genres": [
-    "dance/electronic"
-   ],
+   "genres": [],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://buy.tablelist.com/e/2e996312a3fbfc09",
-   "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/night-tapes-08-oct"
-   ]
+   "url": "https://buy.tablelist.com/e/2e996312a3fbfc09"
   },
   {
    "id": "tablelist:a2c7b0c91d4ac64b",
@@ -114,26 +39,6 @@
    "organizer": "",
    "description": "",
    "url": "https://buy.tablelist.com/e/a2c7b0c91d4ac64b"
-  },
-  {
-   "id": "shotgun:karaokiki1-37",
-   "source": "shotgun",
-   "title": "Karaokiki Happy Hour",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-10-08",
-   "start": "2026-10-09T00:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/karaokiki1-37"
   },
   {
    "id": "zeyzey:degs-craze-shinobi-b2b-stereotype-08-oct",
@@ -205,6 +110,31 @@
    ]
   },
   {
+   "id": "shotgun:loofy-sable-october-8th",
+   "source": "19hz+shotgun",
+   "title": "Loofy @Sable October 8th",
+   "artists": [],
+   "venue": "Sable",
+   "venue_slug": null,
+   "date": "2026-10-08",
+   "start": "2026-10-09T01:30:00+00:00",
+   "end": "2026-10-09T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "$28.13",
+   "genres": [
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/loofy-sable-october-8th",
+   "alt_urls": [
+    "https://dice.fm/event/wwk9wg-2mrw-frqnc-moji-presents-loofy-8th-oct-sable-miami-miami-tickets"
+   ]
+  },
+  {
    "id": "shotgun:vocal-jukebox-every-thursday-12",
    "source": "shotgun",
    "title": "Vocal Jukebox : Every Thursday",
@@ -241,7 +171,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $7",
+   "price": "$12",
    "genres": [
     "house"
    ],
@@ -267,7 +197,7 @@
    "time_estimated": false,
    "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "",
-   "price": "",
+   "price": " (sold out)",
    "genres": [
     "bass",
     "dubstep"
@@ -297,31 +227,6 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/superqueen-35"
-  },
-  {
-   "id": "shotgun:loofy-sable-october-8th",
-   "source": "19hz+shotgun",
-   "title": "Loofy @Sable October 8th",
-   "artists": [],
-   "venue": "Sable",
-   "venue_slug": null,
-   "date": "2026-10-08",
-   "start": "2026-10-09T02:00:00+00:00",
-   "end": "2026-10-09T06:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "$16.00",
-   "genres": [
-    "tech house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/loofy-sable-october-8th",
-   "alt_urls": [
-    "https://dice.fm/event/wwk9wg-2mrw-frqnc-moji-presents-loofy-8th-oct-sable-miami-miami-tickets"
-   ]
   },
   {
    "id": "edmtrain:542830",
@@ -2349,6 +2254,28 @@
    "cancelled": false
   },
   {
+   "id": "19hz:4445443-breaksyo12yearan",
+   "source": "19hz",
+   "title": "Breaks Yo! 12 Year Anniversary: JimiTheGenius, Bebe Breaks, Masinc, Kharma, Cosmictronic, Twrexx",
+   "artists": [],
+   "venue": "Tenth Level Tavern",
+   "venue_slug": null,
+   "date": "2026-10-11",
+   "start": "2026-10-11T21:00:00+00:00",
+   "end": "2026-10-12T04:00:00+00:00",
+   "time_estimated": false,
+   "address": "Oakland Park",
+   "ages": "21+",
+   "price": "free",
+   "genres": [
+    "breaks"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.facebook.com/events/1658610325755277/"
+  },
+  {
    "id": "19hz:4445443-lukasfrank",
    "source": "19hz+edmtrain",
    "title": "Lukas & Frank",
@@ -2426,6 +2353,26 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/damaged-goods-527073"
    ]
+  },
+  {
+   "id": "shotgun:angie",
+   "source": "shotgun",
+   "title": "Haus Of Angie (18+)",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-10-11",
+   "start": "2026-10-12T00:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$5.00",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/angie"
   },
   {
    "id": "dice:6a907094edf55c0001de62e9",
@@ -3486,6 +3433,34 @@
    "url": "https://dice.fm/event/7dxxk9-reyou-moblack-records-16th-oct-do-not-sit-on-the-furniture-miami-beach-tickets",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/moblack-records-re-you-540949"
+   ]
+  },
+  {
+   "id": "edmtrain:543643",
+   "source": "edmtrain",
+   "title": "hhunter, Antimatter",
+   "artists": [
+    "hhunter",
+    "Antimatter"
+   ],
+   "venue": "Domicile Miami",
+   "venue_slug": "domicile",
+   "date": "2026-10-16",
+   "start": "2026-10-17T02:00:00+00:00",
+   "end": "2026-10-17T09:00:00+00:00",
+   "time_estimated": true,
+   "address": "2900 NW 7th Ave, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/2wnv6a?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/hhunter-antimatter-543643"
    ]
   },
   {
@@ -6589,6 +6564,30 @@
    ]
   },
   {
+   "id": "shotgun:death-of-an-idol-halloween-costume-party",
+   "source": "shotgun",
+   "title": "Death Of An Idol - Halloween Costume Party",
+   "artists": [],
+   "venue": "Thank You Miami Cocina & Beer House",
+   "venue_slug": null,
+   "date": "2026-10-29",
+   "start": "2026-10-29T23:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.35",
+   "genres": [
+    "k-pop",
+    "dark wave",
+    "pop"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/death-of-an-idol-halloween-costume-party"
+  },
+  {
    "id": "19hz:4447183-e11evenhalloween",
    "source": "19hz+edmtrain",
    "title": "E11even Halloween Week Ft Damaged Goods",
@@ -8081,6 +8080,29 @@
    ]
   },
   {
+   "id": "edmtrain:543514",
+   "source": "edmtrain",
+   "title": "Daft Disko - A French House & Disco Party",
+   "artists": [],
+   "venue": "Edge Miami",
+   "venue_slug": null,
+   "date": "2026-10-31",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "114 NE 20th Terrace, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/daft-disko-halloween?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/daft-disko-a-french-house-and-disco-party-543514"
+   ]
+  },
+  {
    "id": "hardrock:204544",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -8332,7 +8354,7 @@
   },
   {
    "id": "zeyzey:rae-sada-b2b-ape-drums-05-nov",
-   "source": "edmtrain+venue",
+   "source": "19hz+edmtrain+venue",
    "title": "Rae Sada b2b Ape Drums (Free Entry)",
    "artists": [
     "RAE SADA",
@@ -8345,10 +8367,11 @@
    "end": "2026-11-06T06:00:00+00:00",
    "time_estimated": false,
    "address": "",
-   "ages": "",
+   "ages": "18+",
    "price": "Free",
    "genres": [
-    "dance/electronic"
+    "big room",
+    "dancehall"
    ],
    "genres_inferred": false,
    "organizer": "",
@@ -8356,6 +8379,7 @@
    "url": "https://calendar.zeyzeymiami.com/shows/rae-sada-b2b-ape-drums-05-nov",
    "cancelled": false,
    "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/rae-sada-b2b-ape-drums-05-nov",
     "https://edmtrain.com/miami-fl/rae-sada-ape-drums-542737"
    ]
   },
@@ -8688,9 +8712,13 @@
   },
   {
    "id": "dice:6ac66d60ede61600010d1cba",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "Dennis Cruz + Moodymann b2b Carl Craig",
-   "artists": [],
+   "artists": [
+    "Dennis Cruz",
+    "Moodymann",
+    "Carl Craig"
+   ],
    "venue": "Club Space Miami",
    "venue_slug": "club-space",
    "date": "2026-11-06",
@@ -8708,13 +8736,22 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6ac66d60ede61600010d1cba",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/dennis-cruz-moodymann-543635"
+   ]
   },
   {
    "id": "dice:6abe7ba3c57ae3000111bebb",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "Veronica Vasicka [Minimal Wave]",
-   "artists": [],
+   "artists": [
+    "Veronica Vasicka",
+    "Minimal Wave",
+    "True Vine",
+    "Souls Departed",
+    "SATURNSARii"
+   ],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
    "date": "2026-11-06",
@@ -8732,7 +8769,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6abe7ba3c57ae3000111bebb",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/veronica-vasicka-minimal-wave-543657"
+   ]
   },
   {
    "id": "dice:6aac2b58ba4e800001745f0c",
@@ -9518,26 +9558,28 @@
    ]
   },
   {
-   "id": "edmtrain:542603",
-   "source": "edmtrain",
-   "title": "BOLO",
+   "id": "19hz:4448542-bolo",
+   "source": "19hz+edmtrain",
+   "title": "Bolo",
    "artists": [
     "BOLO"
    ],
-   "venue": "LIV Miami",
+   "venue": "Liv Nightclub",
    "venue_slug": null,
    "date": "2026-11-12",
-   "start": null,
-   "end": null,
+   "start": "2026-11-13T04:30:00+00:00",
+   "end": "2026-11-13T09:30:00+00:00",
    "time_estimated": false,
-   "address": "4441 Collins Ave, Miami Beach, FL 33140, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
+   "address": "",
+   "ages": "21+",
+   "price": "$38+",
+   "genres": [
+    "tech house"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://ticketmaster.evyy.net/c/254533/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fid%2F14363814",
+   "url": "https://www.ticketweb.com/event/id/14363814",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/bolo-542603"
    ]
@@ -9888,9 +9930,11 @@
   },
   {
    "id": "dice:6ac681e6ede6160001275006",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "James Hype + HILLS",
-   "artists": [],
+   "artists": [
+    "James Hype"
+   ],
    "venue": "Club Space Miami",
    "venue_slug": "club-space",
    "date": "2026-11-13",
@@ -9908,7 +9952,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6ac681e6ede6160001275006",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/james-hype-543636"
+   ]
   },
   {
    "id": "dice:6abbd7cb208dff0001ff466c",
@@ -11175,6 +11222,37 @@
    ]
   },
   {
+   "id": "19hz:4449379-playtimepresents",
+   "source": "19hz+edmtrain",
+   "title": "Playtime Presents Project B",
+   "artists": [
+    "Jane Vanderbilt",
+    "FADR",
+    "INFLIGHT",
+    "Pablo Z",
+    "KENERGY"
+   ],
+   "venue": "Kill Your Idol",
+   "venue_slug": null,
+   "date": "2026-11-21",
+   "start": "2026-11-21T22:00:00+00:00",
+   "end": "2026-11-22T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "Miami Beach",
+   "ages": "21+",
+   "price": "free-10",
+   "genres": [
+    "open decks"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.bouncelife.com/events/6aac7392b849ebb265615a19",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/playtime-present-project-b-jane-vanderbilt-542164"
+   ]
+  },
+  {
    "id": "shotgun:zeyzey-selects-donny-benet",
    "source": "shotgun+venue",
    "title": "Donny Benét",
@@ -11436,55 +11514,28 @@
    "cancelled": false
   },
   {
-   "id": "edmtrain:542164",
-   "source": "edmtrain",
-   "title": "PLAYTIME PRESENT - Project B: Jane Vanderbilt, FADR, INFLIGHT, Pablo Z, KENERGY",
-   "artists": [
-    "Jane Vanderbilt",
-    "FADR",
-    "INFLIGHT",
-    "Pablo Z",
-    "KENERGY"
-   ],
-   "venue": "Kill Your Idol",
-   "venue_slug": null,
-   "date": "2026-11-21",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "222 Española Wy, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.bouncelife.com/events/6aac7392b849ebb265615a19",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/playtime-present-project-b-jane-vanderbilt-542164"
-   ]
-  },
-  {
-   "id": "edmtrain:542605",
-   "source": "edmtrain",
+   "id": "19hz:4449406-dod",
+   "source": "19hz+edmtrain",
    "title": "D.O.D",
    "artists": [
     "D.O.D"
    ],
-   "venue": "LIV Miami",
+   "venue": "Liv Nightclub",
    "venue_slug": null,
    "date": "2026-11-21",
-   "start": null,
-   "end": null,
+   "start": "2026-11-22T04:30:00+00:00",
+   "end": "2026-11-22T09:30:00+00:00",
    "time_estimated": false,
-   "address": "4441 Collins Ave, Miami Beach, FL 33140, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
+   "address": "",
+   "ages": "21+",
+   "price": "$62+",
+   "genres": [
+    "tech house"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://ticketmaster.evyy.net/c/254533/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fid%2F14363794",
+   "url": "https://www.ticketweb.com/event/id/14363794",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/d-o-d-542605"
    ]
@@ -11784,9 +11835,12 @@
   },
   {
    "id": "dice:6ac68eedf6f26b00017c493b",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "Franky Rizardo + East End Dubs",
-   "artists": [],
+   "artists": [
+    "Franky Rizardo",
+    "East End Dubs"
+   ],
    "venue": "Club Space Miami",
    "venue_slug": "club-space",
    "date": "2026-11-25",
@@ -11804,7 +11858,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6ac68eedf6f26b00017c493b",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/franky-rizardo-east-end-dubs-543637"
+   ]
   },
   {
    "id": "dice:6abbde6877c894000165e049",
@@ -13391,7 +13448,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "",
+   "price": "$21.99",
    "genres": [
     "pop",
     "pop rock",
@@ -14119,6 +14176,37 @@
    "description": "",
    "url": "https://dice.fm/event/6ab448eab6c65c00012abd8a",
    "cancelled": false
+  },
+  {
+   "id": "edmtrain:543658",
+   "source": "edmtrain",
+   "title": "Knight Club: MCR-T, Mija, Cole Knight, Berrakka",
+   "artists": [
+    "MCR-T",
+    "Mija",
+    "Cole Knight",
+    "Berrakka"
+   ],
+   "venue": "Floyd",
+   "venue_slug": "floyd",
+   "date": "2026-12-06",
+   "start": "2026-12-07T04:00:00+00:00",
+   "end": "2026-12-07T10:00:00+00:00",
+   "time_estimated": true,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/q2drry?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/knight-club-mcr-t-543658"
+   ]
   },
   {
    "id": "edmtrain:533428",
