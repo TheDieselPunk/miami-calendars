@@ -1,13 +1,18 @@
 {
  "19hz-4445167-degscrazeshinobi@zeyzey.miami-calendars": {
-  "hash": "b862d88a82819016",
-  "seq": 0,
-  "modified": "2026-10-09T10:18:24+00:00"
+  "hash": "6f89518f109e87f7",
+  "seq": 1,
+  "modified": "2026-10-09T16:18:21+00:00"
  },
  "19hz-4445172-soireewillbuckdy@mad-radio.miami-calendars": {
-  "hash": "e1f4c9803bb568a8",
+  "hash": "1b5d79d1e07f26fd",
+  "seq": 1,
+  "modified": "2026-10-09T16:18:21+00:00"
+ },
+ "19hz-4445176-milagamaproletar@jolene.miami-calendars": {
+  "hash": "733c73ddd5324298",
   "seq": 0,
-  "modified": "2026-10-09T10:18:24+00:00"
+  "modified": "2026-10-09T16:18:21+00:00"
  },
  "19hz-4445268-dvs1@domicile.miami-calendars": {
   "hash": "df6b18116dd30b54",
@@ -159,11 +164,6 @@
   "seq": 0,
   "modified": "2026-09-21T21:40:09+00:00"
  },
- "19hz-4454776-infectedmushroom@kemistry.miami-calendars": {
-  "hash": "0124e3f9c9f6a8d5",
-  "seq": 0,
-  "modified": "2026-10-05T22:18:30+00:00"
- },
  "19hz-4455352-hamro@kemistry.miami-calendars": {
   "hash": "ec737e0e333c053c",
   "seq": 0,
@@ -185,9 +185,9 @@
   "modified": "2026-09-21T19:13:57+00:00"
  },
  "beiruttomiami1@shotgun.live": {
-  "hash": "b0e861318b03fe7f",
-  "seq": 1,
-  "modified": "2026-10-07T16:18:26+00:00"
+  "hash": "896978fecd4343c5",
+  "seq": 2,
+  "modified": "2026-10-09T16:18:21+00:00"
  },
  "dice-69dc9d05fd62d30001cecb18@kemistry.miami-calendars": {
   "hash": "291b6ca1a0d6e521",
@@ -209,6 +209,11 @@
   "seq": 3,
   "modified": "2026-10-06T16:18:25+00:00"
  },
+ "dice-6a17a579b4fd860001a0bd2e@kemistry.miami-calendars": {
+  "hash": "648a82f2226b0e03",
+  "seq": 0,
+  "modified": "2026-10-09T16:18:21+00:00"
+ },
  "dice-6a29f4a8dd83280001d85c25@kemistry.miami-calendars": {
   "hash": "180f1df420436328",
   "seq": 3,
@@ -220,9 +225,9 @@
   "modified": "2026-09-22T00:40:38+00:00"
  },
  "dice-6a35888fc559de000170027a@factory-town.miami-calendars": {
-  "hash": "be1b70ec2e040ad2",
-  "seq": 4,
-  "modified": "2026-09-29T16:18:09+00:00"
+  "hash": "22d83ff4004e8222",
+  "seq": 5,
+  "modified": "2026-10-09T16:18:21+00:00"
  },
  "dice-6a39388b80183200011c1c6f@kemistry.miami-calendars": {
   "hash": "2104dc2423d9316b",
@@ -644,11 +649,6 @@
   "seq": 5,
   "modified": "2026-10-01T22:18:30+00:00"
  },
- "dice-6aad6a7f4e3af20001d7ad92@jolene.miami-calendars": {
-  "hash": "60f697cead190c92",
-  "seq": 0,
-  "modified": "2026-10-08T22:19:12+00:00"
- },
  "dice-6ab179c76d5a1f0001669601@kemistry.miami-calendars": {
   "hash": "f6e5d2b493bb392a",
   "seq": 1,
@@ -808,11 +808,6 @@
   "hash": "1a932760163176ba",
   "seq": 0,
   "modified": "2026-10-03T22:18:23+00:00"
- },
- "dice-6ac3df8fe902670001dd876a@kemistry.miami-calendars": {
-  "hash": "4d1fb86c5e82ecf5",
-  "seq": 0,
-  "modified": "2026-10-05T22:18:30+00:00"
  },
  "dice-6ac536f590411600012213de@club-space.miami-calendars": {
   "hash": "388a55e2316d2b24",
@@ -1089,6 +1084,11 @@
   "seq": 0,
   "modified": "2026-09-21T20:05:54+00:00"
  },
+ "hardrock-202032@daer.miami-calendars": {
+  "hash": "646f6720aad3e798",
+  "seq": 0,
+  "modified": "2026-10-09T16:18:21+00:00"
+ },
  "hardrock-202033@daer.miami-calendars": {
   "hash": "2777ae4a30929fd2",
   "seq": 0,
@@ -1351,23 +1351,23 @@
  },
  "madradiomiami101426@shotgun.live": {
   "hash": "e39ed81b6a1686bf",
-  "seq": 61,
-  "modified": "2026-10-09T10:18:24+00:00"
+  "seq": 63,
+  "modified": "2026-10-09T16:18:21+00:00"
  },
  "madradiomiami101526@shotgun.live": {
   "hash": "d90990d3aa3265cc",
-  "seq": 61,
-  "modified": "2026-10-09T10:18:24+00:00"
+  "seq": 63,
+  "modified": "2026-10-09T16:18:21+00:00"
  },
  "madradiomiami101626@shotgun.live": {
   "hash": "58a12604e5af3392",
-  "seq": 30,
-  "modified": "2026-10-09T10:18:24+00:00"
+  "seq": 32,
+  "modified": "2026-10-09T16:18:21+00:00"
  },
  "madradiomiami101726@shotgun.live": {
   "hash": "f459f060a060733f",
-  "seq": 30,
-  "modified": "2026-10-09T10:18:24+00:00"
+  "seq": 32,
+  "modified": "2026-10-09T16:18:21+00:00"
  },
  "madradiomiami102126@shotgun.live": {
   "hash": "7682cc251e858a48",
@@ -1405,9 +1405,9 @@
   "modified": "2026-09-28T04:18:01+00:00"
  },
  "quick-to-judge-at-the-boombox-10-9@shotgun.live": {
-  "hash": "b0c33bc13aa28b6d",
-  "seq": 0,
-  "modified": "2026-09-21T19:13:57+00:00"
+  "hash": "9f589bb400165d78",
+  "seq": 1,
+  "modified": "2026-10-09T16:18:21+00:00"
  },
  "rocky-horror-picture-show@shotgun.live": {
   "hash": "7b97f38d757a49cd",
@@ -1523,6 +1523,11 @@
   "hash": "67b83ee57172f3fc",
   "seq": 0,
   "modified": "2026-09-21T20:01:40+00:00"
+ },
+ "zeyzey-amrita-fr-13-nov@zeyzey.miami-calendars": {
+  "hash": "d630b5fc851848ab",
+  "seq": 0,
+  "modified": "2026-10-09T16:18:21+00:00"
  },
  "zeyzey-amtrac-live-06-nov@zeyzey.miami-calendars": {
   "hash": "38efd24f169871b8",

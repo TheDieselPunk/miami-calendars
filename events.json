@@ -90,14 +90,9 @@
   },
   {
    "id": "19hz:4445167-degscrazeshinobi",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Degs, Craze & Shinobi b2b Stereotype",
-   "artists": [
-    "Degs",
-    "Craze",
-    "Shinobi",
-    "Stereotype"
-   ],
+   "artists": [],
    "venue": "Zeyzey",
    "venue_slug": "zeyzey",
    "date": "2026-10-08",
@@ -113,19 +108,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://ra.co/events/2545867",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/degs-craze-542957"
-   ]
+   "url": "https://ra.co/events/2545867"
   },
   {
    "id": "19hz:4445172-soireewillbuckdy",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Soiree: Will Buck & Dylan Schwartz",
-   "artists": [
-    "Will Buck",
-    "Dylan Schwartz"
-   ],
+   "artists": [],
    "venue": "Mad Radio",
    "venue_slug": "mad-radio",
    "date": "2026-10-08",
@@ -141,10 +130,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/madradiomiami100826",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/will-buck-dylan-schwartz-540056"
-   ]
+   "url": "https://shotgun.live/en/events/madradiomiami100826"
   },
   {
    "id": "19hz:4445176-hifrequencies",
@@ -170,17 +156,17 @@
    "url": "https://dice.fm/event/6abd41065d2b44000113f040"
   },
   {
-   "id": "dice:6aad6a7f4e3af20001d7ad92",
-   "source": "19hz+dice",
+   "id": "19hz:4445176-milagamaproletar",
+   "source": "19hz",
    "title": "Mila Gama, Proletar, & Fiuza",
    "artists": [],
-   "venue": "Jolene Sound Room Miami",
+   "venue": "Jolene Downtown",
    "venue_slug": "jolene",
    "date": "2026-10-08",
    "start": "2026-10-09T02:00:00+00:00",
    "end": "2026-10-09T08:00:00+00:00",
    "time_estimated": false,
-   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "address": "",
    "ages": "21+",
    "price": "$12",
    "genres": [
@@ -189,35 +175,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6aad6a7f4e3af20001d7ad92",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/event/6aad6a7f4e3af20001d7ad92"
-   ]
-  },
-  {
-   "id": "dice:6ac3df8fe902670001dd876a",
-   "source": "dice",
-   "title": "DRAKE NIGHT",
-   "artists": [],
-   "venue": "Kemistry",
-   "venue_slug": "kemistry",
-   "date": "2026-10-08",
-   "start": "2026-10-09T02:00:00+00:00",
-   "end": "2026-10-09T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
-   "ages": "",
-   "price": " (sold out)",
-   "genres": [
-    "bass",
-    "dubstep"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6ac3df8fe902670001dd876a",
-   "cancelled": false
+   "url": "https://dice.fm/event/6aad6a7f4e3af20001d7ad92"
   },
   {
    "id": "19hz:4445176-dubxredbarbricke",
@@ -241,11 +199,9 @@
   },
   {
    "id": "19hz:4445176-loofy",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Loofy",
-   "artists": [
-    "Loofy"
-   ],
+   "artists": [],
    "venue": "Sable",
    "venue_slug": null,
    "date": "2026-10-08",
@@ -261,18 +217,13 @@
    "genres_inferred": false,
    "organizer": "2MRW + FRQNC + MOJI",
    "description": "",
-   "url": "https://dice.fm/event/wwk9wg-2mrw-frqnc-moji-presents-loofy-8th-oct-sable-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/loofy-539171"
-   ]
+   "url": "https://dice.fm/event/wwk9wg-2mrw-frqnc-moji-presents-loofy-8th-oct-sable-miami-miami-tickets"
   },
   {
    "id": "19hz:4445182-chrisvalencia",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Chris Valencia",
-   "artists": [
-    "Chris Valencia"
-   ],
+   "artists": [],
    "venue": "Selva",
    "venue_slug": null,
    "date": "2026-10-08",
@@ -288,37 +239,7 @@
    "genres_inferred": false,
    "organizer": "Selva",
    "description": "",
-   "url": "https://posh.vip/e/chris-valencia-selva-9",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/chris-valencia-542655"
-   ]
-  },
-  {
-   "id": "edmtrain:542830",
-   "source": "edmtrain",
-   "title": "Dub X redbar: Reydel, the feds, Santos",
-   "artists": [
-    "Reydel",
-    "the feds",
-    "Santos"
-   ],
-   "venue": "RedBar",
-   "venue_slug": null,
-   "date": "2026-10-08",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "52 SW 10th St, Miami, FL 33130, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://posh.vip/e/dub-x-red-bar-brickell?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/dub-x-redbar-reydel-542830"
-   ]
+   "url": "https://posh.vip/e/chris-valencia-selva-9"
   },
   {
    "id": "hardrock:201835",
@@ -357,7 +278,7 @@
    "time_estimated": false,
    "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
    "ages": "",
-   "price": "$17.03",
+   "price": "$22.70",
    "genres": [
     "hardcore",
     "punk"
@@ -366,7 +287,7 @@
    "organizer": "Equinox Booking",
    "description": "Equinox Booking Presents Quick To Judge Lifechord Incarnate Barricade 22 Grief Guess What + Secret Set(s) $15 online / $20 door 6 pm all ages",
    "url": "https://shotgun.live/en/events/quick-to-judge-at-the-boombox-10-9",
-   "tickets": "General Admission $15",
+   "tickets": "General Admission $15 (sold out), day of $20",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -753,7 +674,7 @@
    "venue_slug": "factory-town",
    "date": "2026-10-09",
    "start": "2026-10-10T02:00:00+00:00",
-   "end": "2026-10-10T08:00:00+00:00",
+   "end": "2026-10-10T07:00:00+00:00",
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
@@ -1903,7 +1824,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$20.00",
+   "price": "$10.00",
    "genres": [
     "house",
     "latin house",
@@ -3732,6 +3653,27 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/rendezvous-542610"
    ]
+  },
+  {
+   "id": "hardrock:202032",
+   "source": "venue",
+   "title": "Dalvin La Melodia with Alex Sensation",
+   "artists": [],
+   "venue": "DAER Nightclub",
+   "venue_slug": "daer",
+   "date": "2026-10-16",
+   "start": "2026-10-17T02:00:00+00:00",
+   "end": "2026-10-17T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "1 Seminole Way, Hollywood, FL 33314",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://tixr.com/e/202032",
+   "generic_title": false
   },
   {
    "id": "19hz:4445944-chrisschwarzwald",
@@ -10277,6 +10219,27 @@
    "url": "https://ra.co/events/2528917"
   },
   {
+   "id": "zeyzey:amrita-fr-13-nov",
+   "source": "venue",
+   "title": "Amrita (FR)",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-11-13",
+   "start": "2026-11-14T03:00:00+00:00",
+   "end": "2026-11-14T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/amrita-fr-13-nov",
+   "cancelled": false
+  },
+  {
    "id": "dice:6ac681e6ede6160001275006",
    "source": "dice+edmtrain",
    "title": "James Hype + HILLS",
@@ -10881,6 +10844,7 @@
    "created": "2026-10-04T22:56:00.000Z",
    "alt_urls": [
     "https://calendar.zeyzeymiami.com/shows/beirut-nights-in-14-nov",
+    "https://calendar.zeyzeymiami.com/shows/dj-paypal-14-nov",
     "https://calendar.zeyzeymiami.com/shows/tul8te-world-tour-14-nov"
    ]
   },
@@ -15804,9 +15768,9 @@
    "cancelled": false
   },
   {
-   "id": "19hz:4454776-infectedmushroom",
-   "source": "19hz+edmtrain",
-   "title": "Infected Mushroom",
+   "id": "dice:6a17a579b4fd860001a0bd2e",
+   "source": "19hz+dice+edmtrain",
+   "title": "INFECTED MUSHROOM",
    "artists": [
     "Infected Mushroom"
    ],
@@ -15816,9 +15780,9 @@
    "start": "2027-01-17T03:00:00+00:00",
    "end": "2027-01-17T09:00:00+00:00",
    "time_estimated": false,
-   "address": "Fort Lauderdale",
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "18+",
-   "price": "$26.45",
+   "price": "From $26",
    "genres": [
     "electro house",
     "glitch",
@@ -15828,7 +15792,9 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6daxpq-infected-mushroom-16th-jan-kemistry-fort-lauderdale-tickets",
+   "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/6daxpq-infected-mushroom-16th-jan-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/infected-mushroom-511448"
    ]
   },

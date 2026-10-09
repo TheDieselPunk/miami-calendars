@@ -9,9 +9,9 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:quick-to-judge-at-the-boombox-10-9@shotgun.live
-DTSTAMP:20260921T191357Z
-LAST-MODIFIED:20260921T191357Z
-SEQUENCE:0
+DTSTAMP:20261009T161821Z
+LAST-MODIFIED:20261009T161821Z
+SEQUENCE:1
 DTSTART:20261009T220000Z
 DTEND:20261010T030000Z
 SUMMARY:Quick To Judge At The Boombox 10/9
@@ -20,8 +20,8 @@ LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
 DESCRIPTION:Equinox Booking Presents Quick To Judge Lifechord Incarnate Bar
  ricade 22 Grief Guess What + Secret Set(s) $15 online / $20 door 6 pm all 
  ages\nTags: hardcore\, punk\nPresented by: Equinox Booking\nTickets: Gener
- al Admission $15\nhttps://shotgun.live/en/events/quick-to-judge-at-the-boo
- mbox-10-9
+ al Admission $15 (sold out)\, day of $20\nhttps://shotgun.live/en/events/q
+ uick-to-judge-at-the-boombox-10-9
 URL:https://shotgun.live/en/events/quick-to-judge-at-the-boombox-10-9
 STATUS:CONFIRMED
 CATEGORIES:hardcore,punk
