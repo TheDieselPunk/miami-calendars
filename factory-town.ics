@@ -125,30 +125,32 @@ CATEGORIES:future bass,house,synthpop
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ac6b477b79982000164dae2@factory-town.miami-calendars
-DTSTAMP:20261008T221912Z
-LAST-MODIFIED:20261008T221912Z
-SEQUENCE:0
+DTSTAMP:20261009T221902Z
+LAST-MODIFIED:20261009T221902Z
+SEQUENCE:1
 DTSTART:20261203T030000Z
 DTEND:20261203T110000Z
 SUMMARY:Factory Basel 2026 (Wednesday Pass)
 LOCATION:Factory Town\, 4800 NW 37th Ave\, Miami\, FL 33142\, USA
-DESCRIPTION:Tags: house\, tech house\, techno\nAges: 18+\nhttps://dice.fm/e
- vent/6aaafb88d2cb540001cdd853
+DESCRIPTION:Lineup: Diplo\nTags: house\, tech house\, techno\nAges: 18+\nht
+ tps://dice.fm/event/6aaafb88d2cb540001cdd853\nhttps://edmtrain.com/miami-f
+ l/factory-basel-5-day-diplo-543874
 URL:https://dice.fm/event/6aaafb88d2cb540001cdd853
 STATUS:CONFIRMED
 CATEGORIES:house,tech house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ac6b8aa8532130001c3c2df@factory-town.miami-calendars
-DTSTAMP:20261008T221912Z
-LAST-MODIFIED:20261008T221912Z
-SEQUENCE:0
+DTSTAMP:20261009T221902Z
+LAST-MODIFIED:20261009T221902Z
+SEQUENCE:1
 DTSTART:20261204T030000Z
 DTEND:20261204T110000Z
 SUMMARY:Factory Basel 2026 (Thursday Pass)
 LOCATION:Factory Town\, 4800 NW 37th Ave\, Miami\, FL 33142\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6ac6b8aa853
- 2130001c3c2df
+DESCRIPTION:Lineup: Malóne Morez\nTags (guess): house\, techno\nhttps://di
+ ce.fm/event/6ac6b8aa8532130001c3c2df\nhttps://edmtrain.com/miami-fl/whynot
+ us-art-basel-malone-morez-543876
 URL:https://dice.fm/event/6ac6b8aa8532130001c3c2df
 STATUS:CONFIRMED
 CATEGORIES:house,techno

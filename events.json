@@ -951,7 +951,7 @@
    "time_estimated": false,
    "address": "353 Northeast 61st Street, Miami, FL 33137, USA",
    "ages": "21+",
-   "price": "$34.05",
+   "price": "$39.73",
    "genres": [
     "afro house",
     "house",
@@ -963,7 +963,7 @@
    "organizer": "Solmates Miami",
    "description": "Solmates brings together two European producers whose work meets at the intersection of melody, groove, and late-night dance music. Built around a shared appreciation for emotional, forward-thinking electronic music, Solmates creates a space where established sounds and new perspectives can meet on the dancefloor. Stockholm-born Fahlberg has built his sound around deep basslines, hypnotic textures, and what he describes as “Nordic Melodic” — a Scandinavian sense of atmosphere shaped through contemporary house and techno. His releases have appeared on labels including Diynamic, Watergate, Siamese, MoBlack, and When Stars Align, with support from Solomun, Keinemusik, Black Coffee, and Pete Tong. Tracks such as “Somebody” and “Chaka” have reached major Beatport chart positions, while recent work includes collaborations with Layer J, Argødes, and Jeremy Olander, alongside an official remix for RÜFÜS DU SOL. Joining him is Paris- and London-based Orsay, a producer whose melodic house sound is informed by an early classical background. Having studied piano from the age of six and trained at a music conservatory, Orsay brings that foundation into productions built around rhythm, emotion, and melody. His music has been released through Ninja Tune, Siamese, Universal Music, and Kitsuné, with tracks including “Mind Off,” “Amado,” and “Magik” receiving support from Adriatique, Solomun, WhoMadeWho, Carlita, and RÜFÜS DU SOL. In 2025, he took his sets across Europe, the UAE, and South America. Together, Fahlberg and Orsay represent the sound and spirit behind Solmates: a meeting point for artists and audiences drawn to melodic, groove-led electronic music, with a focus on connection, discovery, and the energy of the night. Rooted in Europe but looking outward, Solmates brings together different musical backgrounds and perspectives under one shared atmosphere — where melody meets movement and the right records create lasting moments. 21+ event",
    "url": "https://shotgun.live/en/events/solmates-season-opener-ft-fahlberg-orsay-more",
-   "tickets": "Entry Anytime (2nd Release) $30, VIP (1st Release) $50, BUY 3 GET 1 FREE (1st Release) $75, Entry before 11 PM $10 (sold out), Entry Anytime (1st Release) $25 (sold out)",
+   "tickets": "Entry Anytime (2nd Release) $30 (sold out), VIP (1st Release) $50, BUY 3 GET 1 FREE (1st Release) $75 (sold out), Entry before 11 PM $10 (sold out), Entry Anytime (1st Release) $25 (sold out), Buy 3 Get 1 Free (2nd Release) $90, Entry Anytime (Final Release) $35",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -1078,13 +1078,11 @@
   },
   {
    "id": "shotgun:get-milked-alec-falconer-pres-by-sarah-tonin-un-mute",
-   "source": "19hz+edmtrain+shotgun",
+   "source": "19hz+shotgun",
    "title": "Get Milked: Alec Falconer Pres By Sarah Tonin & Un_Mute",
-   "artists": [
-    "Alec Falconer"
-   ],
-   "venue": "Paraiso Estereo",
-   "venue_slug": null,
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": "festivals",
    "date": "2026-10-09",
    "start": "2026-10-10T03:00:00+00:00",
    "end": "2026-10-10T12:00:00+00:00",
@@ -1101,8 +1099,7 @@
    "description": "",
    "url": "https://shotgun.live/en/events/get-milked-alec-falconer-pres-by-sarah-tonin-un-mute",
    "alt_urls": [
-    "https://shotgun.live/en/events/get-milked-alec-falconer-pres-by-sarah-tonin-un-mute",
-    "https://edmtrain.com/miami-fl/pres-by-sarah-tonin-and-un-mute-alec-falconer-538249"
+    "https://shotgun.live/en/events/get-milked-alec-falconer-pres-by-sarah-tonin-un-mute"
    ]
   },
   {
@@ -1290,6 +1287,31 @@
    "url": "https://posh.vip/e/get-lost-nowhere-takeover-event?t=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/fort-lauderdale-fl/get-lost-a-phone-free-music-experience-memento-fl-541726"
+   ]
+  },
+  {
+   "id": "edmtrain:538249",
+   "source": "edmtrain",
+   "title": "Pres By Sarah Tonin & Un_mute: Alec Falconer",
+   "artists": [
+    "Alec Falconer"
+   ],
+   "venue": "Paraíso Estéreo",
+   "venue_slug": null,
+   "date": "2026-10-09",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1306 N Miami Ave, Miami, FL 33136, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/get-milked-alec-falconer-pres-by-sarah-tonin-un-mute?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/pres-by-sarah-tonin-and-un-mute-alec-falconer-538249"
    ]
   },
   {
@@ -1520,7 +1542,7 @@
    "title": "Hexed (18+)",
    "artists": [],
    "venue": "Miami",
-   "venue_slug": null,
+   "venue_slug": "festivals",
    "date": "2026-10-10",
    "start": "2026-10-10T22:00:00+00:00",
    "end": null,
@@ -1528,7 +1550,10 @@
    "address": "",
    "ages": "",
    "price": "$11.35",
-   "genres": [],
+   "genres": [
+    "reggaeton",
+    "techno"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
@@ -2137,7 +2162,7 @@
    "time_estimated": false,
    "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
    "ages": "",
-   "price": "$22.70",
+   "price": "$30.00",
    "genres": [
     "edm",
     "experimental",
@@ -2147,7 +2172,7 @@
    "organizer": "Talk Less Just Dance",
    "description": "EVANORA UNLIMITED — NORTH AMERICA TOUR: MIAMI Evanora Unlimited makes their way to Miami for a special stop on the North America Tour, presented by Talk Less Just Dance, EQUINOX BOOKING , say Tech & smile DOORS 10:00PM 18+ One night bringing together live performances + some of our favorite artists from Miami and beyond. LINEUP: EVANORA UNLIMITED ANGUS GREEN GODS WISDOM DEP4RTED ZNX MIA VENDETTA DEAD LOTUS JWELSET",
    "url": "https://shotgun.live/en/events/evanora-unlimited-north-america-tour-miami-fl",
-   "tickets": "second tier $22.02 (sold out), Third tier $26.43, Last tier $35.24, First tier $15 (sold out), LIMITED DISCOUNT TICKETS $20",
+   "tickets": "second tier $22.02 (sold out), Third tier $26.43, Last tier $35.24, First tier $15 (sold out), LIMITED DISCOUNT TICKETS $20 (sold out)",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -3270,7 +3295,7 @@
   {
    "id": "dice:6a837face888570001cdef5f",
    "source": "19hz+dice+edmtrain",
-   "title": "Satellite: Flying Lotus (DJ Set) + More",
+   "title": "Satellite: Flying Lotus (DJ Set), Ivy Lab, Loukeman & Suzi Analogue",
    "artists": [
     "Flying Lotus",
     "Actress",
@@ -4929,9 +4954,9 @@
    ]
   },
   {
-   "id": "dice:6a8365787f9df20001ac61b7",
-   "source": "19hz+dice+edmtrain",
-   "title": "Satellite: Saraga Presents Stardust",
+   "id": "19hz:4446139-saragastardust",
+   "source": "19hz+edmtrain",
+   "title": "Saraga - Stardust",
    "artists": [
     "Saraga"
    ],
@@ -4941,9 +4966,9 @@
    "start": "2026-10-19T03:00:00+00:00",
    "end": "2026-10-19T09:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": "From $15",
+   "price": "",
    "genres": [
     "house",
     "techno"
@@ -4952,9 +4977,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/923kq9-satellite-saraga-presents-stardust-18th-oct-floyd-miami-miami-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/923kq9-satellite-saraga-presents-stardust-18th-oct-floyd-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/saraga-529533"
    ]
   },
@@ -5907,6 +5930,31 @@
    "url": "https://www.livnightclub.com/miami/event/EVE112156200020261023/friday/?ref=raco"
   },
   {
+   "id": "edmtrain:543903",
+   "source": "edmtrain",
+   "title": "Fiin",
+   "artists": [
+    "Fiin"
+   ],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-10-23",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "111 NE 20th St, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/misifu-by-fiin?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/fiin-543903"
+   ]
+  },
+  {
    "id": "edmtrain:542612",
    "source": "edmtrain",
    "title": "Conobi, Royce & Tan, Shayoos, Sunny-D",
@@ -6742,6 +6790,28 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/durante-541227"
    ]
+  },
+  {
+   "id": "shotgun:the-overjoyed",
+   "source": "shotgun",
+   "title": "The Overjoyed (Greece), With My Own Eyes, & A Decade At Sea",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-10-26",
+   "start": "2026-10-27T00:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$6.00",
+   "genres": [
+    "punk"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/the-overjoyed"
   },
   {
    "id": "tablelist:303b09419bf8998a",
@@ -8179,7 +8249,10 @@
    "title": "Area 94: Onur Ozer, Reptant, Max Kraushaar, Mastrapa",
    "artists": [
     "Onur Özer",
-    "Reptant"
+    "Mayell",
+    "Explorer",
+    "Demenz",
+    "Max Kraushaar"
    ],
    "venue": "94th Aero Squadron",
    "venue_slug": null,
@@ -8200,7 +8273,7 @@
    "description": "",
    "url": "https://dice.fm/event/xeg79e-area-94-onur-zer-by-unmute-31st-oct-94th-aero-squadron-miami-tickets",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/onur-ozer-reptant-536320"
+    "https://edmtrain.com/miami-fl/onur-ozer-mayell-536320"
    ]
   },
   {
@@ -8342,6 +8415,31 @@
    "url": "https://www.livnightclub.com/miami/event/EVE112156200020261031/halloween-weekend/?ref=ticketmaster",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/lost-frequencies-533660"
+   ]
+  },
+  {
+   "id": "edmtrain:543877",
+   "source": "edmtrain",
+   "title": "Malóne Morez",
+   "artists": [
+    "Malóne Morez"
+   ],
+   "venue": "Casa Neos",
+   "venue_slug": null,
+   "date": "2026-10-31",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "40 SW North River Dr, Miami, FL 33128, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://music.casa-neos.com/?id=u0m4gtkywjzjpf20l8at0ixbx084i5bi",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/malone-morez-543877"
    ]
   },
   {
@@ -13186,9 +13284,11 @@
   },
   {
    "id": "dice:6ac6b477b79982000164dae2",
-   "source": "19hz+dice",
+   "source": "19hz+dice+edmtrain",
    "title": "Factory Basel 2026 (Wednesday Pass)",
-   "artists": [],
+   "artists": [
+    "Diplo"
+   ],
    "venue": "Factory Town",
    "venue_slug": "factory-town",
    "date": "2026-12-02",
@@ -13209,7 +13309,8 @@
    "url": "https://dice.fm/event/6aaafb88d2cb540001cdd853",
    "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/6aaafb88d2cb540001cdd853"
+    "https://dice.fm/event/6aaafb88d2cb540001cdd853",
+    "https://edmtrain.com/miami-fl/factory-basel-5-day-diplo-543874"
    ]
   },
   {
@@ -13389,9 +13490,11 @@
   },
   {
    "id": "dice:6ac6b8aa8532130001c3c2df",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "Factory Basel 2026 (Thursday Pass)",
-   "artists": [],
+   "artists": [
+    "Malóne Morez"
+   ],
    "venue": "Factory Town",
    "venue_slug": "factory-town",
    "date": "2026-12-03",
@@ -13409,7 +13512,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6ac6b8aa8532130001c3c2df",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/whynotus-art-basel-malone-morez-543876"
+   ]
   },
   {
    "id": "dice:6ab3a356f3be0b000115831c",
@@ -14293,9 +14399,9 @@
    ]
   },
   {
-   "id": "19hz:4450747-obskurthesystem",
-   "source": "19hz+edmtrain",
-   "title": "Obskur - The System",
+   "id": "dice:6aa06694dcd56d0001733719",
+   "source": "19hz+dice+edmtrain",
+   "title": "Obskür Presents: The System (Floyd Basel 2026)",
    "artists": [
     "Obskür"
    ],
@@ -14305,9 +14411,9 @@
    "start": "2026-12-06T04:00:00+00:00",
    "end": "2026-12-06T10:00:00+00:00",
    "time_estimated": false,
-   "address": "",
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "$25",
+   "price": "From $25",
    "genres": [
     "tech house"
    ],
@@ -14315,7 +14421,9 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/l8ml6p-obskr-presents-the-system-floyd-basel-2026-5th-dec-floyd-miami-miami-tickets",
+   "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/l8ml6p-obskr-presents-the-system-floyd-basel-2026-5th-dec-floyd-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/obskur-535431"
    ]
   },
@@ -14730,34 +14838,6 @@
    "url": "https://shotgun.live/en/events/minotaur-booking-presents-sids-ky-w-shinkaza-more"
   },
   {
-   "id": "zeyzey:wev-12-dec",
-   "source": "edmtrain+venue",
-   "title": "wev",
-   "artists": [
-    "wev"
-   ],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-12-12",
-   "start": "2026-12-13T01:00:00+00:00",
-   "end": "2026-12-13T06:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "dance/electronic"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/wev-12-dec",
-   "cancelled": false,
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/wev-536457"
-   ]
-  },
-  {
    "id": "shotgun:templarsatlasrosas",
    "source": "shotgun",
    "title": "The Templars At Las Rosas",
@@ -14801,9 +14881,9 @@
   {
    "id": "zeyzey:takuya-nakamura-12-dec",
    "source": "edmtrain+venue",
-   "title": "Takuya Nakamura",
+   "title": "Takuya Nakamura + wev",
    "artists": [
-    "Takuya Nakamura"
+    "wev"
    ],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
@@ -14814,13 +14894,16 @@
    "address": "",
    "ages": "",
    "price": "",
-   "genres": [],
+   "genres": [
+    "dance/electronic"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/takuya-nakamura-12-dec",
    "cancelled": false,
    "alt_urls": [
+    "https://edmtrain.com/miami-fl/wev-536457",
     "https://edmtrain.com/miami-fl/takuya-nakamura-543820"
    ]
   },

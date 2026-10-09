@@ -49,9 +49,9 @@ CATEGORIES:drum and bass
 END:VEVENT
 BEGIN:VEVENT
 UID:solmates-season-opener-ft-fahlberg-orsay-more@shotgun.live
-DTSTAMP:20261007T221838Z
-LAST-MODIFIED:20261007T221838Z
-SEQUENCE:12
+DTSTAMP:20261009T221902Z
+LAST-MODIFIED:20261009T221902Z
+SEQUENCE:13
 DTSTART:20261010T020000Z
 DTEND:20261010T070000Z
 SUMMARY:Solmates Season Opener Ft. Fahlberg\, Orsay & More
@@ -86,15 +86,16 @@ DESCRIPTION:Solmates brings together two European producers whose work meet
  d the right records create lasting moments. 21+ event\nLineup: Fahlberg\, 
  Orsay\nTags: afro house\, house\, latin\, melodic house & techno\, progres
  sive house\nPresented by: Solmates Miami\nTickets: Entry Anytime (2nd Rele
- ase) $30\, VIP (1st Release) $50\, BUY 3 GET 1 FREE (1st Release) $75\, En
- try before 11 PM $10 (sold out)\, Entry Anytime (1st Release) $25 (sold ou
- t)\nAges: 21+\nhttps://shotgun.live/en/events/solmates-season-opener-ft-fa
- hlberg-orsay-more\nhttps://buy.tablelist.com/e/a3c6a4f30491acd7\nhttps://b
- uy.tablelist.com/e/ad02c1510e06e0f9\nhttps://calendar.zeyzeymiami.com/show
- s/cain-culto-free-entry-09-oct\nhttps://calendar.zeyzeymiami.com/shows/fah
- lberg-orsay-more-tba-09-oct\nhttps://dice.fm/event/6a9750591ac7ec00014fffc
- 8\nhttps://edmtrain.com/miami-fl/solmates-fahlberg-534168\nhttps://ra.co/e
- vents/2529443
+ ase) $30 (sold out)\, VIP (1st Release) $50\, BUY 3 GET 1 FREE (1st Releas
+ e) $75 (sold out)\, Entry before 11 PM $10 (sold out)\, Entry Anytime (1st
+  Release) $25 (sold out)\, Buy 3 Get 1 Free (2nd Release) $90\, Entry Anyt
+ ime (Final Release) $35\nAges: 21+\nhttps://shotgun.live/en/events/solmate
+ s-season-opener-ft-fahlberg-orsay-more\nhttps://buy.tablelist.com/e/a3c6a4
+ f30491acd7\nhttps://buy.tablelist.com/e/ad02c1510e06e0f9\nhttps://calendar
+ .zeyzeymiami.com/shows/cain-culto-free-entry-09-oct\nhttps://calendar.zeyz
+ eymiami.com/shows/fahlberg-orsay-more-tba-09-oct\nhttps://dice.fm/event/6a
+ 9750591ac7ec00014fffc8\nhttps://edmtrain.com/miami-fl/solmates-fahlberg-53
+ 4168\nhttps://ra.co/events/2529443
 URL:https://shotgun.live/en/events/solmates-season-opener-ft-fahlberg-orsay
  -more
 STATUS:CONFIRMED
@@ -914,34 +915,20 @@ URL:https://calendar.zeyzeymiami.com/shows/los-amigos-invisibles-11-dec
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:zeyzey-wev-12-dec@zeyzey.miami-calendars
-DTSTAMP:20260921T200140Z
-LAST-MODIFIED:20260921T200140Z
-SEQUENCE:0
-DTSTART:20261213T010000Z
-DTEND:20261213T060000Z
-SUMMARY:wev
-LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: wev\nTags: dance/electronic\nhttps://calendar.zeyzeymia
- mi.com/shows/wev-12-dec\nhttps://edmtrain.com/miami-fl/wev-536457
-URL:https://calendar.zeyzeymiami.com/shows/wev-12-dec
-STATUS:CONFIRMED
-CATEGORIES:dance/electronic
-END:VEVENT
-BEGIN:VEVENT
 UID:zeyzey-takuya-nakamura-12-dec@zeyzey.miami-calendars
-DTSTAMP:20261009T101824Z
-LAST-MODIFIED:20261009T101824Z
-SEQUENCE:1
+DTSTAMP:20261009T221902Z
+LAST-MODIFIED:20261009T221902Z
+SEQUENCE:2
 DTSTART:20261213T030000Z
 DTEND:20261213T060000Z
-SUMMARY:Takuya Nakamura
+SUMMARY:Takuya Nakamura + wev
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: Takuya Nakamura\nhttps://calendar.zeyzeymiami.com/shows
- /takuya-nakamura-12-dec\nhttps://edmtrain.com/miami-fl/takuya-nakamura-543
- 820
+DESCRIPTION:Lineup: wev\nTags: dance/electronic\nhttps://calendar.zeyzeymia
+ mi.com/shows/takuya-nakamura-12-dec\nhttps://edmtrain.com/miami-fl/takuya-
+ nakamura-543820\nhttps://edmtrain.com/miami-fl/wev-536457
 URL:https://calendar.zeyzeymiami.com/shows/takuya-nakamura-12-dec
 STATUS:CONFIRMED
+CATEGORIES:dance/electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-ax-and-the-hatchetmen-the-late-checkout-tour-2026-13-dec@zeyzey.
