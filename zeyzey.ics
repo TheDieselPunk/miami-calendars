@@ -34,20 +34,18 @@ URL:https://buy.tablelist.com/e/a2c7b0c91d4ac64b
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:zeyzey-degs-craze-shinobi-b2b-stereotype-08-oct@zeyzey.miami-calendars
-DTSTAMP:20261006T221830Z
-LAST-MODIFIED:20261006T221830Z
-SEQUENCE:2
+UID:19hz-4445167-degscrazeshinobi@zeyzey.miami-calendars
+DTSTAMP:20261009T101824Z
+LAST-MODIFIED:20261009T101824Z
+SEQUENCE:0
 DTSTART:20261009T000000Z
 DTEND:20261009T050000Z
-SUMMARY:DEGS\, Craze & Shinobi b2b Stereotype
-LOCATION:ZeyZey Miami
+SUMMARY:Degs\, Craze & Shinobi b2b Stereotype
+LOCATION:Zeyzey
 DESCRIPTION:Lineup: Degs\, Craze\, Shinobi\, Stereotype\nTags: drum and bas
- s\nAges: 21+\nhttps://calendar.zeyzeymiami.com/shows/degs-craze-shinobi-b2
- b-stereotype-08-oct\nhttps://edmtrain.com/miami-fl/degs-craze-542957\nhttp
- s://ra.co/events/2545867
-URL:https://calendar.zeyzeymiami.com/shows/degs-craze-shinobi-b2b-stereotyp
- e-08-oct
+ s\nAges: 21+\nhttps://ra.co/events/2545867\nhttps://edmtrain.com/miami-fl/
+ degs-craze-542957
+URL:https://ra.co/events/2545867
 STATUS:CONFIRMED
 CATEGORIES:drum and bass
 END:VEVENT
@@ -921,14 +919,16 @@ CATEGORIES:dance/electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-takuya-nakamura-12-dec@zeyzey.miami-calendars
-DTSTAMP:20260921T200140Z
-LAST-MODIFIED:20260921T200140Z
-SEQUENCE:0
+DTSTAMP:20261009T101824Z
+LAST-MODIFIED:20261009T101824Z
+SEQUENCE:1
 DTSTART:20261213T030000Z
 DTEND:20261213T060000Z
 SUMMARY:Takuya Nakamura
 LOCATION:ZeyZey Miami
-DESCRIPTION:https://calendar.zeyzeymiami.com/shows/takuya-nakamura-12-dec
+DESCRIPTION:Lineup: Takuya Nakamura\nhttps://calendar.zeyzeymiami.com/shows
+ /takuya-nakamura-12-dec\nhttps://edmtrain.com/miami-fl/takuya-nakamura-543
+ 820
 URL:https://calendar.zeyzeymiami.com/shows/takuya-nakamura-12-dec
 STATUS:CONFIRMED
 END:VEVENT
