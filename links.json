@@ -91,6 +91,10 @@
   "url": "https://www.tixr.com/pr/edmtrain/170476",
   "checked": "2026-09-21"
  },
+ "526704": {
+  "url": "https://dice.fm/event/pywy7k?pid=d6342b83",
+  "checked": "2026-10-10"
+ },
  "527998": {
   "url": "https://dice.fm/event/6dolpq?pid=d6342b83",
   "checked": "2026-09-21"
@@ -331,10 +335,6 @@
   "url": "https://dice.fm/event/2wnv6a?pid=d6342b83",
   "checked": "2026-10-09"
  },
- "543658": {
-  "url": "https://dice.fm/event/q2drry?pid=d6342b83",
-  "checked": "2026-10-09"
- },
  "543803": {
   "url": "https://dice.fm/event/k67v9q?pid=d6342b83",
   "checked": "2026-10-09"
@@ -350,5 +350,13 @@
  "543903": {
   "url": "https://posh.vip/e/misifu-by-fiin?t=edmtrain",
   "checked": "2026-10-09"
+ },
+ "544035": {
+  "url": "https://dice.fm/event/av8mgx?pid=d6342b83",
+  "checked": "2026-10-10"
+ },
+ "544042": {
+  "url": "https://www.etix.com/ticket/p/90334681",
+  "checked": "2026-10-10"
  }
 }

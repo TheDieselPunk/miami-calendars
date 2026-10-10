@@ -8,50 +8,10 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:tablelist-2e996312a3fbfc09@zeyzey.miami-calendars
-DTSTAMP:20261009T041829Z
-LAST-MODIFIED:20261009T041829Z
-SEQUENCE:1
-DTSTART:20261008T230000Z
-DTEND:20261009T040000Z
-SUMMARY:Night Tapes
-LOCATION:ZeyZey Miami
-DESCRIPTION:https://buy.tablelist.com/e/2e996312a3fbfc09
-URL:https://buy.tablelist.com/e/2e996312a3fbfc09
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:tablelist-a2c7b0c91d4ac64b@zeyzey.miami-calendars
-DTSTAMP:20261001T041824Z
-LAST-MODIFIED:20261001T041824Z
-SEQUENCE:0
-DTSTART:20261008T230000Z
-DTEND:20261009T040000Z
-SUMMARY:Night Tapes
-LOCATION:ZeyZey Miami
-DESCRIPTION:https://buy.tablelist.com/e/a2c7b0c91d4ac64b
-URL:https://buy.tablelist.com/e/a2c7b0c91d4ac64b
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:19hz-4445167-degscrazeshinobi@zeyzey.miami-calendars
-DTSTAMP:20261009T161821Z
-LAST-MODIFIED:20261009T161821Z
-SEQUENCE:1
-DTSTART:20261009T000000Z
-DTEND:20261009T050000Z
-SUMMARY:Degs\, Craze & Shinobi b2b Stereotype
-LOCATION:Zeyzey
-DESCRIPTION:Tags: drum and bass\nAges: 21+\nhttps://ra.co/events/2545867
-URL:https://ra.co/events/2545867
-STATUS:CONFIRMED
-CATEGORIES:drum and bass
-END:VEVENT
-BEGIN:VEVENT
 UID:solmates-season-opener-ft-fahlberg-orsay-more@shotgun.live
-DTSTAMP:20261009T221902Z
-LAST-MODIFIED:20261009T221902Z
-SEQUENCE:13
+DTSTAMP:20261010T041832Z
+LAST-MODIFIED:20261010T041832Z
+SEQUENCE:14
 DTSTART:20261010T020000Z
 DTEND:20261010T070000Z
 SUMMARY:Solmates Season Opener Ft. Fahlberg\, Orsay & More
@@ -86,16 +46,16 @@ DESCRIPTION:Solmates brings together two European producers whose work meet
  d the right records create lasting moments. 21+ event\nLineup: Fahlberg\, 
  Orsay\nTags: afro house\, house\, latin\, melodic house & techno\, progres
  sive house\nPresented by: Solmates Miami\nTickets: Entry Anytime (2nd Rele
- ase) $30 (sold out)\, VIP (1st Release) $50\, BUY 3 GET 1 FREE (1st Releas
- e) $75 (sold out)\, Entry before 11 PM $10 (sold out)\, Entry Anytime (1st
-  Release) $25 (sold out)\, Buy 3 Get 1 Free (2nd Release) $90\, Entry Anyt
- ime (Final Release) $35\nAges: 21+\nhttps://shotgun.live/en/events/solmate
- s-season-opener-ft-fahlberg-orsay-more\nhttps://buy.tablelist.com/e/a3c6a4
- f30491acd7\nhttps://buy.tablelist.com/e/ad02c1510e06e0f9\nhttps://calendar
- .zeyzeymiami.com/shows/cain-culto-free-entry-09-oct\nhttps://calendar.zeyz
- eymiami.com/shows/fahlberg-orsay-more-tba-09-oct\nhttps://dice.fm/event/6a
- 9750591ac7ec00014fffc8\nhttps://edmtrain.com/miami-fl/solmates-fahlberg-53
- 4168\nhttps://ra.co/events/2529443
+ ase) $30 (sold out)\, VIP (1st Release) $50 (sold out)\, BUY 3 GET 1 FREE 
+ (1st Release) $75 (sold out)\, Entry before 11 PM $10 (sold out)\, Entry A
+ nytime (1st Release) $25 (sold out)\, VIP 2 $55\, Buy 3 Get 1 Free (2nd Re
+ lease) $90\, Entry Anytime (Final Release) $35\nAges: 21+\nhttps://shotgun
+ .live/en/events/solmates-season-opener-ft-fahlberg-orsay-more\nhttps://buy
+ .tablelist.com/e/a3c6a4f30491acd7\nhttps://buy.tablelist.com/e/ad02c1510e0
+ 6e0f9\nhttps://calendar.zeyzeymiami.com/shows/cain-culto-free-entry-09-oct
+ \nhttps://calendar.zeyzeymiami.com/shows/fahlberg-orsay-more-tba-09-oct\nh
+ ttps://dice.fm/event/6a9750591ac7ec00014fffc8\nhttps://edmtrain.com/miami-
+ fl/solmates-fahlberg-534168\nhttps://ra.co/events/2529443
 URL:https://shotgun.live/en/events/solmates-season-opener-ft-fahlberg-orsay
  -more
 STATUS:CONFIRMED

@@ -1,18 +1,8 @@
 {
- "19hz-4445167-degscrazeshinobi@zeyzey.miami-calendars": {
-  "hash": "6f89518f109e87f7",
-  "seq": 1,
-  "modified": "2026-10-09T16:18:21+00:00"
- },
- "19hz-4445172-soireewillbuckdy@mad-radio.miami-calendars": {
-  "hash": "1b5d79d1e07f26fd",
-  "seq": 1,
-  "modified": "2026-10-09T16:18:21+00:00"
- },
- "19hz-4445176-milagamaproletar@jolene.miami-calendars": {
-  "hash": "733c73ddd5324298",
+ "19hz-4445244-luckwork@daer.miami-calendars": {
+  "hash": "aa7a6c19eca0403e",
   "seq": 0,
-  "modified": "2026-10-09T16:18:21+00:00"
+  "modified": "2026-10-10T04:18:32+00:00"
  },
  "19hz-4445268-dvs1@domicile.miami-calendars": {
   "hash": "df6b18116dd30b54",
@@ -28,6 +18,11 @@
   "hash": "f5d6d226d3a5cf9c",
   "seq": 0,
   "modified": "2026-09-23T22:18:04+00:00"
+ },
+ "19hz-4445275-laolukaraba@floyd.miami-calendars": {
+  "hash": "661c1c0ad092d9ce",
+  "seq": 0,
+  "modified": "2026-10-10T04:18:32+00:00"
  },
  "19hz-4445323-mc4d@festivals.miami-calendars": {
   "hash": "e1d859b3117c0d0b",
@@ -239,11 +234,6 @@
   "seq": 1,
   "modified": "2026-09-22T00:40:38+00:00"
  },
- "dice-6a5a971f5dff640001733cb0@the-ground.miami-calendars": {
-  "hash": "e1420304f1a7ee3a",
-  "seq": 3,
-  "modified": "2026-10-06T04:18:39+00:00"
- },
  "dice-6a60e5e3f0b16700018157d5@kemistry.miami-calendars": {
   "hash": "f1c36acf955931cb",
   "seq": 0,
@@ -444,11 +434,6 @@
   "seq": 3,
   "modified": "2026-09-22T00:41:54+00:00"
  },
- "dice-6a906e504e1d1f00013d8f76@floyd.miami-calendars": {
-  "hash": "11eb0adc50a26940",
-  "seq": 3,
-  "modified": "2026-09-22T00:41:54+00:00"
- },
  "dice-6a90700ddd78440001e06b8c@floyd.miami-calendars": {
   "hash": "4453229ba7625ec8",
   "seq": 3,
@@ -588,6 +573,11 @@
   "hash": "0597a9324a5ae525",
   "seq": 1,
   "modified": "2026-10-06T04:18:39+00:00"
+ },
+ "dice-6aa064da79036d0001631490@floyd.miami-calendars": {
+  "hash": "c6326dc5014886b5",
+  "seq": 0,
+  "modified": "2026-10-10T04:18:32+00:00"
  },
  "dice-6aa06694dcd56d0001733719@floyd.miami-calendars": {
   "hash": "69412bbb299c8bae",
@@ -874,6 +864,11 @@
   "seq": 0,
   "modified": "2026-10-08T16:18:34+00:00"
  },
+ "dice-6ac7e104051f140001741eed@floyd.miami-calendars": {
+  "hash": "d56453178d80c4d7",
+  "seq": 0,
+  "modified": "2026-10-10T04:18:32+00:00"
+ },
  "dice-6ac7e104051f140001741eed@the-ground.miami-calendars": {
   "hash": "d56453178d80c4d7",
   "seq": 0,
@@ -974,6 +969,11 @@
   "seq": 2,
   "modified": "2026-09-22T00:50:09+00:00"
  },
+ "edmtrain-526704@the-ground.miami-calendars": {
+  "hash": "31d684913797b515",
+  "seq": 0,
+  "modified": "2026-10-10T04:18:32+00:00"
+ },
  "edmtrain-528506@daer.miami-calendars": {
   "hash": "953bb12950f2a8c8",
   "seq": 0,
@@ -1024,11 +1024,6 @@
   "seq": 0,
   "modified": "2026-10-09T04:18:29+00:00"
  },
- "edmtrain-543658@floyd.miami-calendars": {
-  "hash": "0028ee5995138470",
-  "seq": 0,
-  "modified": "2026-10-09T04:18:29+00:00"
- },
  "evanora-unlimited-north-america-tour-miami-fl@shotgun.live": {
   "hash": "d358c912cbdb6132",
   "seq": 8,
@@ -1058,11 +1053,6 @@
   "hash": "e6ae9a2b171c25b9",
   "seq": 0,
   "modified": "2026-09-25T22:18:19+00:00"
- },
- "hardrock-201835@daer.miami-calendars": {
-  "hash": "a87d32c582115a1d",
-  "seq": 1,
-  "modified": "2026-09-23T22:18:04+00:00"
  },
  "hardrock-202009@daer.miami-calendars": {
   "hash": "f824cfcb7a061aaa",
@@ -1319,11 +1309,6 @@
   "seq": 0,
   "modified": "2026-09-23T22:18:04+00:00"
  },
- "hardrock-208488@daer.miami-calendars": {
-  "hash": "961bd5472b2e8a49",
-  "seq": 0,
-  "modified": "2026-09-23T22:18:04+00:00"
- },
  "hardrock-208792@daer.miami-calendars": {
   "hash": "3ad241d0720743d8",
   "seq": 0,
@@ -1361,23 +1346,23 @@
  },
  "madradiomiami101426@shotgun.live": {
   "hash": "e39ed81b6a1686bf",
-  "seq": 65,
-  "modified": "2026-10-09T22:19:02+00:00"
+  "seq": 67,
+  "modified": "2026-10-10T04:18:32+00:00"
  },
  "madradiomiami101526@shotgun.live": {
   "hash": "d90990d3aa3265cc",
-  "seq": 65,
-  "modified": "2026-10-09T22:19:02+00:00"
+  "seq": 67,
+  "modified": "2026-10-10T04:18:32+00:00"
  },
  "madradiomiami101626@shotgun.live": {
   "hash": "58a12604e5af3392",
-  "seq": 34,
-  "modified": "2026-10-09T22:19:02+00:00"
+  "seq": 36,
+  "modified": "2026-10-10T04:18:32+00:00"
  },
  "madradiomiami101726@shotgun.live": {
   "hash": "f459f060a060733f",
-  "seq": 34,
-  "modified": "2026-10-09T22:19:02+00:00"
+  "seq": 36,
+  "modified": "2026-10-10T04:18:32+00:00"
  },
  "madradiomiami102126@shotgun.live": {
   "hash": "7682cc251e858a48",
@@ -1409,15 +1394,15 @@
   "seq": 1,
   "modified": "2026-09-30T04:18:26+00:00"
  },
+ "nokings@shotgun.live": {
+  "hash": "88b66a27bdc2e1a9",
+  "seq": 0,
+  "modified": "2026-10-10T04:18:32+00:00"
+ },
  "paloma-morphy-miami@shotgun.live": {
   "hash": "1c469fee0d3a69fd",
   "seq": 2,
   "modified": "2026-09-28T04:18:01+00:00"
- },
- "quick-to-judge-at-the-boombox-10-9@shotgun.live": {
-  "hash": "9f589bb400165d78",
-  "seq": 1,
-  "modified": "2026-10-09T16:18:21+00:00"
  },
  "rocky-horror-picture-show@shotgun.live": {
   "hash": "7b97f38d757a49cd",
@@ -1435,24 +1420,19 @@
   "modified": "2026-09-26T22:18:17+00:00"
  },
  "sangomia1205@shotgun.live": {
-  "hash": "44a385ecb1e79d3a",
-  "seq": 0,
-  "modified": "2026-10-08T22:19:12+00:00"
+  "hash": "8c53651b6045a374",
+  "seq": 1,
+  "modified": "2026-10-10T04:18:32+00:00"
  },
  "solmates-season-opener-ft-fahlberg-orsay-more@shotgun.live": {
-  "hash": "b28a84b4168cbabd",
-  "seq": 13,
-  "modified": "2026-10-09T22:19:02+00:00"
+  "hash": "e71c16692ba4a30c",
+  "seq": 14,
+  "modified": "2026-10-10T04:18:32+00:00"
  },
  "tablelist-09696654a43f6624@zeyzey.miami-calendars": {
   "hash": "5938acf875179f00",
   "seq": 1,
   "modified": "2026-10-02T16:18:26+00:00"
- },
- "tablelist-2e996312a3fbfc09@zeyzey.miami-calendars": {
-  "hash": "3e34059d8bbdc7a1",
-  "seq": 1,
-  "modified": "2026-10-09T04:18:29+00:00"
  },
  "tablelist-303b09419bf8998a@zeyzey.miami-calendars": {
   "hash": "c8e961307ae86593",
@@ -1466,11 +1446,6 @@
  },
  "tablelist-7c5e948162a39cd3@zeyzey.miami-calendars": {
   "hash": "d64629cb50950090",
-  "seq": 0,
-  "modified": "2026-10-01T04:18:24+00:00"
- },
- "tablelist-a2c7b0c91d4ac64b@zeyzey.miami-calendars": {
-  "hash": "b4ba0b3bb6430cd3",
   "seq": 0,
   "modified": "2026-10-01T04:18:24+00:00"
  },
