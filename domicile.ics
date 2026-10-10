@@ -9,16 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4445268-dvs1@domicile.miami-calendars
-DTSTAMP:20260921T200140Z
-LAST-MODIFIED:20260921T200140Z
-SEQUENCE:0
+DTSTAMP:20261010T161814Z
+LAST-MODIFIED:20261010T161814Z
+SEQUENCE:1
 DTSTART:20261010T010000Z
 DTEND:20261010T090000Z
 SUMMARY:Dvs1
 LOCATION:Domicile
-DESCRIPTION:Lineup: DVS1\, Elias Garcia\, Nikita Green\nTags: techno\nAges:
-  18+\nhttps://dice.fm/event/v3l38d-dvs1-9th-oct-domicile-miami-miami-ticke
- ts\nhttps://edmtrain.com/miami-fl/dvs1-elias-garcia-532116
+DESCRIPTION:Tags: techno\nAges: 18+\nhttps://dice.fm/event/v3l38d-dvs1-9th-
+ oct-domicile-miami-miami-tickets
 URL:https://dice.fm/event/v3l38d-dvs1-9th-oct-domicile-miami-miami-tickets
 STATUS:CONFIRMED
 CATEGORIES:techno

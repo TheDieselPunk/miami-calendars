@@ -9,16 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4445268-starjunk95@midline.miami-calendars
-DTSTAMP:20260921T214009Z
-LAST-MODIFIED:20260921T214009Z
-SEQUENCE:0
+DTSTAMP:20261010T161814Z
+LAST-MODIFIED:20261010T161814Z
+SEQUENCE:1
 DTSTART:20261010T010000Z
 DTEND:20261010T053000Z
 SUMMARY:Starjunk 95
 LOCATION:Midline
-DESCRIPTION:Lineup: Starjunk 95\nTags: breaks\, drum and bass\, house\nAges
- : 21+\nhttps://www.eventbrite.com/e/starjunk-95-midline-miami-tickets-1991
- 307429125\nhttps://edmtrain.com/miami-fl/starjunk-95-511485
+DESCRIPTION:Tags: breaks\, drum and bass\, house\nAges: 21+\nhttps://www.ev
+ entbrite.com/e/starjunk-95-midline-miami-tickets-1991307429125
 URL:https://www.eventbrite.com/e/starjunk-95-midline-miami-tickets-19913074
  29125
 STATUS:CONFIRMED

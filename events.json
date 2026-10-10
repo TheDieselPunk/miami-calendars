@@ -22,11 +22,9 @@
   },
   {
    "id": "19hz:4445260-flowfrightftghov",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Flow Fright ft Ghovvl",
-   "artists": [
-    "Ghovvl"
-   ],
+   "artists": [],
    "venue": "Klub Kutters Bar & Lounge",
    "venue_slug": null,
    "date": "2026-10-09",
@@ -47,10 +45,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/events/flow-fright",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/ghovvl-540997"
-   ]
+   "url": "https://shotgun.live/events/flow-fright"
   },
   {
    "id": "19hz:4445260-tiankhoudarifern",
@@ -121,13 +116,9 @@
   },
   {
    "id": "19hz:4445268-dvs1",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Dvs1",
-   "artists": [
-    "DVS1",
-    "Elias Garcia",
-    "Nikita Green"
-   ],
+   "artists": [],
    "venue": "Domicile",
    "venue_slug": "domicile",
    "date": "2026-10-09",
@@ -143,10 +134,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/v3l38d-dvs1-9th-oct-domicile-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/dvs1-elias-garcia-532116"
-   ]
+   "url": "https://dice.fm/event/v3l38d-dvs1-9th-oct-domicile-miami-miami-tickets"
   },
   {
    "id": "19hz:4445268-giovannyaparicio",
@@ -172,12 +160,9 @@
   },
   {
    "id": "19hz:4445268-sandyriveramistu",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Sandy Rivera / Misturada",
-   "artists": [
-    "Sandy Rivera (Kings of Tomorrow)",
-    "Misturada"
-   ],
+   "artists": [],
    "venue": "Mad Radio",
    "venue_slug": "mad-radio",
    "date": "2026-10-09",
@@ -193,18 +178,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/madradiomiami100926",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/sandy-rivera-kings-of-tomorrow-misturada-539086"
-   ]
+   "url": "https://shotgun.live/en/events/madradiomiami100926"
   },
   {
    "id": "19hz:4445268-starjunk95",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Starjunk 95",
-   "artists": [
-    "Starjunk 95"
-   ],
+   "artists": [],
    "venue": "Midline",
    "venue_slug": "midline",
    "date": "2026-10-09",
@@ -222,10 +202,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://www.eventbrite.com/e/starjunk-95-midline-miami-tickets-1991307429125",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/starjunk-95-511485"
-   ]
+   "url": "https://www.eventbrite.com/e/starjunk-95-midline-miami-tickets-1991307429125"
   },
   {
    "id": "19hz:4445272-coderedbloodlust",
@@ -246,31 +223,6 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/codered2"
-  },
-  {
-   "id": "edmtrain:528506",
-   "source": "edmtrain",
-   "title": "Chase & Status",
-   "artists": [
-    "Chase & Status"
-   ],
-   "venue": "DAER Nightclub",
-   "venue_slug": "daer",
-   "date": "2026-10-09",
-   "start": "2026-10-10T02:00:00+00:00",
-   "end": "2026-10-10T08:00:00+00:00",
-   "time_estimated": true,
-   "address": "1 Lucky St, Davie, FL 33314, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.tixr.com/pr/edmtrain/202030",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/chase-and-status-528506"
-   ]
   },
   {
    "id": "19hz:4445272-chaseandstatus",
@@ -296,11 +248,9 @@
   },
   {
    "id": "19hz:4445272-yokoo",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Yokoo",
-   "artists": [
-    "YokoO"
-   ],
+   "artists": [],
    "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
    "date": "2026-10-09",
@@ -318,14 +268,11 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6do778-yokoo-9th-oct-do-not-sit-on-the-furniture-miami-beach-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/yokoo-523282"
-   ]
+   "url": "https://dice.fm/event/6do778-yokoo-9th-oct-do-not-sit-on-the-furniture-miami-beach-tickets"
   },
   {
    "id": "19hz:4445272-mintsonthehousei",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Mints On The House: Izq, Villa, Syala, 305 Mandy, Karminemusik, 717, Briella",
    "artists": [],
    "venue": "Edge",
@@ -344,22 +291,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/mints-on-the-house-oct-09",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/mints-on-the-house-540956"
-   ]
+   "url": "https://shotgun.live/en/events/mints-on-the-house-oct-09"
   },
   {
    "id": "19hz:4445272-worshipsubfocusd",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Worship - Sub Focus / Dimension / Culture Shock / 1991",
-   "artists": [
-    "WORSHIP (Sub Focus x Dimension x Culture Shock x 1991)",
-    "Sub Focus",
-    "Dimension",
-    "Culture Shock",
-    "1991"
-   ],
+   "artists": [],
    "venue": "Factory Town",
    "venue_slug": "factory-town",
    "date": "2026-10-09",
@@ -375,19 +313,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/partner/tickets/event/xeyxve-worship-sub-focusdimensionculture-shock1991-9th-oct-factory-town-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/worship-sub-focus-x-dimension-x-culture-shock-x-1991-sub-focus-514911"
-   ]
+   "url": "https://dice.fm/partner/tickets/event/xeyxve-worship-sub-focusdimensionculture-shock1991-9th-oct-factory-town-miami-tickets"
   },
   {
    "id": "19hz:4445272-chippynonstoppre",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Chippy Nonstop, Pressure Point",
-   "artists": [
-    "Chippy Nonstop",
-    "Pressure Point"
-   ],
+   "artists": [],
    "venue": "Jolene Downtown",
    "venue_slug": "jolene",
    "date": "2026-10-09",
@@ -405,27 +337,22 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6aa83c59ff46e90001677da0",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/chippy-nonstop-pressure-point-536890"
-   ]
+   "url": "https://dice.fm/event/6aa83c59ff46e90001677da0"
   },
   {
-   "id": "dice:6a29f4a8dd83280001d85c25",
-   "source": "19hz+dice+edmtrain",
-   "title": "NIFRA",
-   "artists": [
-    "Nifra"
-   ],
+   "id": "19hz:4445272-nifra",
+   "source": "19hz",
+   "title": "Nifra",
+   "artists": [],
    "venue": "Kemistry",
    "venue_slug": "kemistry",
    "date": "2026-10-09",
    "start": "2026-10-10T02:00:00+00:00",
    "end": "2026-10-10T08:00:00+00:00",
    "time_estimated": false,
-   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "address": "Fort Lauderdale",
    "ages": "18+",
-   "price": "From $13",
+   "price": "$13.22",
    "genres": [
     "big room trance",
     "uplifting trance"
@@ -433,12 +360,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6d83nq-nifra-9th-oct-kemistry-fort-lauderdale-tickets",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/event/6d83nq-nifra-9th-oct-kemistry-fort-lauderdale-tickets",
-    "https://edmtrain.com/fort-lauderdale-fl/nifra-512211"
-   ]
+   "url": "https://dice.fm/event/6d83nq-nifra-9th-oct-kemistry-fort-lauderdale-tickets"
   },
   {
    "id": "19hz:4445272-cosmicgate",
@@ -488,12 +410,9 @@
   },
   {
    "id": "19hz:4445272-rootsofbassbearg",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Roots Of Bass - Bear Grillz, Usaybflow + More",
-   "artists": [
-    "Bear Grillz",
-    "Usaybflow"
-   ],
+   "artists": [],
    "venue": "Mad Live",
    "venue_slug": null,
    "date": "2026-10-09",
@@ -511,10 +430,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/8eqn6w-roots-of-bass-bear-grillz-usaybflow-more-9th-oct-mad-live-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/roots-of-bass-bear-grillz-516800"
-   ]
+   "url": "https://dice.fm/event/8eqn6w-roots-of-bass-bear-grillz-usaybflow-more-9th-oct-mad-live-miami-tickets"
   },
   {
    "id": "19hz:4445272-getlosttakeovere",
@@ -538,12 +454,9 @@
   },
   {
    "id": "19hz:4445272-laterepliesglass",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Late Replies + Glass Halo",
-   "artists": [
-    "Late Replies",
-    "Glass Halo"
-   ],
+   "artists": [],
    "venue": "Sable",
    "venue_slug": null,
    "date": "2026-10-09",
@@ -559,21 +472,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/dk72m6-late-replies-glass-halo-9th-oct-sable-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/late-replies-glass-halo-538275"
-   ]
+   "url": "https://dice.fm/event/dk72m6-late-replies-glass-halo-9th-oct-sable-miami-miami-tickets"
   },
   {
    "id": "19hz:4445272-wuki",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Wuki",
-   "artists": [
-    "Breez",
-    "Netgate",
-    "Wuki",
-    "Jax Knight"
-   ],
+   "artists": [],
    "venue": "Studio 60",
    "venue_slug": null,
    "date": "2026-10-09",
@@ -592,19 +497,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/2waxxp-wuki-9th-oct-studio-60-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/breez-netgate-536174"
-   ]
+   "url": "https://dice.fm/event/2waxxp-wuki-9th-oct-studio-60-miami-miami-tickets"
   },
   {
    "id": "tablelist:ad02c1510e06e0f9",
-   "source": "19hz+edmtrain+tablelist",
+   "source": "19hz+tablelist",
    "title": "Fahlberg & Orsay",
-   "artists": [
-    "Fahlberg",
-    "Orsay"
-   ],
+   "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-10-09",
@@ -622,29 +521,21 @@
    "description": "",
    "url": "https://buy.tablelist.com/e/ad02c1510e06e0f9",
    "alt_urls": [
-    "https://ra.co/events/2529443",
-    "https://edmtrain.com/miami-fl/solmates-fahlberg-534168"
+    "https://ra.co/events/2529443"
    ]
   },
   {
-   "id": "dice:6a91ed7fa0dc520001417d57",
-   "source": "19hz+dice+edmtrain",
-   "title": "Mind Against, Maxi Meraki & Luch",
-   "artists": [
-    "Mind Against",
-    "Maxi Meraki",
-    "Luch",
-    "Bakke",
-    "Danyelino",
-    "Thunderpony"
-   ],
-   "venue": "Club Space Miami",
+   "id": "19hz:4445275-mindagainstmaxme",
+   "source": "19hz",
+   "title": "Mind Against, Max Meraki & Luch",
+   "artists": [],
+   "venue": "Club Space",
    "venue_slug": "club-space",
    "date": "2026-10-09",
    "start": "2026-10-10T03:00:00+00:00",
    "end": "2026-10-10T18:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
    "price": "$30",
    "genres": [
@@ -655,22 +546,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6a91ed7fa0dc520001417d57",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/event/6a91ed7fa0dc520001417d57",
-    "https://edmtrain.com/miami-fl/mind-against-maxi-meraki-533026"
-   ]
+   "url": "https://dice.fm/event/6a91ed7fa0dc520001417d57"
   },
   {
    "id": "19hz:4445275-laolukaraba",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Laolu, Karaba",
-   "artists": [
-    "Laolu",
-    "KARABA",
-    "Nii Tei"
-   ],
+   "artists": [],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
    "date": "2026-10-09",
@@ -686,18 +568,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/eonk26-laolu-karaba-9th-oct-floyd-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/laolu-karaba-532661"
-   ]
+   "url": "https://dice.fm/event/eonk26-laolu-karaba-9th-oct-floyd-miami-miami-tickets"
   },
   {
    "id": "19hz:4445275-alesso",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Alesso",
-   "artists": [
-    "Alesso"
-   ],
+   "artists": [],
    "venue": "Liv Nightclub",
    "venue_slug": null,
    "date": "2026-10-09",
@@ -714,18 +591,15 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://www.universe.com/events/Y9NL8Z",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/alesso-521395"
-   ]
+   "url": "https://www.universe.com/events/Y9NL8Z"
   },
   {
-   "id": "shotgun:get-milked-alec-falconer-pres-by-sarah-tonin-un-mute",
-   "source": "19hz+shotgun",
-   "title": "Get Milked: Alec Falconer Pres By Sarah Tonin & Un_Mute",
+   "id": "19hz:4445275-getmilkedalecfal",
+   "source": "19hz",
+   "title": "Get Milked: Alec Falconer",
    "artists": [],
-   "venue": "Miami",
-   "venue_slug": "festivals",
+   "venue": "Paraiso Estereo",
+   "venue_slug": null,
    "date": "2026-10-09",
    "start": "2026-10-10T03:00:00+00:00",
    "end": "2026-10-10T12:00:00+00:00",
@@ -738,48 +612,15 @@
     "tech house"
    ],
    "genres_inferred": false,
-   "organizer": "",
+   "organizer": "Sarah Tonin & Un_Mute",
    "description": "",
-   "url": "https://shotgun.live/en/events/get-milked-alec-falconer-pres-by-sarah-tonin-un-mute",
-   "alt_urls": [
-    "https://shotgun.live/en/events/get-milked-alec-falconer-pres-by-sarah-tonin-un-mute"
-   ]
-  },
-  {
-   "id": "edmtrain:526704",
-   "source": "edmtrain",
-   "title": "Rebecca Black",
-   "artists": [
-    "Rebecca Black"
-   ],
-   "venue": "The Ground at Space",
-   "venue_slug": "the-ground",
-   "date": "2026-10-09",
-   "start": "2026-10-10T03:00:00+00:00",
-   "end": "2026-10-10T08:00:00+00:00",
-   "time_estimated": true,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "house",
-    "techno"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/pywy7k?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/rebecca-black-526704"
-   ]
+   "url": "https://shotgun.live/en/events/get-milked-alec-falconer-pres-by-sarah-tonin-un-mute"
   },
   {
    "id": "19hz:4445278-cassimm",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Cassimm",
-   "artists": [
-    "Cassimm"
-   ],
+   "artists": [],
    "venue": "Selva",
    "venue_slug": null,
    "date": "2026-10-09",
@@ -795,18 +636,13 @@
    "genres_inferred": false,
    "organizer": "Selva",
    "description": "",
-   "url": "https://posh.vip/e/cassimm-selva",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/cassimm-542656"
-   ]
+   "url": "https://posh.vip/e/cassimm-selva"
   },
   {
    "id": "19hz:4445278-swave",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Swave",
-   "artists": [
-    "Swavé"
-   ],
+   "artists": [],
    "venue": "The Trip",
    "venue_slug": null,
    "date": "2026-10-09",
@@ -822,114 +658,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/dkyreo-swav-9th-oct-the-trip-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/swave-541996"
-   ]
-  },
-  {
-   "id": "edmtrain:527998",
-   "source": "edmtrain",
-   "title": "Eternal Frequencies: Cosmic Gate",
-   "artists": [
-    "Cosmic Gate"
-   ],
-   "venue": "La Otra at MAD Club",
-   "venue_slug": null,
-   "date": "2026-10-09",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "55 NE 24th St, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6dolpq?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/eternal-frequencies-cosmic-gate-527998"
-   ]
-  },
-  {
-   "id": "edmtrain:541902",
-   "source": "edmtrain",
-   "title": "Swavé, Pensión, Sophie Du Futur",
-   "artists": [
-    "Swavé",
-    "Pensión",
-    "Sophie Du Futur"
-   ],
-   "venue": "M2 Nightclub",
-   "venue_slug": null,
-   "date": "2026-10-09",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "1235 Washington Ave, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "open-format"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://posh.vip/e/somethin-light-swav-pensin-sophie-du-futur?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/swave-pension-541902"
-   ]
-  },
-  {
-   "id": "edmtrain:541726",
-   "source": "edmtrain",
-   "title": "GET LOST - a phone-free music experience: MEMENTO (FL)",
-   "artists": [
-    "MEMENTO (FL)"
-   ],
-   "venue": "Nowhere FTL",
-   "venue_slug": null,
-   "date": "2026-10-09",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "204 SW 2nd St, Fort Lauderdale, FL 33301, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://posh.vip/e/get-lost-nowhere-takeover-event?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/get-lost-a-phone-free-music-experience-memento-fl-541726"
-   ]
-  },
-  {
-   "id": "edmtrain:538249",
-   "source": "edmtrain",
-   "title": "Pres By Sarah Tonin & Un_mute: Alec Falconer",
-   "artists": [
-    "Alec Falconer"
-   ],
-   "venue": "Paraíso Estéreo",
-   "venue_slug": null,
-   "date": "2026-10-09",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "1306 N Miami Ave, Miami, FL 33136, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/get-milked-alec-falconer-pres-by-sarah-tonin-un-mute?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/pres-by-sarah-tonin-and-un-mute-alec-falconer-538249"
-   ]
+   "url": "https://dice.fm/event/dkyreo-swav-9th-oct-the-trip-miami-tickets"
   },
   {
    "id": "19hz:4445323-mc4d",
@@ -4958,13 +4687,13 @@
    "time_estimated": false,
    "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
    "ages": "",
-   "price": "$30.00",
+   "price": "",
    "genres": [],
    "genres_inferred": false,
    "organizer": "The Boombox Miami",
    "description": "DON’T DREAM IT BE IT 💥 The Boombox (@theboomboxmiami) and the talent of Miami-Dade (@rockyhorrormiami) have teamed up to create THE ROCKY HORROR PARTY SHOW, a multi-medium performance piece that immerses the audience into the salacious world of this beloved queer cult classic 🪭💫 WHEN: THURSDAY Oct 22 8PM FRIDAY Oct 23 8PM/12AM WHERE: The Boombox #yatusabes WEAR: Slut or Suit no exceptions!! Checking drip and IDs (18+) at the the door 🫵 2 nights, 3 shows you can bring your co-worker with bangs to, and one wild final MIDNIGHT ride you’re not going to want to miss!! Expect live music, cabaret, cinematic projections, y más 💫 There will be flashing lights, sudden sounds, and other practical effects designed to heighten your senses. Please check the ticket info for how you can best enjoy this invento of party show 🥳 SEATS AND TICKETS LIMITED BOOTS LET UR FRIENDS KNOWW Give yourself over to absolute pleasure this October darlings when the mood takes us we’re known to be quite generous 💋 Follow @rockyhorrormiami for early tricks n’ treats and more behind the scenes looks at The Rocky Horror Party Show Project!! See you there, mon chers 💌",
    "url": "https://shotgun.live/en/events/rocky-horror-picture-show",
-   "tickets": "11:45PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME GA $30 (sold out), 8PM SHOWTIME GA $30 (sold out), 11:45PM SHOWTIME GA $30, 8PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME GA $30 (sold out)",
+   "tickets": "11:45PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME GA $30 (sold out), 8PM SHOWTIME GA $30 (sold out), 11:45PM SHOWTIME GA $30 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME GA $30 (sold out)",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -5728,7 +5457,7 @@
   {
    "id": "shotgun:karnival-halloween-party-horror-games-18-rave",
    "source": "shotgun",
-   "title": "Karnival: Halloween Cosplay Party & Horror Gaming",
+   "title": "Karnival: Halloween Cosplay Party & 18+ After Hours Rave",
    "artists": [],
    "venue": "Miami",
    "venue_slug": "festivals",
@@ -15677,9 +15406,9 @@
    ]
   },
   {
-   "id": "19hz:4455352-hamro",
-   "source": "19hz+edmtrain",
-   "title": "Hamro",
+   "id": "dice:6a95bdbd6ae28100012001f9",
+   "source": "19hz+dice+edmtrain",
+   "title": "HAMRO",
    "artists": [
     "HAMRO",
     "SQISHI"
@@ -15690,9 +15419,9 @@
    "start": "2027-01-23T03:00:00+00:00",
    "end": "2027-01-23T09:00:00+00:00",
    "time_estimated": false,
-   "address": "Fort Lauderdale",
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "18+",
-   "price": "$13.22",
+   "price": "From $13",
    "genres": [
     "bass music",
     "dubstep"
@@ -15701,7 +15430,9 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/py3lmy-hamro-22nd-jan-kemistry-fort-lauderdale-tickets",
+   "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/py3lmy-hamro-22nd-jan-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/hamro-sqishi-534522"
    ]
   },

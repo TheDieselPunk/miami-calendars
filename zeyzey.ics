@@ -22,16 +22,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:tablelist-ad02c1510e06e0f9@zeyzey.miami-calendars
-DTSTAMP:20261010T101815Z
-LAST-MODIFIED:20261010T101815Z
-SEQUENCE:0
+DTSTAMP:20261010T161814Z
+LAST-MODIFIED:20261010T161814Z
+SEQUENCE:1
 DTSTART:20261010T020000Z
 DTEND:20261010T080000Z
 SUMMARY:Fahlberg & Orsay
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: Fahlberg\, Orsay\nTags: progressive house\nAges: 21+\nh
- ttps://buy.tablelist.com/e/ad02c1510e06e0f9\nhttps://edmtrain.com/miami-fl
- /solmates-fahlberg-534168\nhttps://ra.co/events/2529443
+DESCRIPTION:Tags: progressive house\nAges: 21+\nhttps://buy.tablelist.com/e
+ /ad02c1510e06e0f9\nhttps://ra.co/events/2529443
 URL:https://buy.tablelist.com/e/ad02c1510e06e0f9
 STATUS:CONFIRMED
 CATEGORIES:progressive house

@@ -8,18 +8,16 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a91ed7fa0dc520001417d57@club-space.miami-calendars
-DTSTAMP:20261006T041839Z
-LAST-MODIFIED:20261006T041839Z
-SEQUENCE:3
+UID:19hz-4445275-mindagainstmaxme@club-space.miami-calendars
+DTSTAMP:20261010T161814Z
+LAST-MODIFIED:20261010T161814Z
+SEQUENCE:0
 DTSTART:20261010T030000Z
 DTEND:20261010T180000Z
-SUMMARY:Mind Against\, Maxi Meraki & Luch
-LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Mind Against\, Maxi Meraki\, Luch\, Bakke\, Danyelino\,
-  Thunderpony\nTags: minimal\, tech house\, techno\nAges: 21+\nhttps://dice
- .fm/event/6a91ed7fa0dc520001417d57\nhttps://edmtrain.com/miami-fl/mind-aga
- inst-maxi-meraki-533026
+SUMMARY:Mind Against\, Max Meraki & Luch
+LOCATION:Club Space
+DESCRIPTION:Tags: minimal\, tech house\, techno\nAges: 21+\nhttps://dice.fm
+ /event/6a91ed7fa0dc520001417d57
 URL:https://dice.fm/event/6a91ed7fa0dc520001417d57
 STATUS:CONFIRMED
 CATEGORIES:minimal,tech house,techno

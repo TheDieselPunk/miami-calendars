@@ -9,19 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4445272-worshipsubfocusd@factory-town.miami-calendars
-DTSTAMP:20261010T101815Z
-LAST-MODIFIED:20261010T101815Z
-SEQUENCE:0
+DTSTAMP:20261010T161814Z
+LAST-MODIFIED:20261010T161814Z
+SEQUENCE:1
 DTSTART:20261010T020000Z
 DTEND:20261010T090000Z
 SUMMARY:Worship - Sub Focus / Dimension / Culture Shock / 1991
 LOCATION:Factory Town
-DESCRIPTION:Lineup: WORSHIP (Sub Focus x Dimension x Culture Shock x 1991)
- \, Sub Focus\, Dimension\, Culture Shock\, 1991\nTags: drum and bass\nAges
- : 18+\nhttps://dice.fm/partner/tickets/event/xeyxve-worship-sub-focusdimen
- sionculture-shock1991-9th-oct-factory-town-miami-tickets\nhttps://edmtrain
- .com/miami-fl/worship-sub-focus-x-dimension-x-culture-shock-x-1991-sub-foc
- us-514911
+DESCRIPTION:Tags: drum and bass\nAges: 18+\nhttps://dice.fm/partner/tickets
+ /event/xeyxve-worship-sub-focusdimensionculture-shock1991-9th-oct-factory-
+ town-miami-tickets
 URL:https://dice.fm/partner/tickets/event/xeyxve-worship-sub-focusdimension
  culture-shock1991-9th-oct-factory-town-miami-tickets
 STATUS:CONFIRMED

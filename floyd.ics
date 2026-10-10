@@ -9,16 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4445275-laolukaraba@floyd.miami-calendars
-DTSTAMP:20261010T041832Z
-LAST-MODIFIED:20261010T041832Z
-SEQUENCE:0
+DTSTAMP:20261010T161814Z
+LAST-MODIFIED:20261010T161814Z
+SEQUENCE:1
 DTSTART:20261010T030000Z
 DTEND:20261010T090000Z
 SUMMARY:Laolu\, Karaba
 LOCATION:Floyd Miami
-DESCRIPTION:Lineup: Laolu\, KARABA\, Nii Tei\nTags: progressive house\nAges
- : 21+\nhttps://dice.fm/event/eonk26-laolu-karaba-9th-oct-floyd-miami-miami
- -tickets\nhttps://edmtrain.com/miami-fl/laolu-karaba-532661
+DESCRIPTION:Tags: progressive house\nAges: 21+\nhttps://dice.fm/event/eonk2
+ 6-laolu-karaba-9th-oct-floyd-miami-miami-tickets
 URL:https://dice.fm/event/eonk26-laolu-karaba-9th-oct-floyd-miami-miami-tic
  kets
 STATUS:CONFIRMED
