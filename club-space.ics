@@ -23,30 +23,14 @@ STATUS:CONFIRMED
 CATEGORIES:minimal,tech house,techno
 END:VEVENT
 BEGIN:VEVENT
-UID:dice-6ac7a7ae0eaa770001a96e07@club-space.miami-calendars
-DTSTAMP:20261008T161834Z
-LAST-MODIFIED:20261008T161834Z
-SEQUENCE:0
-DTSTART:20261010T202000Z
-DTEND:20261010T214500Z
-SUMMARY:Space Yoga
-LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6ac7a7ae0ea
- a770001a96e07
-URL:https://dice.fm/event/6ac7a7ae0eaa770001a96e07
-STATUS:CONFIRMED
-CATEGORIES:house,techno
-END:VEVENT
-BEGIN:VEVENT
-UID:19hz-4445371-masoncollectived@club-space.miami-calendars
-DTSTAMP:20261008T161834Z
-LAST-MODIFIED:20261008T161834Z
-SEQUENCE:0
+UID:dice-6a72288c57ddd20001097968@club-space.miami-calendars
+DTSTAMP:20261010T221812Z
+LAST-MODIFIED:20261010T221812Z
+SEQUENCE:6
 DTSTART:20261011T030000Z
 DTEND:20261011T180000Z
-SUMMARY:Mason Collective\, Dennis Ferrer\, Bontan\, Classmatic\, AJ Christo
- u\, Rooleh\, Ms. Mada
-LOCATION:Club Space
+SUMMARY:MVSON
+LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
 DESCRIPTION:Lineup: Mason Collective\, Dennis Ferrer\, Bontan\, Classmatic
  \, AJ Christou\, Rooléh\nTags: tech house\nAges: 21+\nhttps://dice.fm/eve
  nt/7dx7bv-mvson-10th-oct-club-space-miami-miami-tickets\nhttps://edmtrain.
@@ -55,21 +39,6 @@ URL:https://dice.fm/event/7dx7bv-mvson-10th-oct-club-space-miami-miami-tick
  ets
 STATUS:CONFIRMED
 CATEGORIES:tech house
-END:VEVENT
-BEGIN:VEVENT
-UID:dice-6a72288c57ddd20001097968@club-space.miami-calendars
-DTSTAMP:20261008T161834Z
-LAST-MODIFIED:20261008T161834Z
-SEQUENCE:5
-DTSTART:20261011T030000Z
-DTEND:20261011T180000Z
-SUMMARY:MVSON
-LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6a72288c57d
- dd20001097968
-URL:https://dice.fm/event/6a72288c57ddd20001097968
-STATUS:CONFIRMED
-CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a8722d277479c00018e6330@club-space.miami-calendars

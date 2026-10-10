@@ -9,9 +9,9 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:evanora-unlimited-north-america-tour-miami-fl@shotgun.live
-DTSTAMP:20261009T221902Z
-LAST-MODIFIED:20261009T221902Z
-SEQUENCE:8
+DTSTAMP:20261010T221812Z
+LAST-MODIFIED:20261010T221812Z
+SEQUENCE:9
 DTSTART:20261011T020000Z
 DTEND:20261011T080000Z
 SUMMARY:Evanora Unlimited North America Tour Miami Fl
@@ -26,9 +26,9 @@ DESCRIPTION:EVANORA UNLIMITED — NORTH AMERICA TOUR: MIAMI Evanora Unlimit
  vanora:Unlimited\, Gods Wisdom\, jwelset\, znx\, miavendetta\, Dead Lotus
  \, Angus Scratch Green\, dep4rted\nTags: edm\, experimental\, electro\nPre
  sented by: Talk Less Just Dance\nTickets: second tier $22.02 (sold out)\, 
- Third tier $26.43\, Last tier $35.24\, First tier $15 (sold out)\, LIMITED
-  DISCOUNT TICKETS $20 (sold out)\nhttps://shotgun.live/en/events/evanora-u
- nlimited-north-america-tour-miami-fl
+ Third tier $26.43 (sold out)\, Last tier $40\, First tier $15 (sold out)\,
+  LIMITED DISCOUNT TICKETS $20 (sold out)\nhttps://shotgun.live/en/events/e
+ vanora-unlimited-north-america-tour-miami-fl
 URL:https://shotgun.live/en/events/evanora-unlimited-north-america-tour-mia
  mi-fl
 STATUS:CONFIRMED
