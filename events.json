@@ -21,34 +21,35 @@
    "url": "https://www.tixr.com/groups/daerdayclubsouthflorida/events/luck-work-daer-dayclub-201835"
   },
   {
-   "id": "shotgun:flow-fright",
-   "source": "19hz+shotgun",
-   "title": "Flow Fright",
-   "artists": [],
+   "id": "19hz:4445260-flowfrightftghov",
+   "source": "19hz+edmtrain",
+   "title": "Flow Fright ft Ghovvl",
+   "artists": [
+    "Ghovvl"
+   ],
    "venue": "Klub Kutters Bar & Lounge",
    "venue_slug": null,
    "date": "2026-10-09",
    "start": "2026-10-09T23:00:00+00:00",
    "end": "2026-10-10T06:00:00+00:00",
    "time_estimated": false,
-   "address": "",
+   "address": "Fort Lauderdale",
    "ages": "",
-   "price": "$11.25",
+   "price": "$8.11 pre",
    "genres": [
     "bass music",
     "drum and bass",
     "dubstep",
     "hardstyle",
-    "riddim",
     "techno",
     "trance"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/flow-fright",
+   "url": "https://shotgun.live/events/flow-fright",
    "alt_urls": [
-    "https://shotgun.live/events/flow-fright"
+    "https://edmtrain.com/fort-lauderdale-fl/ghovvl-540997"
    ]
   },
   {
@@ -97,6 +98,26 @@
    "organizer": "Heroes Live Entertainment",
    "description": "",
    "url": "https://uswpb.eventbrite.com/"
+  },
+  {
+   "id": "tablelist:a3c6a4f30491acd7",
+   "source": "tablelist",
+   "title": "Cain Culto - Occulto U.S. Tour",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-10-09",
+   "start": "2026-10-10T00:00:00+00:00",
+   "end": "2026-10-10T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://buy.tablelist.com/e/a3c6a4f30491acd7"
   },
   {
    "id": "19hz:4445268-dvs1",
@@ -150,38 +171,30 @@
    "url": "https://www.therumor.com/p/giovannya"
   },
   {
-   "id": "shotgun:madradiomiami100926",
-   "source": "19hz+edmtrain+shotgun",
+   "id": "19hz:4445268-sandyriveramistu",
+   "source": "19hz+edmtrain",
    "title": "Sandy Rivera / Misturada",
    "artists": [
-    "Sandy Rivera"
+    "Sandy Rivera (Kings of Tomorrow)",
+    "Misturada"
    ],
-   "venue": "Mad Radio Miami",
+   "venue": "Mad Radio",
    "venue_slug": "mad-radio",
    "date": "2026-10-09",
    "start": "2026-10-10T01:00:00+00:00",
    "end": "2026-10-10T07:00:00+00:00",
    "time_estimated": false,
-   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "address": "",
    "ages": "21+",
-   "price": "$21.80",
+   "price": "free w/rsvp b4 10pm / free w/rsvp b4 midnight ladies / $22",
    "genres": [
     "house"
    ],
    "genres_inferred": false,
-   "organizer": "Mad Radio Miami",
-   "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY BEFORE 10 PM / FREE ENTRY LADIES UNTIL MIDNIGHT +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
+   "organizer": "",
+   "description": "",
    "url": "https://shotgun.live/en/events/madradiomiami100926",
-   "tickets": "AFTER 10 PM $20, FREE LADIES RSVP BEFORE 12 AM Free",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.8462027,
-    "longitude": -80.1851332
-   },
-   "created": "2026-09-22T16:05:47.000Z",
    "alt_urls": [
-    "https://shotgun.live/en/events/madradiomiami100926",
     "https://edmtrain.com/miami-fl/sandy-rivera-kings-of-tomorrow-misturada-539086"
    ]
   },
@@ -215,29 +228,24 @@
    ]
   },
   {
-   "id": "shotgun:c3trlroom-10",
-   "source": "19hz+shotgun",
-   "title": "Somethin' Light: Swavé, Pensión, Sophie Du Futur",
+   "id": "19hz:4445272-coderedbloodlust",
+   "source": "19hz",
+   "title": "Code Red: Bloodlust",
    "artists": [],
-   "venue": "Club M2 Miami",
+   "venue": "777 Northeast 79th Street",
    "venue_slug": null,
    "date": "2026-10-09",
    "start": "2026-10-10T02:00:00+00:00",
-   "end": "2026-10-10T08:00:00+00:00",
+   "end": "2026-10-10T08:30:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$20.00",
-   "genres": [
-    "tech house"
-   ],
+   "price": "free-15",
+   "genres": [],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/c3trlroom-10",
-   "alt_urls": [
-    "https://ra.co/events/2551383"
-   ]
+   "url": "https://shotgun.live/en/events/codered2"
   },
   {
    "id": "edmtrain:528506",
@@ -316,11 +324,11 @@
    ]
   },
   {
-   "id": "shotgun:mints-on-the-house-oct-09",
-   "source": "19hz+edmtrain+shotgun",
-   "title": "Mints On The House",
+   "id": "19hz:4445272-mintsonthehousei",
+   "source": "19hz+edmtrain",
+   "title": "Mints On The House: Izq, Villa, Syala, 305 Mandy, Karminemusik, 717, Briella",
    "artists": [],
-   "venue": "EDGE MIAMI",
+   "venue": "Edge",
    "venue_slug": null,
    "date": "2026-10-09",
    "start": "2026-10-10T02:00:00+00:00",
@@ -328,7 +336,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$20.00",
+   "price": "free w/rsvp b4 midnight / $20",
    "genres": [
     "house",
     "tech house"
@@ -338,14 +346,13 @@
    "description": "",
    "url": "https://shotgun.live/en/events/mints-on-the-house-oct-09",
    "alt_urls": [
-    "https://shotgun.live/en/events/mints-on-the-house-oct-09",
     "https://edmtrain.com/miami-fl/mints-on-the-house-540956"
    ]
   },
   {
-   "id": "dice:6a35888fc559de000170027a",
-   "source": "19hz+dice+edmtrain",
-   "title": "WORSHIP - Sub Focus/Dimension/Culture Shock/1991",
+   "id": "19hz:4445272-worshipsubfocusd",
+   "source": "19hz+edmtrain",
+   "title": "Worship - Sub Focus / Dimension / Culture Shock / 1991",
    "artists": [
     "WORSHIP (Sub Focus x Dimension x Culture Shock x 1991)",
     "Sub Focus",
@@ -357,39 +364,37 @@
    "venue_slug": "factory-town",
    "date": "2026-10-09",
    "start": "2026-10-10T02:00:00+00:00",
-   "end": "2026-10-10T07:00:00+00:00",
+   "end": "2026-10-10T09:00:00+00:00",
    "time_estimated": false,
-   "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
+   "address": "",
    "ages": "18+",
-   "price": "From $60",
+   "price": "$50+",
    "genres": [
     "drum and bass"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6a35888fc559de000170027a",
-   "cancelled": false,
+   "url": "https://dice.fm/partner/tickets/event/xeyxve-worship-sub-focusdimensionculture-shock1991-9th-oct-factory-town-miami-tickets",
    "alt_urls": [
-    "https://dice.fm/partner/tickets/event/xeyxve-worship-sub-focusdimensionculture-shock1991-9th-oct-factory-town-miami-tickets",
     "https://edmtrain.com/miami-fl/worship-sub-focus-x-dimension-x-culture-shock-x-1991-sub-focus-514911"
    ]
   },
   {
-   "id": "dice:6aa83c59ff46e90001677da0",
-   "source": "19hz+dice+edmtrain",
-   "title": "Chippy Nonstop & Pressure Point",
+   "id": "19hz:4445272-chippynonstoppre",
+   "source": "19hz+edmtrain",
+   "title": "Chippy Nonstop, Pressure Point",
    "artists": [
     "Chippy Nonstop",
     "Pressure Point"
    ],
-   "venue": "Jolene Sound Room Miami",
+   "venue": "Jolene Downtown",
    "venue_slug": "jolene",
    "date": "2026-10-09",
    "start": "2026-10-10T02:00:00+00:00",
    "end": "2026-10-10T08:00:00+00:00",
    "time_estimated": false,
-   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "address": "",
    "ages": "21+",
    "price": "$7 b4 12 / $10-12",
    "genres": [
@@ -401,9 +406,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aa83c59ff46e90001677da0",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/6aa83c59ff46e90001677da0",
     "https://edmtrain.com/miami-fl/chippy-nonstop-pressure-point-536890"
    ]
   },
@@ -462,47 +465,45 @@
    "url": "https://dice.fm/event/6dolpq-eternal-frequencies-with-cosmic-gate-9th-oct-la-otra-miami-tickets"
   },
   {
-   "id": "shotgun:codered2",
-   "source": "19hz+shotgun",
-   "title": "Code Red: Bloodlust",
+   "id": "19hz:4445272-somethinlightswa",
+   "source": "19hz",
+   "title": "Somethin' Light: Swave, Pension, Sophie Du Futur",
    "artists": [],
-   "venue": "Miami",
+   "venue": "M2",
    "venue_slug": null,
    "date": "2026-10-09",
    "start": "2026-10-10T02:00:00+00:00",
-   "end": "2026-10-10T08:30:00+00:00",
+   "end": "2026-10-10T08:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$11.35",
-   "genres": [],
+   "price": "Free w/RSVP b4 midnight / $20",
+   "genres": [
+    "tech house"
+   ],
    "genres_inferred": false,
-   "organizer": "",
+   "organizer": "Pitchpark Events",
    "description": "",
-   "url": "https://shotgun.live/en/events/codered2",
-   "alt_urls": [
-    "https://shotgun.live/en/events/codered2"
-   ]
+   "url": "https://ra.co/events/2551383"
   },
   {
-   "id": "shotgun:roots-of-bass-bear-grillz",
-   "source": "19hz+edmtrain+shotgun",
+   "id": "19hz:4445272-rootsofbassbearg",
+   "source": "19hz+edmtrain",
    "title": "Roots Of Bass - Bear Grillz, Usaybflow + More",
    "artists": [
     "Bear Grillz",
     "Usaybflow"
    ],
-   "venue": "Miami",
-   "venue_slug": "festivals",
+   "venue": "Mad Live",
+   "venue_slug": null,
    "date": "2026-10-09",
    "start": "2026-10-10T02:00:00+00:00",
    "end": "2026-10-10T09:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$26.00",
+   "price": "$19.99",
    "genres": [
-    "bass",
     "bass music",
     "dubstep",
     "trap"
@@ -510,9 +511,8 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/roots-of-bass-bear-grillz",
+   "url": "https://dice.fm/event/8eqn6w-roots-of-bass-bear-grillz-usaybflow-more-9th-oct-mad-live-miami-tickets",
    "alt_urls": [
-    "https://dice.fm/event/8eqn6w-roots-of-bass-bear-grillz-usaybflow-more-9th-oct-mad-live-miami-tickets",
     "https://edmtrain.com/miami-fl/roots-of-bass-bear-grillz-516800"
    ]
   },
@@ -598,33 +598,9 @@
    ]
   },
   {
-   "id": "shotgun:the-hall-pres-eze-ramirez",
-   "source": "shotgun",
-   "title": "The Hall Pres. Eze Ramirez",
-   "artists": [],
-   "venue": "Upside",
-   "venue_slug": null,
-   "date": "2026-10-09",
-   "start": "2026-10-10T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$22.69",
-   "genres": [
-    "melodic house & techno",
-    "house",
-    "progressive house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/the-hall-pres-eze-ramirez"
-  },
-  {
-   "id": "shotgun:solmates-season-opener-ft-fahlberg-orsay-more",
-   "source": "19hz+dice+edmtrain+shotgun+tablelist+venue",
-   "title": "Solmates Season Opener Ft. Fahlberg, Orsay & More",
+   "id": "tablelist:ad02c1510e06e0f9",
+   "source": "19hz+edmtrain+tablelist",
+   "title": "Fahlberg & Orsay",
    "artists": [
     "Fahlberg",
     "Orsay"
@@ -633,36 +609,19 @@
    "venue_slug": "zeyzey",
    "date": "2026-10-09",
    "start": "2026-10-10T02:00:00+00:00",
-   "end": "2026-10-10T07:00:00+00:00",
+   "end": "2026-10-10T08:00:00+00:00",
    "time_estimated": false,
-   "address": "353 Northeast 61st Street, Miami, FL 33137, USA",
+   "address": "",
    "ages": "21+",
-   "price": "$39.73",
+   "price": "$11.50 b4 11 / $12-57",
    "genres": [
-    "afro house",
-    "house",
-    "latin",
-    "melodic house & techno",
     "progressive house"
    ],
    "genres_inferred": false,
-   "organizer": "Solmates Miami",
-   "description": "Solmates brings together two European producers whose work meets at the intersection of melody, groove, and late-night dance music. Built around a shared appreciation for emotional, forward-thinking electronic music, Solmates creates a space where established sounds and new perspectives can meet on the dancefloor. Stockholm-born Fahlberg has built his sound around deep basslines, hypnotic textures, and what he describes as “Nordic Melodic” — a Scandinavian sense of atmosphere shaped through contemporary house and techno. His releases have appeared on labels including Diynamic, Watergate, Siamese, MoBlack, and When Stars Align, with support from Solomun, Keinemusik, Black Coffee, and Pete Tong. Tracks such as “Somebody” and “Chaka” have reached major Beatport chart positions, while recent work includes collaborations with Layer J, Argødes, and Jeremy Olander, alongside an official remix for RÜFÜS DU SOL. Joining him is Paris- and London-based Orsay, a producer whose melodic house sound is informed by an early classical background. Having studied piano from the age of six and trained at a music conservatory, Orsay brings that foundation into productions built around rhythm, emotion, and melody. His music has been released through Ninja Tune, Siamese, Universal Music, and Kitsuné, with tracks including “Mind Off,” “Amado,” and “Magik” receiving support from Adriatique, Solomun, WhoMadeWho, Carlita, and RÜFÜS DU SOL. In 2025, he took his sets across Europe, the UAE, and South America. Together, Fahlberg and Orsay represent the sound and spirit behind Solmates: a meeting point for artists and audiences drawn to melodic, groove-led electronic music, with a focus on connection, discovery, and the energy of the night. Rooted in Europe but looking outward, Solmates brings together different musical backgrounds and perspectives under one shared atmosphere — where melody meets movement and the right records create lasting moments. 21+ event",
-   "url": "https://shotgun.live/en/events/solmates-season-opener-ft-fahlberg-orsay-more",
-   "tickets": "Entry Anytime (2nd Release) $30 (sold out), VIP (1st Release) $50 (sold out), BUY 3 GET 1 FREE (1st Release) $75 (sold out), Entry before 11 PM $10 (sold out), Entry Anytime (1st Release) $25 (sold out), VIP 2 $55, Buy 3 Get 1 Free (2nd Release) $90, Entry Anytime (Final Release) $35",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.8327584,
-    "longitude": -80.1890685
-   },
-   "created": "2026-09-01T22:00:00.000Z",
+   "organizer": "",
+   "description": "",
+   "url": "https://buy.tablelist.com/e/ad02c1510e06e0f9",
    "alt_urls": [
-    "https://dice.fm/event/6a9750591ac7ec00014fffc8",
-    "https://buy.tablelist.com/e/a3c6a4f30491acd7",
-    "https://buy.tablelist.com/e/ad02c1510e06e0f9",
-    "https://calendar.zeyzeymiami.com/shows/cain-culto-free-entry-09-oct",
-    "https://calendar.zeyzeymiami.com/shows/fahlberg-orsay-more-tba-09-oct",
     "https://ra.co/events/2529443",
     "https://edmtrain.com/miami-fl/solmates-fahlberg-534168"
    ]
@@ -773,7 +732,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$22.00",
+   "price": "free w/rsvp b4 midnight / $22",
    "genres": [
     "progressive house",
     "tech house"
@@ -866,31 +825,6 @@
    "url": "https://dice.fm/event/dkyreo-swav-9th-oct-the-trip-miami-tickets",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/swave-541996"
-   ]
-  },
-  {
-   "id": "edmtrain:540997",
-   "source": "edmtrain",
-   "title": "Ghovvl",
-   "artists": [
-    "Ghovvl"
-   ],
-   "venue": "Klub Kutters",
-   "venue_slug": null,
-   "date": "2026-10-09",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "215 SW 27th Ave, Fort Lauderdale, FL 33312, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/flow-fright?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/ghovvl-540997"
    ]
   },
   {
@@ -1677,7 +1611,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$16.88",
+   "price": "$28.13",
    "genres": [
     "afro house",
     "house",

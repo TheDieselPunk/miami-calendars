@@ -8,59 +8,33 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:solmates-season-opener-ft-fahlberg-orsay-more@shotgun.live
-DTSTAMP:20261010T041832Z
-LAST-MODIFIED:20261010T041832Z
-SEQUENCE:14
-DTSTART:20261010T020000Z
-DTEND:20261010T070000Z
-SUMMARY:Solmates Season Opener Ft. Fahlberg\, Orsay & More
-LOCATION:ZeyZey Miami\, 353 Northeast 61st Street\, Miami\, FL 33137\, USA
-DESCRIPTION:Solmates brings together two European producers whose work meet
- s at the intersection of melody\, groove\, and late-night dance music. Bui
- lt around a shared appreciation for emotional\, forward-thinking electroni
- c music\, Solmates creates a space where established sounds and new perspe
- ctives can meet on the dancefloor. Stockholm-born Fahlberg has built his s
- ound around deep basslines\, hypnotic textures\, and what he describes as 
- “Nordic Melodic” — a Scandinavian sense of atmosphere shaped through
-  contemporary house and techno. His releases have appeared on labels inclu
- ding Diynamic\, Watergate\, Siamese\, MoBlack\, and When Stars Align\, wit
- h support from Solomun\, Keinemusik\, Black Coffee\, and Pete Tong. Tracks
-  such as “Somebody” and “Chaka” have reached major Beatport chart 
- positions\, while recent work includes collaborations with Layer J\, Argø
- des\, and Jeremy Olander\, alongside an official remix for RÜFÜS DU SOL.
-  Joining him is Paris- and London-based Orsay\, a producer whose melodic h
- ouse sound is informed by an early classical background. Having studied pi
- ano from the age of six and trained at a music conservatory\, Orsay brings
-  that foundation into productions built around rhythm\, emotion\, and melo
- dy. His music has been released through Ninja Tune\, Siamese\, Universal M
- usic\, and Kitsuné\, with tracks including “Mind Off\,” “Amado\,”
-  and “Magik” receiving support from Adriatique\, Solomun\, WhoMadeWho
- \, Carlita\, and RÜFÜS DU SOL. In 2025\, he took his sets across Europe
- \, the UAE\, and South America. Together\, Fahlberg and Orsay represent th
- e sound and spirit behind Solmates: a meeting point for artists and audien
- ces drawn to melodic\, groove-led electronic music\, with a focus on conne
- ction\, discovery\, and the energy of the night. Rooted in Europe but look
- ing outward\, Solmates brings together different musical backgrounds and p
- erspectives under one shared atmosphere — where melody meets movement an
- d the right records create lasting moments. 21+ event\nLineup: Fahlberg\, 
- Orsay\nTags: afro house\, house\, latin\, melodic house & techno\, progres
- sive house\nPresented by: Solmates Miami\nTickets: Entry Anytime (2nd Rele
- ase) $30 (sold out)\, VIP (1st Release) $50 (sold out)\, BUY 3 GET 1 FREE 
- (1st Release) $75 (sold out)\, Entry before 11 PM $10 (sold out)\, Entry A
- nytime (1st Release) $25 (sold out)\, VIP 2 $55\, Buy 3 Get 1 Free (2nd Re
- lease) $90\, Entry Anytime (Final Release) $35\nAges: 21+\nhttps://shotgun
- .live/en/events/solmates-season-opener-ft-fahlberg-orsay-more\nhttps://buy
- .tablelist.com/e/a3c6a4f30491acd7\nhttps://buy.tablelist.com/e/ad02c1510e0
- 6e0f9\nhttps://calendar.zeyzeymiami.com/shows/cain-culto-free-entry-09-oct
- \nhttps://calendar.zeyzeymiami.com/shows/fahlberg-orsay-more-tba-09-oct\nh
- ttps://dice.fm/event/6a9750591ac7ec00014fffc8\nhttps://edmtrain.com/miami-
- fl/solmates-fahlberg-534168\nhttps://ra.co/events/2529443
-URL:https://shotgun.live/en/events/solmates-season-opener-ft-fahlberg-orsay
- -more
+UID:tablelist-a3c6a4f30491acd7@zeyzey.miami-calendars
+DTSTAMP:20261010T101815Z
+LAST-MODIFIED:20261010T101815Z
+SEQUENCE:0
+DTSTART:20261010T000000Z
+DTEND:20261010T060000Z
+SUMMARY:Cain Culto - Occulto U.S. Tour
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://buy.tablelist.com/e/a3c6a4f30491acd7
+URL:https://buy.tablelist.com/e/a3c6a4f30491acd7
 STATUS:CONFIRMED
-CATEGORIES:afro house,house,latin,melodic house & techno,progressive house
-GEO:25.8327584;-80.1890685
+END:VEVENT
+BEGIN:VEVENT
+UID:tablelist-ad02c1510e06e0f9@zeyzey.miami-calendars
+DTSTAMP:20261010T101815Z
+LAST-MODIFIED:20261010T101815Z
+SEQUENCE:0
+DTSTART:20261010T020000Z
+DTEND:20261010T080000Z
+SUMMARY:Fahlberg & Orsay
+LOCATION:ZeyZey Miami
+DESCRIPTION:Lineup: Fahlberg\, Orsay\nTags: progressive house\nAges: 21+\nh
+ ttps://buy.tablelist.com/e/ad02c1510e06e0f9\nhttps://edmtrain.com/miami-fl
+ /solmates-fahlberg-534168\nhttps://ra.co/events/2529443
+URL:https://buy.tablelist.com/e/ad02c1510e06e0f9
+STATUS:CONFIRMED
+CATEGORIES:progressive house
 END:VEVENT
 BEGIN:VEVENT
 UID:tablelist-be4b8785c1b327f9@zeyzey.miami-calendars
