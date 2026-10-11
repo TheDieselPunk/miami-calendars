@@ -2,11 +2,9 @@
  "events": [
   {
    "id": "19hz:4445323-mc4d",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "MC4D",
-   "artists": [
-    "MC4D"
-   ],
+   "artists": [],
    "venue": "The Shorely At Marina Village",
    "venue_slug": "festivals",
    "date": "2026-10-10",
@@ -23,18 +21,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://www.eventbrite.com/e/mc4d-the-shorely-tickets-2000173734483",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/mc4d-535945"
-   ]
+   "url": "https://www.eventbrite.com/e/mc4d-the-shorely-tickets-2000173734483"
   },
   {
    "id": "19hz:4445328-gorgoncity",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Gorgon City",
-   "artists": [
-    "Gorgon City"
-   ],
+   "artists": [],
    "venue": "Daer Dayclub",
    "venue_slug": "daer",
    "date": "2026-10-10",
@@ -50,10 +43,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://www.tixr.com/groups/daerdayclubsouthflorida/events/gorgon-city-daer-dayclub-202009",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/gorgon-city-536839"
-   ]
+   "url": "https://www.tixr.com/groups/daerdayclubsouthflorida/events/gorgon-city-daer-dayclub-202009"
   },
   {
    "id": "19hz:4445332-techniquerecords",
@@ -79,13 +69,9 @@
   },
   {
    "id": "19hz:4445335-miamisynthmeet3n",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Miami Synth Meet 3: Nosivel, Grayghost",
-   "artists": [
-    "Nosivel",
-    "Christopher Lombardo",
-    "GrayGhost"
-   ],
+   "artists": [],
    "venue": "Churchill's Pub",
    "venue_slug": null,
    "date": "2026-10-10",
@@ -103,22 +89,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/miami-synth-meet-3",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/miami-synth-meet-3-nosivel-542862"
-   ]
+   "url": "https://shotgun.live/en/events/miami-synth-meet-3"
   },
   {
    "id": "19hz:4445344-intrigaxbohohous",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Intriga X Boho House: Day Party Vol. 2",
-   "artists": [
-    "Santelises",
-    "Shelley De Vos",
-    "goa 98",
-    "luneye",
-    "Marie Posa"
-   ],
+   "artists": [],
    "venue": "Boho House",
    "venue_slug": null,
    "date": "2026-10-10",
@@ -136,18 +113,13 @@
    "genres_inferred": false,
    "organizer": "Intriga Collective",
    "description": "",
-   "url": "https://link.dice.fm/if9906eac89a",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/intriga-x-boho-house-day-party-vol-2-santelises-542744"
-   ]
+   "url": "https://link.dice.fm/if9906eac89a"
   },
   {
    "id": "19hz:4445344-benjaminlloyd",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Benjamin Lloyd",
-   "artists": [
-    "Benjamin Lloyd"
-   ],
+   "artists": [],
    "venue": "Palm Tree Club",
    "venue_slug": null,
    "date": "2026-10-10",
@@ -163,10 +135,7 @@
    "genres_inferred": false,
    "organizer": "Palm Tree Club Miami",
    "description": "",
-   "url": "https://posh.vip/e/benjamin-lloyd-presented-by-palm-tree-club-miami-3",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/benjamin-lloyd-535913"
-   ]
+   "url": "https://posh.vip/e/benjamin-lloyd-presented-by-palm-tree-club-miami-3"
   },
   {
    "id": "19hz:4445356-dnrgyfriends",
@@ -194,12 +163,9 @@
   },
   {
    "id": "19hz:4445359-peterguzmanb2bte",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Peter Guzman b2b Terranova (All Night Long)",
-   "artists": [
-    "Peter Guzman",
-    "Terranova"
-   ],
+   "artists": [],
    "venue": "Aire Miami",
    "venue_slug": null,
    "date": "2026-10-10",
@@ -216,10 +182,7 @@
    "genres_inferred": false,
    "organizer": "Aire Miami",
    "description": "",
-   "url": "https://ra.co/events/2552030",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/peter-guzman-terranova-541817"
-   ]
+   "url": "https://ra.co/events/2552030"
   },
   {
    "id": "tablelist:be4b8785c1b327f9",
@@ -294,13 +257,9 @@
   },
   {
    "id": "19hz:4445364-tianisraelsunshi",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Tian / Israel Sunshine / Pino / Puma",
-   "artists": [
-    "Tian",
-    "Israel Sunshine",
-    "Puma"
-   ],
+   "artists": [],
    "venue": "Mad Radio",
    "venue_slug": "mad-radio",
    "date": "2026-10-10",
@@ -318,10 +277,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/madradiomiami101026",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/tian-israel-sunshine-540057"
-   ]
+   "url": "https://shotgun.live/en/events/madradiomiami101026"
   },
   {
    "id": "19hz:4445364-slowlifeshowcase",
@@ -347,11 +303,9 @@
   },
   {
    "id": "19hz:4445364-jameshurr",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "James Hurr",
-   "artists": [
-    "James Hurr"
-   ],
+   "artists": [],
    "venue": "Upside",
    "venue_slug": null,
    "date": "2026-10-10",
@@ -367,14 +321,11 @@
    "genres_inferred": false,
    "organizer": "Apex",
    "description": "",
-   "url": "https://www.eventbrite.com/e/james-hurr-tickets-2002222484349",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/james-hurr-540235"
-   ]
+   "url": "https://www.eventbrite.com/e/james-hurr-tickets-2002222484349"
   },
   {
    "id": "19hz:4445368-clubdanceteriama",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Club Danceteria: Madonna X Charli Rave",
    "artists": [],
    "venue": "777 Northeast 79th Street",
@@ -394,18 +345,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/y2kpop-2",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/club-danceteria-madonna-x-charli-rave-541813"
-   ]
+   "url": "https://shotgun.live/en/events/y2kpop-2"
   },
   {
    "id": "19hz:4445368-acraze",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Acraze",
-   "artists": [
-    "ACRAZE"
-   ],
+   "artists": [],
    "venue": "Daer Nightclub",
    "venue_slug": "daer",
    "date": "2026-10-10",
@@ -422,18 +368,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://www.tixr.com/groups/daernightclubsouthflorida/events/acraze-daer-nightclub-202031",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/acraze-529504"
-   ]
+   "url": "https://www.tixr.com/groups/daernightclubsouthflorida/events/acraze-daer-nightclub-202031"
   },
   {
    "id": "19hz:4445368-igormarijuan",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Igor Marijuan",
-   "artists": [
-    "Igor Marijuan"
-   ],
+   "artists": [],
    "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
    "date": "2026-10-10",
@@ -451,10 +392,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/v3x2xd-igor-marijuan-all-day-i-dream-10th-oct-do-not-sit-on-the-furniture-miami-beach-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/igor-marijuan-529964"
-   ]
+   "url": "https://dice.fm/event/v3x2xd-igor-marijuan-all-day-i-dream-10th-oct-do-not-sit-on-the-furniture-miami-beach-tickets"
   },
   {
    "id": "19hz:4445368-harvybalharvyval",
@@ -483,13 +421,9 @@
   },
   {
    "id": "19hz:4445368-arminvanbuuren",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Armin van Buuren",
-   "artists": [
-    "Armin van Buuren",
-    "Funk Tribu",
-    "NRG2000"
-   ],
+   "artists": [],
    "venue": "Factory Town",
    "venue_slug": "factory-town",
    "date": "2026-10-10",
@@ -506,18 +440,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/8e96w5-armin-van-buuren-presents-the-orb-10th-oct-factory-town-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/the-orb-armin-van-buuren-528542"
-   ]
+   "url": "https://dice.fm/event/8e96w5-armin-van-buuren-presents-the-orb-10th-oct-factory-town-miami-tickets"
   },
   {
    "id": "19hz:4445368-enamour",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Enamour",
-   "artists": [
-    "Enamour"
-   ],
+   "artists": [],
    "venue": "Jolene Downtown",
    "venue_slug": "jolene",
    "date": "2026-10-10",
@@ -534,28 +463,22 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/eo6ewy-enamour-10th-oct-jolene-sound-room-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/enamour-525620"
-   ]
+   "url": "https://dice.fm/event/eo6ewy-enamour-10th-oct-jolene-sound-room-miami-miami-tickets"
   },
   {
-   "id": "dice:6a6fe05cfd4b720001b0a904",
-   "source": "19hz+dice+edmtrain",
-   "title": "SO DOWN",
-   "artists": [
-    "SoDown",
-    "Oddly Eazy"
-   ],
+   "id": "19hz:4445368-sodown",
+   "source": "19hz",
+   "title": "Sodown",
+   "artists": [],
    "venue": "Kemistry",
    "venue_slug": "kemistry",
    "date": "2026-10-10",
    "start": "2026-10-11T02:00:00+00:00",
    "end": "2026-10-11T08:00:00+00:00",
    "time_estimated": false,
-   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "address": "Fort Lauderdale",
    "ages": "18+",
-   "price": "From $20",
+   "price": "$13.22",
    "genres": [
     "bass music",
     "dubstep"
@@ -563,20 +486,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/bb95vm-so-down-10th-oct-kemistry-fort-lauderdale-tickets",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/event/bb95vm-so-down-10th-oct-kemistry-fort-lauderdale-tickets",
-    "https://edmtrain.com/fort-lauderdale-fl/sodown-oddly-eazy-530762"
-   ]
+   "url": "https://dice.fm/event/bb95vm-so-down-10th-oct-kemistry-fort-lauderdale-tickets"
   },
   {
    "id": "19hz:4445368-sidequest",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Sidequest",
-   "artists": [
-    "SIDEQUEST"
-   ],
+   "artists": [],
    "venue": "Midline",
    "venue_slug": "midline",
    "date": "2026-10-10",
@@ -592,40 +508,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://wl.eventim.us/event/sidequest-midline-miami/704346?afflky=Midline",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/sidequest-534375"
-   ]
-  },
-  {
-   "id": "shotgun:slow-life-w-cecilio-paolo-mosca-rapture-s-deli-anniversary",
-   "source": "shotgun",
-   "title": "Slow Life W/Cecilio & Paolo Mosca+Rapture's Deli Anniversary",
-   "artists": [],
-   "venue": "Paraiso Estéreo",
-   "venue_slug": null,
-   "date": "2026-10-10",
-   "start": "2026-10-11T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$22.70",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/slow-life-w-cecilio-paolo-mosca-rapture-s-deli-anniversary"
+   "url": "https://wl.eventim.us/event/sidequest-midline-miami/704346?afflky=Midline"
   },
   {
    "id": "19hz:4445368-sebzitojessecalo",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Seb Zito + Jesse Calosso b2b Shahar",
-   "artists": [
-    "Seb Zito",
-    "Jesse Calosso",
-    "Shahar"
-   ],
+   "artists": [],
    "venue": "Sable",
    "venue_slug": null,
    "date": "2026-10-10",
@@ -642,18 +531,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/92v9nd-seb-zito-jesse-calosso-b2b-shahar-10th-oct-sable-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/seb-zito-jesse-calosso-541135"
-   ]
+   "url": "https://dice.fm/event/92v9nd-seb-zito-jesse-calosso-b2b-shahar-10th-oct-sable-miami-miami-tickets"
   },
   {
    "id": "19hz:4445368-tudobemrefilledm",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Tudo Bem: Refilled Miami Debut",
-   "artists": [
-    "Refilled"
-   ],
+   "artists": [],
    "venue": "Sunkissed",
    "venue_slug": null,
    "date": "2026-10-10",
@@ -670,44 +554,29 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/tudo-bem-refilled-miami-debut",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/refilled-541164"
-   ]
+   "url": "https://shotgun.live/en/events/tudo-bem-refilled-miami-debut"
   },
   {
-   "id": "dice:6a72288c57ddd20001097968",
-   "source": "19hz+dice+edmtrain",
-   "title": "MVSON",
-   "artists": [
-    "Mason Collective",
-    "Dennis Ferrer",
-    "Bontan",
-    "Classmatic",
-    "AJ Christou",
-    "Rooléh"
-   ],
-   "venue": "Club Space Miami",
+   "id": "19hz:4445371-masoncollectived",
+   "source": "19hz",
+   "title": "Mason Collective, Dennis Ferrer, Bontan, Classmatic, AJ Christou, Rooleh, Ms. Mada",
+   "artists": [],
+   "venue": "Club Space",
    "venue_slug": "club-space",
    "date": "2026-10-10",
    "start": "2026-10-11T03:00:00+00:00",
    "end": "2026-10-11T18:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": "From $30",
+   "price": "$30",
    "genres": [
     "tech house"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/7dx7bv-mvson-10th-oct-club-space-miami-miami-tickets",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/event/7dx7bv-mvson-10th-oct-club-space-miami-miami-tickets",
-    "https://edmtrain.com/miami-fl/mason-collective-dennis-ferrer-526382"
-   ]
+   "url": "https://dice.fm/event/7dx7bv-mvson-10th-oct-club-space-miami-miami-tickets"
   },
   {
    "id": "19hz:4445371-cristobalpesce",
@@ -734,13 +603,9 @@
   },
   {
    "id": "19hz:4445371-jackiehollander",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Jackie Hollander",
-   "artists": [
-    "Jackie Hollander",
-    "Lupe Fuentes",
-    "Monoky"
-   ],
+   "artists": [],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
    "date": "2026-10-10",
@@ -757,18 +622,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/oe9klm-jackie-hollander-10th-oct-floyd-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/jackie-hollander-lupe-fuentes-532662"
-   ]
+   "url": "https://dice.fm/event/oe9klm-jackie-hollander-10th-oct-floyd-miami-miami-tickets"
   },
   {
    "id": "19hz:4445371-sidepiece",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Sidepiece",
-   "artists": [
-    "SIDEPIECE"
-   ],
+   "artists": [],
    "venue": "Liv Nightclub",
    "venue_slug": null,
    "date": "2026-10-10",
@@ -784,142 +644,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://www.universe.com/events/BJ4M7D",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/sidepiece-517744"
-   ]
-  },
-  {
-   "id": "edmtrain:542533",
-   "source": "edmtrain",
-   "title": "Hexed",
-   "artists": [
-    "Hexed"
-   ],
-   "venue": "777 NE 79th St",
-   "venue_slug": null,
-   "date": "2026-10-10",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "777 NE 79th St, Miami, FL 33138, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/hexed?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/hexed-542533"
-   ]
-  },
-  {
-   "id": "edmtrain:543068",
-   "source": "edmtrain",
-   "title": "Harvy Valencia",
-   "artists": [
-    "Harvy Valencia"
-   ],
-   "venue": "Edge Miami",
-   "venue_slug": null,
-   "date": "2026-10-10",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "114 NE 20th Terrace, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://posh.vip/e/harvybal-harvy-valencia-open-to-close?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/harvy-valencia-543068"
-   ]
-  },
-  {
-   "id": "edmtrain:539104",
-   "source": "edmtrain",
-   "title": "Slow Life: Adam Bogdan, Boghian, jeremiasbarna, Elizabëth, GALI, Michelle Mavris, rhaff, yomayo",
-   "artists": [
-    "Adam Bogdan",
-    "Boghian",
-    "jeremiasbarna",
-    "Elizabëth",
-    "GALI",
-    "Michelle Mavris",
-    "rhaff",
-    "yomayo"
-   ],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-10-10",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "Miami, FL, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/slow-life-w-cecilio-paolo-mosca-rapture-s-deli-anniversary?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/slow-life-adam-bogdan-539104"
-   ]
-  },
-  {
-   "id": "edmtrain:543803",
-   "source": "edmtrain",
-   "title": "Elif",
-   "artists": [
-    "Elif"
-   ],
-   "venue": "The Trip",
-   "venue_slug": null,
-   "date": "2026-10-10",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "28 NE 14th St, Miami, FL 33132, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/k67v9q?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/elif-543803"
-   ]
-  },
-  {
-   "id": "edmtrain:539286",
-   "source": "edmtrain",
-   "title": "Enmeshed",
-   "artists": [
-    "Enmeshed"
-   ],
-   "venue": "Treehouse Miami Beach",
-   "venue_slug": null,
-   "date": "2026-10-10",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "323 23rd St, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.etix.com/ticket/p/74928984",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/enmeshed-539286"
-   ]
+   "url": "https://www.universe.com/events/BJ4M7D"
   },
   {
    "id": "hardrock:208792",
@@ -8294,7 +8019,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$20.00",
+   "price": "$25.00",
    "genres": [
     "disco",
     "funk",

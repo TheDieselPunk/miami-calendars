@@ -9,17 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4445368-arminvanbuuren@factory-town.miami-calendars
-DTSTAMP:20261011T101812Z
-LAST-MODIFIED:20261011T101812Z
-SEQUENCE:0
+DTSTAMP:20261011T161820Z
+LAST-MODIFIED:20261011T161820Z
+SEQUENCE:1
 DTSTART:20261011T020000Z
 DTEND:20261011T090000Z
 SUMMARY:Armin van Buuren
 LOCATION:Factory Town
-DESCRIPTION:Lineup: Armin van Buuren\, Funk Tribu\, NRG2000\nTags: big room
-  house\, trance\nAges: 18+\nhttps://dice.fm/event/8e96w5-armin-van-buuren-
- presents-the-orb-10th-oct-factory-town-miami-tickets\nhttps://edmtrain.com
- /miami-fl/the-orb-armin-van-buuren-528542
+DESCRIPTION:Tags: big room house\, trance\nAges: 18+\nhttps://dice.fm/event
+ /8e96w5-armin-van-buuren-presents-the-orb-10th-oct-factory-town-miami-tick
+ ets
 URL:https://dice.fm/event/8e96w5-armin-van-buuren-presents-the-orb-10th-oct
  -factory-town-miami-tickets
 STATUS:CONFIRMED

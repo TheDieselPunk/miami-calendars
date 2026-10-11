@@ -9,16 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4445328-gorgoncity@daer.miami-calendars
-DTSTAMP:20261011T041813Z
-LAST-MODIFIED:20261011T041813Z
-SEQUENCE:0
+DTSTAMP:20261011T161820Z
+LAST-MODIFIED:20261011T161820Z
+SEQUENCE:1
 DTSTART:20261010T160000Z
 DTEND:20261010T230000Z
 SUMMARY:Gorgon City
 LOCATION:Daer Dayclub\, Hollywood
-DESCRIPTION:Lineup: Gorgon City\nTags: house\nAges: 21+\nhttps://www.tixr.c
- om/groups/daerdayclubsouthflorida/events/gorgon-city-daer-dayclub-202009\n
- https://edmtrain.com/fort-lauderdale-fl/gorgon-city-536839
+DESCRIPTION:Tags: house\nAges: 21+\nhttps://www.tixr.com/groups/daerdayclub
+ southflorida/events/gorgon-city-daer-dayclub-202009
 URL:https://www.tixr.com/groups/daerdayclubsouthflorida/events/gorgon-city-
  daer-dayclub-202009
 STATUS:CONFIRMED
@@ -26,16 +25,15 @@ CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4445368-acraze@daer.miami-calendars
-DTSTAMP:20261011T041813Z
-LAST-MODIFIED:20261011T041813Z
-SEQUENCE:0
+DTSTAMP:20261011T161820Z
+LAST-MODIFIED:20261011T161820Z
+SEQUENCE:1
 DTSTART:20261011T020000Z
 DTEND:20261011T080000Z
 SUMMARY:Acraze
 LOCATION:Daer Nightclub\, Hollywood
-DESCRIPTION:Lineup: ACRAZE\nTags: big room techno\, tech house\nAges: 21+\n
- https://www.tixr.com/groups/daernightclubsouthflorida/events/acraze-daer-n
- ightclub-202031\nhttps://edmtrain.com/fort-lauderdale-fl/acraze-529504
+DESCRIPTION:Tags: big room techno\, tech house\nAges: 21+\nhttps://www.tixr
+ .com/groups/daernightclubsouthflorida/events/acraze-daer-nightclub-202031
 URL:https://www.tixr.com/groups/daernightclubsouthflorida/events/acraze-dae
  r-nightclub-202031
 STATUS:CONFIRMED

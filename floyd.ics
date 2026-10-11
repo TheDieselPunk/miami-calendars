@@ -9,17 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4445371-jackiehollander@floyd.miami-calendars
-DTSTAMP:20261011T041813Z
-LAST-MODIFIED:20261011T041813Z
-SEQUENCE:0
+DTSTAMP:20261011T161820Z
+LAST-MODIFIED:20261011T161820Z
+SEQUENCE:1
 DTSTART:20261011T030000Z
 DTEND:20261011T090000Z
 SUMMARY:Jackie Hollander
 LOCATION:Floyd Miami
-DESCRIPTION:Lineup: Jackie Hollander\, Lupe Fuentes\, Monoky\nTags: progres
- sive house\, tech house\nAges: 21+\nhttps://dice.fm/event/oe9klm-jackie-ho
- llander-10th-oct-floyd-miami-miami-tickets\nhttps://edmtrain.com/miami-fl/
- jackie-hollander-lupe-fuentes-532662
+DESCRIPTION:Tags: progressive house\, tech house\nAges: 21+\nhttps://dice.f
+ m/event/oe9klm-jackie-hollander-10th-oct-floyd-miami-miami-tickets
 URL:https://dice.fm/event/oe9klm-jackie-hollander-10th-oct-floyd-miami-miam
  i-tickets
 STATUS:CONFIRMED

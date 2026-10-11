@@ -9,16 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4445368-sidequest@midline.miami-calendars
-DTSTAMP:20260921T214009Z
-LAST-MODIFIED:20260921T214009Z
-SEQUENCE:0
+DTSTAMP:20261011T161820Z
+LAST-MODIFIED:20261011T161820Z
+SEQUENCE:1
 DTSTART:20261011T020000Z
 DTEND:20261011T070000Z
 SUMMARY:Sidequest
 LOCATION:Midline
-DESCRIPTION:Lineup: SIDEQUEST\nTags: house\nAges: 18+\nhttps://wl.eventim.u
- s/event/sidequest-midline-miami/704346?afflky=Midline\nhttps://edmtrain.co
- m/miami-fl/sidequest-534375
+DESCRIPTION:Tags: house\nAges: 18+\nhttps://wl.eventim.us/event/sidequest-m
+ idline-miami/704346?afflky=Midline
 URL:https://wl.eventim.us/event/sidequest-midline-miami/704346?afflky=Midli
  ne
 STATUS:CONFIRMED

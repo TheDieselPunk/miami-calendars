@@ -8,18 +8,17 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a72288c57ddd20001097968@club-space.miami-calendars
-DTSTAMP:20261010T221812Z
-LAST-MODIFIED:20261010T221812Z
-SEQUENCE:6
+UID:19hz-4445371-masoncollectived@club-space.miami-calendars
+DTSTAMP:20261011T161820Z
+LAST-MODIFIED:20261011T161820Z
+SEQUENCE:0
 DTSTART:20261011T030000Z
 DTEND:20261011T180000Z
-SUMMARY:MVSON
-LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Mason Collective\, Dennis Ferrer\, Bontan\, Classmatic
- \, AJ Christou\, Rooléh\nTags: tech house\nAges: 21+\nhttps://dice.fm/eve
- nt/7dx7bv-mvson-10th-oct-club-space-miami-miami-tickets\nhttps://edmtrain.
- com/miami-fl/mason-collective-dennis-ferrer-526382
+SUMMARY:Mason Collective\, Dennis Ferrer\, Bontan\, Classmatic\, AJ Christo
+ u\, Rooleh\, Ms. Mada
+LOCATION:Club Space
+DESCRIPTION:Tags: tech house\nAges: 21+\nhttps://dice.fm/event/7dx7bv-mvson
+ -10th-oct-club-space-miami-miami-tickets
 URL:https://dice.fm/event/7dx7bv-mvson-10th-oct-club-space-miami-miami-tick
  ets
 STATUS:CONFIRMED
