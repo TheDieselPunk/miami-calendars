@@ -8,38 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4445272-nifra@kemistry.miami-calendars
-DTSTAMP:20261010T161814Z
-LAST-MODIFIED:20261010T161814Z
-SEQUENCE:0
-DTSTART:20261010T020000Z
-DTEND:20261010T080000Z
-SUMMARY:Nifra
-LOCATION:Kemistry\, Fort Lauderdale
-DESCRIPTION:Tags: big room trance\, uplifting trance\nAges: 18+\nhttps://di
- ce.fm/event/6d83nq-nifra-9th-oct-kemistry-fort-lauderdale-tickets
-URL:https://dice.fm/event/6d83nq-nifra-9th-oct-kemistry-fort-lauderdale-tic
- kets
-STATUS:CONFIRMED
-CATEGORIES:big room trance,uplifting trance
-END:VEVENT
-BEGIN:VEVENT
-UID:dice-6aa1904c7b78cf000187096e@kemistry.miami-calendars
-DTSTAMP:20261004T221819Z
-LAST-MODIFIED:20261004T221819Z
-SEQUENCE:3
-DTSTART:20261010T220000Z
-DTEND:20261011T013000Z
-SUMMARY:Day Made Tour Ft. Big Red (Alex Dougherty)
-LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
- 312\, United States
-DESCRIPTION:Tags (guess): bass\, dubstep\nhttps://dice.fm/event/6aa1904c7b7
- 8cf000187096e
-URL:https://dice.fm/event/6aa1904c7b78cf000187096e
-STATUS:CONFIRMED
-CATEGORIES:bass,dubstep
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6a6fe05cfd4b720001b0a904@kemistry.miami-calendars
 DTSTAMP:20261004T221819Z
 LAST-MODIFIED:20261004T221819Z
@@ -476,6 +444,22 @@ URL:https://dice.fm/event/py3lmy-hamro-22nd-jan-kemistry-fort-lauderdale-ti
  ckets
 STATUS:CONFIRMED
 CATEGORIES:bass music,dubstep
+END:VEVENT
+BEGIN:VEVENT
+UID:dice-6a90ca5b0f25790001832792@kemistry.miami-calendars
+DTSTAMP:20261011T041813Z
+LAST-MODIFIED:20261011T041813Z
+SEQUENCE:0
+DTSTART:20270123T230000Z
+DTEND:20270124T040000Z
+SUMMARY:FREESTYLE CRUISE OFFICIAL PRE-PARTY
+LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
+ 312\, United States
+DESCRIPTION:Tags (guess): bass\, dubstep\nhttps://dice.fm/event/6a90ca5b0f2
+ 5790001832792
+URL:https://dice.fm/event/6a90ca5b0f25790001832792
+STATUS:CONFIRMED
+CATEGORIES:bass,dubstep
 END:VEVENT
 BEGIN:VEVENT
 UID:edmtrain-541640@kemistry.miami-calendars
