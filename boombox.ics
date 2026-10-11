@@ -8,34 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:evanora-unlimited-north-america-tour-miami-fl@shotgun.live
-DTSTAMP:20261010T221812Z
-LAST-MODIFIED:20261010T221812Z
-SEQUENCE:9
-DTSTART:20261011T020000Z
-DTEND:20261011T080000Z
-SUMMARY:Evanora Unlimited North America Tour Miami Fl
-LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
- \, USA
-DESCRIPTION:EVANORA UNLIMITED — NORTH AMERICA TOUR: MIAMI Evanora Unlimit
- ed makes their way to Miami for a special stop on the North America Tour\,
-  presented by Talk Less Just Dance\, EQUINOX BOOKING \, say Tech & smile D
- OORS 10:00PM 18+ One night bringing together live performances + some of o
- ur favorite artists from Miami and beyond. LINEUP: EVANORA UNLIMITED ANGUS
-  GREEN GODS WISDOM DEP4RTED ZNX MIA VENDETTA DEAD LOTUS JWELSET\nLineup: E
- vanora:Unlimited\, Gods Wisdom\, jwelset\, znx\, miavendetta\, Dead Lotus
- \, Angus Scratch Green\, dep4rted\nTags: edm\, experimental\, electro\nPre
- sented by: Talk Less Just Dance\nTickets: second tier $22.02 (sold out)\, 
- Third tier $26.43 (sold out)\, Last tier $40\, First tier $15 (sold out)\,
-  LIMITED DISCOUNT TICKETS $20 (sold out)\nhttps://shotgun.live/en/events/e
- vanora-unlimited-north-america-tour-miami-fl
-URL:https://shotgun.live/en/events/evanora-unlimited-north-america-tour-mia
- mi-fl
-STATUS:CONFIRMED
-CATEGORIES:edm,experimental,electro
-GEO:25.7287781;-80.3169309
-END:VEVENT
-BEGIN:VEVENT
 UID:aszhara-and-companion-of-fools-at-boombox-10-15@shotgun.live
 DTSTAMP:20260921T191357Z
 LAST-MODIFIED:20260921T191357Z
