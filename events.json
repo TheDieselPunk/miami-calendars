@@ -1870,6 +1870,29 @@
    "url": "https://shotgun.live/en/events/the-freaks-come-out-night-a-psychedelic-halloween"
   },
   {
+   "id": "shotgun:tme-acoustic-sessions-feat-lexy-panterra-kate-luxxe",
+   "source": "shotgun",
+   "title": "Tme Acoustic Sessions Feat. Lexy Panterra & Kate Luxxe",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-10-17",
+   "start": "2026-10-18T00:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$12.00",
+   "genres": [
+    "rock",
+    "pop rock"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/tme-acoustic-sessions-feat-lexy-panterra-kate-luxxe"
+  },
+  {
    "id": "dice:6a3c2d5c3f99c300019d7c15",
    "source": "dice",
    "title": "KAWAII RAVE",
@@ -3361,6 +3384,29 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/basti-grub-lucas-zarate-523284"
    ]
+  },
+  {
+   "id": "shotgun:house-of-huemans-oct-23",
+   "source": "shotgun",
+   "title": "House Of Huemans",
+   "artists": [],
+   "venue": "EDGE MIAMI",
+   "venue_slug": null,
+   "date": "2026-10-23",
+   "start": "2026-10-24T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$20.00",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/house-of-huemans-oct-23"
   },
   {
    "id": "dice:6abd7555c82c800001a1b0c7",
@@ -5167,7 +5213,7 @@
   },
   {
    "id": "dice:6aa04779c1a81a00016fe6d6",
-   "source": "19hz+dice",
+   "source": "19hz+dice+edmtrain",
    "title": "Hocus Pocus 2026 (Friday Pass)",
    "artists": [],
    "venue": "Factory Town",
@@ -5196,7 +5242,8 @@
    "url": "https://dice.fm/event/eoxxmw-hocus-pocus-2026-3-day-pass-30th-oct-factory-town-miami-tickets",
    "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/eoxxmw-hocus-pocus-2026-3-day-pass-30th-oct-factory-town-miami-tickets"
+    "https://dice.fm/event/eoxxmw-hocus-pocus-2026-3-day-pass-30th-oct-factory-town-miami-tickets",
+    "https://edmtrain.com/miami-fl/hocus-pocus-544237"
    ]
   },
   {
@@ -5899,7 +5946,7 @@
   },
   {
    "id": "dice:6aa04992243edc00012e491a",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "Hocus Pocus 2026 (Saturday Pass)",
    "artists": [],
    "venue": "Factory Town",
@@ -5919,7 +5966,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aa04992243edc00012e491a",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/hocus-pocus-544238"
+   ]
   },
   {
    "id": "dice:6a6fe2cc1f37f90001ee3794",
@@ -6336,7 +6386,7 @@
   },
   {
    "id": "dice:6aa04b4a5c32c6000140c12f",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "Hocus Pocus 2026 (Sunday Pass)",
    "artists": [],
    "venue": "Factory Town",
@@ -6356,7 +6406,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aa04b4a5c32c6000140c12f",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/hocus-pocus-544239"
+   ]
   },
   {
    "id": "dice:6a91f7bca0dc520001e02d08",
@@ -7699,6 +7752,30 @@
    ]
   },
   {
+   "id": "dice:6acd12180a3d6400017d20c5",
+   "source": "dice",
+   "title": "4B",
+   "artists": [],
+   "venue": "Kemistry",
+   "venue_slug": "kemistry",
+   "date": "2026-11-12",
+   "start": "2026-11-13T03:00:00+00:00",
+   "end": "2026-11-13T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "ages": "",
+   "price": "From $13",
+   "genres": [
+    "bass",
+    "dubstep"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6acd12180a3d6400017d20c5",
+   "cancelled": false
+  },
+  {
    "id": "19hz:4448542-bolo",
    "source": "19hz+edmtrain",
    "title": "Bolo",
@@ -8272,6 +8349,30 @@
    "description": "",
    "url": "https://tixr.com/e/205535",
    "generic_title": true
+  },
+  {
+   "id": "shotgun:cafe-grooves-miami",
+   "source": "shotgun",
+   "title": "Cafe Grooves Miami",
+   "artists": [],
+   "venue": "Sable",
+   "venue_slug": null,
+   "date": "2026-11-14",
+   "start": "2026-11-14T17:30:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$34.99",
+   "genres": [
+    "deep tech",
+    "disco house",
+    "deep house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/cafe-grooves-miami"
   },
   {
    "id": "19hz:4448695-sacredmeadowsart",
@@ -13505,6 +13606,27 @@
    "generic_title": true
   },
   {
+   "id": "hardrock:210867",
+   "source": "venue",
+   "title": "DAER Dayclub",
+   "artists": [],
+   "venue": "DAER Dayclub",
+   "venue_slug": "daer",
+   "date": "2027-01-02",
+   "start": "2027-01-02T17:00:00+00:00",
+   "end": "2027-01-02T23:00:00+00:00",
+   "time_estimated": false,
+   "address": "1 Seminole Way, Hollywood, FL 33314",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://tixr.com/e/210867",
+   "generic_title": true
+  },
+  {
    "id": "edmtrain:523794",
    "source": "edmtrain",
    "title": "Dreamland New Years Festival",
@@ -13569,6 +13691,27 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/208379",
+   "generic_title": true
+  },
+  {
+   "id": "hardrock:210868",
+   "source": "venue",
+   "title": "DAER Dayclub",
+   "artists": [],
+   "venue": "DAER Dayclub",
+   "venue_slug": "daer",
+   "date": "2027-01-03",
+   "start": "2027-01-03T17:00:00+00:00",
+   "end": "2027-01-03T23:00:00+00:00",
+   "time_estimated": false,
+   "address": "1 Seminole Way, Hollywood, FL 33314",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://tixr.com/e/210868",
    "generic_title": true
   },
   {

@@ -460,19 +460,19 @@
   "modified": "2026-10-04T22:18:19+00:00"
  },
  "dice-6aa04779c1a81a00016fe6d6@factory-town.miami-calendars": {
-  "hash": "f7192bddbab13515",
-  "seq": 3,
-  "modified": "2026-09-22T00:41:54+00:00"
+  "hash": "6e8b440f2e860e1b",
+  "seq": 4,
+  "modified": "2026-10-12T22:18:10+00:00"
  },
  "dice-6aa04992243edc00012e491a@factory-town.miami-calendars": {
-  "hash": "ddc77f93845a3bf4",
-  "seq": 1,
-  "modified": "2026-09-22T00:40:38+00:00"
+  "hash": "523c318af6da8117",
+  "seq": 2,
+  "modified": "2026-10-12T22:18:10+00:00"
  },
  "dice-6aa04b4a5c32c6000140c12f@factory-town.miami-calendars": {
-  "hash": "03822b0df66a13d5",
-  "seq": 1,
-  "modified": "2026-09-22T00:40:38+00:00"
+  "hash": "1b7ca85be7ef0e84",
+  "seq": 2,
+  "modified": "2026-10-12T22:18:10+00:00"
  },
  "dice-6aa05356c1a81a000145fda3@club-space.miami-calendars": {
   "hash": "52bd3aae9df4cf0e",
@@ -783,6 +783,11 @@
   "hash": "97b3a0177cba17b4",
   "seq": 0,
   "modified": "2026-10-12T16:18:12+00:00"
+ },
+ "dice-6acd12180a3d6400017d20c5@kemistry.miami-calendars": {
+  "hash": "290b1a0f6f69d1e8",
+  "seq": 0,
+  "modified": "2026-10-12T22:18:10+00:00"
  },
  "edmtrain-434705@festivals.miami-calendars": {
   "hash": "e416a5823d96ff63",
@@ -1189,6 +1194,16 @@
   "seq": 0,
   "modified": "2026-10-06T22:18:30+00:00"
  },
+ "hardrock-210867@daer.miami-calendars": {
+  "hash": "0586439c49c7bb23",
+  "seq": 0,
+  "modified": "2026-10-12T22:18:10+00:00"
+ },
+ "hardrock-210868@daer.miami-calendars": {
+  "hash": "beef1068d3c2e243",
+  "seq": 0,
+  "modified": "2026-10-12T22:18:10+00:00"
+ },
  "i-liedtomyself-descry-iliad-see-you-next-ar-boombox-11-14@shotgun.live": {
   "hash": "a9ea58e92e4cfc30",
   "seq": 0,
@@ -1201,23 +1216,23 @@
  },
  "madradiomiami101426@shotgun.live": {
   "hash": "e39ed81b6a1686bf",
-  "seq": 87,
-  "modified": "2026-10-12T16:18:12+00:00"
+  "seq": 89,
+  "modified": "2026-10-12T22:18:10+00:00"
  },
  "madradiomiami101526@shotgun.live": {
   "hash": "d90990d3aa3265cc",
-  "seq": 87,
-  "modified": "2026-10-12T16:18:12+00:00"
+  "seq": 89,
+  "modified": "2026-10-12T22:18:10+00:00"
  },
  "madradiomiami101626@shotgun.live": {
   "hash": "58a12604e5af3392",
-  "seq": 56,
-  "modified": "2026-10-12T16:18:12+00:00"
+  "seq": 58,
+  "modified": "2026-10-12T22:18:10+00:00"
  },
  "madradiomiami101726@shotgun.live": {
   "hash": "f459f060a060733f",
-  "seq": 56,
-  "modified": "2026-10-12T16:18:12+00:00"
+  "seq": 58,
+  "modified": "2026-10-12T22:18:10+00:00"
  },
  "madradiomiami102126@shotgun.live": {
   "hash": "7682cc251e858a48",
