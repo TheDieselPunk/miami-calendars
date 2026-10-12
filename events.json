@@ -120,28 +120,6 @@
    ]
   },
   {
-   "id": "shotgun:minotaur-booking-presents-aversed-ma-pathogenic-ma-more",
-   "source": "shotgun",
-   "title": "Minotaur Booking Presents Aversed(Ma),Pathogenic(Ma) & More",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-10-11",
-   "start": "2026-10-11T23:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$17.33",
-   "genres": [
-    "death metal"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/minotaur-booking-presents-aversed-ma-pathogenic-ma-more"
-  },
-  {
    "id": "19hz:4445452-msbsoundsystem",
    "source": "19hz",
    "title": "MSB Soundsystem",
@@ -3758,7 +3736,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$12.00",
+   "price": "$14.99",
    "genres": [
     "jersey club",
     "tech house",
@@ -3967,6 +3945,26 @@
     "https://dice.fm/event/yodxp2-kasia-24th-oct-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/kasia-stone-van-brooken-535154"
    ]
+  },
+  {
+   "id": "shotgun:lunasol-pres-joeski",
+   "source": "shotgun",
+   "title": "Lunasol Pres. Joeski",
+   "artists": [],
+   "venue": "Lunasol",
+   "venue_slug": null,
+   "date": "2026-10-24",
+   "start": "2026-10-25T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$34.20",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/lunasol-pres-joeski"
   },
   {
    "id": "19hz:4446712-stavroz",
@@ -5474,6 +5472,31 @@
    "url": "https://dice.fm/event/xe8r23?pid=d6342b83",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/paramida-voigtmann-543225"
+   ]
+  },
+  {
+   "id": "edmtrain:544224",
+   "source": "edmtrain",
+   "title": "Tony Romera",
+   "artists": [
+    "Tony Romera"
+   ],
+   "venue": "Selva Miami",
+   "venue_slug": null,
+   "date": "2026-10-30",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "800 Brickell Ave, Miami, FL 33131, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/tony-romera-selva?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/tony-romera-544224"
    ]
   },
   {
