@@ -8,50 +8,18 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4445328-gorgoncity@daer.miami-calendars
-DTSTAMP:20261011T161820Z
-LAST-MODIFIED:20261011T161820Z
-SEQUENCE:1
-DTSTART:20261010T160000Z
-DTEND:20261010T230000Z
-SUMMARY:Gorgon City
-LOCATION:Daer Dayclub\, Hollywood
-DESCRIPTION:Tags: house\nAges: 21+\nhttps://www.tixr.com/groups/daerdayclub
- southflorida/events/gorgon-city-daer-dayclub-202009
-URL:https://www.tixr.com/groups/daerdayclubsouthflorida/events/gorgon-city-
- daer-dayclub-202009
-STATUS:CONFIRMED
-CATEGORIES:house
-END:VEVENT
-BEGIN:VEVENT
-UID:19hz-4445368-acraze@daer.miami-calendars
-DTSTAMP:20261011T161820Z
-LAST-MODIFIED:20261011T161820Z
-SEQUENCE:1
-DTSTART:20261011T020000Z
-DTEND:20261011T080000Z
-SUMMARY:Acraze
-LOCATION:Daer Nightclub\, Hollywood
-DESCRIPTION:Tags: big room techno\, tech house\nAges: 21+\nhttps://www.tixr
- .com/groups/daernightclubsouthflorida/events/acraze-daer-nightclub-202031
-URL:https://www.tixr.com/groups/daernightclubsouthflorida/events/acraze-dae
- r-nightclub-202031
-STATUS:CONFIRMED
-CATEGORIES:big room techno,tech house
-END:VEVENT
-BEGIN:VEVENT
-UID:hardrock-208792@daer.miami-calendars
-DTSTAMP:20260925T161807Z
-LAST-MODIFIED:20260925T161807Z
+UID:19hz-4445424-levelup@daer.miami-calendars
+DTSTAMP:20261012T041815Z
+LAST-MODIFIED:20261012T041815Z
 SEQUENCE:0
 DTSTART:20261011T160000Z
-DTEND:20261011T220000Z
-SUMMARY:Gameday Watch Party 10/11
-LOCATION:DAER Dayclub\, 1 Seminole Way\, Hollywood\, FL 33314
-DESCRIPTION:Tags: bass music\, dubstep\, riddim\nAges: 21+\nhttps://tixr.co
- m/e/208792\nhttps://www.tixr.com/groups/daerdayclubsouthflorida/events/lev
- el-up-daer-dayclub-202010
-URL:https://tixr.com/e/208792
+DTEND:20261011T230000Z
+SUMMARY:Level Up
+LOCATION:Daer Dayclub\, Hollywood
+DESCRIPTION:Tags: bass music\, dubstep\, riddim\nAges: 21+\nhttps://www.tix
+ r.com/groups/daerdayclubsouthflorida/events/level-up-daer-dayclub-202010
+URL:https://www.tixr.com/groups/daerdayclubsouthflorida/events/level-up-dae
+ r-dayclub-202010
 STATUS:CONFIRMED
 CATEGORIES:bass music,dubstep,riddim
 END:VEVENT

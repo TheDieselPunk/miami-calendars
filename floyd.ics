@@ -8,33 +8,17 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4445371-jackiehollander@floyd.miami-calendars
-DTSTAMP:20261011T161820Z
-LAST-MODIFIED:20261011T161820Z
-SEQUENCE:1
-DTSTART:20261011T030000Z
-DTEND:20261011T090000Z
-SUMMARY:Jackie Hollander
-LOCATION:Floyd Miami
-DESCRIPTION:Tags: progressive house\, tech house\nAges: 21+\nhttps://dice.f
- m/event/oe9klm-jackie-hollander-10th-oct-floyd-miami-miami-tickets
-URL:https://dice.fm/event/oe9klm-jackie-hollander-10th-oct-floyd-miami-miam
- i-tickets
-STATUS:CONFIRMED
-CATEGORIES:progressive house,tech house
-END:VEVENT
-BEGIN:VEVENT
-UID:dice-6a907094edf55c0001de62e9@floyd.miami-calendars
-DTSTAMP:20260926T221817Z
-LAST-MODIFIED:20260926T221817Z
-SEQUENCE:2
+UID:19hz-4445467-nachoscoppaisabe@floyd.miami-calendars
+DTSTAMP:20261012T041815Z
+LAST-MODIFIED:20261012T041815Z
+SEQUENCE:0
 DTSTART:20261012T030000Z
 DTEND:20261012T090000Z
-SUMMARY:Nacho Scoppa + Isabella Roldán
-LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags: tech house\nAges: 21+\nhttps://dice.fm/event/6a907094edf5
- 5c0001de62e9\nhttps://link.dice.fm/nachoscoppafloyd
-URL:https://dice.fm/event/6a907094edf55c0001de62e9
+SUMMARY:Nacho Scoppa + Isabella Roldan
+LOCATION:Floyd
+DESCRIPTION:Tags: tech house\nAges: 21+\nhttps://link.dice.fm/nachoscoppafl
+ oyd
+URL:https://link.dice.fm/nachoscoppafloyd
 STATUS:CONFIRMED
 CATEGORIES:tech house
 END:VEVENT

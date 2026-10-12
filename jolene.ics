@@ -8,22 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4445368-enamour@jolene.miami-calendars
-DTSTAMP:20261011T161820Z
-LAST-MODIFIED:20261011T161820Z
-SEQUENCE:1
-DTSTART:20261011T020000Z
-DTEND:20261011T080000Z
-SUMMARY:Enamour
-LOCATION:Jolene Downtown
-DESCRIPTION:Tags: progressive house\, tech house\nAges: 21+\nhttps://dice.f
- m/event/eo6ewy-enamour-10th-oct-jolene-sound-room-miami-miami-tickets
-URL:https://dice.fm/event/eo6ewy-enamour-10th-oct-jolene-sound-room-miami-m
- iami-tickets
-STATUS:CONFIRMED
-CATEGORIES:progressive house,tech house
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6a822809b96d4a0001d646bb@jolene.miami-calendars
 DTSTAMP:20260922T004154Z
 LAST-MODIFIED:20260922T004154Z
