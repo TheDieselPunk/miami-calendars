@@ -44,9 +44,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rocky-horror-picture-show@shotgun.live
-DTSTAMP:20261012T041815Z
-LAST-MODIFIED:20261012T041815Z
-SEQUENCE:8
+DTSTAMP:20261012T161812Z
+LAST-MODIFIED:20261012T161812Z
+SEQUENCE:9
 DTSTART:20261023T000000Z
 DTEND:20261024T070000Z
 SUMMARY:Rocky Horror Picture Show
@@ -70,9 +70,10 @@ DESCRIPTION:DON’T DREAM IT BE IT 💥 The Boombox (@theboomboxmiami) and
  behind the scenes looks at The Rocky Horror Party Show Project!! See you t
  here\, mon chers 💌\nTickets: 11:45PM SHOWTIME EARLY BIRD $20 (sold out)
  \, 8PM SHOWTIME EARLY BIRD $20 (sold out)\, 11:45PM SHOWTIME EARLY BIRD $2
- 0 (sold out)\, 11:45PM SHOWTIME GA $30\, 8PM SHOWTIME GA $30\, 11:45PM SHO
- WTIME GA $30\, 8PM SHOWTIME EARLY BIRD $20 (sold out)\, 8PM SHOWTIME GA $3
- 0 (sold out)\nhttps://shotgun.live/en/events/rocky-horror-picture-show
+ 0 (sold out)\, 11:45PM SHOWTIME GA $30 (sold out)\, 8PM SHOWTIME GA $30\, 
+ 11:45PM SHOWTIME GA $30\, 8PM SHOWTIME EARLY BIRD $20 (sold out)\, 8PM SHO
+ WTIME GA $30 (sold out)\nhttps://shotgun.live/en/events/rocky-horror-pictu
+ re-show
 URL:https://shotgun.live/en/events/rocky-horror-picture-show
 STATUS:CONFIRMED
 GEO:25.7287781;-80.3169309

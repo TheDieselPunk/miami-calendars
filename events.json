@@ -68,11 +68,9 @@
   },
   {
    "id": "19hz:4445443-lukasfrank",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Lukas & Frank",
-   "artists": [
-    "Lukas & Frank"
-   ],
+   "artists": [],
    "venue": "Zeyzey",
    "venue_slug": "zeyzey",
    "date": "2026-10-11",
@@ -89,18 +87,13 @@
    "genres_inferred": false,
    "organizer": "Happy Hour",
    "description": "",
-   "url": "https://ra.co/events/2513782",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/lukas-and-frank-536639"
-   ]
+   "url": "https://ra.co/events/2513782"
   },
   {
    "id": "19hz:4445448-sundancetoriseag",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Sundance: Tori Seagel, Amdana, Medjine",
-   "artists": [
-    "Ella Romand"
-   ],
+   "artists": [],
    "venue": "Upside",
    "venue_slug": null,
    "date": "2026-10-11",
@@ -114,10 +107,7 @@
    "genres_inferred": false,
    "organizer": "Apex",
    "description": "",
-   "url": "https://dice.fm/event/rye73v-sundance-11th-oct-upside-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/sundance-ella-romand-542006"
-   ]
+   "url": "https://dice.fm/event/rye73v-sundance-11th-oct-upside-miami-tickets"
   },
   {
    "id": "19hz:4445452-msbsoundsystem",
@@ -143,12 +133,9 @@
   },
   {
    "id": "19hz:4445455-basseldarwishgra",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Bassel Darwish & Grahm Radio",
-   "artists": [
-    "Bassel Darwish",
-    "Grahm Radio"
-   ],
+   "artists": [],
    "venue": "Aire",
    "venue_slug": null,
    "date": "2026-10-11",
@@ -166,18 +153,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/3orlng-bassel-darwish-grahm-radio-columbus-day-wknd-11th-oct-aire-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/bassel-darwish-grahm-radio-542535"
-   ]
+   "url": "https://dice.fm/event/3orlng-bassel-darwish-grahm-radio-columbus-day-wknd-11th-oct-aire-miami-tickets"
   },
   {
    "id": "19hz:4445455-damagedgoods",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Damaged Goods",
-   "artists": [
-    "Damaged Goods"
-   ],
+   "artists": [],
    "venue": "E11even",
    "venue_slug": null,
    "date": "2026-10-11",
@@ -195,10 +177,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://speakeasygo.com/event/EVE-5D8NCI",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/damaged-goods-527073"
-   ]
+   "url": "https://speakeasygo.com/event/EVE-5D8NCI"
   },
   {
    "id": "19hz:4445467-nachoscoppaisabe",
@@ -346,7 +325,9 @@
    "source": "19hz+dice+edmtrain+tablelist+venue",
    "title": "Satellite: Neon Indian (DJ Set), Twin Shadow & Washed Out (DJ Set)",
    "artists": [
-    "Neon Indian"
+    "Neon Indian",
+    "Twin Shadow",
+    "Washed Out"
    ],
    "venue": "ZeyZey",
    "venue_slug": "zeyzey",
@@ -370,7 +351,7 @@
     "https://buy.tablelist.com/e/a93613d6361b626d",
     "https://calendar.zeyzeymiami.com/shows/satellite-neon-indian-dj-set-twin-shadow-washed-out-dj-set-14-oct",
     "https://dice.fm/event/ww999v-satellite-neon-indian-dj-set-twin-shadow-washed-out-dj-set-14th-oct-zeyzey-miami-tickets",
-    "https://edmtrain.com/miami-fl/neon-indian-532196"
+    "https://edmtrain.com/miami-fl/neon-indian-twin-shadow-532196"
    ]
   },
   {
@@ -449,6 +430,30 @@
    "also": [
     "festivals"
    ]
+  },
+  {
+   "id": "shotgun:melo-timeless-music-classics",
+   "source": "shotgun",
+   "title": "Melo: Timeless Music Classics",
+   "artists": [],
+   "venue": "The Sylvester",
+   "venue_slug": null,
+   "date": "2026-10-14",
+   "start": "2026-10-15T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "soul",
+    "latin",
+    "house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/melo-timeless-music-classics"
   },
   {
    "id": "edmtrain:542097",
@@ -799,6 +804,30 @@
     "https://dice.fm/event/k65y9l-satellite-shanti-celeste-b2b-peach-15th-oct-jolene-sound-room-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/shanti-celeste-sister-system-529556"
    ]
+  },
+  {
+   "id": "dice:6acc8ca362785d00011bfc7a",
+   "source": "dice",
+   "title": "THE PLAYBOY PARTY",
+   "artists": [],
+   "venue": "Kemistry",
+   "venue_slug": "kemistry",
+   "date": "2026-10-15",
+   "start": "2026-10-16T02:00:00+00:00",
+   "end": "2026-10-16T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "bass",
+    "dubstep"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6acc8ca362785d00011bfc7a",
+   "cancelled": false
   },
   {
    "id": "shotgun:superqueen-36",
@@ -1417,6 +1446,26 @@
     "https://dice.fm/event/923lv9-codd-dubz-x-heh-16th-oct-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/codd-dubz-he-h-525557"
    ]
+  },
+  {
+   "id": "shotgun:hyper",
+   "source": "shotgun",
+   "title": "Hyperpop Halloween",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-10-16",
+   "start": "2026-10-17T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$10.00",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/hyper"
   },
   {
    "id": "dice:6a8724f65b367e0001f22de9",
@@ -2907,7 +2956,7 @@
    "organizer": "The Boombox Miami",
    "description": "DON’T DREAM IT BE IT 💥 The Boombox (@theboomboxmiami) and the talent of Miami-Dade (@rockyhorrormiami) have teamed up to create THE ROCKY HORROR PARTY SHOW, a multi-medium performance piece that immerses the audience into the salacious world of this beloved queer cult classic 🪭💫 WHEN: THURSDAY Oct 22 8PM FRIDAY Oct 23 8PM/12AM WHERE: The Boombox #yatusabes WEAR: Slut or Suit no exceptions!! Checking drip and IDs (18+) at the the door 🫵 2 nights, 3 shows you can bring your co-worker with bangs to, and one wild final MIDNIGHT ride you’re not going to want to miss!! Expect live music, cabaret, cinematic projections, y más 💫 There will be flashing lights, sudden sounds, and other practical effects designed to heighten your senses. Please check the ticket info for how you can best enjoy this invento of party show 🥳 SEATS AND TICKETS LIMITED BOOTS LET UR FRIENDS KNOWW Give yourself over to absolute pleasure this October darlings when the mood takes us we’re known to be quite generous 💋 Follow @rockyhorrormiami for early tricks n’ treats and more behind the scenes looks at The Rocky Horror Party Show Project!! See you there, mon chers 💌",
    "url": "https://shotgun.live/en/events/rocky-horror-picture-show",
-   "tickets": "11:45PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME GA $30, 8PM SHOWTIME GA $30, 11:45PM SHOWTIME GA $30, 8PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME GA $30 (sold out)",
+   "tickets": "11:45PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME GA $30 (sold out), 8PM SHOWTIME GA $30, 11:45PM SHOWTIME GA $30, 8PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME GA $30 (sold out)",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -5704,6 +5753,30 @@
    "organizer": "",
    "description": "",
    "url": "https://speakeasygo.com/event/EVE-1IN495"
+  },
+  {
+   "id": "shotgun:soundtuarydiadelosmuertos",
+   "source": "shotgun",
+   "title": "Día De Los Muertos X Lunasol",
+   "artists": [],
+   "venue": "Lunasol",
+   "venue_slug": null,
+   "date": "2026-10-31",
+   "start": "2026-11-01T00:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.70",
+   "genres": [
+    "house",
+    "deep house",
+    "afro house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/soundtuarydiadelosmuertos"
   },
   {
    "id": "19hz:4447380-zoey808x9b49hall",
@@ -13852,9 +13925,9 @@
    ]
   },
   {
-   "id": "dice:6abde1c608a31d0001f4c9e6",
-   "source": "dice+edmtrain",
-   "title": "JUNKIE KID",
+   "id": "edmtrain:541640",
+   "source": "edmtrain",
+   "title": "Junkie Kid",
    "artists": [
     "Junkie Kid"
    ],
@@ -13863,10 +13936,10 @@
    "date": "2027-01-30",
    "start": "2027-01-31T03:00:00+00:00",
    "end": "2027-01-31T09:00:00+00:00",
-   "time_estimated": false,
-   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "time_estimated": true,
+   "address": "307 SW 2nd St, Fort Lauderdale, FL 33312, USA",
    "ages": "",
-   "price": "From $13",
+   "price": "",
    "genres": [
     "bass",
     "dubstep"
@@ -13874,8 +13947,7 @@
    "genres_inferred": true,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6abde1c608a31d0001f4c9e6",
-   "cancelled": false,
+   "url": "https://dice.fm/event/53k25d?pid=d6342b83",
    "alt_urls": [
     "https://edmtrain.com/fort-lauderdale-fl/junkie-kid-541640"
    ]

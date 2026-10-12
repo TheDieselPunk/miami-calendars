@@ -8,6 +8,22 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
+UID:dice-6acc8ca362785d00011bfc7a@kemistry.miami-calendars
+DTSTAMP:20261012T161812Z
+LAST-MODIFIED:20261012T161812Z
+SEQUENCE:0
+DTSTART:20261016T020000Z
+DTEND:20261016T080000Z
+SUMMARY:THE PLAYBOY PARTY
+LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
+ 312\, United States
+DESCRIPTION:Tags (guess): bass\, dubstep\nhttps://dice.fm/event/6acc8ca3627
+ 85d00011bfc7a
+URL:https://dice.fm/event/6acc8ca362785d00011bfc7a
+STATUS:CONFIRMED
+CATEGORIES:bass,dubstep
+END:VEVENT
+BEGIN:VEVENT
 UID:dice-6a6bfca21cace90001cc180d@kemistry.miami-calendars
 DTSTAMP:20260922T004154Z
 LAST-MODIFIED:20260922T004154Z
@@ -427,19 +443,19 @@ STATUS:CONFIRMED
 CATEGORIES:bass,dubstep
 END:VEVENT
 BEGIN:VEVENT
-UID:dice-6abde1c608a31d0001f4c9e6@kemistry.miami-calendars
-DTSTAMP:20261012T041815Z
-LAST-MODIFIED:20261012T041815Z
+UID:edmtrain-541640@kemistry.miami-calendars
+DTSTAMP:20261012T161812Z
+LAST-MODIFIED:20261012T161812Z
 SEQUENCE:0
 DTSTART:20270131T030000Z
 DTEND:20270131T090000Z
-SUMMARY:JUNKIE KID
-LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
- 312\, United States
-DESCRIPTION:Lineup: Junkie Kid\nTags (guess): bass\, dubstep\nhttps://dice.
- fm/event/6abde1c608a31d0001f4c9e6\nhttps://edmtrain.com/fort-lauderdale-fl
- /junkie-kid-541640
-URL:https://dice.fm/event/6abde1c608a31d0001f4c9e6
+SUMMARY:Junkie Kid
+LOCATION:Kemistry\, 307 SW 2nd St\, Fort Lauderdale\, FL 33312\, USA
+DESCRIPTION:Lineup: Junkie Kid\nTags (guess): bass\, dubstep\nTimes are an 
+ estimate from Kemistry (Fort Lauderdale)'s usual hours - the listing has n
+ o start time yet. Check the link.\nhttps://dice.fm/event/53k25d?pid=d6342b
+ 83\nhttps://edmtrain.com/fort-lauderdale-fl/junkie-kid-541640
+URL:https://dice.fm/event/53k25d?pid=d6342b83
 STATUS:CONFIRMED
 CATEGORIES:bass,dubstep
 END:VEVENT

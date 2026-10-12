@@ -71,9 +71,9 @@
   "slug": "kemistry",
   "name": "Kemistry (Fort Lauderdale)",
   "file": "kemistry.ics",
-  "events": 25,
-  "estimated_times": 0,
-  "next": "2026-10-16",
+  "events": 26,
+  "estimated_times": 1,
+  "next": "2026-10-15",
   "sources": [
    "19hz",
    "dice",

@@ -9,16 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4445443-lukasfrank@zeyzey.miami-calendars
-DTSTAMP:20261005T221830Z
-LAST-MODIFIED:20261005T221830Z
-SEQUENCE:0
+DTSTAMP:20261012T161812Z
+LAST-MODIFIED:20261012T161812Z
+SEQUENCE:1
 DTSTART:20261011T210000Z
 DTEND:20261012T010000Z
 SUMMARY:Lukas & Frank
 LOCATION:Zeyzey
-DESCRIPTION:Lineup: Lukas & Frank\nTags: afro house\, house\nPresented by: 
- Happy Hour\nAges: 21+\nhttps://ra.co/events/2513782\nhttps://edmtrain.com/
- miami-fl/lukas-and-frank-536639
+DESCRIPTION:Tags: afro house\, house\nPresented by: Happy Hour\nAges: 21+\n
+ https://ra.co/events/2513782
 URL:https://ra.co/events/2513782
 STATUS:CONFIRMED
 CATEGORIES:afro house,house
@@ -40,20 +39,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a85fa1255f47f0001c509a5@zeyzey.miami-calendars
-DTSTAMP:20261001T041824Z
-LAST-MODIFIED:20261001T041824Z
-SEQUENCE:4
+DTSTAMP:20261012T161812Z
+LAST-MODIFIED:20261012T161812Z
+SEQUENCE:5
 DTSTART:20261014T230000Z
 DTEND:20261015T050000Z
 SUMMARY:Satellite: Neon Indian (DJ Set)\, Twin Shadow & Washed Out (DJ Set)
 LOCATION:ZeyZey\, 353 Northeast 61st Street\, Miami\, Florida 33137\, Unite
  d States
-DESCRIPTION:Lineup: Neon Indian\nTags: indie/alternative\, synthpop\nAges: 
- 18+\nhttps://dice.fm/event/ww999v-satellite-neon-indian-dj-set-twin-shadow
- -washed-out-dj-set-14th-oct-zeyzey-miami-tickets\nhttps://buy.tablelist.co
- m/e/a93613d6361b626d\nhttps://calendar.zeyzeymiami.com/shows/satellite-neo
- n-indian-dj-set-twin-shadow-washed-out-dj-set-14-oct\nhttps://edmtrain.com
- /miami-fl/neon-indian-532196
+DESCRIPTION:Lineup: Neon Indian\, Twin Shadow\, Washed Out\nTags: indie/alt
+ ernative\, synthpop\nAges: 18+\nhttps://dice.fm/event/ww999v-satellite-neo
+ n-indian-dj-set-twin-shadow-washed-out-dj-set-14th-oct-zeyzey-miami-ticket
+ s\nhttps://buy.tablelist.com/e/a93613d6361b626d\nhttps://calendar.zeyzeymi
+ ami.com/shows/satellite-neon-indian-dj-set-twin-shadow-washed-out-dj-set-1
+ 4-oct\nhttps://edmtrain.com/miami-fl/neon-indian-twin-shadow-532196
 URL:https://dice.fm/event/ww999v-satellite-neon-indian-dj-set-twin-shadow-w
  ashed-out-dj-set-14th-oct-zeyzey-miami-tickets
 STATUS:CONFIRMED
