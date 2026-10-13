@@ -182,15 +182,14 @@ STATUS:CONFIRMED
 CATEGORIES:house,tech house
 END:VEVENT
 BEGIN:VEVENT
-UID:dice-6a85fc0f21cf70000116039a@jolene.miami-calendars
-DTSTAMP:20260922T004038Z
-LAST-MODIFIED:20260922T004038Z
-SEQUENCE:1
+UID:19hz-4448632-adielyusu@jolene.miami-calendars
+DTSTAMP:20261013T161821Z
+LAST-MODIFIED:20261013T161821Z
+SEQUENCE:0
 DTSTART:20261114T030000Z
 DTEND:20261114T090000Z
-SUMMARY:Adiel & Yu Su
-LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
- a 33131\, United States
+SUMMARY:Adiel\, Yu Su
+LOCATION:Jolene Downtown
 DESCRIPTION:Lineup: Adiel\, Yu Su\nTags: house\nAges: 21+\nhttps://dice.fm/
  event/6a85fc0f21cf70000116039a\nhttps://edmtrain.com/miami-fl/adiel-yu-su-
  530460

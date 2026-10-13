@@ -866,6 +866,22 @@ URL:https://calendar.zeyzeymiami.com/shows/lukas-frank-11-oct
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-new-years-eve-with-dabuell-dj-set-31-dec@zeyzey.miami-calendars
+DTSTAMP:20261013T161821Z
+LAST-MODIFIED:20261013T161821Z
+SEQUENCE:0
+DTSTART:20270101T010000Z
+DTEND:20270101T060000Z
+SUMMARY:New Years Eve with Dabuell (DJ Set)
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: funk\nhttps://calendar.zeyzeymiami.com/shows/new-years-ev
+ e-with-dabuell-dj-set-31-dec
+URL:https://calendar.zeyzeymiami.com/shows/new-years-eve-with-dabuell-dj-se
+ t-31-dec
+STATUS:CONFIRMED
+CATEGORIES:funk
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-booker-t-jones-15-jan@zeyzey.miami-calendars
 DTSTAMP:20261008T161834Z
 LAST-MODIFIED:20261008T161834Z

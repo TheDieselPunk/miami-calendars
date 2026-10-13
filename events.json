@@ -2843,7 +2843,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "18+",
-   "price": "Free",
+   "price": "$25",
    "genres": [
     "edm",
     "progressive house"
@@ -3162,6 +3162,26 @@
     "longitude": -80.1851332
    },
    "created": "2026-10-01T20:54:01.000Z"
+  },
+  {
+   "id": "shotgun:ethans-cabaret-a-lisync-battle",
+   "source": "shotgun",
+   "title": "Ethans Cabaret: A Lisync Battle",
+   "artists": [],
+   "venue": "Tribe Tea Kava Lounge",
+   "venue_slug": null,
+   "date": "2026-10-23",
+   "start": "2026-10-24T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/ethans-cabaret-a-lisync-battle"
   },
   {
    "id": "19hz:4446612-wassu",
@@ -3875,6 +3895,28 @@
    "alt_urls": [
     "https://shotgun.live/en/events/sammy-jackie-clarke-dj-set-with-special-guest-valery-karbia"
    ]
+  },
+  {
+   "id": "shotgun:grunge-night-devin-s-birthday",
+   "source": "shotgun",
+   "title": "Grunge Night: Devin's Birthday",
+   "artists": [],
+   "venue": "Tribe Tea Kava Lounge",
+   "venue_slug": null,
+   "date": "2026-10-24",
+   "start": "2026-10-25T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "rock"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/grunge-night-devin-s-birthday"
   },
   {
    "id": "19hz:4446712-pasodoble",
@@ -4942,6 +4984,28 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/hallorave-533552"
    ]
+  },
+  {
+   "id": "shotgun:roderick-rules-y-2-k-myspace-night",
+   "source": "shotgun",
+   "title": "Roderick Rules: Y2k Myspace Night",
+   "artists": [],
+   "venue": "Mickey's Bar",
+   "venue_slug": null,
+   "date": "2026-10-30",
+   "start": "2026-10-31T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$6.00",
+   "genres": [
+    "rock"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/roderick-rules-y-2-k-myspace-night"
   },
   {
    "id": "tablelist:f10b685adc35d405",
@@ -8041,22 +8105,22 @@
    ]
   },
   {
-   "id": "dice:6a85fc0f21cf70000116039a",
-   "source": "19hz+dice+edmtrain",
-   "title": "Adiel & Yu Su",
+   "id": "19hz:4448632-adielyusu",
+   "source": "19hz+edmtrain",
+   "title": "Adiel, Yu Su",
    "artists": [
     "Adiel",
     "Yu Su"
    ],
-   "venue": "Jolene Sound Room Miami",
+   "venue": "Jolene Downtown",
    "venue_slug": "jolene",
    "date": "2026-11-13",
    "start": "2026-11-14T03:00:00+00:00",
    "end": "2026-11-14T09:00:00+00:00",
    "time_estimated": false,
-   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "address": "",
    "ages": "21+",
-   "price": "From $10",
+   "price": "$10+",
    "genres": [
     "house"
    ],
@@ -8064,9 +8128,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6a85fc0f21cf70000116039a",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/6a85fc0f21cf70000116039a",
     "https://edmtrain.com/miami-fl/adiel-yu-su-530460"
    ]
   },
@@ -9235,6 +9297,26 @@
    "url": "https://www.eventbrite.com/e/vice-city-after-dark-a-gta-vi-tribute-tickets-2002568304707"
   },
   {
+   "id": "shotgun:spongebob-sleepover",
+   "source": "shotgun",
+   "title": "Spongebob Sleepover",
+   "artists": [],
+   "venue": "Tribe Tea Kava Lounge",
+   "venue_slug": null,
+   "date": "2026-11-20",
+   "start": "2026-11-21T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/spongebob-sleepover"
+  },
+  {
    "id": "zeyzey:amarji-king-20-nov",
    "source": "venue",
    "title": "Amarji King",
@@ -9613,6 +9695,29 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/john-summit-505496"
    ]
+  },
+  {
+   "id": "shotgun:lexi-s-birthday-show-emo-vs-hardcore",
+   "source": "shotgun",
+   "title": "Lexi's Birthday Show: Emo Vs Hardcore!",
+   "artists": [],
+   "venue": "Miami, United States 🇺🇸",
+   "venue_slug": null,
+   "date": "2026-11-21",
+   "start": "2026-11-22T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.35",
+   "genres": [
+    "rock",
+    "hard rock"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/lexi-s-birthday-show-emo-vs-hardcore"
   },
   {
    "id": "hardrock:206019",
@@ -10531,6 +10636,29 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/arythma-tongue-tied-541986"
    ]
+  },
+  {
+   "id": "shotgun:classic-rock-night",
+   "source": "shotgun",
+   "title": "Classic Rock Night",
+   "artists": [],
+   "venue": "Tribe Tea Kava Lounge",
+   "venue_slug": null,
+   "date": "2026-11-28",
+   "start": "2026-11-29T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.35",
+   "genres": [
+    "rock",
+    "indie rock"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/classic-rock-night"
   },
   {
    "id": "hardrock:206021",
@@ -13486,6 +13614,29 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/dreamland-new-years-festival-523791"
    ]
+  },
+  {
+   "id": "zeyzey:new-years-eve-with-dabuell-dj-set-31-dec",
+   "source": "venue",
+   "title": "New Years Eve with Dabuell (DJ Set)",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-12-31",
+   "start": "2027-01-01T01:00:00+00:00",
+   "end": "2027-01-01T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "funk"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/new-years-eve-with-dabuell-dj-set-31-dec",
+   "cancelled": false
   },
   {
    "id": "hardrock:207897",
