@@ -31,9 +31,9 @@
   "slug": "floyd",
   "name": "Floyd",
   "file": "floyd.ics",
-  "events": 29,
+  "events": 28,
   "estimated_times": 0,
-  "next": "2026-10-11",
+  "next": "2026-10-15",
   "sources": [
    "19hz",
    "dice",
@@ -45,8 +45,8 @@
   "slug": "domicile",
   "name": "Domicile",
   "file": "domicile.ics",
-  "events": 2,
-  "estimated_times": 2,
+  "events": 3,
+  "estimated_times": 3,
   "next": "2026-10-16",
   "sources": [
    "edmtrain"
@@ -99,9 +99,9 @@
   "slug": "zeyzey",
   "name": "ZeyZey Miami",
   "file": "zeyzey.ics",
-  "events": 57,
+  "events": 56,
   "estimated_times": 0,
-  "next": "2026-10-11",
+  "next": "2026-10-13",
   "sources": [
    "19hz",
    "dice",
@@ -129,9 +129,9 @@
   "slug": "daer",
   "name": "DAER (Hard Rock Hollywood)",
   "file": "daer.ics",
-  "events": 53,
+  "events": 52,
   "estimated_times": 0,
-  "next": "2026-10-11",
+  "next": "2026-10-16",
   "sources": [
    "19hz",
    "edmtrain",

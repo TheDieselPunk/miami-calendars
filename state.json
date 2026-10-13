@@ -1,19 +1,4 @@
 {
- "19hz-4445424-levelup@daer.miami-calendars": {
-  "hash": "1094c51273d4259a",
-  "seq": 0,
-  "modified": "2026-10-12T04:18:15+00:00"
- },
- "19hz-4445443-lukasfrank@zeyzey.miami-calendars": {
-  "hash": "1a06829a2d5bd9df",
-  "seq": 1,
-  "modified": "2026-10-12T16:18:12+00:00"
- },
- "19hz-4445467-nachoscoppaisabe@floyd.miami-calendars": {
-  "hash": "b660c9aa0dc2732a",
-  "seq": 0,
-  "modified": "2026-10-12T04:18:15+00:00"
- },
  "19hz-4445916-iiipoints2026@festivals.miami-calendars": {
   "hash": "566a93a881707e41",
   "seq": 0,
@@ -285,9 +270,9 @@
   "modified": "2026-10-03T04:18:28+00:00"
  },
  "dice-6a84879f8e0c81000177fc08@factory-town.miami-calendars": {
-  "hash": "18879afdc64e1fe7",
-  "seq": 2,
-  "modified": "2026-09-22T00:40:38+00:00"
+  "hash": "099c56e9a2106c60",
+  "seq": 3,
+  "modified": "2026-10-13T04:18:23+00:00"
  },
  "dice-6a85fa1255f47f0001c509a5@zeyzey.miami-calendars": {
   "hash": "63c34eeb98d2aa63",
@@ -765,9 +750,9 @@
   "modified": "2026-10-09T22:19:02+00:00"
  },
  "dice-6ac6bc67f132910001aa91b9@factory-town.miami-calendars": {
-  "hash": "870a48a8b21952a1",
-  "seq": 0,
-  "modified": "2026-10-08T22:19:12+00:00"
+  "hash": "cb4dbcf9bb2a296b",
+  "seq": 1,
+  "modified": "2026-10-13T04:18:23+00:00"
  },
  "dice-6ac7e104051f140001741eed@floyd.miami-calendars": {
   "hash": "d56453178d80c4d7",
@@ -785,9 +770,9 @@
   "modified": "2026-10-12T16:18:12+00:00"
  },
  "dice-6acd12180a3d6400017d20c5@kemistry.miami-calendars": {
-  "hash": "290b1a0f6f69d1e8",
-  "seq": 0,
-  "modified": "2026-10-12T22:18:10+00:00"
+  "hash": "b469b81cebb50f62",
+  "seq": 1,
+  "modified": "2026-10-13T04:18:23+00:00"
  },
  "edmtrain-434705@festivals.miami-calendars": {
   "hash": "e416a5823d96ff63",
@@ -923,6 +908,11 @@
   "hash": "2b70b598a3378add",
   "seq": 0,
   "modified": "2026-10-09T04:18:29+00:00"
+ },
+ "edmtrain-544365@domicile.miami-calendars": {
+  "hash": "4bc7622931e20acd",
+  "seq": 0,
+  "modified": "2026-10-13T04:18:23+00:00"
  },
  "galactic-halloween@shotgun.live": {
   "hash": "fc786244f70af36d",
@@ -1216,23 +1206,23 @@
  },
  "madradiomiami101426@shotgun.live": {
   "hash": "e39ed81b6a1686bf",
-  "seq": 89,
-  "modified": "2026-10-12T22:18:10+00:00"
+  "seq": 91,
+  "modified": "2026-10-13T04:18:23+00:00"
  },
  "madradiomiami101526@shotgun.live": {
   "hash": "d90990d3aa3265cc",
-  "seq": 89,
-  "modified": "2026-10-12T22:18:10+00:00"
+  "seq": 91,
+  "modified": "2026-10-13T04:18:23+00:00"
  },
  "madradiomiami101626@shotgun.live": {
   "hash": "58a12604e5af3392",
-  "seq": 58,
-  "modified": "2026-10-12T22:18:10+00:00"
+  "seq": 60,
+  "modified": "2026-10-13T04:18:23+00:00"
  },
  "madradiomiami101726@shotgun.live": {
   "hash": "f459f060a060733f",
-  "seq": 58,
-  "modified": "2026-10-12T22:18:10+00:00"
+  "seq": 60,
+  "modified": "2026-10-13T04:18:23+00:00"
  },
  "madradiomiami102126@shotgun.live": {
   "hash": "7682cc251e858a48",
@@ -1275,9 +1265,9 @@
   "modified": "2026-09-28T04:18:01+00:00"
  },
  "rocky-horror-picture-show@shotgun.live": {
-  "hash": "15145617bb9f0ed2",
-  "seq": 9,
-  "modified": "2026-10-12T16:18:12+00:00"
+  "hash": "7b97f38d757a49cd",
+  "seq": 10,
+  "modified": "2026-10-13T04:18:23+00:00"
  },
  "sammy-jackie-clarke-dj-set-with-special-guest-valery-karbia@shotgun.live": {
   "hash": "fa49d6001edf108c",

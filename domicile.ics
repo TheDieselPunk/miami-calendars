@@ -25,6 +25,23 @@ STATUS:CONFIRMED
 CATEGORIES:techno
 END:VEVENT
 BEGIN:VEVENT
+UID:edmtrain-544365@domicile.miami-calendars
+DTSTAMP:20261013T041823Z
+LAST-MODIFIED:20261013T041823Z
+SEQUENCE:0
+DTSTART:20261107T030000Z
+DTEND:20261107T100000Z
+SUMMARY:Laure Croft\, UFO95
+LOCATION:Domicile Miami\, 2900 NW 7th Ave\, Miami\, FL 33127\, USA
+DESCRIPTION:Lineup: Laure Croft\, UFO95\nTags (guess): techno\nTimes are an
+  estimate from Domicile's usual hours - the listing has no start time yet.
+  Check the link.\nhttps://dice.fm/event/yoqp22?pid=d6342b83\nhttps://edmtr
+ ain.com/miami-fl/laure-croft-ufo95-544365
+URL:https://dice.fm/event/yoqp22?pid=d6342b83
+STATUS:CONFIRMED
+CATEGORIES:techno
+END:VEVENT
+BEGIN:VEVENT
 UID:edmtrain-542091@domicile.miami-calendars
 DTSTAMP:20261004T041827Z
 LAST-MODIFIED:20261004T041827Z

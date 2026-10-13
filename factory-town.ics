@@ -58,15 +58,16 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a84879f8e0c81000177fc08@factory-town.miami-calendars
-DTSTAMP:20260922T004038Z
-LAST-MODIFIED:20260922T004038Z
-SEQUENCE:2
+DTSTAMP:20261013T041823Z
+LAST-MODIFIED:20261013T041823Z
+SEQUENCE:3
 DTSTART:20261114T030000Z
 DTEND:20261114T100000Z
 SUMMARY:UNREAL
 LOCATION:Factory Town\, 4800 NW 37th Ave\, Miami\, FL 33142\, USA
-DESCRIPTION:Tags: techno\nAges: 18+\nhttps://dice.fm/event/6a84879f8e0c8100
- 0177fc08
+DESCRIPTION:Lineup: Callush\, feph\, PRADA2000\, Trym\nTags: techno\nAges: 
+ 18+\nhttps://dice.fm/event/6a84879f8e0c81000177fc08\nhttps://edmtrain.com/
+ miami-fl/callush-feph-544373
 URL:https://dice.fm/event/6a84879f8e0c81000177fc08
 STATUS:CONFIRMED
 CATEGORIES:techno
@@ -121,15 +122,16 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ac6bc67f132910001aa91b9@factory-town.miami-calendars
-DTSTAMP:20261008T221912Z
-LAST-MODIFIED:20261008T221912Z
-SEQUENCE:0
+DTSTAMP:20261013T041823Z
+LAST-MODIFIED:20261013T041823Z
+SEQUENCE:1
 DTSTART:20261205T030000Z
 DTEND:20261205T120000Z
 SUMMARY:Factory Basel 2026 (Friday Pass)
 LOCATION:Factory Town\, 4800 NW 37th Ave\, Miami\, FL 33142\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6ac6bc67f13
- 2910001aa91b9
+DESCRIPTION:Lineup: Solomun\, Chris Lake\, Chloé Caillet\, Rafael\nTags (g
+ uess): house\, techno\nhttps://dice.fm/event/6ac6bc67f132910001aa91b9\nhtt
+ ps://edmtrain.com/miami-fl/solomun-chris-lake-544374
 URL:https://dice.fm/event/6ac6bc67f132910001aa91b9
 STATUS:CONFIRMED
 CATEGORIES:house,techno
