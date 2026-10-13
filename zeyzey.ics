@@ -24,12 +24,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a85fa1255f47f0001c509a5@zeyzey.miami-calendars
-DTSTAMP:20261012T161812Z
-LAST-MODIFIED:20261012T161812Z
-SEQUENCE:5
+DTSTAMP:20261013T101828Z
+LAST-MODIFIED:20261013T101828Z
+SEQUENCE:6
 DTSTART:20261014T230000Z
 DTEND:20261015T050000Z
 SUMMARY:Satellite: Neon Indian (DJ Set)\, Twin Shadow & Washed Out (DJ Set)
+  + LISA'S KICKBACK
 LOCATION:ZeyZey\, 353 Northeast 61st Street\, Miami\, Florida 33137\, Unite
  d States
 DESCRIPTION:Lineup: Neon Indian\, Twin Shadow\, Washed Out\nTags: indie/alt
@@ -45,12 +46,13 @@ CATEGORIES:indie/alternative,synthpop
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a85fa446932660001a56c43@zeyzey.miami-calendars
-DTSTAMP:20261001T041824Z
-LAST-MODIFIED:20261001T041824Z
-SEQUENCE:5
+DTSTAMP:20261013T101828Z
+LAST-MODIFIED:20261013T101828Z
+SEQUENCE:6
 DTSTART:20261015T200000Z
 DTEND:20261016T060000Z
-SUMMARY:Satellite: Chasewest B2B Discip\, Ragie Ban\, Dan Molinari & Stixx
+SUMMARY:Satellite: Chasewest B2B Discip\, Ragie Ban\, Dan Molinari & Stixx 
+ + LAVACITY
 LOCATION:ZeyZey\, 353 Northeast 61st Street\, Miami\, Florida 33137\, Unite
  d States
 DESCRIPTION:Lineup: ChaseWest\, Discip\, Ragie Ban\, Dan Molinari\, Stixx\n
@@ -97,12 +99,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a85fa6621cf7000019482af@zeyzey.miami-calendars
-DTSTAMP:20261003T101836Z
-LAST-MODIFIED:20261003T101836Z
-SEQUENCE:3
+DTSTAMP:20261013T101828Z
+LAST-MODIFIED:20261013T101828Z
+SEQUENCE:4
 DTSTART:20261018T180000Z
 DTEND:20261019T040000Z
-SUMMARY:Satellite: Interplanetary Criminal\, Sam Alfred\, Jubilee + More
+SUMMARY:Satellite: Interplanetary Criminal\, Sam Alfred\, Jubilee + GENEROU
+ S B & FRIENDS
 LOCATION:ZeyZey\, 353 Northeast 61st Street\, Miami\, Florida 33137\, Unite
  d States
 DESCRIPTION:Tags: drum and bass\, jungle\, uk garage\nAges: 18+\nhttps://di

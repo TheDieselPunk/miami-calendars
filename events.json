@@ -147,7 +147,7 @@
   {
    "id": "dice:6a85fa1255f47f0001c509a5",
    "source": "19hz+dice+edmtrain+tablelist+venue",
-   "title": "Satellite: Neon Indian (DJ Set), Twin Shadow & Washed Out (DJ Set)",
+   "title": "Satellite: Neon Indian (DJ Set), Twin Shadow & Washed Out (DJ Set) + LISA'S KICKBACK",
    "artists": [
     "Neon Indian",
     "Twin Shadow",
@@ -310,7 +310,7 @@
   {
    "id": "dice:6a85fa446932660001a56c43",
    "source": "19hz+dice+edmtrain+tablelist+venue",
-   "title": "Satellite: Chasewest B2B Discip, Ragie Ban, Dan Molinari & Stixx",
+   "title": "Satellite: Chasewest B2B Discip, Ragie Ban, Dan Molinari & Stixx + LAVACITY",
    "artists": [
     "ChaseWest",
     "Discip",
@@ -429,6 +429,26 @@
     "https://shotgun.live/en/events/ag-x-rumble-present-taiki-nulight-sir-spyro",
     "https://edmtrain.com/miami-fl/ag-x-rumble-present-taiki-nulight-531486"
    ]
+  },
+  {
+   "id": "shotgun:c3trlroom-12",
+   "source": "shotgun",
+   "title": "We Rise: Adi-J, Dmeyer, Bagdelan, Lerso, Møri",
+   "artists": [],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-10-15",
+   "start": "2026-10-16T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$20.00",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/c3trlroom-12"
   },
   {
    "id": "19hz:4445844-blackbrigadegrey",
@@ -1472,31 +1492,6 @@
    ]
   },
   {
-   "id": "edmtrain:540233",
-   "source": "edmtrain",
-   "title": "Matt Castle",
-   "artists": [
-    "Matt Castle"
-   ],
-   "venue": "Treehouse Miami Beach",
-   "venue_slug": null,
-   "date": "2026-10-16",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "323 23rd St, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.etix.com/ticket/p/70431722",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/matt-castle-540233"
-   ]
-  },
-  {
    "id": "shotgun:qi-spotlight-2026-trade-show-ft-p-la-cangri",
    "source": "shotgun",
    "title": "Qi Spotlight 2026 Trade Show Ft. P La Cangri",
@@ -2191,7 +2186,7 @@
   {
    "id": "dice:6a85fa6621cf7000019482af",
    "source": "19hz+dice+venue",
-   "title": "Satellite: Interplanetary Criminal, Sam Alfred, Jubilee + More",
+   "title": "Satellite: Interplanetary Criminal, Sam Alfred, Jubilee + GENEROUS B & FRIENDS",
    "artists": [],
    "venue": "ZeyZey",
    "venue_slug": "zeyzey",
@@ -11750,7 +11745,8 @@
     "ANOTR",
     "Adriatique",
     "Miguelle & Tons",
-    "ISAbella"
+    "ISAbella",
+    "Rampa"
    ],
    "venue": "Watson Island Park",
    "venue_slug": "festivals",
