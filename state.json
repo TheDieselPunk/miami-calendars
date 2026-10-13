@@ -49,11 +49,6 @@
   "seq": 0,
   "modified": "2026-09-21T21:40:09+00:00"
  },
- "19hz-4448632-adielyusu@jolene.miami-calendars": {
-  "hash": "0cff8ad42a5c4b18",
-  "seq": 0,
-  "modified": "2026-10-13T16:18:21+00:00"
- },
  "19hz-4448695-sacredmeadowsart@festivals.miami-calendars": {
   "hash": "1b0dddd103dff7b5",
   "seq": 0,
@@ -165,9 +160,9 @@
   "modified": "2026-09-22T00:41:54+00:00"
  },
  "dice-6a3c2d5c3f99c300019d7c15@kemistry.miami-calendars": {
-  "hash": "99da725dcb03a114",
-  "seq": 1,
-  "modified": "2026-09-22T00:40:38+00:00"
+  "hash": "c056bb413f905b36",
+  "seq": 2,
+  "modified": "2026-10-13T22:18:25+00:00"
  },
  "dice-6a60e5e3f0b16700018157d5@kemistry.miami-calendars": {
   "hash": "f1c36acf955931cb",
@@ -293,6 +288,11 @@
   "hash": "6aa71d5f2b53a302",
   "seq": 4,
   "modified": "2026-10-13T10:18:28+00:00"
+ },
+ "dice-6a85fc0f21cf70000116039a@jolene.miami-calendars": {
+  "hash": "26038230e6efc666",
+  "seq": 0,
+  "modified": "2026-10-13T22:18:25+00:00"
  },
  "dice-6a86066921cf70000141b5a6@jolene.miami-calendars": {
   "hash": "a108b6e76730e064",
@@ -914,6 +914,16 @@
   "seq": 0,
   "modified": "2026-10-13T04:18:23+00:00"
  },
+ "edmtrain-544678@club-space.miami-calendars": {
+  "hash": "643212bb82ed19ba",
+  "seq": 0,
+  "modified": "2026-10-13T22:18:25+00:00"
+ },
+ "edmtrain-544679@club-space.miami-calendars": {
+  "hash": "bed2f6b352ad723d",
+  "seq": 0,
+  "modified": "2026-10-13T22:18:25+00:00"
+ },
  "galactic-halloween@shotgun.live": {
   "hash": "fc786244f70af36d",
   "seq": 0,
@@ -1206,23 +1216,23 @@
  },
  "madradiomiami101426@shotgun.live": {
   "hash": "e39ed81b6a1686bf",
-  "seq": 95,
-  "modified": "2026-10-13T16:18:21+00:00"
+  "seq": 97,
+  "modified": "2026-10-13T22:18:25+00:00"
  },
  "madradiomiami101526@shotgun.live": {
   "hash": "d90990d3aa3265cc",
-  "seq": 95,
-  "modified": "2026-10-13T16:18:21+00:00"
+  "seq": 97,
+  "modified": "2026-10-13T22:18:25+00:00"
  },
  "madradiomiami101626@shotgun.live": {
   "hash": "58a12604e5af3392",
-  "seq": 64,
-  "modified": "2026-10-13T16:18:21+00:00"
+  "seq": 66,
+  "modified": "2026-10-13T22:18:25+00:00"
  },
  "madradiomiami101726@shotgun.live": {
   "hash": "f459f060a060733f",
-  "seq": 64,
-  "modified": "2026-10-13T16:18:21+00:00"
+  "seq": 66,
+  "modified": "2026-10-13T22:18:25+00:00"
  },
  "madradiomiami102126@shotgun.live": {
   "hash": "7682cc251e858a48",
@@ -1314,6 +1324,11 @@
   "seq": 0,
   "modified": "2026-10-01T04:18:24+00:00"
  },
+ "tablelist-dbaac38537858c48@zeyzey.miami-calendars": {
+  "hash": "c55d337beeef3d0c",
+  "seq": 0,
+  "modified": "2026-10-13T22:18:25+00:00"
+ },
  "tablelist-f10b685adc35d405@zeyzey.miami-calendars": {
   "hash": "3209738510b88278",
   "seq": 0,
@@ -1344,15 +1359,15 @@
   "seq": 0,
   "modified": "2026-09-28T22:18:05+00:00"
  },
+ "year-of-the-knife-at-boombox-10-25@shotgun.live": {
+  "hash": "1ffd50c866e339ea",
+  "seq": 0,
+  "modified": "2026-10-13T22:18:25+00:00"
+ },
  "zeyzey-afroman-01-nov@zeyzey.miami-calendars": {
   "hash": "40bad7f3502ddc01",
   "seq": 0,
   "modified": "2026-09-30T16:18:12+00:00"
- },
- "zeyzey-amarji-king-20-nov@zeyzey.miami-calendars": {
-  "hash": "67b83ee57172f3fc",
-  "seq": 0,
-  "modified": "2026-09-21T20:01:40+00:00"
  },
  "zeyzey-amrita-fr-13-nov@zeyzey.miami-calendars": {
   "hash": "d630b5fc851848ab",
@@ -1371,11 +1386,6 @@
  },
  "zeyzey-ax-and-the-hatchetmen-the-late-checkout-tour-2026-13-dec@zeyzey.miami-calendars": {
   "hash": "7942101eb42b1d85",
-  "seq": 0,
-  "modified": "2026-09-21T20:01:40+00:00"
- },
- "zeyzey-bombargo-21-oct@zeyzey.miami-calendars": {
-  "hash": "c02c36fdecafca3f",
   "seq": 0,
   "modified": "2026-09-21T20:01:40+00:00"
  },
@@ -1453,11 +1463,6 @@
   "hash": "ac304b5c50e0c010",
   "seq": 1,
   "modified": "2026-10-07T04:18:39+00:00"
- },
- "zeyzey-pangea-sound-presents-mezclao-free-entry-21-oct@zeyzey.miami-calendars": {
-  "hash": "c35d313c7a2b43f7",
-  "seq": 0,
-  "modified": "2026-10-08T04:18:33+00:00"
  },
  "zeyzey-presents-parra-for-cuva@shotgun.live": {
   "hash": "4ae749e0e1541853",

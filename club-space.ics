@@ -410,4 +410,38 @@ URL:https://dice.fm/event/6aa19424a8735500017d3f72
 STATUS:CONFIRMED
 CATEGORIES:techno
 END:VEVENT
+BEGIN:VEVENT
+UID:edmtrain-544678@club-space.miami-calendars
+DTSTAMP:20261013T221825Z
+LAST-MODIFIED:20261013T221825Z
+SEQUENCE:0
+DTSTART:20261206T040000Z
+DTEND:20261206T180000Z
+SUMMARY:Space Basel Saturday TBD
+LOCATION:Club Space\, Heart\, 34 NE 11th St\, Miami\, FL 33132\, USA
+DESCRIPTION:Tags (guess): house\, techno\nTimes are an estimate from Club S
+ pace's usual hours - the listing has no start time yet. Check the link.\nh
+ ttps://dice.fm/event/92vxld?pid=d6342b83\nhttps://edmtrain.com/miami-fl/sp
+ ace-basel-saturday-tbd-544678
+URL:https://dice.fm/event/92vxld?pid=d6342b83
+STATUS:CONFIRMED
+CATEGORIES:house,techno
+END:VEVENT
+BEGIN:VEVENT
+UID:edmtrain-544679@club-space.miami-calendars
+DTSTAMP:20261013T221825Z
+LAST-MODIFIED:20261013T221825Z
+SEQUENCE:0
+DTSTART:20261207T040000Z
+DTEND:20261207T100000Z
+SUMMARY:Space Basel Closing Party
+LOCATION:Club Space\, Heart\, 34 NE 11th St\, Miami\, FL 33132\, USA
+DESCRIPTION:Tags (guess): house\, techno\nTimes are an estimate from Club S
+ pace's usual hours - the listing has no start time yet. Check the link.\nh
+ ttps://dice.fm/event/yoqgkr?pid=d6342b83\nhttps://edmtrain.com/miami-fl/sp
+ ace-basel-closing-party-544679
+URL:https://dice.fm/event/yoqgkr?pid=d6342b83
+STATUS:CONFIRMED
+CATEGORIES:house,techno
+END:VEVENT
 END:VCALENDAR

@@ -118,36 +118,20 @@ STATUS:CONFIRMED
 CATEGORIES:drum and bass,jungle,uk garage
 END:VEVENT
 BEGIN:VEVENT
-UID:zeyzey-bombargo-21-oct@zeyzey.miami-calendars
-DTSTAMP:20260921T200140Z
-LAST-MODIFIED:20260921T200140Z
-SEQUENCE:0
-DTSTART:20261021T230000Z
-DTEND:20261022T050000Z
-SUMMARY:Bombargo
-LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: pop\nhttps://calendar.zeyzeymiami.com/shows/bombargo-21-o
- ct
-URL:https://calendar.zeyzeymiami.com/shows/bombargo-21-oct
-STATUS:CONFIRMED
-CATEGORIES:pop
-END:VEVENT
-BEGIN:VEVENT
-UID:zeyzey-pangea-sound-presents-mezclao-free-entry-21-oct@zeyzey.miami-cal
- endars
-DTSTAMP:20261008T041833Z
-LAST-MODIFIED:20261008T041833Z
+UID:tablelist-dbaac38537858c48@zeyzey.miami-calendars
+DTSTAMP:20261013T221825Z
+LAST-MODIFIED:20261013T221825Z
 SEQUENCE:0
 DTSTART:20261022T010000Z
 DTEND:20261022T050000Z
-SUMMARY:Pangea Sound Presents: Mezclao (Free Entry)
+SUMMARY:Pangea Sound Presents: Mezclao
 LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
- pangea-sound-presents-mezclao-free-entry-21-oct
-URL:https://calendar.zeyzeymiami.com/shows/pangea-sound-presents-mezclao-fr
- ee-entry-21-oct
+DESCRIPTION:Tags: pop\nhttps://buy.tablelist.com/e/dbaac38537858c48\nhttps:
+ //calendar.zeyzeymiami.com/shows/bombargo-21-oct\nhttps://calendar.zeyzeym
+ iami.com/shows/pangea-sound-presents-mezclao-free-entry-21-oct
+URL:https://buy.tablelist.com/e/dbaac38537858c48
 STATUS:CONFIRMED
-CATEGORIES:dance/electronic
+CATEGORIES:pop
 END:VEVENT
 BEGIN:VEVENT
 UID:tablelist-b7cca09069029abe@zeyzey.miami-calendars
@@ -649,21 +633,6 @@ DESCRIPTION:Tags: indie/alternative\nhttps://calendar.zeyzeymiami.com/shows
 URL:https://calendar.zeyzeymiami.com/shows/the-hails-21-nov
 STATUS:CONFIRMED
 CATEGORIES:indie/alternative
-END:VEVENT
-BEGIN:VEVENT
-UID:zeyzey-amarji-king-20-nov@zeyzey.miami-calendars
-DTSTAMP:20260921T200140Z
-LAST-MODIFIED:20260921T200140Z
-SEQUENCE:0
-DTSTART:20261121T020000Z
-DTEND:20261121T080000Z
-SUMMARY:Amarji King
-LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
- amarji-king-20-nov
-URL:https://calendar.zeyzeymiami.com/shows/amarji-king-20-nov
-STATUS:CONFIRMED
-CATEGORIES:dance/electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-selects-donny-benet@shotgun.live

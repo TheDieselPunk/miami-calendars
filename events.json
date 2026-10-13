@@ -432,9 +432,13 @@
   },
   {
    "id": "shotgun:c3trlroom-12",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "We Rise: Adi-J, Dmeyer, Bagdelan, Lerso, Møri",
-   "artists": [],
+   "artists": [
+    "ADI-J",
+    "Dmeyer",
+    "'bagdelan'"
+   ],
    "venue": "AIRE Miami",
    "venue_slug": null,
    "date": "2026-10-15",
@@ -448,7 +452,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/c3trlroom-12"
+   "url": "https://shotgun.live/en/events/c3trlroom-12",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/adi-j-dmeyer-544646"
+   ]
   },
   {
    "id": "19hz:4445844-blackbrigadegrey",
@@ -1396,7 +1403,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $48 (sold out)",
+   "price": "From $48",
    "genres": [
     "house",
     "progressive house"
@@ -1716,9 +1723,16 @@
   },
   {
    "id": "dice:6a3c2d5c3f99c300019d7c15",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "KAWAII RAVE",
-   "artists": [],
+   "artists": [
+    "KZA",
+    "JPAVIA",
+    "Cookie",
+    "Crazy Pink",
+    "Pastel Beach",
+    "AKIYAMA"
+   ],
    "venue": "Kemistry",
    "venue_slug": "kemistry",
    "date": "2026-10-17",
@@ -1736,7 +1750,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6a3c2d5c3f99c300019d7c15",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/kawaii-rave-kza-544614"
+   ]
   },
   {
    "id": "19hz:4446036-iliadearwormnofo",
@@ -2630,29 +2647,6 @@
    ]
   },
   {
-   "id": "zeyzey:bombargo-21-oct",
-   "source": "venue",
-   "title": "Bombargo",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-10-21",
-   "start": "2026-10-21T23:00:00+00:00",
-   "end": "2026-10-22T05:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "pop"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/bombargo-21-oct",
-   "cancelled": false
-  },
-  {
    "id": "shotgun:elizabeth-holmes-lookalike-contest",
    "source": "shotgun",
    "title": "Elizabeth Holmes Lookalike Contest",
@@ -2729,9 +2723,9 @@
    "created": "2026-10-01T20:50:11.000Z"
   },
   {
-   "id": "zeyzey:pangea-sound-presents-mezclao-free-entry-21-oct",
-   "source": "venue",
-   "title": "Pangea Sound Presents: Mezclao (Free Entry)",
+   "id": "tablelist:dbaac38537858c48",
+   "source": "tablelist+venue",
+   "title": "Pangea Sound Presents: Mezclao",
    "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
@@ -2743,13 +2737,16 @@
    "ages": "",
    "price": "Free",
    "genres": [
-    "dance/electronic"
+    "pop"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/pangea-sound-presents-mezclao-free-entry-21-oct",
-   "cancelled": false
+   "url": "https://buy.tablelist.com/e/dbaac38537858c48",
+   "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/bombargo-21-oct",
+    "https://calendar.zeyzeymiami.com/shows/pangea-sound-presents-mezclao-free-entry-21-oct"
+   ]
   },
   {
    "id": "edmtrain:544364",
@@ -3164,26 +3161,6 @@
    "created": "2026-10-01T20:54:01.000Z"
   },
   {
-   "id": "shotgun:ethans-cabaret-a-lisync-battle",
-   "source": "shotgun",
-   "title": "Ethans Cabaret: A Lisync Battle",
-   "artists": [],
-   "venue": "Tribe Tea Kava Lounge",
-   "venue_slug": null,
-   "date": "2026-10-23",
-   "start": "2026-10-24T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/ethans-cabaret-a-lisync-battle"
-  },
-  {
    "id": "19hz:4446612-wassu",
    "source": "19hz+edmtrain",
    "title": "Wassu",
@@ -3386,6 +3363,30 @@
    "alt_urls": [
     "https://edmtrain.com/fort-lauderdale-fl/boneyard-tour-26-reaper-495852"
    ]
+  },
+  {
+   "id": "shotgun:sapphic-panic-at-the-dyke-bar",
+   "source": "shotgun",
+   "title": "Sapphic Panic! At The Dyke Bar",
+   "artists": [],
+   "venue": "Las Rosas",
+   "venue_slug": null,
+   "date": "2026-10-23",
+   "start": "2026-10-24T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.11",
+   "genres": [
+    "pop",
+    "hip hop",
+    "reggaeton"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sapphic-panic-at-the-dyke-bar"
   },
   {
    "id": "19hz:4446616-greenvelvetcajme",
@@ -4321,6 +4322,31 @@
    ]
   },
   {
+   "id": "edmtrain:544661",
+   "source": "edmtrain",
+   "title": "Lupe Fuentes",
+   "artists": [
+    "Lupe Fuentes"
+   ],
+   "venue": "Bijou Social Club",
+   "venue_slug": null,
+   "date": "2026-10-24",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "88 SW 8th St, Miami, FL 33130, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/bbqyqm?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/lupe-fuentes-544661"
+   ]
+  },
+  {
    "id": "hardrock:202018",
    "source": "venue",
    "title": "Gameday Watch Party 10/25",
@@ -4360,6 +4386,36 @@
    "organizer": "",
    "description": "",
    "url": "https://ra.co/events/2543427"
+  },
+  {
+   "id": "shotgun:year-of-the-knife-at-boombox-10-25",
+   "source": "shotgun",
+   "title": "Year Of The Knife At Boombox 10/25",
+   "artists": [],
+   "venue": "The Boombox Miami",
+   "venue_slug": "boombox",
+   "date": "2026-10-25",
+   "start": "2026-10-25T22:00:00+00:00",
+   "end": "2026-10-26T03:00:00+00:00",
+   "time_estimated": false,
+   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
+   "ages": "",
+   "price": "$17.03",
+   "genres": [
+    "hardcore"
+   ],
+   "genres_inferred": false,
+   "organizer": "Equinox Booking",
+   "description": "Equinox Booking Presents Year of The Knife Domain No Truth Hacksaw",
+   "url": "https://shotgun.live/en/events/year-of-the-knife-at-boombox-10-25",
+   "tickets": "General Admission $15",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.7287781,
+    "longitude": -80.3169309
+   },
+   "created": "2026-10-13T22:03:22.000Z"
   },
   {
    "id": "tablelist:3e4f70ad438fc504",
@@ -6192,6 +6248,30 @@
    "alt_urls": [
     "https://dice.fm/event/g58ww5-perreo-del-futuro-halloween-31st-oct-the-ground-miami-miami-tickets"
    ]
+  },
+  {
+   "id": "shotgun:facundo-mohrr-halloween",
+   "source": "shotgun",
+   "title": "Facundo Mohrr (Halloween Night)",
+   "artists": [],
+   "venue": "EDGE MIAMI",
+   "venue_slug": null,
+   "date": "2026-10-31",
+   "start": "2026-11-01T03:30:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$20.00",
+   "genres": [
+    "progressive house",
+    "deep house",
+    "house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/facundo-mohrr-halloween"
   },
   {
    "id": "19hz:4447390-lostfrequencies",
@@ -8105,22 +8185,22 @@
    ]
   },
   {
-   "id": "19hz:4448632-adielyusu",
-   "source": "19hz+edmtrain",
-   "title": "Adiel, Yu Su",
+   "id": "dice:6a85fc0f21cf70000116039a",
+   "source": "19hz+dice+edmtrain",
+   "title": "Adiel & Yu Su",
    "artists": [
     "Adiel",
     "Yu Su"
    ],
-   "venue": "Jolene Downtown",
+   "venue": "Jolene Sound Room Miami",
    "venue_slug": "jolene",
    "date": "2026-11-13",
    "start": "2026-11-14T03:00:00+00:00",
    "end": "2026-11-14T09:00:00+00:00",
    "time_estimated": false,
-   "address": "",
+   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "$10+",
+   "price": "From $10",
    "genres": [
     "house"
    ],
@@ -8128,7 +8208,9 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6a85fc0f21cf70000116039a",
+   "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/6a85fc0f21cf70000116039a",
     "https://edmtrain.com/miami-fl/adiel-yu-su-530460"
    ]
   },
@@ -8430,7 +8512,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$34.99",
+   "price": "$37.50",
    "genres": [
     "deep house",
     "deep tech",
@@ -9295,49 +9377,6 @@
    "organizer": "Ruby Tesla Burlesque",
    "description": "",
    "url": "https://www.eventbrite.com/e/vice-city-after-dark-a-gta-vi-tribute-tickets-2002568304707"
-  },
-  {
-   "id": "shotgun:spongebob-sleepover",
-   "source": "shotgun",
-   "title": "Spongebob Sleepover",
-   "artists": [],
-   "venue": "Tribe Tea Kava Lounge",
-   "venue_slug": null,
-   "date": "2026-11-20",
-   "start": "2026-11-21T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/spongebob-sleepover"
-  },
-  {
-   "id": "zeyzey:amarji-king-20-nov",
-   "source": "venue",
-   "title": "Amarji King",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-11-20",
-   "start": "2026-11-21T02:00:00+00:00",
-   "end": "2026-11-21T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "dance/electronic"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/amarji-king-20-nov",
-   "cancelled": false
   },
   {
    "id": "hardrock:206018",
@@ -11339,7 +11378,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "$350+",
+   "price": "From $70",
    "genres": [
     "house",
     "tech house",
@@ -11545,7 +11584,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "",
-   "price": "",
+   "price": "From $60",
    "genres": [
     "house",
     "techno"
@@ -12050,7 +12089,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "",
-   "price": "",
+   "price": "From $100",
    "genres": [
     "house",
     "techno"
@@ -12174,6 +12213,31 @@
    "alt_urls": [
     "https://dice.fm/event/avkodx-ciao-dany-x-meldie-floyd-basel-2026-4th-dec-floyd-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/ciao-melodie-floyd-basel-2026-natalia-roth-535519"
+   ]
+  },
+  {
+   "id": "edmtrain:544647",
+   "source": "edmtrain",
+   "title": "HVMZA",
+   "artists": [
+    "HVMZA"
+   ],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-12-04",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "111 NE 20th St, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/hvmza-miami-art-week?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/hvmza-544647"
    ]
   },
   {
@@ -12459,6 +12523,32 @@
    ]
   },
   {
+   "id": "edmtrain:544678",
+   "source": "edmtrain",
+   "title": "Space Basel Saturday TBD",
+   "artists": [],
+   "venue": "Club Space",
+   "venue_slug": "club-space",
+   "date": "2026-12-05",
+   "start": "2026-12-06T04:00:00+00:00",
+   "end": "2026-12-06T18:00:00+00:00",
+   "time_estimated": true,
+   "address": "Heart, 34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/92vxld?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/space-basel-saturday-tbd-544678"
+   ]
+  },
+  {
    "id": "dice:6aa06694dcd56d0001733719",
    "source": "19hz+dice+edmtrain",
    "title": "Obskür Presents: The System (Floyd Basel 2026)",
@@ -12656,6 +12746,32 @@
    "description": "",
    "url": "https://dice.fm/event/6ab448eab6c65c00012abd8a",
    "cancelled": false
+  },
+  {
+   "id": "edmtrain:544679",
+   "source": "edmtrain",
+   "title": "Space Basel Closing Party",
+   "artists": [],
+   "venue": "Club Space",
+   "venue_slug": "club-space",
+   "date": "2026-12-06",
+   "start": "2026-12-07T04:00:00+00:00",
+   "end": "2026-12-07T10:00:00+00:00",
+   "time_estimated": true,
+   "address": "Heart, 34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/yoqgkr?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/space-basel-closing-party-544679"
+   ]
   },
   {
    "id": "dice:6aa064da79036d0001631490",
@@ -12917,6 +13033,30 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/templarsatlasrosas"
+  },
+  {
+   "id": "shotgun:the-nightmare-before-punkmas",
+   "source": "shotgun",
+   "title": "The Nightmare Before Punkmas!",
+   "artists": [],
+   "venue": "Tribe Tea Kava Lounge",
+   "venue_slug": null,
+   "date": "2026-12-12",
+   "start": "2026-12-13T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.35",
+   "genres": [
+    "post-punk",
+    "punk",
+    "rock"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/the-nightmare-before-punkmas"
   },
   {
    "id": "hardrock:207836",

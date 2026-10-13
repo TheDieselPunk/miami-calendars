@@ -99,6 +99,25 @@ CATEGORIES:rock,hardcore
 GEO:25.7287781;-80.3169309
 END:VEVENT
 BEGIN:VEVENT
+UID:year-of-the-knife-at-boombox-10-25@shotgun.live
+DTSTAMP:20261013T221825Z
+LAST-MODIFIED:20261013T221825Z
+SEQUENCE:0
+DTSTART:20261025T220000Z
+DTEND:20261026T030000Z
+SUMMARY:Year Of The Knife At Boombox 10/25
+LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
+ \, USA
+DESCRIPTION:Equinox Booking Presents Year of The Knife Domain No Truth Hack
+ saw\nTags: hardcore\nPresented by: Equinox Booking\nTickets: General Admis
+ sion $15\nhttps://shotgun.live/en/events/year-of-the-knife-at-boombox-10-2
+ 5
+URL:https://shotgun.live/en/events/year-of-the-knife-at-boombox-10-25
+STATUS:CONFIRMED
+CATEGORIES:hardcore
+GEO:25.7287781;-80.3169309
+END:VEVENT
+BEGIN:VEVENT
 UID:halloween-se-7-en@shotgun.live
 DTSTAMP:20260925T221819Z
 LAST-MODIFIED:20260925T221819Z
