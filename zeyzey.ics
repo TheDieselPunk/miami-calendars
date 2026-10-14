@@ -826,6 +826,21 @@ URL:https://calendar.zeyzeymiami.com/shows/lukas-frank-11-oct
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-chromeo-dj-set-30-dec@zeyzey.miami-calendars
+DTSTAMP:20261014T161825Z
+LAST-MODIFIED:20261014T161825Z
+SEQUENCE:0
+DTSTART:20261231T010000Z
+DTEND:20261231T060000Z
+SUMMARY:Chromeo (DJ Set)
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
+ chromeo-dj-set-30-dec
+URL:https://calendar.zeyzeymiami.com/shows/chromeo-dj-set-30-dec
+STATUS:CONFIRMED
+CATEGORIES:dance/electronic
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-new-years-eve-with-dabuell-dj-set-31-dec@zeyzey.miami-calendars
 DTSTAMP:20261013T161821Z
 LAST-MODIFIED:20261013T161821Z

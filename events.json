@@ -2,14 +2,9 @@
  "events": [
   {
    "id": "19hz:4445640-djthreepeterwohe",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "DJ Three, Peter Wohelski, Grumptronix",
-   "artists": [
-    "Peter Wohelski",
-    "DJ Three",
-    "Grumptronix",
-    "Spacetime Continuum"
-   ],
+   "artists": [],
    "venue": "Dale Zine",
    "venue_slug": null,
    "date": "2026-10-13",
@@ -26,35 +21,7 @@
    "genres_inferred": false,
    "organizer": "III Points",
    "description": "",
-   "url": "https://dice.fm/event/eongl6-iii-points-dale-zine-present-trip-magazeen-miami-book-launch-13th-oct-dle-zine-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/iii-points-and-dale-zin-present-trip-magazeen-miami-book-launch-peter-wohelski-531565"
-   ]
-  },
-  {
-   "id": "edmtrain:544446",
-   "source": "edmtrain",
-   "title": "Jesse Perez",
-   "artists": [
-    "Jesse Perez"
-   ],
-   "venue": "Sable Miami",
-   "venue_slug": null,
-   "date": "2026-10-13",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "2219 NW 2nd Ave, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/dky6lv?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/jesse-perez-544446"
-   ]
+   "url": "https://dice.fm/event/eongl6-iii-points-dale-zine-present-trip-magazeen-miami-book-launch-13th-oct-dle-zine-miami-tickets"
   },
   {
    "id": "dice:6a85fa1255f47f0001c509a5",
@@ -383,7 +350,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "Free",
+   "price": "free",
    "genres": [
     "bass house",
     "breaks",
@@ -951,6 +918,30 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/hardcore-apocalypse"
+  },
+  {
+   "id": "shotgun:florida-heavy-hitters",
+   "source": "shotgun",
+   "title": "Florida Heavy Hitters",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-10-16",
+   "start": "2026-10-17T00:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$10.00",
+   "genres": [
+    "rock",
+    "indie rock",
+    "metal"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/florida-heavy-hitters"
   },
   {
    "id": "shotgun:sillies-on-south-beach-comedy-show-2",
@@ -5859,7 +5850,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "18+",
-   "price": "free w/rsvp b4 11pm / $25+",
+   "price": "Free",
    "genres": [
     "beats",
     "downtempo",
@@ -8295,22 +8286,22 @@
    ]
   },
   {
-   "id": "dice:6a85fc0f21cf70000116039a",
-   "source": "19hz+dice+edmtrain",
-   "title": "Adiel & Yu Su",
+   "id": "19hz:4448632-adielyusu",
+   "source": "19hz+edmtrain",
+   "title": "Adiel, Yu Su",
    "artists": [
     "Adiel",
     "Yu Su"
    ],
-   "venue": "Jolene Sound Room Miami",
+   "venue": "Jolene Downtown",
    "venue_slug": "jolene",
    "date": "2026-11-13",
    "start": "2026-11-14T03:00:00+00:00",
    "end": "2026-11-14T09:00:00+00:00",
    "time_estimated": false,
-   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "address": "",
    "ages": "21+",
-   "price": "From $10",
+   "price": "$10+",
    "genres": [
     "house"
    ],
@@ -8318,9 +8309,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6a85fc0f21cf70000116039a",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/6a85fc0f21cf70000116039a",
     "https://edmtrain.com/miami-fl/adiel-yu-su-530460"
    ]
   },
@@ -12668,7 +12657,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $161 (sold out)",
+   "price": "From $211 (sold out)",
    "genres": [
     "deep house",
     "funky house",
@@ -13926,6 +13915,29 @@
    "description": "",
    "url": "https://tixr.com/e/207857",
    "generic_title": true
+  },
+  {
+   "id": "zeyzey:chromeo-dj-set-30-dec",
+   "source": "venue",
+   "title": "Chromeo (DJ Set)",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-12-30",
+   "start": "2026-12-31T01:00:00+00:00",
+   "end": "2026-12-31T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "dance/electronic"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/chromeo-dj-set-30-dec",
+   "cancelled": false
   },
   {
    "id": "edmtrain:523791",
