@@ -112,12 +112,12 @@ CATEGORIES:progressive house,trance
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abdf679bbcbf60001fcc8e9@kemistry.miami-calendars
-DTSTAMP:20261001T221830Z
-LAST-MODIFIED:20261001T221830Z
-SEQUENCE:0
+DTSTAMP:20261014T221830Z
+LAST-MODIFIED:20261014T221830Z
+SEQUENCE:1
 DTSTART:20261030T020000Z
 DTEND:20261030T080000Z
-SUMMARY:HAUNTED RAVEYARD TOUR: FORT LAUDERDALE
+SUMMARY:HAUNTED RAVEYARD TOUR: KODAK BLACK
 LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
  312\, United States
 DESCRIPTION:Tags (guess): bass\, dubstep\nhttps://dice.fm/event/6abdf679bbc
@@ -140,6 +140,22 @@ DESCRIPTION:Tags (guess): bass\, dubstep\nhttps://dice.fm/event/6abc56c1a24
  952000158beb2\nhttps://edmtrain.com/fort-lauderdale-fl/fort-lauderdale-hal
  loween-542024
 URL:https://dice.fm/event/6abc56c1a24952000158beb2
+STATUS:CONFIRMED
+CATEGORIES:bass,dubstep
+END:VEVENT
+BEGIN:VEVENT
+UID:dice-6acfb3f29caad40001f10842@kemistry.miami-calendars
+DTSTAMP:20261014T221830Z
+LAST-MODIFIED:20261014T221830Z
+SEQUENCE:0
+DTSTART:20261031T210000Z
+DTEND:20261101T020000Z
+SUMMARY:BOCA HALLO
+LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
+ 312\, United States
+DESCRIPTION:Tags (guess): bass\, dubstep\nhttps://dice.fm/event/6acfb3f29ca
+ ad40001f10842
+URL:https://dice.fm/event/6acfb3f29caad40001f10842
 STATUS:CONFIRMED
 CATEGORIES:bass,dubstep
 END:VEVENT
@@ -443,22 +459,6 @@ URL:https://dice.fm/event/py3lmy-hamro-22nd-jan-kemistry-fort-lauderdale-ti
  ckets
 STATUS:CONFIRMED
 CATEGORIES:bass music,dubstep
-END:VEVENT
-BEGIN:VEVENT
-UID:dice-6a90ca5b0f25790001832792@kemistry.miami-calendars
-DTSTAMP:20261011T041813Z
-LAST-MODIFIED:20261011T041813Z
-SEQUENCE:0
-DTSTART:20270123T230000Z
-DTEND:20270124T040000Z
-SUMMARY:FREESTYLE CRUISE OFFICIAL PRE-PARTY
-LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
- 312\, United States
-DESCRIPTION:Tags (guess): bass\, dubstep\nhttps://dice.fm/event/6a90ca5b0f2
- 5790001832792
-URL:https://dice.fm/event/6a90ca5b0f25790001832792
-STATUS:CONFIRMED
-CATEGORIES:bass,dubstep
 END:VEVENT
 BEGIN:VEVENT
 UID:edmtrain-541640@kemistry.miami-calendars

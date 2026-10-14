@@ -116,7 +116,7 @@
   "slug": "mad-radio",
   "name": "Mad Radio Miami",
   "file": "mad-radio.ics",
-  "events": 10,
+  "events": 12,
   "estimated_times": 0,
   "next": "2026-10-14",
   "sources": [
@@ -129,7 +129,7 @@
   "slug": "daer",
   "name": "DAER (Hard Rock Hollywood)",
   "file": "daer.ics",
-  "events": 51,
+  "events": 52,
   "estimated_times": 0,
   "next": "2026-10-16",
   "sources": [
@@ -143,7 +143,7 @@
   "slug": "jolene",
   "name": "Jolene Sound Room",
   "file": "jolene.ics",
-  "events": 21,
+  "events": 22,
   "estimated_times": 0,
   "next": "2026-10-15",
   "sources": [

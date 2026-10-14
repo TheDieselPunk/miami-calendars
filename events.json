@@ -944,26 +944,6 @@
    "url": "https://shotgun.live/en/events/florida-heavy-hitters"
   },
   {
-   "id": "shotgun:sillies-on-south-beach-comedy-show-2",
-   "source": "shotgun",
-   "title": "Sillies On South Beach Comedy Show",
-   "artists": [],
-   "venue": "South Beach Brewing Company Taproom & Restaurant",
-   "venue_slug": null,
-   "date": "2026-10-16",
-   "start": "2026-10-17T00:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$4.50",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/sillies-on-south-beach-comedy-show-2"
-  },
-  {
    "id": "tablelist:09696654a43f6624",
    "source": "19hz+edmtrain+tablelist+venue",
    "title": "Party Pupils",
@@ -2037,7 +2017,7 @@
    "venue_slug": "club-space",
    "date": "2026-10-17",
    "start": "2026-10-18T03:00:00+00:00",
-   "end": "2026-10-18T18:00:00+00:00",
+   "end": "2026-10-19T00:00:00+00:00",
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
@@ -2075,7 +2055,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $15",
+   "price": "From $20",
    "genres": [
     "house"
    ],
@@ -3105,26 +3085,6 @@
    ]
   },
   {
-   "id": "shotgun:sillies-on-south-beach-comedy-show-3",
-   "source": "shotgun",
-   "title": "Sillies On South Beach Comedy Show",
-   "artists": [],
-   "venue": "South Beach Brewing Company Taproom & Restaurant",
-   "venue_slug": null,
-   "date": "2026-10-23",
-   "start": "2026-10-24T00:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$4.50",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/sillies-on-south-beach-comedy-show-3"
-  },
-  {
    "id": "tablelist:abc873e7b3df0c6a",
    "source": "tablelist+venue",
    "title": "Dope Lemon",
@@ -3732,8 +3692,8 @@
   },
   {
    "id": "hardrock:206563",
-   "source": "19hz+venue",
-   "title": "Doomsday",
+   "source": "venue",
+   "title": "Bikini Bottom",
    "artists": [],
    "venue": "DAER Dayclub",
    "venue_slug": "daer",
@@ -3742,17 +3702,14 @@
    "end": "2026-10-24T22:00:00+00:00",
    "time_estimated": false,
    "address": "1 Seminole Way, Hollywood, FL 33314",
-   "ages": "21+",
-   "price": "$37",
+   "ages": "",
+   "price": "",
    "genres": [],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/206563",
-   "generic_title": false,
-   "alt_urls": [
-    "https://www.tixr.com/groups/daerdayclubsouthflorida/events/doomsday-daer-dayclub-afterdark-206563"
-   ]
+   "generic_title": false
   },
   {
    "id": "shotgun:karnival-halloween-party-horror-games-18-rave",
@@ -3862,26 +3819,6 @@
    ]
   },
   {
-   "id": "shotgun:silly-sips-comedy-show",
-   "source": "shotgun",
-   "title": "Silly Sips Comedy Show",
-   "artists": [],
-   "venue": "Mellow Grapes Miami",
-   "venue_slug": null,
-   "date": "2026-10-24",
-   "start": "2026-10-25T00:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$14.99",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/silly-sips-comedy-show"
-  },
-  {
    "id": "shotgun:madradiomiami102426",
    "source": "shotgun",
    "title": "Music On The Rocks: Leo Del Toro / So Madriz / Daizy",
@@ -3963,6 +3900,26 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/grunge-night-devin-s-birthday"
+  },
+  {
+   "id": "19hz:4446712-doomsdayafterdar",
+   "source": "19hz",
+   "title": "Doomsday Afterdark",
+   "artists": [],
+   "venue": "Daer Dayclub",
+   "venue_slug": "daer",
+   "date": "2026-10-24",
+   "start": "2026-10-25T02:00:00+00:00",
+   "end": "2026-10-25T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "Hollywood",
+   "ages": "21+",
+   "price": "$37",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.tixr.com/groups/daerdayclubsouthflorida/events/doomsday-daer-dayclub-afterdark-206563"
   },
   {
    "id": "19hz:4446712-pasodoble",
@@ -4078,6 +4035,26 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/lunasol-pres-joeski-544408"
    ]
+  },
+  {
+   "id": "shotgun:sapphos-12",
+   "source": "shotgun",
+   "title": "Sapphos: Sirens Of The Underworld",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-10-24",
+   "start": "2026-10-25T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.35",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sapphos-12"
   },
   {
    "id": "19hz:4446712-stavroz",
@@ -4895,7 +4872,7 @@
   {
    "id": "dice:6abdf679bbcbf60001fcc8e9",
    "source": "dice",
-   "title": "HAUNTED RAVEYARD TOUR: FORT LAUDERDALE",
+   "title": "HAUNTED RAVEYARD TOUR: KODAK BLACK",
    "artists": [],
    "venue": "Kemistry",
    "venue_slug": "kemistry",
@@ -4905,7 +4882,7 @@
    "time_estimated": false,
    "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "",
-   "price": "From $46",
+   "price": "From $60",
    "genres": [
     "bass",
     "dubstep"
@@ -4915,6 +4892,30 @@
    "description": "",
    "url": "https://dice.fm/event/6abdf679bbcbf60001fcc8e9",
    "cancelled": false
+  },
+  {
+   "id": "shotgun:aftercitohalloween",
+   "source": "shotgun",
+   "title": "Aftercito Halloween",
+   "artists": [],
+   "venue": "Lion's Den",
+   "venue_slug": null,
+   "date": "2026-10-29",
+   "start": "2026-10-30T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$6.00",
+   "genres": [
+    "disco",
+    "uk garage",
+    "bass"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/aftercitohalloween"
   },
   {
    "id": "shotgun:international-house-party-halloween",
@@ -5039,26 +5040,6 @@
    "cancelled": false
   },
   {
-   "id": "shotgun:sillies-on-south-beach-comedy-show-4",
-   "source": "shotgun",
-   "title": "Sillies On South Beach Comedy Show",
-   "artists": [],
-   "venue": "South Beach Brewing Company Taproom & Restaurant",
-   "venue_slug": null,
-   "date": "2026-10-30",
-   "start": "2026-10-31T00:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$4.50",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/sillies-on-south-beach-comedy-show-4"
-  },
-  {
    "id": "19hz:4447279-hallorave",
    "source": "19hz+edmtrain",
    "title": "Hallorave",
@@ -5085,6 +5066,37 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/hallorave-533552"
    ]
+  },
+  {
+   "id": "shotgun:madradiomiami103026",
+   "source": "shotgun",
+   "title": "Mutant Pete / Jovigibs / Extra Andrew",
+   "artists": [],
+   "venue": "Mad Radio Miami",
+   "venue_slug": "mad-radio",
+   "date": "2026-10-30",
+   "start": "2026-10-31T01:00:00+00:00",
+   "end": "2026-10-31T07:00:00+00:00",
+   "time_estimated": false,
+   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "ages": "",
+   "price": "$21.80",
+   "genres": [
+    "deep house",
+    "house"
+   ],
+   "genres_inferred": true,
+   "organizer": "Mad Radio Miami",
+   "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY BEFORE 10 PM / FREE ENTRY LADIES UNTIL MIDNIGHT +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
+   "url": "https://shotgun.live/en/events/madradiomiami103026",
+   "tickets": "AFTER 10 PM $20, FREE LADIES RSVP BEFORE 12 AM Free",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.8462027,
+    "longitude": -80.1851332
+   },
+   "created": "2026-10-14T21:34:41.000Z"
   },
   {
    "id": "shotgun:roderick-rules-y-2-k-myspace-night",
@@ -5716,6 +5728,29 @@
    ]
   },
   {
+   "id": "shotgun:daybreaker-halloween",
+   "source": "shotgun",
+   "title": "Daybreaker Halloween",
+   "artists": [],
+   "venue": "EDGE Miami",
+   "venue_slug": null,
+   "date": "2026-10-31",
+   "start": "2026-10-31T14:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$28.38",
+   "genres": [
+    "deep house",
+    "house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/daybreaker-halloween"
+  },
+  {
    "id": "hardrock:204543",
    "source": "venue",
    "title": "Halloween - Saturday, October 31st",
@@ -5789,6 +5824,30 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/blond-ish-535914"
    ]
+  },
+  {
+   "id": "dice:6acfb3f29caad40001f10842",
+   "source": "dice",
+   "title": "BOCA HALLO",
+   "artists": [],
+   "venue": "Kemistry",
+   "venue_slug": "kemistry",
+   "date": "2026-10-31",
+   "start": "2026-10-31T21:00:00+00:00",
+   "end": "2026-11-01T02:00:00+00:00",
+   "time_estimated": false,
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "ages": "",
+   "price": "From $40",
+   "genres": [
+    "bass",
+    "dubstep"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6acfb3f29caad40001f10842",
+   "cancelled": false
   },
   {
    "id": "19hz:4447363-murderonthedance",
@@ -6011,6 +6070,40 @@
    ]
   },
   {
+   "id": "shotgun:madradiomiami103126",
+   "source": "shotgun",
+   "title": "Underground Halloween: Art Department / Shaun Reeves",
+   "artists": [
+    "Art Department",
+    "Shaun Reeves"
+   ],
+   "venue": "Mad Radio Miami",
+   "venue_slug": "mad-radio",
+   "date": "2026-10-31",
+   "start": "2026-11-01T01:00:00+00:00",
+   "end": "2026-11-01T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "ages": "",
+   "price": "$21.80",
+   "genres": [
+    "deep house",
+    "house"
+   ],
+   "genres_inferred": true,
+   "organizer": "Mad Radio Miami",
+   "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY BEFORE 10 PM / FREE ENTRY LADIES UNTIL MIDNIGHT + 25 YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
+   "url": "https://shotgun.live/en/events/madradiomiami103126",
+   "tickets": "AFTER 10 PM / EARLY BIRD $20, FREE LADIES RSVP BEFORE 12 AM Free",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.8462027,
+    "longitude": -80.1851332
+   },
+   "created": "2026-10-14T22:02:06.000Z"
+  },
+  {
    "id": "hardrock:204542",
    "source": "19hz+edmtrain+venue",
    "title": "ŁASZEWO - Halloween",
@@ -6068,6 +6161,37 @@
    "url": "https://link.dice.fm/v2d48dbf0fc6",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/lehar-lucas-zarate-531993"
+   ]
+  },
+  {
+   "id": "shotgun:facundo-mohrr-halloween",
+   "source": "edmtrain+shotgun",
+   "title": "Facundo Mohrr (Halloween Night)",
+   "artists": [
+    "Facundo Mohrr",
+    "Conosur",
+    "Solune"
+   ],
+   "venue": "EDGE MIAMI",
+   "venue_slug": null,
+   "date": "2026-10-31",
+   "start": "2026-11-01T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$20.00",
+   "genres": [
+    "deep house",
+    "house",
+    "progressive house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/facundo-mohrr-halloween",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/halloween-facundo-mohrr-544805"
    ]
   },
   {
@@ -6316,37 +6440,6 @@
    "cancelled": false,
    "alt_urls": [
     "https://dice.fm/event/g58ww5-perreo-del-futuro-halloween-31st-oct-the-ground-miami-miami-tickets"
-   ]
-  },
-  {
-   "id": "shotgun:facundo-mohrr-halloween",
-   "source": "edmtrain+shotgun",
-   "title": "Facundo Mohrr (Halloween Night)",
-   "artists": [
-    "Facundo Mohrr",
-    "Conosur",
-    "Solune"
-   ],
-   "venue": "EDGE MIAMI",
-   "venue_slug": null,
-   "date": "2026-10-31",
-   "start": "2026-11-01T03:30:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$20.00",
-   "genres": [
-    "deep house",
-    "house",
-    "progressive house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/facundo-mohrr-halloween",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/halloween-facundo-mohrr-544805"
    ]
   },
   {
@@ -6887,26 +6980,6 @@
    "cancelled": false
   },
   {
-   "id": "shotgun:sillies-on-south-beach-comedy-show-5",
-   "source": "shotgun",
-   "title": "Sillies On South Beach Comedy Show",
-   "artists": [],
-   "venue": "South Beach Brewing Company Taproom & Restaurant",
-   "venue_slug": null,
-   "date": "2026-11-06",
-   "start": "2026-11-07T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$4.50",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/sillies-on-south-beach-comedy-show-5"
-  },
-  {
    "id": "zeyzey:amtrac-live-06-nov",
    "source": "19hz+edmtrain+venue",
    "title": "Amtrac (Live), My Friend, and more",
@@ -7069,6 +7142,30 @@
    ]
   },
   {
+   "id": "dice:6acfab7319150500012f9256",
+   "source": "dice",
+   "title": "BASHKKA",
+   "artists": [],
+   "venue": "Jolene Sound Room Miami",
+   "venue_slug": "jolene",
+   "date": "2026-11-06",
+   "start": "2026-11-07T03:00:00+00:00",
+   "end": "2026-11-07T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "ages": "",
+   "price": "From $10",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6acfab7319150500012f9256",
+   "cancelled": false
+  },
+  {
    "id": "dice:6a77d938f193780001937329",
    "source": "dice",
    "title": "3BallMTY",
@@ -7113,6 +7210,30 @@
    "organizer": "",
    "description": "",
    "url": "https://ra.co/events/2528914"
+  },
+  {
+   "id": "shotgun:the-hall-360-differ-f-2-f-nico-moon-2",
+   "source": "shotgun",
+   "title": "The Hall Club: Ray Kash",
+   "artists": [],
+   "venue": "Upside",
+   "venue_slug": null,
+   "date": "2026-11-06",
+   "start": "2026-11-07T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.69",
+   "genres": [
+    "house",
+    "deep house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/the-hall-360-differ-f-2-f-nico-moon-2"
   },
   {
    "id": "dice:6ac66d60ede61600010d1cba",
@@ -8180,7 +8301,7 @@
   {
    "id": "hardrock:206001",
    "source": "venue",
-   "title": "DAER Nightclub",
+   "title": "Kodak Black",
    "artists": [],
    "venue": "DAER Nightclub",
    "venue_slug": "daer",
@@ -8196,7 +8317,7 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/206001",
-   "generic_title": true
+   "generic_title": false
   },
   {
    "id": "19hz:4448632-armenmiran",
@@ -8286,22 +8407,22 @@
    ]
   },
   {
-   "id": "19hz:4448632-adielyusu",
-   "source": "19hz+edmtrain",
-   "title": "Adiel, Yu Su",
+   "id": "dice:6a85fc0f21cf70000116039a",
+   "source": "19hz+dice+edmtrain",
+   "title": "Adiel & Yu Su",
    "artists": [
     "Adiel",
     "Yu Su"
    ],
-   "venue": "Jolene Downtown",
+   "venue": "Jolene Sound Room Miami",
    "venue_slug": "jolene",
    "date": "2026-11-13",
    "start": "2026-11-14T03:00:00+00:00",
    "end": "2026-11-14T09:00:00+00:00",
    "time_estimated": false,
-   "address": "",
+   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "$10+",
+   "price": "From $10",
    "genres": [
     "house"
    ],
@@ -8309,7 +8430,9 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6a85fc0f21cf70000116039a",
+   "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/6a85fc0f21cf70000116039a",
     "https://edmtrain.com/miami-fl/adiel-yu-su-530460"
    ]
   },
@@ -8746,26 +8869,6 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/blu-and-nickelus-f-live-in-miami"
-  },
-  {
-   "id": "shotgun:silly-sips-comedy-show-2",
-   "source": "shotgun",
-   "title": "Silly Sips Comedy Show",
-   "artists": [],
-   "venue": "Mellow Grapes Miami",
-   "venue_slug": null,
-   "date": "2026-11-14",
-   "start": "2026-11-15T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$14.99",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/silly-sips-comedy-show-2"
   },
   {
    "id": "hardrock:206002",
@@ -9580,6 +9683,29 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/halo-varga-537172"
    ]
+  },
+  {
+   "id": "shotgun:miguel-bastida-something-chill-nov-20",
+   "source": "shotgun",
+   "title": "Miguel Bastida By Something Chill",
+   "artists": [],
+   "venue": "EDGE MIAMI",
+   "venue_slug": null,
+   "date": "2026-11-20",
+   "start": "2026-11-21T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$20.00",
+   "genres": [
+    "tech house",
+    "house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/miguel-bastida-something-chill-nov-20"
   },
   {
    "id": "dice:6a9840d31cfa4500010544f6",
@@ -12120,30 +12246,6 @@
    ]
   },
   {
-   "id": "shotgun:100-michael-jackson-party-in-miami",
-   "source": "shotgun",
-   "title": "100% Michael Jackson Party In Miami !!",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-12-04",
-   "start": "2026-12-04T23:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$18.99",
-   "genres": [
-    "pop",
-    "pop rock",
-    "r&b"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/100-michael-jackson-party-in-miami"
-  },
-  {
    "id": "19hz:4450639-bedouin",
    "source": "19hz+edmtrain",
    "title": "Bedouin",
@@ -12552,6 +12654,30 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/iii-points-basel-michael-bibis-one-life-michael-bibi-534466"
    ]
+  },
+  {
+   "id": "shotgun:100-michael-jackson-party-in-miami",
+   "source": "shotgun",
+   "title": "100% Michael Jackson Party In Miami !!",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-12-05",
+   "start": "2026-12-05T23:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$18.99",
+   "genres": [
+    "pop",
+    "pop rock",
+    "r&b"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/100-michael-jackson-party-in-miami"
   },
   {
    "id": "19hz:4450732-donotsitonartwee",
@@ -13153,26 +13279,6 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/buko-boys-floating-around-tour-at-lincoln-s-beard-miami-fl"
-  },
-  {
-   "id": "shotgun:silly-sips-comedy-show-3",
-   "source": "shotgun",
-   "title": "Silly Sips Comedy Show",
-   "artists": [],
-   "venue": "Mellow Grapes Miami",
-   "venue_slug": null,
-   "date": "2026-12-12",
-   "start": "2026-12-13T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$14.99",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/silly-sips-comedy-show-3"
   },
   {
    "id": "shotgun:minotaur-booking-presents-sids-ky-w-shinkaza-more",
@@ -14311,26 +14417,6 @@
    ]
   },
   {
-   "id": "shotgun:silly-sips-comedy-show-4",
-   "source": "shotgun",
-   "title": "Silly Sips Comedy Show",
-   "artists": [],
-   "venue": "Mellow Grapes Miami",
-   "venue_slug": null,
-   "date": "2027-01-09",
-   "start": "2027-01-10T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$14.99",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/silly-sips-comedy-show-4"
-  },
-  {
    "id": "zeyzey:booker-t-jones-15-jan",
    "source": "venue",
    "title": "Booker T. Jones",
@@ -14535,30 +14621,6 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/groove-cruise-miami-2027-458945"
    ]
-  },
-  {
-   "id": "dice:6a90ca5b0f25790001832792",
-   "source": "dice",
-   "title": "FREESTYLE CRUISE OFFICIAL PRE-PARTY",
-   "artists": [],
-   "venue": "Kemistry",
-   "venue_slug": "kemistry",
-   "date": "2027-01-23",
-   "start": "2027-01-23T23:00:00+00:00",
-   "end": "2027-01-24T04:00:00+00:00",
-   "time_estimated": false,
-   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
-   "ages": "",
-   "price": "From $40",
-   "genres": [
-    "bass",
-    "dubstep"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6a90ca5b0f25790001832792",
-   "cancelled": false
   },
   {
    "id": "edmtrain:458946",

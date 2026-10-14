@@ -182,14 +182,31 @@ STATUS:CONFIRMED
 CATEGORIES:house,tech house
 END:VEVENT
 BEGIN:VEVENT
-UID:19hz-4448632-adielyusu@jolene.miami-calendars
-DTSTAMP:20261014T161825Z
-LAST-MODIFIED:20261014T161825Z
+UID:dice-6acfab7319150500012f9256@jolene.miami-calendars
+DTSTAMP:20261014T221830Z
+LAST-MODIFIED:20261014T221830Z
+SEQUENCE:0
+DTSTART:20261107T030000Z
+DTEND:20261107T090000Z
+SUMMARY:BASHKKA
+LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
+ a 33131\, United States
+DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6acfab7
+ 319150500012f9256
+URL:https://dice.fm/event/6acfab7319150500012f9256
+STATUS:CONFIRMED
+CATEGORIES:house,tech house
+END:VEVENT
+BEGIN:VEVENT
+UID:dice-6a85fc0f21cf70000116039a@jolene.miami-calendars
+DTSTAMP:20261014T221830Z
+LAST-MODIFIED:20261014T221830Z
 SEQUENCE:0
 DTSTART:20261114T030000Z
 DTEND:20261114T090000Z
-SUMMARY:Adiel\, Yu Su
-LOCATION:Jolene Downtown
+SUMMARY:Adiel & Yu Su
+LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
+ a 33131\, United States
 DESCRIPTION:Lineup: Adiel\, Yu Su\nTags: house\nAges: 21+\nhttps://dice.fm/
  event/6a85fc0f21cf70000116039a\nhttps://edmtrain.com/miami-fl/adiel-yu-su-
  530460
