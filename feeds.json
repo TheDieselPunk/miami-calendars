@@ -85,7 +85,7 @@
   "slug": "boombox",
   "name": "The Boombox Miami",
   "file": "boombox.ics",
-  "events": 9,
+  "events": 10,
   "estimated_times": 0,
   "next": "2026-10-15",
   "sources": [
@@ -99,9 +99,9 @@
   "slug": "zeyzey",
   "name": "ZeyZey Miami",
   "file": "zeyzey.ics",
-  "events": 55,
+  "events": 54,
   "estimated_times": 0,
-  "next": "2026-10-13",
+  "next": "2026-10-14",
   "sources": [
    "19hz",
    "dice",
@@ -129,7 +129,7 @@
   "slug": "daer",
   "name": "DAER (Hard Rock Hollywood)",
   "file": "daer.ics",
-  "events": 52,
+  "events": 51,
   "estimated_times": 0,
   "next": "2026-10-16",
   "sources": [
@@ -143,13 +143,14 @@
   "slug": "jolene",
   "name": "Jolene Sound Room",
   "file": "jolene.ics",
-  "events": 20,
+  "events": 21,
   "estimated_times": 0,
   "next": "2026-10-15",
   "sources": [
    "19hz",
    "dice",
-   "edmtrain"
+   "edmtrain",
+   "venue"
   ],
   "hours_note": "10 PM-4 AM. Downtown, 200 cap."
  },

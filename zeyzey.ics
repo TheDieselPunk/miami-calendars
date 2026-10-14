@@ -8,37 +8,23 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:zeyzey-the-hour-a-silent-reading-night-13-oct@zeyzey.miami-calendars
-DTSTAMP:20261001T161812Z
-LAST-MODIFIED:20261001T161812Z
-SEQUENCE:0
-DTSTART:20261013T230000Z
-DTEND:20261014T050000Z
-SUMMARY:The Hour: A Silent Reading Night
-LOCATION:ZeyZey Miami
-DESCRIPTION:https://calendar.zeyzeymiami.com/shows/the-hour-a-silent-readin
- g-night-13-oct
-URL:https://calendar.zeyzeymiami.com/shows/the-hour-a-silent-reading-night-
- 13-oct
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6a85fa1255f47f0001c509a5@zeyzey.miami-calendars
-DTSTAMP:20261013T101828Z
-LAST-MODIFIED:20261013T101828Z
-SEQUENCE:6
+DTSTAMP:20261014T041826Z
+LAST-MODIFIED:20261014T041826Z
+SEQUENCE:7
 DTSTART:20261014T230000Z
 DTEND:20261015T050000Z
 SUMMARY:Satellite: Neon Indian (DJ Set)\, Twin Shadow & Washed Out (DJ Set)
   + LISA'S KICKBACK
 LOCATION:ZeyZey\, 353 Northeast 61st Street\, Miami\, Florida 33137\, Unite
  d States
-DESCRIPTION:Lineup: Neon Indian\, Twin Shadow\, Washed Out\nTags: indie/alt
- ernative\, synthpop\nAges: 18+\nhttps://dice.fm/event/ww999v-satellite-neo
- n-indian-dj-set-twin-shadow-washed-out-dj-set-14th-oct-zeyzey-miami-ticket
- s\nhttps://buy.tablelist.com/e/a93613d6361b626d\nhttps://calendar.zeyzeymi
- ami.com/shows/satellite-neon-indian-dj-set-twin-shadow-washed-out-dj-set-1
- 4-oct\nhttps://edmtrain.com/miami-fl/neon-indian-twin-shadow-532196
+DESCRIPTION:Lineup: Neon Indian\, Twin Shadow\, Washed Out\, LØLØ\, Allni
+ ghtkev\, Lousy Lover\, MeGusta\nTags: indie/alternative\, synthpop\nAges: 
+ 18+\nhttps://dice.fm/event/ww999v-satellite-neon-indian-dj-set-twin-shadow
+ -washed-out-dj-set-14th-oct-zeyzey-miami-tickets\nhttps://buy.tablelist.co
+ m/e/a93613d6361b626d\nhttps://calendar.zeyzeymiami.com/shows/satellite-neo
+ n-indian-dj-set-twin-shadow-washed-out-dj-set-14-oct\nhttps://edmtrain.com
+ /miami-fl/neon-indian-twin-shadow-532196
 URL:https://dice.fm/event/ww999v-satellite-neon-indian-dj-set-twin-shadow-w
  ashed-out-dj-set-14th-oct-zeyzey-miami-tickets
 STATUS:CONFIRMED
@@ -46,21 +32,22 @@ CATEGORIES:indie/alternative,synthpop
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a85fa446932660001a56c43@zeyzey.miami-calendars
-DTSTAMP:20261013T101828Z
-LAST-MODIFIED:20261013T101828Z
-SEQUENCE:6
+DTSTAMP:20261014T041826Z
+LAST-MODIFIED:20261014T041826Z
+SEQUENCE:7
 DTSTART:20261015T200000Z
 DTEND:20261016T060000Z
 SUMMARY:Satellite: Chasewest B2B Discip\, Ragie Ban\, Dan Molinari & Stixx 
  + LAVACITY
 LOCATION:ZeyZey\, 353 Northeast 61st Street\, Miami\, Florida 33137\, Unite
  d States
-DESCRIPTION:Lineup: ChaseWest\, Discip\, Ragie Ban\, Dan Molinari\, Stixx\n
- Tags: tech house\nAges: 18+\nhttps://dice.fm/event/6dooo2-satellite-chasew
- est-b2b-discip-ragie-ban-dan-molinari-stixx-15th-oct-zeyzey-miami-tickets
- \nhttps://buy.tablelist.com/e/0333e4f6895f5ec6\nhttps://calendar.zeyzeymia
- mi.com/shows/satellite-chasewest-b2b-discip-ragie-ban-dan-molinari-stixx-1
- 5-oct\nhttps://edmtrain.com/miami-fl/chasewest-discip-532846
+DESCRIPTION:Lineup: ChaseWest\, Discip\, Ragie Ban\, Dan Molinari\, Stixx\,
+  Ale Acosta\, Violeta\, Kujo\, MEKANIK\, Hormiga\, miss purple shampoo\, T
+ RIPPIE HIPPIE\nTags: tech house\nAges: 18+\nhttps://dice.fm/event/6dooo2-s
+ atellite-chasewest-b2b-discip-ragie-ban-dan-molinari-stixx-15th-oct-zeyzey
+ -miami-tickets\nhttps://buy.tablelist.com/e/0333e4f6895f5ec6\nhttps://cale
+ ndar.zeyzeymiami.com/shows/satellite-chasewest-b2b-discip-ragie-ban-dan-mo
+ linari-stixx-15-oct\nhttps://edmtrain.com/miami-fl/chasewest-discip-532846
 URL:https://dice.fm/event/6dooo2-satellite-chasewest-b2b-discip-ragie-ban-d
  an-molinari-stixx-15th-oct-zeyzey-miami-tickets
 STATUS:CONFIRMED
@@ -99,19 +86,22 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a85fa6621cf7000019482af@zeyzey.miami-calendars
-DTSTAMP:20261013T101828Z
-LAST-MODIFIED:20261013T101828Z
-SEQUENCE:4
+DTSTAMP:20261014T041826Z
+LAST-MODIFIED:20261014T041826Z
+SEQUENCE:5
 DTSTART:20261018T180000Z
 DTEND:20261019T040000Z
 SUMMARY:Satellite: Interplanetary Criminal\, Sam Alfred\, Jubilee + GENEROU
  S B & FRIENDS
 LOCATION:ZeyZey\, 353 Northeast 61st Street\, Miami\, Florida 33137\, Unite
  d States
-DESCRIPTION:Tags: drum and bass\, jungle\, uk garage\nAges: 18+\nhttps://di
- ce.fm/event/avxxxx-satellite-interplanetary-criminal-sam-alfred-jubilee-mo
- re-18th-oct-zeyzey-miami-tickets\nhttps://calendar.zeyzeymiami.com/shows/s
- atellite-interplanetary-criminal-sam-alfred-jubilee-more-18-oct
+DESCRIPTION:Lineup: Interplanetary Criminal\, Sam Alfred\, Generous B\, Car
+ ozilla\, DB Cooper\, Baby Bass\, Rara\, Hakuna\, Roll-e\, Icky\nTags: drum
+  and bass\, jungle\, uk garage\nAges: 18+\nhttps://dice.fm/event/avxxxx-sa
+ tellite-interplanetary-criminal-sam-alfred-jubilee-more-18th-oct-zeyzey-mi
+ ami-tickets\nhttps://calendar.zeyzeymiami.com/shows/satellite-interplaneta
+ ry-criminal-sam-alfred-jubilee-more-18-oct\nhttps://edmtrain.com/miami-fl/
+ interplanetary-criminal-sam-alfred-544931
 URL:https://dice.fm/event/avxxxx-satellite-interplanetary-criminal-sam-alfr
  ed-jubilee-more-18th-oct-zeyzey-miami-tickets
 STATUS:CONFIRMED
@@ -401,12 +391,12 @@ CATEGORIES:folk
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-amtrac-live-06-nov@zeyzey.miami-calendars
-DTSTAMP:20260921T200140Z
-LAST-MODIFIED:20260921T200140Z
-SEQUENCE:0
+DTSTAMP:20261014T041826Z
+LAST-MODIFIED:20261014T041826Z
+SEQUENCE:1
 DTSTART:20261107T010000Z
 DTEND:20261107T080000Z
-SUMMARY:Amtrac (Live)
+SUMMARY:Amtrac (Live)\, My Friend\, and more
 LOCATION:ZeyZey Miami
 DESCRIPTION:Lineup: Amtrac\nTags: house\nAges: 18+\nhttps://calendar.zeyzey
  miami.com/shows/amtrac-live-06-nov\nhttps://app.opendate.io/e/amtrac-live-
@@ -687,15 +677,16 @@ CATEGORIES:latin
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-oscar-g-anastazja-28-nov@zeyzey.miami-calendars
-DTSTAMP:20261007T041839Z
-LAST-MODIFIED:20261007T041839Z
-SEQUENCE:1
+DTSTAMP:20261014T041826Z
+LAST-MODIFIED:20261014T041826Z
+SEQUENCE:2
 DTSTART:20261129T030000Z
 DTEND:20261129T060000Z
 SUMMARY:Oscar G + Anastazja (Free Entry)
 LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
- oscar-g-anastazja-28-nov
+DESCRIPTION:Lineup: Oscar G\, Anastazja\nTags: dance/electronic\nhttps://ca
+ lendar.zeyzeymiami.com/shows/oscar-g-anastazja-28-nov\nhttps://edmtrain.co
+ m/miami-fl/oscar-g-anastazja-544932
 URL:https://calendar.zeyzeymiami.com/shows/oscar-g-anastazja-28-nov
 STATUS:CONFIRMED
 CATEGORIES:dance/electronic

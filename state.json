@@ -275,19 +275,19 @@
   "modified": "2026-10-13T04:18:23+00:00"
  },
  "dice-6a85fa1255f47f0001c509a5@zeyzey.miami-calendars": {
-  "hash": "b564c521b021f0ee",
-  "seq": 6,
-  "modified": "2026-10-13T10:18:28+00:00"
+  "hash": "9ce7cbde572a1481",
+  "seq": 7,
+  "modified": "2026-10-14T04:18:26+00:00"
  },
  "dice-6a85fa446932660001a56c43@zeyzey.miami-calendars": {
-  "hash": "9d5b6c24a203dcb6",
-  "seq": 6,
-  "modified": "2026-10-13T10:18:28+00:00"
+  "hash": "82b4d02ebbe7cc25",
+  "seq": 7,
+  "modified": "2026-10-14T04:18:26+00:00"
  },
  "dice-6a85fa6621cf7000019482af@zeyzey.miami-calendars": {
-  "hash": "6aa71d5f2b53a302",
-  "seq": 4,
-  "modified": "2026-10-13T10:18:28+00:00"
+  "hash": "80b301cc91d05926",
+  "seq": 5,
+  "modified": "2026-10-14T04:18:26+00:00"
  },
  "dice-6a85fc0f21cf70000116039a@jolene.miami-calendars": {
   "hash": "26038230e6efc666",
@@ -774,6 +774,11 @@
   "seq": 1,
   "modified": "2026-10-13T04:18:23+00:00"
  },
+ "dice-6acea6ba0671d7000182aa7e@jolene.miami-calendars": {
+  "hash": "5f0ccfd851cac6f2",
+  "seq": 0,
+  "modified": "2026-10-14T04:18:26+00:00"
+ },
  "edmtrain-434705@festivals.miami-calendars": {
   "hash": "e416a5823d96ff63",
   "seq": 2,
@@ -923,6 +928,11 @@
   "hash": "bed2f6b352ad723d",
   "seq": 0,
   "modified": "2026-10-13T22:18:25+00:00"
+ },
+ "flowers-for-persephone-told-not-to-worry-at-boombox-11-19@shotgun.live": {
+  "hash": "82f301ab36c78436",
+  "seq": 0,
+  "modified": "2026-10-14T04:18:26+00:00"
  },
  "galactic-halloween@shotgun.live": {
   "hash": "fc786244f70af36d",
@@ -1164,11 +1174,6 @@
   "seq": 1,
   "modified": "2026-09-21T20:07:29+00:00"
  },
- "hardrock-207892@daer.miami-calendars": {
-  "hash": "c442520833cbce81",
-  "seq": 0,
-  "modified": "2026-09-21T20:05:54+00:00"
- },
  "hardrock-207897@daer.miami-calendars": {
   "hash": "ee2652d033165bc1",
   "seq": 1,
@@ -1216,23 +1221,23 @@
  },
  "madradiomiami101426@shotgun.live": {
   "hash": "e39ed81b6a1686bf",
-  "seq": 97,
-  "modified": "2026-10-13T22:18:25+00:00"
+  "seq": 99,
+  "modified": "2026-10-14T04:18:26+00:00"
  },
  "madradiomiami101526@shotgun.live": {
   "hash": "d90990d3aa3265cc",
-  "seq": 97,
-  "modified": "2026-10-13T22:18:25+00:00"
+  "seq": 99,
+  "modified": "2026-10-14T04:18:26+00:00"
  },
  "madradiomiami101626@shotgun.live": {
   "hash": "58a12604e5af3392",
-  "seq": 66,
-  "modified": "2026-10-13T22:18:25+00:00"
+  "seq": 68,
+  "modified": "2026-10-14T04:18:26+00:00"
  },
  "madradiomiami101726@shotgun.live": {
   "hash": "f459f060a060733f",
-  "seq": 66,
-  "modified": "2026-10-13T22:18:25+00:00"
+  "seq": 68,
+  "modified": "2026-10-14T04:18:26+00:00"
  },
  "madradiomiami102126@shotgun.live": {
   "hash": "7682cc251e858a48",
@@ -1375,9 +1380,9 @@
   "modified": "2026-10-09T16:18:21+00:00"
  },
  "zeyzey-amtrac-live-06-nov@zeyzey.miami-calendars": {
-  "hash": "38efd24f169871b8",
-  "seq": 0,
-  "modified": "2026-09-21T20:01:40+00:00"
+  "hash": "f6961a9d05c5f8e9",
+  "seq": 1,
+  "modified": "2026-10-14T04:18:26+00:00"
  },
  "zeyzey-arde-bogota-22-nov@zeyzey.miami-calendars": {
   "hash": "6bc7031c035c5f45",
@@ -1460,9 +1465,9 @@
   "modified": "2026-10-13T16:18:21+00:00"
  },
  "zeyzey-oscar-g-anastazja-28-nov@zeyzey.miami-calendars": {
-  "hash": "ac304b5c50e0c010",
-  "seq": 1,
-  "modified": "2026-10-07T04:18:39+00:00"
+  "hash": "a28eda69aae8cdcc",
+  "seq": 2,
+  "modified": "2026-10-14T04:18:26+00:00"
  },
  "zeyzey-presents-parra-for-cuva@shotgun.live": {
   "hash": "4ae749e0e1541853",
@@ -1523,11 +1528,6 @@
   "hash": "087100401a02fa46",
   "seq": 0,
   "modified": "2026-09-21T20:01:40+00:00"
- },
- "zeyzey-the-hour-a-silent-reading-night-13-oct@zeyzey.miami-calendars": {
-  "hash": "c675b10e0a54f404",
-  "seq": 0,
-  "modified": "2026-10-01T16:18:12+00:00"
  },
  "zeyzey-the-unofficial-end-cruise-party-21-jan@zeyzey.miami-calendars": {
   "hash": "f87b09ebb3dce9e7",

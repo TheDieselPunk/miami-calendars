@@ -1,29 +1,6 @@
 {
  "events": [
   {
-   "id": "19hz:4445551-affect",
-   "source": "19hz",
-   "title": "Affect",
-   "artists": [],
-   "venue": "E11even",
-   "venue_slug": null,
-   "date": "2026-10-12",
-   "start": "2026-10-13T00:00:00+00:00",
-   "end": "2026-10-13T05:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "",
-   "genres": [
-    "electro house",
-    "pop house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://speakeasygo.com/E11EVEN/AFFECT-AT-E11EVEN"
-  },
-  {
    "id": "19hz:4445640-djthreepeterwohe",
    "source": "19hz+edmtrain",
    "title": "DJ Three, Peter Wohelski, Grumptronix",
@@ -53,47 +30,6 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/iii-points-and-dale-zin-present-trip-magazeen-miami-book-launch-peter-wohelski-531565"
    ]
-  },
-  {
-   "id": "zeyzey:the-hour-a-silent-reading-night-13-oct",
-   "source": "venue",
-   "title": "The Hour: A Silent Reading Night",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-10-13",
-   "start": "2026-10-13T23:00:00+00:00",
-   "end": "2026-10-14T05:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/the-hour-a-silent-reading-night-13-oct",
-   "cancelled": false
-  },
-  {
-   "id": "shotgun:comedy-night-at-churchill-s-6",
-   "source": "shotgun",
-   "title": "Comedy Night At Churchill's",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-10-13",
-   "start": "2026-10-14T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/comedy-night-at-churchill-s-6"
   },
   {
    "id": "shotgun:katseye-the-wild-world-tour-aftrrparty",
@@ -151,7 +87,11 @@
    "artists": [
     "Neon Indian",
     "Twin Shadow",
-    "Washed Out"
+    "Washed Out",
+    "LØLØ",
+    "Allnightkev",
+    "Lousy Lover",
+    "MeGusta"
    ],
    "venue": "ZeyZey",
    "venue_slug": "zeyzey",
@@ -220,6 +160,54 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/c3trlroom-11"
+  },
+  {
+   "id": "shotgun:dirty-circuit-life-12",
+   "source": "shotgun",
+   "title": "Dirty Circuit Life #12",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-10-14",
+   "start": "2026-10-15T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "electro",
+    "minimal synth",
+    "ambient"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/dirty-circuit-life-12"
+  },
+  {
+   "id": "shotgun:open-mic-at-churchill-s-pub-17",
+   "source": "shotgun",
+   "title": "Open Mic : Every Wednesday",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-10-14",
+   "start": "2026-10-15T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "rock",
+    "post-punk",
+    "punk"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/open-mic-at-churchill-s-pub-17"
   },
   {
    "id": "shotgun:madradiomiami101426",
@@ -316,7 +304,14 @@
     "Discip",
     "Ragie Ban",
     "Dan Molinari",
-    "Stixx"
+    "Stixx",
+    "Ale Acosta",
+    "Violeta",
+    "Kujo",
+    "MEKANIK",
+    "Hormiga",
+    "miss purple shampoo",
+    "TRIPPIE HIPPIE"
    ],
    "venue": "ZeyZey",
    "venue_slug": "zeyzey",
@@ -542,6 +537,54 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/mike-nervous-mandiz-542415"
    ]
+  },
+  {
+   "id": "shotgun:rat-bastard-s-stumble-and-fall-with-autopilot-and-spill",
+   "source": "shotgun",
+   "title": "Rat Bastard's Stumble And Fall With Autopilot And Spill",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-10-15",
+   "start": "2026-10-16T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$6.00",
+   "genres": [
+    "alternative",
+    "rock",
+    "indie"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/rat-bastard-s-stumble-and-fall-with-autopilot-and-spill"
+  },
+  {
+   "id": "shotgun:vocal-jukebox-every-thursday-13",
+   "source": "shotgun",
+   "title": "Vocal Jukebox : Every Thursday",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-10-15",
+   "start": "2026-10-16T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "rock",
+    "punk",
+    "post-punk"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/vocal-jukebox-every-thursday-13"
   },
   {
    "id": "shotgun:b2b-label-showcase",
@@ -2202,9 +2245,20 @@
   },
   {
    "id": "dice:6a85fa6621cf7000019482af",
-   "source": "19hz+dice+venue",
+   "source": "19hz+dice+edmtrain+venue",
    "title": "Satellite: Interplanetary Criminal, Sam Alfred, Jubilee + GENEROUS B & FRIENDS",
-   "artists": [],
+   "artists": [
+    "Interplanetary Criminal",
+    "Sam Alfred",
+    "Generous B",
+    "Carozilla",
+    "DB Cooper",
+    "Baby Bass",
+    "Rara",
+    "Hakuna",
+    "Roll-e",
+    "Icky"
+   ],
    "venue": "ZeyZey",
    "venue_slug": "zeyzey",
    "date": "2026-10-18",
@@ -2226,7 +2280,8 @@
    "cancelled": false,
    "alt_urls": [
     "https://calendar.zeyzeymiami.com/shows/satellite-interplanetary-criminal-sam-alfred-jubilee-more-18-oct",
-    "https://dice.fm/event/avxxxx-satellite-interplanetary-criminal-sam-alfred-jubilee-more-18th-oct-zeyzey-miami-tickets"
+    "https://dice.fm/event/avxxxx-satellite-interplanetary-criminal-sam-alfred-jubilee-more-18th-oct-zeyzey-miami-tickets",
+    "https://edmtrain.com/miami-fl/interplanetary-criminal-sam-alfred-544931"
    ]
   },
   {
@@ -2312,6 +2367,29 @@
    "url": "https://www.ticketmaster.com/event/0D0064B3151133D8",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/tini-505851"
+   ]
+  },
+  {
+   "id": "shotgun:undertone2",
+   "source": "edmtrain+shotgun",
+   "title": "Undertøne",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-10-18",
+   "start": "2026-10-19T00:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$15.00",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/undertone2",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/undertone-544789"
    ]
   },
   {
@@ -5766,6 +5844,30 @@
    "url": "https://www.eventbrite.com/e/murder-on-the-dance-floor-halloweekend-rhythm-vine-tickets-2001249673646"
   },
   {
+   "id": "shotgun:halloween-party-at-the-sound-library",
+   "source": "shotgun",
+   "title": "Halloween Party At The Sound Library",
+   "artists": [],
+   "venue": "The Sound Library Miami – Kava, Tea & Live Music",
+   "venue_slug": null,
+   "date": "2026-10-31",
+   "start": "2026-10-31T21:30:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "acid house",
+    "tech house",
+    "afro house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/halloween-party-at-the-sound-library"
+  },
+  {
    "id": "tablelist:cb59f6b1c057040a",
    "source": "19hz+edmtrain+tablelist+venue",
    "title": "Mark Farina’s Mushroom Jazz",
@@ -6251,9 +6353,13 @@
   },
   {
    "id": "shotgun:facundo-mohrr-halloween",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Facundo Mohrr (Halloween Night)",
-   "artists": [],
+   "artists": [
+    "Facundo Mohrr",
+    "Conosur",
+    "Solune"
+   ],
    "venue": "EDGE MIAMI",
    "venue_slug": null,
    "date": "2026-10-31",
@@ -6264,14 +6370,17 @@
    "ages": "",
    "price": "$20.00",
    "genres": [
-    "progressive house",
     "deep house",
-    "house"
+    "house",
+    "progressive house"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/facundo-mohrr-halloween"
+   "url": "https://shotgun.live/en/events/facundo-mohrr-halloween",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/halloween-facundo-mohrr-544805"
+   ]
   },
   {
    "id": "19hz:4447390-lostfrequencies",
@@ -6372,6 +6481,31 @@
    "url": "https://shotgun.live/events/daft-disko-halloween?utm_source=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/daft-disko-a-french-house-and-disco-party-543514"
+   ]
+  },
+  {
+   "id": "edmtrain:544851",
+   "source": "edmtrain",
+   "title": "GUDFELLA",
+   "artists": [
+    "GUDFELLA"
+   ],
+   "venue": "Selva Miami",
+   "venue_slug": null,
+   "date": "2026-10-31",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "800 Brickell Ave, Miami, FL 33131, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/halloween-selva?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/gudfella-544851"
    ]
   },
   {
@@ -6808,7 +6942,7 @@
   {
    "id": "zeyzey:amtrac-live-06-nov",
    "source": "19hz+edmtrain+venue",
-   "title": "Amtrac (Live)",
+   "title": "Amtrac (Live), My Friend, and more",
    "artists": [
     "Amtrac"
    ],
@@ -9003,6 +9137,32 @@
    ]
   },
   {
+   "id": "edmtrain:544845",
+   "source": "edmtrain",
+   "title": "Henrik Schwarz, Inbal",
+   "artists": [
+    "Henrik Schwarz",
+    "Inbal"
+   ],
+   "venue": "Sable Miami",
+   "venue_slug": null,
+   "date": "2026-11-14",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "2219 NW 2nd Ave, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/oemnlg?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/henrik-schwarz-inbal-544845"
+   ]
+  },
+  {
    "id": "hardrock:205537",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -9203,6 +9363,34 @@
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/vicente-garcia-second-show-18-nov",
    "cancelled": false
+  },
+  {
+   "id": "shotgun:flowers-for-persephone-told-not-to-worry-at-boombox-11-19",
+   "source": "shotgun",
+   "title": "Flowers For Persephone & Told Not To Worry At Boombox 11/19",
+   "artists": [],
+   "venue": "The Boombox Miami",
+   "venue_slug": "boombox",
+   "date": "2026-11-19",
+   "start": "2026-11-19T23:00:00+00:00",
+   "end": "2026-11-20T04:00:00+00:00",
+   "time_estimated": false,
+   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
+   "ages": "",
+   "price": "$17.03",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "Equinox Booking",
+   "description": "Equinox Booking Presents Flowers for Persephone Told Not To Worry Icarus Kissed The Sun Homewrecker You’re a Star Archimedes $15 adv / $20 day of 6 pm all ages",
+   "url": "https://shotgun.live/en/events/flowers-for-persephone-told-not-to-worry-at-boombox-11-19",
+   "tickets": "General Admission $15",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.7287781,
+    "longitude": -80.3169309
+   },
+   "created": "2026-10-13T23:32:23.000Z"
   },
   {
    "id": "zeyzey:vicente-garcia-19-nov",
@@ -10840,9 +11028,12 @@
   },
   {
    "id": "zeyzey:oscar-g-anastazja-28-nov",
-   "source": "venue",
+   "source": "edmtrain+venue",
    "title": "Oscar G + Anastazja (Free Entry)",
-   "artists": [],
+   "artists": [
+    "Oscar G",
+    "Anastazja"
+   ],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-11-28",
@@ -10859,7 +11050,10 @@
    "organizer": "",
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/oscar-g-anastazja-28-nov",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/oscar-g-anastazja-544932"
+   ]
   },
   {
    "id": "dice:6a8f2332f7d5af0001278253",
@@ -10970,6 +11164,31 @@
    "url": "https://speakeasygo.com/event/EVE-SNM6NH?t=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/dj-cruz-533040"
+   ]
+  },
+  {
+   "id": "edmtrain:544750",
+   "source": "edmtrain",
+   "title": "Soundtuary: Deep Dish",
+   "artists": [
+    "Deep Dish"
+   ],
+   "venue": "LIV Miami",
+   "venue_slug": null,
+   "date": "2026-11-28",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "4441 Collins Ave, Miami Beach, FL 33140, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://ticketmaster.evyy.net/c/254533/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fid%2F14377904",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/soundtuary-deep-dish-544750"
    ]
   },
   {
@@ -12473,7 +12692,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $211 (sold out)",
+   "price": "From $161 (sold out)",
    "genres": [
     "deep house",
     "funky house",
@@ -13800,27 +14019,6 @@
    "generic_title": false
   },
   {
-   "id": "hardrock:207892",
-   "source": "venue",
-   "title": "New Year's Eve",
-   "artists": [],
-   "venue": "DAER Nightclub",
-   "venue_slug": "daer",
-   "date": "2026-12-31",
-   "start": "2027-01-01T02:00:00+00:00",
-   "end": "2027-01-01T09:00:00+00:00",
-   "time_estimated": false,
-   "address": "1 Seminole Way, Hollywood, FL 33314",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://tixr.com/e/207892",
-   "generic_title": false
-  },
-  {
    "id": "19hz:4453236-dreamland2026mai",
    "source": "19hz",
    "title": "Dreamland 2026 Main Event",
@@ -13842,6 +14040,33 @@
    "organizer": "",
    "description": "",
    "url": "https://www.tixr.com/groups/dreamlandnye/events/dreamland-new-years-festival-170476"
+  },
+  {
+   "id": "dice:6acea6ba0671d7000182aa7e",
+   "source": "dice+venue",
+   "title": "New Year's Eve",
+   "artists": [],
+   "venue": "Jolene Sound Room Miami",
+   "venue_slug": "jolene",
+   "date": "2026-12-31",
+   "start": "2027-01-01T03:00:00+00:00",
+   "end": "2027-01-01T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "ages": "",
+   "price": "From $20",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6acea6ba0671d7000182aa7e",
+   "cancelled": false,
+   "alt_urls": [
+    "https://tixr.com/e/207892"
+   ]
   },
   {
    "id": "19hz:4453246-adriatique",

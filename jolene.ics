@@ -352,4 +352,20 @@ URL:https://dice.fm/event/6ab448eab6c65c00012abd8a
 STATUS:CONFIRMED
 CATEGORIES:house,tech house
 END:VEVENT
+BEGIN:VEVENT
+UID:dice-6acea6ba0671d7000182aa7e@jolene.miami-calendars
+DTSTAMP:20261014T041826Z
+LAST-MODIFIED:20261014T041826Z
+SEQUENCE:0
+DTSTART:20270101T030000Z
+DTEND:20270101T090000Z
+SUMMARY:New Year's Eve
+LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
+ a 33131\, United States
+DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6acea6b
+ a0671d7000182aa7e\nhttps://tixr.com/e/207892
+URL:https://dice.fm/event/6acea6ba0671d7000182aa7e
+STATUS:CONFIRMED
+CATEGORIES:house,tech house
+END:VEVENT
 END:VCALENDAR
