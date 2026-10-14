@@ -32,30 +32,6 @@
    ]
   },
   {
-   "id": "shotgun:katseye-the-wild-world-tour-aftrrparty",
-   "source": "shotgun",
-   "title": "Katseye The Wild World Tour Aftrrparty",
-   "artists": [],
-   "venue": "Mama Tried",
-   "venue_slug": null,
-   "date": "2026-10-13",
-   "start": "2026-10-14T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [
-    "pop",
-    "dance",
-    "k-pop"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/katseye-the-wild-world-tour-aftrrparty"
-  },
-  {
    "id": "edmtrain:544446",
    "source": "edmtrain",
    "title": "Jesse Perez",
