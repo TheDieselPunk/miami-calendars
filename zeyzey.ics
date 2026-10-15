@@ -9,18 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:tablelist-a93613d6361b626d@zeyzey.miami-calendars
-DTSTAMP:20261015T101822Z
-LAST-MODIFIED:20261015T101822Z
-SEQUENCE:1
+DTSTAMP:20261015T161821Z
+LAST-MODIFIED:20261015T161821Z
+SEQUENCE:2
 DTSTART:20261014T230000Z
 DTEND:20261015T040000Z
 SUMMARY:Satellite: Neon Indian (DJ Set)\, Twin Shadow & Washed Out (DJ Set)
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: Neon Indian\, Twin Shadow\, Washed Out\, LØLØ\, Allni
- ghtkev\, Lousy Lover\, MeGusta\nTags: synthpop\nAges: 18+\nhttps://buy.tab
- lelist.com/e/a93613d6361b626d\nhttps://dice.fm/event/ww999v-satellite-neon
- -indian-dj-set-twin-shadow-washed-out-dj-set-14th-oct-zeyzey-miami-tickets
- \nhttps://edmtrain.com/miami-fl/neon-indian-twin-shadow-532196
+DESCRIPTION:Tags: synthpop\nAges: 18+\nhttps://buy.tablelist.com/e/a93613d6
+ 361b626d\nhttps://dice.fm/event/ww999v-satellite-neon-indian-dj-set-twin-s
+ hadow-washed-out-dj-set-14th-oct-zeyzey-miami-tickets
 URL:https://buy.tablelist.com/e/a93613d6361b626d
 STATUS:CONFIRMED
 CATEGORIES:synthpop
@@ -672,6 +670,20 @@ STATUS:CONFIRMED
 CATEGORIES:latin
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-josh-fawaz-sunset-show-28-nov@zeyzey.miami-calendars
+DTSTAMP:20261015T161821Z
+LAST-MODIFIED:20261015T161821Z
+SEQUENCE:0
+DTSTART:20261128T230000Z
+DTEND:20261129T060000Z
+SUMMARY:Josh Fawaz (Sunset Show)
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://calendar.zeyzeymiami.com/shows/josh-fawaz-sunset-show-2
+ 8-nov
+URL:https://calendar.zeyzeymiami.com/shows/josh-fawaz-sunset-show-28-nov
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-oscar-g-anastazja-28-nov@zeyzey.miami-calendars
 DTSTAMP:20261014T041826Z
 LAST-MODIFIED:20261014T041826Z
@@ -714,6 +726,19 @@ LOCATION:ZeyZey Miami
 DESCRIPTION:https://calendar.zeyzeymiami.com/shows/justin-nozuka-second-sho
  w-02-dec
 URL:https://calendar.zeyzeymiami.com/shows/justin-nozuka-second-show-02-dec
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-sg-lewis-02-dec@zeyzey.miami-calendars
+DTSTAMP:20261015T161821Z
+LAST-MODIFIED:20261015T161821Z
+SEQUENCE:0
+DTSTART:20261203T000000Z
+DTEND:20261203T060000Z
+SUMMARY:SG Lewis Presents Forever Days\, Miami
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://calendar.zeyzeymiami.com/shows/sg-lewis-02-dec
+URL:https://calendar.zeyzeymiami.com/shows/sg-lewis-02-dec
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

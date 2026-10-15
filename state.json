@@ -899,16 +899,6 @@
   "seq": 0,
   "modified": "2026-10-06T04:18:39+00:00"
  },
- "edmtrain-542614@festivals.miami-calendars": {
-  "hash": "0c8718b525165730",
-  "seq": 0,
-  "modified": "2026-10-15T10:18:22+00:00"
- },
- "edmtrain-542614@mad-radio.miami-calendars": {
-  "hash": "bfff693471997d08",
-  "seq": 0,
-  "modified": "2026-10-15T10:18:22+00:00"
- },
  "edmtrain-543166@midline.miami-calendars": {
   "hash": "407290ce5863d462",
   "seq": 0,
@@ -1241,18 +1231,18 @@
  },
  "madradiomiami101526@shotgun.live": {
   "hash": "d90990d3aa3265cc",
-  "seq": 109,
-  "modified": "2026-10-15T10:18:22+00:00"
+  "seq": 111,
+  "modified": "2026-10-15T16:18:21+00:00"
  },
  "madradiomiami101626@shotgun.live": {
   "hash": "58a12604e5af3392",
-  "seq": 78,
-  "modified": "2026-10-15T10:18:22+00:00"
+  "seq": 80,
+  "modified": "2026-10-15T16:18:21+00:00"
  },
  "madradiomiami101726@shotgun.live": {
   "hash": "f459f060a060733f",
-  "seq": 78,
-  "modified": "2026-10-15T10:18:22+00:00"
+  "seq": 80,
+  "modified": "2026-10-15T16:18:21+00:00"
  },
  "madradiomiami102126@shotgun.live": {
   "hash": "7682cc251e858a48",
@@ -1305,9 +1295,9 @@
   "modified": "2026-09-28T04:18:01+00:00"
  },
  "rocky-horror-picture-show@shotgun.live": {
-  "hash": "7b97f38d757a49cd",
-  "seq": 10,
-  "modified": "2026-10-13T04:18:23+00:00"
+  "hash": "6732bc4baa5ae890",
+  "seq": 11,
+  "modified": "2026-10-15T16:18:21+00:00"
  },
  "sammy-jackie-clarke-dj-set-with-special-guest-valery-karbia@shotgun.live": {
   "hash": "fa49d6001edf108c",
@@ -1340,9 +1330,9 @@
   "modified": "2026-10-01T04:18:24+00:00"
  },
  "tablelist-a93613d6361b626d@zeyzey.miami-calendars": {
-  "hash": "ab3647ff5225dcc6",
-  "seq": 1,
-  "modified": "2026-10-15T10:18:22+00:00"
+  "hash": "b2bba1bfc2cd3308",
+  "seq": 2,
+  "modified": "2026-10-15T16:18:21+00:00"
  },
  "tablelist-abc873e7b3df0c6a@zeyzey.miami-calendars": {
   "hash": "eddf308abae7d730",
@@ -1474,6 +1464,11 @@
   "seq": 0,
   "modified": "2026-10-15T04:18:28+00:00"
  },
+ "zeyzey-josh-fawaz-sunset-show-28-nov@zeyzey.miami-calendars": {
+  "hash": "0f503094abb572f4",
+  "seq": 0,
+  "modified": "2026-10-15T16:18:21+00:00"
+ },
  "zeyzey-justin-nozuka-01-dec@zeyzey.miami-calendars": {
   "hash": "aba4f767cadf01c4",
   "seq": 0,
@@ -1543,6 +1538,11 @@
   "hash": "3cc626560b1e0b0e",
   "seq": 1,
   "modified": "2026-09-21T20:01:40+00:00"
+ },
+ "zeyzey-sg-lewis-02-dec@zeyzey.miami-calendars": {
+  "hash": "8f199460dd67b1d8",
+  "seq": 0,
+  "modified": "2026-10-15T16:18:21+00:00"
  },
  "zeyzey-shintaro-sakamoto-06-dec@zeyzey.miami-calendars": {
   "hash": "ca1a70feb24b6cf6",
