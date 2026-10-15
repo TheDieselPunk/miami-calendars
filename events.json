@@ -1,32 +1,9 @@
 {
  "events": [
   {
-   "id": "19hz:4445640-djthreepeterwohe",
-   "source": "19hz",
-   "title": "DJ Three, Peter Wohelski, Grumptronix",
-   "artists": [],
-   "venue": "Dale Zine",
-   "venue_slug": null,
-   "date": "2026-10-13",
-   "start": "2026-10-13T22:00:00+00:00",
-   "end": "2026-10-14T02:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "18+",
-   "price": "free w/rsvp",
-   "genres": [
-    "deep house",
-    "funky house"
-   ],
-   "genres_inferred": false,
-   "organizer": "III Points",
-   "description": "",
-   "url": "https://dice.fm/event/eongl6-iii-points-dale-zine-present-trip-magazeen-miami-book-launch-13th-oct-dle-zine-miami-tickets"
-  },
-  {
-   "id": "dice:6a85fa1255f47f0001c509a5",
-   "source": "19hz+dice+edmtrain+tablelist+venue",
-   "title": "Satellite: Neon Indian (DJ Set), Twin Shadow & Washed Out (DJ Set) + LISA'S KICKBACK",
+   "id": "tablelist:a93613d6361b626d",
+   "source": "19hz+edmtrain+tablelist+venue",
+   "title": "Satellite: Neon Indian (DJ Set), Twin Shadow & Washed Out (DJ Set)",
    "artists": [
     "Neon Indian",
     "Twin Shadow",
@@ -36,15 +13,15 @@
     "Lousy Lover",
     "MeGusta"
    ],
-   "venue": "ZeyZey",
+   "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-10-14",
    "start": "2026-10-14T23:00:00+00:00",
-   "end": "2026-10-15T05:00:00+00:00",
+   "end": "2026-10-15T04:00:00+00:00",
    "time_estimated": false,
-   "address": "353 Northeast 61st Street, Miami, Florida 33137, United States",
+   "address": "",
    "ages": "18+",
-   "price": "From $33",
+   "price": "$30+",
    "genres": [
     "indie/alternative",
     "synthpop"
@@ -52,36 +29,11 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/ww999v-satellite-neon-indian-dj-set-twin-shadow-washed-out-dj-set-14th-oct-zeyzey-miami-tickets",
-   "cancelled": false,
+   "url": "https://buy.tablelist.com/e/a93613d6361b626d",
    "alt_urls": [
-    "https://buy.tablelist.com/e/a93613d6361b626d",
     "https://calendar.zeyzeymiami.com/shows/satellite-neon-indian-dj-set-twin-shadow-washed-out-dj-set-14-oct",
     "https://dice.fm/event/ww999v-satellite-neon-indian-dj-set-twin-shadow-washed-out-dj-set-14th-oct-zeyzey-miami-tickets",
     "https://edmtrain.com/miami-fl/neon-indian-twin-shadow-532196"
-   ]
-  },
-  {
-   "id": "shotgun:openhaus",
-   "source": "edmtrain+shotgun",
-   "title": "Open Haus: Open Deck Open Stage",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-10-14",
-   "start": "2026-10-15T00:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/openhaus",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/open-haus-open-deck-open-stage-544330"
    ]
   },
   {
@@ -212,6 +164,29 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/melo-timeless-music-classics"
+  },
+  {
+   "id": "edmtrain:544330",
+   "source": "edmtrain",
+   "title": "Open Haus - Open Deck Open Stage",
+   "artists": [],
+   "venue": "777 NE 79th St",
+   "venue_slug": null,
+   "date": "2026-10-14",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "777 NE 79th St, Miami, FL 33138, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/openhaus?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/open-haus-open-deck-open-stage-544330"
+   ]
   },
   {
    "id": "edmtrain:542097",
@@ -3111,6 +3086,29 @@
    ]
   },
   {
+   "id": "shotgun:supernatural-fest-4",
+   "source": "edmtrain+shotgun",
+   "title": "Supernatural Fest: The Haunted Manor",
+   "artists": [],
+   "venue": "Wilton Manors",
+   "venue_slug": null,
+   "date": "2026-10-23",
+   "start": "2026-10-24T00:30:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$15.00",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/supernatural-fest-4",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/supernatural-fest-the-haunted-manor-544061"
+   ]
+  },
+  {
    "id": "shotgun:indieween",
    "source": "shotgun",
    "title": "Indieween",
@@ -3191,29 +3189,6 @@
    "url": "https://dice.fm/event/g58mga-wassu-23rd-oct-upside-miami-tickets",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/wassu-537380"
-   ]
-  },
-  {
-   "id": "shotgun:supernatural-fest-4",
-   "source": "edmtrain+shotgun",
-   "title": "Supernatural Fest: The Haunted Manor",
-   "artists": [],
-   "venue": "Wilton Manors",
-   "venue_slug": null,
-   "date": "2026-10-23",
-   "start": "2026-10-24T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$15.00",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/supernatural-fest-4",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/supernatural-fest-the-haunted-manor-544061"
    ]
   },
   {
@@ -3664,6 +3639,31 @@
    "url": "https://dice.fm/event/eonvo2?pid=d6342b83",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/green-velvet-green-velvet-cajmere-set-534083"
+   ]
+  },
+  {
+   "id": "edmtrain:545199",
+   "source": "edmtrain",
+   "title": "Simone Vitullo",
+   "artists": [
+    "Simone Vitullo"
+   ],
+   "venue": "Selva Miami",
+   "venue_slug": null,
+   "date": "2026-10-23",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "800 Brickell Ave, Miami, FL 33131, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/simone-vitullo-selva?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/simone-vitullo-545199"
    ]
   },
   {
@@ -4882,7 +4882,7 @@
    "time_estimated": false,
    "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "",
-   "price": "From $60",
+   "price": "From $72",
    "genres": [
     "bass",
     "dubstep"
@@ -6072,9 +6072,8 @@
   {
    "id": "shotgun:madradiomiami103126",
    "source": "shotgun",
-   "title": "Underground Halloween: Art Department / Shaun Reeves",
+   "title": "Underground Halloween: Shaun Reeves / John Raffaele",
    "artists": [
-    "Art Department",
     "Shaun Reeves"
    ],
    "venue": "Mad Radio Miami",
@@ -7143,9 +7142,12 @@
   },
   {
    "id": "dice:6acfab7319150500012f9256",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "BASHKKA",
-   "artists": [],
+   "artists": [
+    "bashkka",
+    "Ms. Mada"
+   ],
    "venue": "Jolene Sound Room Miami",
    "venue_slug": "jolene",
    "date": "2026-11-06",
@@ -7163,7 +7165,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6acfab7319150500012f9256",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/bashkka-ms-mada-545165"
+   ]
   },
   {
    "id": "dice:6a77d938f193780001937329",
@@ -8698,6 +8703,32 @@
    ]
   },
   {
+   "id": "edmtrain:545198",
+   "source": "edmtrain",
+   "title": "Echonomist, Jake Mercer",
+   "artists": [
+    "Echonomist",
+    "Jake Mercer"
+   ],
+   "venue": "Sable Miami",
+   "venue_slug": null,
+   "date": "2026-11-13",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "2219 NW 2nd Ave, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/q236kx?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/echonomist-jake-mercer-545198"
+   ]
+  },
+  {
    "id": "hardrock:205535",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -8816,6 +8847,31 @@
    "description": "",
    "url": "https://dice.fm/event/6a9c6f1a8e70340001656cb5",
    "cancelled": false
+  },
+  {
+   "id": "edmtrain:545225",
+   "source": "edmtrain",
+   "title": "Groove Cruise Miami: Anthony Attalla",
+   "artists": [
+    "Anthony Attalla"
+   ],
+   "venue": "Upside",
+   "venue_slug": "festivals",
+   "date": "2026-11-14",
+   "start": "2026-11-14T20:00:00+00:00",
+   "end": "2026-11-15T07:00:00+00:00",
+   "time_estimated": true,
+   "address": "59 NW 28th St, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6dyw7b?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/groove-cruise-miami-anthony-attalla-545225"
+   ]
   },
   {
    "id": "shotgun:i-liedtomyself-descry-iliad-see-you-next-ar-boombox-11-14",
@@ -9151,7 +9207,7 @@
    "time_estimated": false,
    "address": "353 Northeast 61st Street, Miami, FL 33137, USA",
    "ages": "",
-   "price": "$34.05",
+   "price": "$39.73",
    "genres": [
     "afro house",
     "arabic house",
@@ -9162,7 +9218,7 @@
    "organizer": "BEIRUT NIGHTS IN",
    "description": "Beirut Nights In Presents: Beirut to Miami! Immerse yourself in the diverse rhythms of Arabic, French, Latin, House, and other global genres, capturing the essence of Beirut's cosmopolitan allure right in the heart of Miami! Picture a city that has endured the tests of time, our party seeks to encapsulate its resilience and vivacity in the face against all odds. Amidst the turmoil and uncertainty of conflict, Beirutis have always found solace and strength in their vibrant nightlife, turning nights of darkness into moments of light and celebration. The cosmopolitan nature of Beirut's nightlife is a tapestry woven with the threads of diverse cultures, traditions and modern influences. It is a reflection of the city's historical role as a crossroads of civilizations, where East meets West and tradition combine seamlessly with contemporary trends. Step into Beirut's nightlife, and you'll find yourself immersed in a vibrant mosaic of sights, sounds, and experiences that celebrate the city's rich multicultural heritage. Music: Anthony Raad & Mark Azar Doors open @ 11 PM 21+ No refunds",
    "url": "https://shotgun.live/en/events/beiruttomiami1",
-   "tickets": "General Admission - Early Bird $25 (sold out), General Admission - Early Bird $30, VIP Table for 6 People - $750 Minimum Spend $150, VIP Table for 8 People - $1000 Minimum Spend $200, VIP Table for 10 People - $1250 Minimum Spend $250",
+   "tickets": "General Admission - Early Bird $25 (sold out), General Admission - Early Bird $30 (sold out), VIP Table for 6 People - $750 Minimum Spend $150, General Admission - Tier 2 $35, VIP Table for 8 People - $1000 Minimum Spend $200, VIP Table for 10 People - $1250 Minimum Spend $250",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -9228,6 +9284,31 @@
    "url": "https://dice.fm/event/oemnlg?pid=d6342b83",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/henrik-schwarz-inbal-544845"
+   ]
+  },
+  {
+   "id": "edmtrain:545200",
+   "source": "edmtrain",
+   "title": "Solardo",
+   "artists": [
+    "Solardo"
+   ],
+   "venue": "Selva Miami",
+   "venue_slug": null,
+   "date": "2026-11-14",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "800 Brickell Ave, Miami, FL 33131, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/solardo-selva?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/solardo-545200"
    ]
   },
   {
@@ -13141,6 +13222,31 @@
    ]
   },
   {
+   "id": "edmtrain:545152",
+   "source": "edmtrain",
+   "title": "Gianni Blu",
+   "artists": [
+    "Gianni Blu"
+   ],
+   "venue": "E11EVEN",
+   "venue_slug": null,
+   "date": "2026-12-10",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "29 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://speakeasygo.com/event/EVE-RQRB7X?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/gianni-blu-545152"
+   ]
+  },
+  {
    "id": "shotgun:minotaur-booking-presents-sudden-infant-death-syndrome-ky",
    "source": "shotgun",
    "title": "Minotaur Booking Presents: Sudden Infant Death Syndrome (Ky)",
@@ -13569,6 +13675,31 @@
    "cancelled": false
   },
   {
+   "id": "edmtrain:545153",
+   "source": "edmtrain",
+   "title": "Mister Gray",
+   "artists": [
+    "Mister Gray"
+   ],
+   "venue": "E11EVEN",
+   "venue_slug": null,
+   "date": "2026-12-13",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "29 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://speakeasygo.com/event/EVE-RPFFAB?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/mister-gray-545153"
+   ]
+  },
+  {
    "id": "zeyzey:i-love-r-b-party-18-dec",
    "source": "venue",
    "title": "I Love R&B party",
@@ -13886,6 +14017,31 @@
    "cancelled": false,
    "alt_urls": [
     "https://edmtrain.com/miami-fl/lukas-and-frank-542965"
+   ]
+  },
+  {
+   "id": "edmtrain:545154",
+   "source": "edmtrain",
+   "title": "Ariel Assault",
+   "artists": [
+    "Ariel Assault"
+   ],
+   "venue": "E11EVEN",
+   "venue_slug": null,
+   "date": "2026-12-22",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "29 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://speakeasygo.com/event/EVE-1WCPJU?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/ariel-assault-545154"
    ]
   },
   {
@@ -14983,6 +15139,27 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/ultra-miami-492064"
    ]
+  },
+  {
+   "id": "zeyzey:john-splithoff-15-apr",
+   "source": "venue",
+   "title": "John Splithoff",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2027-04-15",
+   "start": "2027-04-15T23:00:00+00:00",
+   "end": "2027-04-16T05:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/john-splithoff-15-apr",
+   "cancelled": false
   },
   {
    "id": "shotgun:paloma-morphy-miami",

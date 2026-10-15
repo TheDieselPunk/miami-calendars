@@ -8,25 +8,22 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a85fa1255f47f0001c509a5@zeyzey.miami-calendars
-DTSTAMP:20261014T041826Z
-LAST-MODIFIED:20261014T041826Z
-SEQUENCE:7
+UID:tablelist-a93613d6361b626d@zeyzey.miami-calendars
+DTSTAMP:20261015T041828Z
+LAST-MODIFIED:20261015T041828Z
+SEQUENCE:0
 DTSTART:20261014T230000Z
-DTEND:20261015T050000Z
+DTEND:20261015T040000Z
 SUMMARY:Satellite: Neon Indian (DJ Set)\, Twin Shadow & Washed Out (DJ Set)
-  + LISA'S KICKBACK
-LOCATION:ZeyZey\, 353 Northeast 61st Street\, Miami\, Florida 33137\, Unite
- d States
+LOCATION:ZeyZey Miami
 DESCRIPTION:Lineup: Neon Indian\, Twin Shadow\, Washed Out\, LØLØ\, Allni
  ghtkev\, Lousy Lover\, MeGusta\nTags: indie/alternative\, synthpop\nAges: 
- 18+\nhttps://dice.fm/event/ww999v-satellite-neon-indian-dj-set-twin-shadow
- -washed-out-dj-set-14th-oct-zeyzey-miami-tickets\nhttps://buy.tablelist.co
- m/e/a93613d6361b626d\nhttps://calendar.zeyzeymiami.com/shows/satellite-neo
- n-indian-dj-set-twin-shadow-washed-out-dj-set-14-oct\nhttps://edmtrain.com
+ 18+\nhttps://buy.tablelist.com/e/a93613d6361b626d\nhttps://calendar.zeyzey
+ miami.com/shows/satellite-neon-indian-dj-set-twin-shadow-washed-out-dj-set
+ -14-oct\nhttps://dice.fm/event/ww999v-satellite-neon-indian-dj-set-twin-sh
+ adow-washed-out-dj-set-14th-oct-zeyzey-miami-tickets\nhttps://edmtrain.com
  /miami-fl/neon-indian-twin-shadow-532196
-URL:https://dice.fm/event/ww999v-satellite-neon-indian-dj-set-twin-shadow-w
- ashed-out-dj-set-14th-oct-zeyzey-miami-tickets
+URL:https://buy.tablelist.com/e/a93613d6361b626d
 STATUS:CONFIRMED
 CATEGORIES:indie/alternative,synthpop
 END:VEVENT
@@ -523,9 +520,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:beiruttomiami1@shotgun.live
-DTSTAMP:20261009T161821Z
-LAST-MODIFIED:20261009T161821Z
-SEQUENCE:2
+DTSTAMP:20261015T041828Z
+LAST-MODIFIED:20261015T041828Z
+SEQUENCE:3
 DTSTART:20261115T040000Z
 DTEND:20261115T080000Z
 SUMMARY:Beirut Nights In Presents: Beirut To Miami
@@ -547,12 +544,13 @@ DESCRIPTION:Beirut Nights In Presents: Beirut to Miami! Immerse yourself in
  ultural heritage. Music: Anthony Raad & Mark Azar Doors open @ 11 PM 21+ N
  o refunds\nTags: afro house\, arabic house\, arabic pop\, indie/alternativ
  e\nPresented by: BEIRUT NIGHTS IN\nTickets: General Admission - Early Bird
-  $25 (sold out)\, General Admission - Early Bird $30\, VIP Table for 6 Peo
- ple - $750 Minimum Spend $150\, VIP Table for 8 People - $1000 Minimum Spe
- nd $200\, VIP Table for 10 People - $1250 Minimum Spend $250\nhttps://shot
- gun.live/en/events/beiruttomiami1\nhttps://calendar.zeyzeymiami.com/shows/
- beirut-nights-in-14-nov\nhttps://calendar.zeyzeymiami.com/shows/dj-paypal-
- 14-nov\nhttps://calendar.zeyzeymiami.com/shows/tul8te-world-tour-14-nov
+  $25 (sold out)\, General Admission - Early Bird $30 (sold out)\, VIP Tabl
+ e for 6 People - $750 Minimum Spend $150\, General Admission - Tier 2 $35
+ \, VIP Table for 8 People - $1000 Minimum Spend $200\, VIP Table for 10 Pe
+ ople - $1250 Minimum Spend $250\nhttps://shotgun.live/en/events/beiruttomi
+ ami1\nhttps://calendar.zeyzeymiami.com/shows/beirut-nights-in-14-nov\nhttp
+ s://calendar.zeyzeymiami.com/shows/dj-paypal-14-nov\nhttps://calendar.zeyz
+ eymiami.com/shows/tul8te-world-tour-14-nov
 URL:https://shotgun.live/en/events/beiruttomiami1
 STATUS:CONFIRMED
 CATEGORIES:afro house,arabic house,arabic pop,indie/alternative
@@ -901,6 +899,19 @@ DESCRIPTION:Tags: r&b/soul\nhttps://calendar.zeyzeymiami.com/shows/early-sh
 URL:https://calendar.zeyzeymiami.com/shows/early-show-mamas-gun-26-feb
 STATUS:CONFIRMED
 CATEGORIES:r&b/soul
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-john-splithoff-15-apr@zeyzey.miami-calendars
+DTSTAMP:20261015T041828Z
+LAST-MODIFIED:20261015T041828Z
+SEQUENCE:0
+DTSTART:20270415T230000Z
+DTEND:20270416T050000Z
+SUMMARY:John Splithoff
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://calendar.zeyzeymiami.com/shows/john-splithoff-15-apr
+URL:https://calendar.zeyzeymiami.com/shows/john-splithoff-15-apr
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:paloma-morphy-miami@shotgun.live

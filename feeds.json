@@ -99,7 +99,7 @@
   "slug": "zeyzey",
   "name": "ZeyZey Miami",
   "file": "zeyzey.ics",
-  "events": 55,
+  "events": 56,
   "estimated_times": 0,
   "next": "2026-10-14",
   "sources": [
@@ -171,8 +171,8 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 45,
-  "estimated_times": 23,
+  "events": 46,
+  "estimated_times": 24,
   "next": "2026-10-14",
   "sources": [
    "19hz",
