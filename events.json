@@ -26,9 +26,9 @@
    ]
   },
   {
-   "id": "dice:6a85fa446932660001a56c43",
-   "source": "19hz+dice+edmtrain+tablelist+venue",
-   "title": "Satellite: Chasewest B2B Discip, Ragie Ban, Dan Molinari & Stixx + LAVACITY",
+   "id": "tablelist:0333e4f6895f5ec6",
+   "source": "19hz+edmtrain+tablelist+venue",
+   "title": "Satellite: Chasewest B2B Discip, Ragie Ban, Dan Molinari & Stixx",
    "artists": [
     "ChaseWest",
     "Discip",
@@ -43,25 +43,23 @@
     "miss purple shampoo",
     "TRIPPIE HIPPIE"
    ],
-   "venue": "ZeyZey",
+   "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-10-15",
    "start": "2026-10-15T20:00:00+00:00",
-   "end": "2026-10-16T06:00:00+00:00",
+   "end": "2026-10-16T02:00:00+00:00",
    "time_estimated": false,
-   "address": "353 Northeast 61st Street, Miami, Florida 33137, United States",
+   "address": "",
    "ages": "18+",
-   "price": "From $38",
+   "price": "$37.75",
    "genres": [
     "tech house"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6dooo2-satellite-chasewest-b2b-discip-ragie-ban-dan-molinari-stixx-15th-oct-zeyzey-miami-tickets",
-   "cancelled": false,
+   "url": "https://buy.tablelist.com/e/0333e4f6895f5ec6",
    "alt_urls": [
-    "https://buy.tablelist.com/e/0333e4f6895f5ec6",
     "https://calendar.zeyzeymiami.com/shows/satellite-chasewest-b2b-discip-ragie-ban-dan-molinari-stixx-15-oct",
     "https://dice.fm/event/6dooo2-satellite-chasewest-b2b-discip-ragie-ban-dan-molinari-stixx-15th-oct-zeyzey-miami-tickets",
     "https://edmtrain.com/miami-fl/chasewest-discip-532846"
@@ -1180,7 +1178,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $48",
+   "price": "From $48 (sold out)",
    "genres": [
     "house",
     "progressive house"
@@ -3782,6 +3780,30 @@
    ]
   },
   {
+   "id": "shotgun:mandragora-oct24",
+   "source": "shotgun",
+   "title": "Mandragora & More",
+   "artists": [],
+   "venue": "EDGE MIAMI",
+   "venue_slug": null,
+   "date": "2026-10-24",
+   "start": "2026-10-25T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$20.00",
+   "genres": [
+    "progressive house",
+    "progressive psytrance",
+    "house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/mandragora-oct24"
+  },
+  {
    "id": "dice:6aa9c6d3a46904000108e080",
    "source": "19hz+dice+edmtrain",
    "title": "Ida Engberg b2b ONYVAA",
@@ -4555,6 +4577,30 @@
    "url": "https://shotgun.live/en/events/death-of-an-idol-halloween-costume-party"
   },
   {
+   "id": "shotgun:night-of-mania",
+   "source": "shotgun",
+   "title": "Night Of Mania",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-10-29",
+   "start": "2026-10-30T00:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.35",
+   "genres": [
+    "indie rock",
+    "alternative",
+    "rock"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/night-of-mania"
+  },
+  {
    "id": "19hz:4447183-e11evenhalloween",
    "source": "19hz+edmtrain",
    "title": "E11even Halloween Week Ft Damaged Goods",
@@ -5239,6 +5285,30 @@
    "alt_urls": [
     "https://edmtrain.com/fort-lauderdale-fl/fort-lauderdale-halloween-542024"
    ]
+  },
+  {
+   "id": "shotgun:lunasol-pres-spookymoon",
+   "source": "shotgun",
+   "title": "Lunasol Pres. Spooky Moon",
+   "artists": [],
+   "venue": "Lunasol",
+   "venue_slug": null,
+   "date": "2026-10-30",
+   "start": "2026-10-31T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$57.00",
+   "genres": [
+    "house",
+    "deep house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/lunasol-pres-spookymoon"
   },
   {
    "id": "shotgun:sarah-tonin-presents-strange-creatures-w-los-refrescos-more",
@@ -11564,9 +11634,12 @@
   },
   {
    "id": "zeyzey:sg-lewis-02-dec",
-   "source": "venue",
+   "source": "edmtrain+venue",
    "title": "SG Lewis Presents Forever Days, Miami",
-   "artists": [],
+   "artists": [
+    "SG Lewis",
+    "TBA"
+   ],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-12-02",
@@ -11581,7 +11654,10 @@
    "organizer": "",
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/sg-lewis-02-dec",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/sg-lewis-tba-545267"
+   ]
   },
   {
    "id": "19hz:4450447-guygerber",

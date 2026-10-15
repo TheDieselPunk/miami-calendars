@@ -24,25 +24,22 @@ STATUS:CONFIRMED
 CATEGORIES:synthpop
 END:VEVENT
 BEGIN:VEVENT
-UID:dice-6a85fa446932660001a56c43@zeyzey.miami-calendars
-DTSTAMP:20261014T041826Z
-LAST-MODIFIED:20261014T041826Z
-SEQUENCE:7
+UID:tablelist-0333e4f6895f5ec6@zeyzey.miami-calendars
+DTSTAMP:20261015T221842Z
+LAST-MODIFIED:20261015T221842Z
+SEQUENCE:0
 DTSTART:20261015T200000Z
-DTEND:20261016T060000Z
-SUMMARY:Satellite: Chasewest B2B Discip\, Ragie Ban\, Dan Molinari & Stixx 
- + LAVACITY
-LOCATION:ZeyZey\, 353 Northeast 61st Street\, Miami\, Florida 33137\, Unite
- d States
+DTEND:20261016T020000Z
+SUMMARY:Satellite: Chasewest B2B Discip\, Ragie Ban\, Dan Molinari & Stixx
+LOCATION:ZeyZey Miami
 DESCRIPTION:Lineup: ChaseWest\, Discip\, Ragie Ban\, Dan Molinari\, Stixx\,
   Ale Acosta\, Violeta\, Kujo\, MEKANIK\, Hormiga\, miss purple shampoo\, T
- RIPPIE HIPPIE\nTags: tech house\nAges: 18+\nhttps://dice.fm/event/6dooo2-s
- atellite-chasewest-b2b-discip-ragie-ban-dan-molinari-stixx-15th-oct-zeyzey
- -miami-tickets\nhttps://buy.tablelist.com/e/0333e4f6895f5ec6\nhttps://cale
- ndar.zeyzeymiami.com/shows/satellite-chasewest-b2b-discip-ragie-ban-dan-mo
- linari-stixx-15-oct\nhttps://edmtrain.com/miami-fl/chasewest-discip-532846
-URL:https://dice.fm/event/6dooo2-satellite-chasewest-b2b-discip-ragie-ban-d
- an-molinari-stixx-15th-oct-zeyzey-miami-tickets
+ RIPPIE HIPPIE\nTags: tech house\nAges: 18+\nhttps://buy.tablelist.com/e/03
+ 33e4f6895f5ec6\nhttps://calendar.zeyzeymiami.com/shows/satellite-chasewest
+ -b2b-discip-ragie-ban-dan-molinari-stixx-15-oct\nhttps://dice.fm/event/6do
+ oo2-satellite-chasewest-b2b-discip-ragie-ban-dan-molinari-stixx-15th-oct-z
+ eyzey-miami-tickets\nhttps://edmtrain.com/miami-fl/chasewest-discip-532846
+URL:https://buy.tablelist.com/e/0333e4f6895f5ec6
 STATUS:CONFIRMED
 CATEGORIES:tech house
 END:VEVENT
@@ -730,14 +727,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-sg-lewis-02-dec@zeyzey.miami-calendars
-DTSTAMP:20261015T161821Z
-LAST-MODIFIED:20261015T161821Z
-SEQUENCE:0
+DTSTAMP:20261015T221842Z
+LAST-MODIFIED:20261015T221842Z
+SEQUENCE:1
 DTSTART:20261203T000000Z
 DTEND:20261203T060000Z
 SUMMARY:SG Lewis Presents Forever Days\, Miami
 LOCATION:ZeyZey Miami
-DESCRIPTION:https://calendar.zeyzeymiami.com/shows/sg-lewis-02-dec
+DESCRIPTION:Lineup: SG Lewis\, TBA\nhttps://calendar.zeyzeymiami.com/shows/
+ sg-lewis-02-dec\nhttps://edmtrain.com/miami-fl/sg-lewis-tba-545267
 URL:https://calendar.zeyzeymiami.com/shows/sg-lewis-02-dec
 STATUS:CONFIRMED
 END:VEVENT

@@ -279,11 +279,6 @@
   "seq": 3,
   "modified": "2026-10-13T04:18:23+00:00"
  },
- "dice-6a85fa446932660001a56c43@zeyzey.miami-calendars": {
-  "hash": "82b4d02ebbe7cc25",
-  "seq": 7,
-  "modified": "2026-10-14T04:18:26+00:00"
- },
  "dice-6a85fa6621cf7000019482af@zeyzey.miami-calendars": {
   "hash": "80b301cc91d05926",
   "seq": 5,
@@ -1231,18 +1226,18 @@
  },
  "madradiomiami101526@shotgun.live": {
   "hash": "d90990d3aa3265cc",
-  "seq": 111,
-  "modified": "2026-10-15T16:18:21+00:00"
+  "seq": 113,
+  "modified": "2026-10-15T22:18:42+00:00"
  },
  "madradiomiami101626@shotgun.live": {
   "hash": "58a12604e5af3392",
-  "seq": 80,
-  "modified": "2026-10-15T16:18:21+00:00"
+  "seq": 82,
+  "modified": "2026-10-15T22:18:42+00:00"
  },
  "madradiomiami101726@shotgun.live": {
   "hash": "f459f060a060733f",
-  "seq": 80,
-  "modified": "2026-10-15T16:18:21+00:00"
+  "seq": 82,
+  "modified": "2026-10-15T22:18:42+00:00"
  },
  "madradiomiami102126@shotgun.live": {
   "hash": "7682cc251e858a48",
@@ -1308,6 +1303,11 @@
   "hash": "8c53651b6045a374",
   "seq": 1,
   "modified": "2026-10-10T04:18:32+00:00"
+ },
+ "tablelist-0333e4f6895f5ec6@zeyzey.miami-calendars": {
+  "hash": "f90382f0b5327252",
+  "seq": 0,
+  "modified": "2026-10-15T22:18:42+00:00"
  },
  "tablelist-09696654a43f6624@zeyzey.miami-calendars": {
   "hash": "5938acf875179f00",
@@ -1540,9 +1540,9 @@
   "modified": "2026-09-21T20:01:40+00:00"
  },
  "zeyzey-sg-lewis-02-dec@zeyzey.miami-calendars": {
-  "hash": "8f199460dd67b1d8",
-  "seq": 0,
-  "modified": "2026-10-15T16:18:21+00:00"
+  "hash": "e403faba36f93292",
+  "seq": 1,
+  "modified": "2026-10-15T22:18:42+00:00"
  },
  "zeyzey-shintaro-sakamoto-06-dec@zeyzey.miami-calendars": {
   "hash": "ca1a70feb24b6cf6",
