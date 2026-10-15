@@ -2,7 +2,7 @@
  "events": [
   {
    "id": "tablelist:a93613d6361b626d",
-   "source": "19hz+edmtrain+tablelist+venue",
+   "source": "19hz+edmtrain+tablelist",
    "title": "Satellite: Neon Indian (DJ Set), Twin Shadow & Washed Out (DJ Set)",
    "artists": [
     "Neon Indian",
@@ -23,7 +23,6 @@
    "ages": "18+",
    "price": "$30+",
    "genres": [
-    "indie/alternative",
     "synthpop"
    ],
    "genres_inferred": false,
@@ -31,139 +30,38 @@
    "description": "",
    "url": "https://buy.tablelist.com/e/a93613d6361b626d",
    "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/satellite-neon-indian-dj-set-twin-shadow-washed-out-dj-set-14-oct",
     "https://dice.fm/event/ww999v-satellite-neon-indian-dj-set-twin-shadow-washed-out-dj-set-14th-oct-zeyzey-miami-tickets",
     "https://edmtrain.com/miami-fl/neon-indian-twin-shadow-532196"
    ]
   },
   {
-   "id": "shotgun:c3trlroom-11",
-   "source": "shotgun",
-   "title": "Ahyoka, Danidon, Mindgazm, Xonya",
-   "artists": [],
-   "venue": "AIRE Miami",
-   "venue_slug": null,
-   "date": "2026-10-14",
-   "start": "2026-10-15T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$20.00",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/c3trlroom-11"
-  },
-  {
-   "id": "shotgun:dirty-circuit-life-12",
-   "source": "shotgun",
-   "title": "Dirty Circuit Life #12",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-10-14",
-   "start": "2026-10-15T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [
-    "electro",
-    "minimal synth",
-    "ambient"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/dirty-circuit-life-12"
-  },
-  {
-   "id": "shotgun:open-mic-at-churchill-s-pub-17",
-   "source": "shotgun",
-   "title": "Open Mic : Every Wednesday",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-10-14",
-   "start": "2026-10-15T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [
-    "rock",
-    "post-punk",
-    "punk"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/open-mic-at-churchill-s-pub-17"
-  },
-  {
-   "id": "shotgun:madradiomiami101426",
-   "source": "edmtrain+shotgun",
-   "title": "III Points Satellite Party / Shyft Academy Showcase",
+   "id": "edmtrain:542614",
+   "source": "edmtrain",
+   "title": "III Points Satellite Party",
    "artists": [],
    "venue": "Mad Radio Miami",
    "venue_slug": "mad-radio",
    "date": "2026-10-14",
    "start": "2026-10-15T01:00:00+00:00",
    "end": "2026-10-15T07:00:00+00:00",
-   "time_estimated": false,
-   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "time_estimated": true,
+   "address": "7700 Biscayne Blvd, Miami, FL 33138, USA",
    "ages": "",
-   "price": "Free",
+   "price": "",
    "genres": [
     "deep house",
     "house"
    ],
    "genres_inferred": true,
-   "organizer": "Mad Radio Miami",
-   "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY 25+ YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
-   "url": "https://shotgun.live/en/events/madradiomiami101426",
-   "tickets": "RSVP Free",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.8462027,
-    "longitude": -80.1851332
-   },
-   "created": "2026-10-01T20:36:54.000Z",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/iii-points-satellite-party-542614"
-   ],
-   "also": [
-    "festivals"
-   ]
-  },
-  {
-   "id": "shotgun:melo-timeless-music-classics",
-   "source": "shotgun",
-   "title": "Melo: Timeless Music Classics",
-   "artists": [],
-   "venue": "The Sylvester",
-   "venue_slug": null,
-   "date": "2026-10-14",
-   "start": "2026-10-15T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [
-    "soul",
-    "latin",
-    "house"
-   ],
-   "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/melo-timeless-music-classics"
+   "url": "https://shotgun.live/events/madradiomiami101426?utm_source=edmtrain",
+   "also": [
+    "festivals"
+   ],
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/iii-points-satellite-party-542614"
+   ]
   },
   {
    "id": "edmtrain:544330",
@@ -268,7 +166,7 @@
    "time_estimated": false,
    "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
    "ages": "",
-   "price": "$17.03",
+   "price": "$22.70",
    "genres": [
     "hardcore",
     "metalcore"
@@ -277,7 +175,7 @@
    "organizer": "Equinox Booking",
    "description": "Equinox Booking Presents Azshara Companion of Fools Enemy To All Niobe $15 online / $20 at door 6 pm all ages",
    "url": "https://shotgun.live/en/events/aszhara-and-companion-of-fools-at-boombox-10-15",
-   "tickets": "General Admission $15",
+   "tickets": "General Admission $15 (sold out), Day of $20",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -8476,7 +8374,7 @@
   {
    "id": "shotgun:the-hall-pres-roy-rosenfeld",
    "source": "shotgun",
-   "title": "The Hall Pres. Roy Rosenfeld",
+   "title": "The Hall Club: Roy Rosenfeld",
    "artists": [],
    "venue": "Miami",
    "venue_slug": "festivals",
@@ -9869,6 +9767,29 @@
    "url": "https://ra.co/events/2528919"
   },
   {
+   "id": "shotgun:the-hall-360-differ-f-2-f-nico-moon-4",
+   "source": "shotgun",
+   "title": "The Hall Club: Deiv Schön",
+   "artists": [],
+   "venue": "Upside",
+   "venue_slug": null,
+   "date": "2026-11-20",
+   "start": "2026-11-21T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.69",
+   "genres": [
+    "house",
+    "indie dance"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/the-hall-360-differ-f-2-f-nico-moon-4"
+  },
+  {
    "id": "dice:6ab54b4737b4c00001654ff2",
    "source": "19hz+dice+edmtrain",
    "title": "Chris Lorenzo",
@@ -10831,6 +10752,30 @@
     "https://dice.fm/event/8e7g5w-space-92-27th-nov-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/space-92-538122"
    ]
+  },
+  {
+   "id": "shotgun:the-hall-360-differ-f-2-f-nico-moon-3",
+   "source": "shotgun",
+   "title": "The Hall Club: Giorgio Stefano",
+   "artists": [],
+   "venue": "Upside",
+   "venue_slug": null,
+   "date": "2026-11-27",
+   "start": "2026-11-28T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.69",
+   "genres": [
+    "house",
+    "indie dance",
+    "deep house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/the-hall-360-differ-f-2-f-nico-moon-3"
   },
   {
    "id": "dice:6ab17e0bf1fdd8000191620e",
@@ -13313,6 +13258,30 @@
    "generic_title": true
   },
   {
+   "id": "shotgun:the-hall-360-differ-f-2-f-nico-moon-5",
+   "source": "shotgun",
+   "title": "The Hall Club: Victoria Whynot",
+   "artists": [],
+   "venue": "Upside",
+   "venue_slug": null,
+   "date": "2026-12-11",
+   "start": "2026-12-12T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.69",
+   "genres": [
+    "house",
+    "deep house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/the-hall-360-differ-f-2-f-nico-moon-5"
+  },
+  {
    "id": "hardrock:207851",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -13798,6 +13767,30 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/kloud-535570"
    ]
+  },
+  {
+   "id": "shotgun:the-hall-360-differ-f-2-f-nico-moon-6",
+   "source": "shotgun",
+   "title": "The Hall Club: Beico",
+   "artists": [],
+   "venue": "Upside",
+   "venue_slug": null,
+   "date": "2026-12-18",
+   "start": "2026-12-19T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.69",
+   "genres": [
+    "indie dance",
+    "melodic house & techno",
+    "techno"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/the-hall-360-differ-f-2-f-nico-moon-6"
   },
   {
    "id": "hardrock:207853",

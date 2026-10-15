@@ -9,9 +9,9 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:aszhara-and-companion-of-fools-at-boombox-10-15@shotgun.live
-DTSTAMP:20260921T191357Z
-LAST-MODIFIED:20260921T191357Z
-SEQUENCE:0
+DTSTAMP:20261015T101822Z
+LAST-MODIFIED:20261015T101822Z
+SEQUENCE:1
 DTSTART:20261015T220000Z
 DTEND:20261016T030000Z
 SUMMARY:Azshara And Companion Of Fools At Boombox 10/15
@@ -19,8 +19,9 @@ LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
  \, USA
 DESCRIPTION:Equinox Booking Presents Azshara Companion of Fools Enemy To Al
  l Niobe $15 online / $20 at door 6 pm all ages\nTags: hardcore\, metalcore
- \nPresented by: Equinox Booking\nTickets: General Admission $15\nhttps://s
- hotgun.live/en/events/aszhara-and-companion-of-fools-at-boombox-10-15
+ \nPresented by: Equinox Booking\nTickets: General Admission $15 (sold out)
+ \, Day of $20\nhttps://shotgun.live/en/events/aszhara-and-companion-of-foo
+ ls-at-boombox-10-15
 URL:https://shotgun.live/en/events/aszhara-and-companion-of-fools-at-boombo
  x-10-15
 STATUS:CONFIRMED

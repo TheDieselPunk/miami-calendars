@@ -120,9 +120,9 @@
   "modified": "2026-09-30T04:18:26+00:00"
  },
  "aszhara-and-companion-of-fools-at-boombox-10-15@shotgun.live": {
-  "hash": "9b57774c08beec6b",
-  "seq": 0,
-  "modified": "2026-09-21T19:13:57+00:00"
+  "hash": "1b6dc803e6dbb2b7",
+  "seq": 1,
+  "modified": "2026-10-15T10:18:22+00:00"
  },
  "beiruttomiami1@shotgun.live": {
   "hash": "08a0c5059144b015",
@@ -899,6 +899,16 @@
   "seq": 0,
   "modified": "2026-10-06T04:18:39+00:00"
  },
+ "edmtrain-542614@festivals.miami-calendars": {
+  "hash": "0c8718b525165730",
+  "seq": 0,
+  "modified": "2026-10-15T10:18:22+00:00"
+ },
+ "edmtrain-542614@mad-radio.miami-calendars": {
+  "hash": "bfff693471997d08",
+  "seq": 0,
+  "modified": "2026-10-15T10:18:22+00:00"
+ },
  "edmtrain-543166@midline.miami-calendars": {
   "hash": "407290ce5863d462",
   "seq": 0,
@@ -1229,25 +1239,20 @@
   "seq": 1,
   "modified": "2026-10-10T16:18:14+00:00"
  },
- "madradiomiami101426@shotgun.live": {
-  "hash": "e39ed81b6a1686bf",
-  "seq": 107,
-  "modified": "2026-10-15T04:18:28+00:00"
- },
  "madradiomiami101526@shotgun.live": {
   "hash": "d90990d3aa3265cc",
-  "seq": 107,
-  "modified": "2026-10-15T04:18:28+00:00"
+  "seq": 109,
+  "modified": "2026-10-15T10:18:22+00:00"
  },
  "madradiomiami101626@shotgun.live": {
   "hash": "58a12604e5af3392",
-  "seq": 76,
-  "modified": "2026-10-15T04:18:28+00:00"
+  "seq": 78,
+  "modified": "2026-10-15T10:18:22+00:00"
  },
  "madradiomiami101726@shotgun.live": {
   "hash": "f459f060a060733f",
-  "seq": 76,
-  "modified": "2026-10-15T04:18:28+00:00"
+  "seq": 78,
+  "modified": "2026-10-15T10:18:22+00:00"
  },
  "madradiomiami102126@shotgun.live": {
   "hash": "7682cc251e858a48",
@@ -1335,9 +1340,9 @@
   "modified": "2026-10-01T04:18:24+00:00"
  },
  "tablelist-a93613d6361b626d@zeyzey.miami-calendars": {
-  "hash": "95b96f39ff085b6e",
-  "seq": 0,
-  "modified": "2026-10-15T04:18:28+00:00"
+  "hash": "ab3647ff5225dcc6",
+  "seq": 1,
+  "modified": "2026-10-15T10:18:22+00:00"
  },
  "tablelist-abc873e7b3df0c6a@zeyzey.miami-calendars": {
   "hash": "eddf308abae7d730",
@@ -1385,9 +1390,9 @@
   "modified": "2026-10-03T10:18:36+00:00"
  },
  "the-hall-pres-roy-rosenfeld@shotgun.live": {
-  "hash": "2ce1fd939df891bf",
-  "seq": 0,
-  "modified": "2026-09-28T22:18:05+00:00"
+  "hash": "98587408c4e5bf19",
+  "seq": 1,
+  "modified": "2026-10-15T10:18:22+00:00"
  },
  "year-of-the-knife-at-boombox-10-25@shotgun.live": {
   "hash": "1ffd50c866e339ea",

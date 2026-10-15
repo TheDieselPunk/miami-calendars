@@ -8,33 +8,27 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:madradiomiami101426@shotgun.live
-DTSTAMP:20261015T041828Z
-LAST-MODIFIED:20261015T041828Z
-SEQUENCE:107
+UID:edmtrain-542614@festivals.miami-calendars
+DTSTAMP:20261015T101822Z
+LAST-MODIFIED:20261015T101822Z
+SEQUENCE:0
 DTSTART:20261015T010000Z
 DTEND:20261015T070000Z
-SUMMARY:III Points Satellite Party / Shyft Academy Showcase
-LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
-DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
- ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
-  our slick radio show serving up the latest tracks. Save the date and cath
-  the urban-chic experience at Mad Radio Miami. See you on the dance floor!
-  Come early\, stay late\, and let the night unfold FREE ENTRY 25+ YEARS OL
- D HAPPY HOUR 5 PM - 9 PM"\nTags (guess): deep house\, house\nPresented by:
-  Mad Radio Miami\nTickets: RSVP Free\nhttps://shotgun.live/en/events/madra
- diomiami101426\nhttps://edmtrain.com/miami-fl/iii-points-satellite-party-5
- 42614
-URL:https://shotgun.live/en/events/madradiomiami101426
+SUMMARY:III Points Satellite Party
+LOCATION:Mad Radio Miami\, 7700 Biscayne Blvd\, Miami\, FL 33138\, USA
+DESCRIPTION:Tags (guess): deep house\, house\nTimes are an estimate from Fe
+ stivals & one-offs's usual hours - the listing has no start time yet. Chec
+ k the link.\nhttps://shotgun.live/events/madradiomiami101426?utm_source=ed
+ mtrain\nhttps://edmtrain.com/miami-fl/iii-points-satellite-party-542614
+URL:https://shotgun.live/events/madradiomiami101426?utm_source=edmtrain
 STATUS:CONFIRMED
 CATEGORIES:deep house,house
-GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101526@shotgun.live
-DTSTAMP:20261015T041828Z
-LAST-MODIFIED:20261015T041828Z
-SEQUENCE:107
+DTSTAMP:20261015T101822Z
+LAST-MODIFIED:20261015T101822Z
+SEQUENCE:109
 DTSTART:20261016T010000Z
 DTEND:20261016T070000Z
 SUMMARY:III Points Satellite Party: Tian & Ennio Skoto
@@ -104,9 +98,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101626@shotgun.live
-DTSTAMP:20261015T041828Z
-LAST-MODIFIED:20261015T041828Z
-SEQUENCE:76
+DTSTAMP:20261015T101822Z
+LAST-MODIFIED:20261015T101822Z
+SEQUENCE:78
 DTSTART:20261017T010000Z
 DTEND:20261017T070000Z
 SUMMARY:III Points Satellite Party: Kenny Jones / Leo Del Toro
@@ -172,9 +166,9 @@ CATEGORIES:rock,alternative,house
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101726@shotgun.live
-DTSTAMP:20261015T041828Z
-LAST-MODIFIED:20261015T041828Z
-SEQUENCE:76
+DTSTAMP:20261015T101822Z
+LAST-MODIFIED:20261015T101822Z
+SEQUENCE:78
 DTSTART:20261018T010000Z
 DTEND:20261018T070000Z
 SUMMARY:III Points Satellite Party: Israel Sunshine / Tomas Saenz
@@ -368,12 +362,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:the-hall-pres-roy-rosenfeld@shotgun.live
-DTSTAMP:20260928T221805Z
-LAST-MODIFIED:20260928T221805Z
-SEQUENCE:0
+DTSTAMP:20261015T101822Z
+LAST-MODIFIED:20261015T101822Z
+SEQUENCE:1
 DTSTART:20261114T030000Z
 DTEND:20261114T080000Z
-SUMMARY:The Hall Pres. Roy Rosenfeld
+SUMMARY:The Hall Club: Roy Rosenfeld
 LOCATION:Miami
 DESCRIPTION:Tags: house\, melodic house & techno\, indie dance\nhttps://sho
  tgun.live/en/events/the-hall-pres-roy-rosenfeld

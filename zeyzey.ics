@@ -9,23 +9,21 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:tablelist-a93613d6361b626d@zeyzey.miami-calendars
-DTSTAMP:20261015T041828Z
-LAST-MODIFIED:20261015T041828Z
-SEQUENCE:0
+DTSTAMP:20261015T101822Z
+LAST-MODIFIED:20261015T101822Z
+SEQUENCE:1
 DTSTART:20261014T230000Z
 DTEND:20261015T040000Z
 SUMMARY:Satellite: Neon Indian (DJ Set)\, Twin Shadow & Washed Out (DJ Set)
 LOCATION:ZeyZey Miami
 DESCRIPTION:Lineup: Neon Indian\, Twin Shadow\, Washed Out\, LØLØ\, Allni
- ghtkev\, Lousy Lover\, MeGusta\nTags: indie/alternative\, synthpop\nAges: 
- 18+\nhttps://buy.tablelist.com/e/a93613d6361b626d\nhttps://calendar.zeyzey
- miami.com/shows/satellite-neon-indian-dj-set-twin-shadow-washed-out-dj-set
- -14-oct\nhttps://dice.fm/event/ww999v-satellite-neon-indian-dj-set-twin-sh
- adow-washed-out-dj-set-14th-oct-zeyzey-miami-tickets\nhttps://edmtrain.com
- /miami-fl/neon-indian-twin-shadow-532196
+ ghtkev\, Lousy Lover\, MeGusta\nTags: synthpop\nAges: 18+\nhttps://buy.tab
+ lelist.com/e/a93613d6361b626d\nhttps://dice.fm/event/ww999v-satellite-neon
+ -indian-dj-set-twin-shadow-washed-out-dj-set-14th-oct-zeyzey-miami-tickets
+ \nhttps://edmtrain.com/miami-fl/neon-indian-twin-shadow-532196
 URL:https://buy.tablelist.com/e/a93613d6361b626d
 STATUS:CONFIRMED
-CATEGORIES:indie/alternative,synthpop
+CATEGORIES:synthpop
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a85fa446932660001a56c43@zeyzey.miami-calendars
