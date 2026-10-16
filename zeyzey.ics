@@ -9,9 +9,9 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:tablelist-0333e4f6895f5ec6@zeyzey.miami-calendars
-DTSTAMP:20261015T221842Z
-LAST-MODIFIED:20261015T221842Z
-SEQUENCE:0
+DTSTAMP:20261016T101817Z
+LAST-MODIFIED:20261016T101817Z
+SEQUENCE:1
 DTSTART:20261015T200000Z
 DTEND:20261016T020000Z
 SUMMARY:Satellite: Chasewest B2B Discip\, Ragie Ban\, Dan Molinari & Stixx
@@ -19,10 +19,9 @@ LOCATION:ZeyZey Miami
 DESCRIPTION:Lineup: ChaseWest\, Discip\, Ragie Ban\, Dan Molinari\, Stixx\,
   Ale Acosta\, Violeta\, Kujo\, MEKANIK\, Hormiga\, miss purple shampoo\, T
  RIPPIE HIPPIE\nTags: tech house\nAges: 18+\nhttps://buy.tablelist.com/e/03
- 33e4f6895f5ec6\nhttps://calendar.zeyzeymiami.com/shows/satellite-chasewest
- -b2b-discip-ragie-ban-dan-molinari-stixx-15-oct\nhttps://dice.fm/event/6do
- oo2-satellite-chasewest-b2b-discip-ragie-ban-dan-molinari-stixx-15th-oct-z
- eyzey-miami-tickets\nhttps://edmtrain.com/miami-fl/chasewest-discip-532846
+ 33e4f6895f5ec6\nhttps://dice.fm/event/6dooo2-satellite-chasewest-b2b-disci
+ p-ragie-ban-dan-molinari-stixx-15th-oct-zeyzey-miami-tickets\nhttps://edmt
+ rain.com/miami-fl/chasewest-discip-532846
 URL:https://buy.tablelist.com/e/0333e4f6895f5ec6
 STATUS:CONFIRMED
 CATEGORIES:tech house

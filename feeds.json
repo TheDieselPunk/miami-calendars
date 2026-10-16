@@ -117,7 +117,7 @@
   "name": "Mad Radio Miami",
   "file": "mad-radio.ics",
   "events": 11,
-  "estimated_times": 0,
+  "estimated_times": 1,
   "next": "2026-10-15",
   "sources": [
    "edmtrain",
@@ -172,7 +172,7 @@
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
   "events": 45,
-  "estimated_times": 24,
+  "estimated_times": 25,
   "next": "2026-10-15",
   "sources": [
    "19hz",

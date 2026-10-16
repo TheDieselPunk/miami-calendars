@@ -8,15 +8,14 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a822809b96d4a0001d646bb@jolene.miami-calendars
-DTSTAMP:20260922T004154Z
-LAST-MODIFIED:20260922T004154Z
-SEQUENCE:2
+UID:19hz-4445848-shanticelesteb2b@jolene.miami-calendars
+DTSTAMP:20261016T101817Z
+LAST-MODIFIED:20261016T101817Z
+SEQUENCE:0
 DTSTART:20261016T020000Z
 DTEND:20261016T080000Z
-SUMMARY:Satellite: Shanti Celeste b2b Peach
-LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
- a 33131\, United States
+SUMMARY:Shanti Celeste b2b Peach\, Sister System b2b Gio Elia
+LOCATION:Jolene Downtown
 DESCRIPTION:Lineup: Shanti Celeste\, Sister System\, Gio Elia\nTags: deep h
  ouse\, tech house\, techno\nAges: 21+\nhttps://dice.fm/event/k65y9l-satell
  ite-shanti-celeste-b2b-peach-15th-oct-jolene-sound-room-miami-miami-ticket

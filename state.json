@@ -4,6 +4,11 @@
   "seq": 0,
   "modified": "2026-10-16T04:18:17+00:00"
  },
+ "19hz-4445848-shanticelesteb2b@jolene.miami-calendars": {
+  "hash": "3c1a5b66b60a937a",
+  "seq": 0,
+  "modified": "2026-10-16T10:18:17+00:00"
+ },
  "19hz-4445851-flyinglotusdjset@the-ground.miami-calendars": {
   "hash": "f270b42ab0448889",
   "seq": 0,
@@ -223,11 +228,6 @@
   "hash": "97c65e1555427f3d",
   "seq": 0,
   "modified": "2026-10-04T22:18:19+00:00"
- },
- "dice-6a822809b96d4a0001d646bb@jolene.miami-calendars": {
-  "hash": "209ea8226b8af399",
-  "seq": 2,
-  "modified": "2026-09-22T00:41:54+00:00"
  },
  "dice-6a823197b96d4a000112d8fb@jolene.miami-calendars": {
   "hash": "5f66b253e8e435ae",
@@ -889,6 +889,16 @@
   "seq": 0,
   "modified": "2026-10-06T04:18:39+00:00"
  },
+ "edmtrain-542615@festivals.miami-calendars": {
+  "hash": "e5e8b79e43d800ec",
+  "seq": 0,
+  "modified": "2026-10-16T10:18:17+00:00"
+ },
+ "edmtrain-542615@mad-radio.miami-calendars": {
+  "hash": "4bf3a7e2e60962b1",
+  "seq": 0,
+  "modified": "2026-10-16T10:18:17+00:00"
+ },
  "edmtrain-543166@midline.miami-calendars": {
   "hash": "407290ce5863d462",
   "seq": 0,
@@ -1219,20 +1229,15 @@
   "seq": 1,
   "modified": "2026-10-10T16:18:14+00:00"
  },
- "madradiomiami101526@shotgun.live": {
-  "hash": "d90990d3aa3265cc",
-  "seq": 115,
-  "modified": "2026-10-16T04:18:17+00:00"
- },
  "madradiomiami101626@shotgun.live": {
   "hash": "58a12604e5af3392",
-  "seq": 84,
-  "modified": "2026-10-16T04:18:17+00:00"
+  "seq": 86,
+  "modified": "2026-10-16T10:18:17+00:00"
  },
  "madradiomiami101726@shotgun.live": {
   "hash": "f459f060a060733f",
-  "seq": 84,
-  "modified": "2026-10-16T04:18:17+00:00"
+  "seq": 86,
+  "modified": "2026-10-16T10:18:17+00:00"
  },
  "madradiomiami102126@shotgun.live": {
   "hash": "7682cc251e858a48",
@@ -1300,9 +1305,9 @@
   "modified": "2026-10-10T04:18:32+00:00"
  },
  "tablelist-0333e4f6895f5ec6@zeyzey.miami-calendars": {
-  "hash": "f90382f0b5327252",
-  "seq": 0,
-  "modified": "2026-10-15T22:18:42+00:00"
+  "hash": "29c729a963bdd122",
+  "seq": 1,
+  "modified": "2026-10-16T10:18:17+00:00"
  },
  "tablelist-09696654a43f6624@zeyzey.miami-calendars": {
   "hash": "5938acf875179f00",

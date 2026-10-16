@@ -2,7 +2,7 @@
  "events": [
   {
    "id": "tablelist:0333e4f6895f5ec6",
-   "source": "19hz+edmtrain+tablelist+venue",
+   "source": "19hz+edmtrain+tablelist",
    "title": "Satellite: Chasewest B2B Discip, Ragie Ban, Dan Molinari & Stixx",
    "artists": [
     "ChaseWest",
@@ -35,15 +35,14 @@
    "description": "",
    "url": "https://buy.tablelist.com/e/0333e4f6895f5ec6",
    "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/satellite-chasewest-b2b-discip-ragie-ban-dan-molinari-stixx-15-oct",
     "https://dice.fm/event/6dooo2-satellite-chasewest-b2b-discip-ragie-ban-dan-molinari-stixx-15th-oct-zeyzey-miami-tickets",
     "https://edmtrain.com/miami-fl/chasewest-discip-532846"
    ]
   },
   {
-   "id": "shotgun:ag-x-rumble-present-taiki-nulight-sir-spyro",
-   "source": "19hz+edmtrain+shotgun",
-   "title": "Ag X Rumble Present: Taiki Nulight + Sir Spyro",
+   "id": "19hz:4445844-taikinulightsirs",
+   "source": "19hz+edmtrain",
+   "title": "Taiki Nulight + Sir Spyro",
    "artists": [
     "Taiki Nulight",
     "Sir Spyro",
@@ -63,45 +62,15 @@
    "genres": [
     "bass house",
     "breaks",
-    "drum & bass",
     "drum and bass",
-    "dubstep",
-    "grime"
+    "dubstep"
    ],
    "genres_inferred": false,
-   "organizer": "",
+   "organizer": "American Grime X Rumble",
    "description": "",
    "url": "https://shotgun.live/en/events/ag-x-rumble-present-taiki-nulight-sir-spyro",
    "alt_urls": [
-    "https://shotgun.live/en/events/ag-x-rumble-present-taiki-nulight-sir-spyro",
     "https://edmtrain.com/miami-fl/ag-x-rumble-present-taiki-nulight-531486"
-   ]
-  },
-  {
-   "id": "shotgun:c3trlroom-12",
-   "source": "edmtrain+shotgun",
-   "title": "We Rise: Adi-J, Dmeyer, Bagdelan, Lerso, Møri",
-   "artists": [
-    "ADI-J",
-    "Dmeyer",
-    "'bagdelan'"
-   ],
-   "venue": "AIRE Miami",
-   "venue_slug": null,
-   "date": "2026-10-15",
-   "start": "2026-10-16T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$20.00",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/c3trlroom-12",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/adi-j-dmeyer-544646"
    ]
   },
   {
@@ -125,40 +94,32 @@
    "url": "https://dice.fm/partner/tickets/event/avkb92-iii-points-satellite-black-brigade-greybody-egyption-helicopter-java-plum-15th-oct-las-rosas-miami-tickets"
   },
   {
-   "id": "shotgun:madradiomiami101526",
-   "source": "edmtrain+shotgun",
-   "title": "III Points Satellite Party: Tian & Ennio Skoto",
+   "id": "edmtrain:542615",
+   "source": "edmtrain",
+   "title": "III Points Satellite Party",
    "artists": [],
    "venue": "Mad Radio Miami",
    "venue_slug": "mad-radio",
    "date": "2026-10-15",
    "start": "2026-10-16T01:00:00+00:00",
    "end": "2026-10-16T07:00:00+00:00",
-   "time_estimated": false,
-   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "time_estimated": true,
+   "address": "7700 Biscayne Blvd, Miami, FL 33138, USA",
    "ages": "",
-   "price": "Free",
+   "price": "",
    "genres": [
     "deep house",
     "house"
    ],
    "genres_inferred": true,
-   "organizer": "Mad Radio Miami",
-   "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
-   "url": "https://shotgun.live/en/events/madradiomiami101526",
-   "tickets": "RSVP Free",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.8462027,
-    "longitude": -80.1851332
-   },
-   "created": "2026-10-01T20:39:28.000Z",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/iii-points-satellite-party-542615"
-   ],
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/madradiomiami101526?utm_source=edmtrain",
    "also": [
     "festivals"
+   ],
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/iii-points-satellite-party-542615"
    ]
   },
   {
@@ -189,77 +150,6 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/mike-nervous-mandiz-542415"
    ]
-  },
-  {
-   "id": "shotgun:rat-bastard-s-stumble-and-fall-with-autopilot-and-spill",
-   "source": "shotgun",
-   "title": "Rat Bastard's Stumble And Fall With Autopilot And Spill",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-10-15",
-   "start": "2026-10-16T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$6.00",
-   "genres": [
-    "alternative",
-    "rock",
-    "indie"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/rat-bastard-s-stumble-and-fall-with-autopilot-and-spill"
-  },
-  {
-   "id": "shotgun:vocal-jukebox-every-thursday-13",
-   "source": "shotgun",
-   "title": "Vocal Jukebox : Every Thursday",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-10-15",
-   "start": "2026-10-16T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [
-    "rock",
-    "punk",
-    "post-punk"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/vocal-jukebox-every-thursday-13"
-  },
-  {
-   "id": "shotgun:b2b-label-showcase",
-   "source": "shotgun",
-   "title": "B2b Label Showcase",
-   "artists": [],
-   "venue": "EDGE MIAMI",
-   "venue_slug": null,
-   "date": "2026-10-15",
-   "start": "2026-10-16T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$20.00",
-   "genres": [
-    "tech house",
-    "house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/b2b-label-showcase"
   },
   {
    "id": "19hz:4445848-b2brecordslabels",
@@ -320,21 +210,21 @@
    ]
   },
   {
-   "id": "dice:6a822809b96d4a0001d646bb",
-   "source": "19hz+dice+edmtrain",
-   "title": "Satellite: Shanti Celeste b2b Peach",
+   "id": "19hz:4445848-shanticelesteb2b",
+   "source": "19hz+edmtrain",
+   "title": "Shanti Celeste b2b Peach, Sister System b2b Gio Elia",
    "artists": [
     "Shanti Celeste",
     "Sister System",
     "Gio Elia"
    ],
-   "venue": "Jolene Sound Room Miami",
+   "venue": "Jolene Downtown",
    "venue_slug": "jolene",
    "date": "2026-10-15",
    "start": "2026-10-16T02:00:00+00:00",
    "end": "2026-10-16T08:00:00+00:00",
    "time_estimated": false,
-   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "address": "",
    "ages": "21+",
    "price": "",
    "genres": [
@@ -346,9 +236,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/k65y9l-satellite-shanti-celeste-b2b-peach-15th-oct-jolene-sound-room-miami-miami-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/k65y9l-satellite-shanti-celeste-b2b-peach-15th-oct-jolene-sound-room-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/shanti-celeste-sister-system-529556"
    ]
   },
@@ -377,26 +265,6 @@
    "cancelled": false
   },
   {
-   "id": "shotgun:superqueen-36",
-   "source": "shotgun",
-   "title": "Superqueen: Tim Burton (18+)",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-10-15",
-   "start": "2026-10-16T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$10.00",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/superqueen-36"
-  },
-  {
    "id": "dice:6a8722d277479c00018e6330",
    "source": "19hz+dice+edmtrain",
    "title": "Satellite: Cloonee, Miluhska, Omar+ & Vintage Culture",
@@ -414,7 +282,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $60",
+   "price": "$50+",
    "genres": [
     "tech house"
    ],
@@ -462,6 +330,33 @@
    "url": "https://dice.fm/event/dkdpev-satellite-flying-lotus-actress-ivy-lab-more-15th-oct-the-ground-miami-miami-tickets",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/flying-lotus-actress-529660"
+   ]
+  },
+  {
+   "id": "edmtrain:544646",
+   "source": "edmtrain",
+   "title": "ADI-J, Dmeyer, 'bagdelan'",
+   "artists": [
+    "ADI-J",
+    "Dmeyer",
+    "'bagdelan'"
+   ],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-10-15",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "111 NE 20th St, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/c3trlroom-12?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/adi-j-dmeyer-544646"
    ]
   },
   {
@@ -11529,7 +11424,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $20",
+   "price": "From $25",
    "genres": [
     "tech house",
     "techno"
