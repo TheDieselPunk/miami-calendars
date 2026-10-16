@@ -2,22 +2,9 @@
  "events": [
   {
    "id": "tablelist:0333e4f6895f5ec6",
-   "source": "19hz+edmtrain+tablelist",
+   "source": "19hz+tablelist",
    "title": "Satellite: Chasewest B2B Discip, Ragie Ban, Dan Molinari & Stixx",
-   "artists": [
-    "ChaseWest",
-    "Discip",
-    "Ragie Ban",
-    "Dan Molinari",
-    "Stixx",
-    "Ale Acosta",
-    "Violeta",
-    "Kujo",
-    "MEKANIK",
-    "Hormiga",
-    "miss purple shampoo",
-    "TRIPPIE HIPPIE"
-   ],
+   "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-10-15",
@@ -35,21 +22,14 @@
    "description": "",
    "url": "https://buy.tablelist.com/e/0333e4f6895f5ec6",
    "alt_urls": [
-    "https://dice.fm/event/6dooo2-satellite-chasewest-b2b-discip-ragie-ban-dan-molinari-stixx-15th-oct-zeyzey-miami-tickets",
-    "https://edmtrain.com/miami-fl/chasewest-discip-532846"
+    "https://dice.fm/event/6dooo2-satellite-chasewest-b2b-discip-ragie-ban-dan-molinari-stixx-15th-oct-zeyzey-miami-tickets"
    ]
   },
   {
    "id": "19hz:4445844-taikinulightsirs",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Taiki Nulight + Sir Spyro",
-   "artists": [
-    "Taiki Nulight",
-    "Sir Spyro",
-    "American Grime",
-    "Rumble in the Jungle",
-    "thatsrocky"
-   ],
+   "artists": [],
    "venue": "1-800-Lucky",
    "venue_slug": null,
    "date": "2026-10-15",
@@ -68,10 +48,7 @@
    "genres_inferred": false,
    "organizer": "American Grime X Rumble",
    "description": "",
-   "url": "https://shotgun.live/en/events/ag-x-rumble-present-taiki-nulight-sir-spyro",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/ag-x-rumble-present-taiki-nulight-531486"
-   ]
+   "url": "https://shotgun.live/en/events/ag-x-rumble-present-taiki-nulight-sir-spyro"
   },
   {
    "id": "19hz:4445844-blackbrigadegrey",
@@ -94,43 +71,10 @@
    "url": "https://dice.fm/partner/tickets/event/avkb92-iii-points-satellite-black-brigade-greybody-egyption-helicopter-java-plum-15th-oct-las-rosas-miami-tickets"
   },
   {
-   "id": "edmtrain:542615",
-   "source": "edmtrain",
-   "title": "III Points Satellite Party",
-   "artists": [],
-   "venue": "Mad Radio Miami",
-   "venue_slug": "mad-radio",
-   "date": "2026-10-15",
-   "start": "2026-10-16T01:00:00+00:00",
-   "end": "2026-10-16T07:00:00+00:00",
-   "time_estimated": true,
-   "address": "7700 Biscayne Blvd, Miami, FL 33138, USA",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "deep house",
-    "house"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/madradiomiami101526?utm_source=edmtrain",
-   "also": [
-    "festivals"
-   ],
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/iii-points-satellite-party-542615"
-   ]
-  },
-  {
    "id": "19hz:4445844-nervousxnegronid",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Nervous X Negroni DJ Showcase: Mike Nervous b2b Mandiz, Nathalia Palacio, Brooklyn Mike, Aquaa, Andrea Velazquez",
-   "artists": [
-    "Mike Nervous",
-    "Mandiz",
-    "Brooklyn Mike"
-   ],
+   "artists": [],
    "venue": "Negroni Bistro & Sushi Bar",
    "venue_slug": null,
    "date": "2026-10-15",
@@ -146,18 +90,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://ra.co/events/2545173",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/mike-nervous-mandiz-542415"
-   ]
+   "url": "https://ra.co/events/2545173"
   },
   {
    "id": "19hz:4445848-b2brecordslabels",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "B2B Records Label Showcase",
-   "artists": [
-    "TBA"
-   ],
+   "artists": [],
    "venue": "Edge",
    "venue_slug": null,
    "date": "2026-10-15",
@@ -174,21 +113,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://speakeasygo.com/event/EVE-TK8IS1",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/b2b-records-label-showcase-tba-537451"
-   ]
+   "url": "https://speakeasygo.com/event/EVE-TK8IS1"
   },
   {
    "id": "19hz:4445848-moscomanredaxesw",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Moscoman, Red Axes, & Whitesquare",
-   "artists": [
-    "Moscoman",
-    "Red Axes",
-    "Whitesquare",
-    "Eveava"
-   ],
+   "artists": [],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
    "date": "2026-10-15",
@@ -204,20 +135,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/mxn9kw-satellite-moscoman-red-axes-whitesquare-15th-oct-floyd-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/moscoman-red-axes-529530"
-   ]
+   "url": "https://dice.fm/event/mxn9kw-satellite-moscoman-red-axes-whitesquare-15th-oct-floyd-miami-miami-tickets"
   },
   {
    "id": "19hz:4445848-shanticelesteb2b",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Shanti Celeste b2b Peach, Sister System b2b Gio Elia",
-   "artists": [
-    "Shanti Celeste",
-    "Sister System",
-    "Gio Elia"
-   ],
+   "artists": [],
    "venue": "Jolene Downtown",
    "venue_slug": "jolene",
    "date": "2026-10-15",
@@ -235,52 +159,20 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/k65y9l-satellite-shanti-celeste-b2b-peach-15th-oct-jolene-sound-room-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/shanti-celeste-sister-system-529556"
-   ]
+   "url": "https://dice.fm/event/k65y9l-satellite-shanti-celeste-b2b-peach-15th-oct-jolene-sound-room-miami-miami-tickets"
   },
   {
-   "id": "dice:6acc8ca362785d00011bfc7a",
-   "source": "dice",
-   "title": "THE PLAYBOY PARTY",
+   "id": "19hz:4445851-clooneemiluhskao",
+   "source": "19hz",
+   "title": "Cloonee, Miluhska, Omar+, Vintage Culture",
    "artists": [],
-   "venue": "Kemistry",
-   "venue_slug": "kemistry",
-   "date": "2026-10-15",
-   "start": "2026-10-16T02:00:00+00:00",
-   "end": "2026-10-16T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
-   "ages": "",
-   "price": " (sold out)",
-   "genres": [
-    "bass",
-    "dubstep"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6acc8ca362785d00011bfc7a",
-   "cancelled": false
-  },
-  {
-   "id": "dice:6a8722d277479c00018e6330",
-   "source": "19hz+dice+edmtrain",
-   "title": "Satellite: Cloonee, Miluhska, Omar+ & Vintage Culture",
-   "artists": [
-    "Cloonee",
-    "Vintage Culture",
-    "Omar+",
-    "Miluhska"
-   ],
-   "venue": "Club Space Miami",
+   "venue": "Club Space",
    "venue_slug": "club-space",
    "date": "2026-10-15",
    "start": "2026-10-16T03:00:00+00:00",
    "end": "2026-10-16T18:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
    "price": "$50+",
    "genres": [
@@ -289,24 +181,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/pywnk8-satellite-cloonee-miluhska-omar-vintage-culture-15th-oct-club-space-miami-miami-tickets",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/event/pywnk8-satellite-cloonee-miluhska-omar-vintage-culture-15th-oct-club-space-miami-miami-tickets",
-    "https://edmtrain.com/miami-fl/cloonee-vintage-culture-531431"
-   ]
+   "url": "https://dice.fm/event/pywnk8-satellite-cloonee-miluhska-omar-vintage-culture-15th-oct-club-space-miami-miami-tickets"
   },
   {
    "id": "19hz:4445851-flyinglotusdjset",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Flying Lotus (DJ Set), Actress, Ivy Lab",
-   "artists": [
-    "Flying Lotus",
-    "Actress",
-    "Ivy Lab",
-    "Loukeman",
-    "Suzi Analogue"
-   ],
+   "artists": [],
    "venue": "The Ground",
    "venue_slug": "the-ground",
    "date": "2026-10-15",
@@ -327,88 +208,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/dkdpev-satellite-flying-lotus-actress-ivy-lab-more-15th-oct-the-ground-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/flying-lotus-actress-529660"
-   ]
-  },
-  {
-   "id": "edmtrain:544646",
-   "source": "edmtrain",
-   "title": "ADI-J, Dmeyer, 'bagdelan'",
-   "artists": [
-    "ADI-J",
-    "Dmeyer",
-    "'bagdelan'"
-   ],
-   "venue": "AIRE Miami",
-   "venue_slug": null,
-   "date": "2026-10-15",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "111 NE 20th St, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/c3trlroom-12?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/adi-j-dmeyer-544646"
-   ]
-  },
-  {
-   "id": "edmtrain:543066",
-   "source": "edmtrain",
-   "title": "Secret Thursdays: Kike Roldan, George Vidal",
-   "artists": [
-    "Kike Roldan",
-    "George Vidal"
-   ],
-   "venue": "Do Not Sit On The Furniture",
-   "venue_slug": null,
-   "date": "2026-10-15",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "423 16th St, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "deep house"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/bbqwmg?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/secret-thursdays-kike-roldan-543066"
-   ]
-  },
-  {
-   "id": "edmtrain:542002",
-   "source": "edmtrain",
-   "title": "Bass Bingo Afters",
-   "artists": [],
-   "venue": "Treehouse Miami Beach",
-   "venue_slug": null,
-   "date": "2026-10-15",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "323 23rd St, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.etix.com/ticket/p/88601379",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/bass-bingo-afters-542002"
-   ]
+   "url": "https://dice.fm/event/dkdpev-satellite-flying-lotus-actress-ivy-lab-more-15th-oct-the-ground-miami-miami-tickets"
   },
   {
    "id": "19hz:4445916-iiipoints2026",
@@ -3616,9 +3416,14 @@
   },
   {
    "id": "shotgun:mandragora-oct24",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Mandragora & More",
-   "artists": [],
+   "artists": [
+    "Mandragora",
+    "MeGusta",
+    "FULANO.",
+    "Not So Human"
+   ],
    "venue": "EDGE MIAMI",
    "venue_slug": null,
    "date": "2026-10-24",
@@ -3629,14 +3434,17 @@
    "ages": "",
    "price": "$20.00",
    "genres": [
+    "house",
     "progressive house",
-    "progressive psytrance",
-    "house"
+    "progressive psytrance"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/mandragora-oct24"
+   "url": "https://shotgun.live/en/events/mandragora-oct24",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/mandragora-megusta-545412"
+   ]
   },
   {
    "id": "dice:6aa9c6d3a46904000108e080",
@@ -5969,7 +5777,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "",
-   "price": "From $115",
+   "price": "From $125",
    "genres": [
     "house",
     "techno"
@@ -6537,27 +6345,6 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/iron-lyon-531579"
    ]
-  },
-  {
-   "id": "zeyzey:scattrbrain-03-nov",
-   "source": "venue",
-   "title": "Scattrbrain",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-11-03",
-   "start": "2026-11-04T01:00:00+00:00",
-   "end": "2026-11-04T06:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/scattrbrain-03-nov",
-   "cancelled": false
   },
   {
    "id": "shotgun:11-04-peace-talks-pgh-at-churchills-pub",
@@ -9851,7 +9638,8 @@
    "created": null,
    "alt_urls": [
     "https://calendar.zeyzeymiami.com/shows/donny-benet-21-nov",
-    "https://calendar.zeyzeymiami.com/shows/helado-tropical-helado-negro-reyna-tropical-21-nov"
+    "https://calendar.zeyzeymiami.com/shows/helado-tropical-helado-negro-reyna-tropical-21-nov",
+    "https://calendar.zeyzeymiami.com/shows/under-the-disco-ball-ft-bosq-21-nov"
    ]
   },
   {
@@ -14683,6 +14471,30 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/groove-cruise-miami-2027-458945"
    ]
+  },
+  {
+   "id": "dice:6a90ca5b0f25790001832792",
+   "source": "dice",
+   "title": "FREESTYLE CRUISE OFFICIAL PRE-PARTY",
+   "artists": [],
+   "venue": "Kemistry",
+   "venue_slug": "kemistry",
+   "date": "2027-01-23",
+   "start": "2027-01-23T23:00:00+00:00",
+   "end": "2027-01-24T04:00:00+00:00",
+   "time_estimated": false,
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "ages": "",
+   "price": "From $40",
+   "genres": [
+    "bass",
+    "dubstep"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6a90ca5b0f25790001832792",
+   "cancelled": false
   },
   {
    "id": "edmtrain:458946",

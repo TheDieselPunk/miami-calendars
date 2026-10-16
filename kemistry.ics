@@ -8,22 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6acc8ca362785d00011bfc7a@kemistry.miami-calendars
-DTSTAMP:20261012T161812Z
-LAST-MODIFIED:20261012T161812Z
-SEQUENCE:0
-DTSTART:20261016T020000Z
-DTEND:20261016T080000Z
-SUMMARY:THE PLAYBOY PARTY
-LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
- 312\, United States
-DESCRIPTION:Tags (guess): bass\, dubstep\nhttps://dice.fm/event/6acc8ca3627
- 85d00011bfc7a
-URL:https://dice.fm/event/6acc8ca362785d00011bfc7a
-STATUS:CONFIRMED
-CATEGORIES:bass,dubstep
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6a6bfca21cace90001cc180d@kemistry.miami-calendars
 DTSTAMP:20260922T004154Z
 LAST-MODIFIED:20260922T004154Z
@@ -459,6 +443,22 @@ URL:https://dice.fm/event/py3lmy-hamro-22nd-jan-kemistry-fort-lauderdale-ti
  ckets
 STATUS:CONFIRMED
 CATEGORIES:bass music,dubstep
+END:VEVENT
+BEGIN:VEVENT
+UID:dice-6a90ca5b0f25790001832792@kemistry.miami-calendars
+DTSTAMP:20261016T161816Z
+LAST-MODIFIED:20261016T161816Z
+SEQUENCE:0
+DTSTART:20270123T230000Z
+DTEND:20270124T040000Z
+SUMMARY:FREESTYLE CRUISE OFFICIAL PRE-PARTY
+LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
+ 312\, United States
+DESCRIPTION:Tags (guess): bass\, dubstep\nhttps://dice.fm/event/6a90ca5b0f2
+ 5790001832792
+URL:https://dice.fm/event/6a90ca5b0f25790001832792
+STATUS:CONFIRMED
+CATEGORIES:bass,dubstep
 END:VEVENT
 BEGIN:VEVENT
 UID:edmtrain-541640@kemistry.miami-calendars

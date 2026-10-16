@@ -8,18 +8,17 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a8722d277479c00018e6330@club-space.miami-calendars
-DTSTAMP:20260922T004154Z
-LAST-MODIFIED:20260922T004154Z
-SEQUENCE:3
+UID:19hz-4445851-clooneemiluhskao@club-space.miami-calendars
+DTSTAMP:20261016T161816Z
+LAST-MODIFIED:20261016T161816Z
+SEQUENCE:0
 DTSTART:20261016T030000Z
 DTEND:20261016T180000Z
-SUMMARY:Satellite: Cloonee\, Miluhska\, Omar+ & Vintage Culture
-LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Cloonee\, Vintage Culture\, Omar+\, Miluhska\nTags: tec
- h house\nAges: 21+\nhttps://dice.fm/event/pywnk8-satellite-cloonee-miluhsk
- a-omar-vintage-culture-15th-oct-club-space-miami-miami-tickets\nhttps://ed
- mtrain.com/miami-fl/cloonee-vintage-culture-531431
+SUMMARY:Cloonee\, Miluhska\, Omar+\, Vintage Culture
+LOCATION:Club Space
+DESCRIPTION:Tags: tech house\nAges: 21+\nhttps://dice.fm/event/pywnk8-satel
+ lite-cloonee-miluhska-omar-vintage-culture-15th-oct-club-space-miami-miami
+ -tickets
 URL:https://dice.fm/event/pywnk8-satellite-cloonee-miluhska-omar-vintage-cu
  lture-15th-oct-club-space-miami-miami-tickets
 STATUS:CONFIRMED

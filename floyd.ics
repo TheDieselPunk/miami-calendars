@@ -9,17 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4445848-moscomanredaxesw@floyd.miami-calendars
-DTSTAMP:20261016T041817Z
-LAST-MODIFIED:20261016T041817Z
-SEQUENCE:0
+DTSTAMP:20261016T161816Z
+LAST-MODIFIED:20261016T161816Z
+SEQUENCE:1
 DTSTART:20261016T020000Z
 DTEND:20261016T060000Z
 SUMMARY:Moscoman\, Red Axes\, & Whitesquare
 LOCATION:Floyd Miami
-DESCRIPTION:Lineup: Moscoman\, Red Axes\, Whitesquare\, Eveava\nTags: elect
- ronic rock\nAges: 21+\nhttps://dice.fm/event/mxn9kw-satellite-moscoman-red
- -axes-whitesquare-15th-oct-floyd-miami-miami-tickets\nhttps://edmtrain.com
- /miami-fl/moscoman-red-axes-529530
+DESCRIPTION:Tags: electronic rock\nAges: 21+\nhttps://dice.fm/event/mxn9kw-
+ satellite-moscoman-red-axes-whitesquare-15th-oct-floyd-miami-miami-tickets
 URL:https://dice.fm/event/mxn9kw-satellite-moscoman-red-axes-whitesquare-15
  th-oct-floyd-miami-miami-tickets
 STATUS:CONFIRMED

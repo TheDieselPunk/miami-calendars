@@ -73,7 +73,7 @@
   "file": "kemistry.ics",
   "events": 27,
   "estimated_times": 1,
-  "next": "2026-10-15",
+  "next": "2026-10-16",
   "sources": [
    "19hz",
    "dice",
@@ -99,7 +99,7 @@
   "slug": "zeyzey",
   "name": "ZeyZey Miami",
   "file": "zeyzey.ics",
-  "events": 57,
+  "events": 56,
   "estimated_times": 0,
   "next": "2026-10-15",
   "sources": [
@@ -116,9 +116,9 @@
   "slug": "mad-radio",
   "name": "Mad Radio Miami",
   "file": "mad-radio.ics",
-  "events": 11,
-  "estimated_times": 1,
-  "next": "2026-10-15",
+  "events": 10,
+  "estimated_times": 0,
+  "next": "2026-10-16",
   "sources": [
    "edmtrain",
    "shotgun"
@@ -171,9 +171,9 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 45,
-  "estimated_times": 25,
-  "next": "2026-10-15",
+  "events": 44,
+  "estimated_times": 24,
+  "next": "2026-10-16",
   "sources": [
    "19hz",
    "dice",

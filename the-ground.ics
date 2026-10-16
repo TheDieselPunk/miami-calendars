@@ -9,18 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4445851-flyinglotusdjset@the-ground.miami-calendars
-DTSTAMP:20261016T041817Z
-LAST-MODIFIED:20261016T041817Z
-SEQUENCE:0
+DTSTAMP:20261016T161816Z
+LAST-MODIFIED:20261016T161816Z
+SEQUENCE:1
 DTSTART:20261016T030000Z
 DTEND:20261016T110000Z
 SUMMARY:Flying Lotus (DJ Set)\, Actress\, Ivy Lab
 LOCATION:The Ground
-DESCRIPTION:Lineup: Flying Lotus\, Actress\, Ivy Lab\, Loukeman\, Suzi Anal
- ogue\nTags: bass music\, drum and bass\, dubstep\, future beats\, glitch-h
- op\, hip-hop\nAges: 21+\nhttps://dice.fm/event/dkdpev-satellite-flying-lot
- us-actress-ivy-lab-more-15th-oct-the-ground-miami-miami-tickets\nhttps://e
- dmtrain.com/miami-fl/flying-lotus-actress-529660
+DESCRIPTION:Tags: bass music\, drum and bass\, dubstep\, future beats\, gli
+ tch-hop\, hip-hop\nAges: 21+\nhttps://dice.fm/event/dkdpev-satellite-flyin
+ g-lotus-actress-ivy-lab-more-15th-oct-the-ground-miami-miami-tickets
 URL:https://dice.fm/event/dkdpev-satellite-flying-lotus-actress-ivy-lab-mor
  e-15th-oct-the-ground-miami-miami-tickets
 STATUS:CONFIRMED

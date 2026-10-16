@@ -9,19 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:tablelist-0333e4f6895f5ec6@zeyzey.miami-calendars
-DTSTAMP:20261016T101817Z
-LAST-MODIFIED:20261016T101817Z
-SEQUENCE:1
+DTSTAMP:20261016T161816Z
+LAST-MODIFIED:20261016T161816Z
+SEQUENCE:2
 DTSTART:20261015T200000Z
 DTEND:20261016T020000Z
 SUMMARY:Satellite: Chasewest B2B Discip\, Ragie Ban\, Dan Molinari & Stixx
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: ChaseWest\, Discip\, Ragie Ban\, Dan Molinari\, Stixx\,
-  Ale Acosta\, Violeta\, Kujo\, MEKANIK\, Hormiga\, miss purple shampoo\, T
- RIPPIE HIPPIE\nTags: tech house\nAges: 18+\nhttps://buy.tablelist.com/e/03
- 33e4f6895f5ec6\nhttps://dice.fm/event/6dooo2-satellite-chasewest-b2b-disci
- p-ragie-ban-dan-molinari-stixx-15th-oct-zeyzey-miami-tickets\nhttps://edmt
- rain.com/miami-fl/chasewest-discip-532846
+DESCRIPTION:Tags: tech house\nAges: 18+\nhttps://buy.tablelist.com/e/0333e4
+ f6895f5ec6\nhttps://dice.fm/event/6dooo2-satellite-chasewest-b2b-discip-ra
+ gie-ban-dan-molinari-stixx-15th-oct-zeyzey-miami-tickets
 URL:https://buy.tablelist.com/e/0333e4f6895f5ec6
 STATUS:CONFIRMED
 CATEGORIES:tech house
@@ -300,19 +297,6 @@ DESCRIPTION:https://calendar.zeyzeymiami.com/shows/haitian-vinyl-night-by-p
  atrice-esperant-with-special-guest-rum-coke-miami-01-nov
 URL:https://calendar.zeyzeymiami.com/shows/haitian-vinyl-night-by-patrice-e
  sperant-with-special-guest-rum-coke-miami-01-nov
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:zeyzey-scattrbrain-03-nov@zeyzey.miami-calendars
-DTSTAMP:20260921T200140Z
-LAST-MODIFIED:20260921T200140Z
-SEQUENCE:0
-DTSTART:20261104T010000Z
-DTEND:20261104T060000Z
-SUMMARY:Scattrbrain
-LOCATION:ZeyZey Miami
-DESCRIPTION:https://calendar.zeyzeymiami.com/shows/scattrbrain-03-nov
-URL:https://calendar.zeyzeymiami.com/shows/scattrbrain-03-nov
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -600,9 +584,9 @@ CATEGORIES:indie/alternative
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-selects-donny-benet@shotgun.live
-DTSTAMP:20260921T200140Z
-LAST-MODIFIED:20260921T200140Z
-SEQUENCE:1
+DTSTAMP:20261016T161816Z
+LAST-MODIFIED:20261016T161816Z
+SEQUENCE:2
 DTSTART:20261121T233000Z
 DTEND:20261123T040000Z
 SUMMARY:Donny Benét
@@ -613,7 +597,8 @@ DESCRIPTION:Donny Benét Saturday\, November 21st 2026 18+ | Zaku Stage Tic
   Benét\, OTNES\nTags: electronica\, funk\, italo disco\, latin\, synthpop
  \nhttps://shotgun.live/en/events/zeyzey-selects-donny-benet\nhttps://calen
  dar.zeyzeymiami.com/shows/donny-benet-21-nov\nhttps://calendar.zeyzeymiami
- .com/shows/helado-tropical-helado-negro-reyna-tropical-21-nov
+ .com/shows/helado-tropical-helado-negro-reyna-tropical-21-nov\nhttps://cal
+ endar.zeyzeymiami.com/shows/under-the-disco-ball-ft-bosq-21-nov
 URL:https://shotgun.live/en/events/zeyzey-selects-donny-benet
 STATUS:CONFIRMED
 CATEGORIES:electronica,funk,italo disco,latin,synthpop
