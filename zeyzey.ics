@@ -9,19 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:tablelist-0333e4f6895f5ec6@zeyzey.miami-calendars
-DTSTAMP:20261016T161816Z
-LAST-MODIFIED:20261016T161816Z
-SEQUENCE:2
+DTSTAMP:20261016T221813Z
+LAST-MODIFIED:20261016T221813Z
+SEQUENCE:3
 DTSTART:20261015T200000Z
 DTEND:20261016T020000Z
 SUMMARY:Satellite: Chasewest B2B Discip\, Ragie Ban\, Dan Molinari & Stixx
 LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: tech house\nAges: 18+\nhttps://buy.tablelist.com/e/0333e4
- f6895f5ec6\nhttps://dice.fm/event/6dooo2-satellite-chasewest-b2b-discip-ra
- gie-ban-dan-molinari-stixx-15th-oct-zeyzey-miami-tickets
+DESCRIPTION:https://buy.tablelist.com/e/0333e4f6895f5ec6
 URL:https://buy.tablelist.com/e/0333e4f6895f5ec6
 STATUS:CONFIRMED
-CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:tablelist-09696654a43f6624@zeyzey.miami-calendars
@@ -738,19 +735,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-takuya-nakamura-12-dec@zeyzey.miami-calendars
-DTSTAMP:20261009T221902Z
-LAST-MODIFIED:20261009T221902Z
-SEQUENCE:2
+DTSTAMP:20261016T221813Z
+LAST-MODIFIED:20261016T221813Z
+SEQUENCE:3
 DTSTART:20261213T030000Z
 DTEND:20261213T060000Z
 SUMMARY:Takuya Nakamura + wev
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: wev\nTags: dance/electronic\nhttps://calendar.zeyzeymia
- mi.com/shows/takuya-nakamura-12-dec\nhttps://edmtrain.com/miami-fl/takuya-
- nakamura-543820\nhttps://edmtrain.com/miami-fl/wev-536457
+DESCRIPTION:Lineup: wev\nTags: idm\, jungle\nAges: 18+\nhttps://calendar.ze
+ yzeymiami.com/shows/takuya-nakamura-12-dec\nhttps://edmtrain.com/miami-fl/
+ takuya-nakamura-543820\nhttps://edmtrain.com/miami-fl/wev-536457\nhttps://
+ ra.co/events/2532918
 URL:https://calendar.zeyzeymiami.com/shows/takuya-nakamura-12-dec
 STATUS:CONFIRMED
-CATEGORIES:dance/electronic
+CATEGORIES:idm,jungle
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-ax-and-the-hatchetmen-the-late-checkout-tour-2026-13-dec@zeyzey.

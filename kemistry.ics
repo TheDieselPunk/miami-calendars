@@ -27,20 +27,21 @@ CATEGORIES:dubstep,trap
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a3c2d5c3f99c300019d7c15@kemistry.miami-calendars
-DTSTAMP:20261013T221825Z
-LAST-MODIFIED:20261013T221825Z
-SEQUENCE:2
+DTSTAMP:20261016T221813Z
+LAST-MODIFIED:20261016T221813Z
+SEQUENCE:3
 DTSTART:20261018T010000Z
 DTEND:20261018T080000Z
 SUMMARY:KAWAII RAVE
 LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
  312\, United States
 DESCRIPTION:Lineup: KZA\, JPAVIA\, Cookie\, Crazy Pink\, Pastel Beach\, AKI
- YAMA\nTags (guess): bass\, dubstep\nhttps://dice.fm/event/6a3c2d5c3f99c300
- 019d7c15\nhttps://edmtrain.com/fort-lauderdale-fl/kawaii-rave-kza-544614
+ YAMA\nTags: anime remixes\, edm\, hyperpop\, kpop\nAges: 18+\nhttps://dice
+ .fm/event/6a3c2d5c3f99c300019d7c15\nhttps://edmtrain.com/fort-lauderdale-f
+ l/kawaii-rave-kza-544614
 URL:https://dice.fm/event/6a3c2d5c3f99c300019d7c15
 STATUS:CONFIRMED
-CATEGORIES:bass,dubstep
+CATEGORIES:anime remixes,edm,hyperpop,kpop
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab179c76d5a1f0001669601@kemistry.miami-calendars
@@ -461,20 +462,20 @@ STATUS:CONFIRMED
 CATEGORIES:bass,dubstep
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-541640@kemistry.miami-calendars
-DTSTAMP:20261012T161812Z
-LAST-MODIFIED:20261012T161812Z
+UID:19hz-4456120-junkiekid@kemistry.miami-calendars
+DTSTAMP:20261016T221813Z
+LAST-MODIFIED:20261016T221813Z
 SEQUENCE:0
 DTSTART:20270131T030000Z
 DTEND:20270131T090000Z
 SUMMARY:Junkie Kid
-LOCATION:Kemistry\, 307 SW 2nd St\, Fort Lauderdale\, FL 33312\, USA
-DESCRIPTION:Lineup: Junkie Kid\nTags (guess): bass\, dubstep\nTimes are an 
- estimate from Kemistry (Fort Lauderdale)'s usual hours - the listing has n
- o start time yet. Check the link.\nhttps://dice.fm/event/53k25d?pid=d6342b
- 83\nhttps://edmtrain.com/fort-lauderdale-fl/junkie-kid-541640
-URL:https://dice.fm/event/53k25d?pid=d6342b83
+LOCATION:Kemistry\, Fort Lauderdale
+DESCRIPTION:Lineup: Junkie Kid\nTags: hard dance\, hard house\nAges: 18+\nh
+ ttps://dice.fm/event/53k25d-junkie-kid-30th-jan-kemistry-fort-lauderdale-t
+ ickets\nhttps://edmtrain.com/fort-lauderdale-fl/junkie-kid-541640
+URL:https://dice.fm/event/53k25d-junkie-kid-30th-jan-kemistry-fort-lauderda
+ le-tickets
 STATUS:CONFIRMED
-CATEGORIES:bass,dubstep
+CATEGORIES:hard dance,hard house
 END:VEVENT
 END:VCALENDAR

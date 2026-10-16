@@ -8,21 +8,36 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:edmtrain-543643@domicile.miami-calendars
-DTSTAMP:20261009T041829Z
-LAST-MODIFIED:20261009T041829Z
+UID:19hz-4445947-hhunterantimatte@domicile.miami-calendars
+DTSTAMP:20261016T221813Z
+LAST-MODIFIED:20261016T221813Z
 SEQUENCE:0
-DTSTART:20261017T020000Z
-DTEND:20261017T090000Z
-SUMMARY:hhunter\, Antimatter
-LOCATION:Domicile Miami\, 2900 NW 7th Ave\, Miami\, FL 33127\, USA
-DESCRIPTION:Lineup: hhunter\, Antimatter\nTags (guess): techno\nTimes are a
- n estimate from Domicile's usual hours - the listing has no start time yet
- . Check the link.\nhttps://dice.fm/event/2wnv6a?pid=d6342b83\nhttps://edmt
- rain.com/miami-fl/hhunter-antimatter-543643
-URL:https://dice.fm/event/2wnv6a?pid=d6342b83
+DTSTART:20261017T030000Z
+DTEND:20261017T110000Z
+SUMMARY:Hhunter + Antimatter
+LOCATION:Domicile
+DESCRIPTION:Lineup: hhunter\, Antimatter\nTags: hard techno\nAges: 18+\nhtt
+ ps://dice.fm/event/2wnv6a-friday-iiipoints-after-party-hhunter-16th-oct-do
+ micile-miami-miami-tickets\nhttps://edmtrain.com/miami-fl/hhunter-antimatt
+ er-543643
+URL:https://dice.fm/event/2wnv6a-friday-iiipoints-after-party-hhunter-16th-
+ oct-domicile-miami-miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:techno
+CATEGORIES:hard techno
+END:VEVENT
+BEGIN:VEVENT
+UID:19hz-4445995-joannakuchtaftmi@domicile.miami-calendars
+DTSTAMP:20261016T221813Z
+LAST-MODIFIED:20261016T221813Z
+SEQUENCE:0
+DTSTART:20261017T150000Z
+DTEND:20261018T110000Z
+SUMMARY:Joanna Kuchta Ft. Mila Gama\, Mason Norris
+LOCATION:Domicile
+DESCRIPTION:Tags: hard groove\, techno\nhttps://ra.co/events/2559594
+URL:https://ra.co/events/2559594
+STATUS:CONFIRMED
+CATEGORIES:hard groove,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:edmtrain-544365@domicile.miami-calendars

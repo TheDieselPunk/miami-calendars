@@ -58,9 +58,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101626@shotgun.live
-DTSTAMP:20261016T161816Z
-LAST-MODIFIED:20261016T161816Z
-SEQUENCE:88
+DTSTAMP:20261016T221813Z
+LAST-MODIFIED:20261016T221813Z
+SEQUENCE:90
 DTSTART:20261017T010000Z
 DTEND:20261017T070000Z
 SUMMARY:III Points Satellite Party: Kenny Jones / Leo Del Toro
@@ -126,9 +126,9 @@ CATEGORIES:rock,alternative,house
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101726@shotgun.live
-DTSTAMP:20261016T161816Z
-LAST-MODIFIED:20261016T161816Z
-SEQUENCE:88
+DTSTAMP:20261016T221813Z
+LAST-MODIFIED:20261016T221813Z
+SEQUENCE:90
 DTSTART:20261018T010000Z
 DTEND:20261018T070000Z
 SUMMARY:III Points Satellite Party: Israel Sunshine / Tomas Saenz
@@ -139,15 +139,32 @@ DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
   the urban-chic experience at Mad Radio Miami. See you on the dance floor!
   Come early\, stay late\, and let the night unfold FREE ENTRY BEFORE 10 PM
   / FREE ENTRY LADIES UNTIL MIDNIGHT + 25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
- \nLineup: Israel Sunshine ARTISANO\nTags (guess): deep house\, house\nPres
- ented by: Mad Radio Miami\nTickets: AFTER 10 PM $20\, FREE LADIES RSVP BEF
- ORE 12 AM Free\nhttps://shotgun.live/en/events/madradiomiami101726\nhttps:
- //edmtrain.com/miami-fl/iii-points-satellite-iliad-531627\nhttps://edmtrai
- n.com/miami-fl/iii-points-satellite-party-tomas-saenz-542617
+ \nLineup: Israel Sunshine ARTISANO\nTags: deep house\, progressive house\,
+  tech house\nPresented by: Mad Radio Miami\nTickets: AFTER 10 PM $20\, FRE
+ E LADIES RSVP BEFORE 12 AM Free\nAges: 21+\nhttps://shotgun.live/en/events
+ /madradiomiami101726\nhttps://edmtrain.com/miami-fl/iii-points-satellite-i
+ liad-531627\nhttps://edmtrain.com/miami-fl/iii-points-satellite-party-toma
+ s-saenz-542617
 URL:https://shotgun.live/en/events/madradiomiami101726
 STATUS:CONFIRMED
-CATEGORIES:deep house,house
+CATEGORIES:deep house,progressive house,tech house
 GEO:25.8462027;-80.1851332
+END:VEVENT
+BEGIN:VEVENT
+UID:19hz-4446108-sunsetattheboatd@festivals.miami-calendars
+DTSTAMP:20261016T221813Z
+LAST-MODIFIED:20261016T221813Z
+SEQUENCE:0
+DTSTART:20261018T190000Z
+DTEND:20261019T010000Z
+SUMMARY:Sunset At The Boat: Dalva\, Lvndo B2B Nikatnite\, Fernxndez B2B Seb
+ fire\, Nic Bolivar B2B Vayze\, Mote B2B Antero
+LOCATION:3400 Pan American Dr\, Pier 1
+DESCRIPTION:Tags: afro house\, house\nPresented by: Around The Corner\nAges
+ : 21+\nhttps://ra.co/events/2557442
+URL:https://ra.co/events/2557442
+STATUS:CONFIRMED
+CATEGORIES:afro house,house
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4446108-satellitemaccabi@festivals.miami-calendars

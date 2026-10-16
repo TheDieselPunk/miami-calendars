@@ -8,6 +8,23 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
+UID:19hz-4445935-hurricanewisdomw@midline.miami-calendars
+DTSTAMP:20261016T221813Z
+LAST-MODIFIED:20261016T221813Z
+SEQUENCE:0
+DTSTART:20261017T000000Z
+DTEND:20261017T040000Z
+SUMMARY:Hurricane Wisdom � Weathering The World Miami
+LOCATION:Midline
+DESCRIPTION:Tags: hip-hop\, trap\nPresented by: BLNK CNVS\nhttps://www.even
+ tbrite.com/e/hurricane-wisdom-weathering-the-world-midline-miami-tickets-1
+ 998128946467
+URL:https://www.eventbrite.com/e/hurricane-wisdom-weathering-the-world-midl
+ ine-miami-tickets-1998128946467
+STATUS:CONFIRMED
+CATEGORIES:hip-hop,trap
+END:VEVENT
+BEGIN:VEVENT
 UID:19hz-4446016-mose@midline.miami-calendars
 DTSTAMP:20260921T214009Z
 LAST-MODIFIED:20260921T214009Z
