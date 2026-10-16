@@ -8,22 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:tablelist-a93613d6361b626d@zeyzey.miami-calendars
-DTSTAMP:20261015T161821Z
-LAST-MODIFIED:20261015T161821Z
-SEQUENCE:2
-DTSTART:20261014T230000Z
-DTEND:20261015T040000Z
-SUMMARY:Satellite: Neon Indian (DJ Set)\, Twin Shadow & Washed Out (DJ Set)
-LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: synthpop\nAges: 18+\nhttps://buy.tablelist.com/e/a93613d6
- 361b626d\nhttps://dice.fm/event/ww999v-satellite-neon-indian-dj-set-twin-s
- hadow-washed-out-dj-set-14th-oct-zeyzey-miami-tickets
-URL:https://buy.tablelist.com/e/a93613d6361b626d
-STATUS:CONFIRMED
-CATEGORIES:synthpop
-END:VEVENT
-BEGIN:VEVENT
 UID:tablelist-0333e4f6895f5ec6@zeyzey.miami-calendars
 DTSTAMP:20261015T221842Z
 LAST-MODIFIED:20261015T221842Z

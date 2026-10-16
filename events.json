@@ -1,31 +1,6 @@
 {
  "events": [
   {
-   "id": "tablelist:a93613d6361b626d",
-   "source": "19hz+tablelist",
-   "title": "Satellite: Neon Indian (DJ Set), Twin Shadow & Washed Out (DJ Set)",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-10-14",
-   "start": "2026-10-14T23:00:00+00:00",
-   "end": "2026-10-15T04:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "18+",
-   "price": "$30+",
-   "genres": [
-    "synthpop"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://buy.tablelist.com/e/a93613d6361b626d",
-   "alt_urls": [
-    "https://dice.fm/event/ww999v-satellite-neon-indian-dj-set-twin-shadow-washed-out-dj-set-14th-oct-zeyzey-miami-tickets"
-   ]
-  },
-  {
    "id": "tablelist:0333e4f6895f5ec6",
    "source": "19hz+edmtrain+tablelist+venue",
    "title": "Satellite: Chasewest B2B Discip, Ragie Ban, Dan Molinari & Stixx",
@@ -66,57 +41,6 @@
    ]
   },
   {
-   "id": "shotgun:aszhara-and-companion-of-fools-at-boombox-10-15",
-   "source": "shotgun",
-   "title": "Azshara And Companion Of Fools At Boombox 10/15",
-   "artists": [],
-   "venue": "The Boombox Miami",
-   "venue_slug": "boombox",
-   "date": "2026-10-15",
-   "start": "2026-10-15T22:00:00+00:00",
-   "end": "2026-10-16T03:00:00+00:00",
-   "time_estimated": false,
-   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
-   "ages": "",
-   "price": "$22.70",
-   "genres": [
-    "hardcore",
-    "metalcore"
-   ],
-   "genres_inferred": false,
-   "organizer": "Equinox Booking",
-   "description": "Equinox Booking Presents Azshara Companion of Fools Enemy To All Niobe $15 online / $20 at door 6 pm all ages",
-   "url": "https://shotgun.live/en/events/aszhara-and-companion-of-fools-at-boombox-10-15",
-   "tickets": "General Admission $15 (sold out), Day of $20",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.7287781,
-    "longitude": -80.3169309
-   },
-   "created": "2026-09-09T19:00:01.000Z"
-  },
-  {
-   "id": "shotgun:karaokiki1-38",
-   "source": "shotgun",
-   "title": "Karaokiki Happy Hour",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-10-15",
-   "start": "2026-10-15T23:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/karaokiki1-38"
-  },
-  {
    "id": "shotgun:ag-x-rumble-present-taiki-nulight-sir-spyro",
    "source": "19hz+edmtrain+shotgun",
    "title": "Ag X Rumble Present: Taiki Nulight + Sir Spyro",
@@ -135,7 +59,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "Free",
+   "price": "free",
    "genres": [
     "bass house",
     "breaks",
@@ -366,9 +290,9 @@
    ]
   },
   {
-   "id": "dice:6a8362e91d183400011845d0",
-   "source": "19hz+dice+edmtrain",
-   "title": "Satellite: Moscoman, Red Axes, & Whitesquare",
+   "id": "19hz:4445848-moscomanredaxesw",
+   "source": "19hz+edmtrain",
+   "title": "Moscoman, Red Axes, & Whitesquare",
    "artists": [
     "Moscoman",
     "Red Axes",
@@ -381,9 +305,9 @@
    "start": "2026-10-16T02:00:00+00:00",
    "end": "2026-10-16T06:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": "From $15",
+   "price": "",
    "genres": [
     "electronic rock"
    ],
@@ -391,9 +315,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/mxn9kw-satellite-moscoman-red-axes-whitesquare-15th-oct-floyd-miami-miami-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/mxn9kw-satellite-moscoman-red-axes-whitesquare-15th-oct-floyd-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/moscoman-red-axes-529530"
    ]
   },
@@ -414,7 +336,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $10",
+   "price": "",
    "genres": [
     "deep house",
     "tech house",
@@ -443,7 +365,7 @@
    "time_estimated": false,
    "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "",
-   "price": "",
+   "price": " (sold out)",
    "genres": [
     "bass",
     "dubstep"
@@ -507,9 +429,9 @@
    ]
   },
   {
-   "id": "dice:6a837face888570001cdef5f",
-   "source": "19hz+dice+edmtrain",
-   "title": "Satellite: Flying Lotus (DJ Set), Ivy Lab, Loukeman & Suzi Analogue",
+   "id": "19hz:4445851-flyinglotusdjset",
+   "source": "19hz+edmtrain",
+   "title": "Flying Lotus (DJ Set), Actress, Ivy Lab",
    "artists": [
     "Flying Lotus",
     "Actress",
@@ -517,15 +439,15 @@
     "Loukeman",
     "Suzi Analogue"
    ],
-   "venue": "The Ground Miami",
+   "venue": "The Ground",
    "venue_slug": "the-ground",
    "date": "2026-10-15",
    "start": "2026-10-16T03:00:00+00:00",
    "end": "2026-10-16T11:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": "From $20",
+   "price": "",
    "genres": [
     "bass music",
     "drum and bass",
@@ -538,9 +460,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/dkdpev-satellite-flying-lotus-actress-ivy-lab-more-15th-oct-the-ground-miami-miami-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/dkdpev-satellite-flying-lotus-actress-ivy-lab-more-15th-oct-the-ground-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/flying-lotus-actress-529660"
    ]
   },
@@ -1032,7 +952,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $10",
+   "price": "From $12",
    "genres": [
     "tbd"
    ],
@@ -1766,7 +1686,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$34.20",
+   "price": "$17.10",
    "genres": [
     "afro house",
     "deep house",
@@ -2475,6 +2395,26 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/elizabeth-holmes-lookalike-contest"
+  },
+  {
+   "id": "shotgun:openhaus-2",
+   "source": "shotgun",
+   "title": "Soirée Miami: Artist Showcase",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-10-21",
+   "start": "2026-10-22T00:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/openhaus-2"
   },
   {
    "id": "shotgun:folk-punk-night-at-the-beach",
@@ -4198,6 +4138,32 @@
    ]
   },
   {
+   "id": "edmtrain:545361",
+   "source": "edmtrain",
+   "title": "INTRIGA X BOHO House- Day Party Vol. 3: Santelises, Goa '98",
+   "artists": [
+    "Santelises",
+    "Goa '98"
+   ],
+   "venue": "BOHO Wynwood",
+   "venue_slug": null,
+   "date": "2026-10-24",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "85 NW 25th St, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/dky8qo?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/intriga-x-boho-house-day-party-vol-3-santelises-545361"
+   ]
+  },
+  {
    "id": "edmtrain:544661",
    "source": "edmtrain",
    "title": "Lupe Fuentes",
@@ -4579,7 +4545,7 @@
   {
    "id": "shotgun:night-of-mania",
    "source": "shotgun",
-   "title": "Night Of Mania",
+   "title": "Night Of Mania: Costume Bash",
    "artists": [],
    "venue": "Churchill's Pub",
    "venue_slug": null,
@@ -8299,7 +8265,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $50",
+   "price": "From $56",
    "genres": [
     "techno"
    ],
@@ -13096,7 +13062,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $65",
+   "price": "From $75",
    "genres": [
     "progressive house",
     "tech house"

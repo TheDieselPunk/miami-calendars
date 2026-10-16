@@ -85,9 +85,9 @@
   "slug": "boombox",
   "name": "The Boombox Miami",
   "file": "boombox.ics",
-  "events": 10,
+  "events": 9,
   "estimated_times": 0,
-  "next": "2026-10-15",
+  "next": "2026-10-16",
   "sources": [
    "19hz",
    "edmtrain",
@@ -99,9 +99,9 @@
   "slug": "zeyzey",
   "name": "ZeyZey Miami",
   "file": "zeyzey.ics",
-  "events": 58,
+  "events": 57,
   "estimated_times": 0,
-  "next": "2026-10-14",
+  "next": "2026-10-15",
   "sources": [
    "19hz",
    "dice",

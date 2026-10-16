@@ -8,15 +8,14 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a837face888570001cdef5f@the-ground.miami-calendars
-DTSTAMP:20261009T221902Z
-LAST-MODIFIED:20261009T221902Z
-SEQUENCE:4
+UID:19hz-4445851-flyinglotusdjset@the-ground.miami-calendars
+DTSTAMP:20261016T041817Z
+LAST-MODIFIED:20261016T041817Z
+SEQUENCE:0
 DTSTART:20261016T030000Z
 DTEND:20261016T110000Z
-SUMMARY:Satellite: Flying Lotus (DJ Set)\, Ivy Lab\, Loukeman & Suzi Analog
- ue
-LOCATION:The Ground Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
+SUMMARY:Flying Lotus (DJ Set)\, Actress\, Ivy Lab
+LOCATION:The Ground
 DESCRIPTION:Lineup: Flying Lotus\, Actress\, Ivy Lab\, Loukeman\, Suzi Anal
  ogue\nTags: bass music\, drum and bass\, dubstep\, future beats\, glitch-h
  op\, hip-hop\nAges: 21+\nhttps://dice.fm/event/dkdpev-satellite-flying-lot

@@ -1,4 +1,14 @@
 {
+ "19hz-4445848-moscomanredaxesw@floyd.miami-calendars": {
+  "hash": "88e7fd51c6769f82",
+  "seq": 0,
+  "modified": "2026-10-16T04:18:17+00:00"
+ },
+ "19hz-4445851-flyinglotusdjset@the-ground.miami-calendars": {
+  "hash": "f270b42ab0448889",
+  "seq": 0,
+  "modified": "2026-10-16T04:18:17+00:00"
+ },
  "19hz-4445916-iiipoints2026@festivals.miami-calendars": {
   "hash": "566a93a881707e41",
   "seq": 0,
@@ -119,11 +129,6 @@
   "seq": 0,
   "modified": "2026-09-30T04:18:26+00:00"
  },
- "aszhara-and-companion-of-fools-at-boombox-10-15@shotgun.live": {
-  "hash": "1b6dc803e6dbb2b7",
-  "seq": 1,
-  "modified": "2026-10-15T10:18:22+00:00"
- },
  "beiruttomiami1@shotgun.live": {
   "hash": "08a0c5059144b015",
   "seq": 3,
@@ -239,11 +244,6 @@
   "seq": 2,
   "modified": "2026-09-22T00:41:54+00:00"
  },
- "dice-6a8362e91d183400011845d0@floyd.miami-calendars": {
-  "hash": "60e744cc7427acaf",
-  "seq": 3,
-  "modified": "2026-09-22T00:41:54+00:00"
- },
  "dice-6a83641eb48dec00014ae51f@floyd.miami-calendars": {
   "hash": "a7fbdbe42977a212",
   "seq": 3,
@@ -253,11 +253,6 @@
   "hash": "b30b0efaec49cf07",
   "seq": 3,
   "modified": "2026-09-22T00:41:54+00:00"
- },
- "dice-6a837face888570001cdef5f@the-ground.miami-calendars": {
-  "hash": "2b405b7cac94139b",
-  "seq": 4,
-  "modified": "2026-10-09T22:19:02+00:00"
  },
  "dice-6a8380fbb132fb00010733cd@the-ground.miami-calendars": {
   "hash": "2bf2544cfc82e30e",
@@ -1226,18 +1221,18 @@
  },
  "madradiomiami101526@shotgun.live": {
   "hash": "d90990d3aa3265cc",
-  "seq": 113,
-  "modified": "2026-10-15T22:18:42+00:00"
+  "seq": 115,
+  "modified": "2026-10-16T04:18:17+00:00"
  },
  "madradiomiami101626@shotgun.live": {
   "hash": "58a12604e5af3392",
-  "seq": 82,
-  "modified": "2026-10-15T22:18:42+00:00"
+  "seq": 84,
+  "modified": "2026-10-16T04:18:17+00:00"
  },
  "madradiomiami101726@shotgun.live": {
   "hash": "f459f060a060733f",
-  "seq": 82,
-  "modified": "2026-10-15T22:18:42+00:00"
+  "seq": 84,
+  "modified": "2026-10-16T04:18:17+00:00"
  },
  "madradiomiami102126@shotgun.live": {
   "hash": "7682cc251e858a48",
@@ -1328,11 +1323,6 @@
   "hash": "d64629cb50950090",
   "seq": 0,
   "modified": "2026-10-01T04:18:24+00:00"
- },
- "tablelist-a93613d6361b626d@zeyzey.miami-calendars": {
-  "hash": "b2bba1bfc2cd3308",
-  "seq": 2,
-  "modified": "2026-10-15T16:18:21+00:00"
  },
  "tablelist-abc873e7b3df0c6a@zeyzey.miami-calendars": {
   "hash": "eddf308abae7d730",
