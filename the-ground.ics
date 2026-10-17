@@ -8,22 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a8724f65b367e0001f22de9@the-ground.miami-calendars
-DTSTAMP:20260922T004038Z
-LAST-MODIFIED:20260922T004038Z
-SEQUENCE:1
-DTSTART:20261017T030000Z
-DTEND:20261017T180000Z
-SUMMARY:Satellite: 999999999\, KI/KI\, Roman Flügel B2B Danny Daze\, ¥ØU
- $UK€ ¥UK1MAT$U + MORE
-LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6a8724f65b3
- 67e0001f22de9
-URL:https://dice.fm/event/6a8724f65b367e0001f22de9
-STATUS:CONFIRMED
-CATEGORIES:house,techno
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6a8380fbb132fb00010733cd@the-ground.miami-calendars
 DTSTAMP:20261007T041839Z
 LAST-MODIFIED:20261007T041839Z
@@ -144,18 +128,18 @@ CATEGORIES:breaks,eurodance,house,trance
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abbdcda4a21e200016b9d90@the-ground.miami-calendars
-DTSTAMP:20261002T221826Z
-LAST-MODIFIED:20261002T221826Z
-SEQUENCE:3
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
+SEQUENCE:4
 DTSTART:20261108T040000Z
 DTEND:20261108T100000Z
 SUMMARY:808 Life: DJ Assault + DJ Godfather
 LOCATION:The Ground Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6abbdcda4a2
- 1e200016b9d90
+DESCRIPTION:Tags: ghettotech\nAges: 21+\nhttps://dice.fm/event/6abbdcda4a21
+ e200016b9d90\nhttps://link.dice.fm/808lifenov
 URL:https://dice.fm/event/6abbdcda4a21e200016b9d90
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:ghettotech
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a9050c13e2dcd00013c2e7e@the-ground.miami-calendars
@@ -224,19 +208,21 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abbe1d7214d4c0001006f40@the-ground.miami-calendars
-DTSTAMP:20260930T041826Z
-LAST-MODIFIED:20260930T041826Z
-SEQUENCE:1
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
+SEQUENCE:2
 DTSTART:20261128T040000Z
 DTEND:20261128T120000Z
 SUMMARY:RUMBLE IN THE JUNGLE: Nikki Nair + Nanoos
 LOCATION:The Ground Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Nikki Nair\, Nanoos\nTags (guess): house\, techno\nhttp
- s://dice.fm/event/6abbe1d7214d4c0001006f40\nhttps://edmtrain.com/miami-fl/
- rumble-in-the-jungle-nikki-nair-541195
-URL:https://dice.fm/event/6abbe1d7214d4c0001006f40
+DESCRIPTION:Lineup: Nikki Nair\, Nanoos\nTags: electro\, tech house\nAges: 
+ 21+\nhttps://dice.fm/event/wwnv3v-rumble-in-the-jungle-nikki-nair-nanoos-2
+ 7th-nov-the-ground-miami-miami-tickets\nhttps://edmtrain.com/miami-fl/rumb
+ le-in-the-jungle-nikki-nair-541195
+URL:https://dice.fm/event/wwnv3v-rumble-in-the-jungle-nikki-nair-nanoos-27t
+ h-nov-the-ground-miami-miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:electro,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abbe310b2412f00017024b3@the-ground.miami-calendars

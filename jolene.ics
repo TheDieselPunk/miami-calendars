@@ -62,36 +62,36 @@ CATEGORIES:funk,hip-hop,house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ac67e9f19d9030001b0b3ea@jolene.miami-calendars
-DTSTAMP:20261007T221838Z
-LAST-MODIFIED:20261007T221838Z
-SEQUENCE:0
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
+SEQUENCE:1
 DTSTART:20261023T020000Z
 DTEND:20261023T080000Z
 SUMMARY:Megusta\, Jesse Fernandez\, & Blotter
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6ac67e9
- f19d9030001b0b3ea
+DESCRIPTION:Tags: house\nAges: 21+\nhttps://dice.fm/event/6ac67e9f19d903000
+ 1b0b3ea
 URL:https://dice.fm/event/6ac67e9f19d9030001b0b3ea
 STATUS:CONFIRMED
-CATEGORIES:house,tech house
+CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abd7555c82c800001a1b0c7@jolene.miami-calendars
-DTSTAMP:20261001T041824Z
-LAST-MODIFIED:20261001T041824Z
-SEQUENCE:1
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
+SEQUENCE:2
 DTSTART:20261024T020000Z
 DTEND:20261024T080000Z
 SUMMARY:Pearson Sound
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Lineup: Pearson Sound\, Milo Ziro\, Liquid J\nTags (guess): hou
- se\, tech house\nhttps://dice.fm/event/6abd7555c82c800001a1b0c7\nhttps://e
- dmtrain.com/miami-fl/pearson-sound-milo-ziro-541423
+DESCRIPTION:Lineup: Pearson Sound\, Milo Ziro\, Liquid J\nTags: deep house
+ \, tech house\, techno\nAges: 21+\nhttps://dice.fm/event/6abd7555c82c80000
+ 1a1b0c7\nhttps://edmtrain.com/miami-fl/pearson-sound-milo-ziro-541423
 URL:https://dice.fm/event/6abd7555c82c800001a1b0c7
 STATUS:CONFIRMED
-CATEGORIES:house,tech house
+CATEGORIES:deep house,tech house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aa9c6d3a46904000108e080@jolene.miami-calendars
@@ -146,20 +146,35 @@ STATUS:CONFIRMED
 CATEGORIES:funk,house,live electronic
 END:VEVENT
 BEGIN:VEVENT
-UID:dice-6ac6aa74f13291000127aaa6@jolene.miami-calendars
-DTSTAMP:20261007T221838Z
-LAST-MODIFIED:20261007T221838Z
+UID:19hz-4447384-idemidalvab2bale@jolene.miami-calendars
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
 SEQUENCE:0
+DTSTART:20261101T020000Z
+DTEND:20261101T090000Z
+SUMMARY:Idemi\, Dalva b2b Alezsandra
+LOCATION:Jolene Downtown
+DESCRIPTION:Tags: house\, tech house\nAges: 21+\nhttps://dice.fm/event/6abc
+ 19ee86ac8a000168130f
+URL:https://dice.fm/event/6abc19ee86ac8a000168130f
+STATUS:CONFIRMED
+CATEGORIES:house,tech house
+END:VEVENT
+BEGIN:VEVENT
+UID:dice-6ac6aa74f13291000127aaa6@jolene.miami-calendars
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
+SEQUENCE:1
 DTSTART:20261106T030000Z
 DTEND:20261106T090000Z
 SUMMARY:King's Paradox: Marian (BR)\, Mvcias\, Dalva\, & Seguez
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6ac6aa7
- 4f13291000127aaa6
+DESCRIPTION:Tags: house\nAges: 21+\nhttps://dice.fm/event/6ac6aa74f13291000
+ 127aaa6
 URL:https://dice.fm/event/6ac6aa74f13291000127aaa6
 STATUS:CONFIRMED
-CATEGORIES:house,tech house
+CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6acfab7319150500012f9256@jolene.miami-calendars
@@ -180,18 +195,19 @@ CATEGORIES:house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a85fc0f21cf70000116039a@jolene.miami-calendars
-DTSTAMP:20261014T221830Z
-LAST-MODIFIED:20261014T221830Z
-SEQUENCE:0
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
+SEQUENCE:1
 DTSTART:20261114T030000Z
 DTEND:20261114T090000Z
 SUMMARY:Adiel & Yu Su
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
 DESCRIPTION:Lineup: Adiel\, Yu Su\nTags: house\nAges: 21+\nhttps://dice.fm/
- event/6a85fc0f21cf70000116039a\nhttps://edmtrain.com/miami-fl/adiel-yu-su-
- 530460
-URL:https://dice.fm/event/6a85fc0f21cf70000116039a
+ event/bb99gg-adiel-yu-su-13th-nov-jolene-sound-room-miami-miami-tickets\nh
+ ttps://edmtrain.com/miami-fl/adiel-yu-su-530460
+URL:https://dice.fm/event/bb99gg-adiel-yu-su-13th-nov-jolene-sound-room-mia
+ mi-miami-tickets
 STATUS:CONFIRMED
 CATEGORIES:house
 END:VEVENT

@@ -25,55 +25,6 @@ STATUS:CONFIRMED
 CATEGORIES:multigenre edm
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-434705@festivals.miami-calendars
-DTSTAMP:20260922T005009Z
-LAST-MODIFIED:20260922T005009Z
-SEQUENCE:2
-DTSTART:20261016T190000Z
-DTEND:20261017T060000Z
-SUMMARY:III Points: Vintage Culture b2b Max Styler\, Cloonee\, Men I Trust
- \, Parcels\, Lil' Kim\, PAWSA\, Tokischa\, Bone Thugs-N-Harmony\, Connan M
- ockasin\, Purity Ring\, Disco Lines\, Flying Lotus\, underscores\, Levity 
- b2b Taiki Nulight\, Hamdi\, Jane Remover\, Odd Mob\, Beltran b2b Ben Sterl
- ing\, Danny Brown\, Ivy Lab\, Mary Droppinz\, Jacques Greene\, Ahmed Spins
-  b2b OMRI.\, jigitz\, mind enterprises\, Nate Sib\, Brunello b2b Rafael\, 
- Discip\, Danny Daze b2b DJ Godfather\, Roddy Lima\, Ragie Ban\, Eli Escoba
- r b2b Jubilee\, INVT
-LOCATION:Mana Wynwood Convention Center\, 318 NW 23rd St\, Miami\, FL 33127
- \, USA
-DESCRIPTION:Lineup: Vintage Culture\, Max Styler\, Cloonee\, Men I Trust\, 
- Parcels\, Lil' Kim\, PAWSA\, Tokischa\, Bone Thugs-N-Harmony\, Connan Mock
- asin\, Purity Ring\, Disco Lines\, Flying Lotus\, underscores\, Levity\, T
- aiki Nulight\, Hamdi\, Jane Remover\, Odd Mob\, Beltran\, Ben Sterling\, D
- anny Brown\, Ivy Lab\, Mary Droppinz\, Jacques Greene\, Ahmed Spins\, OMRI
- .\, jigitz\, mind enterprises\, Nate Sib\, Brunello\, Rafael\, Discip\, Da
- nny Daze\, DJ Godfather\, Roddy Lima\, Ragie Ban\, Eli Escobar\, Jubilee\,
-  INVT\nTimes are an estimate from Festivals & one-offs's usual hours - the
-  listing has no start time yet. Check the link.\nhttps://iiipoints.frontga
- tetickets.com/?utm_source=Promoters&utm_medium=edmtrain&utm_campaign=edmtr
- ain\nhttps://edmtrain.com/miami-fl/iii-points-434705
-URL:https://iiipoints.frontgatetickets.com/?utm_source=Promoters&utm_medium
- =edmtrain&utm_campaign=edmtrain
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:edmtrain-542616@festivals.miami-calendars
-DTSTAMP:20261017T101816Z
-LAST-MODIFIED:20261017T101816Z
-SEQUENCE:0
-DTSTART:20261017T010000Z
-DTEND:20261017T070000Z
-SUMMARY:III Points Satellite Party
-LOCATION:Mad Radio Miami\, 7700 Biscayne Blvd\, Miami\, FL 33138\, USA
-DESCRIPTION:Tags (guess): deep house\, house\nTimes are an estimate from Fe
- stivals & one-offs's usual hours - the listing has no start time yet. Chec
- k the link.\nhttps://shotgun.live/events/madradiomiami101626?utm_source=ed
- mtrain\nhttps://edmtrain.com/miami-fl/iii-points-satellite-party-542616
-URL:https://shotgun.live/events/madradiomiami101626?utm_source=edmtrain
-STATUS:CONFIRMED
-CATEGORIES:deep house,house
-END:VEVENT
-BEGIN:VEVENT
 UID:edmtrain-434706@festivals.miami-calendars
 DTSTAMP:20260922T005009Z
 LAST-MODIFIED:20260922T005009Z
@@ -119,9 +70,9 @@ CATEGORIES:rock,alternative,house
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami101726@shotgun.live
-DTSTAMP:20261017T101816Z
-LAST-MODIFIED:20261017T101816Z
-SEQUENCE:94
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
+SEQUENCE:96
 DTSTART:20261018T010000Z
 DTEND:20261018T070000Z
 SUMMARY:III Points Satellite Party: Israel Sunshine / Tomas Saenz
@@ -199,6 +150,21 @@ STATUS:CONFIRMED
 CATEGORIES:techno
 END:VEVENT
 BEGIN:VEVENT
+UID:wing@shotgun.live
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
+SEQUENCE:0
+DTSTART:20261024T020000Z
+DTEND:20261024T070000Z
+SUMMARY:The Wing Dimension
+LOCATION:Miami
+DESCRIPTION:Tags: techno\, jersey club\, rap\nhttps://shotgun.live/en/event
+ s/wing
+URL:https://shotgun.live/en/events/wing
+STATUS:CONFIRMED
+CATEGORIES:techno,jersey club,rap
+END:VEVENT
+BEGIN:VEVENT
 UID:karnival-halloween-party-horror-games-18-rave@shotgun.live
 DTSTAMP:20261010T161814Z
 LAST-MODIFIED:20261010T161814Z
@@ -233,21 +199,22 @@ STATUS:CONFIRMED
 CATEGORIES:electro house,electronica,hardstyle,house
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-541995@festivals.miami-calendars
-DTSTAMP:20261003T101836Z
-LAST-MODIFIED:20261003T101836Z
+UID:19hz-4447248-joelcorrysinatse@festivals.miami-calendars
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
 SEQUENCE:0
-DTSTART:20261030T190000Z
-DTEND:20261031T060000Z
-SUMMARY:Joel Corry
-LOCATION:The Shorely At Marina Village\, 849 Seabreeze Blvd\, Fort Lauderda
- le\, FL 33316\, USA
-DESCRIPTION:Lineup: Joel Corry\nTimes are an estimate from Festivals & one-
- offs's usual hours - the listing has no start time yet. Check the link.\nh
- ttps://www.eventbrite.com/e/2002723474825?aff=ebdimtedmtrain\nhttps://edmt
- rain.com/fort-lauderdale-fl/joel-corry-541995
-URL:https://www.eventbrite.com/e/2002723474825?aff=ebdimtedmtrain
+DTSTART:20261030T160000Z
+DTEND:20261030T180000Z
+SUMMARY:Joel Corry | Sin at Sea
+LOCATION:The Shorely At Marina Village\, Fort Lauderdale
+DESCRIPTION:Lineup: Joel Corry\nTags: house\, pop edm\nAges: 21+\nhttps://w
+ ww.eventbrite.com/e/joel-corry-sin-at-sea-halloween-weekend-at-the-shorely
+ -tickets-2002723474825\nhttps://edmtrain.com/fort-lauderdale-fl/joel-corry
+ -541995
+URL:https://www.eventbrite.com/e/joel-corry-sin-at-sea-halloween-weekend-at
+ -the-shorely-tickets-2002723474825
 STATUS:CONFIRMED
+CATEGORIES:house,pop edm
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4447279-hallorave@festivals.miami-calendars
@@ -265,21 +232,22 @@ STATUS:CONFIRMED
 CATEGORIES:drum and bass,jungle,uk bass,uk garage
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-543280@festivals.miami-calendars
-DTSTAMP:20261007T041839Z
-LAST-MODIFIED:20261007T041839Z
+UID:19hz-4447368-feddelegrandship@festivals.miami-calendars
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
 SEQUENCE:0
-DTSTART:20261031T190000Z
-DTEND:20261101T070000Z
-SUMMARY:Fedde Le Grand
-LOCATION:The Shorely At Marina Village\, 849 Seabreeze Blvd\, Fort Lauderda
- le\, FL 33316\, USA
-DESCRIPTION:Lineup: Fedde Le Grand\nTimes are an estimate from Festivals & 
- one-offs's usual hours - the listing has no start time yet. Check the link
- .\nhttps://www.eventbrite.com/e/2002959594064?aff=ebdimtedmtrain\nhttps://
- edmtrain.com/fort-lauderdale-fl/fedde-le-grand-543280
-URL:https://www.eventbrite.com/e/2002959594064?aff=ebdimtedmtrain
+DTSTART:20261031T220000Z
+DTEND:20261101T090000Z
+SUMMARY:Fedde Le Grand | Shipwrecked Halloween
+LOCATION:The Shorely At Marina Village\, Fort Lauderdale
+DESCRIPTION:Lineup: Fedde Le Grand\nTags: house\nAges: 21+\nhttps://www.eve
+ ntbrite.com/e/fedde-le-grand-shipwrecked-halloween-weekend-at-the-shorely-
+ tickets-2002959594064\nhttps://edmtrain.com/fort-lauderdale-fl/fedde-le-gr
+ and-543280
+URL:https://www.eventbrite.com/e/fedde-le-grand-shipwrecked-halloween-weeke
+ nd-at-the-shorely-tickets-2002959594064
 STATUS:CONFIRMED
+CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4447380-zoey808x9b49hall@festivals.miami-calendars
@@ -315,20 +283,20 @@ STATUS:CONFIRMED
 CATEGORIES:afro,reggaeton,house
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-542565@festivals.miami-calendars
-DTSTAMP:20261006T041839Z
-LAST-MODIFIED:20261006T041839Z
+UID:19hz-4448056-alexfarell@festivals.miami-calendars
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
 SEQUENCE:0
-DTSTART:20261107T200000Z
-DTEND:20261108T070000Z
+DTSTART:20261108T030000Z
+DTEND:20261108T080000Z
 SUMMARY:Alex Farell
-LOCATION:Casa Nube Wynwood\, 2060 NW 1st Ave\, Miami\, FL 33127\, USA
-DESCRIPTION:Lineup: Alex Farell\nTimes are an estimate from Festivals & one
- -offs's usual hours - the listing has no start time yet. Check the link.\n
- https://posh.vip/e/alex-farell?t=edmtrain\nhttps://edmtrain.com/miami-fl/a
- lex-farell-542565
-URL:https://posh.vip/e/alex-farell?t=edmtrain
+LOCATION:Casa Nube Wynwood
+DESCRIPTION:Lineup: Alex Farell\nTags: hard techno\nPresented by: Beyond\nA
+ ges: 18+\nhttps://posh.vip/e/alex-farell\nhttps://edmtrain.com/miami-fl/al
+ ex-farell-542565
+URL:https://posh.vip/e/alex-farell
 STATUS:CONFIRMED
+CATEGORIES:hard techno
 END:VEVENT
 BEGIN:VEVENT
 UID:the-hall-pres-roy-rosenfeld@shotgun.live
@@ -396,6 +364,21 @@ DESCRIPTION:Lineup: KARAN!\, LAMEBOT\, JEAN SEAN\, Craze\nTimes are an esti
  n-lamebot-543177
 URL:https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzA0OD
  E1Ojc=/clickthru
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:19hz-4449769-tudobem@festivals.miami-calendars
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
+SEQUENCE:0
+DTSTART:20261125T233000Z
+DTEND:20261126T023000Z
+SUMMARY:Tudo Bem
+LOCATION:Miami Beach Bandshell\, Miami Beach
+DESCRIPTION:Ages: All ages\nhttps://wl.eventim.us/event/tudo-bem/704815?aff
+ lky=MiamiBeachBandshell&nts_trk=32183de8-fffa-4854-baad-2f579c89644f
+URL:https://wl.eventim.us/event/tudo-bem/704815?afflky=MiamiBeachBandshell&
+ nts_trk=32183de8-fffa-4854-baad-2f579c89644f
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -593,6 +576,21 @@ DESCRIPTION:Times are an estimate from Festivals & one-offs's usual hours -
 URL:https://laylo.com/subtronics/cyclopscove4?utm_source=2d65QY9eqctgGASihm
  BqtZRSA&utm_medium=rsvpCard&utm_campaign=null&utm_id=dropLikeThis
 STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:19hz-4451887-mrpauerfriends@festivals.miami-calendars
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
+SEQUENCE:0
+DTSTART:20261218T010000Z
+DTEND:20261218T045900Z
+SUMMARY:Mr. Pauer & Friends
+LOCATION:Miami Beach Bandshell\, Miami Beach
+DESCRIPTION:Tags: afro house\, latin bass\nAges: All ages\nhttps://ra.co/ev
+ ents/2509687
+URL:https://ra.co/events/2509687
+STATUS:CONFIRMED
+CATEGORIES:afro house,latin bass
 END:VEVENT
 BEGIN:VEVENT
 UID:edmtrain-523791@festivals.miami-calendars

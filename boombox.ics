@@ -9,16 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4445940-ravefurrestmiami@boombox.miami-calendars
-DTSTAMP:20261006T221830Z
-LAST-MODIFIED:20261006T221830Z
-SEQUENCE:1
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
+SEQUENCE:2
 DTSTART:20261017T010000Z
 DTEND:20261017T070000Z
 SUMMARY:Ravefurrest Miami: passengerprincess\, Sixwing\, Gaterror\, Demifie
  nd\, kittenhouse\, Dateline
 LOCATION:The Boombox
-DESCRIPTION:Lineup: Demifiend\, Kittenhouse\nAges: 18+\nhttps://ra.co/event
- s/2539489\nhttps://edmtrain.com/miami-fl/demifiend-kittenhouse-542910
+DESCRIPTION:Ages: 18+\nhttps://ra.co/events/2539489
 URL:https://ra.co/events/2539489
 STATUS:CONFIRMED
 END:VEVENT

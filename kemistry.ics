@@ -8,18 +8,16 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a6bfca21cace90001cc180d@kemistry.miami-calendars
-DTSTAMP:20260922T004154Z
-LAST-MODIFIED:20260922T004154Z
-SEQUENCE:3
+UID:19hz-4445944-codddubzheh@kemistry.miami-calendars
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
+SEQUENCE:0
 DTSTART:20261017T020000Z
 DTEND:20261017T080000Z
-SUMMARY:CODD DUBZ x HE$H
-LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
- 312\, United States
-DESCRIPTION:Lineup: Codd Dubz\, HE$H\nTags: dubstep\, trap\nAges: 18+\nhttp
- s://dice.fm/event/923lv9-codd-dubz-x-heh-16th-oct-kemistry-fort-lauderdale
- -tickets\nhttps://edmtrain.com/fort-lauderdale-fl/codd-dubz-he-h-525557
+SUMMARY:Codd Dubz\, He$h
+LOCATION:Kemistry\, Fort Lauderdale
+DESCRIPTION:Tags: dubstep\, trap\nAges: 18+\nhttps://dice.fm/event/923lv9-c
+ odd-dubz-x-heh-16th-oct-kemistry-fort-lauderdale-tickets
 URL:https://dice.fm/event/923lv9-codd-dubz-x-heh-16th-oct-kemistry-fort-lau
  derdale-tickets
 STATUS:CONFIRMED
@@ -114,20 +112,20 @@ CATEGORIES:bass,dubstep
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abc56c1a24952000158beb2@kemistry.miami-calendars
-DTSTAMP:20261003T161825Z
-LAST-MODIFIED:20261003T161825Z
-SEQUENCE:1
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
+SEQUENCE:2
 DTSTART:20261031T020000Z
 DTEND:20261031T080000Z
 SUMMARY:HALLOWEEN PARTY
 LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
  312\, United States
-DESCRIPTION:Tags (guess): bass\, dubstep\nhttps://dice.fm/event/6abc56c1a24
- 952000158beb2\nhttps://edmtrain.com/fort-lauderdale-fl/fort-lauderdale-hal
- loween-542024
+DESCRIPTION:Tags: edm\, hip-hop\, pop edm\nAges: 18+\nhttps://dice.fm/event
+ /6abc56c1a24952000158beb2\nhttps://edmtrain.com/fort-lauderdale-fl/fort-la
+ uderdale-halloween-542024\nhttps://posh.vip/e/ftl-halloween-1
 URL:https://dice.fm/event/6abc56c1a24952000158beb2
 STATUS:CONFIRMED
-CATEGORIES:bass,dubstep
+CATEGORIES:edm,hip-hop,pop edm
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6acfb3f29caad40001f10842@kemistry.miami-calendars
@@ -195,20 +193,21 @@ CATEGORIES:bass,dubstep
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6acd12180a3d6400017d20c5@kemistry.miami-calendars
-DTSTAMP:20261013T041823Z
-LAST-MODIFIED:20261013T041823Z
-SEQUENCE:1
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
+SEQUENCE:2
 DTSTART:20261113T030000Z
 DTEND:20261113T090000Z
 SUMMARY:4B
 LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
  312\, United States
-DESCRIPTION:Lineup: 4B\nTags (guess): bass\, dubstep\nhttps://dice.fm/event
- /6acd12180a3d6400017d20c5\nhttps://edmtrain.com/fort-lauderdale-fl/4b-5443
- 95
-URL:https://dice.fm/event/6acd12180a3d6400017d20c5
+DESCRIPTION:Lineup: 4B\nTags: dubstep\, trap\nAges: 18+\nhttps://dice.fm/ev
+ ent/nvr835-4b-12th-nov-kemistry-fort-lauderdale-tickets\nhttps://edmtrain.
+ com/fort-lauderdale-fl/4b-544395
+URL:https://dice.fm/event/nvr835-4b-12th-nov-kemistry-fort-lauderdale-ticke
+ ts
 STATUS:CONFIRMED
-CATEGORIES:bass,dubstep
+CATEGORIES:dubstep,trap
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab3fb9d80f9a500012b3792@kemistry.miami-calendars
@@ -463,14 +462,15 @@ STATUS:CONFIRMED
 CATEGORIES:bass,dubstep
 END:VEVENT
 BEGIN:VEVENT
-UID:19hz-4456120-junkiekid@kemistry.miami-calendars
-DTSTAMP:20261016T221813Z
-LAST-MODIFIED:20261016T221813Z
+UID:dice-6abde1c608a31d0001f4c9e6@kemistry.miami-calendars
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
 SEQUENCE:0
 DTSTART:20270131T030000Z
 DTEND:20270131T090000Z
-SUMMARY:Junkie Kid
-LOCATION:Kemistry\, Fort Lauderdale
+SUMMARY:JUNKIE KID
+LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
+ 312\, United States
 DESCRIPTION:Lineup: Junkie Kid\nTags: hard dance\, hard house\nAges: 18+\nh
  ttps://dice.fm/event/53k25d-junkie-kid-30th-jan-kemistry-fort-lauderdale-t
  ickets\nhttps://edmtrain.com/fort-lauderdale-fl/junkie-kid-541640

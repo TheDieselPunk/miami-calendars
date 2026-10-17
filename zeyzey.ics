@@ -9,17 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:tablelist-09696654a43f6624@zeyzey.miami-calendars
-DTSTAMP:20261017T101816Z
-LAST-MODIFIED:20261017T101816Z
-SEQUENCE:2
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
+SEQUENCE:3
 DTSTART:20261017T000000Z
 DTEND:20261017T060000Z
 SUMMARY:Party Pupils
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: Party Pupils\nTags: future funk\, house\nAges: 21+\nhtt
- ps://buy.tablelist.com/e/09696654a43f6624\nhttps://calendar.zeyzeymiami.co
- m/shows/party-pupils-16-oct\nhttps://edmtrain.com/miami-fl/party-pupils-52
- 9175
+DESCRIPTION:Tags: future funk\, house\nAges: 21+\nhttps://buy.tablelist.com
+ /e/09696654a43f6624\nhttps://calendar.zeyzeymiami.com/shows/party-pupils-1
+ 6-oct
 URL:https://buy.tablelist.com/e/09696654a43f6624
 STATUS:CONFIRMED
 CATEGORIES:future funk,house

@@ -8,20 +8,16 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a8724f65b367e0001f22de9@club-space.miami-calendars
-DTSTAMP:20260922T004038Z
-LAST-MODIFIED:20260922T004038Z
-SEQUENCE:2
+UID:19hz-4445947-999999999kikirom@club-space.miami-calendars
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
+SEQUENCE:0
 DTSTART:20261017T030000Z
 DTEND:20261017T180000Z
-SUMMARY:Satellite: 999999999\, KI/KI\, Roman Flügel B2B Danny Daze\, ¥ØU
- $UK€ ¥UK1MAT$U + MORE
-LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: 999999999\, KI/KI\, Roman Flügel\, Danny Daze\, ¥ØU$
- UK€ ¥UK1MAT$U\, Ashley Venom\, Cole Knight\, Natalia Roth\, Heidi Lawde
- n\, Terence Tabeau\, DJ Three\, oma totem\, Priori\nTags: techno\nAges: 21
- +\nhttps://dice.fm/event/6a8724f65b367e0001f22de9\nhttps://edmtrain.com/mi
- ami-fl/999999999-ki-ki-530703
+SUMMARY:999999999\, KI/KI\, Roman Flugel B2B Danny Daze\, Yousuke Yukimatsu
+LOCATION:Club Space
+DESCRIPTION:Tags: techno\nAges: 21+\nhttps://dice.fm/event/6a8724f65b367e00
+ 01f22de9
 URL:https://dice.fm/event/6a8724f65b367e0001f22de9
 STATUS:CONFIRMED
 CATEGORIES:techno
@@ -171,19 +167,19 @@ CATEGORIES:deep house,tech house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ac66d60ede61600010d1cba@club-space.miami-calendars
-DTSTAMP:20261009T041829Z
-LAST-MODIFIED:20261009T041829Z
-SEQUENCE:1
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
+SEQUENCE:2
 DTSTART:20261107T040000Z
 DTEND:20261107T170000Z
 SUMMARY:Dennis Cruz + Moodymann b2b Carl Craig
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Dennis Cruz\, Moodymann\, Carl Craig\nTags (guess): hou
- se\, techno\nhttps://dice.fm/event/6ac66d60ede61600010d1cba\nhttps://edmtr
- ain.com/miami-fl/dennis-cruz-moodymann-543635
+DESCRIPTION:Lineup: Dennis Cruz\, Moodymann\, Carl Craig\nTags: deep house
+ \, tech house\nAges: 21+\nhttps://dice.fm/event/6ac66d60ede61600010d1cba\n
+ https://edmtrain.com/miami-fl/dennis-cruz-moodymann-543635
 URL:https://dice.fm/event/6ac66d60ede61600010d1cba
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:deep house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ac68f6c19d9030001a4695e@club-space.miami-calendars
@@ -202,19 +198,19 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ac681e6ede6160001275006@club-space.miami-calendars
-DTSTAMP:20261009T041829Z
-LAST-MODIFIED:20261009T041829Z
-SEQUENCE:1
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
+SEQUENCE:2
 DTSTART:20261114T040000Z
 DTEND:20261114T170000Z
 SUMMARY:James Hype + HILLS
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: James Hype\nTags (guess): house\, techno\nhttps://dice.
- fm/event/6ac681e6ede6160001275006\nhttps://edmtrain.com/miami-fl/james-hyp
- e-543636
+DESCRIPTION:Lineup: James Hype\nTags: tech house\nAges: 21+\nhttps://dice.f
+ m/event/6ac681e6ede6160001275006\nhttps://edmtrain.com/miami-fl/james-hype
+ -543636
 URL:https://dice.fm/event/6ac681e6ede6160001275006
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aac10c51773540001e4c41f@club-space.miami-calendars
@@ -280,19 +276,20 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ac68eedf6f26b00017c493b@club-space.miami-calendars
-DTSTAMP:20261009T041829Z
-LAST-MODIFIED:20261009T041829Z
-SEQUENCE:1
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
+SEQUENCE:2
 DTSTART:20261126T040000Z
 DTEND:20261126T190000Z
 SUMMARY:Franky Rizardo + East End Dubs
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Franky Rizardo\, East End Dubs\nTags (guess): house\, t
- echno\nhttps://dice.fm/event/6ac68eedf6f26b00017c493b\nhttps://edmtrain.co
- m/miami-fl/franky-rizardo-east-end-dubs-543637
+DESCRIPTION:Lineup: Franky Rizardo\, East End Dubs\nTags: deep house\, funk
+ y house\, jackin house\, tech house\nAges: 21+\nhttps://dice.fm/event/6ac6
+ 8eedf6f26b00017c493b\nhttps://edmtrain.com/miami-fl/franky-rizardo-east-en
+ d-dubs-543637
 URL:https://dice.fm/event/6ac68eedf6f26b00017c493b
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:deep house,funky house,jackin house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab17e0bf1fdd8000191620e@club-space.miami-calendars
@@ -362,19 +359,19 @@ CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aa05356c1a81a000145fda3@club-space.miami-calendars
-DTSTAMP:20261004T221819Z
-LAST-MODIFIED:20261004T221819Z
-SEQUENCE:2
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
+SEQUENCE:3
 DTSTART:20261204T040000Z
 DTEND:20261205T010000Z
 SUMMARY:Paradise (Space Basel 2026)
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags: tech house\nAges: 21+\nhttps://dice.fm/event/6aa05356c1a8
- 1a000145fda3\nhttps://edmtrain.com/miami-fl/paradise-space-basel-2026-5354
- 07
+DESCRIPTION:Tags: house\, tech house\, techno\nAges: 21+\nhttps://dice.fm/e
+ vent/6aa05356c1a81a000145fda3\nhttps://edmtrain.com/miami-fl/paradise-spac
+ e-basel-2026-535407\nhttps://link.dice.fm/rawcutsbasel
 URL:https://dice.fm/event/6aa05356c1a81a000145fda3
 STATUS:CONFIRMED
-CATEGORIES:tech house
+CATEGORIES:house,tech house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aa19424a8735500017d3f72@club-space.miami-calendars

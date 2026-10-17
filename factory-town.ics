@@ -58,19 +58,20 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a84879f8e0c81000177fc08@factory-town.miami-calendars
-DTSTAMP:20261013T041823Z
-LAST-MODIFIED:20261013T041823Z
-SEQUENCE:3
+DTSTAMP:20261017T161817Z
+LAST-MODIFIED:20261017T161817Z
+SEQUENCE:4
 DTSTART:20261114T030000Z
 DTEND:20261114T100000Z
 SUMMARY:UNREAL
 LOCATION:Factory Town\, 4800 NW 37th Ave\, Miami\, FL 33142\, USA
-DESCRIPTION:Lineup: Callush\, feph\, PRADA2000\, Trym\nTags: techno\nAges: 
- 18+\nhttps://dice.fm/event/6a84879f8e0c81000177fc08\nhttps://edmtrain.com/
- miami-fl/callush-feph-544373
-URL:https://dice.fm/event/6a84879f8e0c81000177fc08
+DESCRIPTION:Lineup: Callush\, feph\, PRADA2000\, Trym\nTags: eurobeat\, har
+ d techno\, hard trance\, techno\nAges: 18+\nhttps://dice.fm/event/6dood3-u
+ nreal-13th-nov-factory-town-miami-tickets\nhttps://edmtrain.com/miami-fl/c
+ allush-feph-544373
+URL:https://dice.fm/event/6dood3-unreal-13th-nov-factory-town-miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:techno
+CATEGORIES:eurobeat,hard techno,hard trance,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a3077721b98d10001598c8a@factory-town.miami-calendars
