@@ -472,30 +472,6 @@
    "url": "https://ra.co/events/2559594"
   },
   {
-   "id": "shotgun:qi-spotlight-2026-trade-show-ft-p-la-cangri",
-   "source": "shotgun",
-   "title": "Qi Spotlight 2026 Trade Show Ft. P La Cangri",
-   "artists": [],
-   "venue": "Quality Importers Trading Company",
-   "venue_slug": null,
-   "date": "2026-10-17",
-   "start": "2026-10-17T15:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "dance",
-    "afro house",
-    "afrobeat"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/qi-spotlight-2026-trade-show-ft-p-la-cangri"
-  },
-  {
    "id": "hardrock:202011",
    "source": "19hz+edmtrain+venue",
    "title": "Ian Asher",
@@ -1948,7 +1924,7 @@
    "source": "19hz+shotgun",
    "title": "Werk Music: Nico / Doin' Us / Kike Roldan",
    "artists": [
-    "kikeroldan"
+    "Kike Roldan"
    ],
    "venue": "Mad Radio Miami",
    "venue_slug": "mad-radio",
@@ -2151,13 +2127,13 @@
    "time_estimated": false,
    "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
    "ages": "",
-   "price": "$30.00",
+   "price": "$20.00",
    "genres": [],
    "genres_inferred": false,
    "organizer": "The Boombox Miami",
    "description": "DON’T DREAM IT BE IT 💥 The Boombox (@theboomboxmiami) and the talent of Miami-Dade (@rockyhorrormiami) have teamed up to create THE ROCKY HORROR PARTY SHOW, a multi-medium performance piece that immerses the audience into the salacious world of this beloved queer cult classic 🪭💫 WHEN: THURSDAY Oct 22 8PM FRIDAY Oct 23 8PM/12AM WHERE: The Boombox #yatusabes WEAR: Slut or Suit no exceptions!! Checking drip and IDs (18+) at the the door 🫵 2 nights, 3 shows you can bring your co-worker with bangs to, and one wild final MIDNIGHT ride you’re not going to want to miss!! Expect live music, cabaret, cinematic projections, y más 💫 There will be flashing lights, sudden sounds, and other practical effects designed to heighten your senses. Please check the ticket info for how you can best enjoy this invento of party show 🥳 SEATS AND TICKETS LIMITED BOOTS LET UR FRIENDS KNOWW Give yourself over to absolute pleasure this October darlings when the mood takes us we’re known to be quite generous 💋 Follow @rockyhorrormiami for early tricks n’ treats and more behind the scenes looks at The Rocky Horror Party Show Project!! See you there, mon chers 💌",
    "url": "https://shotgun.live/en/events/rocky-horror-picture-show",
-   "tickets": "8PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME GA $30, 11:45PM SHOWTIME GA $30 (sold out), 8PM SHOWTIME GA $30 (sold out), 11:45PM SHOWTIME GA $30 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME GA $30 (sold out)",
+   "tickets": "11:45PM SHOWTIME EARLY BIRD $20, 8PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME GA $30, 11:45PM SHOWTIME GA $30 (sold out), 8PM SHOWTIME GA $30 (sold out), 11:45PM SHOWTIME GA $30 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME GA $30 (sold out)",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -3115,6 +3091,39 @@
    "generic_title": false
   },
   {
+   "id": "shotgun:benefica-pop-up",
+   "source": "shotgun",
+   "title": "Benéfica Pop Up",
+   "artists": [
+    "Milagros Espada"
+   ],
+   "venue": "Mad Radio Miami",
+   "venue_slug": "mad-radio",
+   "date": "2026-10-24",
+   "start": "2026-10-24T18:00:00+00:00",
+   "end": "2026-10-25T01:00:00+00:00",
+   "time_estimated": false,
+   "address": "7700 Biscayne Boulevard, Miami, FL 33138, EE. UU.",
+   "ages": "",
+   "price": "$11.35",
+   "genres": [
+    "deep house",
+    "house"
+   ],
+   "genres_inferred": true,
+   "organizer": "Benéfica",
+   "description": "Benéfica Pop-Up · Riverside Terrace Line-up An afternoon of live music, great food and independent brands on the riverside terrace at Mad Radio Miami, all for a cause: children in Colombia. 🎶 LIVE DJs Milagros Espada · Rob Keith · Misturada 🍽️ FOOD Menu by Chef Vima Castillo üõçÔ∏è INDEPENDENT BRANDS Art, design, fashion, photography and handmade accessories from Miami-based creators, including Rootsbylaura, La Linterna, Las Chinis Miami, Blank Mind, Martina Hoyos and Pantha Design Lab, with more to be announced. 💲 FREE ENTRY, VOLUNTARY DONATION Entry is free. If you wish, you can make a voluntary donation on the day, and everything goes to children in Colombia. ✨ One more thing That day we unveil something new. You'll only see it if you come. 📅 Saturday, October 24 · 2 p.m. 📍 Mad Radio Miami · 7700 Biscayne Blvd, Miami Hosted by Benéfica, in partnership with Mad Radio and Mad Records. Instagram: @benefica_col",
+   "url": "https://shotgun.live/en/events/benefica-pop-up",
+   "tickets": "Donation $10 $10, Donation $20 $20, Donation $50 $50",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.8462027,
+    "longitude": -80.1851332
+   },
+   "created": "2026-10-17T18:40:37.000Z"
+  },
+  {
    "id": "19hz:4446684-techniquerecords",
    "source": "19hz",
    "title": "Technique Records Open Decks",
@@ -3831,7 +3840,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "18+",
-   "price": "$23-51.70",
+   "price": "Free",
    "genres": [
     "disco",
     "funk",
@@ -13452,7 +13461,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $65",
+   "price": "From $75",
    "genres": [
     "progressive house",
     "tech house"
