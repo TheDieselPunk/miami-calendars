@@ -8,19 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:tablelist-0333e4f6895f5ec6@zeyzey.miami-calendars
-DTSTAMP:20261016T221813Z
-LAST-MODIFIED:20261016T221813Z
-SEQUENCE:3
-DTSTART:20261015T200000Z
-DTEND:20261016T020000Z
-SUMMARY:Satellite: Chasewest B2B Discip\, Ragie Ban\, Dan Molinari & Stixx
-LOCATION:ZeyZey Miami
-DESCRIPTION:https://buy.tablelist.com/e/0333e4f6895f5ec6
-URL:https://buy.tablelist.com/e/0333e4f6895f5ec6
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:tablelist-09696654a43f6624@zeyzey.miami-calendars
 DTSTAMP:20261002T161826Z
 LAST-MODIFIED:20261002T161826Z
@@ -581,9 +568,9 @@ CATEGORIES:indie/alternative
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-selects-donny-benet@shotgun.live
-DTSTAMP:20261016T161816Z
-LAST-MODIFIED:20261016T161816Z
-SEQUENCE:2
+DTSTAMP:20261017T041822Z
+LAST-MODIFIED:20261017T041822Z
+SEQUENCE:3
 DTSTART:20261121T233000Z
 DTEND:20261123T040000Z
 SUMMARY:Donny Benét
@@ -595,7 +582,8 @@ DESCRIPTION:Donny Benét Saturday\, November 21st 2026 18+ | Zaku Stage Tic
  \nhttps://shotgun.live/en/events/zeyzey-selects-donny-benet\nhttps://calen
  dar.zeyzeymiami.com/shows/donny-benet-21-nov\nhttps://calendar.zeyzeymiami
  .com/shows/helado-tropical-helado-negro-reyna-tropical-21-nov\nhttps://cal
- endar.zeyzeymiami.com/shows/under-the-disco-ball-ft-bosq-21-nov
+ endar.zeyzeymiami.com/shows/under-the-disco-ball-ft-bosq-21-nov\nhttps://e
+ dmtrain.com/miami-fl/under-the-disco-ball-bosq-545718
 URL:https://shotgun.live/en/events/zeyzey-selects-donny-benet
 STATUS:CONFIRMED
 CATEGORIES:electronica,funk,italo disco,latin,synthpop

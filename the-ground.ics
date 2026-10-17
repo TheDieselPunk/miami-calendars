@@ -8,23 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4445851-flyinglotusdjset@the-ground.miami-calendars
-DTSTAMP:20261016T161816Z
-LAST-MODIFIED:20261016T161816Z
-SEQUENCE:1
-DTSTART:20261016T030000Z
-DTEND:20261016T110000Z
-SUMMARY:Flying Lotus (DJ Set)\, Actress\, Ivy Lab
-LOCATION:The Ground
-DESCRIPTION:Tags: bass music\, drum and bass\, dubstep\, future beats\, gli
- tch-hop\, hip-hop\nAges: 21+\nhttps://dice.fm/event/dkdpev-satellite-flyin
- g-lotus-actress-ivy-lab-more-15th-oct-the-ground-miami-miami-tickets
-URL:https://dice.fm/event/dkdpev-satellite-flying-lotus-actress-ivy-lab-mor
- e-15th-oct-the-ground-miami-miami-tickets
-STATUS:CONFIRMED
-CATEGORIES:bass music,drum and bass,dubstep,future beats,glitch-hop,hip-hop
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6a8724f65b367e0001f22de9@the-ground.miami-calendars
 DTSTAMP:20260922T004038Z
 LAST-MODIFIED:20260922T004038Z

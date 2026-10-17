@@ -1,53 +1,6 @@
 {
  "events": [
   {
-   "id": "tablelist:0333e4f6895f5ec6",
-   "source": "tablelist",
-   "title": "Satellite: Chasewest B2B Discip, Ragie Ban, Dan Molinari & Stixx",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-10-15",
-   "start": "2026-10-15T20:00:00+00:00",
-   "end": "2026-10-16T02:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://buy.tablelist.com/e/0333e4f6895f5ec6"
-  },
-  {
-   "id": "19hz:4445851-flyinglotusdjset",
-   "source": "19hz",
-   "title": "Flying Lotus (DJ Set), Actress, Ivy Lab",
-   "artists": [],
-   "venue": "The Ground",
-   "venue_slug": "the-ground",
-   "date": "2026-10-15",
-   "start": "2026-10-16T03:00:00+00:00",
-   "end": "2026-10-16T11:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "",
-   "genres": [
-    "bass music",
-    "drum and bass",
-    "dubstep",
-    "future beats",
-    "glitch-hop",
-    "hip-hop"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/dkdpev-satellite-flying-lotus-actress-ivy-lab-more-15th-oct-the-ground-miami-miami-tickets"
-  },
-  {
    "id": "19hz:4445916-iiipoints2026",
    "source": "19hz",
    "title": "III Points 2026",
@@ -132,29 +85,6 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/iii-points-434705"
    ]
-  },
-  {
-   "id": "shotgun:hardcore-apocalypse",
-   "source": "shotgun",
-   "title": "Hardcore Apocalypse",
-   "artists": [],
-   "venue": "Tea & Poets",
-   "venue_slug": null,
-   "date": "2026-10-16",
-   "start": "2026-10-16T22:30:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$11.35",
-   "genres": [
-    "hardcore",
-    "rock"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/hardcore-apocalypse"
   },
   {
    "id": "19hz:4445932-fridaynightdjset",
@@ -445,27 +375,6 @@
    ]
   },
   {
-   "id": "hardrock:202032",
-   "source": "venue",
-   "title": "Dalvin La Melodia with Alex Sensation",
-   "artists": [],
-   "venue": "DAER Nightclub",
-   "venue_slug": "daer",
-   "date": "2026-10-16",
-   "start": "2026-10-17T02:00:00+00:00",
-   "end": "2026-10-17T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "1 Seminole Way, Hollywood, FL 33314",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://tixr.com/e/202032",
-   "generic_title": false
-  },
-  {
    "id": "19hz:4445944-chrisschwarzwald",
    "source": "19hz",
    "title": "Chris Schwarzwalder",
@@ -551,7 +460,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $12",
+   "price": "From $14",
    "genres": [
     "tbd"
    ],
@@ -691,7 +600,8 @@
    "title": "Hhunter + Antimatter",
    "artists": [
     "hhunter",
-    "Antimatter"
+    "Antimatter",
+    "Jay Toledo"
    ],
    "venue": "Domicile",
    "venue_slug": "domicile",
@@ -714,9 +624,9 @@
    ]
   },
   {
-   "id": "dice:6a83641eb48dec00014ae51f",
-   "source": "19hz+dice+edmtrain",
-   "title": "Satellite: Odd Mob",
+   "id": "19hz:4445947-oddmob",
+   "source": "19hz+edmtrain",
+   "title": "Odd Mob",
    "artists": [
     "Odd Mob",
     "Cut & Sew",
@@ -728,9 +638,9 @@
    "start": "2026-10-17T03:00:00+00:00",
    "end": "2026-10-17T09:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": "From $48 (sold out)",
+   "price": "",
    "genres": [
     "house",
     "progressive house"
@@ -739,9 +649,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/2wqyva-satellite-odd-mob-16th-oct-floyd-miami-miami-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/2wqyva-satellite-odd-mob-16th-oct-floyd-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/odd-mob-cut-and-sew-529531"
    ]
   },
@@ -2255,7 +2163,7 @@
   },
   {
    "id": "shotgun:openhaus-2",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Soirée Miami: Artist Showcase",
    "artists": [],
    "venue": "Miami",
@@ -2271,7 +2179,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/openhaus-2"
+   "url": "https://shotgun.live/en/events/openhaus-2",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/soiree-miami-artist-showcase-545554"
+   ]
   },
   {
    "id": "shotgun:folk-punk-night-at-the-beach",
@@ -2501,9 +2412,13 @@
   },
   {
    "id": "shotgun:madradiomiami102226",
-   "source": "shotgun",
-   "title": "Jovigibs",
-   "artists": [],
+   "source": "edmtrain+shotgun",
+   "title": "R/V Calypso / Dsd / Hermanos Otamendi",
+   "artists": [
+    "R/V Calypso",
+    "DSD",
+    "Hermanos Otamendi"
+   ],
    "venue": "Mad Radio Miami",
    "venue_slug": "mad-radio",
    "date": "2026-10-22",
@@ -2528,7 +2443,10 @@
     "latitude": 25.8462027,
     "longitude": -80.1851332
    },
-   "created": "2026-10-01T20:51:56.000Z"
+   "created": "2026-10-01T20:51:56.000Z",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/r-v-calypso-dsd-545619"
+   ]
   },
   {
    "id": "dice:6ac67e9f19d9030001b0b3ea",
@@ -3026,6 +2944,26 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/sapphic-panic-at-the-dyke-bar"
+  },
+  {
+   "id": "shotgun:wing",
+   "source": "shotgun",
+   "title": "The Wing Dimension",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-10-23",
+   "start": "2026-10-24T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$7.77",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/wing"
   },
   {
    "id": "19hz:4446616-greenvelvetcajme",
@@ -3721,13 +3659,14 @@
    "cancelled": false,
    "alt_urls": [
     "https://dice.fm/event/yodxp2-kasia-24th-oct-kemistry-fort-lauderdale-tickets",
-    "https://edmtrain.com/fort-lauderdale-fl/kasia-stone-van-brooken-535154"
+    "https://edmtrain.com/fort-lauderdale-fl/kasia-stone-van-brooken-535154",
+    "https://edmtrain.com/fort-lauderdale-fl/raveyard-pre-party-not-agn-545610"
    ]
   },
   {
    "id": "shotgun:lunasol-pres-joeski",
    "source": "edmtrain+shotgun",
-   "title": "Lunasol Pres. Joeski",
+   "title": "Lunasol Pres. Joeski + Special Guest Kimonos",
    "artists": [
     "Joeski"
    ],
@@ -4108,6 +4047,32 @@
    ]
   },
   {
+   "id": "edmtrain:545700",
+   "source": "edmtrain",
+   "title": "Loods, KOJA",
+   "artists": [
+    "Loods",
+    "KOJA"
+   ],
+   "venue": "Treehouse Miami Beach",
+   "venue_slug": null,
+   "date": "2026-10-24",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "323 23rd St, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.etix.com/ticket/p/63129693",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/loods-koja-545700"
+   ]
+  },
+  {
    "id": "hardrock:202018",
    "source": "venue",
    "title": "Gameday Watch Party 10/25",
@@ -4328,6 +4293,31 @@
    "url": "https://shotgun.live/en/events/the-overjoyed"
   },
   {
+   "id": "edmtrain:545578",
+   "source": "edmtrain",
+   "title": "AM75",
+   "artists": [
+    "AM75"
+   ],
+   "venue": "E11EVEN",
+   "venue_slug": null,
+   "date": "2026-10-27",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "29 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://speakeasygo.com/event/EVE-8GVMHE?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/am75-545578"
+   ]
+  },
+  {
    "id": "tablelist:303b09419bf8998a",
    "source": "tablelist+venue",
    "title": "Leon Bridges Presents: Happiness Anytime",
@@ -4411,6 +4401,33 @@
     "longitude": -80.1851332
    },
    "created": "2026-10-01T20:58:22.000Z"
+  },
+  {
+   "id": "edmtrain:545575",
+   "source": "edmtrain",
+   "title": "Jessy",
+   "artists": [
+    "Jessy"
+   ],
+   "venue": "Do Not Sit On The Furniture",
+   "venue_slug": null,
+   "date": "2026-10-28",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "423 16th St, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "deep house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/pyx5bk?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/jessy-545575"
+   ]
   },
   {
    "id": "tablelist:f68f86a4f33a974d",
@@ -6377,6 +6394,33 @@
    ]
   },
   {
+   "id": "edmtrain:545701",
+   "source": "edmtrain",
+   "title": "Kolby Fisher, Hunt, Teith",
+   "artists": [
+    "Kolby Fisher",
+    "Hunt",
+    "Teith"
+   ],
+   "venue": "Treehouse Miami Beach",
+   "venue_slug": null,
+   "date": "2026-10-31",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "323 23rd St, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.etix.com/ticket/p/44305441",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/kolby-fisher-hunt-545701"
+   ]
+  },
+  {
    "id": "hardrock:204544",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -7625,6 +7669,31 @@
    ]
   },
   {
+   "id": "edmtrain:545706",
+   "source": "edmtrain",
+   "title": "Shall Ocin",
+   "artists": [
+    "Shall Ocin"
+   ],
+   "venue": "Upside",
+   "venue_slug": null,
+   "date": "2026-11-07",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "59 NW 28th St, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/xe826k?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/shall-ocin-545706"
+   ]
+  },
+  {
    "id": "hardrock:205532",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -7958,6 +8027,31 @@
    ]
   },
   {
+   "id": "edmtrain:545577",
+   "source": "edmtrain",
+   "title": "Crespo",
+   "artists": [
+    "Crespo"
+   ],
+   "venue": "E11EVEN",
+   "venue_slug": null,
+   "date": "2026-11-12",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "29 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://speakeasygo.com/event/EVE-QXKA4A?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/crespo-545577"
+   ]
+  },
+  {
    "id": "zeyzey:the-altons-show-you-love-tour-13-nov",
    "source": "venue",
    "title": "The Altons: Show You Love Tour",
@@ -8141,9 +8235,11 @@
   },
   {
    "id": "shotgun:tres-mortimer-nov-13",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Très Mortimer By Mints On The House",
-   "artists": [],
+   "artists": [
+    "Très Mortimer"
+   ],
    "venue": "EDGE MIAMI",
    "venue_slug": null,
    "date": "2026-11-13",
@@ -8155,13 +8251,16 @@
    "price": "$20.00",
    "genres": [
     "house",
-    "tech house",
-    "minimal house"
+    "minimal house",
+    "tech house"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/tres-mortimer-nov-13"
+   "url": "https://shotgun.live/en/events/tres-mortimer-nov-13",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/mints-on-the-house-tres-mortimer-545579"
+   ]
   },
   {
    "id": "19hz:4448632-karstensollors",
@@ -9402,6 +9501,29 @@
    ]
   },
   {
+   "id": "edmtrain:545702",
+   "source": "edmtrain",
+   "title": "Bass Bingo Afters",
+   "artists": [],
+   "venue": "Treehouse Miami Beach",
+   "venue_slug": null,
+   "date": "2026-11-19",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "323 23rd St, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.etix.com/ticket/p/93542223",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/bass-bingo-afters-545702"
+   ]
+  },
+  {
    "id": "19hz:4449295-johnsummit",
    "source": "19hz+edmtrain",
    "title": "John Summit",
@@ -9864,7 +9986,7 @@
   },
   {
    "id": "shotgun:zeyzey-selects-donny-benet",
-   "source": "shotgun+venue",
+   "source": "edmtrain+shotgun+venue",
    "title": "Donny Benét",
    "artists": [
     "Donny Benét",
@@ -9901,7 +10023,8 @@
    "alt_urls": [
     "https://calendar.zeyzeymiami.com/shows/donny-benet-21-nov",
     "https://calendar.zeyzeymiami.com/shows/helado-tropical-helado-negro-reyna-tropical-21-nov",
-    "https://calendar.zeyzeymiami.com/shows/under-the-disco-ball-ft-bosq-21-nov"
+    "https://calendar.zeyzeymiami.com/shows/under-the-disco-ball-ft-bosq-21-nov",
+    "https://edmtrain.com/miami-fl/under-the-disco-ball-bosq-545718"
    ]
   },
   {
@@ -11265,6 +11388,32 @@
    "url": "https://www.eventbrite.com/e/1987540335647?aff=ebdimtedmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/urge-miami-539772"
+   ]
+  },
+  {
+   "id": "edmtrain:545663",
+   "source": "edmtrain",
+   "title": "Tchami, Ferno",
+   "artists": [
+    "Tchami",
+    "Ferno"
+   ],
+   "venue": "Sable Miami",
+   "venue_slug": null,
+   "date": "2026-11-28",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "2219 NW 2nd Ave, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/bbq3px?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/tchami-ferno-545663"
    ]
   },
   {
