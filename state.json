@@ -14,6 +14,11 @@
   "seq": 1,
   "modified": "2026-10-06T22:18:30+00:00"
  },
+ "19hz-4445944-satellitespecial@jolene.miami-calendars": {
+  "hash": "c80280d36048dfdf",
+  "seq": 0,
+  "modified": "2026-10-17T10:18:16+00:00"
+ },
  "19hz-4445947-hhunterantimatte@domicile.miami-calendars": {
   "hash": "9dfc172e0f2089c2",
   "seq": 1,
@@ -243,11 +248,6 @@
   "hash": "97c65e1555427f3d",
   "seq": 0,
   "modified": "2026-10-04T22:18:19+00:00"
- },
- "dice-6a823197b96d4a000112d8fb@jolene.miami-calendars": {
-  "hash": "5f66b253e8e435ae",
-  "seq": 1,
-  "modified": "2026-09-22T00:40:38+00:00"
  },
  "dice-6a823726dd1b160001c44659@jolene.miami-calendars": {
   "hash": "851fbfa0dac57399",
@@ -889,6 +889,16 @@
   "seq": 0,
   "modified": "2026-10-06T04:18:39+00:00"
  },
+ "edmtrain-542616@festivals.miami-calendars": {
+  "hash": "1b1ac9a4567baaf5",
+  "seq": 0,
+  "modified": "2026-10-17T10:18:16+00:00"
+ },
+ "edmtrain-542616@mad-radio.miami-calendars": {
+  "hash": "84ba498d8a3c82a8",
+  "seq": 0,
+  "modified": "2026-10-17T10:18:16+00:00"
+ },
  "edmtrain-543166@midline.miami-calendars": {
   "hash": "407290ce5863d462",
   "seq": 0,
@@ -1209,15 +1219,10 @@
   "seq": 1,
   "modified": "2026-10-10T16:18:14+00:00"
  },
- "madradiomiami101626@shotgun.live": {
-  "hash": "58a12604e5af3392",
-  "seq": 92,
-  "modified": "2026-10-17T04:18:22+00:00"
- },
  "madradiomiami101726@shotgun.live": {
   "hash": "accd49e0488e627f",
-  "seq": 92,
-  "modified": "2026-10-17T04:18:22+00:00"
+  "seq": 94,
+  "modified": "2026-10-17T10:18:16+00:00"
  },
  "madradiomiami102126@shotgun.live": {
   "hash": "501cb864d32f8234",
@@ -1285,9 +1290,9 @@
   "modified": "2026-10-10T04:18:32+00:00"
  },
  "tablelist-09696654a43f6624@zeyzey.miami-calendars": {
-  "hash": "5938acf875179f00",
-  "seq": 1,
-  "modified": "2026-10-02T16:18:26+00:00"
+  "hash": "9997861bed52c96e",
+  "seq": 2,
+  "modified": "2026-10-17T10:18:16+00:00"
  },
  "tablelist-303b09419bf8998a@zeyzey.miami-calendars": {
   "hash": "c8e961307ae86593",
