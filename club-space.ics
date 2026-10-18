@@ -8,15 +8,15 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a8726aa69055f0001adb581@club-space.miami-calendars
-DTSTAMP:20261018T161811Z
-LAST-MODIFIED:20261018T161811Z
-SEQUENCE:4
+UID:19hz-4446043-discolinesfourte@club-space.miami-calendars
+DTSTAMP:20261018T221810Z
+LAST-MODIFIED:20261018T221810Z
+SEQUENCE:0
 DTSTART:20261018T030000Z
-DTEND:20261019T000000Z
-SUMMARY:Satellite: Disco Lines\, Four Tet B2B Floating Points B2B Daphni\, 
- horsegiirL\, Kettama + MORE
-LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
+DTEND:20261018T170000Z
+SUMMARY:Disco Lines\, Four Tet b2b Floating Points b2b Daphni\, Horsegiirl
+ \, Kettama
+LOCATION:Club Space
 DESCRIPTION:Tags: downtempo\, house\, jazz\, leftfield\nAges: 21+\nhttps://
  dice.fm/event/6a8726aa69055f0001adb581
 URL:https://dice.fm/event/6a8726aa69055f0001adb581

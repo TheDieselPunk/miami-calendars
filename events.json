@@ -361,17 +361,17 @@
    "url": "https://dice.fm/event/oe8anr-lunasol-pres-chez-damier-17th-oct-lunasol-miami-tickets"
   },
   {
-   "id": "dice:6a8726aa69055f0001adb581",
-   "source": "19hz+dice",
-   "title": "Satellite: Disco Lines, Four Tet B2B Floating Points B2B Daphni, horsegiirL, Kettama + MORE",
+   "id": "19hz:4446043-discolinesfourte",
+   "source": "19hz",
+   "title": "Disco Lines, Four Tet b2b Floating Points b2b Daphni, Horsegiirl, Kettama",
    "artists": [],
-   "venue": "Club Space Miami",
+   "venue": "Club Space",
    "venue_slug": "club-space",
    "date": "2026-10-17",
    "start": "2026-10-18T03:00:00+00:00",
-   "end": "2026-10-19T00:00:00+00:00",
+   "end": "2026-10-18T17:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
    "price": "$50+",
    "genres": [
@@ -383,11 +383,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6a8726aa69055f0001adb581",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/event/6a8726aa69055f0001adb581"
-   ]
+   "url": "https://dice.fm/event/6a8726aa69055f0001adb581"
   },
   {
    "id": "19hz:4446043-marsolosilvielot",
@@ -480,47 +476,6 @@
    "generic_title": false
   },
   {
-   "id": "dice:6a85fa6621cf7000019482af",
-   "source": "19hz+dice+edmtrain+venue",
-   "title": "Satellite: Interplanetary Criminal, Sam Alfred, Jubilee + GENEROUS B & FRIENDS",
-   "artists": [
-    "Interplanetary Criminal",
-    "Sam Alfred",
-    "Generous B",
-    "Carozilla",
-    "DB Cooper",
-    "Baby Bass",
-    "Rara",
-    "Hakuna",
-    "Roll-e",
-    "Icky"
-   ],
-   "venue": "ZeyZey",
-   "venue_slug": "zeyzey",
-   "date": "2026-10-18",
-   "start": "2026-10-18T18:00:00+00:00",
-   "end": "2026-10-19T04:00:00+00:00",
-   "time_estimated": false,
-   "address": "353 Northeast 61st Street, Miami, Florida 33137, United States",
-   "ages": "18+",
-   "price": "From $30",
-   "genres": [
-    "drum and bass",
-    "jungle",
-    "uk garage"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/avxxxx-satellite-interplanetary-criminal-sam-alfred-jubilee-more-18th-oct-zeyzey-miami-tickets",
-   "cancelled": false,
-   "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/satellite-interplanetary-criminal-sam-alfred-jubilee-more-18-oct",
-    "https://dice.fm/event/avxxxx-satellite-interplanetary-criminal-sam-alfred-jubilee-more-18th-oct-zeyzey-miami-tickets",
-    "https://edmtrain.com/miami-fl/interplanetary-criminal-sam-alfred-544931"
-   ]
-  },
-  {
    "id": "19hz:4446108-sunsetattheboatd",
    "source": "19hz",
    "title": "Sunset At The Boat: Dalva, Lvndo B2B Nikatnite, Fernxndez B2B Sebfire, Nic Bolivar B2B Vayze, Mote B2B Antero",
@@ -570,6 +525,48 @@
    "url": "https://dice.fm/event/avxq2d-satellite-maccabi-house-at-the-garden-18th-oct-hialeah-park-casino-hialeah-tickets",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/satellite-maccabi-house-at-the-garden-adam-ten-528764"
+   ]
+  },
+  {
+   "id": "dice:6a85fa6621cf7000019482af",
+   "source": "19hz+dice+edmtrain+tablelist+venue",
+   "title": "Satellite: Interplanetary Criminal, Sam Alfred, Jubilee + GENEROUS B & FRIENDS",
+   "artists": [
+    "Interplanetary Criminal",
+    "Sam Alfred",
+    "Generous B",
+    "Carozilla",
+    "DB Cooper",
+    "Baby Bass",
+    "Rara",
+    "Hakuna",
+    "Roll-e",
+    "Icky"
+   ],
+   "venue": "ZeyZey",
+   "venue_slug": "zeyzey",
+   "date": "2026-10-18",
+   "start": "2026-10-18T20:00:00+00:00",
+   "end": "2026-10-19T04:00:00+00:00",
+   "time_estimated": false,
+   "address": "353 Northeast 61st Street, Miami, Florida 33137, United States",
+   "ages": "18+",
+   "price": "From $30",
+   "genres": [
+    "drum and bass",
+    "jungle",
+    "uk garage"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/avxxxx-satellite-interplanetary-criminal-sam-alfred-jubilee-more-18th-oct-zeyzey-miami-tickets",
+   "cancelled": false,
+   "alt_urls": [
+    "https://buy.tablelist.com/e/c09962faa135713a",
+    "https://calendar.zeyzeymiami.com/shows/satellite-interplanetary-criminal-sam-alfred-jubilee-more-18-oct",
+    "https://dice.fm/event/avxxxx-satellite-interplanetary-criminal-sam-alfred-jubilee-more-18th-oct-zeyzey-miami-tickets",
+    "https://edmtrain.com/miami-fl/interplanetary-criminal-sam-alfred-544931"
    ]
   },
   {
@@ -777,23 +774,23 @@
    ]
   },
   {
-   "id": "19hz:4446136-deanturnleykinah",
-   "source": "19hz+edmtrain",
-   "title": "Dean Turnley, KinAhau, & Dalva",
+   "id": "dice:6a823d83c386c20001767026",
+   "source": "19hz+dice+edmtrain",
+   "title": "Satellite: Dean Turnley, KinAhau, & Dalva",
    "artists": [
     "Dean Turnley",
     "KinAhau",
     "Dalva"
    ],
-   "venue": "Jolene Downtown",
+   "venue": "Jolene Sound Room Miami",
    "venue_slug": "jolene",
    "date": "2026-10-18",
    "start": "2026-10-19T02:00:00+00:00",
    "end": "2026-10-19T08:00:00+00:00",
    "time_estimated": false,
-   "address": "",
+   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "",
+   "price": "From $12",
    "genres": [
     "funk",
     "hip-hop",
@@ -803,7 +800,9 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/dkdpm6-satellite-dean-turnley-kinahau-dalva-18th-oct-jolene-sound-room-miami-miami-tickets",
+   "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/dkdpm6-satellite-dean-turnley-kinahau-dalva-18th-oct-jolene-sound-room-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/dean-turnley-kinahau-529274"
    ]
   },
