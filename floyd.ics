@@ -8,30 +8,14 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4445947-oddmob@floyd.miami-calendars
-DTSTAMP:20261017T161817Z
-LAST-MODIFIED:20261017T161817Z
-SEQUENCE:1
-DTSTART:20261017T030000Z
-DTEND:20261017T090000Z
-SUMMARY:Odd Mob
-LOCATION:Floyd Miami
-DESCRIPTION:Tags: house\, progressive house\nAges: 21+\nhttps://dice.fm/eve
- nt/2wqyva-satellite-odd-mob-16th-oct-floyd-miami-miami-tickets
-URL:https://dice.fm/event/2wqyva-satellite-odd-mob-16th-oct-floyd-miami-mia
- mi-tickets
-STATUS:CONFIRMED
-CATEGORIES:house,progressive house
-END:VEVENT
-BEGIN:VEVENT
-UID:dice-6a8364ba1d183400018c2cf6@floyd.miami-calendars
-DTSTAMP:20260922T004154Z
-LAST-MODIFIED:20260922T004154Z
-SEQUENCE:3
+UID:19hz-4446043-marsolosilvielot@floyd.miami-calendars
+DTSTAMP:20261018T041809Z
+LAST-MODIFIED:20261018T041809Z
+SEQUENCE:0
 DTSTART:20261018T030000Z
 DTEND:20261018T090000Z
-SUMMARY:Satellite: Marsolo & Silvie Loto
-LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
+SUMMARY:Marsolo\, Silvie Loto
+LOCATION:Floyd Miami
 DESCRIPTION:Lineup: Marsolo\, Silvie Loto\, Mick Jerome\nTags: house\nAges:
   21+\nhttps://dice.fm/event/yodwr2-satellite-marsolo-silvie-loto-17th-oct-
  floyd-miami-miami-tickets\nhttps://edmtrain.com/miami-fl/marsolo-silvie-lo

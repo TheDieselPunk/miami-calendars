@@ -1,454 +1,6 @@
 {
  "events": [
   {
-   "id": "19hz:4445916-iiipoints2026",
-   "source": "19hz",
-   "title": "III Points 2026",
-   "artists": [],
-   "venue": "Mana Wynwood",
-   "venue_slug": "festivals",
-   "date": "2026-10-16",
-   "start": "2026-10-16T19:00:00+00:00",
-   "end": "2026-10-17T07:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "All ages",
-   "price": "",
-   "genres": [
-    "multigenre edm"
-   ],
-   "genres_inferred": false,
-   "organizer": "Insomniac",
-   "description": "",
-   "url": "https://iiipoints.frontgatetickets.com/?utm_source=Promoters&utm_medium=19hz&utm_campaign=19hz"
-  },
-  {
-   "id": "19hz:4445932-fridaynightdjset",
-   "source": "19hz",
-   "title": "Friday Night DJ Set",
-   "artists": [],
-   "venue": "Thirsty Panda",
-   "venue_slug": null,
-   "date": "2026-10-16",
-   "start": "2026-10-16T23:00:00+00:00",
-   "end": "2026-10-17T02:00:00+00:00",
-   "time_estimated": false,
-   "address": "Melbourne",
-   "ages": "All ages",
-   "price": "free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "DJ Popcorn",
-   "description": "",
-   "url": "https://www.eventbrite.com/e/2003117933662"
-  },
-  {
-   "id": "19hz:4445935-hurricanewisdomv",
-   "source": "19hz",
-   "title": "Hurricane Wisdom v Weathering The World Miami",
-   "artists": [],
-   "venue": "Midline",
-   "venue_slug": "midline",
-   "date": "2026-10-16",
-   "start": "2026-10-17T00:00:00+00:00",
-   "end": "2026-10-17T04:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$37.41-107",
-   "genres": [
-    "hip-hop",
-    "trap"
-   ],
-   "genres_inferred": false,
-   "organizer": "BLNK CNVS",
-   "description": "",
-   "url": "https://www.eventbrite.com/e/hurricane-wisdom-weathering-the-world-midline-miami-tickets-1998128946467"
-  },
-  {
-   "id": "tablelist:09696654a43f6624",
-   "source": "19hz+tablelist",
-   "title": "Party Pupils",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-10-16",
-   "start": "2026-10-17T00:00:00+00:00",
-   "end": "2026-10-17T06:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "$19",
-   "genres": [
-    "future funk",
-    "house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://buy.tablelist.com/e/09696654a43f6624",
-   "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/party-pupils-16-oct"
-   ]
-  },
-  {
-   "id": "19hz:4445940-innercirclebymar",
-   "source": "19hz",
-   "title": "Inner Circle By Markem",
-   "artists": [],
-   "venue": "Aire Miami",
-   "venue_slug": null,
-   "date": "2026-10-16",
-   "start": "2026-10-17T01:00:00+00:00",
-   "end": "2026-10-17T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "free w/rsvp b4 midnight ladies / $23",
-   "genres": [
-    "tech house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://posh.vip/e/inner-circle-by-markem-1"
-  },
-  {
-   "id": "19hz:4445940-docmartinbandito",
-   "source": "19hz",
-   "title": "Doc Martin, Bandito Chico",
-   "artists": [],
-   "venue": "Lion's Den at Fooqs",
-   "venue_slug": null,
-   "date": "2026-10-16",
-   "start": "2026-10-17T01:00:00+00:00",
-   "end": "2026-10-17T07:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "",
-   "genres": [
-    "deep house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.therumor.com/p/doc"
-  },
-  {
-   "id": "19hz:4445940-saknoel",
-   "source": "19hz",
-   "title": "Sak Noel",
-   "artists": [],
-   "venue": "Rooftop Live",
-   "venue_slug": null,
-   "date": "2026-10-16",
-   "start": "2026-10-17T01:00:00+00:00",
-   "end": "2026-10-17T06:00:00+00:00",
-   "time_estimated": false,
-   "address": "Hollywood",
-   "ages": "21+",
-   "price": "free w/rsvp b4 10:30pm / $36",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "The Hour Events",
-   "description": "",
-   "url": "https://www.eventbrite.com/e/sak-noel-is-back-at-ayla-daer-rooftop-october-16-tickets-2001106177445"
-  },
-  {
-   "id": "19hz:4445940-ravefurrestmiami",
-   "source": "19hz",
-   "title": "Ravefurrest Miami: passengerprincess, Sixwing, Gaterror, Demifiend, kittenhouse, Dateline",
-   "artists": [],
-   "venue": "The Boombox",
-   "venue_slug": "boombox",
-   "date": "2026-10-16",
-   "start": "2026-10-17T01:00:00+00:00",
-   "end": "2026-10-17T07:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "18+",
-   "price": "$22-33.20",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://ra.co/events/2539489"
-  },
-  {
-   "id": "19hz:4445944-thepicklegrandop",
-   "source": "19hz",
-   "title": "The Pickle Grand Opening",
-   "artists": [],
-   "venue": "1395 NW 57th Ave",
-   "venue_slug": null,
-   "date": "2026-10-16",
-   "start": "2026-10-17T02:00:00+00:00",
-   "end": "2026-10-17T12:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$11.20-22.35",
-   "genres": [
-    "electro",
-    "house",
-    "techno"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://ra.co/events/2528904"
-  },
-  {
-   "id": "19hz:4445944-hyperpophallowee",
-   "source": "19hz",
-   "title": "Hyperpop Halloween",
-   "artists": [],
-   "venue": "777 Northeast 79th Street",
-   "venue_slug": null,
-   "date": "2026-10-16",
-   "start": "2026-10-17T02:00:00+00:00",
-   "end": "2026-10-17T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "18+",
-   "price": "free w/rsvp 21+ / $10+",
-   "genres": [
-    "hyperpop"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/hyper"
-  },
-  {
-   "id": "19hz:4445944-chrisschwarzwald",
-   "source": "19hz",
-   "title": "Chris Schwarzwalder",
-   "artists": [],
-   "venue": "Do Not Sit On The Furniture",
-   "venue_slug": null,
-   "date": "2026-10-16",
-   "start": "2026-10-17T02:00:00+00:00",
-   "end": "2026-10-17T09:00:00+00:00",
-   "time_estimated": false,
-   "address": "Miami Beach",
-   "ages": "21+",
-   "price": "$24.25",
-   "genres": [
-    "tech house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6a85c26e21cf7000014e0781"
-  },
-  {
-   "id": "19hz:4445944-reyoulucaszarate",
-   "source": "19hz",
-   "title": "Re.You, Lucas Zarate",
-   "artists": [],
-   "venue": "Do Not Sit On The Furniture",
-   "venue_slug": null,
-   "date": "2026-10-16",
-   "start": "2026-10-17T02:00:00+00:00",
-   "end": "2026-10-17T09:00:00+00:00",
-   "time_estimated": false,
-   "address": "Miami Beach",
-   "ages": "21+",
-   "price": "$24.25",
-   "genres": [
-    "progressive house",
-    "tech house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/7dxxk9-reyou-moblack-records-16th-oct-do-not-sit-on-the-furniture-miami-beach-tickets"
-  },
-  {
-   "id": "19hz:4445944-satellitespecial",
-   "source": "19hz",
-   "title": "Satellite: Special Guests",
-   "artists": [],
-   "venue": "Jolene Downtown",
-   "venue_slug": "jolene",
-   "date": "2026-10-16",
-   "start": "2026-10-17T02:00:00+00:00",
-   "end": "2026-10-17T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "$10",
-   "genres": [
-    "tbd"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6a823197b96d4a000112d8fb"
-  },
-  {
-   "id": "19hz:4445944-codddubzheh",
-   "source": "19hz",
-   "title": "Codd Dubz, He$h",
-   "artists": [],
-   "venue": "Kemistry",
-   "venue_slug": "kemistry",
-   "date": "2026-10-16",
-   "start": "2026-10-17T02:00:00+00:00",
-   "end": "2026-10-17T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "Fort Lauderdale",
-   "ages": "18+",
-   "price": "$20+",
-   "genres": [
-    "dubstep",
-    "trap"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/923lv9-codd-dubz-x-heh-16th-oct-kemistry-fort-lauderdale-tickets"
-  },
-  {
-   "id": "19hz:4445944-rendezvous",
-   "source": "19hz",
-   "title": "Rendezvous",
-   "artists": [],
-   "venue": "M2",
-   "venue_slug": null,
-   "date": "2026-10-16",
-   "start": "2026-10-17T02:00:00+00:00",
-   "end": "2026-10-17T09:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "free w/rsvp b4 midnight / $20+",
-   "genres": [
-    "tech house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/rendezvous1-10"
-  },
-  {
-   "id": "19hz:4445947-999999999kikirom",
-   "source": "19hz",
-   "title": "999999999, KI/KI, Roman Flugel B2B Danny Daze, Yousuke Yukimatsu",
-   "artists": [],
-   "venue": "Club Space",
-   "venue_slug": "club-space",
-   "date": "2026-10-16",
-   "start": "2026-10-17T03:00:00+00:00",
-   "end": "2026-10-17T18:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "$30+",
-   "genres": [
-    "techno"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6a8724f65b367e0001f22de9"
-  },
-  {
-   "id": "19hz:4445947-hhunterantimatte",
-   "source": "19hz",
-   "title": "Hhunter + Antimatter",
-   "artists": [],
-   "venue": "Domicile",
-   "venue_slug": "domicile",
-   "date": "2026-10-16",
-   "start": "2026-10-17T03:00:00+00:00",
-   "end": "2026-10-17T11:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "18+",
-   "price": "$22.82",
-   "genres": [
-    "hard techno"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/2wnv6a-friday-iiipoints-after-party-hhunter-16th-oct-domicile-miami-miami-tickets"
-  },
-  {
-   "id": "19hz:4445947-oddmob",
-   "source": "19hz",
-   "title": "Odd Mob",
-   "artists": [],
-   "venue": "Floyd Miami",
-   "venue_slug": "floyd",
-   "date": "2026-10-16",
-   "start": "2026-10-17T03:00:00+00:00",
-   "end": "2026-10-17T09:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "",
-   "genres": [
-    "house",
-    "progressive house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/2wqyva-satellite-odd-mob-16th-oct-floyd-miami-miami-tickets"
-  },
-  {
-   "id": "19hz:4445950-blackcoffee",
-   "source": "19hz",
-   "title": "Black Coffee",
-   "artists": [],
-   "venue": "Liv Nightclub",
-   "venue_slug": null,
-   "date": "2026-10-16",
-   "start": "2026-10-17T03:30:00+00:00",
-   "end": "2026-10-17T09:30:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "",
-   "genres": [
-    "afro house",
-    "organic house",
-    "progressive house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.livnightclub.com/miami/event/EVE112156200020261016/friday/?ref=raco"
-  },
-  {
-   "id": "19hz:4445950-sethdavid",
-   "source": "19hz",
-   "title": "Seth David",
-   "artists": [],
-   "venue": "Studio 60",
-   "venue_slug": null,
-   "date": "2026-10-16",
-   "start": "2026-10-17T03:45:00+00:00",
-   "end": "2026-10-17T13:30:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "$25+",
-   "genres": [
-    "dubstep",
-    "edm",
-    "house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/dkyrwq-afterhours-seth-david-special-guests-16th-oct-studio-60-miami-miami-tickets"
-  },
-  {
    "id": "19hz:4445995-joannakuchtaftmi",
    "source": "19hz",
    "title": "Joanna Kuchta Ft. Mila Gama, Mason Norris",
@@ -472,19 +24,19 @@
    "url": "https://ra.co/events/2559594"
   },
   {
-   "id": "hardrock:202011",
-   "source": "19hz+edmtrain+venue",
+   "id": "19hz:4446000-ianasher",
+   "source": "19hz+edmtrain",
    "title": "Ian Asher",
    "artists": [
     "Ian Asher"
    ],
-   "venue": "DAER Dayclub",
+   "venue": "Daer Dayclub",
    "venue_slug": "daer",
    "date": "2026-10-17",
    "start": "2026-10-17T16:00:00+00:00",
-   "end": "2026-10-17T22:00:00+00:00",
+   "end": "2026-10-17T23:00:00+00:00",
    "time_estimated": false,
-   "address": "1 Seminole Way, Hollywood, FL 33314",
+   "address": "Hollywood",
    "ages": "21+",
    "price": "$37",
    "genres": [
@@ -494,10 +46,8 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://tixr.com/e/202011",
-   "generic_title": false,
+   "url": "https://www.tixr.com/groups/daerdayclubsouthflorida/events/saturday-october-17th-daer-dayclub-202011",
    "alt_urls": [
-    "https://www.tixr.com/groups/daerdayclubsouthflorida/events/saturday-october-17th-daer-dayclub-202011",
     "https://edmtrain.com/fort-lauderdale-fl/ian-asher-535875"
    ]
   },
@@ -602,30 +152,6 @@
    "url": "https://ra.co/events/2559617"
   },
   {
-   "id": "shotgun:nokings",
-   "source": "shotgun",
-   "title": "No Kings: Rock The Vote!",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": "festivals",
-   "date": "2026-10-17",
-   "start": "2026-10-17T20:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [
-    "rock",
-    "alternative",
-    "house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/nokings"
-  },
-  {
    "id": "19hz:4446016-mose",
    "source": "19hz",
    "title": "Mose",
@@ -707,7 +233,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$12.00",
+   "price": "",
    "genres": [
     "rock",
     "pop rock"
@@ -716,43 +242,6 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/tme-acoustic-sessions-feat-lexy-panterra-kate-luxxe"
-  },
-  {
-   "id": "dice:6a3c2d5c3f99c300019d7c15",
-   "source": "19hz+dice+edmtrain",
-   "title": "KAWAII RAVE",
-   "artists": [
-    "KZA",
-    "JPAVIA",
-    "Cookie",
-    "Crazy Pink",
-    "Pastel Beach",
-    "AKIYAMA"
-   ],
-   "venue": "Kemistry",
-   "venue_slug": "kemistry",
-   "date": "2026-10-17",
-   "start": "2026-10-18T01:00:00+00:00",
-   "end": "2026-10-18T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
-   "ages": "18+",
-   "price": "$26",
-   "genres": [
-    "anime remixes",
-    "edm",
-    "hyperpop",
-    "kpop"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6a3c2d5c3f99c300019d7c15",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/partner/tickets/event/oe7625-kawaii-rave-17th-oct-kemistry-fort-lauderdale-tickets",
-    "https://edmtrain.com/fort-lauderdale-fl/kawaii-rave-kza-544614"
-   ]
   },
   {
    "id": "19hz:4446036-iliadearwormnofo",
@@ -840,39 +329,19 @@
    ]
   },
   {
-   "id": "shotgun:paint",
-   "source": "shotgun",
-   "title": "Ætizay Presents: Sip And Paint",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-10-17",
-   "start": "2026-10-18T01:30:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$20.00",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/paint"
-  },
-  {
-   "id": "hardrock:202033",
-   "source": "19hz+edmtrain+venue",
-   "title": "YDG",
+   "id": "19hz:4446040-ydg",
+   "source": "19hz+edmtrain",
+   "title": "Ydg",
    "artists": [
     "YDG"
    ],
-   "venue": "DAER Nightclub",
+   "venue": "Daer Nightclub",
    "venue_slug": "daer",
    "date": "2026-10-17",
    "start": "2026-10-18T02:00:00+00:00",
    "end": "2026-10-18T08:00:00+00:00",
    "time_estimated": false,
-   "address": "1 Seminole Way, Hollywood, FL 33314",
+   "address": "Hollywood",
    "ages": "21+",
    "price": "$37 pre",
    "genres": [
@@ -881,10 +350,8 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://tixr.com/e/202033",
-   "generic_title": false,
+   "url": "https://www.tixr.com/groups/daernightclubsouthflorida/events/ydg-daer-nightclub-202033",
    "alt_urls": [
-    "https://www.tixr.com/groups/daernightclubsouthflorida/events/ydg-daer-nightclub-202033",
     "https://edmtrain.com/fort-lauderdale-fl/ydg-531413"
    ]
   },
@@ -1001,6 +468,43 @@
    ]
   },
   {
+   "id": "dice:6a3c2d5c3f99c300019d7c15",
+   "source": "19hz+dice+edmtrain",
+   "title": "KAWAII RAVE",
+   "artists": [
+    "KZA",
+    "JPAVIA",
+    "Cookie",
+    "Crazy Pink",
+    "Pastel Beach",
+    "AKIYAMA"
+   ],
+   "venue": "Kemistry",
+   "venue_slug": "kemistry",
+   "date": "2026-10-17",
+   "start": "2026-10-18T02:00:00+00:00",
+   "end": "2026-10-18T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "ages": "18+",
+   "price": "$26",
+   "genres": [
+    "anime remixes",
+    "edm",
+    "hyperpop",
+    "kpop"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6a3c2d5c3f99c300019d7c15",
+   "cancelled": false,
+   "alt_urls": [
+    "https://dice.fm/partner/tickets/event/oe7625-kawaii-rave-17th-oct-kemistry-fort-lauderdale-tickets",
+    "https://edmtrain.com/fort-lauderdale-fl/kawaii-rave-kza-544614"
+   ]
+  },
+  {
    "id": "19hz:4446040-shaunreevesemmab",
    "source": "19hz",
    "title": "Shaun Reeves, Emma b2b Ferny",
@@ -1039,7 +543,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$17.10",
+   "price": "free w/rsvp",
    "genres": [
     "afro house",
     "deep house",
@@ -1097,9 +601,9 @@
    ]
   },
   {
-   "id": "dice:6a8364ba1d183400018c2cf6",
-   "source": "19hz+dice+edmtrain",
-   "title": "Satellite: Marsolo & Silvie Loto",
+   "id": "19hz:4446043-marsolosilvielot",
+   "source": "19hz+edmtrain",
+   "title": "Marsolo, Silvie Loto",
    "artists": [
     "Marsolo",
     "Silvie Loto",
@@ -1111,9 +615,9 @@
    "start": "2026-10-18T03:00:00+00:00",
    "end": "2026-10-18T09:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": "From $20",
+   "price": "",
    "genres": [
     "house"
    ],
@@ -1121,9 +625,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/yodwr2-satellite-marsolo-silvie-loto-17th-oct-floyd-miami-miami-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/yodwr2-satellite-marsolo-silvie-loto-17th-oct-floyd-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/marsolo-silvie-loto-529532"
    ]
   },
@@ -1148,24 +650,24 @@
    "url": "https://shotgun.live/en/events/kole-2"
   },
   {
-   "id": "dice:6a8380fbb132fb00010733cd",
-   "source": "19hz+dice+edmtrain",
-   "title": "Satellite: HAAi, Jacques Greene, & DJ Fuckoff",
+   "id": "19hz:4446043-haaijacquesgreen",
+   "source": "19hz+edmtrain",
+   "title": "HAAi, Jacques Greene, & DJ Fuckoff",
    "artists": [
     "HAAi",
     "Jacques Greene",
     "DJ FuckOFF",
     "vsyana"
    ],
-   "venue": "The Ground Miami",
+   "venue": "The Ground",
    "venue_slug": "the-ground",
    "date": "2026-10-17",
    "start": "2026-10-18T03:00:00+00:00",
    "end": "2026-10-18T11:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": "From $15",
+   "price": "",
    "genres": [
     "techno"
    ],
@@ -1173,9 +675,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/3orxdp-satellite-haai-jacques-greene-dj-fuckoff-17th-oct-the-ground-miami-miami-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/3orxdp-satellite-haai-jacques-greene-dj-fuckoff-17th-oct-the-ground-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/haai-jacques-greene-529661"
    ]
   },
@@ -1277,7 +777,7 @@
    "time_estimated": false,
    "address": "353 Northeast 61st Street, Miami, Florida 33137, United States",
    "ages": "18+",
-   "price": "From $20",
+   "price": "From $30",
    "genres": [
     "drum and bass",
     "jungle",
@@ -4621,6 +4121,29 @@
    "url": "https://www.eventbrite.com/e/joel-corry-sin-at-sea-halloween-weekend-at-the-shorely-tickets-2002723474825",
    "alt_urls": [
     "https://edmtrain.com/fort-lauderdale-fl/joel-corry-541995"
+   ]
+  },
+  {
+   "id": "edmtrain:545796",
+   "source": "edmtrain",
+   "title": "🎃 NIGHTMARE ON WYNWOOD HALLOWEEN FESTIVAL 🎃",
+   "artists": [],
+   "venue": "Casa Nube Wynwood",
+   "venue_slug": "festivals",
+   "date": "2026-10-30",
+   "start": "2026-10-30T19:00:00+00:00",
+   "end": "2026-10-31T06:00:00+00:00",
+   "time_estimated": true,
+   "address": "2060 NW 1st Ave, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/-nightmare-on-wynwood-halloween-festival-?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/nightmare-on-wynwood-halloween-festival-545796"
    ]
   },
   {
@@ -9102,7 +8625,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $70",
+   "price": "From $80",
    "genres": [
     "future bass",
     "house",
