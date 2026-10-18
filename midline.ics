@@ -23,16 +23,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4447384-djhabibeats@midline.miami-calendars
-DTSTAMP:20260921T214009Z
-LAST-MODIFIED:20260921T214009Z
-SEQUENCE:0
+DTSTAMP:20261018T101814Z
+LAST-MODIFIED:20261018T101814Z
+SEQUENCE:1
 DTSTART:20261101T020000Z
 DTEND:20261101T070000Z
 SUMMARY:DJ Habibeats
 LOCATION:Midline
-DESCRIPTION:Lineup: Habibeats\nTags: house\nPresented by: BLNK CNVS\nAges: 
- 21+\nhttps://www.eventbrite.com/e/dj-habibeats-midline-miami-tickets-19921
- 70698186\nhttps://edmtrain.com/miami-fl/habibeats-515860
+DESCRIPTION:Tags: house\nPresented by: BLNK CNVS\nAges: 21+\nhttps://www.ev
+ entbrite.com/e/dj-habibeats-midline-miami-tickets-1992170698186
 URL:https://www.eventbrite.com/e/dj-habibeats-midline-miami-tickets-1992170
  698186
 STATUS:CONFIRMED
@@ -170,5 +169,21 @@ DESCRIPTION:Lineup: HEYZ\nTags: bass music\, dubstep\, trap\nAges: 18+\nhtt
 URL:https://wl.eventim.us/event/heyz-midline-miami/704806?afflky=Midline
 STATUS:CONFIRMED
 CATEGORIES:bass music,dubstep,trap
+END:VEVENT
+BEGIN:VEVENT
+UID:edmtrain-545824@midline.miami-calendars
+DTSTAMP:20261018T101814Z
+LAST-MODIFIED:20261018T101814Z
+SEQUENCE:0
+DTSTART:20270320T020000Z
+DTEND:20270320T070000Z
+SUMMARY:Habibeats
+LOCATION:Midline Miami\, 2221 NW Miami Ct\, Miami\, FL 33127\, USA
+DESCRIPTION:Lineup: Habibeats\nTimes are an estimate from Midline's usual h
+ ours - the listing has no start time yet. Check the link.\nhttps://www.eve
+ ntbrite.com/e/1992170698186?aff=ebdimtedmtrain\nhttps://edmtrain.com/miami
+ -fl/habibeats-545824
+URL:https://www.eventbrite.com/e/1992170698186?aff=ebdimtedmtrain
+STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

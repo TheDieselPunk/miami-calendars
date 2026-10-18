@@ -159,8 +159,8 @@
   "slug": "midline",
   "name": "Midline",
   "file": "midline.ics",
-  "events": 10,
-  "estimated_times": 0,
+  "events": 11,
+  "estimated_times": 1,
   "next": "2026-10-17",
   "sources": [
    "19hz",
@@ -172,7 +172,7 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 45,
+  "events": 44,
   "estimated_times": 21,
   "next": "2026-10-17",
   "sources": [

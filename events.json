@@ -197,57 +197,52 @@
    "url": "https://www.eventbrite.com/e/open-decks-at-thirsty-panda-sat-oct-17-tickets-2003455267637"
   },
   {
-   "id": "shotgun:the-freaks-come-out-night-a-psychedelic-halloween",
-   "source": "shotgun",
-   "title": "The Freaks Come Out Night: A Psychedelic Halloween",
-   "artists": [],
-   "venue": "Miami, United States 🇺🇸",
-   "venue_slug": null,
+   "id": "19hz:4446036-kawaiirave",
+   "source": "19hz+edmtrain",
+   "title": "Kawaii Rave",
+   "artists": [
+    "KZA",
+    "JPAVIA",
+    "Cookie",
+    "Crazy Pink",
+    "Pastel Beach",
+    "AKIYAMA"
+   ],
+   "venue": "Kemistry",
+   "venue_slug": "kemistry",
    "date": "2026-10-17",
-   "start": "2026-10-17T23:00:00+00:00",
-   "end": null,
+   "start": "2026-10-18T01:00:00+00:00",
+   "end": "2026-10-18T08:00:00+00:00",
    "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$5.00",
+   "address": "Fort Lauderdale",
+   "ages": "18+",
+   "price": "$26",
    "genres": [
-    "house",
-    "techno",
-    "dance"
+    "anime remixes",
+    "edm",
+    "hyperpop",
+    "kpop"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/the-freaks-come-out-night-a-psychedelic-halloween"
-  },
-  {
-   "id": "shotgun:tme-acoustic-sessions-feat-lexy-panterra-kate-luxxe",
-   "source": "shotgun",
-   "title": "Tme Acoustic Sessions Feat. Lexy Panterra & Kate Luxxe",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-10-17",
-   "start": "2026-10-18T00:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "rock",
-    "pop rock"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/tme-acoustic-sessions-feat-lexy-panterra-kate-luxxe"
+   "url": "https://dice.fm/partner/tickets/event/oe7625-kawaii-rave-17th-oct-kemistry-fort-lauderdale-tickets",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/kawaii-rave-kza-544614"
+   ]
   },
   {
    "id": "19hz:4446036-iliadearwormnofo",
-   "source": "19hz",
+   "source": "19hz+edmtrain",
    "title": "Iliad, Earworm, Noforms, Sana, Ember, & Miss Purple Shampoo",
-   "artists": [],
+   "artists": [
+    "Iliad",
+    "Earworm",
+    "Noforms",
+    "SANA",
+    "EMBER",
+    "miss purple shampoo"
+   ],
    "venue": "Las Rosas",
    "venue_slug": null,
    "date": "2026-10-17",
@@ -261,53 +256,44 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/k62pqq-iii-points-satellite-iliad-earworm-noforms-sana-ember-miss-purple-shampoo-17th-oct-las-rosas-miami-tickets"
+   "url": "https://dice.fm/event/k62pqq-iii-points-satellite-iliad-earworm-noforms-sana-ember-miss-purple-shampoo-17th-oct-las-rosas-miami-tickets",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/iii-points-satellite-iliad-531627"
+   ]
   },
   {
-   "id": "shotgun:madradiomiami101726",
-   "source": "19hz+edmtrain+shotgun",
-   "title": "III Points Satellite Party: Israel Sunshine / Tomas Saenz",
+   "id": "19hz:4446036-israelsunshineto",
+   "source": "19hz+edmtrain",
+   "title": "Israel Sunshine / Tomas Saenz",
    "artists": [
-    "Israel Sunshine ARTISANO"
+    "Tomas Saenz",
+    "Israel Sunshine"
    ],
-   "venue": "Mad Radio Miami",
+   "venue": "Mad Radio",
    "venue_slug": "mad-radio",
    "date": "2026-10-17",
    "start": "2026-10-18T01:00:00+00:00",
    "end": "2026-10-18T07:00:00+00:00",
    "time_estimated": false,
-   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "address": "",
    "ages": "21+",
-   "price": "$21.80",
+   "price": "free w/rsvp b4 midnight ladies / free w/rsvp b4 10pm / $22",
    "genres": [
     "deep house",
     "progressive house",
     "tech house"
    ],
    "genres_inferred": false,
-   "organizer": "Mad Radio Miami",
-   "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY BEFORE 10 PM / FREE ENTRY LADIES UNTIL MIDNIGHT + 25 YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
+   "organizer": "",
+   "description": "",
    "url": "https://shotgun.live/en/events/madradiomiami101726",
-   "tickets": "AFTER 10 PM $20, FREE LADIES RSVP BEFORE 12 AM Free",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.8462027,
-    "longitude": -80.1851332
-   },
-   "created": "2026-10-01T20:47:55.000Z",
    "alt_urls": [
-    "https://shotgun.live/en/events/madradiomiami101726",
-    "https://edmtrain.com/miami-fl/iii-points-satellite-iliad-531627",
     "https://edmtrain.com/miami-fl/iii-points-satellite-party-tomas-saenz-542617"
-   ],
-   "also": [
-    "festivals"
    ]
   },
   {
    "id": "tablelist:f760a46c86a093ab",
-   "source": "tablelist+venue",
+   "source": "tablelist",
    "title": "Alta Joda Fest",
    "artists": [],
    "venue": "ZeyZey Miami",
@@ -323,10 +309,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://buy.tablelist.com/e/f760a46c86a093ab",
-   "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/alta-joda-fest-17-oct"
-   ]
+   "url": "https://buy.tablelist.com/e/f760a46c86a093ab"
   },
   {
    "id": "19hz:4446040-ydg",
@@ -384,30 +367,6 @@
    ]
   },
   {
-   "id": "shotgun:brian-cid-ladobe-oct-17",
-   "source": "shotgun",
-   "title": "Brian Cid Presents Ladobé",
-   "artists": [],
-   "venue": "EDGE MIAMI",
-   "venue_slug": null,
-   "date": "2026-10-17",
-   "start": "2026-10-18T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$20.00",
-   "genres": [
-    "tech house",
-    "afro house",
-    "latin house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/brian-cid-ladobe-oct-17"
-  },
-  {
    "id": "19hz:4446040-briancidlouispui",
    "source": "19hz+edmtrain",
    "title": "Brian Cid, Louis Puig (Birthday Set)",
@@ -437,23 +396,23 @@
    ]
   },
   {
-   "id": "dice:6a823726dd1b160001c44659",
-   "source": "19hz+dice+edmtrain",
-   "title": "Satellite: Beltran",
+   "id": "19hz:4446040-beltran",
+   "source": "19hz+edmtrain",
+   "title": "Beltran",
    "artists": [
     "Beltran",
     "Marc Houle",
     "Idriss D"
    ],
-   "venue": "Jolene Sound Room Miami",
+   "venue": "Jolene Downtown",
    "venue_slug": "jolene",
    "date": "2026-10-17",
    "start": "2026-10-18T02:00:00+00:00",
    "end": "2026-10-18T08:00:00+00:00",
    "time_estimated": false,
-   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "address": "",
    "ages": "21+",
-   "price": "From $27 (sold out)",
+   "price": "",
    "genres": [
     "tech house"
    ],
@@ -461,47 +420,8 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/923k5d-satellite-beltran-more-17th-oct-jolene-sound-room-miami-miami-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/923k5d-satellite-beltran-more-17th-oct-jolene-sound-room-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/beltran-marc-houle-529273"
-   ]
-  },
-  {
-   "id": "dice:6a3c2d5c3f99c300019d7c15",
-   "source": "19hz+dice+edmtrain",
-   "title": "KAWAII RAVE",
-   "artists": [
-    "KZA",
-    "JPAVIA",
-    "Cookie",
-    "Crazy Pink",
-    "Pastel Beach",
-    "AKIYAMA"
-   ],
-   "venue": "Kemistry",
-   "venue_slug": "kemistry",
-   "date": "2026-10-17",
-   "start": "2026-10-18T02:00:00+00:00",
-   "end": "2026-10-18T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
-   "ages": "18+",
-   "price": "$26",
-   "genres": [
-    "anime remixes",
-    "edm",
-    "hyperpop",
-    "kpop"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6a3c2d5c3f99c300019d7c15",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/partner/tickets/event/oe7625-kawaii-rave-17th-oct-kemistry-fort-lauderdale-tickets",
-    "https://edmtrain.com/fort-lauderdale-fl/kawaii-rave-kza-544614"
    ]
   },
   {
@@ -529,9 +449,9 @@
    "url": "https://www.therumor.com/p/shaun"
   },
   {
-   "id": "shotgun:lunasol-pres-chezdamier",
-   "source": "19hz+edmtrain+shotgun",
-   "title": "Lunasol Pres. Chez Damier",
+   "id": "19hz:4446040-chezdamier",
+   "source": "19hz+edmtrain",
+   "title": "Chez Damier",
    "artists": [
     "Chez Damier"
    ],
@@ -545,17 +465,13 @@
    "ages": "21+",
    "price": "free w/rsvp",
    "genres": [
-    "afro house",
-    "deep house",
-    "house",
-    "tech house"
+    "deep house"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/lunasol-pres-chezdamier",
+   "url": "https://dice.fm/event/oe8anr-lunasol-pres-chez-damier-17th-oct-lunasol-miami-tickets",
    "alt_urls": [
-    "https://dice.fm/event/oe8anr-lunasol-pres-chez-damier-17th-oct-lunasol-miami-tickets",
     "https://edmtrain.com/miami-fl/lunasol-pres-chez-damier-530722"
    ]
   },
@@ -628,26 +544,6 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/marsolo-silvie-loto-529532"
    ]
-  },
-  {
-   "id": "shotgun:kole-2",
-   "source": "shotgun",
-   "title": "Ætizay Presents: Kole (Koh-Lay)",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-10-17",
-   "start": "2026-10-18T03:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$10.00",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/kole-2"
   },
   {
    "id": "19hz:4446043-haaijacquesgreen",
@@ -1009,7 +905,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$10.50",
+   "price": "",
    "genres": [
     "breakcore",
     "gabber",
@@ -1051,23 +947,23 @@
    ]
   },
   {
-   "id": "dice:6a823d83c386c20001767026",
-   "source": "19hz+dice+edmtrain",
-   "title": "Satellite: Dean Turnley, KinAhau, & Dalva",
+   "id": "19hz:4446136-deanturnleykinah",
+   "source": "19hz+edmtrain",
+   "title": "Dean Turnley, KinAhau, & Dalva",
    "artists": [
     "Dean Turnley",
     "KinAhau",
     "Dalva"
    ],
-   "venue": "Jolene Sound Room Miami",
+   "venue": "Jolene Downtown",
    "venue_slug": "jolene",
    "date": "2026-10-18",
    "start": "2026-10-19T02:00:00+00:00",
    "end": "2026-10-19T08:00:00+00:00",
    "time_estimated": false,
-   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "address": "",
    "ages": "21+",
-   "price": "From $10",
+   "price": "",
    "genres": [
     "funk",
     "hip-hop",
@@ -1077,9 +973,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/dkdpm6-satellite-dean-turnley-kinahau-dalva-18th-oct-jolene-sound-room-miami-miami-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/dkdpm6-satellite-dean-turnley-kinahau-dalva-18th-oct-jolene-sound-room-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/dean-turnley-kinahau-529274"
    ]
   },
@@ -4188,7 +4082,7 @@
    "organizer": "The Boombox Miami",
    "description": "BOOMBOX SE7EN YEAR ANNIVERSARY Two nights. Two stages. 30+ acts. We’re celebrating 7 years of BOOMBOX with a massive Halloween weekend featuring some of Miami’s best underground sounds. With OMNI SOUND SPACE, EQUINOX BOOKING, FLORIDA GLOSS, and SAY TECH AND SMILE. OCTOBER 30 & 31 18+",
    "url": "https://shotgun.live/en/events/halloween-se-7-en",
-   "tickets": "FRIDAY OCT 30TH (SINGLE DAY PASS) - EARLY BIRD $20, 2-DAY PASS (EARLY BIRD) $30, SATURDAY OCT 31TH (SINGLE DAY PASS) - EARLY BIRD $20",
+   "tickets": "FRIDAY OCT 30TH (SINGLE DAY PASS) - EARLY BIRD $20, 2-DAY PASS (EARLY BIRD) $30 (sold out), SATURDAY OCT 31TH (SINGLE DAY PASS) - EARLY BIRD $20, 2-DAY PASS $40",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -5632,11 +5526,9 @@
   },
   {
    "id": "19hz:4447384-djhabibeats",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "DJ Habibeats",
-   "artists": [
-    "Habibeats"
-   ],
+   "artists": [],
    "venue": "Midline",
    "venue_slug": "midline",
    "date": "2026-10-31",
@@ -5652,10 +5544,7 @@
    "genres_inferred": false,
    "organizer": "BLNK CNVS",
    "description": "",
-   "url": "https://www.eventbrite.com/e/dj-habibeats-midline-miami-tickets-1992170698186",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/habibeats-515860"
-   ]
+   "url": "https://www.eventbrite.com/e/dj-habibeats-midline-miami-tickets-1992170698186"
   },
   {
    "id": "shotgun:galactic-halloween",
@@ -6799,6 +6688,31 @@
    "alt_urls": [
     "https://dice.fm/event/g58ax5-paige-tomlinson-lammer-stm-6th-nov-the-ground-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/paige-tomlinson-lammer-538328"
+   ]
+  },
+  {
+   "id": "edmtrain:545820",
+   "source": "edmtrain",
+   "title": "Seth Breezy",
+   "artists": [
+    "Seth Breezy"
+   ],
+   "venue": "Eagle Wilton Manors",
+   "venue_slug": null,
+   "date": "2026-11-06",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "2209 Wilton Dr, Wilton Manors, FL 33305, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/dkyqgg?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/seth-breezy-545820"
    ]
   },
   {
@@ -15013,6 +14927,31 @@
    "url": "https://www.ticketmaster.com/event/0D00634ED44B687E",
    "alt_urls": [
     "https://edmtrain.com/fort-lauderdale-fl/vnv-nation-an-evening-with-vnv-nation-517365"
+   ]
+  },
+  {
+   "id": "edmtrain:545824",
+   "source": "edmtrain",
+   "title": "Habibeats",
+   "artists": [
+    "Habibeats"
+   ],
+   "venue": "Midline Miami",
+   "venue_slug": "midline",
+   "date": "2027-03-19",
+   "start": "2027-03-20T02:00:00+00:00",
+   "end": "2027-03-20T07:00:00+00:00",
+   "time_estimated": true,
+   "address": "2221 NW Miami Ct, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.eventbrite.com/e/1992170698186?aff=ebdimtedmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/habibeats-545824"
    ]
   },
   {
