@@ -9,17 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4446040-beltran@jolene.miami-calendars
-DTSTAMP:20261018T101814Z
-LAST-MODIFIED:20261018T101814Z
-SEQUENCE:0
+DTSTAMP:20261018T161811Z
+LAST-MODIFIED:20261018T161811Z
+SEQUENCE:1
 DTSTART:20261018T020000Z
 DTEND:20261018T080000Z
 SUMMARY:Beltran
 LOCATION:Jolene Downtown
-DESCRIPTION:Lineup: Beltran\, Marc Houle\, Idriss D\nTags: tech house\nAges
- : 21+\nhttps://dice.fm/event/923k5d-satellite-beltran-more-17th-oct-jolene
- -sound-room-miami-miami-tickets\nhttps://edmtrain.com/miami-fl/beltran-mar
- c-houle-529273
+DESCRIPTION:Tags: tech house\nAges: 21+\nhttps://dice.fm/event/923k5d-satel
+ lite-beltran-more-17th-oct-jolene-sound-room-miami-miami-tickets
 URL:https://dice.fm/event/923k5d-satellite-beltran-more-17th-oct-jolene-sou
  nd-room-miami-miami-tickets
 STATUS:CONFIRMED

@@ -9,16 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4446000-ianasher@daer.miami-calendars
-DTSTAMP:20261018T041809Z
-LAST-MODIFIED:20261018T041809Z
-SEQUENCE:0
+DTSTAMP:20261018T161811Z
+LAST-MODIFIED:20261018T161811Z
+SEQUENCE:1
 DTSTART:20261017T160000Z
 DTEND:20261017T230000Z
 SUMMARY:Ian Asher
 LOCATION:Daer Dayclub\, Hollywood
-DESCRIPTION:Lineup: Ian Asher\nTags: edm\, house\nAges: 21+\nhttps://www.ti
- xr.com/groups/daerdayclubsouthflorida/events/saturday-october-17th-daer-da
- yclub-202011\nhttps://edmtrain.com/fort-lauderdale-fl/ian-asher-535875
+DESCRIPTION:Tags: edm\, house\nAges: 21+\nhttps://www.tixr.com/groups/daerd
+ ayclubsouthflorida/events/saturday-october-17th-daer-dayclub-202011
 URL:https://www.tixr.com/groups/daerdayclubsouthflorida/events/saturday-oct
  ober-17th-daer-dayclub-202011
 STATUS:CONFIRMED
@@ -26,16 +25,15 @@ CATEGORIES:edm,house
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4446040-ydg@daer.miami-calendars
-DTSTAMP:20261018T041809Z
-LAST-MODIFIED:20261018T041809Z
-SEQUENCE:0
+DTSTAMP:20261018T161811Z
+LAST-MODIFIED:20261018T161811Z
+SEQUENCE:1
 DTSTART:20261018T020000Z
 DTEND:20261018T080000Z
 SUMMARY:Ydg
 LOCATION:Daer Nightclub\, Hollywood
-DESCRIPTION:Lineup: YDG\nTags: dubstep\nAges: 21+\nhttps://www.tixr.com/gro
- ups/daernightclubsouthflorida/events/ydg-daer-nightclub-202033\nhttps://ed
- mtrain.com/fort-lauderdale-fl/ydg-531413
+DESCRIPTION:Tags: dubstep\nAges: 21+\nhttps://www.tixr.com/groups/daernight
+ clubsouthflorida/events/ydg-daer-nightclub-202033
 URL:https://www.tixr.com/groups/daernightclubsouthflorida/events/ydg-daer-n
  ightclub-202033
 STATUS:CONFIRMED

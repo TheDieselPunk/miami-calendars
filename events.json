@@ -25,11 +25,9 @@
   },
   {
    "id": "19hz:4446000-ianasher",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Ian Asher",
-   "artists": [
-    "Ian Asher"
-   ],
+   "artists": [],
    "venue": "Daer Dayclub",
    "venue_slug": "daer",
    "date": "2026-10-17",
@@ -46,10 +44,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://www.tixr.com/groups/daerdayclubsouthflorida/events/saturday-october-17th-daer-dayclub-202011",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/ian-asher-535875"
-   ]
+   "url": "https://www.tixr.com/groups/daerdayclubsouthflorida/events/saturday-october-17th-daer-dayclub-202011"
   },
   {
    "id": "19hz:4446000-area305halloween",
@@ -72,62 +67,6 @@
    "organizer": "Chaotic House Events",
    "description": "",
    "url": "https://posh.vip/e/novo-flow-rooftop-pool-party"
-  },
-  {
-   "id": "edmtrain:434706",
-   "source": "edmtrain",
-   "title": "III Points: Four Tet, KETTAMA, Blood Orange, Fakemink, Underworld, Kelela, Marco Carola b2b Franky Rizardo, Rusowsky, Adam Port, Bassvictim, Max Dean b2b Luke Dean, horsegiirL, VTSS, Interplanetary Criminal, ¥ØU$UK€ ¥UK1MAT$U, 999999999, KI/KI, Charlotte de Witte, Tricky, SOSA, Tiga, Machine Girl, ChaseWest, Daphni, MPH, HAAi, Chanel Beads, Roman Flügel, Joss Dean, Seth Troxler",
-   "artists": [
-    "Four Tet",
-    "KETTAMA",
-    "Blood Orange",
-    "Fakemink",
-    "Underworld",
-    "Kelela",
-    "Marco Carola",
-    "Franky Rizardo",
-    "Rusowsky",
-    "Adam Port",
-    "Bassvictim",
-    "Max Dean",
-    "Luke Dean",
-    "horsegiirL",
-    "VTSS",
-    "Interplanetary Criminal",
-    "¥ØU$UK€ ¥UK1MAT$U",
-    "999999999",
-    "KI/KI",
-    "Charlotte de Witte",
-    "Tricky",
-    "SOSA",
-    "Tiga",
-    "Machine Girl",
-    "ChaseWest",
-    "Daphni",
-    "MPH",
-    "HAAi",
-    "Chanel Beads",
-    "Roman Flügel",
-    "Joss Dean",
-    "Seth Troxler"
-   ],
-   "venue": "Mana Wynwood Convention Center",
-   "venue_slug": "festivals",
-   "date": "2026-10-17",
-   "start": "2026-10-17T19:00:00+00:00",
-   "end": "2026-10-18T06:00:00+00:00",
-   "time_estimated": true,
-   "address": "318 NW 23rd St, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://iiipoints.frontgatetickets.com/?utm_source=Promoters&utm_medium=edmtrain&utm_campaign=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/iii-points-434706"
-   ]
   },
   {
    "id": "19hz:4446012-techniquerecords",
@@ -198,16 +137,9 @@
   },
   {
    "id": "19hz:4446036-kawaiirave",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Kawaii Rave",
-   "artists": [
-    "KZA",
-    "JPAVIA",
-    "Cookie",
-    "Crazy Pink",
-    "Pastel Beach",
-    "AKIYAMA"
-   ],
+   "artists": [],
    "venue": "Kemistry",
    "venue_slug": "kemistry",
    "date": "2026-10-17",
@@ -226,23 +158,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/partner/tickets/event/oe7625-kawaii-rave-17th-oct-kemistry-fort-lauderdale-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/kawaii-rave-kza-544614"
-   ]
+   "url": "https://dice.fm/partner/tickets/event/oe7625-kawaii-rave-17th-oct-kemistry-fort-lauderdale-tickets"
   },
   {
    "id": "19hz:4446036-iliadearwormnofo",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Iliad, Earworm, Noforms, Sana, Ember, & Miss Purple Shampoo",
-   "artists": [
-    "Iliad",
-    "Earworm",
-    "Noforms",
-    "SANA",
-    "EMBER",
-    "miss purple shampoo"
-   ],
+   "artists": [],
    "venue": "Las Rosas",
    "venue_slug": null,
    "date": "2026-10-17",
@@ -256,19 +178,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/k62pqq-iii-points-satellite-iliad-earworm-noforms-sana-ember-miss-purple-shampoo-17th-oct-las-rosas-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/iii-points-satellite-iliad-531627"
-   ]
+   "url": "https://dice.fm/event/k62pqq-iii-points-satellite-iliad-earworm-noforms-sana-ember-miss-purple-shampoo-17th-oct-las-rosas-miami-tickets"
   },
   {
    "id": "19hz:4446036-israelsunshineto",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Israel Sunshine / Tomas Saenz",
-   "artists": [
-    "Tomas Saenz",
-    "Israel Sunshine"
-   ],
+   "artists": [],
    "venue": "Mad Radio",
    "venue_slug": "mad-radio",
    "date": "2026-10-17",
@@ -286,10 +202,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/madradiomiami101726",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/iii-points-satellite-party-tomas-saenz-542617"
-   ]
+   "url": "https://shotgun.live/en/events/madradiomiami101726"
   },
   {
    "id": "tablelist:f760a46c86a093ab",
@@ -313,11 +226,9 @@
   },
   {
    "id": "19hz:4446040-ydg",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Ydg",
-   "artists": [
-    "YDG"
-   ],
+   "artists": [],
    "venue": "Daer Nightclub",
    "venue_slug": "daer",
    "date": "2026-10-17",
@@ -333,18 +244,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://www.tixr.com/groups/daernightclubsouthflorida/events/ydg-daer-nightclub-202033",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/ydg-531413"
-   ]
+   "url": "https://www.tixr.com/groups/daernightclubsouthflorida/events/ydg-daer-nightclub-202033"
   },
   {
    "id": "19hz:4446040-khen",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Khen",
-   "artists": [
-    "Khen"
-   ],
+   "artists": [],
    "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
    "date": "2026-10-17",
@@ -361,19 +267,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/l8733p-khen-17th-oct-do-not-sit-on-the-furniture-miami-beach-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/khen-523283"
-   ]
+   "url": "https://dice.fm/event/l8733p-khen-17th-oct-do-not-sit-on-the-furniture-miami-beach-tickets"
   },
   {
    "id": "19hz:4446040-briancidlouispui",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Brian Cid, Louis Puig (Birthday Set)",
-   "artists": [
-    "Brian Cid",
-    "Louis Puig"
-   ],
+   "artists": [],
    "venue": "Edge",
    "venue_slug": null,
    "date": "2026-10-17",
@@ -390,20 +290,13 @@
    "genres_inferred": false,
    "organizer": "Pitch Park",
    "description": "",
-   "url": "https://posh.vip/e/brian-cid-louis-puig-birthday-set",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/brian-cid-louis-puig-541867"
-   ]
+   "url": "https://posh.vip/e/brian-cid-louis-puig-birthday-set"
   },
   {
    "id": "19hz:4446040-beltran",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Beltran",
-   "artists": [
-    "Beltran",
-    "Marc Houle",
-    "Idriss D"
-   ],
+   "artists": [],
    "venue": "Jolene Downtown",
    "venue_slug": "jolene",
    "date": "2026-10-17",
@@ -419,10 +312,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/923k5d-satellite-beltran-more-17th-oct-jolene-sound-room-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/beltran-marc-houle-529273"
-   ]
+   "url": "https://dice.fm/event/923k5d-satellite-beltran-more-17th-oct-jolene-sound-room-miami-miami-tickets"
   },
   {
    "id": "19hz:4446040-shaunreevesemmab",
@@ -450,11 +340,9 @@
   },
   {
    "id": "19hz:4446040-chezdamier",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Chez Damier",
-   "artists": [
-    "Chez Damier"
-   ],
+   "artists": [],
    "venue": "Lunasol",
    "venue_slug": null,
    "date": "2026-10-17",
@@ -470,27 +358,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/oe8anr-lunasol-pres-chez-damier-17th-oct-lunasol-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/lunasol-pres-chez-damier-530722"
-   ]
+   "url": "https://dice.fm/event/oe8anr-lunasol-pres-chez-damier-17th-oct-lunasol-miami-tickets"
   },
   {
    "id": "dice:6a8726aa69055f0001adb581",
-   "source": "19hz+dice+edmtrain",
+   "source": "19hz+dice",
    "title": "Satellite: Disco Lines, Four Tet B2B Floating Points B2B Daphni, horsegiirL, Kettama + MORE",
-   "artists": [
-    "Disco Lines",
-    "Four Tet",
-    "Floating Points",
-    "Daphni",
-    "horsegiirL",
-    "KETTAMA",
-    "MARTE",
-    "MPH",
-    "Roddy Lima",
-    "VTSS"
-   ],
+   "artists": [],
    "venue": "Club Space Miami",
    "venue_slug": "club-space",
    "date": "2026-10-17",
@@ -499,7 +373,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $50",
+   "price": "$50+",
    "genres": [
     "downtempo",
     "house",
@@ -512,19 +386,14 @@
    "url": "https://dice.fm/event/6a8726aa69055f0001adb581",
    "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/6a8726aa69055f0001adb581",
-    "https://edmtrain.com/miami-fl/disco-lines-four-tet-530704"
+    "https://dice.fm/event/6a8726aa69055f0001adb581"
    ]
   },
   {
    "id": "19hz:4446043-marsolosilvielot",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Marsolo, Silvie Loto",
-   "artists": [
-    "Marsolo",
-    "Silvie Loto",
-    "Mick Jerome"
-   ],
+   "artists": [],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
    "date": "2026-10-17",
@@ -540,21 +409,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/yodwr2-satellite-marsolo-silvie-loto-17th-oct-floyd-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/marsolo-silvie-loto-529532"
-   ]
+   "url": "https://dice.fm/event/yodwr2-satellite-marsolo-silvie-loto-17th-oct-floyd-miami-miami-tickets"
   },
   {
    "id": "19hz:4446043-haaijacquesgreen",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "HAAi, Jacques Greene, & DJ Fuckoff",
-   "artists": [
-    "HAAi",
-    "Jacques Greene",
-    "DJ FuckOFF",
-    "vsyana"
-   ],
+   "artists": [],
    "venue": "The Ground",
    "venue_slug": "the-ground",
    "date": "2026-10-17",
@@ -570,18 +431,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/3orxdp-satellite-haai-jacques-greene-dj-fuckoff-17th-oct-the-ground-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/haai-jacques-greene-529661"
-   ]
+   "url": "https://dice.fm/event/3orxdp-satellite-haai-jacques-greene-dj-fuckoff-17th-oct-the-ground-miami-miami-tickets"
   },
   {
    "id": "19hz:4446046-loudluxury",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Loud Luxury",
-   "artists": [
-    "Loud Luxury"
-   ],
+   "artists": [],
    "venue": "Liv Nightclub",
    "venue_slug": null,
    "date": "2026-10-17",
@@ -600,33 +456,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://www.ticketweb.com/event/id/14375604",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/loud-luxury-544405"
-   ]
-  },
-  {
-   "id": "edmtrain:540587",
-   "source": "edmtrain",
-   "title": "Area 305 POOL PARTY",
-   "artists": [],
-   "venue": "Novotel Miami Brickell",
-   "venue_slug": null,
-   "date": "2026-10-17",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "1500 SW 1st Ave, Miami, FL 33129, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://posh.vip/e/novo-flow-rooftop-pool-party?u=jannychaos&_t=mulyz6ow&os=ios&src=event_page&t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/area-305-pool-party-540587"
-   ]
+   "url": "https://www.ticketweb.com/event/id/14375604"
   },
   {
    "id": "hardrock:202012",

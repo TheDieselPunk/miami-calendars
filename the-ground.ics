@@ -9,17 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4446043-haaijacquesgreen@the-ground.miami-calendars
-DTSTAMP:20261018T041809Z
-LAST-MODIFIED:20261018T041809Z
-SEQUENCE:0
+DTSTAMP:20261018T161811Z
+LAST-MODIFIED:20261018T161811Z
+SEQUENCE:1
 DTSTART:20261018T030000Z
 DTEND:20261018T110000Z
 SUMMARY:HAAi\, Jacques Greene\, & DJ Fuckoff
 LOCATION:The Ground
-DESCRIPTION:Lineup: HAAi\, Jacques Greene\, DJ FuckOFF\, vsyana\nTags: tech
- no\nAges: 21+\nhttps://dice.fm/event/3orxdp-satellite-haai-jacques-greene-
- dj-fuckoff-17th-oct-the-ground-miami-miami-tickets\nhttps://edmtrain.com/m
- iami-fl/haai-jacques-greene-529661
+DESCRIPTION:Tags: techno\nAges: 21+\nhttps://dice.fm/event/3orxdp-satellite
+ -haai-jacques-greene-dj-fuckoff-17th-oct-the-ground-miami-miami-tickets
 URL:https://dice.fm/event/3orxdp-satellite-haai-jacques-greene-dj-fuckoff-1
  7th-oct-the-ground-miami-miami-tickets
 STATUS:CONFIRMED
