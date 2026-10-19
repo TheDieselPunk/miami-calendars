@@ -8,26 +8,21 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a85fa6621cf7000019482af@zeyzey.miami-calendars
-DTSTAMP:20261018T221810Z
-LAST-MODIFIED:20261018T221810Z
-SEQUENCE:6
-DTSTART:20261018T200000Z
-DTEND:20261019T040000Z
-SUMMARY:Satellite: Interplanetary Criminal\, Sam Alfred\, Jubilee + GENEROU
- S B & FRIENDS
-LOCATION:ZeyZey\, 353 Northeast 61st Street\, Miami\, Florida 33137\, Unite
- d States
+UID:tablelist-c09962faa135713a@zeyzey.miami-calendars
+DTSTAMP:20261019T101822Z
+LAST-MODIFIED:20261019T101822Z
+SEQUENCE:0
+DTSTART:20261018T170000Z
+DTEND:20261019T000000Z
+SUMMARY:Satellite: Interplanetary Criminal\, Sam Alfred\, Jubilee + More
+LOCATION:ZeyZey Miami
 DESCRIPTION:Lineup: Interplanetary Criminal\, Sam Alfred\, Generous B\, Car
  ozilla\, DB Cooper\, Baby Bass\, Rara\, Hakuna\, Roll-e\, Icky\nTags: drum
-  and bass\, jungle\, uk garage\nAges: 18+\nhttps://dice.fm/event/avxxxx-sa
- tellite-interplanetary-criminal-sam-alfred-jubilee-more-18th-oct-zeyzey-mi
- ami-tickets\nhttps://buy.tablelist.com/e/c09962faa135713a\nhttps://calenda
- r.zeyzeymiami.com/shows/satellite-interplanetary-criminal-sam-alfred-jubil
- ee-more-18-oct\nhttps://edmtrain.com/miami-fl/interplanetary-criminal-sam-
- alfred-544931
-URL:https://dice.fm/event/avxxxx-satellite-interplanetary-criminal-sam-alfr
- ed-jubilee-more-18th-oct-zeyzey-miami-tickets
+  and bass\, jungle\, uk garage\nAges: 18+\nhttps://buy.tablelist.com/e/c09
+ 962faa135713a\nhttps://dice.fm/event/avxxxx-satellite-interplanetary-crimi
+ nal-sam-alfred-jubilee-more-18th-oct-zeyzey-miami-tickets\nhttps://edmtrai
+ n.com/miami-fl/interplanetary-criminal-sam-alfred-544931
+URL:https://buy.tablelist.com/e/c09962faa135713a
 STATUS:CONFIRMED
 CATEGORIES:drum and bass,jungle,uk garage
 END:VEVENT
