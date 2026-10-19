@@ -2,20 +2,9 @@
  "events": [
   {
    "id": "tablelist:c09962faa135713a",
-   "source": "19hz+edmtrain+tablelist",
+   "source": "19hz+tablelist",
    "title": "Satellite: Interplanetary Criminal, Sam Alfred, Jubilee + More",
-   "artists": [
-    "Interplanetary Criminal",
-    "Sam Alfred",
-    "Generous B",
-    "Carozilla",
-    "DB Cooper",
-    "Baby Bass",
-    "Rara",
-    "Hakuna",
-    "Roll-e",
-    "Icky"
-   ],
+   "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-10-18",
@@ -35,8 +24,7 @@
    "description": "",
    "url": "https://buy.tablelist.com/e/c09962faa135713a",
    "alt_urls": [
-    "https://dice.fm/event/avxxxx-satellite-interplanetary-criminal-sam-alfred-jubilee-more-18th-oct-zeyzey-miami-tickets",
-    "https://edmtrain.com/miami-fl/interplanetary-criminal-sam-alfred-544931"
+    "https://dice.fm/event/avxxxx-satellite-interplanetary-criminal-sam-alfred-jubilee-more-18th-oct-zeyzey-miami-tickets"
    ]
   },
   {
@@ -64,15 +52,9 @@
   },
   {
    "id": "19hz:4446108-satellitemaccabi",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Satellite: Maccabi House at The Garden",
-   "artists": [
-    "Adam Ten",
-    "Mita Gami",
-    "Rafael",
-    "Yamagucci",
-    "Miluhska"
-   ],
+   "artists": [],
    "venue": "Hialeah Park Casino",
    "venue_slug": "festivals",
    "date": "2026-10-18",
@@ -86,10 +68,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/avxq2d-satellite-maccabi-house-at-the-garden-18th-oct-hialeah-park-casino-hialeah-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/satellite-maccabi-house-at-the-garden-adam-ten-528764"
-   ]
+   "url": "https://dice.fm/event/avxq2d-satellite-maccabi-house-at-the-garden-18th-oct-hialeah-park-casino-hialeah-tickets"
   },
   {
    "id": "19hz:4446115-chillinngrillino",
@@ -138,11 +117,9 @@
   },
   {
    "id": "19hz:4446127-mistergray",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Mister Gray",
-   "artists": [
-    "Mister Gray"
-   ],
+   "artists": [],
    "venue": "E11even",
    "venue_slug": null,
    "date": "2026-10-18",
@@ -159,18 +136,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://speakeasygo.com/event/EVE-DM2S9L",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/mister-gray-535420"
-   ]
+   "url": "https://speakeasygo.com/event/EVE-DM2S9L"
   },
   {
    "id": "19hz:4446127-tinifuttturaworl",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "tINI - Futttura World Tour",
-   "artists": [
-    "tINI"
-   ],
+   "artists": [],
    "venue": "Kaseya Center",
    "venue_slug": null,
    "date": "2026-10-18",
@@ -187,10 +159,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://www.ticketmaster.com/event/0D0064B3151133D8",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/tini-505851"
-   ]
+   "url": "https://www.ticketmaster.com/event/0D0064B3151133D8"
   },
   {
    "id": "19hz:4446132-zombieravenoxhea",
@@ -220,16 +189,9 @@
   },
   {
    "id": "19hz:4446132-frzzrdisputerlov",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Frzzr, Disputer, Love, Janne, Bygone Summers, & Mono",
-   "artists": [
-    "FRZZR",
-    "DISPUTER",
-    "Love",
-    "Janne Tavi",
-    "BYGONE SUMMERS",
-    "Moño"
-   ],
+   "artists": [],
    "venue": "Las Rosas",
    "venue_slug": null,
    "date": "2026-10-18",
@@ -243,20 +205,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/g58oy2-iii-points-satellite-frzzr-disputer-love-janne-bygone-summers-moo-18th-oct-las-rosas-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/iii-points-satellite-frzzr-531628"
-   ]
+   "url": "https://dice.fm/event/g58oy2-iii-points-satellite-frzzr-disputer-love-janne-bygone-summers-moo-18th-oct-las-rosas-miami-tickets"
   },
   {
    "id": "19hz:4446136-deanturnleykinah",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Dean Turnley, KinAhau, & Dalva",
-   "artists": [
-    "Dean Turnley",
-    "KinAhau",
-    "Dalva"
-   ],
+   "artists": [],
    "venue": "Jolene Downtown",
    "venue_slug": "jolene",
    "date": "2026-10-18",
@@ -274,37 +229,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/dkdpm6-satellite-dean-turnley-kinahau-dalva-18th-oct-jolene-sound-room-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/dean-turnley-kinahau-529274"
-   ]
+   "url": "https://dice.fm/event/dkdpm6-satellite-dean-turnley-kinahau-dalva-18th-oct-jolene-sound-room-miami-miami-tickets"
   },
   {
    "id": "19hz:4446139-satellite33houri",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Satellite: 33+ Hour III Points Closing Party",
-   "artists": [
-    "Coffintexts",
-    "Honey Dijon",
-    "Adam Ten",
-    "Mita Gami",
-    "Marco Carola",
-    "Max Dean + Luke Dean + Joss Dean",
-    "Brunello",
-    "Rony Seikaly",
-    "Ben Sterling",
-    "Tiga",
-    "Beltran",
-    "Red Axes",
-    "Seth Troxler",
-    "Maher Daniel",
-    "Max Styler",
-    "OMRI.",
-    "SOSA",
-    "Miguelle & Tons",
-    "Ms. Mada",
-    "Slugg"
-   ],
+   "artists": [],
    "venue": "Club Space",
    "venue_slug": "club-space",
    "date": "2026-10-18",
@@ -321,20 +252,15 @@
    "organizer": "III Points",
    "description": "",
    "url": "https://dice.fm/event/k65ygl-satellite-33-hour-iii-points-closing-party-18th-oct-club-space-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/satellite-33-hour-iii-points-closing-party-coffintexts-529492"
-   ],
    "also": [
     "festivals"
    ]
   },
   {
    "id": "19hz:4446139-saragastardust",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Saraga - Stardust",
-   "artists": [
-    "Saraga"
-   ],
+   "artists": [],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
    "date": "2026-10-18",
@@ -351,21 +277,13 @@
    "genres_inferred": true,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/923kq9-satellite-saraga-presents-stardust-18th-oct-floyd-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/saraga-529533"
-   ]
+   "url": "https://dice.fm/event/923kq9-satellite-saraga-presents-stardust-18th-oct-floyd-miami-miami-tickets"
   },
   {
    "id": "19hz:4446139-1tbspdjchaoticug",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "1tbsp, DJ Chaotic Ugly, Safety Trance, TECH G1RLS",
-   "artists": [
-    "1tbsp",
-    "Chaotic Ugly",
-    "SAFETY TRANCE",
-    "TECHG1RLS"
-   ],
+   "artists": [],
    "venue": "The Ground",
    "venue_slug": "the-ground",
    "date": "2026-10-18",
@@ -382,83 +300,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/oe8ax5-satellite-1tbsp-dj-chaotic-ugly-safety-trance-tech-g1rls-more-18th-oct-the-ground-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/1tbsp-chaotic-ugly-529662"
-   ]
-  },
-  {
-   "id": "edmtrain:541807",
-   "source": "edmtrain",
-   "title": "7-Zip",
-   "artists": [
-    "7-Zip"
-   ],
-   "venue": "215 SW 27th Ave",
-   "venue_slug": null,
-   "date": "2026-10-18",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "215 SW 27th Ave, Fort Lauderdale, FL 33312, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/zombie-rave?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/7-zip-541807"
-   ]
-  },
-  {
-   "id": "edmtrain:544789",
-   "source": "edmtrain",
-   "title": "Undertone",
-   "artists": [],
-   "venue": "777 NE 79th St",
-   "venue_slug": null,
-   "date": "2026-10-18",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "777 NE 79th St, Miami, FL 33138, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/undertone2?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/undertone-544789"
-   ]
-  },
-  {
-   "id": "edmtrain:544334",
-   "source": "edmtrain",
-   "title": "Oscar G",
-   "artists": [
-    "Oscar G"
-   ],
-   "venue": "AIRE Miami",
-   "venue_slug": null,
-   "date": "2026-10-18",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "111 NE 20th St, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/v3xkgd?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/oscar-g-544334"
-   ]
+   "url": "https://dice.fm/event/oe8ax5-satellite-1tbsp-dj-chaotic-ugly-safety-trance-tech-g1rls-more-18th-oct-the-ground-miami-miami-tickets"
   },
   {
    "id": "19hz:4446223-livitup",
@@ -8915,6 +8757,34 @@
    "generic_title": true
   },
   {
+   "id": "shotgun:equinox-fest-4-day-2-3-november-21-22nd",
+   "source": "shotgun",
+   "title": "Equinox Fest 4. Day 2 & 3. November 21/22nd",
+   "artists": [],
+   "venue": "The Boombox Miami",
+   "venue_slug": "boombox",
+   "date": "2026-11-21",
+   "start": "2026-11-21T17:00:00+00:00",
+   "end": "2026-11-23T04:00:00+00:00",
+   "time_estimated": false,
+   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
+   "ages": "",
+   "price": "$45.40",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "Equinox Booking",
+   "description": "Equinox Fest Day 2 and 3 at The Boombox Line up TBA",
+   "url": "https://shotgun.live/en/events/equinox-fest-4-day-2-3-november-21-22nd",
+   "tickets": "Day 2 & 3 Weekend Pass $50, Weekend Pass Early Bird $40",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.7287781,
+    "longitude": -80.3169309
+   },
+   "created": "2026-10-19T15:50:33.000Z"
+  },
+  {
    "id": "19hz:4449376-klingande",
    "source": "19hz+edmtrain",
    "title": "Klingande",
@@ -11647,7 +11517,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "",
-   "price": "From $100",
+   "price": "From $80",
    "genres": [
     "house",
     "techno"
@@ -12464,7 +12334,7 @@
   {
    "id": "hardrock:207835",
    "source": "venue",
-   "title": "DAER Nightclub",
+   "title": "Snoop Dogg",
    "artists": [],
    "venue": "DAER Nightclub",
    "venue_slug": "daer",
@@ -12480,7 +12350,7 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/207835",
-   "generic_title": true
+   "generic_title": false
   },
   {
    "id": "19hz:4451320-davi",
@@ -14296,6 +14166,27 @@
    "alt_urls": [
     "https://edmtrain.com/fort-lauderdale-fl/vnv-nation-an-evening-with-vnv-nation-517365"
    ]
+  },
+  {
+   "id": "zeyzey:alex-sampson-14-mar",
+   "source": "venue",
+   "title": "Alex Sampson",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2027-03-14",
+   "start": "2027-03-14T23:00:00+00:00",
+   "end": "2027-03-15T05:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/alex-sampson-14-mar",
+   "cancelled": false
   },
   {
    "id": "edmtrain:545824",

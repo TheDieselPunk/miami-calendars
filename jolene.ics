@@ -9,17 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4446136-deanturnleykinah@jolene.miami-calendars
-DTSTAMP:20261019T101822Z
-LAST-MODIFIED:20261019T101822Z
-SEQUENCE:0
+DTSTAMP:20261019T161824Z
+LAST-MODIFIED:20261019T161824Z
+SEQUENCE:1
 DTSTART:20261019T020000Z
 DTEND:20261019T080000Z
 SUMMARY:Dean Turnley\, KinAhau\, & Dalva
 LOCATION:Jolene Downtown
-DESCRIPTION:Lineup: Dean Turnley\, KinAhau\, Dalva\nTags: funk\, hip-hop\, 
- house\nAges: 21+\nhttps://dice.fm/event/dkdpm6-satellite-dean-turnley-kina
- hau-dalva-18th-oct-jolene-sound-room-miami-miami-tickets\nhttps://edmtrain
- .com/miami-fl/dean-turnley-kinahau-529274
+DESCRIPTION:Tags: funk\, hip-hop\, house\nAges: 21+\nhttps://dice.fm/event/
+ dkdpm6-satellite-dean-turnley-kinahau-dalva-18th-oct-jolene-sound-room-mia
+ mi-miami-tickets
 URL:https://dice.fm/event/dkdpm6-satellite-dean-turnley-kinahau-dalva-18th-
  oct-jolene-sound-room-miami-miami-tickets
 STATUS:CONFIRMED

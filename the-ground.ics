@@ -9,17 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4446139-1tbspdjchaoticug@the-ground.miami-calendars
-DTSTAMP:20261019T041812Z
-LAST-MODIFIED:20261019T041812Z
-SEQUENCE:0
+DTSTAMP:20261019T161824Z
+LAST-MODIFIED:20261019T161824Z
+SEQUENCE:1
 DTSTART:20261019T030000Z
 DTEND:20261019T110000Z
 SUMMARY:1tbsp\, DJ Chaotic Ugly\, Safety Trance\, TECH G1RLS
 LOCATION:The Ground
-DESCRIPTION:Lineup: 1tbsp\, Chaotic Ugly\, SAFETY TRANCE\, TECHG1RLS\nTags:
-  house\, indie dance\nAges: 21+\nhttps://dice.fm/event/oe8ax5-satellite-1t
- bsp-dj-chaotic-ugly-safety-trance-tech-g1rls-more-18th-oct-the-ground-miam
- i-miami-tickets\nhttps://edmtrain.com/miami-fl/1tbsp-chaotic-ugly-529662
+DESCRIPTION:Tags: house\, indie dance\nAges: 21+\nhttps://dice.fm/event/oe8
+ ax5-satellite-1tbsp-dj-chaotic-ugly-safety-trance-tech-g1rls-more-18th-oct
+ -the-ground-miami-miami-tickets
 URL:https://dice.fm/event/oe8ax5-satellite-1tbsp-dj-chaotic-ugly-safety-tra
  nce-tech-g1rls-more-18th-oct-the-ground-miami-miami-tickets
 STATUS:CONFIRMED

@@ -1,8 +1,8 @@
 {
  "19hz-4446108-satellitemaccabi@festivals.miami-calendars": {
-  "hash": "f11018424889dfb8",
-  "seq": 0,
-  "modified": "2026-09-21T21:40:09+00:00"
+  "hash": "7b5025df8d652b25",
+  "seq": 1,
+  "modified": "2026-10-19T16:18:24+00:00"
  },
  "19hz-4446108-sunsetattheboatd@festivals.miami-calendars": {
   "hash": "6f0b3b5b062c854f",
@@ -10,29 +10,29 @@
   "modified": "2026-10-16T22:18:13+00:00"
  },
  "19hz-4446136-deanturnleykinah@jolene.miami-calendars": {
-  "hash": "6275385e93270622",
-  "seq": 0,
-  "modified": "2026-10-19T10:18:22+00:00"
+  "hash": "68088ebe4c1cfe2b",
+  "seq": 1,
+  "modified": "2026-10-19T16:18:24+00:00"
  },
  "19hz-4446139-1tbspdjchaoticug@the-ground.miami-calendars": {
-  "hash": "300ecad7e90bb033",
-  "seq": 0,
-  "modified": "2026-10-19T04:18:12+00:00"
+  "hash": "18ec213eeda057c0",
+  "seq": 1,
+  "modified": "2026-10-19T16:18:24+00:00"
  },
  "19hz-4446139-saragastardust@floyd.miami-calendars": {
-  "hash": "e85233e9a7d63731",
-  "seq": 0,
-  "modified": "2026-10-09T22:19:02+00:00"
+  "hash": "285a143ba0563a3c",
+  "seq": 1,
+  "modified": "2026-10-19T16:18:24+00:00"
  },
  "19hz-4446139-satellite33houri@club-space.miami-calendars": {
-  "hash": "09137c73b436559f",
-  "seq": 0,
-  "modified": "2026-09-21T20:01:40+00:00"
+  "hash": "a4a96bc7cfcaeace",
+  "seq": 1,
+  "modified": "2026-10-19T16:18:24+00:00"
  },
  "19hz-4446139-satellite33houri@festivals.miami-calendars": {
-  "hash": "09137c73b436559f",
-  "seq": 0,
-  "modified": "2026-09-21T21:40:09+00:00"
+  "hash": "a4a96bc7cfcaeace",
+  "seq": 1,
+  "modified": "2026-10-19T16:18:24+00:00"
  },
  "19hz-4446616-hedoncarlaschmit@domicile.miami-calendars": {
   "hash": "0cdb278940b29b51",
@@ -879,6 +879,11 @@
   "seq": 0,
   "modified": "2026-10-18T10:18:14+00:00"
  },
+ "equinox-fest-4-day-2-3-november-21-22nd@shotgun.live": {
+  "hash": "c96fc49296a967fc",
+  "seq": 0,
+  "modified": "2026-10-19T16:18:24+00:00"
+ },
  "flowers-for-persephone-told-not-to-worry-at-boombox-11-19@shotgun.live": {
   "hash": "82f301ab36c78436",
   "seq": 0,
@@ -1035,9 +1040,9 @@
   "modified": "2026-09-21T20:07:29+00:00"
  },
  "hardrock-207835@daer.miami-calendars": {
-  "hash": "d4ea5a78eaec37c5",
-  "seq": 1,
-  "modified": "2026-09-21T20:07:29+00:00"
+  "hash": "d3e007075ca331b2",
+  "seq": 2,
+  "modified": "2026-10-19T16:18:24+00:00"
  },
  "hardrock-207836@daer.miami-calendars": {
   "hash": "2ca8b08c4bb38ef8",
@@ -1235,9 +1240,9 @@
   "modified": "2026-10-01T04:18:24+00:00"
  },
  "tablelist-c09962faa135713a@zeyzey.miami-calendars": {
-  "hash": "0c5b7d975e8aa3e9",
-  "seq": 0,
-  "modified": "2026-10-19T10:18:22+00:00"
+  "hash": "50a989fdca65d09c",
+  "seq": 1,
+  "modified": "2026-10-19T16:18:24+00:00"
  },
  "tablelist-cb59f6b1c057040a@zeyzey.miami-calendars": {
   "hash": "436543e0b4348487",
@@ -1288,6 +1293,11 @@
   "hash": "40bad7f3502ddc01",
   "seq": 0,
   "modified": "2026-09-30T16:18:12+00:00"
+ },
+ "zeyzey-alex-sampson-14-mar@zeyzey.miami-calendars": {
+  "hash": "93a3ae585748f79f",
+  "seq": 0,
+  "modified": "2026-10-19T16:18:24+00:00"
  },
  "zeyzey-amrita-fr-13-nov@zeyzey.miami-calendars": {
   "hash": "d630b5fc851848ab",
