@@ -86,7 +86,7 @@
   "slug": "boombox",
   "name": "The Boombox Miami",
   "file": "boombox.ics",
-  "events": 9,
+  "events": 10,
   "estimated_times": 0,
   "next": "2026-10-22",
   "sources": [
@@ -172,7 +172,7 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 43,
+  "events": 44,
   "estimated_times": 20,
   "next": "2026-10-18",
   "sources": [

@@ -2377,6 +2377,36 @@
    ]
   },
   {
+   "id": "shotgun:murder-at-the-disco-box",
+   "source": "shotgun",
+   "title": "Murder At The Disco Box",
+   "artists": [],
+   "venue": "The Boombox Miami",
+   "venue_slug": "boombox",
+   "date": "2026-10-24",
+   "start": "2026-10-25T03:00:00+00:00",
+   "end": "2026-10-25T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "disco"
+   ],
+   "genres_inferred": false,
+   "organizer": "The Boombox Miami",
+   "description": "A NIGHT OF DEADLY DISCO DiscoBox returns this Friday with a Halloween special. Costumes are REQUIRED. Disco all night, plus a costume contest with 2 FREE TICKETS up for grabs. Best costume wins entry for you and a plus one to BOTH nights of our Halloween weekend, October 30th & 31st. OCT 24 • 11PM TILL LATE THE BOOMBOX | 4447 SW 75TH AVE Dress to impress the dead. 18+ = 20$ 21+ = free entry",
+   "url": "https://shotgun.live/en/events/murder-at-the-disco-box",
+   "tickets": "RSVP Free",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.7287781,
+    "longitude": -80.3169309
+   },
+   "created": "2026-10-19T20:10:03.000Z"
+  },
+  {
    "id": "dice:6a90763252ac72000187b29b",
    "source": "19hz+dice",
    "title": "BLACK ROOM: KANDER",
@@ -2817,6 +2847,30 @@
    ]
   },
   {
+   "id": "shotgun:night-of-mania",
+   "source": "shotgun",
+   "title": "Night Of Mania: Costume Bash",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-10-28",
+   "start": "2026-10-29T00:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.35",
+   "genres": [
+    "indie rock",
+    "alternative",
+    "rock"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/night-of-mania"
+  },
+  {
    "id": "19hz:4447087-e11evenhalloween",
    "source": "19hz+edmtrain",
    "title": "E11even Halloween Week Ft Renn Mateos",
@@ -2953,30 +3007,6 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/death-of-an-idol-halloween-costume-party"
-  },
-  {
-   "id": "shotgun:night-of-mania",
-   "source": "shotgun",
-   "title": "Night Of Mania: Costume Bash",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-10-29",
-   "start": "2026-10-30T00:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$11.35",
-   "genres": [
-    "indie rock",
-    "alternative",
-    "rock"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/night-of-mania"
   },
   {
    "id": "19hz:4447183-e11evenhalloween",
@@ -11227,7 +11257,7 @@
   {
    "id": "edmtrain:463360",
    "source": "edmtrain",
-   "title": "Cyclops Cove: Subtronics, A Hundred Drums b2b Zen Selekta, ALLEYCVT b2b LEVEL UP, AVELLO, Blossom, blurrd vzn, Costa (DC), Daggz, Doctor P b2b FuntCase, Don Jamal, Galatic Effect, Gardella, Getter, Hedex, HOL! b2b INFEKT, HVDES, Izzy Vadim, Kompany, Lizzy Jane, Lucas Lavenz, Lumasi, Osyris, MLOTIK, Mocha, Modal Nodes, Nimda b2b PROSECUTE, PEEKABOO, Ravenscoon, REAPER, RL Grime, RZRKT b2b Vastive, Seeing Dubble, Seven Lions, sfam, SHOSH, SISTO (San Jose), Slang Dogs, Smoakland, Steller, Subtronics b2b Crankdat, sumthin sumthin, Taiki Nulight, TroyBoi, TYNAN, Vicky B, Uyhara, Warlord, Witching Hour (VAMPA & JEANIE), Z3LLA",
+   "title": "Cyclops Cove: Subtronics, A Hundred Drums b2b Zen Selekta, ALLEYCVT b2b LEVEL UP, AVELLO, Blossom, blurrd vzn, Costa, Daggz, Doctor P b2b FuntCase, Don Jamal, Galatic Effect, Gardella, Getter, Hedex, HOL! b2b INFEKT, HVDES, Izzy Vadim, Kompany, Lizzy Jane, Lucas Lavenz, Lumasi, Osyris, MLOTIK, Mocha, Modal Nodes, Nimda b2b PROSECUTE, PEEKABOO, Ravenscoon, REAPER, RL Grime, RZRKT b2b Vastive, Seeing Dubble, Seven Lions, sfam, SHOSH, SISTO, Slang Dogs, Smoakland, Steller, Subtronics b2b Crankdat, sumthin sumthin, Taiki Nulight, TroyBoi, TYNAN, Vicky B, Uyhara, Warlord, Witching Hour (VAMPA & JEANIE), Z3LLA",
    "artists": [
     "Subtronics",
     "A Hundred Drums",
@@ -11237,7 +11267,7 @@
     "AVELLO",
     "Blossom",
     "blurrd vzn",
-    "Costa (DC)",
+    "Costa",
     "Daggz",
     "Doctor P",
     "FuntCase",
@@ -11270,7 +11300,7 @@
     "Seven Lions",
     "sfam",
     "SHOSH",
-    "SISTO (San Jose)",
+    "SISTO",
     "Slang Dogs",
     "Smoakland",
     "Steller",
@@ -11448,13 +11478,9 @@
   },
   {
    "id": "shotgun:lee-foss-art-week-miami",
-   "source": "edmtrain+shotgun",
+   "source": "shotgun",
    "title": "Lee Foss, Vito (Uk), Andrea Quintero & More (Art Week Miami)",
-   "artists": [
-    "Lee Foss",
-    "Vito (UK)",
-    "Andrea Quintero"
-   ],
+   "artists": [],
    "venue": "EDGE MIAMI",
    "venue_slug": null,
    "date": "2026-12-04",
@@ -11471,16 +11497,17 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/lee-foss-art-week-miami",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/lee-foss-vito-uk-542873"
-   ]
+   "url": "https://shotgun.live/en/events/lee-foss-art-week-miami"
   },
   {
    "id": "19hz:4450648-leefossvitoandre",
-   "source": "19hz",
+   "source": "19hz+edmtrain",
    "title": "Lee Foss, Vito, Andrea Quintero",
-   "artists": [],
+   "artists": [
+    "Lee Foss",
+    "Vito",
+    "Andrea Quintero"
+   ],
    "venue": "Edge",
    "venue_slug": null,
    "date": "2026-12-04",
@@ -11497,7 +11524,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/lee-foss-art-week-miami"
+   "url": "https://shotgun.live/en/events/lee-foss-art-week-miami",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/lee-foss-vito-uk-542873"
+   ]
   },
   {
    "id": "dice:6ac6bc67f132910001aa91b9",
@@ -11517,7 +11547,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "",
-   "price": "From $80",
+   "price": "From $100",
    "genres": [
     "house",
     "techno"
@@ -11663,6 +11693,28 @@
    "description": "",
    "url": "https://tixr.com/e/207848",
    "generic_title": true
+  },
+  {
+   "id": "shotgun:cafe-grooves-art-week",
+   "source": "shotgun",
+   "title": "Café Grooves // Art Basel",
+   "artists": [],
+   "venue": "Lunasol",
+   "venue_slug": "festivals",
+   "date": "2026-12-05",
+   "start": "2026-12-05T18:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/cafe-grooves-art-week"
   },
   {
    "id": "edmtrain:463361",
