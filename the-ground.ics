@@ -8,31 +8,14 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4446043-haaijacquesgreen@the-ground.miami-calendars
-DTSTAMP:20261018T161811Z
-LAST-MODIFIED:20261018T161811Z
-SEQUENCE:1
-DTSTART:20261018T030000Z
-DTEND:20261018T110000Z
-SUMMARY:HAAi\, Jacques Greene\, & DJ Fuckoff
-LOCATION:The Ground
-DESCRIPTION:Tags: techno\nAges: 21+\nhttps://dice.fm/event/3orxdp-satellite
- -haai-jacques-greene-dj-fuckoff-17th-oct-the-ground-miami-miami-tickets
-URL:https://dice.fm/event/3orxdp-satellite-haai-jacques-greene-dj-fuckoff-1
- 7th-oct-the-ground-miami-miami-tickets
-STATUS:CONFIRMED
-CATEGORIES:techno
-END:VEVENT
-BEGIN:VEVENT
-UID:dice-6a838327c1861c000191d7c5@the-ground.miami-calendars
-DTSTAMP:20261007T221838Z
-LAST-MODIFIED:20261007T221838Z
-SEQUENCE:5
+UID:19hz-4446139-1tbspdjchaoticug@the-ground.miami-calendars
+DTSTAMP:20261019T041812Z
+LAST-MODIFIED:20261019T041812Z
+SEQUENCE:0
 DTSTART:20261019T030000Z
 DTEND:20261019T110000Z
-SUMMARY:Satellite: Bassvictim (Dj Set)\, 1tbsp\, DJ Chaotic Ugly\, TECH G1R
- LS\, & More
-LOCATION:The Ground Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
+SUMMARY:1tbsp\, DJ Chaotic Ugly\, Safety Trance\, TECH G1RLS
+LOCATION:The Ground
 DESCRIPTION:Lineup: 1tbsp\, Chaotic Ugly\, SAFETY TRANCE\, TECHG1RLS\nTags:
   house\, indie dance\nAges: 21+\nhttps://dice.fm/event/oe8ax5-satellite-1t
  bsp-dj-chaotic-ugly-safety-trance-tech-g1rls-more-18th-oct-the-ground-miam

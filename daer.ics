@@ -8,51 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4446000-ianasher@daer.miami-calendars
-DTSTAMP:20261018T161811Z
-LAST-MODIFIED:20261018T161811Z
-SEQUENCE:1
-DTSTART:20261017T160000Z
-DTEND:20261017T230000Z
-SUMMARY:Ian Asher
-LOCATION:Daer Dayclub\, Hollywood
-DESCRIPTION:Tags: edm\, house\nAges: 21+\nhttps://www.tixr.com/groups/daerd
- ayclubsouthflorida/events/saturday-october-17th-daer-dayclub-202011
-URL:https://www.tixr.com/groups/daerdayclubsouthflorida/events/saturday-oct
- ober-17th-daer-dayclub-202011
-STATUS:CONFIRMED
-CATEGORIES:edm,house
-END:VEVENT
-BEGIN:VEVENT
-UID:19hz-4446040-ydg@daer.miami-calendars
-DTSTAMP:20261018T161811Z
-LAST-MODIFIED:20261018T161811Z
-SEQUENCE:1
-DTSTART:20261018T020000Z
-DTEND:20261018T080000Z
-SUMMARY:Ydg
-LOCATION:Daer Nightclub\, Hollywood
-DESCRIPTION:Tags: dubstep\nAges: 21+\nhttps://www.tixr.com/groups/daernight
- clubsouthflorida/events/ydg-daer-nightclub-202033
-URL:https://www.tixr.com/groups/daernightclubsouthflorida/events/ydg-daer-n
- ightclub-202033
-STATUS:CONFIRMED
-CATEGORIES:dubstep
-END:VEVENT
-BEGIN:VEVENT
-UID:hardrock-202012@daer.miami-calendars
-DTSTAMP:20260930T161812Z
-LAST-MODIFIED:20260930T161812Z
-SEQUENCE:3
-DTSTART:20261018T160000Z
-DTEND:20261018T220000Z
-SUMMARY:Gameday Watch Party 10/18
-LOCATION:DAER Dayclub\, 1 Seminole Way\, Hollywood\, FL 33314
-DESCRIPTION:https://tixr.com/e/202012
-URL:https://tixr.com/e/202012
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:hardrock-202034@daer.miami-calendars
 DTSTAMP:20260921T200554Z
 LAST-MODIFIED:20260921T200554Z

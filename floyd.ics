@@ -8,22 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4446043-marsolosilvielot@floyd.miami-calendars
-DTSTAMP:20261018T161811Z
-LAST-MODIFIED:20261018T161811Z
-SEQUENCE:1
-DTSTART:20261018T030000Z
-DTEND:20261018T090000Z
-SUMMARY:Marsolo\, Silvie Loto
-LOCATION:Floyd Miami
-DESCRIPTION:Tags: house\nAges: 21+\nhttps://dice.fm/event/yodwr2-satellite-
- marsolo-silvie-loto-17th-oct-floyd-miami-miami-tickets
-URL:https://dice.fm/event/yodwr2-satellite-marsolo-silvie-loto-17th-oct-flo
- yd-miami-miami-tickets
-STATUS:CONFIRMED
-CATEGORIES:house
-END:VEVENT
-BEGIN:VEVENT
 UID:19hz-4446139-saragastardust@floyd.miami-calendars
 DTSTAMP:20261009T221902Z
 LAST-MODIFIED:20261009T221902Z
