@@ -8,54 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4446108-sunsetattheboatd@festivals.miami-calendars
-DTSTAMP:20261016T221813Z
-LAST-MODIFIED:20261016T221813Z
-SEQUENCE:0
-DTSTART:20261018T190000Z
-DTEND:20261019T010000Z
-SUMMARY:Sunset At The Boat: Dalva\, Lvndo B2B Nikatnite\, Fernxndez B2B Seb
- fire\, Nic Bolivar B2B Vayze\, Mote B2B Antero
-LOCATION:3400 Pan American Dr\, Pier 1
-DESCRIPTION:Tags: afro house\, house\nPresented by: Around The Corner\nAges
- : 21+\nhttps://ra.co/events/2557442
-URL:https://ra.co/events/2557442
-STATUS:CONFIRMED
-CATEGORIES:afro house,house
-END:VEVENT
-BEGIN:VEVENT
-UID:19hz-4446108-satellitemaccabi@festivals.miami-calendars
-DTSTAMP:20261019T161824Z
-LAST-MODIFIED:20261019T161824Z
-SEQUENCE:1
-DTSTART:20261018T190000Z
-DTEND:20261019T030000Z
-SUMMARY:Satellite: Maccabi House at The Garden
-LOCATION:Hialeah Park Casino
-DESCRIPTION:Ages: 21+\nhttps://dice.fm/event/avxq2d-satellite-maccabi-house
- -at-the-garden-18th-oct-hialeah-park-casino-hialeah-tickets
-URL:https://dice.fm/event/avxq2d-satellite-maccabi-house-at-the-garden-18th
- -oct-hialeah-park-casino-hialeah-tickets
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:19hz-4446139-satellite33houri@festivals.miami-calendars
-DTSTAMP:20261019T161824Z
-LAST-MODIFIED:20261019T161824Z
-SEQUENCE:1
-DTSTART:20261019T030000Z
-DTEND:20261019T120000Z
-SUMMARY:Satellite: 33+ Hour III Points Closing Party
-LOCATION:Club Space
-DESCRIPTION:Tags: techno\nPresented by: III Points\nAges: 21+\nhttps://dice
- .fm/event/k65ygl-satellite-33-hour-iii-points-closing-party-18th-oct-club-
- space-miami-miami-tickets
-URL:https://dice.fm/event/k65ygl-satellite-33-hour-iii-points-closing-party
- -18th-oct-club-space-miami-miami-tickets
-STATUS:CONFIRMED
-CATEGORIES:techno
-END:VEVENT
-BEGIN:VEVENT
 UID:wing@shotgun.live
 DTSTAMP:20261017T161817Z
 LAST-MODIFIED:20261017T161817Z
@@ -188,6 +140,21 @@ URL:https://posh.vip/e/paradise-presents-zoey808-x-9b49-halloween-festival-
  at-backyard-ftl
 STATUS:CONFIRMED
 CATEGORIES:edm,house
+END:VEVENT
+BEGIN:VEVENT
+UID:halloween26@shotgun.live
+DTSTAMP:20261020T041827Z
+LAST-MODIFIED:20261020T041827Z
+SEQUENCE:0
+DTSTART:20261101T020000Z
+DTEND:20261101T070000Z
+SUMMARY:Halloween Night: Haunted House
+LOCATION:Miami
+DESCRIPTION:Tags: house\, tech house\nhttps://shotgun.live/en/events/hallow
+ een26
+URL:https://shotgun.live/en/events/halloween26
+STATUS:CONFIRMED
+CATEGORIES:house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:galactic-halloween@shotgun.live
@@ -410,15 +377,15 @@ CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:cafe-grooves-art-week@shotgun.live
-DTSTAMP:20261019T221821Z
-LAST-MODIFIED:20261019T221821Z
-SEQUENCE:0
+DTSTAMP:20261020T041827Z
+LAST-MODIFIED:20261020T041827Z
+SEQUENCE:1
 DTSTART:20261205T180000Z
 DTEND:20261205T230000Z
 SUMMARY:Café Grooves // Art Basel
 LOCATION:Lunasol
 DESCRIPTION:Tags: house\nhttps://shotgun.live/en/events/cafe-grooves-art-we
- ek
+ ek\nhttps://edmtrain.com/miami-fl/cafe-grooves-art-basel-546085
 URL:https://shotgun.live/en/events/cafe-grooves-art-week
 STATUS:CONFIRMED
 CATEGORIES:house

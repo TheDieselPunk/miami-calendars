@@ -66,9 +66,9 @@ GEO:25.7287781;-80.3169309
 END:VEVENT
 BEGIN:VEVENT
 UID:murder-at-the-disco-box@shotgun.live
-DTSTAMP:20261019T221821Z
-LAST-MODIFIED:20261019T221821Z
-SEQUENCE:0
+DTSTAMP:20261020T041827Z
+LAST-MODIFIED:20261020T041827Z
+SEQUENCE:1
 DTSTART:20261025T030000Z
 DTEND:20261025T080000Z
 SUMMARY:Murder At The Disco Box
@@ -80,7 +80,8 @@ DESCRIPTION:A NIGHT OF DEADLY DISCO DiscoBox returns this Friday with a Hal
  d a plus one to BOTH nights of our Halloween weekend\, October 30th & 31st
  . OCT 24 • 11PM TILL LATE THE BOOMBOX | 4447 SW 75TH AVE Dress to impres
  s the dead. 18+ = 20$ 21+ = free entry\nTags: disco\nTickets: RSVP Free\nh
- ttps://shotgun.live/en/events/murder-at-the-disco-box
+ ttps://shotgun.live/en/events/murder-at-the-disco-box\nhttps://edmtrain.co
+ m/miami-fl/murder-at-the-disco-box-546164
 URL:https://shotgun.live/en/events/murder-at-the-disco-box
 STATUS:CONFIRMED
 CATEGORIES:disco

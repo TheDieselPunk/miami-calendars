@@ -131,13 +131,13 @@
   "url": "https://shotgun.live/events/sammy-jackie-clarke-dj-set-with-special-guest-valery-karbia?utm_source=edmtrain",
   "checked": "2026-09-21"
  },
- "538674": {
-  "url": "https://shotgun.live/events/boris-oct30?utm_source=edmtrain",
-  "checked": "2026-09-21"
- },
  "538916": {
   "url": "https://ticketmaster.evyy.net/c/254533/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fid%2F14991673",
   "checked": "2026-09-22"
+ },
+ "539079": {
+  "url": "https://dice.fm/event/6dg2o3?pid=d6342b83",
+  "checked": "2026-10-20"
  },
  "539771": {
   "url": "https://www.eventbrite.com/e/1987540335647?aff=ebdimtedmtrain",
@@ -263,6 +263,10 @@
   "url": "https://speakeasygo.com/event/EVE-8GVMHE?t=edmtrain",
   "checked": "2026-10-17"
  },
+ "545610": {
+  "url": "https://posh.vip/e/haunted-raveyard-pre-party-angels-demons-ft-not-agn?t=edmtrain",
+  "checked": "2026-10-20"
+ },
  "545663": {
   "url": "https://dice.fm/event/bbq3px?pid=d6342b83",
   "checked": "2026-10-17"
@@ -298,5 +302,33 @@
  "545838": {
   "url": "https://dice.fm/event/oemv2y?pid=d6342b83",
   "checked": "2026-10-19"
+ },
+ "545963": {
+  "url": "https://dice.fm/event/53272y?pid=d6342b83",
+  "checked": "2026-10-20"
+ },
+ "545964": {
+  "url": "https://dice.fm/event/nvrkr8?pid=d6342b83",
+  "checked": "2026-10-20"
+ },
+ "545979": {
+  "url": "https://posh.vip/e/kike-roldan-nayla-scozzesi-and-marco-norma?t=edmtrain",
+  "checked": "2026-10-20"
+ },
+ "545980": {
+  "url": "https://dice.fm/event/oe8rqa?pid=d6342b83",
+  "checked": "2026-10-20"
+ },
+ "545981": {
+  "url": "https://dice.fm/event/nvrn39?pid=d6342b83",
+  "checked": "2026-10-20"
+ },
+ "546139": {
+  "url": "https://dice.fm/event/bbq87v?pid=d6342b83",
+  "checked": "2026-10-20"
+ },
+ "546140": {
+  "url": "https://dice.fm/event/av8q62?pid=d6342b83",
+  "checked": "2026-10-20"
  }
 }

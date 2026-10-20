@@ -8,23 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:tablelist-c09962faa135713a@zeyzey.miami-calendars
-DTSTAMP:20261019T161824Z
-LAST-MODIFIED:20261019T161824Z
-SEQUENCE:1
-DTSTART:20261018T170000Z
-DTEND:20261019T000000Z
-SUMMARY:Satellite: Interplanetary Criminal\, Sam Alfred\, Jubilee + More
-LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: drum and bass\, jungle\, uk garage\nAges: 18+\nhttps://bu
- y.tablelist.com/e/c09962faa135713a\nhttps://dice.fm/event/avxxxx-satellite
- -interplanetary-criminal-sam-alfred-jubilee-more-18th-oct-zeyzey-miami-tic
- kets
-URL:https://buy.tablelist.com/e/c09962faa135713a
-STATUS:CONFIRMED
-CATEGORIES:drum and bass,jungle,uk garage
-END:VEVENT
-BEGIN:VEVENT
 UID:tablelist-dbaac38537858c48@zeyzey.miami-calendars
 DTSTAMP:20261013T221825Z
 LAST-MODIFIED:20261013T221825Z

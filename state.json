@@ -1,39 +1,4 @@
 {
- "19hz-4446108-satellitemaccabi@festivals.miami-calendars": {
-  "hash": "7b5025df8d652b25",
-  "seq": 1,
-  "modified": "2026-10-19T16:18:24+00:00"
- },
- "19hz-4446108-sunsetattheboatd@festivals.miami-calendars": {
-  "hash": "6f0b3b5b062c854f",
-  "seq": 0,
-  "modified": "2026-10-16T22:18:13+00:00"
- },
- "19hz-4446136-deanturnleykinah@jolene.miami-calendars": {
-  "hash": "68088ebe4c1cfe2b",
-  "seq": 1,
-  "modified": "2026-10-19T16:18:24+00:00"
- },
- "19hz-4446139-1tbspdjchaoticug@the-ground.miami-calendars": {
-  "hash": "18ec213eeda057c0",
-  "seq": 1,
-  "modified": "2026-10-19T16:18:24+00:00"
- },
- "19hz-4446139-saragastardust@floyd.miami-calendars": {
-  "hash": "285a143ba0563a3c",
-  "seq": 1,
-  "modified": "2026-10-19T16:18:24+00:00"
- },
- "19hz-4446139-satellite33houri@club-space.miami-calendars": {
-  "hash": "a4a96bc7cfcaeace",
-  "seq": 1,
-  "modified": "2026-10-19T16:18:24+00:00"
- },
- "19hz-4446139-satellite33houri@festivals.miami-calendars": {
-  "hash": "a4a96bc7cfcaeace",
-  "seq": 1,
-  "modified": "2026-10-19T16:18:24+00:00"
- },
  "19hz-4446616-hedoncarlaschmit@domicile.miami-calendars": {
   "hash": "0cdb278940b29b51",
   "seq": 0,
@@ -195,9 +160,9 @@
   "modified": "2026-10-17T22:18:11+00:00"
  },
  "cafe-grooves-art-week@shotgun.live": {
-  "hash": "12b12706e0678d2f",
-  "seq": 0,
-  "modified": "2026-10-19T22:18:21+00:00"
+  "hash": "bbf01bb33a85d152",
+  "seq": 1,
+  "modified": "2026-10-20T04:18:27+00:00"
  },
  "dice-69dc9d05fd62d30001cecb18@kemistry.miami-calendars": {
   "hash": "291b6ca1a0d6e521",
@@ -280,9 +245,9 @@
   "modified": "2026-10-04T22:18:19+00:00"
  },
  "dice-6a83a12b1d18340001d369c3@kemistry.miami-calendars": {
-  "hash": "28b029d76b3a9a0d",
-  "seq": 5,
-  "modified": "2026-10-17T04:18:22+00:00"
+  "hash": "445cfcc563812c6d",
+  "seq": 6,
+  "modified": "2026-10-20T04:18:27+00:00"
  },
  "dice-6a84879f8e0c81000177fc08@factory-town.miami-calendars": {
   "hash": "9f8dfb873b79d295",
@@ -914,6 +879,11 @@
   "seq": 1,
   "modified": "2026-10-18T10:18:14+00:00"
  },
+ "halloween26@shotgun.live": {
+  "hash": "35a6106bdaae872a",
+  "seq": 0,
+  "modified": "2026-10-20T04:18:27+00:00"
+ },
  "hardrock-202018@daer.miami-calendars": {
   "hash": "65515c8c8cda4026",
   "seq": 2,
@@ -1200,9 +1170,9 @@
   "modified": "2026-10-15T04:18:28+00:00"
  },
  "murder-at-the-disco-box@shotgun.live": {
-  "hash": "9eb5a6b54101af44",
-  "seq": 0,
-  "modified": "2026-10-19T22:18:21+00:00"
+  "hash": "bf9b1ccebc92d3aa",
+  "seq": 1,
+  "modified": "2026-10-20T04:18:27+00:00"
  },
  "paloma-morphy-miami@shotgun.live": {
   "hash": "1c469fee0d3a69fd",
@@ -1248,11 +1218,6 @@
   "hash": "0befa1316cfe6ed1",
   "seq": 0,
   "modified": "2026-10-01T04:18:24+00:00"
- },
- "tablelist-c09962faa135713a@zeyzey.miami-calendars": {
-  "hash": "50a989fdca65d09c",
-  "seq": 1,
-  "modified": "2026-10-19T16:18:24+00:00"
  },
  "tablelist-cb59f6b1c057040a@zeyzey.miami-calendars": {
   "hash": "436543e0b4348487",
