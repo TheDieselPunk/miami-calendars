@@ -445,6 +445,30 @@
    "created": "2026-09-24T18:00:03.000Z"
   },
   {
+   "id": "shotgun:jolt-radio-on-the-record-scratch-d-oct22",
+   "source": "shotgun",
+   "title": "Jolt Radio: On The Record - Guest: Scratch-D Of Dynamix II",
+   "artists": [],
+   "venue": "Jolt Radio",
+   "venue_slug": null,
+   "date": "2026-10-22",
+   "start": "2026-10-23T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "electro",
+    "bass",
+    "miami bass"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/jolt-radio-on-the-record-scratch-d-oct22"
+  },
+  {
    "id": "shotgun:madradiomiami102226",
    "source": "19hz+edmtrain+shotgun",
    "title": "R/V Calypso / Dsd / Hermanos Otamendi",
@@ -3394,6 +3418,30 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/xe8r23-mass-signal-paramida-voigtmann-monroe-30th-oct-sable-miami-miami-tickets"
+  },
+  {
+   "id": "shotgun:the-hall-oween-x-medusa",
+   "source": "shotgun",
+   "title": "The Hall-Oween X Medusa",
+   "artists": [],
+   "venue": "Upside",
+   "venue_slug": null,
+   "date": "2026-10-30",
+   "start": "2026-10-31T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.69",
+   "genres": [
+    "house",
+    "deep house",
+    "indie dance"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/the-hall-oween-x-medusa"
   },
   {
    "id": "tablelist:f10b685adc35d405",
@@ -6766,29 +6814,6 @@
    ]
   },
   {
-   "id": "zeyzey:the-altons-show-you-love-tour-13-nov",
-   "source": "venue",
-   "title": "The Altons: Show You Love Tour",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-11-13",
-   "start": "2026-11-14T00:00:00+00:00",
-   "end": "2026-11-14T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "r&b/soul"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/the-altons-show-you-love-tour-13-nov",
-   "cancelled": false
-  },
-  {
    "id": "shotgun:nights-in-necropolis-presents-tiffadelic-detroit-blk-goth",
    "source": "19hz+edmtrain+shotgun",
    "title": "Nights In Necropolis Presents: Tiffadelic (Detroit Blk Goth)",
@@ -6870,31 +6895,35 @@
    ]
   },
   {
-   "id": "zeyzey:christian-loffler-live-fall-2026-tour-13-nov",
-   "source": "19hz+edmtrain+venue",
-   "title": "Christian Löffler LIVE – Fall 2026 Tour",
+   "id": "dice:6ad760d4f2e7b00001b10371",
+   "source": "19hz+dice+edmtrain+venue",
+   "title": "ZeyZey Presents: Dance Therapy Amira | MindGazm | More TBA",
    "artists": [
     "Christian Löffler"
    ],
-   "venue": "ZeyZey Miami",
+   "venue": "ZeyZey",
    "venue_slug": "zeyzey",
    "date": "2026-11-13",
    "start": "2026-11-14T02:00:00+00:00",
-   "end": "2026-11-14T08:00:00+00:00",
+   "end": "2026-11-14T07:00:00+00:00",
    "time_estimated": false,
-   "address": "",
+   "address": "353 Northeast 61st Street, Miami, Florida 33137, United States",
    "ages": "18+",
    "price": "$29+",
    "genres": [
     "deep house",
-    "progressive house"
+    "progressive house",
+    "r&b/soul"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/christian-loffler-live-fall-2026-tour-13-nov",
+   "url": "https://dice.fm/event/6ad760d4f2e7b00001b10371",
    "cancelled": false,
    "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/amrita-fr-13-nov",
+    "https://calendar.zeyzeymiami.com/shows/christian-loffler-live-fall-2026-tour-13-nov",
+    "https://calendar.zeyzeymiami.com/shows/the-altons-show-you-love-tour-13-nov",
     "https://calendar.zeyzeymiami.com/shows/christian-loffler-live-fall-2026-tour-13-nov",
     "https://edmtrain.com/miami-fl/christian-loffler-538533"
    ]
@@ -7173,27 +7202,6 @@
    "organizer": "",
    "description": "",
    "url": "https://ra.co/events/2528917"
-  },
-  {
-   "id": "zeyzey:amrita-fr-13-nov",
-   "source": "venue",
-   "title": "Amrita (FR)",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-11-13",
-   "start": "2026-11-14T03:00:00+00:00",
-   "end": "2026-11-14T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/amrita-fr-13-nov",
-   "cancelled": false
   },
   {
    "id": "dice:6ac681e6ede6160001275006",
@@ -7821,6 +7829,30 @@
    "description": "",
    "url": "https://dice.fm/event/6abe7d4787e1d10001e5ab10",
    "cancelled": false
+  },
+  {
+   "id": "shotgun:hell",
+   "source": "shotgun",
+   "title": "Hell",
+   "artists": [],
+   "venue": "Klub Kutters Bar & Lounge",
+   "venue_slug": null,
+   "date": "2026-11-14",
+   "start": "2026-11-15T04:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$6.66",
+   "genres": [
+    "hard techno",
+    "techno",
+    "hardcore"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/hell"
   },
   {
    "id": "dice:6a88676d138c56000110cb09",
@@ -10615,7 +10647,9 @@
    "address": "",
    "ages": "",
    "price": "",
-   "genres": [],
+   "genres": [
+    "dance/electronic"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
@@ -10867,6 +10901,50 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/soley-francis-mercier-540449"
    ]
+  },
+  {
+   "id": "zeyzey:carla-s-home-a-listening-experience-by-carla-03-dec",
+   "source": "venue",
+   "title": "CARLA'S HOME - a listening experience by Carla",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-12-03",
+   "start": "2026-12-04T01:00:00+00:00",
+   "end": "2026-12-04T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/carla-s-home-a-listening-experience-by-carla-03-dec",
+   "cancelled": false
+  },
+  {
+   "id": "zeyzey:through-the-wall-afters-with-rochelle-jordan-live-special-guests-03-dec",
+   "source": "venue",
+   "title": "Through The Wall Afters with Rochelle Jordan (Live) + Special Guests",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-12-03",
+   "start": "2026-12-04T01:00:00+00:00",
+   "end": "2026-12-04T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "r&b/soul"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/through-the-wall-afters-with-rochelle-jordan-live-special-guests-03-dec",
+   "cancelled": false
   },
   {
    "id": "19hz:4450552-wherearemykeysar",
@@ -11295,6 +11373,29 @@
    ]
   },
   {
+   "id": "zeyzey:pnk-basel-04-dec",
+   "source": "venue",
+   "title": "PNK Basel",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-12-04",
+   "start": "2026-12-04T20:00:00+00:00",
+   "end": "2026-12-05T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "dance/electronic"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/pnk-basel-04-dec",
+   "cancelled": false
+  },
+  {
    "id": "19hz:4450624-anotr",
    "source": "19hz+edmtrain",
    "title": "Anotr",
@@ -11634,6 +11735,29 @@
    ]
   },
   {
+   "id": "zeyzey:a-trak-friends-04-dec",
+   "source": "venue",
+   "title": "A-Trak & Friends",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-12-04",
+   "start": "2026-12-05T04:00:00+00:00",
+   "end": "2026-12-05T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "dance/electronic"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/a-trak-friends-04-dec",
+   "cancelled": false
+  },
+  {
    "id": "hardrock:207848",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -11701,6 +11825,55 @@
    "alt_urls": [
     "https://edmtrain.com/fort-lauderdale-fl/cyclops-cove-463361"
    ]
+  },
+  {
+   "id": "edmtrain:546337",
+   "source": "edmtrain",
+   "title": "Cloonee b2b Adriatique",
+   "artists": [
+    "Cloonee",
+    "Adriatique"
+   ],
+   "venue": "Watson Island Park",
+   "venue_slug": "festivals",
+   "date": "2026-12-05",
+   "start": "2026-12-05T20:00:00+00:00",
+   "end": "2026-12-06T07:00:00+00:00",
+   "time_estimated": true,
+   "address": "1050 MacArthur Cswy, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/pywx7k?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/cloonee-adriatique-546337"
+   ]
+  },
+  {
+   "id": "zeyzey:soulection-friends-05-dec",
+   "source": "venue",
+   "title": "Soulection & Friends",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-12-05",
+   "start": "2026-12-05T20:00:00+00:00",
+   "end": "2026-12-06T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "dance/electronic"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/soulection-friends-05-dec",
+   "cancelled": false
   },
   {
    "id": "19hz:4450720-sango",
@@ -11829,6 +12002,29 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aae92124c55e1000198df1c"
+  },
+  {
+   "id": "zeyzey:sam-gellaitry-darius-05-dec",
+   "source": "venue",
+   "title": "Sam Gellaitry + Darius",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-12-05",
+   "start": "2026-12-06T01:00:00+00:00",
+   "end": "2026-12-06T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "dance/electronic"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/sam-gellaitry-darius-05-dec",
+   "cancelled": false
   },
   {
    "id": "shotgun:patriarchy-deflowered-florida-tour-ft-mvtant-angel-husk",
@@ -14129,6 +14325,27 @@
    ]
   },
   {
+   "id": "zeyzey:puzzle-31-jan",
+   "source": "venue",
+   "title": "Puzzle",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2027-01-31",
+   "start": "2027-02-01T00:00:00+00:00",
+   "end": "2027-02-01T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/puzzle-31-jan",
+   "cancelled": false
+  },
+  {
    "id": "edmtrain:496902",
    "source": "edmtrain",
    "title": "We Belong Here - Miami",
@@ -14218,6 +14435,33 @@
    "url": "https://www.webelonghere.world/miami/",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/we-belong-here-miami-496904"
+   ]
+  },
+  {
+   "id": "edmtrain:546320",
+   "source": "edmtrain",
+   "title": "Effin, Nikita the Wicked, AYCH",
+   "artists": [
+    "Effin",
+    "Nikita the Wicked",
+    "AYCH"
+   ],
+   "venue": "Midline Miami",
+   "venue_slug": "midline",
+   "date": "2027-03-05",
+   "start": "2027-03-06T03:00:00+00:00",
+   "end": "2027-03-06T08:00:00+00:00",
+   "time_estimated": true,
+   "address": "2221 NW Miami Ct, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.effinofficial.com/pages/tour",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/effin-nikita-the-wicked-546320"
    ]
   },
   {

@@ -99,7 +99,7 @@
   "slug": "zeyzey",
   "name": "ZeyZey Miami",
   "file": "zeyzey.ics",
-  "events": 54,
+  "events": 59,
   "estimated_times": 0,
   "next": "2026-10-21",
   "sources": [
@@ -159,8 +159,8 @@
   "slug": "midline",
   "name": "Midline",
   "file": "midline.ics",
-  "events": 10,
-  "estimated_times": 1,
+  "events": 11,
+  "estimated_times": 2,
   "next": "2026-10-31",
   "sources": [
    "19hz",
@@ -172,8 +172,8 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 42,
-  "estimated_times": 20,
+  "events": 43,
+  "estimated_times": 21,
   "next": "2026-10-23",
   "sources": [
    "19hz",

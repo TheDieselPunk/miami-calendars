@@ -157,6 +157,22 @@ STATUS:CONFIRMED
 CATEGORIES:bass music,dubstep,trap
 END:VEVENT
 BEGIN:VEVENT
+UID:edmtrain-546320@midline.miami-calendars
+DTSTAMP:20261020T221822Z
+LAST-MODIFIED:20261020T221822Z
+SEQUENCE:0
+DTSTART:20270306T030000Z
+DTEND:20270306T080000Z
+SUMMARY:Effin\, Nikita the Wicked\, AYCH
+LOCATION:Midline Miami\, 2221 NW Miami Ct\, Miami\, FL 33127\, USA
+DESCRIPTION:Lineup: Effin\, Nikita the Wicked\, AYCH\nTimes are an estimate
+  from Midline's usual hours - the listing has no start time yet. Check the
+  link.\nhttps://www.effinofficial.com/pages/tour\nhttps://edmtrain.com/mia
+ mi-fl/effin-nikita-the-wicked-546320
+URL:https://www.effinofficial.com/pages/tour
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:edmtrain-545824@midline.miami-calendars
 DTSTAMP:20261018T101814Z
 LAST-MODIFIED:20261018T101814Z

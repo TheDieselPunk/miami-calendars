@@ -361,52 +361,24 @@ URL:https://calendar.zeyzeymiami.com/shows/las-migas-10-nov
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:zeyzey-the-altons-show-you-love-tour-13-nov@zeyzey.miami-calendars
-DTSTAMP:20260921T200140Z
-LAST-MODIFIED:20260921T200140Z
+UID:dice-6ad760d4f2e7b00001b10371@zeyzey.miami-calendars
+DTSTAMP:20261020T221822Z
+LAST-MODIFIED:20261020T221822Z
 SEQUENCE:0
-DTSTART:20261114T000000Z
-DTEND:20261114T080000Z
-SUMMARY:The Altons: Show You Love Tour
-LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: r&b/soul\nhttps://calendar.zeyzeymiami.com/shows/the-alto
- ns-show-you-love-tour-13-nov
-URL:https://calendar.zeyzeymiami.com/shows/the-altons-show-you-love-tour-13
- -nov
-STATUS:CONFIRMED
-CATEGORIES:r&b/soul
-END:VEVENT
-BEGIN:VEVENT
-UID:zeyzey-christian-loffler-live-fall-2026-tour-13-nov@zeyzey.miami-calend
- ars
-DTSTAMP:20260926T221817Z
-LAST-MODIFIED:20260926T221817Z
-SEQUENCE:1
 DTSTART:20261114T020000Z
-DTEND:20261114T080000Z
-SUMMARY:Christian Löffler LIVE – Fall 2026 Tour
-LOCATION:ZeyZey Miami
+DTEND:20261114T070000Z
+SUMMARY:ZeyZey Presents: Dance Therapy Amira | MindGazm | More TBA
+LOCATION:ZeyZey\, 353 Northeast 61st Street\, Miami\, Florida 33137\, Unite
+ d States
 DESCRIPTION:Lineup: Christian Löffler\nTags: deep house\, progressive hous
- e\nAges: 18+\nhttps://calendar.zeyzeymiami.com/shows/christian-loffler-liv
- e-fall-2026-tour-13-nov\nhttps://edmtrain.com/miami-fl/christian-loffler-5
- 38533
-URL:https://calendar.zeyzeymiami.com/shows/christian-loffler-live-fall-2026
- -tour-13-nov
+ e\, r&b/soul\nAges: 18+\nhttps://dice.fm/event/6ad760d4f2e7b00001b10371\nh
+ ttps://calendar.zeyzeymiami.com/shows/amrita-fr-13-nov\nhttps://calendar.z
+ eyzeymiami.com/shows/christian-loffler-live-fall-2026-tour-13-nov\nhttps:/
+ /calendar.zeyzeymiami.com/shows/the-altons-show-you-love-tour-13-nov\nhttp
+ s://edmtrain.com/miami-fl/christian-loffler-538533
+URL:https://dice.fm/event/6ad760d4f2e7b00001b10371
 STATUS:CONFIRMED
-CATEGORIES:deep house,progressive house
-END:VEVENT
-BEGIN:VEVENT
-UID:zeyzey-amrita-fr-13-nov@zeyzey.miami-calendars
-DTSTAMP:20261009T161821Z
-LAST-MODIFIED:20261009T161821Z
-SEQUENCE:0
-DTSTART:20261114T030000Z
-DTEND:20261114T080000Z
-SUMMARY:Amrita (FR)
-LOCATION:ZeyZey Miami
-DESCRIPTION:https://calendar.zeyzeymiami.com/shows/amrita-fr-13-nov
-URL:https://calendar.zeyzeymiami.com/shows/amrita-fr-13-nov
-STATUS:CONFIRMED
+CATEGORIES:deep house,progressive house,r&b/soul
 END:VEVENT
 BEGIN:VEVENT
 UID:beiruttomiami1@shotgun.live
@@ -626,17 +598,113 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-sg-lewis-02-dec@zeyzey.miami-calendars
-DTSTAMP:20261015T221842Z
-LAST-MODIFIED:20261015T221842Z
-SEQUENCE:1
+DTSTAMP:20261020T221822Z
+LAST-MODIFIED:20261020T221822Z
+SEQUENCE:2
 DTSTART:20261203T000000Z
 DTEND:20261203T060000Z
 SUMMARY:SG Lewis Presents Forever Days\, Miami
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: SG Lewis\, TBA\nhttps://calendar.zeyzeymiami.com/shows/
- sg-lewis-02-dec\nhttps://edmtrain.com/miami-fl/sg-lewis-tba-545267
+DESCRIPTION:Lineup: SG Lewis\, TBA\nTags: dance/electronic\nhttps://calenda
+ r.zeyzeymiami.com/shows/sg-lewis-02-dec\nhttps://edmtrain.com/miami-fl/sg-
+ lewis-tba-545267
 URL:https://calendar.zeyzeymiami.com/shows/sg-lewis-02-dec
 STATUS:CONFIRMED
+CATEGORIES:dance/electronic
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-carla-s-home-a-listening-experience-by-carla-03-dec@zeyzey.miami
+ -calendars
+DTSTAMP:20261020T221822Z
+LAST-MODIFIED:20261020T221822Z
+SEQUENCE:0
+DTSTART:20261204T010000Z
+DTEND:20261204T060000Z
+SUMMARY:CARLA'S HOME - a listening experience by Carla
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://calendar.zeyzeymiami.com/shows/carla-s-home-a-listening
+ -experience-by-carla-03-dec
+URL:https://calendar.zeyzeymiami.com/shows/carla-s-home-a-listening-experie
+ nce-by-carla-03-dec
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-through-the-wall-afters-with-rochelle-jordan-live-special-guests
+ -03-dec@zeyzey.miami-calendars
+DTSTAMP:20261020T221822Z
+LAST-MODIFIED:20261020T221822Z
+SEQUENCE:0
+DTSTART:20261204T010000Z
+DTEND:20261204T060000Z
+SUMMARY:Through The Wall Afters with Rochelle Jordan (Live) + Special Guest
+ s
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: r&b/soul\nhttps://calendar.zeyzeymiami.com/shows/through-
+ the-wall-afters-with-rochelle-jordan-live-special-guests-03-dec
+URL:https://calendar.zeyzeymiami.com/shows/through-the-wall-afters-with-roc
+ helle-jordan-live-special-guests-03-dec
+STATUS:CONFIRMED
+CATEGORIES:r&b/soul
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-pnk-basel-04-dec@zeyzey.miami-calendars
+DTSTAMP:20261020T221822Z
+LAST-MODIFIED:20261020T221822Z
+SEQUENCE:0
+DTSTART:20261204T200000Z
+DTEND:20261205T080000Z
+SUMMARY:PNK Basel
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
+ pnk-basel-04-dec
+URL:https://calendar.zeyzeymiami.com/shows/pnk-basel-04-dec
+STATUS:CONFIRMED
+CATEGORIES:dance/electronic
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-a-trak-friends-04-dec@zeyzey.miami-calendars
+DTSTAMP:20261020T221822Z
+LAST-MODIFIED:20261020T221822Z
+SEQUENCE:0
+DTSTART:20261205T040000Z
+DTEND:20261205T080000Z
+SUMMARY:A-Trak & Friends
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
+ a-trak-friends-04-dec
+URL:https://calendar.zeyzeymiami.com/shows/a-trak-friends-04-dec
+STATUS:CONFIRMED
+CATEGORIES:dance/electronic
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-soulection-friends-05-dec@zeyzey.miami-calendars
+DTSTAMP:20261020T221822Z
+LAST-MODIFIED:20261020T221822Z
+SEQUENCE:0
+DTSTART:20261205T200000Z
+DTEND:20261206T060000Z
+SUMMARY:Soulection & Friends
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
+ soulection-friends-05-dec
+URL:https://calendar.zeyzeymiami.com/shows/soulection-friends-05-dec
+STATUS:CONFIRMED
+CATEGORIES:dance/electronic
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-sam-gellaitry-darius-05-dec@zeyzey.miami-calendars
+DTSTAMP:20261020T221822Z
+LAST-MODIFIED:20261020T221822Z
+SEQUENCE:0
+DTSTART:20261206T010000Z
+DTEND:20261206T060000Z
+SUMMARY:Sam Gellaitry + Darius
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
+ sam-gellaitry-darius-05-dec
+URL:https://calendar.zeyzeymiami.com/shows/sam-gellaitry-darius-05-dec
+STATUS:CONFIRMED
+CATEGORIES:dance/electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-shintaro-sakamoto-06-dec@zeyzey.miami-calendars
@@ -805,6 +873,19 @@ URL:https://calendar.zeyzeymiami.com/shows/the-unofficial-end-cruise-party-
  21-jan
 STATUS:CONFIRMED
 CATEGORIES:emo
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-puzzle-31-jan@zeyzey.miami-calendars
+DTSTAMP:20261020T221822Z
+LAST-MODIFIED:20261020T221822Z
+SEQUENCE:0
+DTSTART:20270201T000000Z
+DTEND:20270201T060000Z
+SUMMARY:Puzzle
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://calendar.zeyzeymiami.com/shows/puzzle-31-jan
+URL:https://calendar.zeyzeymiami.com/shows/puzzle-31-jan
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-early-show-mamas-gun-26-feb@zeyzey.miami-calendars
