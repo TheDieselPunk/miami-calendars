@@ -835,6 +835,22 @@ URL:https://calendar.zeyzeymiami.com/shows/alex-sampson-14-mar
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-the-growlers-city-club-live-08-apr@zeyzey.miami-calendars
+DTSTAMP:20261020T161813Z
+LAST-MODIFIED:20261020T161813Z
+SEQUENCE:0
+DTSTART:20270408T230000Z
+DTEND:20270409T050000Z
+SUMMARY:The Growlers
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: indie/alternative\nhttps://calendar.zeyzeymiami.com/shows
+ /the-growlers-city-club-live-08-apr
+URL:https://calendar.zeyzeymiami.com/shows/the-growlers-city-club-live-08-a
+ pr
+STATUS:CONFIRMED
+CATEGORIES:indie/alternative
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-john-splithoff-15-apr@zeyzey.miami-calendars
 DTSTAMP:20261015T041828Z
 LAST-MODIFIED:20261015T041828Z

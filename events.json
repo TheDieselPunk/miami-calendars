@@ -46,26 +46,6 @@
    "url": "https://shotgun.live/en/events/campinginalaska-lincolnsbeard-october-20"
   },
   {
-   "id": "shotgun:comedy-night-at-churchill-s-7",
-   "source": "shotgun",
-   "title": "Comedy Night At Churchill's",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-10-20",
-   "start": "2026-10-21T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/comedy-night-at-churchill-s-7"
-  },
-  {
    "id": "shotgun:comedy-night-at-churchill-s-8",
    "source": "shotgun",
    "title": "Comedy Night At Churchill's",
@@ -1059,7 +1039,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$11.11",
+   "price": "$20.00",
    "genres": [
     "pop",
     "hip hop",
@@ -7669,6 +7649,30 @@
    ]
   },
   {
+   "id": "shotgun:komashov-nov-14",
+   "source": "shotgun",
+   "title": "Komashov & More",
+   "artists": [],
+   "venue": "EDGE MIAMI",
+   "venue_slug": null,
+   "date": "2026-11-14",
+   "start": "2026-11-15T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$20.00",
+   "genres": [
+    "progressive house",
+    "afro house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/komashov-nov-14"
+  },
+  {
    "id": "dice:6a3077721b98d10001598c8a",
    "source": "19hz+dice+edmtrain",
    "title": "ODESZA",
@@ -11827,6 +11831,30 @@
    "url": "https://dice.fm/event/6aae92124c55e1000198df1c"
   },
   {
+   "id": "shotgun:patriarchy-deflowered-florida-tour-ft-mvtant-angel-husk",
+   "source": "shotgun",
+   "title": "Patriarchy Florida Deflowerment Tour Ft. Mvtant + Angel Husk",
+   "artists": [],
+   "venue": "Las Rosas",
+   "venue_slug": null,
+   "date": "2026-12-05",
+   "start": "2026-12-06T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$18.04",
+   "genres": [
+    "alternative",
+    "ebm",
+    "electro"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/patriarchy-deflowered-florida-tour-ft-mvtant-angel-husk"
+  },
+  {
    "id": "hardrock:207834",
    "source": "venue",
    "title": "DAER Nightclub",
@@ -14404,6 +14432,29 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/ultra-miami-492064"
    ]
+  },
+  {
+   "id": "zeyzey:the-growlers-city-club-live-08-apr",
+   "source": "venue",
+   "title": "The Growlers",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2027-04-08",
+   "start": "2027-04-08T23:00:00+00:00",
+   "end": "2027-04-09T05:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "indie/alternative"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/the-growlers-city-club-live-08-apr",
+   "cancelled": false
   },
   {
    "id": "zeyzey:john-splithoff-15-apr",
