@@ -55,10 +55,6 @@
   "url": "https://www.webelonghere.world/miami/",
   "checked": "2026-09-21"
  },
- "508726": {
-  "url": "https://ticketmaster.evyy.net/c/254533/264167/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fevent%2F0D0064B5BFA4BF26",
-  "checked": "2026-09-21"
- },
  "513565": {
   "url": "https://fever.pxf.io/c/254533/1928078/16345?prodsku=665136&u=https%3A%2F%2Ffeverup.com%2Fm%2F665136&intsrc=APIG_15532",
   "checked": "2026-09-21"
@@ -247,10 +243,6 @@
   "url": "https://dice.fm/event/6dyw7b?pid=d6342b83",
   "checked": "2026-10-15"
  },
- "545361": {
-  "url": "https://dice.fm/event/dky8qo?pid=d6342b83",
-  "checked": "2026-10-16"
- },
  "545575": {
   "url": "https://dice.fm/event/pyx5bk?pid=d6342b83",
   "checked": "2026-10-17"
@@ -338,5 +330,65 @@
  "546337": {
   "url": "https://dice.fm/event/pywx7k?pid=d6342b83",
   "checked": "2026-10-20"
+ },
+ "546404": {
+  "url": "https://ra.co/events/2513593",
+  "checked": "2026-10-21"
+ },
+ "546405": {
+  "url": "https://ra.co/events/2513593",
+  "checked": "2026-10-21"
+ },
+ "546406": {
+  "url": "https://ra.co/events/2513593",
+  "checked": "2026-10-21"
+ },
+ "546412": {
+  "url": "https://dice.fm/event/xe82rm?pid=d6342b83",
+  "checked": "2026-10-21"
+ },
+ "546503": {
+  "url": "https://dice.fm/event/mxw78k?pid=d6342b83",
+  "checked": "2026-10-21"
+ },
+ "546504": {
+  "url": "https://dice.fm/event/g5vakb?pid=d6342b83",
+  "checked": "2026-10-21"
+ },
+ "546506": {
+  "url": "https://dice.fm/event/532bql?pid=d6342b83",
+  "checked": "2026-10-21"
+ },
+ "546509": {
+  "url": "https://dice.fm/event/7d9m6p?pid=d6342b83",
+  "checked": "2026-10-21"
+ },
+ "546510": {
+  "url": "https://dice.fm/event/yoqbkv?pid=d6342b83",
+  "checked": "2026-10-21"
+ },
+ "546515": {
+  "url": "https://posh.vip/e/komashov-rodrigo-vieira-dmeyer-rye-tiffany-romero?t=edmtrain",
+  "checked": "2026-10-21"
+ },
+ "546637": {
+  "url": "https://dice.fm/event/nvrn29?pid=d6342b83",
+  "checked": "2026-10-21"
+ },
+ "546664": {
+  "url": "https://www.eventbrite.com/e/2003665582695?aff=ebdimtedmtrain",
+  "checked": "2026-10-21"
+ },
+ "546672": {
+  "url": "https://shotgun.live/events/yasumi-fiesta?utm_source=edmtrain",
+  "checked": "2026-10-21"
+ },
+ "546735": {
+  "url": "https://www.livnightclub.com/miami/event/EVE112156200020261203/prospa/",
+  "checked": "2026-10-21"
+ },
+ "546740": {
+  "url": "https://luma.com/hq2ep7v1",
+  "checked": "2026-10-21"
  }
 }

@@ -141,6 +141,22 @@ STATUS:CONFIRMED
 CATEGORIES:house,tech house
 END:VEVENT
 BEGIN:VEVENT
+UID:dice-6ad7d9c13dafd600013f1334@jolene.miami-calendars
+DTSTAMP:20261021T041830Z
+LAST-MODIFIED:20261021T041830Z
+SEQUENCE:0
+DTSTART:20261108T030000Z
+DTEND:20261108T090000Z
+SUMMARY:DJ Fitness "Doesn't Care at All" Release Party
+LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
+ a 33131\, United States
+DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6ad7d9c
+ 13dafd600013f1334
+URL:https://dice.fm/event/6ad7d9c13dafd600013f1334
+STATUS:CONFIRMED
+CATEGORIES:house,tech house
+END:VEVENT
+BEGIN:VEVENT
 UID:dice-6a85fc0f21cf70000116039a@jolene.miami-calendars
 DTSTAMP:20261017T161817Z
 LAST-MODIFIED:20261017T161817Z

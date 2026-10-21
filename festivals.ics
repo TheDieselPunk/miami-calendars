@@ -143,15 +143,15 @@ CATEGORIES:edm,house
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween26@shotgun.live
-DTSTAMP:20261020T041827Z
-LAST-MODIFIED:20261020T041827Z
-SEQUENCE:0
+DTSTAMP:20261021T041830Z
+LAST-MODIFIED:20261021T041830Z
+SEQUENCE:1
 DTSTART:20261101T020000Z
 DTEND:20261101T070000Z
 SUMMARY:Halloween Night: Haunted House
 LOCATION:Miami
 DESCRIPTION:Tags: house\, tech house\nhttps://shotgun.live/en/events/hallow
- een26
+ een26\nhttps://edmtrain.com/miami-fl/halloween-night-haunted-house-546419
 URL:https://shotgun.live/en/events/halloween26
 STATUS:CONFIRMED
 CATEGORIES:house,tech house
@@ -287,17 +287,23 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4450552-wherearemykeysar@festivals.miami-calendars
-DTSTAMP:20261004T221819Z
-LAST-MODIFIED:20261004T221819Z
-SEQUENCE:0
+DTSTAMP:20261021T041830Z
+LAST-MODIFIED:20261021T041830Z
+SEQUENCE:1
 DTSTART:20261204T030000Z
 DTEND:20261204T150000Z
 SUMMARY:Where Are My Keys? Art Basel 2026
 LOCATION:94th Aero Squadron
-DESCRIPTION:Tags: electro\, house\, tech house\, techno\nPresented by: Un_M
- ute\, Pickle and ReSolute\nAges: 21+\nhttps://dice.fm/event/oe8a5y-where-a
- re-my-keys-art-basel-2026-3rd-dec-94th-aero-squadron-miami-tickets\nhttps:
- //edmtrain.com/miami-fl/where-are-my-keys-529001
+DESCRIPTION:Lineup: 1morning\, Anthea\, Danny Daze\, Demi Riquísimo\, Desy
+ n\, David Berrie\, Dyed Soundorom\, Dylan Payne\, Enzo Siragusa\, Fumiya T
+ anaka\, Hugo Martinez\, Inbal\, Isaac Carter\, Janina\, Make A Dance\, Mik
+ e Servito\, Midnight Magic\, Mystic Bill\, Puma\, R/V Calypso\, Rafa\, Rap
+ hael Carrau\, Ricardo Villalobos\, Rimaye\, Shonky\, Shubostar\, tINI\, Te
+ rence Tabeau\, Tomás Station\nTags: electro\, house\, tech house\, techno
+ \nPresented by: Un_Mute\, Pickle and ReSolute\nAges: 21+\nhttps://dice.fm/
+ event/oe8a5y-where-are-my-keys-art-basel-2026-3rd-dec-94th-aero-squadron-m
+ iami-tickets\nhttps://edmtrain.com/miami-fl/where-are-my-keys-1morning-546
+ 403\nhttps://edmtrain.com/miami-fl/where-are-my-keys-529001
 URL:https://dice.fm/event/oe8a5y-where-are-my-keys-art-basel-2026-3rd-dec-9
  4th-aero-squadron-miami-tickets
 STATUS:CONFIRMED
@@ -358,18 +364,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4450624-anotr@festivals.miami-calendars
-DTSTAMP:20261013T101828Z
-LAST-MODIFIED:20261013T101828Z
-SEQUENCE:2
+DTSTAMP:20261021T041830Z
+LAST-MODIFIED:20261021T041830Z
+SEQUENCE:3
 DTSTART:20261204T210000Z
 DTEND:20261205T020000Z
 SUMMARY:Anotr
 LOCATION:Watson Island Park\, Miami Beach
 DESCRIPTION:Lineup: ANOTR\, Adriatique\, Miguelle & Tons\, ISAbella\, Rampa
- \nTags: tech house\nPresented by: Unkommon Events & Framework\nAges: 21+\n
- https://dice.fm/partner/tickets/event/2wqeoa-unkommon-events-framework-pre
- sent-anotr-4th-dec-watson-island-park-miami-beach-tickets\nhttps://edmtrai
- n.com/miami-fl/unkommon-events-and-framework-present-anotr-527848
+ \, Cloonee\nTags: tech house\nPresented by: Unkommon Events & Framework\nA
+ ges: 21+\nhttps://dice.fm/partner/tickets/event/2wqeoa-unkommon-events-fra
+ mework-present-anotr-4th-dec-watson-island-park-miami-beach-tickets\nhttps
+ ://edmtrain.com/miami-fl/unkommon-events-and-framework-present-anotr-52784
+ 8
 URL:https://dice.fm/partner/tickets/event/2wqeoa-unkommon-events-framework-
  present-anotr-4th-dec-watson-island-park-miami-beach-tickets
 STATUS:CONFIRMED
@@ -411,17 +418,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:edmtrain-546337@festivals.miami-calendars
-DTSTAMP:20261020T221822Z
-LAST-MODIFIED:20261020T221822Z
-SEQUENCE:0
+DTSTAMP:20261021T041830Z
+LAST-MODIFIED:20261021T041830Z
+SEQUENCE:1
 DTSTART:20261205T200000Z
 DTEND:20261206T070000Z
-SUMMARY:Cloonee b2b Adriatique
+SUMMARY:unKommon: Adriatique\, Cloonee
 LOCATION:Watson Island Park\, 1050 MacArthur Cswy\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Cloonee\, Adriatique\nTimes are an estimate from Festiv
+DESCRIPTION:Lineup: Adriatique\, Cloonee\nTimes are an estimate from Festiv
  als & one-offs's usual hours - the listing has no start time yet. Check th
  e link.\nhttps://dice.fm/event/pywx7k?pid=d6342b83\nhttps://edmtrain.com/m
- iami-fl/cloonee-adriatique-546337
+ iami-fl/unkommon-adriatique-546337
 URL:https://dice.fm/event/pywx7k?pid=d6342b83
 STATUS:CONFIRMED
 END:VEVENT

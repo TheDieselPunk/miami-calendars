@@ -110,14 +110,14 @@
   "modified": "2026-09-30T22:18:15+00:00"
  },
  "19hz-4450552-wherearemykeysar@festivals.miami-calendars": {
-  "hash": "0ec7210d5915143a",
-  "seq": 0,
-  "modified": "2026-10-04T22:18:19+00:00"
+  "hash": "6bd76db05e903b68",
+  "seq": 1,
+  "modified": "2026-10-21T04:18:30+00:00"
  },
  "19hz-4450624-anotr@festivals.miami-calendars": {
-  "hash": "397abdbd1dbe8827",
-  "seq": 2,
-  "modified": "2026-10-13T10:18:28+00:00"
+  "hash": "afe04d88ef007783",
+  "seq": 3,
+  "modified": "2026-10-21T04:18:30+00:00"
  },
  "19hz-4450723-michaelbibi@festivals.miami-calendars": {
   "hash": "dca4ae00aa736d71",
@@ -150,9 +150,9 @@
   "modified": "2026-09-30T04:18:26+00:00"
  },
  "beiruttomiami1@shotgun.live": {
-  "hash": "08a0c5059144b015",
-  "seq": 3,
-  "modified": "2026-10-15T04:18:28+00:00"
+  "hash": "4a77d5e31d6493e5",
+  "seq": 4,
+  "modified": "2026-10-21T04:18:30+00:00"
  },
  "benefica-pop-up@shotgun.live": {
   "hash": "f6fbbad5b3a6f56e",
@@ -690,14 +690,14 @@
   "modified": "2026-10-17T16:18:17+00:00"
  },
  "dice-6ac6b477b79982000164dae2@factory-town.miami-calendars": {
-  "hash": "25f9fce9fc7250d4",
-  "seq": 1,
-  "modified": "2026-10-09T22:19:02+00:00"
+  "hash": "6132c4b9fb6d66ce",
+  "seq": 2,
+  "modified": "2026-10-21T04:18:30+00:00"
  },
  "dice-6ac6b8aa8532130001c3c2df@factory-town.miami-calendars": {
-  "hash": "95b950969f1d9792",
-  "seq": 1,
-  "modified": "2026-10-09T22:19:02+00:00"
+  "hash": "da1ceb2e237c00de",
+  "seq": 2,
+  "modified": "2026-10-21T04:18:30+00:00"
  },
  "dice-6ac6bc67f132910001aa91b9@factory-town.miami-calendars": {
   "hash": "cb4dbcf9bb2a296b",
@@ -735,9 +735,14 @@
   "modified": "2026-10-14T22:18:30+00:00"
  },
  "dice-6ad760d4f2e7b00001b10371@zeyzey.miami-calendars": {
-  "hash": "06f0aff1e2b3c649",
+  "hash": "6fce949bf5af2dc1",
+  "seq": 1,
+  "modified": "2026-10-21T04:18:30+00:00"
+ },
+ "dice-6ad7d9c13dafd600013f1334@jolene.miami-calendars": {
+  "hash": "9631a8efc10a6519",
   "seq": 0,
-  "modified": "2026-10-20T22:18:22+00:00"
+  "modified": "2026-10-21T04:18:30+00:00"
  },
  "edmtrain-458943@festivals.miami-calendars": {
   "hash": "fb6052125d7b80e4",
@@ -855,14 +860,19 @@
   "modified": "2026-10-18T10:18:14+00:00"
  },
  "edmtrain-546320@midline.miami-calendars": {
-  "hash": "c3fee714c3cafc57",
-  "seq": 0,
-  "modified": "2026-10-20T22:18:22+00:00"
+  "hash": "9de3cf9997971c54",
+  "seq": 1,
+  "modified": "2026-10-21T04:18:30+00:00"
  },
  "edmtrain-546337@festivals.miami-calendars": {
-  "hash": "4e51d3c53f0bec3c",
+  "hash": "df9721bdd8e3654e",
+  "seq": 1,
+  "modified": "2026-10-21T04:18:30+00:00"
+ },
+ "edmtrain-546506@domicile.miami-calendars": {
+  "hash": "21cca9ff1d9623d1",
   "seq": 0,
-  "modified": "2026-10-20T22:18:22+00:00"
+  "modified": "2026-10-21T04:18:30+00:00"
  },
  "equinox-fest-4-day-2-3-november-21-22nd@shotgun.live": {
   "hash": "c96fc49296a967fc",
@@ -895,9 +905,9 @@
   "modified": "2026-10-18T10:18:14+00:00"
  },
  "halloween26@shotgun.live": {
-  "hash": "35a6106bdaae872a",
-  "seq": 0,
-  "modified": "2026-10-20T04:18:27+00:00"
+  "hash": "70a2a206cf1ca42d",
+  "seq": 1,
+  "modified": "2026-10-21T04:18:30+00:00"
  },
  "hardrock-202018@daer.miami-calendars": {
   "hash": "65515c8c8cda4026",

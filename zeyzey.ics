@@ -362,9 +362,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ad760d4f2e7b00001b10371@zeyzey.miami-calendars
-DTSTAMP:20261020T221822Z
-LAST-MODIFIED:20261020T221822Z
-SEQUENCE:0
+DTSTAMP:20261021T041830Z
+LAST-MODIFIED:20261021T041830Z
+SEQUENCE:1
 DTSTART:20261114T020000Z
 DTEND:20261114T070000Z
 SUMMARY:ZeyZey Presents: Dance Therapy Amira | MindGazm | More TBA
@@ -375,16 +375,17 @@ DESCRIPTION:Lineup: Christian Löffler\nTags: deep house\, progressive hous
  ttps://calendar.zeyzeymiami.com/shows/amrita-fr-13-nov\nhttps://calendar.z
  eyzeymiami.com/shows/christian-loffler-live-fall-2026-tour-13-nov\nhttps:/
  /calendar.zeyzeymiami.com/shows/the-altons-show-you-love-tour-13-nov\nhttp
- s://edmtrain.com/miami-fl/christian-loffler-538533
+ s://edmtrain.com/miami-fl/christian-loffler-538533\nhttps://edmtrain.com/m
+ iami-fl/zeyzey-presents-mindgazm-546729
 URL:https://dice.fm/event/6ad760d4f2e7b00001b10371
 STATUS:CONFIRMED
 CATEGORIES:deep house,progressive house,r&b/soul
 END:VEVENT
 BEGIN:VEVENT
 UID:beiruttomiami1@shotgun.live
-DTSTAMP:20261015T041828Z
-LAST-MODIFIED:20261015T041828Z
-SEQUENCE:3
+DTSTAMP:20261021T041830Z
+LAST-MODIFIED:20261021T041830Z
+SEQUENCE:4
 DTSTART:20261115T040000Z
 DTEND:20261115T080000Z
 SUMMARY:Beirut Nights In Presents: Beirut To Miami
@@ -409,7 +410,7 @@ DESCRIPTION:Beirut Nights In Presents: Beirut to Miami! Immerse yourself in
   $25 (sold out)\, General Admission - Early Bird $30 (sold out)\, VIP Tabl
  e for 6 People - $750 Minimum Spend $150\, General Admission - Tier 2 $35
  \, VIP Table for 8 People - $1000 Minimum Spend $200\, VIP Table for 10 Pe
- ople - $1250 Minimum Spend $250\nhttps://shotgun.live/en/events/beiruttomi
+ ople - $1500 Minimum Spend $300\nhttps://shotgun.live/en/events/beiruttomi
  ami1\nhttps://calendar.zeyzeymiami.com/shows/beirut-nights-in-14-nov\nhttp
  s://calendar.zeyzeymiami.com/shows/dj-paypal-14-nov\nhttps://calendar.zeyz
  eymiami.com/shows/tul8te-world-tour-14-nov

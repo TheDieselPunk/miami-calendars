@@ -45,8 +45,8 @@
   "slug": "domicile",
   "name": "Domicile",
   "file": "domicile.ics",
-  "events": 6,
-  "estimated_times": 0,
+  "events": 7,
+  "estimated_times": 1,
   "next": "2026-10-23",
   "sources": [
    "19hz",
@@ -144,7 +144,7 @@
   "slug": "jolene",
   "name": "Jolene Sound Room",
   "file": "jolene.ics",
-  "events": 19,
+  "events": 20,
   "estimated_times": 0,
   "next": "2026-10-22",
   "sources": [

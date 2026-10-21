@@ -108,4 +108,21 @@ URL:https://dice.fm/event/yoql9p-morse-x-code-14th-nov-domicile-miami-miami
 STATUS:CONFIRMED
 CATEGORIES:hard techno
 END:VEVENT
+BEGIN:VEVENT
+UID:edmtrain-546506@domicile.miami-calendars
+DTSTAMP:20261021T041830Z
+LAST-MODIFIED:20261021T041830Z
+SEQUENCE:0
+DTSTART:20261204T030000Z
+DTEND:20261204T100000Z
+SUMMARY:MARRØN\, Elli Acula\, Elias Garcia\, Junkfile
+LOCATION:Domicile Miami\, 2900 NW 7th Ave\, Miami\, FL 33127\, USA
+DESCRIPTION:Lineup: MARRØN\, Elli Acula\, Elias Garcia\, Junkfile\nTags (g
+ uess): techno\nTimes are an estimate from Domicile's usual hours - the lis
+ ting has no start time yet. Check the link.\nhttps://dice.fm/event/532bql?
+ pid=d6342b83\nhttps://edmtrain.com/miami-fl/marron-elli-acula-546506
+URL:https://dice.fm/event/532bql?pid=d6342b83
+STATUS:CONFIRMED
+CATEGORIES:techno
+END:VEVENT
 END:VCALENDAR

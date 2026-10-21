@@ -1,71 +1,6 @@
 {
  "events": [
   {
-   "id": "19hz:4446223-livitup",
-   "source": "19hz",
-   "title": "Livitup",
-   "artists": [],
-   "venue": "E11even",
-   "venue_slug": null,
-   "date": "2026-10-19",
-   "start": "2026-10-20T00:00:00+00:00",
-   "end": "2026-10-20T05:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "free w/rsvp / $12-23",
-   "genres": [
-    "hip-hop",
-    "house",
-    "latin",
-    "nu-disco"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://speakeasygo.com/e11even/livitup-at-e11even"
-  },
-  {
-   "id": "shotgun:campinginalaska-lincolnsbeard-october-20",
-   "source": "shotgun",
-   "title": "Camping In Alaska At Lincoln’S Beard 10/20",
-   "artists": [],
-   "venue": "Lincoln's Beard Brewing & Cocktails",
-   "venue_slug": null,
-   "date": "2026-10-20",
-   "start": "2026-10-20T22:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$28.38",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/campinginalaska-lincolnsbeard-october-20"
-  },
-  {
-   "id": "shotgun:comedy-night-at-churchill-s-8",
-   "source": "shotgun",
-   "title": "Comedy Night At Churchill's",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-10-20",
-   "start": "2026-10-21T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/comedy-night-at-churchill-s-8"
-  },
-  {
    "id": "edmtrain:537181",
    "source": "edmtrain",
    "title": "Emkay",
@@ -160,9 +95,14 @@
   },
   {
    "id": "shotgun:c3trlroom-13",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Adi J, Shushu, Caroline Desiree, Diego Domenianni",
-   "artists": [],
+   "artists": [
+    "ADI J",
+    "Shushu",
+    "Caroline Desiree",
+    "Diego Domenianni"
+   ],
    "venue": "AIRE Miami",
    "venue_slug": null,
    "date": "2026-10-21",
@@ -176,7 +116,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/c3trlroom-13"
+   "url": "https://shotgun.live/en/events/c3trlroom-13",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/adi-j-shushu-546425"
+   ]
   },
   {
    "id": "shotgun:folk-punk-night-at-the-beach",
@@ -446,9 +389,12 @@
   },
   {
    "id": "shotgun:jolt-radio-on-the-record-scratch-d-oct22",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Jolt Radio: On The Record - Guest: Scratch-D Of Dynamix II",
-   "artists": [],
+   "artists": [
+    "Scratch D",
+    "Dynamix II"
+   ],
    "venue": "Jolt Radio",
    "venue_slug": null,
    "date": "2026-10-22",
@@ -459,14 +405,17 @@
    "ages": "",
    "price": "Free",
    "genres": [
-    "electro",
     "bass",
+    "electro",
     "miami bass"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/jolt-radio-on-the-record-scratch-d-oct22"
+   "url": "https://shotgun.live/en/events/jolt-radio-on-the-record-scratch-d-oct22",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/scratch-d-dynamix-ii-546565"
+   ]
   },
   {
    "id": "shotgun:madradiomiami102226",
@@ -1347,6 +1296,32 @@
    ]
   },
   {
+   "id": "edmtrain:546637",
+   "source": "edmtrain",
+   "title": "Alain Lopez, Rohan Alyan",
+   "artists": [
+    "Alain Lopez",
+    "Rohan Alyan"
+   ],
+   "venue": "Selva Miami",
+   "venue_slug": null,
+   "date": "2026-10-23",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "800 Brickell Ave, Miami, FL 33131, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/nvrn29?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/alain-lopez-rohan-alyan-546637"
+   ]
+  },
+  {
    "id": "edmtrain:545199",
    "source": "edmtrain",
    "title": "Simone Vitullo",
@@ -1470,6 +1445,36 @@
    "organizer": "",
    "description": "",
    "url": "https://ra.co/events/2559618"
+  },
+  {
+   "id": "shotgun:intriga-x-boho-house-vol-3-day-party-new-location",
+   "source": "edmtrain+shotgun",
+   "title": "Intriga X Boho House: Vol. 3 Day Party (New Location)",
+   "artists": [
+    "Santelises",
+    "Goa '98"
+   ],
+   "venue": "BOHO House Miami",
+   "venue_slug": null,
+   "date": "2026-10-24",
+   "start": "2026-10-24T20:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$45.40",
+   "genres": [
+    "afro house",
+    "deep tech",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/intriga-x-boho-house-vol-3-day-party-new-location",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/intriga-x-boho-house-day-party-vol-3-santelises-545361"
+   ]
   },
   {
    "id": "shotgun:karnival-halloween-party-horror-games-18-rave",
@@ -2295,32 +2300,6 @@
    ]
   },
   {
-   "id": "edmtrain:545361",
-   "source": "edmtrain",
-   "title": "INTRIGA X BOHO House- Day Party Vol. 3: Santelises, Goa '98",
-   "artists": [
-    "Santelises",
-    "Goa '98"
-   ],
-   "venue": "BOHO Wynwood",
-   "venue_slug": null,
-   "date": "2026-10-24",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "85 NW 25th St, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/dky8qo?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/intriga-x-boho-house-day-party-vol-3-santelises-545361"
-   ]
-  },
-  {
    "id": "edmtrain:545610",
    "source": "edmtrain",
    "title": "HAUNTED RAVEYARD PRE PARTY: NOT AGN",
@@ -2777,6 +2756,26 @@
    ]
   },
   {
+   "id": "shotgun:openhaus-3",
+   "source": "shotgun",
+   "title": "Stage 777: Halloween Showcase",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-10-28",
+   "start": "2026-10-29T00:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/openhaus-3"
+  },
+  {
    "id": "shotgun:madradiomiami102826",
    "source": "19hz+shotgun",
    "title": "Le Visionêre: Jon-Paul / Dnnyl / Eighty Days / Mau Pino",
@@ -3099,7 +3098,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$16.95",
+   "price": "$28.26",
    "genres": [],
    "genres_inferred": false,
    "organizer": "",
@@ -3421,9 +3420,12 @@
   },
   {
    "id": "shotgun:the-hall-oween-x-medusa",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "The Hall-Oween X Medusa",
-   "artists": [],
+   "artists": [
+    "Polk",
+    "FELA"
+   ],
    "venue": "Upside",
    "venue_slug": null,
    "date": "2026-10-30",
@@ -3434,14 +3436,17 @@
    "ages": "",
    "price": "$22.69",
    "genres": [
-    "house",
     "deep house",
+    "house",
     "indie dance"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/the-hall-oween-x-medusa"
+   "url": "https://shotgun.live/en/events/the-hall-oween-x-medusa",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/the-hall-oween-polk-546718"
+   ]
   },
   {
    "id": "tablelist:f10b685adc35d405",
@@ -3813,7 +3818,7 @@
   },
   {
    "id": "19hz:4447288-freeacidhallowee",
-   "source": "19hz",
+   "source": "19hz+edmtrain",
    "title": "Free Acid Halloween Edition w/ Un_Mute",
    "artists": [],
    "venue": "The Pickle",
@@ -3833,7 +3838,10 @@
    "genres_inferred": false,
    "organizer": "The Pickle, Un_Mute Events",
    "description": "",
-   "url": "https://ra.co/events/2527634"
+   "url": "https://ra.co/events/2527634",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/free-acid-halloween-edition-with-un-mute-546402"
+   ]
   },
   {
    "id": "zeyzey:salsa-vs-perreo-30-oct",
@@ -4008,6 +4016,36 @@
    ]
   },
   {
+   "id": "edmtrain:546740",
+   "source": "edmtrain",
+   "title": "AI REHAB: DJen 'Degen' b2b Laraland, Daniel Innov8, Miami Mike, Sebs, Kallil",
+   "artists": [
+    "DJen 'Degen'",
+    "Laraland",
+    "Daniel Innov8",
+    "Miami Mike",
+    "Sebs",
+    "Kallil"
+   ],
+   "venue": "BOHO Miami",
+   "venue_slug": null,
+   "date": "2026-10-30",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "111 NE 20th St, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://luma.com/hq2ep7v1",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/ai-rehab-djen-degen-546740"
+   ]
+  },
+  {
    "id": "edmtrain:543225",
    "source": "edmtrain",
    "title": "Paramida, Voigtmann, m.O.N.R.O.E.",
@@ -4032,6 +4070,31 @@
    "url": "https://dice.fm/event/xe8r23?pid=d6342b83",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/paramida-voigtmann-543225"
+   ]
+  },
+  {
+   "id": "edmtrain:546664",
+   "source": "edmtrain",
+   "title": "Ollie Sanders",
+   "artists": [
+    "Ollie Sanders"
+   ],
+   "venue": "Stache Drinking Den Ft. Lauderdale",
+   "venue_slug": null,
+   "date": "2026-10-30",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "109 SW 2nd Ave, Fort Lauderdale, FL 33301, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.eventbrite.com/e/2003665582695?aff=ebdimtedmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/ollie-sanders-546664"
    ]
   },
   {
@@ -4650,7 +4713,7 @@
   },
   {
    "id": "shotgun:halloween26",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Halloween Night: Haunted House",
    "artists": [],
    "venue": "Miami",
@@ -4669,7 +4732,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/halloween26"
+   "url": "https://shotgun.live/en/events/halloween26",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/halloween-night-haunted-house-546419"
+   ]
   },
   {
    "id": "19hz:4447384-djhabibeats",
@@ -6107,6 +6173,30 @@
    ]
   },
   {
+   "id": "dice:6ad7d9c13dafd600013f1334",
+   "source": "dice",
+   "title": "DJ Fitness \"Doesn't Care at All\" Release Party",
+   "artists": [],
+   "venue": "Jolene Sound Room Miami",
+   "venue_slug": "jolene",
+   "date": "2026-11-07",
+   "start": "2026-11-08T03:00:00+00:00",
+   "end": "2026-11-08T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ad7d9c13dafd600013f1334",
+   "cancelled": false
+  },
+  {
    "id": "dice:6aaae261eacc0d0001e8d9e6",
    "source": "dice",
    "title": "WE HEART RnB",
@@ -6925,7 +7015,8 @@
     "https://calendar.zeyzeymiami.com/shows/christian-loffler-live-fall-2026-tour-13-nov",
     "https://calendar.zeyzeymiami.com/shows/the-altons-show-you-love-tour-13-nov",
     "https://calendar.zeyzeymiami.com/shows/christian-loffler-live-fall-2026-tour-13-nov",
-    "https://edmtrain.com/miami-fl/christian-loffler-538533"
+    "https://edmtrain.com/miami-fl/christian-loffler-538533",
+    "https://edmtrain.com/miami-fl/zeyzey-presents-mindgazm-546729"
    ]
   },
   {
@@ -7832,7 +7923,7 @@
   },
   {
    "id": "shotgun:hell",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Hell",
    "artists": [],
    "venue": "Klub Kutters Bar & Lounge",
@@ -7846,13 +7937,16 @@
    "price": "$6.66",
    "genres": [
     "hard techno",
-    "techno",
-    "hardcore"
+    "hardcore",
+    "techno"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/hell"
+   "url": "https://shotgun.live/en/events/hell",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/hell-546566"
+   ]
   },
   {
    "id": "dice:6a88676d138c56000110cb09",
@@ -7909,7 +8003,7 @@
    "organizer": "BEIRUT NIGHTS IN",
    "description": "Beirut Nights In Presents: Beirut to Miami! Immerse yourself in the diverse rhythms of Arabic, French, Latin, House, and other global genres, capturing the essence of Beirut's cosmopolitan allure right in the heart of Miami! Picture a city that has endured the tests of time, our party seeks to encapsulate its resilience and vivacity in the face against all odds. Amidst the turmoil and uncertainty of conflict, Beirutis have always found solace and strength in their vibrant nightlife, turning nights of darkness into moments of light and celebration. The cosmopolitan nature of Beirut's nightlife is a tapestry woven with the threads of diverse cultures, traditions and modern influences. It is a reflection of the city's historical role as a crossroads of civilizations, where East meets West and tradition combine seamlessly with contemporary trends. Step into Beirut's nightlife, and you'll find yourself immersed in a vibrant mosaic of sights, sounds, and experiences that celebrate the city's rich multicultural heritage. Music: Anthony Raad & Mark Azar Doors open @ 11 PM 21+ No refunds",
    "url": "https://shotgun.live/en/events/beiruttomiami1",
-   "tickets": "General Admission - Early Bird $25 (sold out), General Admission - Early Bird $30 (sold out), VIP Table for 6 People - $750 Minimum Spend $150, General Admission - Tier 2 $35, VIP Table for 8 People - $1000 Minimum Spend $200, VIP Table for 10 People - $1250 Minimum Spend $250",
+   "tickets": "General Admission - Early Bird $25 (sold out), General Admission - Early Bird $30 (sold out), VIP Table for 6 People - $750 Minimum Spend $150, General Admission - Tier 2 $35, VIP Table for 8 People - $1000 Minimum Spend $200, VIP Table for 10 People - $1500 Minimum Spend $300",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -7949,6 +8043,32 @@
    "url": "https://www.livnightclub.com/miami/event/EVE112156200020261114/tbd/?ref=raco",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/ian-asher-541044"
+   ]
+  },
+  {
+   "id": "edmtrain:546515",
+   "source": "edmtrain",
+   "title": "Rodrigo Vieira, Dmeyer",
+   "artists": [
+    "Rodrigo Vieira",
+    "Dmeyer"
+   ],
+   "venue": "Edge Miami",
+   "venue_slug": null,
+   "date": "2026-11-14",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "114 NE 20th Terrace, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/komashov-rodrigo-vieira-dmeyer-rye-tiffany-romero?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/rodrigo-vieira-dmeyer-546515"
    ]
   },
   {
@@ -9835,6 +9955,31 @@
    ]
   },
   {
+   "id": "edmtrain:546509",
+   "source": "edmtrain",
+   "title": "Pagano",
+   "artists": [
+    "Pagano"
+   ],
+   "venue": "Eagle Wilton Manors",
+   "venue_slug": null,
+   "date": "2026-11-27",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "2209 Wilton Dr, Wilton Manors, FL 33305, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/7d9m6p?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/pagano-546509"
+   ]
+  },
+  {
    "id": "edmtrain:539771",
    "source": "edmtrain",
    "title": "Urge Miami: ADHAM, Cesar Hernandz, DJ Deanne, Deep Cleansing, Eliad Cohen, GSP, Isis Muretech, Jace M, Juka, Jerac, Joey with the Mustache, Junyo, Naim Zarzour, Raul Mata, Robincal Fajardo, Sharon O Love",
@@ -10306,6 +10451,32 @@
    ]
   },
   {
+   "id": "edmtrain:546510",
+   "source": "edmtrain",
+   "title": "bLAck pARty, Tom Stephan",
+   "artists": [
+    "bLAck pARty",
+    "Tom Stephan"
+   ],
+   "venue": "Eagle Wilton Manors",
+   "venue_slug": null,
+   "date": "2026-11-28",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "2209 Wilton Dr, Wilton Manors, FL 33305, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/yoqbkv?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/black-party-tom-stephan-546510"
+   ]
+  },
+  {
    "id": "edmtrain:539772",
    "source": "edmtrain",
    "title": "Urge Miami",
@@ -10756,7 +10927,34 @@
    "source": "19hz+dice+edmtrain",
    "title": "Factory Basel 2026 (Wednesday Pass)",
    "artists": [
-    "Diplo"
+    "Franky Rizardo",
+    "The Martinez Brothers",
+    "Zack Fox",
+    "Mason Collective",
+    "Jay de Lys",
+    "Nico Bernardini",
+    "Ferra Black",
+    "Mellizos",
+    "Ahmed Spins",
+    "ChaseWest",
+    "Mai Iachetti",
+    "Mishell",
+    "Viot",
+    "WhoMadeWho",
+    "Rafael",
+    "Jyoty",
+    "UNIIQU3",
+    "Broodoo Ramses",
+    "ANNĒ",
+    "Annie Lew",
+    "Chlär",
+    "D.Dan",
+    "DJ TOOL",
+    "SHDW",
+    "GUDFELLA",
+    "Miluhska",
+    "Rooléh",
+    "Slugg"
    ],
    "venue": "Factory Town",
    "venue_slug": "factory-town",
@@ -10779,7 +10977,7 @@
    "cancelled": false,
    "alt_urls": [
     "https://dice.fm/event/6aaafb88d2cb540001cdd853",
-    "https://edmtrain.com/miami-fl/factory-basel-5-day-diplo-543874"
+    "https://edmtrain.com/miami-fl/franky-rizardo-the-martinez-brothers-543874"
    ]
   },
   {
@@ -10950,7 +11148,37 @@
    "id": "19hz:4450552-wherearemykeysar",
    "source": "19hz+edmtrain",
    "title": "Where Are My Keys? Art Basel 2026",
-   "artists": [],
+   "artists": [
+    "1morning",
+    "Anthea",
+    "Danny Daze",
+    "Demi Riquísimo",
+    "Desyn",
+    "David Berrie",
+    "Dyed Soundorom",
+    "Dylan Payne",
+    "Enzo Siragusa",
+    "Fumiya Tanaka",
+    "Hugo Martinez",
+    "Inbal",
+    "Isaac Carter",
+    "Janina",
+    "Make A Dance",
+    "Mike Servito",
+    "Midnight Magic",
+    "Mystic Bill",
+    "Puma",
+    "R/V Calypso",
+    "Rafa",
+    "Raphael Carrau",
+    "Ricardo Villalobos",
+    "Rimaye",
+    "Shonky",
+    "Shubostar",
+    "tINI",
+    "Terence Tabeau",
+    "Tomás Station"
+   ],
    "venue": "94th Aero Squadron",
    "venue_slug": "festivals",
    "date": "2026-12-03",
@@ -10971,7 +11199,8 @@
    "description": "",
    "url": "https://dice.fm/event/oe8a5y-where-are-my-keys-art-basel-2026-3rd-dec-94th-aero-squadron-miami-tickets",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/where-are-my-keys-529001"
+    "https://edmtrain.com/miami-fl/where-are-my-keys-529001",
+    "https://edmtrain.com/miami-fl/where-are-my-keys-1morning-546403"
    ]
   },
   {
@@ -11004,11 +11233,69 @@
    ]
   },
   {
+   "id": "edmtrain:546506",
+   "source": "edmtrain",
+   "title": "MARRØN, Elli Acula, Elias Garcia, Junkfile",
+   "artists": [
+    "MARRØN",
+    "Elli Acula",
+    "Elias Garcia",
+    "Junkfile"
+   ],
+   "venue": "Domicile Miami",
+   "venue_slug": "domicile",
+   "date": "2026-12-03",
+   "start": "2026-12-04T03:00:00+00:00",
+   "end": "2026-12-04T10:00:00+00:00",
+   "time_estimated": true,
+   "address": "2900 NW 7th Ave, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/532bql?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/marron-elli-acula-546506"
+   ]
+  },
+  {
    "id": "dice:6ac6b8aa8532130001c3c2df",
    "source": "dice+edmtrain",
    "title": "Factory Basel 2026 (Thursday Pass)",
    "artists": [
-    "Malóne Morez"
+    "Diplo",
+    "Carlita",
+    "Tiga",
+    "Omar+",
+    "Malóne Morez",
+    "Adam Ten",
+    "Blond:ish",
+    "Marian",
+    "Discip",
+    "Yulia Niko",
+    "Kate Moon",
+    "Ben Sterling",
+    "DJ Tennis",
+    "Tiffy Vera",
+    "Clüb De Combat",
+    "AYYBO",
+    "Jimi Jules",
+    "Budino",
+    "Nicole Gallamini",
+    "Goldie",
+    "Photek",
+    "KinAhau",
+    "Salomé le Chat",
+    "Traumer",
+    "Ammo Avenue",
+    "Chinonegro",
+    "HoneyLuv",
+    "Julian Fijma",
+    "Malcolm Zeller"
    ],
    "venue": "Factory Town",
    "venue_slug": "factory-town",
@@ -11029,7 +11316,7 @@
    "url": "https://dice.fm/event/6ac6b8aa8532130001c3c2df",
    "cancelled": false,
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/whynotus-art-basel-malone-morez-543876"
+    "https://edmtrain.com/miami-fl/diplo-carlita-543876"
    ]
   },
   {
@@ -11265,6 +11552,31 @@
    ]
   },
   {
+   "id": "edmtrain:546735",
+   "source": "edmtrain",
+   "title": "Prospa",
+   "artists": [
+    "Prospa"
+   ],
+   "venue": "LIV Miami",
+   "venue_slug": null,
+   "date": "2026-12-03",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "4441 Collins Ave, Miami Beach, FL 33140, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.livnightclub.com/miami/event/EVE112156200020261203/prospa/",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/prospa-546735"
+   ]
+  },
+  {
    "id": "19hz:4450620-hugel",
    "source": "19hz+edmtrain",
    "title": "Hugel",
@@ -11404,7 +11716,8 @@
     "Adriatique",
     "Miguelle & Tons",
     "ISAbella",
-    "Rampa"
+    "Rampa",
+    "Cloonee"
    ],
    "venue": "Watson Island Park",
    "venue_slug": "festivals",
@@ -11758,6 +12071,29 @@
    "cancelled": false
   },
   {
+   "id": "edmtrain:546404",
+   "source": "edmtrain",
+   "title": "Where Are My Keys",
+   "artists": [],
+   "venue": "1395 NW 57th Ave",
+   "venue_slug": null,
+   "date": "2026-12-04",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1395 NW 57th Ave, Miami, FL 33126, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://ra.co/events/2513593",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/where-are-my-keys-546404"
+   ]
+  },
+  {
    "id": "hardrock:207848",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -11829,10 +12165,10 @@
   {
    "id": "edmtrain:546337",
    "source": "edmtrain",
-   "title": "Cloonee b2b Adriatique",
+   "title": "unKommon: Adriatique, Cloonee",
    "artists": [
-    "Cloonee",
-    "Adriatique"
+    "Adriatique",
+    "Cloonee"
    ],
    "venue": "Watson Island Park",
    "venue_slug": "festivals",
@@ -11849,7 +12185,7 @@
    "description": "",
    "url": "https://dice.fm/event/pywx7k?pid=d6342b83",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/cloonee-adriatique-546337"
+    "https://edmtrain.com/miami-fl/unkommon-adriatique-546337"
    ]
   },
   {
@@ -12028,9 +12364,11 @@
   },
   {
    "id": "shotgun:patriarchy-deflowered-florida-tour-ft-mvtant-angel-husk",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Patriarchy Florida Deflowerment Tour Ft. Mvtant + Angel Husk",
-   "artists": [],
+   "artists": [
+    "MVTANT"
+   ],
    "venue": "Las Rosas",
    "venue_slug": null,
    "date": "2026-12-05",
@@ -12048,7 +12386,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/patriarchy-deflowered-florida-tour-ft-mvtant-angel-husk"
+   "url": "https://shotgun.live/en/events/patriarchy-deflowered-florida-tour-ft-mvtant-angel-husk",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/mvtant-546571"
+   ]
   },
   {
    "id": "hardrock:207834",
@@ -12241,30 +12582,26 @@
    ]
   },
   {
-   "id": "edmtrain:508726",
+   "id": "edmtrain:546405",
    "source": "edmtrain",
-   "title": "SOTA, Dionne Warwick, Christopher Jackson",
-   "artists": [
-    "SOTA",
-    "Dionne Warwick",
-    "Christopher Jackson"
-   ],
-   "venue": "Au-Rene Theater at the Broward Center",
+   "title": "Where Are My Keys",
+   "artists": [],
+   "venue": "1395 NW 57th Ave",
    "venue_slug": null,
    "date": "2026-12-05",
    "start": null,
    "end": null,
    "time_estimated": false,
-   "address": "Broward Center For The Performing Arts, Huizenga Pavilion, 201 SW 5th Ave, Fort Lauderdale, FL 33312, USA",
+   "address": "1395 NW 57th Ave, Miami, FL 33126, USA",
    "ages": "",
    "price": "",
    "genres": [],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://ticketmaster.evyy.net/c/254533/264167/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fevent%2F0D0064B5BFA4BF26",
+   "url": "https://ra.co/events/2513593",
    "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/sota-dionne-warwick-508726"
+    "https://edmtrain.com/miami-fl/where-are-my-keys-546405"
    ]
   },
   {
@@ -12472,6 +12809,29 @@
    ]
   },
   {
+   "id": "edmtrain:546406",
+   "source": "edmtrain",
+   "title": "Where Are My Keys",
+   "artists": [],
+   "venue": "1395 NW 57th Ave",
+   "venue_slug": null,
+   "date": "2026-12-06",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1395 NW 57th Ave, Miami, FL 33126, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://ra.co/events/2513593",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/where-are-my-keys-546406"
+   ]
+  },
+  {
    "id": "edmtrain:533428",
    "source": "edmtrain",
    "title": "GOLFOS (PAWSA & Dennis Cruz)",
@@ -12589,9 +12949,11 @@
   },
   {
    "id": "19hz:4451320-davi",
-   "source": "19hz",
+   "source": "19hz+edmtrain",
    "title": "Davi",
-   "artists": [],
+   "artists": [
+    "DAVI"
+   ],
    "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
    "date": "2026-12-11",
@@ -12608,7 +12970,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6ac675ea347f8b0001f1b2e0"
+   "url": "https://dice.fm/event/6ac675ea347f8b0001f1b2e0",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/davi-546737"
+   ]
   },
   {
    "id": "shotgun:the-hall-360-differ-f-2-f-nico-moon-5",
@@ -12922,6 +13287,32 @@
    "url": "https://www.ticketweb.com/event/id/14322674",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/sonny-fodera-537637"
+   ]
+  },
+  {
+   "id": "edmtrain:546672",
+   "source": "edmtrain",
+   "title": "Rhemmasfz, Randy Derricott / DJ RANZ",
+   "artists": [
+    "Rhemmasfz",
+    "Randy Derricott / DJ RANZ"
+   ],
+   "venue": "Tenth Level Tavern",
+   "venue_slug": null,
+   "date": "2026-12-12",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1242 NE 38th St, Oakland Park, FL 33334, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/yasumi-fiesta?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/rhemmasfz-randy-derricott-dj-ranz-546672"
    ]
   },
   {
@@ -13552,6 +13943,33 @@
    ]
   },
   {
+   "id": "edmtrain:546503",
+   "source": "edmtrain",
+   "title": "Dee Montero",
+   "artists": [
+    "Dee Montero"
+   ],
+   "venue": "Do Not Sit On The Furniture",
+   "venue_slug": null,
+   "date": "2026-12-26",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "423 16th St, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "deep house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/mxw78k?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/dee-montero-546503"
+   ]
+  },
+  {
    "id": "hardrock:207857",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -13742,6 +14160,33 @@
    ]
   },
   {
+   "id": "edmtrain:546504",
+   "source": "edmtrain",
+   "title": "Shai T",
+   "artists": [
+    "Shai T"
+   ],
+   "venue": "Do Not Sit On The Furniture",
+   "venue_slug": null,
+   "date": "2026-12-31",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "423 16th St, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "deep house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/g5vakb?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/shai-t-546504"
+   ]
+  },
+  {
    "id": "hardrock:208377",
    "source": "venue",
    "title": "New Year's Day",
@@ -13916,6 +14361,33 @@
    "description": "",
    "url": "https://tixr.com/e/208379",
    "generic_title": true
+  },
+  {
+   "id": "edmtrain:546412",
+   "source": "edmtrain",
+   "title": "Loud Luxury, Ty Sunderland, Anne Louise",
+   "artists": [
+    "Loud Luxury",
+    "Ty Sunderland",
+    "Anne Louise"
+   ],
+   "venue": "2335 North Miami Avenue",
+   "venue_slug": null,
+   "date": "2027-01-02",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "2335 N Miami Ave, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/xe82rm?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/loud-luxury-ty-sunderland-546412"
+   ]
   },
   {
    "id": "hardrock:210868",
@@ -14440,11 +14912,11 @@
   {
    "id": "edmtrain:546320",
    "source": "edmtrain",
-   "title": "Effin, Nikita the Wicked, AYCH",
+   "title": "Effin, AYCH, Nikita the Wicked",
    "artists": [
     "Effin",
-    "Nikita the Wicked",
-    "AYCH"
+    "AYCH",
+    "Nikita the Wicked"
    ],
    "venue": "Midline Miami",
    "venue_slug": "midline",
@@ -14461,7 +14933,7 @@
    "description": "",
    "url": "https://www.effinofficial.com/pages/tour",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/effin-nikita-the-wicked-546320"
+    "https://edmtrain.com/miami-fl/effin-aych-546320"
    ]
   },
   {
