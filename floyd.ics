@@ -380,17 +380,18 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aba864e4479fc0001853144@floyd.miami-calendars
-DTSTAMP:20261011T041813Z
-LAST-MODIFIED:20261011T041813Z
-SEQUENCE:0
+DTSTAMP:20261021T101816Z
+LAST-MODIFIED:20261021T101816Z
+SEQUENCE:1
 DTSTART:20270123T040000Z
 DTEND:20270123T100000Z
 SUMMARY:TeeDee
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: TeeDee\nTags (guess): house\, techno\nhttps://dice.fm/e
- vent/6aba864e4479fc0001853144\nhttps://edmtrain.com/miami-fl/teedee-541419
-URL:https://dice.fm/event/6aba864e4479fc0001853144
+DESCRIPTION:Lineup: TeeDee\nTags: house\nAges: 21+\nhttps://dice.fm/event/k
+ 676g9-teedee-22nd-jan-floyd-miami-miami-tickets\nhttps://edmtrain.com/miam
+ i-fl/teedee-541419
+URL:https://dice.fm/event/k676g9-teedee-22nd-jan-floyd-miami-miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:house
 END:VEVENT
 END:VCALENDAR

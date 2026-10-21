@@ -1477,6 +1477,30 @@
    ]
   },
   {
+   "id": "19hz:4446688-intrigadaypartyv",
+   "source": "19hz",
+   "title": "Intriga Day Party Vol. 3 Ft Santelises & Friends",
+   "artists": [],
+   "venue": "Boho House",
+   "venue_slug": null,
+   "date": "2026-10-24",
+   "start": "2026-10-24T20:00:00+00:00",
+   "end": "2026-10-25T03:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "free b4 7pm / $40",
+   "genres": [
+    "afro tech",
+    "indie dance",
+    "progressive house"
+   ],
+   "genres_inferred": false,
+   "organizer": "Intriga Collective",
+   "description": "",
+   "url": "https://link.dice.fm/pc78b350889b"
+  },
+  {
    "id": "shotgun:karnival-halloween-party-horror-games-18-rave",
    "source": "shotgun",
    "title": "Karnival: Halloween Cosplay Party & 18+ After Hours Rave",
@@ -6259,7 +6283,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "Free w/RSVP b4 midnight / $24",
+   "price": "free w/rsvp b4 midnight / $24",
    "genres": [
     "bass house",
     "deep house",
@@ -11754,7 +11778,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "Free w/RSVP b4 midnight ladies / $23",
+   "price": "free w/rsvp b4 midnight ladies / $23",
    "genres": [
     "afro house",
     "latin house",
@@ -13664,7 +13688,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "Free w/RSVP b4 midnight / $24",
+   "price": "free w/rsvp b4 midnight / $24",
    "genres": [
     "tech house",
     "techno"
@@ -14617,7 +14641,7 @@
   },
   {
    "id": "dice:6aba864e4479fc0001853144",
-   "source": "dice+edmtrain",
+   "source": "19hz+dice+edmtrain",
    "title": "TeeDee",
    "artists": [
     "TeeDee"
@@ -14629,18 +14653,18 @@
    "end": "2027-01-23T10:00:00+00:00",
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
+   "ages": "21+",
    "price": "From $24",
    "genres": [
-    "house",
-    "techno"
+    "house"
    ],
-   "genres_inferred": true,
+   "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6aba864e4479fc0001853144",
+   "url": "https://dice.fm/event/k676g9-teedee-22nd-jan-floyd-miami-miami-tickets",
    "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/k676g9-teedee-22nd-jan-floyd-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/teedee-541419"
    ]
   },
