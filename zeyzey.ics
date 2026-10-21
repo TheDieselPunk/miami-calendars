@@ -889,6 +889,20 @@ URL:https://calendar.zeyzeymiami.com/shows/puzzle-31-jan
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-jam-cruise-pre-party-03-feb@zeyzey.miami-calendars
+DTSTAMP:20261021T161817Z
+LAST-MODIFIED:20261021T161817Z
+SEQUENCE:0
+DTSTART:20270204T000000Z
+DTEND:20270204T060000Z
+SUMMARY:An Evening with Pigeons Playing Ping Pong
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://calendar.zeyzeymiami.com/shows/jam-cruise-pre-party-03-
+ feb
+URL:https://calendar.zeyzeymiami.com/shows/jam-cruise-pre-party-03-feb
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-early-show-mamas-gun-26-feb@zeyzey.miami-calendars
 DTSTAMP:20261006T161825Z
 LAST-MODIFIED:20261006T161825Z
