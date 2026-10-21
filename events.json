@@ -132,6 +132,30 @@
    ]
   },
   {
+   "id": "shotgun:archivium-creative-jazz-nights-by-cloud-19",
+   "source": "shotgun",
+   "title": "Archivium Creative: Jazz On Cloud 17",
+   "artists": [],
+   "venue": "The Sound Library Miami – Kava, Tea & Live Music",
+   "venue_slug": null,
+   "date": "2026-10-21",
+   "start": "2026-10-22T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$5.00",
+   "genres": [
+    "jazz",
+    "blues",
+    "brazilian"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/archivium-creative-jazz-nights-by-cloud-19"
+  },
+  {
    "id": "tablelist:dbaac38537858c48",
    "source": "tablelist+venue",
    "title": "Pangea Sound Presents: Mezclao",
@@ -322,13 +346,13 @@
    "time_estimated": false,
    "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
    "ages": "",
-   "price": "$20.00",
+   "price": "$30.00",
    "genres": [],
    "genres_inferred": false,
    "organizer": "The Boombox Miami",
    "description": "DON’T DREAM IT BE IT 💥 The Boombox (@theboomboxmiami) and the talent of Miami-Dade (@rockyhorrormiami) have teamed up to create THE ROCKY HORROR PARTY SHOW, a multi-medium performance piece that immerses the audience into the salacious world of this beloved queer cult classic 🪭💫 WHEN: THURSDAY Oct 22 8PM FRIDAY Oct 23 8PM/12AM WHERE: The Boombox #yatusabes WEAR: Slut or Suit no exceptions!! Checking drip and IDs (18+) at the the door 🫵 2 nights, 3 shows you can bring your co-worker with bangs to, and one wild final MIDNIGHT ride you’re not going to want to miss!! Expect live music, cabaret, cinematic projections, y más 💫 There will be flashing lights, sudden sounds, and other practical effects designed to heighten your senses. Please check the ticket info for how you can best enjoy this invento of party show 🥳 SEATS AND TICKETS LIMITED BOOTS LET UR FRIENDS KNOWW Give yourself over to absolute pleasure this October darlings when the mood takes us we’re known to be quite generous 💋 Follow @rockyhorrormiami for early tricks n’ treats and more behind the scenes looks at The Rocky Horror Party Show Project!! See you there, mon chers 💌",
    "url": "https://shotgun.live/en/events/rocky-horror-picture-show",
-   "tickets": "11:45PM SHOWTIME EARLY BIRD $20, 8PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME GA $30, 11:45PM SHOWTIME GA $30 (sold out), 8PM SHOWTIME GA $30 (sold out), 11:45PM SHOWTIME GA $30 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME GA $30 (sold out)",
+   "tickets": "11:45PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME GA $30, 8PM SHOWTIME GA $30, 11:45PM SHOWTIME GA $30 (sold out), 8PM SHOWTIME GA $30 (sold out), 11:45PM SHOWTIME GA $30 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME GA $30 (sold out)",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -1298,7 +1322,7 @@
   },
   {
    "id": "dice:6ac536f590411600012213de",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "Race To Space",
    "artists": [],
    "venue": "Club Space Miami",
@@ -1318,7 +1342,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6ac536f590411600012213de",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/race-to-space-546794"
+   ]
   },
   {
    "id": "hardrock:206563",
@@ -1449,6 +1476,30 @@
    "organizer": "Intriga Collective",
    "description": "",
    "url": "https://link.dice.fm/pc78b350889b"
+  },
+  {
+   "id": "dice:6ad9189cc6d9720001d0432d",
+   "source": "dice",
+   "title": "Space Yoga",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2026-10-24",
+   "start": "2026-10-24T20:20:00+00:00",
+   "end": "2026-10-24T22:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": " (sold out)",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ad9189cc6d9720001d0432d",
+   "cancelled": false
   },
   {
    "id": "shotgun:karnival-halloween-party-horror-games-18-rave",
@@ -1780,7 +1831,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$20.00",
+   "price": "$15.00",
    "genres": [
     "house",
     "progressive house",
@@ -2323,6 +2374,27 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/loods-koja-545700"
    ]
+  },
+  {
+   "id": "hardrock:211964",
+   "source": "venue",
+   "title": "Peach Club",
+   "artists": [],
+   "venue": "DAER Dayclub",
+   "venue_slug": "daer",
+   "date": "2026-10-25",
+   "start": "2026-10-25T14:30:00+00:00",
+   "end": "2026-10-25T22:00:00+00:00",
+   "time_estimated": false,
+   "address": "1 Seminole Way, Hollywood, FL 33314",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://tixr.com/e/211964",
+   "generic_title": false
   },
   {
    "id": "hardrock:202018",
@@ -2875,7 +2947,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$11.35",
+   "price": "",
    "genres": [
     "k-pop",
     "dark wave",
@@ -3175,7 +3247,7 @@
    "organizer": "The Boombox Miami",
    "description": "BOOMBOX SE7EN YEAR ANNIVERSARY Two nights. Two stages. 30+ acts. We’re celebrating 7 years of BOOMBOX with a massive Halloween weekend featuring some of Miami’s best underground sounds. With OMNI SOUND SPACE, EQUINOX BOOKING, FLORIDA GLOSS, and SAY TECH AND SMILE. OCTOBER 30 & 31 18+",
    "url": "https://shotgun.live/en/events/halloween-se-7-en",
-   "tickets": "FRIDAY OCT 30TH (SINGLE DAY PASS) - EARLY BIRD $20, 2-DAY PASS (EARLY BIRD) $30 (sold out), SATURDAY OCT 31TH (SINGLE DAY PASS) - EARLY BIRD $20, 2-DAY PASS $40",
+   "tickets": "FRIDAY OCT 30TH (SINGLE DAY PASS) - EARLY BIRD $20, 2-DAY PASS (EARLY BIRD) $30 (sold out), SATURDAY OCT 31TH (SINGLE DAY PASS) - EARLY BIRD $20 (sold out), 2-DAY PASS $40, SATURDAY OCT 31TH - SINGLE DAY PASS $30",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -5077,6 +5149,30 @@
    ]
   },
   {
+   "id": "shotgun:lunasol-pres-sunrise-lesson-6",
+   "source": "shotgun",
+   "title": "Lunasol Pres. Lesson 6",
+   "artists": [],
+   "venue": "Lunasol",
+   "venue_slug": null,
+   "date": "2026-11-01",
+   "start": "2026-11-01T12:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$34.20",
+   "genres": [
+    "deep house",
+    "afro house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/lunasol-pres-sunrise-lesson-6"
+  },
+  {
    "id": "hardrock:204544",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -6298,6 +6394,39 @@
    "alt_urls": [
     "https://link.dice.fm/er1yrfloyd"
    ]
+  },
+  {
+   "id": "shotgun:black-techo-matters",
+   "source": "shotgun",
+   "title": "Black Techno Matters",
+   "artists": [
+    "Nile Ashton",
+    "B_X_R_N_X_R_D",
+    "duun",
+    "Duality"
+   ],
+   "venue": "The Boombox Miami",
+   "venue_slug": "boombox",
+   "date": "2026-11-07",
+   "start": "2026-11-08T04:00:00+00:00",
+   "end": "2026-11-08T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
+   "ages": "",
+   "price": "$10.00",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "The Boombox Miami",
+   "description": "Public Energy is proud to be partnering with Black Techno Matters hailing from Washington D.C for their 7 year anniversary. With a shared mission to remind the masses of where their music originates from - Public Energy invites Founder BXNRXD & 1/2 of Secret Handshake Nile Ashton to show what the source really sounds like. On Local support we have PE founder Duality getting out of his comfort zone pushing percussive club bangers and riding rhythms to set the floor for Miami’s main stay and big brother Pressurepoint B2B Lady Narcisse. To start the night right we have Dub Techno connoisseur DUUN alongside a debut for Browards KILLAJAY. To end the night right for a rare set outside his domain is SERAFITZ with an all wax set. We’re beyond excited to have techno bumping right here at The Boombox Miami. ALL BLACK OUTFIT IS *HIGHLY* Encouraged for the occasion.",
+   "url": "https://shotgun.live/en/events/black-techo-matters",
+   "tickets": "T1 $10",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.7287781,
+    "longitude": -80.3169309
+   },
+   "created": "2026-10-21T19:56:57.000Z"
   },
   {
    "id": "dice:6abbdcda4a21e200016b9d90",
@@ -8370,6 +8499,30 @@
    "organizer": "",
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/vicente-garcia-19-nov",
+   "cancelled": false
+  },
+  {
+   "id": "dice:6ad8e836f3f79d000131952b",
+   "source": "dice",
+   "title": "The Groove Palace: Rayzir",
+   "artists": [],
+   "venue": "Jolene Sound Room Miami",
+   "venue_slug": "jolene",
+   "date": "2026-11-19",
+   "start": "2026-11-20T03:00:00+00:00",
+   "end": "2026-11-20T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ad8e836f3f79d000131952b",
    "cancelled": false
   },
   {
@@ -12493,7 +12646,7 @@
   {
    "id": "dice:6ab446f49e8bcf0001f96b29",
    "source": "19hz+dice+edmtrain",
-   "title": "Basel: Francis Mercier",
+   "title": "Basel: To Be Announced",
    "artists": [
     "Francis Mercier"
    ],
@@ -14033,7 +14186,7 @@
   {
    "id": "zeyzey:new-years-eve-with-dabuell-dj-set-31-dec",
    "source": "venue",
-   "title": "New Years Eve with Dabuell (DJ Set)",
+   "title": "New Years Eve with Dabeull (DJ Set)",
    "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",

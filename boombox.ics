@@ -9,9 +9,9 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:rocky-horror-picture-show@shotgun.live
-DTSTAMP:20261017T221811Z
-LAST-MODIFIED:20261017T221811Z
-SEQUENCE:13
+DTSTAMP:20261021T221818Z
+LAST-MODIFIED:20261021T221818Z
+SEQUENCE:14
 DTSTART:20261023T000000Z
 DTEND:20261024T070000Z
 SUMMARY:Rocky Horror Picture Show
@@ -33,13 +33,14 @@ DESCRIPTION:DON’T DREAM IT BE IT 💥 The Boombox (@theboomboxmiami) and
  this October darlings when the mood takes us we’re known to be quite gen
  erous 💋 Follow @rockyhorrormiami for early tricks n’ treats and more 
  behind the scenes looks at The Rocky Horror Party Show Project!! See you t
- here\, mon chers 💌\nTickets: 11:45PM SHOWTIME EARLY BIRD $20\, 8PM SHOW
- TIME EARLY BIRD $20 (sold out)\, 11:45PM SHOWTIME EARLY BIRD $20 (sold out
- )\, 8PM SHOWTIME EARLY BIRD $20 (sold out)\, 11:45PM SHOWTIME EARLY BIRD $
- 20 (sold out)\, 8PM SHOWTIME GA $30\, 11:45PM SHOWTIME GA $30 (sold out)\,
-  8PM SHOWTIME GA $30 (sold out)\, 11:45PM SHOWTIME GA $30 (sold out)\, 8PM
-  SHOWTIME EARLY BIRD $20 (sold out)\, 8PM SHOWTIME GA $30 (sold out)\nhttp
- s://shotgun.live/en/events/rocky-horror-picture-show
+ here\, mon chers 💌\nTickets: 11:45PM SHOWTIME EARLY BIRD $20 (sold out)
+ \, 8PM SHOWTIME EARLY BIRD $20 (sold out)\, 11:45PM SHOWTIME EARLY BIRD $2
+ 0 (sold out)\, 8PM SHOWTIME EARLY BIRD $20 (sold out)\, 11:45PM SHOWTIME E
+ ARLY BIRD $20 (sold out)\, 11:45PM SHOWTIME GA $30\, 8PM SHOWTIME GA $30\,
+  11:45PM SHOWTIME GA $30 (sold out)\, 8PM SHOWTIME GA $30 (sold out)\, 11:
+ 45PM SHOWTIME GA $30 (sold out)\, 8PM SHOWTIME EARLY BIRD $20 (sold out)\,
+  8PM SHOWTIME GA $30 (sold out)\nhttps://shotgun.live/en/events/rocky-horr
+ or-picture-show
 URL:https://shotgun.live/en/events/rocky-horror-picture-show
 STATUS:CONFIRMED
 GEO:25.7287781;-80.3169309
@@ -108,9 +109,9 @@ GEO:25.7287781;-80.3169309
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-se-7-en@shotgun.live
-DTSTAMP:20261018T101814Z
-LAST-MODIFIED:20261018T101814Z
-SEQUENCE:1
+DTSTAMP:20261021T221818Z
+LAST-MODIFIED:20261021T221818Z
+SEQUENCE:2
 DTSTART:20261030T210000Z
 DTEND:20261101T100000Z
 SUMMARY:Halloween Se7en [ Oct 30 · 31 ]
@@ -122,9 +123,37 @@ DESCRIPTION:BOOMBOX SE7EN YEAR ANNIVERSARY Two nights. Two stages. 30+ acts
  \, EQUINOX BOOKING\, FLORIDA GLOSS\, and SAY TECH AND SMILE. OCTOBER 30 & 
  31 18+\nTickets: FRIDAY OCT 30TH (SINGLE DAY PASS) - EARLY BIRD $20\, 2-DA
  Y PASS (EARLY BIRD) $30 (sold out)\, SATURDAY OCT 31TH (SINGLE DAY PASS) -
-  EARLY BIRD $20\, 2-DAY PASS $40\nhttps://shotgun.live/en/events/halloween
- -se-7-en
+  EARLY BIRD $20 (sold out)\, 2-DAY PASS $40\, SATURDAY OCT 31TH - SINGLE D
+ AY PASS $30\nhttps://shotgun.live/en/events/halloween-se-7-en
 URL:https://shotgun.live/en/events/halloween-se-7-en
+STATUS:CONFIRMED
+GEO:25.7287781;-80.3169309
+END:VEVENT
+BEGIN:VEVENT
+UID:black-techo-matters@shotgun.live
+DTSTAMP:20261021T221818Z
+LAST-MODIFIED:20261021T221818Z
+SEQUENCE:0
+DTSTART:20261108T040000Z
+DTEND:20261108T090000Z
+SUMMARY:Black Techno Matters
+LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
+ \, USA
+DESCRIPTION:Public Energy is proud to be partnering with Black Techno Matte
+ rs hailing from Washington D.C for their 7 year anniversary. With a shared
+  mission to remind the masses of where their music originates from - Publi
+ c Energy invites Founder BXNRXD & 1/2 of Secret Handshake Nile Ashton to s
+ how what the source really sounds like. On Local support we have PE founde
+ r Duality getting out of his comfort zone pushing percussive club bangers 
+ and riding rhythms to set the floor for Miami’s main stay and big brothe
+ r Pressurepoint B2B Lady Narcisse. To start the night right we have Dub Te
+ chno connoisseur DUUN alongside a debut for Browards KILLAJAY. To end the 
+ night right for a rare set outside his domain is SERAFITZ with an all wax 
+ set. We’re beyond excited to have techno bumping right here at The Boomb
+ ox Miami. ALL BLACK OUTFIT IS *HIGHLY* Encouraged for the occasion.\nLineu
+ p: Nile Ashton\, B_X_R_N_X_R_D\, duun\, Duality\nTickets: T1 $10\nhttps://
+ shotgun.live/en/events/black-techo-matters
+URL:https://shotgun.live/en/events/black-techo-matters
 STATUS:CONFIRMED
 GEO:25.7287781;-80.3169309
 END:VEVENT
