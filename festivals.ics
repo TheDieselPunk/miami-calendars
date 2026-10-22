@@ -286,6 +286,19 @@ URL:https://www.eventbrite.com/e/urge-miami-festival-2026-festival-passes-t
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:art-basel-airfunk@shotgun.live
+DTSTAMP:20261022T221820Z
+LAST-MODIFIED:20261022T221820Z
+SEQUENCE:0
+DTSTART:20261203T220000Z
+DTEND:20261204T030000Z
+SUMMARY:Art Basel: Airfunk - Chez Damier & More
+LOCATION:Miami
+DESCRIPTION:https://shotgun.live/en/events/art-basel-airfunk
+URL:https://shotgun.live/en/events/art-basel-airfunk
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:19hz-4450552-wherearemykeysar@festivals.miami-calendars
 DTSTAMP:20261021T041830Z
 LAST-MODIFIED:20261021T041830Z

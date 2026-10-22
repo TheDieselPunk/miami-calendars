@@ -99,7 +99,7 @@
   "slug": "zeyzey",
   "name": "ZeyZey Miami",
   "file": "zeyzey.ics",
-  "events": 61,
+  "events": 60,
   "estimated_times": 0,
   "next": "2026-10-21",
   "sources": [
@@ -130,7 +130,7 @@
   "slug": "daer",
   "name": "DAER (Hard Rock Hollywood)",
   "file": "daer.ics",
-  "events": 49,
+  "events": 50,
   "estimated_times": 0,
   "next": "2026-10-23",
   "sources": [
@@ -172,7 +172,7 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 43,
+  "events": 44,
   "estimated_times": 21,
   "next": "2026-10-23",
   "sources": [

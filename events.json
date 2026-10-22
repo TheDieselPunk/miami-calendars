@@ -205,7 +205,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "Free",
+   "price": "",
    "genres": [
     "bass",
     "electro",
@@ -1419,7 +1419,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$18.00",
+   "price": "$14.99",
    "genres": [
     "jersey club",
     "tech house",
@@ -2886,7 +2886,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "",
+   "price": "$11.35",
    "genres": [
     "k-pop",
     "dark wave",
@@ -3738,7 +3738,7 @@
    "time_estimated": false,
    "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "18+",
-   "price": "From $18",
+   "price": "From $25",
    "genres": [
     "edm",
     "hip-hop",
@@ -4860,7 +4860,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $30",
+   "price": "From $45",
    "genres": [
     "progressive house",
     "tech house"
@@ -6405,7 +6405,7 @@
   {
    "id": "dice:6abe7c7c6f21220001c6e04f",
    "source": "19hz+dice",
-   "title": "Escape Room 1 Year Anniversary",
+   "title": "Escape Room 1 Year Anniversary: DJ Taj",
    "artists": [],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
@@ -11311,6 +11311,26 @@
    ]
   },
   {
+   "id": "shotgun:art-basel-airfunk",
+   "source": "shotgun",
+   "title": "Art Basel: Airfunk - Chez Damier & More",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": "festivals",
+   "date": "2026-12-03",
+   "start": "2026-12-03T22:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$32.10",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/art-basel-airfunk"
+  },
+  {
    "id": "19hz:4450543-francismercier",
    "source": "19hz+edmtrain",
    "title": "Francis Mercier",
@@ -12624,6 +12644,27 @@
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/sam-gellaitry-darius-05-dec",
    "cancelled": false
+  },
+  {
+   "id": "hardrock:212140",
+   "source": "venue",
+   "title": "Magnate",
+   "artists": [],
+   "venue": "DAER Dayclub Afterdark",
+   "venue_slug": "daer",
+   "date": "2026-12-05",
+   "start": "2026-12-06T02:00:00+00:00",
+   "end": "2026-12-06T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "1 Seminole Way, Hollywood, FL 33314",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://tixr.com/e/212140",
+   "generic_title": false
   },
   {
    "id": "shotgun:patriarchy-deflowered-florida-tour-ft-mvtant-angel-husk",
@@ -15099,27 +15140,6 @@
    "organizer": "",
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/jam-cruise-pre-party-03-feb",
-   "cancelled": false
-  },
-  {
-   "id": "zeyzey:the-temptations-19-feb",
-   "source": "venue",
-   "title": "The Temptations",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2027-02-19",
-   "start": "2027-02-20T01:00:00+00:00",
-   "end": "2027-02-20T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/the-temptations-19-feb",
    "cancelled": false
   },
   {
