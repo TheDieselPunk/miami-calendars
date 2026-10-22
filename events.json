@@ -1,96 +1,32 @@
 {
  "events": [
   {
-   "id": "shotgun:c3trlroom-13",
-   "source": "edmtrain+shotgun",
-   "title": "Adi J, Shushu, Caroline Desiree, Diego Domenianni",
-   "artists": [
-    "ADI J",
-    "Shushu",
-    "Caroline Desiree",
-    "Diego Domenianni"
-   ],
-   "venue": "AIRE Miami",
-   "venue_slug": null,
-   "date": "2026-10-21",
-   "start": "2026-10-22T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$20.00",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/c3trlroom-13",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/adi-j-shushu-546425"
-   ]
-  },
-  {
-   "id": "shotgun:folk-punk-night-at-the-beach",
-   "source": "shotgun",
-   "title": "Folk Punk Night At The Beach",
-   "artists": [],
-   "venue": "Kill Your Idol",
-   "venue_slug": null,
-   "date": "2026-10-21",
-   "start": "2026-10-22T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$11.35",
-   "genres": [
-    "punk",
-    "folk"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/folk-punk-night-at-the-beach"
-  },
-  {
-   "id": "shotgun:madradiomiami102126",
-   "source": "19hz+shotgun",
+   "id": "19hz:4446420-werkmusicnicodoi",
+   "source": "19hz",
    "title": "Werk Music: Nico / Doin' Us / Kike Roldan",
-   "artists": [
-    "Kike Roldan"
-   ],
-   "venue": "Mad Radio Miami",
+   "artists": [],
+   "venue": "Mad Radio",
    "venue_slug": "mad-radio",
    "date": "2026-10-21",
    "start": "2026-10-22T01:00:00+00:00",
    "end": "2026-10-22T07:00:00+00:00",
    "time_estimated": false,
-   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "address": "",
    "ages": "25+",
-   "price": "Free",
+   "price": "free",
    "genres": [
     "deep house",
     "progressive house",
     "tech house"
    ],
    "genres_inferred": false,
-   "organizer": "Mad Radio Miami",
-   "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY 25+ YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
-   "url": "https://shotgun.live/en/events/madradiomiami102126",
-   "tickets": "RSVP Free",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.8462027,
-    "longitude": -80.1851332
-   },
-   "created": "2026-10-01T20:50:11.000Z",
-   "alt_urls": [
-    "https://shotgun.live/en/events/madradiomiami102126"
-   ]
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/madradiomiami102126"
   },
   {
    "id": "tablelist:dbaac38537858c48",
-   "source": "tablelist+venue",
+   "source": "tablelist",
    "title": "Pangea Sound Presents: Mezclao",
    "artists": [],
    "venue": "ZeyZey Miami",
@@ -101,17 +37,12 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "Free",
-   "genres": [
-    "dance/electronic"
-   ],
+   "price": "",
+   "genres": [],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://buy.tablelist.com/e/dbaac38537858c48",
-   "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/pangea-sound-presents-mezclao-free-entry-21-oct"
-   ]
+   "url": "https://buy.tablelist.com/e/dbaac38537858c48"
   },
   {
    "id": "19hz:4446424-jessyfriendsiban",
@@ -190,6 +121,34 @@
    "url": "https://shotgun.live/events/openhaus-2?utm_source=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/soiree-miami-artist-showcase-545554"
+   ]
+  },
+  {
+   "id": "edmtrain:546425",
+   "source": "edmtrain",
+   "title": "ADI J, Shushu, Caroline Desiree, Diego Domenianni",
+   "artists": [
+    "ADI J",
+    "Shushu",
+    "Caroline Desiree",
+    "Diego Domenianni"
+   ],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-10-21",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "111 NE 20th St, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/c3trlroom-13?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/adi-j-shushu-546425"
    ]
   },
   {
@@ -307,7 +266,7 @@
    "organizer": "The Boombox Miami",
    "description": "DON’T DREAM IT BE IT 💥 The Boombox (@theboomboxmiami) and the talent of Miami-Dade (@rockyhorrormiami) have teamed up to create THE ROCKY HORROR PARTY SHOW, a multi-medium performance piece that immerses the audience into the salacious world of this beloved queer cult classic 🪭💫 WHEN: THURSDAY Oct 22 8PM FRIDAY Oct 23 8PM/12AM WHERE: The Boombox #yatusabes WEAR: Slut or Suit no exceptions!! Checking drip and IDs (18+) at the the door 🫵 2 nights, 3 shows you can bring your co-worker with bangs to, and one wild final MIDNIGHT ride you’re not going to want to miss!! Expect live music, cabaret, cinematic projections, y más 💫 There will be flashing lights, sudden sounds, and other practical effects designed to heighten your senses. Please check the ticket info for how you can best enjoy this invento of party show 🥳 SEATS AND TICKETS LIMITED BOOTS LET UR FRIENDS KNOWW Give yourself over to absolute pleasure this October darlings when the mood takes us we’re known to be quite generous 💋 Follow @rockyhorrormiami for early tricks n’ treats and more behind the scenes looks at The Rocky Horror Party Show Project!! See you there, mon chers 💌",
    "url": "https://shotgun.live/en/events/rocky-horror-picture-show",
-   "tickets": "11:45PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME GA $30, 8PM SHOWTIME GA $30, 11:45PM SHOWTIME GA $30 (sold out), 8PM SHOWTIME GA $30 (sold out), 11:45PM SHOWTIME GA $30 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME GA $30 (sold out)",
+   "tickets": "11:45PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME EARLY BIRD $20 (sold out), 11:45PM SHOWTIME GA $30, 8PM SHOWTIME GA $30, 11:45PM SHOWTIME GA $30 (sold out), 11:45PM SHOWTIME GA $30 (sold out), 8PM SHOWTIME EARLY BIRD $20 (sold out), 8PM SHOWTIME GA $30 (sold out)",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -602,35 +561,6 @@
    ]
   },
   {
-   "id": "shotgun:supernatural-fest-4",
-   "source": "19hz+edmtrain+shotgun",
-   "title": "Supernatural Fest: The Haunted Manor",
-   "artists": [],
-   "venue": "Wilton Manors",
-   "venue_slug": null,
-   "date": "2026-10-23",
-   "start": "2026-10-24T00:30:00+00:00",
-   "end": "2026-10-24T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "18+",
-   "price": "$15.00",
-   "genres": [
-    "big room house",
-    "circuit house",
-    "tech house",
-    "tribal house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/supernatural-fest-4",
-   "alt_urls": [
-    "https://shotgun.live/en/events/supernatural-fest-4",
-    "https://edmtrain.com/fort-lauderdale-fl/supernatural-fest-the-haunted-manor-544061"
-   ]
-  },
-  {
    "id": "shotgun:indieween",
    "source": "shotgun",
    "title": "Indieween",
@@ -713,6 +643,35 @@
    "url": "https://dice.fm/event/g58mga-wassu-23rd-oct-upside-miami-tickets",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/wassu-537380"
+   ]
+  },
+  {
+   "id": "shotgun:supernatural-fest-4",
+   "source": "19hz+edmtrain+shotgun",
+   "title": "Supernatural Fest: The Haunted Manor",
+   "artists": [],
+   "venue": "Wilton Manors",
+   "venue_slug": null,
+   "date": "2026-10-23",
+   "start": "2026-10-24T01:00:00+00:00",
+   "end": "2026-10-24T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "18+",
+   "price": "$15.00",
+   "genres": [
+    "big room house",
+    "circuit house",
+    "tech house",
+    "tribal house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/supernatural-fest-4",
+   "alt_urls": [
+    "https://shotgun.live/en/events/supernatural-fest-4",
+    "https://edmtrain.com/fort-lauderdale-fl/supernatural-fest-the-haunted-manor-544061"
    ]
   },
   {
@@ -4138,6 +4097,31 @@
    ]
   },
   {
+   "id": "edmtrain:547023",
+   "source": "edmtrain",
+   "title": "DIESEL (Shaquille O'Neal)",
+   "artists": [
+    "DIESEL (Shaquille O'Neal)"
+   ],
+   "venue": "Rock Bar",
+   "venue_slug": null,
+   "date": "2026-10-30",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "219 S Fort Lauderdale Beach Blvd, Fort Lauderdale, FL 33316, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/dj-diesel-aka-shaquille-oneal-at-rock-bar?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/diesel-shaquille-oneal-547023"
+   ]
+  },
+  {
    "id": "edmtrain:543225",
    "source": "edmtrain",
    "title": "Paramida, Voigtmann, m.O.N.R.O.E.",
@@ -6065,6 +6049,32 @@
    ]
   },
   {
+   "id": "edmtrain:547027",
+   "source": "edmtrain",
+   "title": "Rex The Dog, MXGPU",
+   "artists": [
+    "Rex The Dog",
+    "MXGPU"
+   ],
+   "venue": "Sable Miami",
+   "venue_slug": null,
+   "date": "2026-11-06",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "2219 NW 2nd Ave, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/g5vqp6?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/rex-the-dog-mxgpu-547027"
+   ]
+  },
+  {
    "id": "19hz:4448011-unkommoneats",
    "source": "19hz",
    "title": "Unkommon Eats",
@@ -6212,7 +6222,7 @@
   {
    "id": "shotgun:cirqueofthedamned",
    "source": "shotgun",
-   "title": "Cirque Of The Damned/Obsidian Wicked Playground Blood Orchid",
+   "title": "Cirque Of The Damned & Goth Night",
    "artists": [],
    "venue": "Lincoln's Beard Brewing & Cocktails",
    "venue_slug": null,
@@ -7497,7 +7507,10 @@
    "source": "dice+edmtrain",
    "title": "Tre Reynolds + Ferra Black",
    "artists": [
-    "Ferra Black"
+    "Tre Reynolds",
+    "Ferra Black",
+    "Bakke",
+    "Mai Iachetti"
    ],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
@@ -7518,7 +7531,7 @@
    "url": "https://dice.fm/event/6abbd7cb208dff0001ff466c",
    "cancelled": false,
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/ferra-black-542893"
+    "https://edmtrain.com/miami-fl/tre-reynolds-ferra-black-542893"
    ]
   },
   {
@@ -8642,6 +8655,32 @@
    "url": "https://speakeasygo.com/event/EVE-IF3OZS?t=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/rockwell-533946"
+   ]
+  },
+  {
+   "id": "edmtrain:547013",
+   "source": "edmtrain",
+   "title": "Mike Nervous, Nyco Jones",
+   "artists": [
+    "Mike Nervous",
+    "Nyco Jones"
+   ],
+   "venue": "Negroni Bistro & Sushi Bar",
+   "venue_slug": null,
+   "date": "2026-11-19",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "3201 Buena Vista Blvd, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://ra.co/events/2566361",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/mike-nervous-nyco-jones-547013"
    ]
   },
   {
@@ -12332,6 +12371,31 @@
    "url": "https://ra.co/events/2513593",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/where-are-my-keys-546404"
+   ]
+  },
+  {
+   "id": "edmtrain:547012",
+   "source": "edmtrain",
+   "title": "PAWSA",
+   "artists": [
+    "PAWSA"
+   ],
+   "venue": "LIV Miami",
+   "venue_slug": null,
+   "date": "2026-12-04",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "4441 Collins Ave, Miami Beach, FL 33140, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://ticketmaster.evyy.net/c/254533/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fid%2F15050803",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/pawsa-547012"
    ]
   },
   {
