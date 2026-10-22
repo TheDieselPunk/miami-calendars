@@ -1,49 +1,6 @@
 {
  "events": [
   {
-   "id": "shotgun:elizabeth-holmes-lookalike-contest",
-   "source": "shotgun",
-   "title": "Elizabeth Holmes Lookalike Contest",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-10-21",
-   "start": "2026-10-22T00:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/elizabeth-holmes-lookalike-contest"
-  },
-  {
-   "id": "shotgun:openhaus-2",
-   "source": "edmtrain+shotgun",
-   "title": "Soirée Miami: Artist Showcase",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-10-21",
-   "start": "2026-10-22T00:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/openhaus-2",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/soiree-miami-artist-showcase-545554"
-   ]
-  },
-  {
    "id": "shotgun:c3trlroom-13",
    "source": "edmtrain+shotgun",
    "title": "Adi J, Shushu, Caroline Desiree, Diego Domenianni",
@@ -132,30 +89,6 @@
    ]
   },
   {
-   "id": "shotgun:archivium-creative-jazz-nights-by-cloud-19",
-   "source": "shotgun",
-   "title": "Archivium Creative: Jazz On Cloud 17",
-   "artists": [],
-   "venue": "The Sound Library Miami – Kava, Tea & Live Music",
-   "venue_slug": null,
-   "date": "2026-10-21",
-   "start": "2026-10-22T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$5.00",
-   "genres": [
-    "jazz",
-    "blues",
-    "brazilian"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/archivium-creative-jazz-nights-by-cloud-19"
-  },
-  {
    "id": "tablelist:dbaac38537858c48",
    "source": "tablelist+venue",
    "title": "Pangea Sound Presents: Mezclao",
@@ -170,14 +103,13 @@
    "ages": "",
    "price": "Free",
    "genres": [
-    "pop"
+    "dance/electronic"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
    "url": "https://buy.tablelist.com/e/dbaac38537858c48",
    "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/bombargo-21-oct",
     "https://calendar.zeyzeymiami.com/shows/pangea-sound-presents-mezclao-free-entry-21-oct"
    ]
   },
@@ -235,6 +167,29 @@
    "url": "https://dice.fm/event/2wnmlo-matt-sassari-21st-oct-queen-miami-beach-miami-beach-tickets",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/matt-sassari-542098"
+   ]
+  },
+  {
+   "id": "edmtrain:545554",
+   "source": "edmtrain",
+   "title": "Soirée Miami - Artist Showcase",
+   "artists": [],
+   "venue": "777 NE 79th St",
+   "venue_slug": null,
+   "date": "2026-10-21",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "777 NE 79th St, Miami, FL 33138, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/openhaus-2?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/soiree-miami-artist-showcase-545554"
    ]
   },
   {
@@ -1591,7 +1546,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$14.99",
+   "price": "$18.00",
    "genres": [
     "jersey club",
     "tech house",
@@ -2724,6 +2679,74 @@
    ]
   },
   {
+   "id": "edmtrain:546975",
+   "source": "edmtrain",
+   "title": "THRILL-O-WEEN 2026: Subfiltronik b2b 4asterisk, HAX b2b Fairydoll, jjjacksen b2b Hamwich, Sakuro b2b Def0, bass Kitty b2b Nejuko, vipr b2b Jisatsu, $krippa b2b SYLLA, LexDubs b2b Bubzie, Bjilla b2b Ramage, Yilla b2b Chao, Sugoi b2b Foe, PHANTEX b2b DREXIS, Aneuryzm b2b Redacted, EMBER b2b Raidxn, King Cope b2b Chorizma, Mihok Dubz b2b PATH, ShvneDubs b2b D3ST, Akii b2b Last Breaths, Ellie b2b Mikeythemaniac, Longing b2b Rando, Momay b2b Skooby, Herr_Dub b2b MAZI",
+   "artists": [
+    "Subfiltronik",
+    "4asterisk",
+    "HAX",
+    "Fairydoll",
+    "jjjacksen",
+    "Hamwich",
+    "Sakuro",
+    "Def0",
+    "bass Kitty",
+    "Nejuko",
+    "vipr",
+    "Jisatsu",
+    "$krippa",
+    "SYLLA",
+    "LexDubs",
+    "Bubzie",
+    "Bjilla",
+    "Ramage",
+    "Yilla",
+    "Chao",
+    "Sugoi",
+    "Foe",
+    "PHANTEX",
+    "DREXIS",
+    "Aneuryzm",
+    "Redacted",
+    "EMBER",
+    "Raidxn",
+    "King Cope",
+    "Chorizma",
+    "Mihok Dubz",
+    "PATH",
+    "ShvneDubs",
+    "D3ST",
+    "Akii",
+    "Last Breaths",
+    "Ellie",
+    "Mikeythemaniac",
+    "Longing",
+    "Rando",
+    "Momay",
+    "Skooby",
+    "Herr_Dub",
+    "MAZI"
+   ],
+   "venue": "Live Stream",
+   "venue_slug": null,
+   "date": "2026-10-27",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.phanosity.com/",
+   "alt_urls": [
+    "https://edmtrain.com/live-streams/thrill-o-ween-2026-subfiltronik-546975"
+   ]
+  },
+  {
    "id": "tablelist:303b09419bf8998a",
    "source": "tablelist+venue",
    "title": "Leon Bridges Presents: Happiness Anytime",
@@ -2907,6 +2930,29 @@
    "url": "https://dice.fm/event/pyx5bk?pid=d6342b83",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/jessy-545575"
+   ]
+  },
+  {
+   "id": "edmtrain:546976",
+   "source": "edmtrain",
+   "title": "THRILL-O-WEEN 2026",
+   "artists": [],
+   "venue": "Live Stream",
+   "venue_slug": null,
+   "date": "2026-10-28",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.phanosity.com/",
+   "alt_urls": [
+    "https://edmtrain.com/live-streams/thrill-o-ween-2026-546976"
    ]
   },
   {
@@ -3241,13 +3287,13 @@
    "time_estimated": false,
    "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
    "ages": "",
-   "price": "$23.90",
+   "price": "$35.85",
    "genres": [],
    "genres_inferred": false,
    "organizer": "The Boombox Miami",
    "description": "BOOMBOX SE7EN YEAR ANNIVERSARY Two nights. Two stages. 30+ acts. We’re celebrating 7 years of BOOMBOX with a massive Halloween weekend featuring some of Miami’s best underground sounds. With OMNI SOUND SPACE, EQUINOX BOOKING, FLORIDA GLOSS, and SAY TECH AND SMILE. OCTOBER 30 & 31 18+",
    "url": "https://shotgun.live/en/events/halloween-se-7-en",
-   "tickets": "FRIDAY OCT 30TH (SINGLE DAY PASS) - EARLY BIRD $20, 2-DAY PASS (EARLY BIRD) $30 (sold out), SATURDAY OCT 31TH (SINGLE DAY PASS) - EARLY BIRD $20 (sold out), 2-DAY PASS $40, SATURDAY OCT 31TH - SINGLE DAY PASS $30",
+   "tickets": "FRIDAY OCT 30TH (SINGLE DAY PASS) - EARLY BIRD $20 (sold out), 2-DAY PASS (EARLY BIRD) $30 (sold out), SATURDAY OCT 31TH (SINGLE DAY PASS) - EARLY BIRD $20 (sold out), FRIDAY OCT 30TH - SINGLE DAY PASS $30, 2-DAY PASS $40, SATURDAY OCT 31TH - SINGLE DAY PASS $30",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -5403,6 +5449,26 @@
    ]
   },
   {
+   "id": "shotgun:lovenote-7",
+   "source": "shotgun",
+   "title": "Love Note Ft. Miami Gay Chorus",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-11-04",
+   "start": "2026-11-05T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/lovenote-7"
+  },
+  {
    "id": "shotgun:11-04-peace-talks-pgh-at-churchills-pub",
    "source": "shotgun",
    "title": "11/04: Peace Talks (Pgh) At Churchills Pub",
@@ -7090,7 +7156,7 @@
   {
    "id": "dice:6ad760d4f2e7b00001b10371",
    "source": "19hz+dice+edmtrain+venue",
-   "title": "ZeyZey Presents: Dance Therapy Amira | MindGazm | More TBA",
+   "title": "Dance Therapy @ ZeyZey - MindGazm | Tiffany Romero B2B 717",
    "artists": [
     "Christian Löffler"
    ],
@@ -8298,6 +8364,34 @@
     "https://calendar.zeyzeymiami.com/shows/evening-elephants-15-nov",
     "https://edmtrain.com/miami-fl/club-1bd-dj-hunny-bee-517966"
    ]
+  },
+  {
+   "id": "shotgun:lilith-s-demise-and-slamwich-at-the-boombox-11-15",
+   "source": "shotgun",
+   "title": "Lilith’S Demise And Slamwich At The Boombox 11/15",
+   "artists": [],
+   "venue": "The Boombox Miami",
+   "venue_slug": "boombox",
+   "date": "2026-11-15",
+   "start": "2026-11-15T23:00:00+00:00",
+   "end": "2026-11-16T04:00:00+00:00",
+   "time_estimated": false,
+   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
+   "ages": "",
+   "price": "$17.03",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "Equinox Booking",
+   "description": "Equinox Booking Presents Lilith’s Demise Slamwich Necrotizing Nostophobia $15 adv / $20 day of 6 pm all ages",
+   "url": "https://shotgun.live/en/events/lilith-s-demise-and-slamwich-at-the-boombox-11-15",
+   "tickets": "General Admission $15",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.7287781,
+    "longitude": -80.3169309
+   },
+   "created": "2026-10-21T22:21:54.000Z"
   },
   {
    "id": "19hz:4448808-sundancewrodrigu",
@@ -10797,7 +10891,7 @@
    "venue_slug": "jolene",
    "date": "2026-11-30",
    "start": "2026-12-01T03:00:00+00:00",
-   "end": "2026-12-01T09:00:00+00:00",
+   "end": "2026-12-01T11:00:00+00:00",
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
@@ -11138,7 +11232,7 @@
    "venue_slug": "jolene",
    "date": "2026-12-02",
    "start": "2026-12-03T03:15:00+00:00",
-   "end": "2026-12-03T09:00:00+00:00",
+   "end": "2026-12-03T11:00:00+00:00",
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
@@ -11477,7 +11571,7 @@
    "venue_slug": "jolene",
    "date": "2026-12-03",
    "start": "2026-12-04T03:00:00+00:00",
-   "end": "2026-12-04T09:00:00+00:00",
+   "end": "2026-12-04T11:00:00+00:00",
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
@@ -12091,7 +12185,7 @@
    "venue_slug": "jolene",
    "date": "2026-12-04",
    "start": "2026-12-05T03:00:00+00:00",
-   "end": "2026-12-05T09:00:00+00:00",
+   "end": "2026-12-05T11:00:00+00:00",
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
@@ -12312,10 +12406,10 @@
   {
    "id": "edmtrain:546337",
    "source": "edmtrain",
-   "title": "unKommon: Adriatique, Cloonee",
+   "title": "Cloonee b2b Adriatique",
    "artists": [
-    "Adriatique",
-    "Cloonee"
+    "Cloonee",
+    "Adriatique"
    ],
    "venue": "Watson Island Park",
    "venue_slug": "festivals",
@@ -12332,7 +12426,7 @@
    "description": "",
    "url": "https://dice.fm/event/pywx7k?pid=d6342b83",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/unkommon-adriatique-546337"
+    "https://edmtrain.com/miami-fl/cloonee-adriatique-546337"
    ]
   },
   {
@@ -12654,7 +12748,7 @@
    "venue_slug": "jolene",
    "date": "2026-12-05",
    "start": "2026-12-06T03:00:00+00:00",
-   "end": "2026-12-06T09:00:00+00:00",
+   "end": "2026-12-06T11:00:00+00:00",
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
@@ -12879,7 +12973,7 @@
    "venue_slug": "jolene",
    "date": "2026-12-06",
    "start": "2026-12-07T03:00:00+00:00",
-   "end": "2026-12-07T09:00:00+00:00",
+   "end": "2026-12-07T11:00:00+00:00",
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "",

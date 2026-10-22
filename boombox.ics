@@ -109,9 +109,9 @@ GEO:25.7287781;-80.3169309
 END:VEVENT
 BEGIN:VEVENT
 UID:halloween-se-7-en@shotgun.live
-DTSTAMP:20261021T221818Z
-LAST-MODIFIED:20261021T221818Z
-SEQUENCE:2
+DTSTAMP:20261022T041828Z
+LAST-MODIFIED:20261022T041828Z
+SEQUENCE:3
 DTSTART:20261030T210000Z
 DTEND:20261101T100000Z
 SUMMARY:Halloween Se7en [ Oct 30 · 31 ]
@@ -121,10 +121,11 @@ DESCRIPTION:BOOMBOX SE7EN YEAR ANNIVERSARY Two nights. Two stages. 30+ acts
  . We’re celebrating 7 years of BOOMBOX with a massive Halloween weekend 
  featuring some of Miami’s best underground sounds. With OMNI SOUND SPACE
  \, EQUINOX BOOKING\, FLORIDA GLOSS\, and SAY TECH AND SMILE. OCTOBER 30 & 
- 31 18+\nTickets: FRIDAY OCT 30TH (SINGLE DAY PASS) - EARLY BIRD $20\, 2-DA
- Y PASS (EARLY BIRD) $30 (sold out)\, SATURDAY OCT 31TH (SINGLE DAY PASS) -
-  EARLY BIRD $20 (sold out)\, 2-DAY PASS $40\, SATURDAY OCT 31TH - SINGLE D
- AY PASS $30\nhttps://shotgun.live/en/events/halloween-se-7-en
+ 31 18+\nTickets: FRIDAY OCT 30TH (SINGLE DAY PASS) - EARLY BIRD $20 (sold 
+ out)\, 2-DAY PASS (EARLY BIRD) $30 (sold out)\, SATURDAY OCT 31TH (SINGLE 
+ DAY PASS) - EARLY BIRD $20 (sold out)\, FRIDAY OCT 30TH - SINGLE DAY PASS 
+ $30\, 2-DAY PASS $40\, SATURDAY OCT 31TH - SINGLE DAY PASS $30\nhttps://sh
+ otgun.live/en/events/halloween-se-7-en
 URL:https://shotgun.live/en/events/halloween-se-7-en
 STATUS:CONFIRMED
 GEO:25.7287781;-80.3169309
@@ -196,6 +197,25 @@ URL:https://shotgun.live/en/events/i-liedtomyself-descry-iliad-see-you-next
  -ar-boombox-11-14
 STATUS:CONFIRMED
 CATEGORIES:indie,rock
+GEO:25.7287781;-80.3169309
+END:VEVENT
+BEGIN:VEVENT
+UID:lilith-s-demise-and-slamwich-at-the-boombox-11-15@shotgun.live
+DTSTAMP:20261022T041828Z
+LAST-MODIFIED:20261022T041828Z
+SEQUENCE:0
+DTSTART:20261115T230000Z
+DTEND:20261116T040000Z
+SUMMARY:Lilith’S Demise And Slamwich At The Boombox 11/15
+LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
+ \, USA
+DESCRIPTION:Equinox Booking Presents Lilith’s Demise Slamwich Necrotizing
+  Nostophobia $15 adv / $20 day of 6 pm all ages\nPresented by: Equinox Boo
+ king\nTickets: General Admission $15\nhttps://shotgun.live/en/events/lilit
+ h-s-demise-and-slamwich-at-the-boombox-11-15
+URL:https://shotgun.live/en/events/lilith-s-demise-and-slamwich-at-the-boom
+ box-11-15
+STATUS:CONFIRMED
 GEO:25.7287781;-80.3169309
 END:VEVENT
 BEGIN:VEVENT

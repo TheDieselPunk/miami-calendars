@@ -418,17 +418,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:edmtrain-546337@festivals.miami-calendars
-DTSTAMP:20261021T041830Z
-LAST-MODIFIED:20261021T041830Z
-SEQUENCE:1
+DTSTAMP:20261022T041828Z
+LAST-MODIFIED:20261022T041828Z
+SEQUENCE:2
 DTSTART:20261205T200000Z
 DTEND:20261206T070000Z
-SUMMARY:unKommon: Adriatique\, Cloonee
+SUMMARY:Cloonee b2b Adriatique
 LOCATION:Watson Island Park\, 1050 MacArthur Cswy\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Adriatique\, Cloonee\nTimes are an estimate from Festiv
+DESCRIPTION:Lineup: Cloonee\, Adriatique\nTimes are an estimate from Festiv
  als & one-offs's usual hours - the listing has no start time yet. Check th
  e link.\nhttps://dice.fm/event/pywx7k?pid=d6342b83\nhttps://edmtrain.com/m
- iami-fl/unkommon-adriatique-546337
+ iami-fl/cloonee-adriatique-546337
 URL:https://dice.fm/event/pywx7k?pid=d6342b83
 STATUS:CONFIRMED
 END:VEVENT
