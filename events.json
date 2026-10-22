@@ -46,11 +46,9 @@
   },
   {
    "id": "19hz:4446424-jessyfriendsiban",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Jessy & Friends: Iban Mendoza, Marco Norma, Solune",
-   "artists": [
-    "Iban Mendoza"
-   ],
+   "artists": [],
    "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
    "date": "2026-10-21",
@@ -67,18 +65,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6accac6c3371dc0001526039",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/iban-mendoza-544364"
-   ]
+   "url": "https://dice.fm/event/6accac6c3371dc0001526039"
   },
   {
    "id": "19hz:4446424-mattsassari",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Matt Sassari",
-   "artists": [
-    "Matt Sassari"
-   ],
+   "artists": [],
    "venue": "Queen",
    "venue_slug": null,
    "date": "2026-10-21",
@@ -95,86 +88,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/2wnmlo-matt-sassari-21st-oct-queen-miami-beach-miami-beach-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/matt-sassari-542098"
-   ]
-  },
-  {
-   "id": "edmtrain:545554",
-   "source": "edmtrain",
-   "title": "Soirée Miami - Artist Showcase",
-   "artists": [],
-   "venue": "777 NE 79th St",
-   "venue_slug": null,
-   "date": "2026-10-21",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "777 NE 79th St, Miami, FL 33138, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/openhaus-2?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/soiree-miami-artist-showcase-545554"
-   ]
-  },
-  {
-   "id": "edmtrain:546425",
-   "source": "edmtrain",
-   "title": "ADI J, Shushu, Caroline Desiree, Diego Domenianni",
-   "artists": [
-    "ADI J",
-    "Shushu",
-    "Caroline Desiree",
-    "Diego Domenianni"
-   ],
-   "venue": "AIRE Miami",
-   "venue_slug": null,
-   "date": "2026-10-21",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "111 NE 20th St, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/c3trlroom-13?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/adi-j-shushu-546425"
-   ]
-  },
-  {
-   "id": "edmtrain:537182",
-   "source": "edmtrain",
-   "title": "DJ EU",
-   "artists": [
-    "DJ EU"
-   ],
-   "venue": "E11EVEN",
-   "venue_slug": null,
-   "date": "2026-10-21",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "29 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://speakeasygo.com/event/EVE-JOF5KE?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/dj-eu-537182"
-   ]
+   "url": "https://dice.fm/event/2wnmlo-matt-sassari-21st-oct-queen-miami-beach-miami-beach-tickets"
   },
   {
    "id": "shotgun:karaokiki1-39",
@@ -2837,6 +2751,26 @@
    ]
   },
   {
+   "id": "shotgun:miko",
+   "source": "shotgun",
+   "title": "Young Miko Concert Afterparty",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-10-28",
+   "start": "2026-10-29T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$10.00",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/miko"
+  },
+  {
    "id": "edmtrain:545981",
    "source": "edmtrain",
    "title": "ADAME, Dmeyer, Rohan Alyan, Effectum2",
@@ -4482,6 +4416,30 @@
     "https://shotgun.live/en/events/soundtuarydiadelosmuertos",
     "https://edmtrain.com/miami-fl/dia-de-los-muertos-x-lunasol-apache-544409"
    ]
+  },
+  {
+   "id": "shotgun:twisted",
+   "source": "shotgun",
+   "title": "Twisted",
+   "artists": [],
+   "venue": "Thank You Miami Cocina & Beer House",
+   "venue_slug": null,
+   "date": "2026-10-31",
+   "start": "2026-11-01T00:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$15.00",
+   "genres": [
+    "edm",
+    "dubstep",
+    "techno"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/twisted"
   },
   {
    "id": "19hz:4447380-zoey808x9b49hall",
@@ -15141,6 +15099,27 @@
    "organizer": "",
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/jam-cruise-pre-party-03-feb",
+   "cancelled": false
+  },
+  {
+   "id": "zeyzey:the-temptations-19-feb",
+   "source": "venue",
+   "title": "The Temptations",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2027-02-19",
+   "start": "2027-02-20T01:00:00+00:00",
+   "end": "2027-02-20T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/the-temptations-19-feb",
    "cancelled": false
   },
   {
