@@ -173,19 +173,20 @@ URL:https://www.effinofficial.com/pages/tour
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-545824@midline.miami-calendars
-DTSTAMP:20261018T101814Z
-LAST-MODIFIED:20261018T101814Z
+UID:19hz-4460728-djhabibeats@midline.miami-calendars
+DTSTAMP:20261023T221816Z
+LAST-MODIFIED:20261023T221816Z
 SEQUENCE:0
 DTSTART:20270320T020000Z
 DTEND:20270320T070000Z
-SUMMARY:Habibeats
-LOCATION:Midline Miami\, 2221 NW Miami Ct\, Miami\, FL 33127\, USA
-DESCRIPTION:Lineup: Habibeats\nTimes are an estimate from Midline's usual h
- ours - the listing has no start time yet. Check the link.\nhttps://www.eve
- ntbrite.com/e/1992170698186?aff=ebdimtedmtrain\nhttps://edmtrain.com/miami
- -fl/habibeats-545824
-URL:https://www.eventbrite.com/e/1992170698186?aff=ebdimtedmtrain
+SUMMARY:DJ Habibeats
+LOCATION:Midline
+DESCRIPTION:Lineup: Habibeats\nTags: house\nAges: 21+\nhttps://www.eventbri
+ te.com/e/dj-habibeats-midline-miami-tickets-1992170698186\nhttps://edmtrai
+ n.com/miami-fl/habibeats-545824
+URL:https://www.eventbrite.com/e/dj-habibeats-midline-miami-tickets-1992170
+ 698186
 STATUS:CONFIRMED
+CATEGORIES:house
 END:VEVENT
 END:VCALENDAR

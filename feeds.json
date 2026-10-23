@@ -145,7 +145,7 @@
   "slug": "jolene",
   "name": "Jolene Sound Room",
   "file": "jolene.ics",
-  "events": 21,
+  "events": 22,
   "estimated_times": 0,
   "next": "2026-10-22",
   "sources": [
@@ -161,7 +161,7 @@
   "name": "Midline",
   "file": "midline.ics",
   "events": 11,
-  "estimated_times": 2,
+  "estimated_times": 1,
   "next": "2026-10-31",
   "sources": [
    "19hz",
