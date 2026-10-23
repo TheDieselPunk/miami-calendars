@@ -75,22 +75,6 @@ STATUS:CONFIRMED
 CATEGORIES:house,pop edm
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-545796@festivals.miami-calendars
-DTSTAMP:20261018T041809Z
-LAST-MODIFIED:20261018T041809Z
-SEQUENCE:0
-DTSTART:20261030T190000Z
-DTEND:20261031T060000Z
-SUMMARY:🎃 NIGHTMARE ON WYNWOOD HALLOWEEN FESTIVAL 🎃
-LOCATION:Casa Nube Wynwood\, 2060 NW 1st Ave\, Miami\, FL 33127\, USA
-DESCRIPTION:Times are an estimate from Festivals & one-offs's usual hours -
-  the listing has no start time yet. Check the link.\nhttps://posh.vip/e/-n
- ightmare-on-wynwood-halloween-festival-?t=edmtrain\nhttps://edmtrain.com/m
- iami-fl/nightmare-on-wynwood-halloween-festival-545796
-URL:https://posh.vip/e/-nightmare-on-wynwood-halloween-festival-?t=edmtrain
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:19hz-4447279-hallorave@festivals.miami-calendars
 DTSTAMP:20260921T214009Z
 LAST-MODIFIED:20260921T214009Z
@@ -104,6 +88,21 @@ DESCRIPTION:Tags: drum and bass\, jungle\, uk bass\, uk garage\nhttps://pos
 URL:https://posh.vip/e/hallowrave-1
 STATUS:CONFIRMED
 CATEGORIES:drum and bass,jungle,uk bass,uk garage
+END:VEVENT
+BEGIN:VEVENT
+UID:19hz-4447284-nightmareonwynwo@festivals.miami-calendars
+DTSTAMP:20261023T161816Z
+LAST-MODIFIED:20261023T161816Z
+SEQUENCE:0
+DTSTART:20261031T010000Z
+DTEND:20261031T080000Z
+SUMMARY:Nightmare On Wynwood Halloween Festival
+LOCATION:Casa Nube Wynwood
+DESCRIPTION:Presented by: Miami'z Backyard\nAges: 18+\nhttps://posh.vip/e/-
+ nightmare-on-wynwood-halloween-festival-\nhttps://edmtrain.com/miami-fl/ni
+ ghtmare-on-wynwood-halloween-festival-545796
+URL:https://posh.vip/e/-nightmare-on-wynwood-halloween-festival-
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4447368-feddelegrandship@festivals.miami-calendars
@@ -221,22 +220,6 @@ STATUS:CONFIRMED
 CATEGORIES:bass music,dubstep
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-545225@festivals.miami-calendars
-DTSTAMP:20261015T041828Z
-LAST-MODIFIED:20261015T041828Z
-SEQUENCE:0
-DTSTART:20261114T200000Z
-DTEND:20261115T070000Z
-SUMMARY:Groove Cruise Miami: Anthony Attalla
-LOCATION:Upside\, 59 NW 28th St\, Miami\, FL 33127\, USA
-DESCRIPTION:Lineup: Anthony Attalla\nTimes are an estimate from Festivals &
-  one-offs's usual hours - the listing has no start time yet. Check the lin
- k.\nhttps://dice.fm/event/6dyw7b?pid=d6342b83\nhttps://edmtrain.com/miami-
- fl/groove-cruise-miami-anthony-attalla-545225
-URL:https://dice.fm/event/6dyw7b?pid=d6342b83
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:edmtrain-543177@festivals.miami-calendars
 DTSTAMP:20261007T041839Z
 LAST-MODIFIED:20261007T041839Z
@@ -337,6 +320,21 @@ URL:https://shotgun.live/en/events/guy-j-art-basel-edition-by-apex-x-the-ha
  ll
 STATUS:CONFIRMED
 CATEGORIES:progressive house,house,melodic house & techno
+END:VEVENT
+BEGIN:VEVENT
+UID:experience-incendia-art-basel@shotgun.live
+DTSTAMP:20261023T161816Z
+LAST-MODIFIED:20261023T161816Z
+SEQUENCE:0
+DTSTART:20261204T030000Z
+DTEND:20261204T080000Z
+SUMMARY:Experience Incendia: The Art Of Fire 2026
+LOCATION:Miami
+DESCRIPTION:Tags: house\, melodic house & techno\, progressive house\nhttps
+ ://shotgun.live/en/events/experience-incendia-art-basel
+URL:https://shotgun.live/en/events/experience-incendia-art-basel
+STATUS:CONFIRMED
+CATEGORIES:house,melodic house & techno,progressive house
 END:VEVENT
 BEGIN:VEVENT
 UID:edmtrain-463360@festivals.miami-calendars

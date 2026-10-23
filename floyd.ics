@@ -171,18 +171,18 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abe7eac09571500016a1283@floyd.miami-calendars
-DTSTAMP:20261001T221830Z
-LAST-MODIFIED:20261001T221830Z
-SEQUENCE:0
+DTSTAMP:20261023T161816Z
+LAST-MODIFIED:20261023T161816Z
+SEQUENCE:1
 DTSTART:20261116T040000Z
 DTEND:20261116T100000Z
 SUMMARY:Franc Fala + Aryeh
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6abe7eac095
- 71500016a1283
+DESCRIPTION:Tags: afro house\, minimal\, tech house\nAges: 21+\nhttps://dic
+ e.fm/event/6abe7eac09571500016a1283\nhttps://link.dice.fm/nov15floyd
 URL:https://dice.fm/event/6abe7eac09571500016a1283
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:afro house,minimal,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abe802c0957150001d27a61@floyd.miami-calendars

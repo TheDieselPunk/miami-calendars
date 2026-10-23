@@ -124,20 +124,20 @@ CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6acfab7319150500012f9256@jolene.miami-calendars
-DTSTAMP:20261015T041828Z
-LAST-MODIFIED:20261015T041828Z
-SEQUENCE:1
+DTSTAMP:20261023T161816Z
+LAST-MODIFIED:20261023T161816Z
+SEQUENCE:2
 DTSTART:20261107T030000Z
 DTEND:20261107T090000Z
 SUMMARY:BASHKKA
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Lineup: bashkka\, Ms. Mada\nTags (guess): house\, tech house\nh
- ttps://dice.fm/event/6acfab7319150500012f9256\nhttps://edmtrain.com/miami-
- fl/bashkka-ms-mada-545165
+DESCRIPTION:Lineup: bashkka\, Ms. Mada\nTags: ballroom\, ghetto house\, tec
+ h house\nAges: 21+\nhttps://dice.fm/event/6acfab7319150500012f9256\nhttps:
+ //edmtrain.com/miami-fl/bashkka-ms-mada-545165
 URL:https://dice.fm/event/6acfab7319150500012f9256
 STATUS:CONFIRMED
-CATEGORIES:house,tech house
+CATEGORIES:ballroom,ghetto house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ad7d9c13dafd600013f1334@jolene.miami-calendars

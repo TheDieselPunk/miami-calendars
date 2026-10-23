@@ -45,7 +45,7 @@
   "slug": "domicile",
   "name": "Domicile",
   "file": "domicile.ics",
-  "events": 8,
+  "events": 9,
   "estimated_times": 2,
   "next": "2026-10-23",
   "sources": [
@@ -174,7 +174,7 @@
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
   "events": 44,
-  "estimated_times": 21,
+  "estimated_times": 19,
   "next": "2026-10-23",
   "sources": [
    "19hz",

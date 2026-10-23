@@ -9,16 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:tablelist-b7cca09069029abe@zeyzey.miami-calendars
-DTSTAMP:20261023T101839Z
-LAST-MODIFIED:20261023T101839Z
-SEQUENCE:1
+DTSTAMP:20261023T161816Z
+LAST-MODIFIED:20261023T161816Z
+SEQUENCE:2
 DTSTART:20261022T230000Z
 DTEND:20261023T050000Z
 SUMMARY:Mashbit
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: MashBit\nTags: edm\, progressive house\nAges: 18+\nhttp
- s://buy.tablelist.com/e/b7cca09069029abe\nhttps://calendar.zeyzeymiami.com
- /shows/mashbit-22-oct\nhttps://edmtrain.com/miami-fl/mashbit-532000
+DESCRIPTION:Tags: edm\, progressive house\nAges: 18+\nhttps://buy.tablelist
+ .com/e/b7cca09069029abe\nhttps://calendar.zeyzeymiami.com/shows/mashbit-22
+ -oct
 URL:https://buy.tablelist.com/e/b7cca09069029abe
 STATUS:CONFIRMED
 CATEGORIES:edm,progressive house
@@ -471,9 +471,9 @@ CATEGORIES:indie/alternative
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-selects-donny-benet@shotgun.live
-DTSTAMP:20261023T041823Z
-LAST-MODIFIED:20261023T041823Z
-SEQUENCE:4
+DTSTAMP:20261023T161816Z
+LAST-MODIFIED:20261023T161816Z
+SEQUENCE:5
 DTSTART:20261121T233000Z
 DTEND:20261123T040000Z
 SUMMARY:Donny Benét
@@ -481,14 +481,17 @@ LOCATION:ZeyZey Miami\, 353 Northeast 61st Street\, Miami\, FL 33137\, USA
 DESCRIPTION:Donny Benét Saturday\, November 21st 2026 18+ | Zaku Stage Tic
  ket sales for this event have moved. Please visit this link to get tickets
  : https://calendar.zeyzeymiami.com/shows/donny-benet-21-nov\nLineup: Donny
-  Benét\, OTNES\nTags: electronica\, funk\, italo disco\, latin\, synthpop
- \nhttps://shotgun.live/en/events/zeyzey-selects-donny-benet\nhttps://calen
- dar.zeyzeymiami.com/shows/donny-benet-21-nov\nhttps://calendar.zeyzeymiami
- .com/shows/helado-tropical-helado-negro-reyna-tropical-21-nov\nhttps://edm
- train.com/miami-fl/under-the-disco-ball-bosq-545718
+  Benét\, OTNES\nTags: afrolatin\, disco\, electronica\, funk\, house\, it
+ alo disco\, latin\, synthpop\, tropcial\nAges: All ages\nhttps://shotgun.l
+ ive/en/events/zeyzey-selects-donny-benet\nhttps://calendar.zeyzeymiami.com
+ /shows/donny-benet-21-nov\nhttps://calendar.zeyzeymiami.com/shows/helado-t
+ ropical-helado-negro-reyna-tropical-21-nov\nhttps://calendar.zeyzeymiami.c
+ om/shows/under-the-disco-ball-ft-bosq-21-nov\nhttps://edmtrain.com/miami-f
+ l/under-the-disco-ball-bosq-545718
 URL:https://shotgun.live/en/events/zeyzey-selects-donny-benet
 STATUS:CONFIRMED
-CATEGORIES:electronica,funk,italo disco,latin,synthpop
+CATEGORIES:afrolatin,disco,electronica,funk,house,italo disco,latin,synthpo
+ p,tropcial
 GEO:25.8327924;-80.1891253
 END:VEVENT
 BEGIN:VEVENT

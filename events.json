@@ -22,11 +22,9 @@
   },
   {
    "id": "tablelist:b7cca09069029abe",
-   "source": "19hz+edmtrain+tablelist",
+   "source": "19hz+tablelist",
    "title": "Mashbit",
-   "artists": [
-    "MashBit"
-   ],
+   "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-10-22",
@@ -45,8 +43,7 @@
    "description": "",
    "url": "https://buy.tablelist.com/e/b7cca09069029abe",
    "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/mashbit-22-oct",
-    "https://edmtrain.com/miami-fl/mashbit-532000"
+    "https://calendar.zeyzeymiami.com/shows/mashbit-22-oct"
    ]
   },
   {
@@ -99,13 +96,9 @@
   },
   {
    "id": "19hz:4446516-rvcalypsodsdherm",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "R/V Calypso / Dsd / Hermanos Otamendi",
-   "artists": [
-    "R/V Calypso",
-    "DSD",
-    "Hermanos Otamendi"
-   ],
+   "artists": [],
    "venue": "Mad Radio",
    "venue_slug": "mad-radio",
    "date": "2026-10-22",
@@ -121,14 +114,11 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/madradiomiami102226",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/r-v-calypso-dsd-545619"
-   ]
+   "url": "https://shotgun.live/en/events/madradiomiami102226"
   },
   {
    "id": "19hz:4446520-secretthursdaysa",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Secret Thursdays: Alan Epps, Antonee, Effectum2, Halie, Jack Brew",
    "artists": [],
    "venue": "Do Not Sit On The Furniture",
@@ -147,10 +137,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6ac52d568b59950001d41870",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/secret-thursdays-543067"
-   ]
+   "url": "https://dice.fm/event/6ac52d568b59950001d41870"
   },
   {
    "id": "19hz:4446520-megustajessefern",
@@ -176,7 +163,7 @@
   },
   {
    "id": "19hz:4446520-hallowrave",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Hallowrave",
    "artists": [],
    "venue": "Munchie's Pizza Club",
@@ -192,10 +179,7 @@
    "genres_inferred": false,
    "organizer": "Munchie's Pizza Club",
    "description": "",
-   "url": "https://www.eventbrite.com/e/1022-hallowrave-munchies-fort-lauderdale-tickets-2002559062062",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/fort-lauderdale-hallowrave-542320"
-   ]
+   "url": "https://www.eventbrite.com/e/1022-hallowrave-munchies-fort-lauderdale-tickets-2002559062062"
   },
   {
    "id": "19hz:4446526-anuelaabillboard",
@@ -218,58 +202,6 @@
    "organizer": "",
    "description": "",
    "url": "https://www.livnightclub.com/miami/event/EVE112156200020261022/mentirosa-thursday/?ref=raco"
-  },
-  {
-   "id": "edmtrain:546565",
-   "source": "edmtrain",
-   "title": "Scratch D, Dynamix II",
-   "artists": [
-    "Scratch D",
-    "Dynamix II"
-   ],
-   "venue": "Jolt Radio",
-   "venue_slug": null,
-   "date": "2026-10-22",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "3442 NW 7th Ave, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/jolt-radio-on-the-record-scratch-d-oct22?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/scratch-d-dynamix-ii-546565"
-   ]
-  },
-  {
-   "id": "edmtrain:544042",
-   "source": "edmtrain",
-   "title": "Mama Luna, Westwood",
-   "artists": [
-    "Mama Luna",
-    "Westwood"
-   ],
-   "venue": "Treehouse Miami Beach",
-   "venue_slug": null,
-   "date": "2026-10-22",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "323 23rd St, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.etix.com/ticket/p/90334681",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/mama-luna-westwood-544042"
-   ]
   },
   {
    "id": "19hz:4446604-larsbehrenrothdv",
@@ -1396,7 +1328,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "Free w/RSVP b4 midnight ladies / $23",
+   "price": "free w/rsvp b4 midnight ladies / $23",
    "genres": [
     "deep house",
     "progressive house",
@@ -1793,7 +1725,7 @@
   {
    "id": "19hz:4446712-bizmartinez50thb",
    "source": "19hz",
-   "title": "Biz Martinez 50th Birthday: Danny Daze, rv calypso, terence tabeu, Aram�s Lorie",
+   "title": "Biz Martinez 50th Birthday: Danny Daze, rv calypso, terence tabeu, Aramfs Lorie",
    "artists": [],
    "venue": "Lion's Den at Fooqs",
    "venue_slug": null,
@@ -2825,6 +2757,36 @@
    "url": "https://shotgun.live/en/events/openhaus-3"
   },
   {
+   "id": "19hz:4447092-adamedmeyerrohan",
+   "source": "19hz+edmtrain",
+   "title": "Adame, Dmeyer, Rohan Alyan, Effectum2",
+   "artists": [
+    "ADAME",
+    "Dmeyer",
+    "Rohan Alyan",
+    "Effectum2"
+   ],
+   "venue": "Aire",
+   "venue_slug": null,
+   "date": "2026-10-28",
+   "start": "2026-10-29T01:00:00+00:00",
+   "end": "2026-10-29T07:00:00+00:00",
+   "time_estimated": false,
+   "address": "Oakland",
+   "ages": "21+",
+   "price": "Free w/RSVP b4 midnight / $20+",
+   "genres": [
+    "progressive house"
+   ],
+   "genres_inferred": false,
+   "organizer": "Pitch Park",
+   "description": "",
+   "url": "https://dice.fm/event/nvrn39-adame-dmeyer-rohan-alyan-effectum2-28th-oct-aire-miami-tickets",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/adame-dmeyer-545981"
+   ]
+  },
+  {
    "id": "shotgun:madradiomiami102826",
    "source": "19hz+shotgun",
    "title": "Le Visionêre: Jon-Paul / Dnnyl / Eighty Days / Mau Pino",
@@ -2858,6 +2820,34 @@
    ]
   },
   {
+   "id": "19hz:4447096-jessyfriendssdot",
+   "source": "19hz+edmtrain",
+   "title": "Jessy & Friends: Sdot - Ippo, Nactua X Santelises, Derek Delight, Jessy Nimni, Ani Phearce, Vadim DBR",
+   "artists": [
+    "Jessy"
+   ],
+   "venue": "Do Not Sit On The Furniture",
+   "venue_slug": null,
+   "date": "2026-10-28",
+   "start": "2026-10-29T02:00:00+00:00",
+   "end": "2026-10-29T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "Miami Beach",
+   "ages": "21+",
+   "price": "Free w/RSVP b4 midnight ladies / $18-30",
+   "genres": [
+    "progressive house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ad24cb2fb32bc000154a3ba",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/jessy-545575"
+   ]
+  },
+  {
    "id": "shotgun:miko",
    "source": "shotgun",
    "title": "Young Miko Concert Afterparty",
@@ -2876,61 +2866,6 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/miko"
-  },
-  {
-   "id": "edmtrain:545981",
-   "source": "edmtrain",
-   "title": "ADAME, Dmeyer, Rohan Alyan, Effectum2",
-   "artists": [
-    "ADAME",
-    "Dmeyer",
-    "Rohan Alyan",
-    "Effectum2"
-   ],
-   "venue": "AIRE Miami",
-   "venue_slug": null,
-   "date": "2026-10-28",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "111 NE 20th St, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/nvrn39?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/adame-dmeyer-545981"
-   ]
-  },
-  {
-   "id": "edmtrain:545575",
-   "source": "edmtrain",
-   "title": "Jessy",
-   "artists": [
-    "Jessy"
-   ],
-   "venue": "Do Not Sit On The Furniture",
-   "venue_slug": null,
-   "date": "2026-10-28",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "423 16th St, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "deep house"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/pyx5bk?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/jessy-545575"
-   ]
   },
   {
    "id": "edmtrain:546976",
@@ -3251,29 +3186,6 @@
    ]
   },
   {
-   "id": "edmtrain:545796",
-   "source": "edmtrain",
-   "title": "🎃 NIGHTMARE ON WYNWOOD HALLOWEEN FESTIVAL 🎃",
-   "artists": [],
-   "venue": "Casa Nube Wynwood",
-   "venue_slug": "festivals",
-   "date": "2026-10-30",
-   "start": "2026-10-30T19:00:00+00:00",
-   "end": "2026-10-31T06:00:00+00:00",
-   "time_estimated": true,
-   "address": "2060 NW 1st Ave, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://posh.vip/e/-nightmare-on-wynwood-halloween-festival-?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/nightmare-on-wynwood-halloween-festival-545796"
-   ]
-  },
-  {
    "id": "19hz:4447267-murderonthedance",
    "source": "19hz+edmtrain",
    "title": "Murder On The Dance Floor Halloweekend",
@@ -3456,8 +3368,31 @@
    "url": "https://www.facebook.com/events/2108266703395982/"
   },
   {
+   "id": "19hz:4447284-nightmareonwynwo",
+   "source": "19hz+edmtrain",
+   "title": "Nightmare On Wynwood Halloween Festival",
+   "artists": [],
+   "venue": "Casa Nube Wynwood",
+   "venue_slug": "festivals",
+   "date": "2026-10-30",
+   "start": "2026-10-31T01:00:00+00:00",
+   "end": "2026-10-31T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "18+",
+   "price": "$15-25",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "Miami'z Backyard",
+   "description": "",
+   "url": "https://posh.vip/e/-nightmare-on-wynwood-halloween-festival-",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/nightmare-on-wynwood-halloween-festival-545796"
+   ]
+  },
+  {
    "id": "shotgun:madradiomiami103026",
-   "source": "shotgun",
+   "source": "19hz+shotgun",
    "title": "Mutant Pete / Jovigibs / Extra Andrew",
    "artists": [],
    "venue": "Mad Radio Miami",
@@ -3467,13 +3402,12 @@
    "end": "2026-10-31T07:00:00+00:00",
    "time_estimated": false,
    "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
-   "ages": "",
+   "ages": "25+",
    "price": "$21.80",
    "genres": [
-    "deep house",
     "house"
    ],
-   "genres_inferred": true,
+   "genres_inferred": false,
    "organizer": "Mad Radio Miami",
    "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY BEFORE 10 PM / FREE ENTRY LADIES UNTIL MIDNIGHT +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
    "url": "https://shotgun.live/en/events/madradiomiami103026",
@@ -3484,7 +3418,10 @@
     "latitude": 25.8462027,
     "longitude": -80.1851332
    },
-   "created": "2026-10-14T21:34:41.000Z"
+   "created": "2026-10-14T21:34:41.000Z",
+   "alt_urls": [
+    "https://shotgun.live/en/events/madradiomiami103026"
+   ]
   },
   {
    "id": "shotgun:roderick-rules-y-2-k-myspace-night",
@@ -3741,11 +3678,9 @@
   },
   {
    "id": "shotgun:boris-oct30",
-   "source": "edmtrain+shotgun",
+   "source": "shotgun",
    "title": "Boris At Edge Halloween Weekend",
-   "artists": [
-    "Boris"
-   ],
+   "artists": [],
    "venue": "EDGE MIAMI",
    "venue_slug": null,
    "date": "2026-10-30",
@@ -3756,9 +3691,33 @@
    "ages": "",
    "price": "$20.00",
    "genres": [
-    "house",
     "tech house",
-    "techno"
+    "techno",
+    "house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/boris-oct30"
+  },
+  {
+   "id": "19hz:4447288-boris",
+   "source": "19hz+edmtrain",
+   "title": "Boris",
+   "artists": [
+    "Boris"
+   ],
+   "venue": "Edge",
+   "venue_slug": null,
+   "date": "2026-10-30",
+   "start": "2026-10-31T02:00:00+00:00",
+   "end": "2026-10-31T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "Free w/RSVP b4 midnight / $20+",
+   "genres": [
+    "tech house"
    ],
    "genres_inferred": false,
    "organizer": "",
@@ -4547,6 +4506,28 @@
    ]
   },
   {
+   "id": "19hz:4447375-gudfellahallowee",
+   "source": "19hz",
+   "title": "Gudfella Halloween",
+   "artists": [],
+   "venue": "Selva",
+   "venue_slug": null,
+   "date": "2026-10-31",
+   "start": "2026-11-01T00:00:00+00:00",
+   "end": "2026-11-01T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "$35",
+   "genres": [
+    "house"
+   ],
+   "genres_inferred": false,
+   "organizer": "Selva",
+   "description": "",
+   "url": "https://posh.vip/e/halloween-selva"
+  },
+  {
    "id": "shotgun:twisted",
    "source": "shotgun",
    "title": "Twisted",
@@ -4631,7 +4612,7 @@
   },
   {
    "id": "shotgun:madradiomiami103126",
-   "source": "shotgun",
+   "source": "19hz+shotgun",
    "title": "Underground Halloween: Shaun Reeves / John Raffaele",
    "artists": [
     "Shaun Reeves"
@@ -4643,13 +4624,14 @@
    "end": "2026-11-01T08:00:00+00:00",
    "time_estimated": false,
    "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
-   "ages": "",
+   "ages": "21+",
    "price": "$21.80",
    "genres": [
-    "deep house",
-    "house"
+    "minimal",
+    "tech house",
+    "techno"
    ],
-   "genres_inferred": true,
+   "genres_inferred": false,
    "organizer": "Mad Radio Miami",
    "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY BEFORE 10 PM / FREE ENTRY LADIES UNTIL MIDNIGHT + 25 YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
    "url": "https://shotgun.live/en/events/madradiomiami103126",
@@ -4660,7 +4642,10 @@
     "latitude": 25.8462027,
     "longitude": -80.1851332
    },
-   "created": "2026-10-14T22:02:06.000Z"
+   "created": "2026-10-14T22:02:06.000Z",
+   "alt_urls": [
+    "https://shotgun.live/en/events/madradiomiami103126"
+   ]
   },
   {
    "id": "19hz:4447384-area94halloweenw",
@@ -4771,7 +4756,7 @@
   },
   {
    "id": "shotgun:facundo-mohrr-halloween",
-   "source": "edmtrain+shotgun",
+   "source": "19hz+edmtrain+shotgun",
    "title": "Facundo Mohrr (Halloween Night)",
    "artists": [
     "Facundo Mohrr",
@@ -4782,10 +4767,10 @@
    "venue_slug": null,
    "date": "2026-10-31",
    "start": "2026-11-01T02:00:00+00:00",
-   "end": null,
+   "end": "2026-11-01T10:00:00+00:00",
    "time_estimated": false,
    "address": "",
-   "ages": "",
+   "ages": "21+",
    "price": "$20.00",
    "genres": [
     "deep house",
@@ -4797,6 +4782,7 @@
    "description": "",
    "url": "https://shotgun.live/en/events/facundo-mohrr-halloween",
    "alt_urls": [
+    "https://dice.fm/event/6dyxw8-halloween-facundo-mohrr-conosur-solune-31st-oct-edge-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/halloween-facundo-mohrr-544805"
    ]
   },
@@ -5886,8 +5872,54 @@
    ]
   },
   {
+   "id": "19hz:4447960-filthyftsethbree",
+   "source": "19hz",
+   "title": "Filthy ft Seth Breezy",
+   "artists": [],
+   "venue": "Eagle",
+   "venue_slug": null,
+   "date": "2026-11-06",
+   "start": "2026-11-07T03:00:00+00:00",
+   "end": "2026-11-07T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "Wilton Manors",
+   "ages": "21+",
+   "price": "$17.79",
+   "genres": [
+    "circuit house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/dkyqgg-filthy-ft-seth-breezy-6th-nov-eagle-wilton-manors-wilton-manors-tickets"
+  },
+  {
+   "id": "19hz:4447960-levilive",
+   "source": "19hz",
+   "title": "Levi Live",
+   "artists": [],
+   "venue": "Harbour Club",
+   "venue_slug": null,
+   "date": "2026-11-06",
+   "start": "2026-11-07T03:00:00+00:00",
+   "end": "2026-11-07T11:00:00+00:00",
+   "time_estimated": false,
+   "address": "Miami Beach",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "afro house",
+    "deep house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://ra.co/events/2562626"
+  },
+  {
    "id": "dice:6acfab7319150500012f9256",
-   "source": "dice+edmtrain",
+   "source": "19hz+dice+edmtrain",
    "title": "BASHKKA",
    "artists": [
     "bashkka",
@@ -5900,18 +5932,20 @@
    "end": "2026-11-07T09:00:00+00:00",
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
-   "ages": "",
+   "ages": "21+",
    "price": "From $10",
    "genres": [
-    "house",
+    "ballroom",
+    "ghetto house",
     "tech house"
    ],
-   "genres_inferred": true,
+   "genres_inferred": false,
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6acfab7319150500012f9256",
    "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/6acfab7319150500012f9256",
     "https://edmtrain.com/miami-fl/bashkka-ms-mada-545165"
    ]
   },
@@ -6335,6 +6369,35 @@
    "url": "https://shotgun.live/en/events/leaetherstrip-live"
   },
   {
+   "id": "19hz:4448052-shallocin",
+   "source": "19hz+edmtrain",
+   "title": "Shall Ocin",
+   "artists": [
+    "Shall Ocin"
+   ],
+   "venue": "Upside",
+   "venue_slug": null,
+   "date": "2026-11-07",
+   "start": "2026-11-08T02:00:00+00:00",
+   "end": "2026-11-08T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "free w/rsvp b4 11pm / $24",
+   "genres": [
+    "indie dance",
+    "melodic techno",
+    "progressive house"
+   ],
+   "genres_inferred": false,
+   "organizer": "Apex, Hall",
+   "description": "",
+   "url": "https://dice.fm/event/xe826k-shall-ocin-7th-nov-upside-miami-tickets",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/shall-ocin-545706"
+   ]
+  },
+  {
    "id": "shotgun:cirqueofthedamned",
    "source": "shotgun",
    "title": "Cirque Of The Damned & Goth Night",
@@ -6434,6 +6497,30 @@
    ]
   },
   {
+   "id": "19hz:4448056-shoki287",
+   "source": "19hz",
+   "title": "Shoki287",
+   "artists": [],
+   "venue": "Domicile",
+   "venue_slug": "domicile",
+   "date": "2026-11-07",
+   "start": "2026-11-08T03:00:00+00:00",
+   "end": "2026-11-08T10:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "18+",
+   "price": "$20+",
+   "genres": [
+    "hard bounce",
+    "hard dance",
+    "hard techno"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6a7e26421959cc0001c3ccc1"
+  },
+  {
    "id": "dice:6ad7d9c13dafd600013f1334",
    "source": "dice",
    "title": "DJ Fitness \"Doesn't Care at All\" Release Party",
@@ -6503,6 +6590,26 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/2wnmom-resistance-opening-party-miss-monique-7th-nov-m2-miami-miami-beach-tickets"
+  },
+  {
+   "id": "19hz:4448056-glowvember",
+   "source": "19hz",
+   "title": "Glowvember",
+   "artists": [],
+   "venue": "Munchie's Pizza Club",
+   "venue_slug": null,
+   "date": "2026-11-07",
+   "start": "2026-11-08T03:00:00+00:00",
+   "end": "2026-11-08T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "Fort Lauderdale",
+   "ages": "21+",
+   "price": "free w/rsvp b4 10pm 21+ /$7-31",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "Munchie's Pizza Club",
+   "description": "",
+   "url": "https://www.eventbrite.com/e/1107-glowvember-munchies-fort-lauderdale-tickets-2002322758271"
   },
   {
    "id": "19hz:4448056-jaypryornateashr",
@@ -6754,31 +6861,6 @@
    ]
   },
   {
-   "id": "edmtrain:545706",
-   "source": "edmtrain",
-   "title": "Shall Ocin",
-   "artists": [
-    "Shall Ocin"
-   ],
-   "venue": "Upside",
-   "venue_slug": null,
-   "date": "2026-11-07",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "59 NW 28th St, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/xe826k?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/shall-ocin-545706"
-   ]
-  },
-  {
    "id": "hardrock:205532",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -6903,6 +6985,38 @@
    ]
   },
   {
+   "id": "19hz:4448143-amiritmorecordss",
+   "source": "19hz+edmtrain",
+   "title": "A Mi Ritmo Records Showcase: Nicole Fiallo, Hickey, Izzy, Leyva, GAGH, Lazaro Casanova",
+   "artists": [
+    "Hickey",
+    "Izzy",
+    "Leyva",
+    "Nicole Fiallo",
+    "Lazaro Casanova",
+    "GAGH"
+   ],
+   "venue": "1-800-Lucky",
+   "venue_slug": null,
+   "date": "2026-11-08",
+   "start": "2026-11-09T01:00:00+00:00",
+   "end": "2026-11-09T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "free",
+   "genres": [
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/nvrkr8-a-mi-ritmo-records-showcase-8th-nov-1-800-lucky-miami-tickets",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/a-mi-ritmo-records-showcase-hickey-545964"
+   ]
+  },
+  {
    "id": "19hz:4448143-chizzle",
    "source": "19hz+edmtrain",
    "title": "Chizzle",
@@ -6957,36 +7071,6 @@
    "cancelled": false,
    "alt_urls": [
     "https://link.dice.fm/roujeeefloyd"
-   ]
-  },
-  {
-   "id": "edmtrain:545964",
-   "source": "edmtrain",
-   "title": "A Mi Ritmo Records Showcase: Hickey, Izzy, Leyva, Nicole Fiallo, Lazaro Casanova, GAGH",
-   "artists": [
-    "Hickey",
-    "Izzy",
-    "Leyva",
-    "Nicole Fiallo",
-    "Lazaro Casanova",
-    "GAGH"
-   ],
-   "venue": "1-800-Lucky",
-   "venue_slug": null,
-   "date": "2026-11-08",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "143 NW 23rd St, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/nvrkr8?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/a-mi-ritmo-records-showcase-hickey-545964"
    ]
   },
   {
@@ -7116,6 +7200,36 @@
    ]
   },
   {
+   "id": "19hz:4448527-crespo",
+   "source": "19hz+edmtrain",
+   "title": "Crespo",
+   "artists": [
+    "Crespo"
+   ],
+   "venue": "E11even",
+   "venue_slug": null,
+   "date": "2026-11-12",
+   "start": "2026-11-13T01:00:00+00:00",
+   "end": "2026-11-13T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "$23+",
+   "genres": [
+    "dubstep",
+    "electro house",
+    "pop edm",
+    "trap"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://speakeasygo.com/event/EVE-QXKA4A",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/crespo-545577"
+   ]
+  },
+  {
    "id": "dice:6acd12180a3d6400017d20c5",
    "source": "19hz+dice+edmtrain",
    "title": "4B",
@@ -7170,31 +7284,6 @@
    "url": "https://www.ticketweb.com/event/id/14363814",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/bolo-542603"
-   ]
-  },
-  {
-   "id": "edmtrain:545577",
-   "source": "edmtrain",
-   "title": "Crespo",
-   "artists": [
-    "Crespo"
-   ],
-   "venue": "E11EVEN",
-   "venue_slug": null,
-   "date": "2026-11-12",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "29 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://speakeasygo.com/event/EVE-QXKA4A?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/crespo-545577"
    ]
   },
   {
@@ -7363,7 +7452,7 @@
   },
   {
    "id": "shotgun:tres-mortimer-nov-13",
-   "source": "edmtrain+shotgun",
+   "source": "19hz+edmtrain+shotgun",
    "title": "Très Mortimer By Mints On The House",
    "artists": [
     "Très Mortimer"
@@ -7372,13 +7461,14 @@
    "venue_slug": null,
    "date": "2026-11-13",
    "start": "2026-11-14T03:00:00+00:00",
-   "end": null,
+   "end": "2026-11-14T10:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "",
    "price": "$20.00",
    "genres": [
     "house",
+    "minimal",
     "minimal house",
     "tech house"
    ],
@@ -7387,6 +7477,7 @@
    "description": "",
    "url": "https://shotgun.live/en/events/tres-mortimer-nov-13",
    "alt_urls": [
+    "https://shotgun.live/en/events/tres-mortimer-nov-13",
     "https://edmtrain.com/miami-fl/mints-on-the-house-tres-mortimer-545579"
    ]
   },
@@ -7567,6 +7658,35 @@
    ]
   },
   {
+   "id": "19hz:4448632-echonomistjakeme",
+   "source": "19hz+edmtrain",
+   "title": "Echonomist, Jake Mercer",
+   "artists": [
+    "Echonomist",
+    "Jake Mercer"
+   ],
+   "venue": "Sable",
+   "venue_slug": null,
+   "date": "2026-11-13",
+   "start": "2026-11-14T03:00:00+00:00",
+   "end": "2026-11-14T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "Free w/RSVP b4 midnight / $36",
+   "genres": [
+    "funky house",
+    "nu-disco"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/q236kx-echonomist-jake-mercer-13th-nov-sable-miami-miami-tickets",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/echonomist-jake-mercer-545198"
+   ]
+  },
+  {
    "id": "19hz:4448632-specialguests",
    "source": "19hz",
    "title": "Special Guests",
@@ -7731,32 +7851,6 @@
    ]
   },
   {
-   "id": "edmtrain:545198",
-   "source": "edmtrain",
-   "title": "Echonomist, Jake Mercer",
-   "artists": [
-    "Echonomist",
-    "Jake Mercer"
-   ],
-   "venue": "Sable Miami",
-   "venue_slug": null,
-   "date": "2026-11-13",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "2219 NW 2nd Ave, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/q236kx?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/echonomist-jake-mercer-545198"
-   ]
-  },
-  {
    "id": "hardrock:205535",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -7880,31 +7974,6 @@
    "cancelled": false
   },
   {
-   "id": "edmtrain:545225",
-   "source": "edmtrain",
-   "title": "Groove Cruise Miami: Anthony Attalla",
-   "artists": [
-    "Anthony Attalla"
-   ],
-   "venue": "Upside",
-   "venue_slug": "festivals",
-   "date": "2026-11-14",
-   "start": "2026-11-14T20:00:00+00:00",
-   "end": "2026-11-15T07:00:00+00:00",
-   "time_estimated": true,
-   "address": "59 NW 28th St, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6dyw7b?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/groove-cruise-miami-anthony-attalla-545225"
-   ]
-  },
-  {
    "id": "shotgun:i-liedtomyself-descry-iliad-see-you-next-ar-boombox-11-14",
    "source": "shotgun",
    "title": "I.Liedtomyself, Descry, Iliad, See You Next Ar Boombox 11/14",
@@ -7956,6 +8025,35 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/blu-and-nickelus-f-live-in-miami"
+  },
+  {
+   "id": "19hz:4448724-anthonyattalla",
+   "source": "19hz+edmtrain",
+   "title": "Anthony Attalla",
+   "artists": [
+    "Anthony Attalla"
+   ],
+   "venue": "Upside",
+   "venue_slug": null,
+   "date": "2026-11-14",
+   "start": "2026-11-15T02:00:00+00:00",
+   "end": "2026-11-15T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "free w/rsvp b4 11pm / $24",
+   "genres": [
+    "deep house",
+    "progressive house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "Apex",
+   "description": "",
+   "url": "https://dice.fm/event/6dyw7b-anthony-attalla-navigate-to-groove-cruise-miami-14th-nov-upside-miami-tickets",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/groove-cruise-miami-anthony-attalla-545225"
+   ]
   },
   {
    "id": "hardrock:206002",
@@ -8162,6 +8260,36 @@
    ]
   },
   {
+   "id": "19hz:4448728-henrikschwarzliv",
+   "source": "19hz+edmtrain",
+   "title": "Henrik Schwarz (Live) + Inbal",
+   "artists": [
+    "Henrik Schwarz",
+    "Inbal"
+   ],
+   "venue": "Sable",
+   "venue_slug": null,
+   "date": "2026-11-14",
+   "start": "2026-11-15T03:00:00+00:00",
+   "end": "2026-11-15T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "Free w/RSVP b4 midnight / $30",
+   "genres": [
+    "deep house",
+    "tech house",
+    "techno"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/oemnlg-henrik-schwarz-live-inbal-14th-nov-sable-miami-miami-tickets",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/henrik-schwarz-inbal-544845"
+   ]
+  },
+  {
    "id": "dice:6aac10c51773540001e4c41f",
    "source": "19hz+dice+edmtrain",
    "title": "Carl Cox + Carlita",
@@ -8343,6 +8471,35 @@
    ]
   },
   {
+   "id": "19hz:4448734-solardo",
+   "source": "19hz+edmtrain",
+   "title": "Solardo",
+   "artists": [
+    "Solardo"
+   ],
+   "venue": "Selva",
+   "venue_slug": null,
+   "date": "2026-11-14",
+   "start": "2026-11-15T04:30:00+00:00",
+   "end": "2026-11-15T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "$45",
+   "genres": [
+    "funky house",
+    "jackin house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "Selva",
+   "description": "",
+   "url": "https://posh.vip/e/solardo-selva",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/solardo-545200"
+   ]
+  },
+  {
    "id": "edmtrain:546515",
    "source": "edmtrain",
    "title": "Rodrigo Vieira, Dmeyer",
@@ -8366,57 +8523,6 @@
    "url": "https://posh.vip/e/komashov-rodrigo-vieira-dmeyer-rye-tiffany-romero?t=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/rodrigo-vieira-dmeyer-546515"
-   ]
-  },
-  {
-   "id": "edmtrain:544845",
-   "source": "edmtrain",
-   "title": "Henrik Schwarz, Inbal",
-   "artists": [
-    "Henrik Schwarz",
-    "Inbal"
-   ],
-   "venue": "Sable Miami",
-   "venue_slug": null,
-   "date": "2026-11-14",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "2219 NW 2nd Ave, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/oemnlg?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/henrik-schwarz-inbal-544845"
-   ]
-  },
-  {
-   "id": "edmtrain:545200",
-   "source": "edmtrain",
-   "title": "Solardo",
-   "artists": [
-    "Solardo"
-   ],
-   "venue": "Selva Miami",
-   "venue_slug": null,
-   "date": "2026-11-14",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "800 Brickell Ave, Miami, FL 33131, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://posh.vip/e/solardo-selva?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/solardo-545200"
    ]
   },
   {
@@ -8574,7 +8680,7 @@
   },
   {
    "id": "dice:6abe7eac09571500016a1283",
-   "source": "dice",
+   "source": "19hz+dice",
    "title": "Franc Fala + Aryeh",
    "artists": [],
    "venue": "Floyd Miami",
@@ -8584,17 +8690,21 @@
    "end": "2026-11-16T10:00:00+00:00",
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
+   "ages": "21+",
    "price": "From $15",
    "genres": [
-    "house",
-    "techno"
+    "afro house",
+    "minimal",
+    "tech house"
    ],
-   "genres_inferred": true,
+   "genres_inferred": false,
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6abe7eac09571500016a1283",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://link.dice.fm/nov15floyd"
+   ]
   },
   {
    "id": "edmtrain:543314",
@@ -9021,6 +9131,34 @@
    "url": "https://shotgun.live/en/events/miguel-bastida-something-chill-nov-20"
   },
   {
+   "id": "19hz:4449304-guyscheiman",
+   "source": "19hz+edmtrain",
+   "title": "Guy Scheiman",
+   "artists": [
+    "Guy Scheiman"
+   ],
+   "venue": "Eagle",
+   "venue_slug": null,
+   "date": "2026-11-20",
+   "start": "2026-11-21T03:00:00+00:00",
+   "end": "2026-11-21T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "Wilton Manors",
+   "ages": "21+",
+   "price": "$17.79",
+   "genres": [
+    "circuit house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/oemv2y-decadent-ft-guy-scheiman-20th-nov-eagle-wilton-manors-wilton-manors-tickets",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/guy-scheiman-545838"
+   ]
+  },
+  {
    "id": "dice:6a9840d31cfa4500010544f6",
    "source": "19hz+dice+edmtrain",
    "title": "RONI SIZE",
@@ -9180,31 +9318,6 @@
    "cancelled": false
   },
   {
-   "id": "edmtrain:545838",
-   "source": "edmtrain",
-   "title": "Guy Scheiman",
-   "artists": [
-    "Guy Scheiman"
-   ],
-   "venue": "Eagle Wilton Manors",
-   "venue_slug": null,
-   "date": "2026-11-20",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "2209 Wilton Dr, Wilton Manors, FL 33305, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/oemv2y?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/guy-scheiman-545838"
-   ]
-  },
-  {
    "id": "edmtrain:537634",
    "source": "edmtrain",
    "title": "Broadway Rave",
@@ -9337,7 +9450,7 @@
   },
   {
    "id": "shotgun:zeyzey-selects-donny-benet",
-   "source": "edmtrain+shotgun+venue",
+   "source": "19hz+edmtrain+shotgun+venue",
    "title": "Donny Benét",
    "artists": [
     "Donny Benét",
@@ -9350,14 +9463,18 @@
    "end": "2026-11-23T04:00:00+00:00",
    "time_estimated": false,
    "address": "353 Northeast 61st Street, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
+   "ages": "All ages",
+   "price": "Free",
    "genres": [
+    "afrolatin",
+    "disco",
     "electronica",
     "funk",
+    "house",
     "italo disco",
     "latin",
-    "synthpop"
+    "synthpop",
+    "tropcial"
    ],
    "genres_inferred": false,
    "organizer": "ZeyZey",
@@ -9374,6 +9491,8 @@
    "alt_urls": [
     "https://calendar.zeyzeymiami.com/shows/donny-benet-21-nov",
     "https://calendar.zeyzeymiami.com/shows/helado-tropical-helado-negro-reyna-tropical-21-nov",
+    "https://calendar.zeyzeymiami.com/shows/under-the-disco-ball-ft-bosq-21-nov",
+    "https://calendar.zeyzeymiami.com/shows/under-the-disco-ball-ft-bosq-21-nov",
     "https://edmtrain.com/miami-fl/under-the-disco-ball-bosq-545718"
    ]
   },
@@ -9594,6 +9713,29 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/notd-vhs-543166"
    ]
+  },
+  {
+   "id": "19hz:4449400-deerjadeiamyoush",
+   "source": "19hz",
+   "title": "Deer Jade: I Am You Showcase",
+   "artists": [],
+   "venue": "Sable",
+   "venue_slug": null,
+   "date": "2026-11-21",
+   "start": "2026-11-22T03:00:00+00:00",
+   "end": "2026-11-22T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "Free w/RSVP b4 midnight / $36",
+   "genres": [
+    "deep house",
+    "playa tech"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/av8q62-deer-jade-i-am-you-showcase-21st-nov-sable-miami-miami-tickets"
   },
   {
    "id": "dice:6ac69100272a2a00015116c5",
@@ -11874,6 +12016,30 @@
    "url": "https://shotgun.live/en/events/guy-j-art-basel-edition-by-apex-x-the-hall"
   },
   {
+   "id": "shotgun:experience-incendia-art-basel",
+   "source": "shotgun",
+   "title": "Experience Incendia: The Art Of Fire 2026",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": "festivals",
+   "date": "2026-12-03",
+   "start": "2026-12-04T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$45.00",
+   "genres": [
+    "house",
+    "melodic house & techno",
+    "progressive house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/experience-incendia-art-basel"
+  },
+  {
    "id": "dice:6aa05356c1a81a000145fda3",
    "source": "19hz+dice+edmtrain",
    "title": "Paradise (Space Basel 2026)",
@@ -13213,7 +13379,16 @@
    "id": "dice:6ab5a8633fd3b20001e06e58",
    "source": "19hz+dice+edmtrain",
    "title": "Factory Basel 2026 (Sunday Pass)",
-   "artists": [],
+   "artists": [
+    "LP Giobbi",
+    "Eats Everything",
+    "Bastian Bux",
+    "Paco Osuna",
+    "Luna Mar",
+    "Monty Kiddo",
+    "Clüb De Combat",
+    "Discip"
+   ],
    "venue": "Factory Town",
    "venue_slug": "factory-town",
    "date": "2026-12-06",
@@ -13234,7 +13409,7 @@
    "cancelled": false,
    "alt_urls": [
     "https://dice.fm/event/6ab5a8633fd3b20001e06e58",
-    "https://edmtrain.com/miami-fl/elrow-540242"
+    "https://edmtrain.com/miami-fl/elrow-bhutarah-lp-giobbi-540242"
    ]
   },
   {

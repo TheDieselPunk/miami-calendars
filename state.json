@@ -1,8 +1,8 @@
 {
  "19hz-4446516-rvcalypsodsdherm@mad-radio.miami-calendars": {
-  "hash": "69d2c17ce079e349",
-  "seq": 0,
-  "modified": "2026-10-23T10:18:39+00:00"
+  "hash": "d2d3da8eaf0a46f0",
+  "seq": 1,
+  "modified": "2026-10-23T16:18:16+00:00"
  },
  "19hz-4446520-megustajessefern@jolene.miami-calendars": {
   "hash": "2d25be6dd6f15573",
@@ -33,6 +33,11 @@
   "hash": "14eabc2682d075bc",
   "seq": 0,
   "modified": "2026-09-21T21:40:09+00:00"
+ },
+ "19hz-4447284-nightmareonwynwo@festivals.miami-calendars": {
+  "hash": "0223b66a0ff3aca1",
+  "seq": 0,
+  "modified": "2026-10-23T16:18:16+00:00"
  },
  "19hz-4447288-clawzgiohcecatoj@domicile.miami-calendars": {
   "hash": "3809676cd5cccba2",
@@ -73,6 +78,11 @@
   "hash": "2ac4756444b83cff",
   "seq": 0,
   "modified": "2026-10-17T16:18:17+00:00"
+ },
+ "19hz-4448056-shoki287@domicile.miami-calendars": {
+  "hash": "a7e6da00c4f5df12",
+  "seq": 0,
+  "modified": "2026-10-23T16:18:16+00:00"
  },
  "19hz-4448695-sacredmeadowsart@festivals.miami-calendars": {
   "hash": "1b0dddd103dff7b5",
@@ -550,9 +560,9 @@
   "modified": "2026-10-04T22:18:19+00:00"
  },
  "dice-6ab5a8633fd3b20001e06e58@factory-town.miami-calendars": {
-  "hash": "c7284ce079fb5a8e",
-  "seq": 2,
-  "modified": "2026-10-08T22:19:12+00:00"
+  "hash": "0ce8e6b9b76e494b",
+  "seq": 3,
+  "modified": "2026-10-23T16:18:16+00:00"
  },
  "dice-6aba864e4479fc0001853144@floyd.miami-calendars": {
   "hash": "0f3a547e6dc84cef",
@@ -625,9 +635,9 @@
   "modified": "2026-10-01T22:18:30+00:00"
  },
  "dice-6abe7eac09571500016a1283@floyd.miami-calendars": {
-  "hash": "0b4a64c4a3e5587c",
-  "seq": 0,
-  "modified": "2026-10-01T22:18:30+00:00"
+  "hash": "a7677874cd560db1",
+  "seq": 1,
+  "modified": "2026-10-23T16:18:16+00:00"
  },
  "dice-6abe802c0957150001d27a61@floyd.miami-calendars": {
   "hash": "96867347bce685f7",
@@ -735,9 +745,9 @@
   "modified": "2026-10-14T04:18:26+00:00"
  },
  "dice-6acfab7319150500012f9256@jolene.miami-calendars": {
-  "hash": "49622096becdedba",
-  "seq": 1,
-  "modified": "2026-10-15T04:18:28+00:00"
+  "hash": "479917b84a4cc6b0",
+  "seq": 2,
+  "modified": "2026-10-23T16:18:16+00:00"
  },
  "dice-6acfb3f29caad40001f10842@kemistry.miami-calendars": {
   "hash": "ce3154e5f3c5ad99",
@@ -864,16 +874,6 @@
   "seq": 0,
   "modified": "2026-10-13T22:18:25+00:00"
  },
- "edmtrain-545225@festivals.miami-calendars": {
-  "hash": "977dee575d3a8f45",
-  "seq": 0,
-  "modified": "2026-10-15T04:18:28+00:00"
- },
- "edmtrain-545796@festivals.miami-calendars": {
-  "hash": "f05f64b1425bd243",
-  "seq": 0,
-  "modified": "2026-10-18T04:18:09+00:00"
- },
  "edmtrain-545824@midline.miami-calendars": {
   "hash": "a8ec66e8b72ffe61",
   "seq": 0,
@@ -903,6 +903,11 @@
   "hash": "c96fc49296a967fc",
   "seq": 0,
   "modified": "2026-10-19T16:18:24+00:00"
+ },
+ "experience-incendia-art-basel@shotgun.live": {
+  "hash": "1ebaba67d0a689d0",
+  "seq": 0,
+  "modified": "2026-10-23T16:18:16+00:00"
  },
  "flowers-for-persephone-told-not-to-worry-at-boombox-11-19@shotgun.live": {
   "hash": "82f301ab36c78436",
@@ -1215,14 +1220,14 @@
   "modified": "2026-10-17T16:18:17+00:00"
  },
  "madradiomiami103026@shotgun.live": {
-  "hash": "82fbc5f0eb70d26f",
-  "seq": 0,
-  "modified": "2026-10-14T22:18:30+00:00"
+  "hash": "baead94d5c046ce9",
+  "seq": 1,
+  "modified": "2026-10-23T16:18:16+00:00"
  },
  "madradiomiami103126@shotgun.live": {
-  "hash": "b856a116cd516b4a",
-  "seq": 1,
-  "modified": "2026-10-15T04:18:28+00:00"
+  "hash": "35955f40aedea972",
+  "seq": 2,
+  "modified": "2026-10-23T16:18:16+00:00"
  },
  "murder-at-the-disco-box@shotgun.live": {
   "hash": "7d5dcb66aa49265d",
@@ -1270,9 +1275,9 @@
   "modified": "2026-10-01T04:18:24+00:00"
  },
  "tablelist-b7cca09069029abe@zeyzey.miami-calendars": {
-  "hash": "0478cf5046c0715a",
-  "seq": 1,
-  "modified": "2026-10-23T10:18:39+00:00"
+  "hash": "fa14ed4140fe3c4d",
+  "seq": 2,
+  "modified": "2026-10-23T16:18:16+00:00"
  },
  "tablelist-cb59f6b1c057040a@zeyzey.miami-calendars": {
   "hash": "436543e0b4348487",
@@ -1480,9 +1485,9 @@
   "modified": "2026-10-20T22:18:22+00:00"
  },
  "zeyzey-selects-donny-benet@shotgun.live": {
-  "hash": "45dadf7bbb5a8373",
-  "seq": 4,
-  "modified": "2026-10-23T04:18:23+00:00"
+  "hash": "37495d372a17846d",
+  "seq": 5,
+  "modified": "2026-10-23T16:18:16+00:00"
  },
  "zeyzey-sg-lewis-02-dec@zeyzey.miami-calendars": {
   "hash": "9aa1c73c8ed45ffb",
