@@ -1,4 +1,14 @@
 {
+ "19hz-4446516-rvcalypsodsdherm@mad-radio.miami-calendars": {
+  "hash": "69d2c17ce079e349",
+  "seq": 0,
+  "modified": "2026-10-23T10:18:39+00:00"
+ },
+ "19hz-4446520-megustajessefern@jolene.miami-calendars": {
+  "hash": "2d25be6dd6f15573",
+  "seq": 0,
+  "modified": "2026-10-23T10:18:39+00:00"
+ },
  "19hz-4446616-hedoncarlaschmit@domicile.miami-calendars": {
   "hash": "0cdb278940b29b51",
   "seq": 0,
@@ -489,11 +499,6 @@
   "seq": 5,
   "modified": "2026-10-01T22:18:30+00:00"
  },
- "dice-6ab179c76d5a1f0001669601@kemistry.miami-calendars": {
-  "hash": "f6e5d2b493bb392a",
-  "seq": 1,
-  "modified": "2026-09-22T00:40:38+00:00"
- },
  "dice-6ab17e0bf1fdd8000191620e@club-space.miami-calendars": {
   "hash": "2f151be5f0d8ed64",
   "seq": 3,
@@ -662,11 +667,6 @@
  "dice-6ac66d60ede61600010d1cba@club-space.miami-calendars": {
   "hash": "80c722c5865f8a69",
   "seq": 2,
-  "modified": "2026-10-17T16:18:17+00:00"
- },
- "dice-6ac67e9f19d9030001b0b3ea@jolene.miami-calendars": {
-  "hash": "df85ceb8dfb84f81",
-  "seq": 1,
   "modified": "2026-10-17T16:18:17+00:00"
  },
  "dice-6ac681e6ede6160001275006@club-space.miami-calendars": {
@@ -893,6 +893,11 @@
   "hash": "21cca9ff1d9623d1",
   "seq": 0,
   "modified": "2026-10-21T04:18:30+00:00"
+ },
+ "edmtrain-547346@domicile.miami-calendars": {
+  "hash": "fd1c935cd755579c",
+  "seq": 0,
+  "modified": "2026-10-23T10:18:39+00:00"
  },
  "equinox-fest-4-day-2-3-november-21-22nd@shotgun.live": {
   "hash": "c96fc49296a967fc",
@@ -1189,11 +1194,6 @@
   "seq": 0,
   "modified": "2026-10-22T04:18:28+00:00"
  },
- "madradiomiami102226@shotgun.live": {
-  "hash": "23081aeff06f5a4b",
-  "seq": 2,
-  "modified": "2026-10-17T16:18:17+00:00"
- },
  "madradiomiami102326@shotgun.live": {
   "hash": "237b4005631d5c2c",
   "seq": 1,
@@ -1235,9 +1235,9 @@
   "modified": "2026-09-28T04:18:01+00:00"
  },
  "rocky-horror-picture-show@shotgun.live": {
-  "hash": "73d441432b481162",
-  "seq": 16,
-  "modified": "2026-10-23T04:18:23+00:00"
+  "hash": "fc2e228fa40da105",
+  "seq": 17,
+  "modified": "2026-10-23T10:18:39+00:00"
  },
  "sammy-jackie-clarke-dj-set-with-special-guest-valery-karbia@shotgun.live": {
   "hash": "fa49d6001edf108c",
@@ -1270,9 +1270,9 @@
   "modified": "2026-10-01T04:18:24+00:00"
  },
  "tablelist-b7cca09069029abe@zeyzey.miami-calendars": {
-  "hash": "0befa1316cfe6ed1",
-  "seq": 0,
-  "modified": "2026-10-01T04:18:24+00:00"
+  "hash": "0478cf5046c0715a",
+  "seq": 1,
+  "modified": "2026-10-23T10:18:39+00:00"
  },
  "tablelist-cb59f6b1c057040a@zeyzey.miami-calendars": {
   "hash": "436543e0b4348487",

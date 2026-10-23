@@ -125,4 +125,21 @@ URL:https://dice.fm/event/532bql?pid=d6342b83
 STATUS:CONFIRMED
 CATEGORIES:techno
 END:VEVENT
+BEGIN:VEVENT
+UID:edmtrain-547346@domicile.miami-calendars
+DTSTAMP:20261023T101839Z
+LAST-MODIFIED:20261023T101839Z
+SEQUENCE:0
+DTSTART:20261206T030000Z
+DTEND:20261206T100000Z
+SUMMARY:Domicile Presents: hhunter\, Ultrathem
+LOCATION:Domicile Miami\, 2900 NW 7th Ave\, Miami\, FL 33127\, USA
+DESCRIPTION:Lineup: hhunter\, Ultrathem\nTags (guess): techno\nTimes are an
+  estimate from Domicile's usual hours - the listing has no start time yet.
+  Check the link.\nhttps://dice.fm/event/q23lly?pid=d6342b83\nhttps://edmtr
+ ain.com/miami-fl/domicile-presents-hhunter-547346
+URL:https://dice.fm/event/q23lly?pid=d6342b83
+STATUS:CONFIRMED
+CATEGORIES:techno
+END:VEVENT
 END:VCALENDAR

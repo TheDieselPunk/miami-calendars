@@ -8,26 +8,20 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:madradiomiami102226@shotgun.live
-DTSTAMP:20261017T161817Z
-LAST-MODIFIED:20261017T161817Z
-SEQUENCE:2
+UID:19hz-4446516-rvcalypsodsdherm@mad-radio.miami-calendars
+DTSTAMP:20261023T101839Z
+LAST-MODIFIED:20261023T101839Z
+SEQUENCE:0
 DTSTART:20261023T010000Z
 DTEND:20261023T070000Z
 SUMMARY:R/V Calypso / Dsd / Hermanos Otamendi
-LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
-DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
- ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
-  our slick radio show serving up the latest tracks. Save the date and cath
-  the urban-chic experience at Mad Radio Miami. See you on the dance floor!
-  Come early\, stay late\, and let the night unfold FREE ENTRY +25 YEARS OL
- D HAPPY HOUR 5 PM - 9 PM"\nLineup: R/V Calypso\, DSD\, Hermanos Otamendi\n
- Tags: house\nTickets: RSVP Free\nAges: 25+\nhttps://shotgun.live/en/events
- /madradiomiami102226\nhttps://edmtrain.com/miami-fl/r-v-calypso-dsd-545619
+LOCATION:Mad Radio
+DESCRIPTION:Lineup: R/V Calypso\, DSD\, Hermanos Otamendi\nTags: house\nAge
+ s: 25+\nhttps://shotgun.live/en/events/madradiomiami102226\nhttps://edmtra
+ in.com/miami-fl/r-v-calypso-dsd-545619
 URL:https://shotgun.live/en/events/madradiomiami102226
 STATUS:CONFIRMED
 CATEGORIES:house
-GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami102326@shotgun.live

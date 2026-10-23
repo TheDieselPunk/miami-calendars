@@ -45,8 +45,8 @@
   "slug": "domicile",
   "name": "Domicile",
   "file": "domicile.ics",
-  "events": 7,
-  "estimated_times": 1,
+  "events": 8,
+  "estimated_times": 2,
   "next": "2026-10-23",
   "sources": [
    "19hz",
@@ -72,9 +72,9 @@
   "slug": "kemistry",
   "name": "Kemistry (Fort Lauderdale)",
   "file": "kemistry.ics",
-  "events": 25,
+  "events": 24,
   "estimated_times": 0,
-  "next": "2026-10-22",
+  "next": "2026-10-23",
   "sources": [
    "19hz",
    "dice",
