@@ -8,21 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4446420-werkmusicnicodoi@mad-radio.miami-calendars
-DTSTAMP:20261022T101822Z
-LAST-MODIFIED:20261022T101822Z
-SEQUENCE:0
-DTSTART:20261022T010000Z
-DTEND:20261022T070000Z
-SUMMARY:Werk Music: Nico / Doin' Us / Kike Roldan
-LOCATION:Mad Radio
-DESCRIPTION:Tags: deep house\, progressive house\, tech house\nAges: 25+\nh
- ttps://shotgun.live/en/events/madradiomiami102126
-URL:https://shotgun.live/en/events/madradiomiami102126
-STATUS:CONFIRMED
-CATEGORIES:deep house,progressive house,tech house
-END:VEVENT
-BEGIN:VEVENT
 UID:madradiomiami102226@shotgun.live
 DTSTAMP:20261017T161817Z
 LAST-MODIFIED:20261017T161817Z

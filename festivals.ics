@@ -9,18 +9,18 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:wing@shotgun.live
-DTSTAMP:20261017T161817Z
-LAST-MODIFIED:20261017T161817Z
-SEQUENCE:0
+DTSTAMP:20261023T041823Z
+LAST-MODIFIED:20261023T041823Z
+SEQUENCE:1
 DTSTART:20261024T020000Z
-DTEND:20261024T070000Z
+DTEND:20261024T080000Z
 SUMMARY:The Wing Dimension
 LOCATION:Miami
-DESCRIPTION:Tags: techno\, jersey club\, rap\nhttps://shotgun.live/en/event
- s/wing
+DESCRIPTION:Tags: hip-hop\, hyperpop\, jersey club\, rap\, reggaeton\, tech
+ no\nhttps://shotgun.live/en/events/wing
 URL:https://shotgun.live/en/events/wing
 STATUS:CONFIRMED
-CATEGORIES:techno,jersey club,rap
+CATEGORIES:hip-hop,hyperpop,jersey club,rap,reggaeton,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:karnival-halloween-party-horror-games-18-rave@shotgun.live

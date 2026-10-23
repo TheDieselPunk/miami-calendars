@@ -8,19 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:tablelist-dbaac38537858c48@zeyzey.miami-calendars
-DTSTAMP:20261022T101822Z
-LAST-MODIFIED:20261022T101822Z
-SEQUENCE:2
-DTSTART:20261022T010000Z
-DTEND:20261022T050000Z
-SUMMARY:Pangea Sound Presents: Mezclao
-LOCATION:ZeyZey Miami
-DESCRIPTION:https://buy.tablelist.com/e/dbaac38537858c48
-URL:https://buy.tablelist.com/e/dbaac38537858c48
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:tablelist-b7cca09069029abe@zeyzey.miami-calendars
 DTSTAMP:20261001T041824Z
 LAST-MODIFIED:20261001T041824Z
@@ -308,16 +295,17 @@ CATEGORIES:downtempo,electro,idm,synthpop
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ac015bea7ef55000125063f@zeyzey.miami-calendars
-DTSTAMP:20261003T221823Z
-LAST-MODIFIED:20261003T221823Z
-SEQUENCE:0
+DTSTAMP:20261023T041823Z
+LAST-MODIFIED:20261023T041823Z
+SEQUENCE:1
 DTSTART:20261108T000000Z
 DTEND:20261108T090000Z
 SUMMARY:CASA WHISPERS x MTRNM Present: Dia De Los Muertos - Zey Zey\, Miami
 LOCATION:ZeyZey\, 353 Northeast 61st Street\, Miami\, Florida 33137\, Unite
  d States
 DESCRIPTION:Tags: jazz\nhttps://dice.fm/event/6ac015bea7ef55000125063f\nhtt
- ps://calendar.zeyzeymiami.com/shows/dana-and-alden-07-nov
+ ps://calendar.zeyzeymiami.com/shows/casa-whispers-dia-de-muertos-07-nov\nh
+ ttps://calendar.zeyzeymiami.com/shows/dana-and-alden-07-nov
 URL:https://dice.fm/event/6ac015bea7ef55000125063f
 STATUS:CONFIRMED
 CATEGORIES:jazz
@@ -484,9 +472,9 @@ CATEGORIES:indie/alternative
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-selects-donny-benet@shotgun.live
-DTSTAMP:20261017T041822Z
-LAST-MODIFIED:20261017T041822Z
-SEQUENCE:3
+DTSTAMP:20261023T041823Z
+LAST-MODIFIED:20261023T041823Z
+SEQUENCE:4
 DTSTART:20261121T233000Z
 DTEND:20261123T040000Z
 SUMMARY:Donny Benét
@@ -497,9 +485,8 @@ DESCRIPTION:Donny Benét Saturday\, November 21st 2026 18+ | Zaku Stage Tic
   Benét\, OTNES\nTags: electronica\, funk\, italo disco\, latin\, synthpop
  \nhttps://shotgun.live/en/events/zeyzey-selects-donny-benet\nhttps://calen
  dar.zeyzeymiami.com/shows/donny-benet-21-nov\nhttps://calendar.zeyzeymiami
- .com/shows/helado-tropical-helado-negro-reyna-tropical-21-nov\nhttps://cal
- endar.zeyzeymiami.com/shows/under-the-disco-ball-ft-bosq-21-nov\nhttps://e
- dmtrain.com/miami-fl/under-the-disco-ball-bosq-545718
+ .com/shows/helado-tropical-helado-negro-reyna-tropical-21-nov\nhttps://edm
+ train.com/miami-fl/under-the-disco-ball-bosq-545718
 URL:https://shotgun.live/en/events/zeyzey-selects-donny-benet
 STATUS:CONFIRMED
 CATEGORIES:electronica,funk,italo disco,latin,synthpop

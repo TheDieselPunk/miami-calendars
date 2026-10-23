@@ -9,9 +9,9 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:rocky-horror-picture-show@shotgun.live
-DTSTAMP:20261022T101822Z
-LAST-MODIFIED:20261022T101822Z
-SEQUENCE:15
+DTSTAMP:20261023T041823Z
+LAST-MODIFIED:20261023T041823Z
+SEQUENCE:16
 DTSTART:20261023T000000Z
 DTEND:20261024T070000Z
 SUMMARY:Rocky Horror Picture Show
@@ -35,11 +35,10 @@ DESCRIPTION:DON’T DREAM IT BE IT 💥 The Boombox (@theboomboxmiami) and
  behind the scenes looks at The Rocky Horror Party Show Project!! See you t
  here\, mon chers 💌\nTickets: 11:45PM SHOWTIME EARLY BIRD $20 (sold out)
  \, 8PM SHOWTIME EARLY BIRD $20 (sold out)\, 11:45PM SHOWTIME EARLY BIRD $2
- 0 (sold out)\, 8PM SHOWTIME EARLY BIRD $20 (sold out)\, 11:45PM SHOWTIME E
- ARLY BIRD $20 (sold out)\, 11:45PM SHOWTIME GA $30\, 8PM SHOWTIME GA $30\,
-  11:45PM SHOWTIME GA $30 (sold out)\, 11:45PM SHOWTIME GA $30 (sold out)\,
-  8PM SHOWTIME EARLY BIRD $20 (sold out)\, 8PM SHOWTIME GA $30 (sold out)\n
- https://shotgun.live/en/events/rocky-horror-picture-show
+ 0 (sold out)\, 11:45PM SHOWTIME GA $30\, 8PM SHOWTIME GA $30\, 11:45PM SHO
+ WTIME GA $30 (sold out)\, 11:45PM SHOWTIME GA $30 (sold out)\, 8PM SHOWTIM
+ E EARLY BIRD $20 (sold out)\, 8PM SHOWTIME GA $30 (sold out)\nhttps://shot
+ gun.live/en/events/rocky-horror-picture-show
 URL:https://shotgun.live/en/events/rocky-horror-picture-show
 STATUS:CONFIRMED
 GEO:25.7287781;-80.3169309
@@ -66,9 +65,9 @@ GEO:25.7287781;-80.3169309
 END:VEVENT
 BEGIN:VEVENT
 UID:murder-at-the-disco-box@shotgun.live
-DTSTAMP:20261020T041827Z
-LAST-MODIFIED:20261020T041827Z
-SEQUENCE:1
+DTSTAMP:20261023T041823Z
+LAST-MODIFIED:20261023T041823Z
+SEQUENCE:2
 DTSTART:20261025T030000Z
 DTEND:20261025T080000Z
 SUMMARY:Murder At The Disco Box
@@ -79,9 +78,9 @@ DESCRIPTION:A NIGHT OF DEADLY DISCO DiscoBox returns this Friday with a Hal
  ntest with 2 FREE TICKETS up for grabs. Best costume wins entry for you an
  d a plus one to BOTH nights of our Halloween weekend\, October 30th & 31st
  . OCT 24 • 11PM TILL LATE THE BOOMBOX | 4447 SW 75TH AVE Dress to impres
- s the dead. 18+ = 20$ 21+ = free entry\nTags: disco\nTickets: RSVP Free\nh
- ttps://shotgun.live/en/events/murder-at-the-disco-box\nhttps://edmtrain.co
- m/miami-fl/murder-at-the-disco-box-546164
+ s the dead. 18+ = 20$ 21+ = free entry\nTags: disco\nTickets: RSVP Free\nA
+ ges: 18+\nhttps://shotgun.live/en/events/murder-at-the-disco-box\nhttps://
+ edmtrain.com/miami-fl/murder-at-the-disco-box-546164
 URL:https://shotgun.live/en/events/murder-at-the-disco-box
 STATUS:CONFIRMED
 CATEGORIES:disco
