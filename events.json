@@ -681,30 +681,6 @@
    "url": "https://link.dice.fm/pc78b350889b"
   },
   {
-   "id": "dice:6ad9189cc6d9720001d0432d",
-   "source": "dice",
-   "title": "Space Yoga",
-   "artists": [],
-   "venue": "Club Space Miami",
-   "venue_slug": "club-space",
-   "date": "2026-10-24",
-   "start": "2026-10-24T20:20:00+00:00",
-   "end": "2026-10-24T22:00:00+00:00",
-   "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
-   "price": " (sold out)",
-   "genres": [
-    "house",
-    "techno"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6ad9189cc6d9720001d0432d",
-   "cancelled": false
-  },
-  {
    "id": "shotgun:karnival-halloween-party-horror-games-18-rave",
    "source": "shotgun",
    "title": "Karnival: Halloween Cosplay Party & 18+ After Hours Rave",
@@ -741,7 +717,7 @@
    "time_estimated": false,
    "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
    "ages": "",
-   "price": "$17.03",
+   "price": "$22.70",
    "genres": [
     "rock",
     "hardcore"
@@ -750,7 +726,7 @@
    "organizer": "Equinox Booking",
    "description": "Equinox Booking Presents Askysoblack Dime 22 Grief Second Frame $15 online / $20 day of 6 pm doors all ages",
    "url": "https://shotgun.live/en/events/askysoblack-dime-22-grief-second-frame-at-boombox-10-24",
-   "tickets": "General Admission $15",
+   "tickets": "General Admission $15 (sold out), Day of $20",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -1368,32 +1344,6 @@
    "url": "https://shotgun.live/en/events/the-hall-360-differ-f-2-f-nico-moon"
   },
   {
-   "id": "edmtrain:546794",
-   "source": "edmtrain",
-   "title": "Race To Space",
-   "artists": [],
-   "venue": "Club Space",
-   "venue_slug": "club-space",
-   "date": "2026-10-24",
-   "start": "2026-10-25T03:00:00+00:00",
-   "end": "2026-10-25T17:00:00+00:00",
-   "time_estimated": true,
-   "address": "Heart, 34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "house",
-    "techno"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://housemiami.mssg.io/1L2IhH",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/race-to-space-546794"
-   ]
-  },
-  {
    "id": "dice:6a91f30f69be3b0001c698fc",
    "source": "19hz+dice+edmtrain",
    "title": "Riordan, Luuk Van Dijk, Julian Fijma & James Poole",
@@ -1424,7 +1374,8 @@
    "cancelled": false,
    "alt_urls": [
     "https://dice.fm/event/6a91f30f69be3b0001c698fc",
-    "https://edmtrain.com/miami-fl/riordan-luuk-van-dijk-533028"
+    "https://edmtrain.com/miami-fl/riordan-luuk-van-dijk-533028",
+    "https://edmtrain.com/miami-fl/race-to-space-546794"
    ]
   },
   {

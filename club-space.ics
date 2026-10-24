@@ -24,50 +24,18 @@ STATUS:CONFIRMED
 CATEGORIES:tech house,techno
 END:VEVENT
 BEGIN:VEVENT
-UID:dice-6ad9189cc6d9720001d0432d@club-space.miami-calendars
-DTSTAMP:20261021T221818Z
-LAST-MODIFIED:20261021T221818Z
-SEQUENCE:0
-DTSTART:20261024T202000Z
-DTEND:20261024T220000Z
-SUMMARY:Space Yoga
-LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6ad9189cc6d
- 9720001d0432d
-URL:https://dice.fm/event/6ad9189cc6d9720001d0432d
-STATUS:CONFIRMED
-CATEGORIES:house,techno
-END:VEVENT
-BEGIN:VEVENT
-UID:edmtrain-546794@club-space.miami-calendars
-DTSTAMP:20261024T161821Z
-LAST-MODIFIED:20261024T161821Z
-SEQUENCE:0
-DTSTART:20261025T030000Z
-DTEND:20261025T170000Z
-SUMMARY:Race To Space
-LOCATION:Club Space\, Heart\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nTimes are an estimate from Club S
- pace's usual hours - the listing has no start time yet. Check the link.\nh
- ttps://housemiami.mssg.io/1L2IhH\nhttps://edmtrain.com/miami-fl/race-to-sp
- ace-546794
-URL:https://housemiami.mssg.io/1L2IhH
-STATUS:CONFIRMED
-CATEGORIES:house,techno
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6a91f30f69be3b0001c698fc@club-space.miami-calendars
-DTSTAMP:20260922T004038Z
-LAST-MODIFIED:20260922T004038Z
-SEQUENCE:2
+DTSTAMP:20261024T221817Z
+LAST-MODIFIED:20261024T221817Z
+SEQUENCE:3
 DTSTART:20261025T030000Z
 DTEND:20261025T180000Z
 SUMMARY:Riordan\, Luuk Van Dijk\, Julian Fijma & James Poole
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
 DESCRIPTION:Lineup: Riordan\, Luuk Van Dijk\, Julian Fijma\, James Poole\, 
  Mai Iachetti\, Ms. Mada\nTags: tech house\nAges: 21+\nhttps://dice.fm/even
- t/6a91f30f69be3b0001c698fc\nhttps://edmtrain.com/miami-fl/riordan-luuk-van
- -dijk-533028
+ t/6a91f30f69be3b0001c698fc\nhttps://edmtrain.com/miami-fl/race-to-space-54
+ 6794\nhttps://edmtrain.com/miami-fl/riordan-luuk-van-dijk-533028
 URL:https://dice.fm/event/6a91f30f69be3b0001c698fc
 STATUS:CONFIRMED
 CATEGORIES:tech house
