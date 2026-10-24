@@ -1,18 +1,13 @@
 {
- "19hz-4446516-rvcalypsodsdherm@mad-radio.miami-calendars": {
-  "hash": "d2d3da8eaf0a46f0",
-  "seq": 1,
-  "modified": "2026-10-23T16:18:16+00:00"
- },
- "19hz-4446520-megustajessefern@jolene.miami-calendars": {
-  "hash": "2d25be6dd6f15573",
-  "seq": 0,
-  "modified": "2026-10-23T10:18:39+00:00"
- },
  "19hz-4446616-hedoncarlaschmit@domicile.miami-calendars": {
   "hash": "0cdb278940b29b51",
   "seq": 0,
   "modified": "2026-10-17T16:18:17+00:00"
+ },
+ "19hz-4446619-babyj@the-ground.miami-calendars": {
+  "hash": "66e4b6e1d615034a",
+  "seq": 0,
+  "modified": "2026-10-24T04:18:20+00:00"
  },
  "19hz-4446712-doomsdayafterdar@daer.miami-calendars": {
   "hash": "c7f733e852cc05b2",
@@ -140,9 +135,9 @@
   "modified": "2026-10-21T04:18:30+00:00"
  },
  "19hz-4450723-michaelbibi@festivals.miami-calendars": {
-  "hash": "c98f0546ab25168a",
-  "seq": 1,
-  "modified": "2026-10-23T22:18:16+00:00"
+  "hash": "cc313781c449fc4d",
+  "seq": 2,
+  "modified": "2026-10-24T04:18:20+00:00"
  },
  "19hz-4451887-mrpauerfriends@festivals.miami-calendars": {
   "hash": "813ec17374e556ad",
@@ -253,11 +248,6 @@
   "hash": "cda0d66ef6a32f33",
   "seq": 0,
   "modified": "2026-10-04T22:18:19+00:00"
- },
- "dice-6a63c13377937e0001f8f752@the-ground.miami-calendars": {
-  "hash": "2234d4638d663929",
-  "seq": 3,
-  "modified": "2026-09-22T00:41:54+00:00"
  },
  "dice-6a64b93c7b94a300012b1b10@kemistry.miami-calendars": {
   "hash": "6effcddd00bbd8fa",
@@ -949,11 +939,6 @@
   "seq": 2,
   "modified": "2026-09-30T16:18:12+00:00"
  },
- "hardrock-202034@daer.miami-calendars": {
-  "hash": "e5b7aab2fab7e9d2",
-  "seq": 0,
-  "modified": "2026-09-21T20:05:54+00:00"
- },
  "hardrock-202036@daer.miami-calendars": {
   "hash": "e1b629f0730cffb6",
   "seq": 0,
@@ -1230,9 +1215,9 @@
   "modified": "2026-10-23T16:18:16+00:00"
  },
  "madradiomiami103126@shotgun.live": {
-  "hash": "35955f40aedea972",
-  "seq": 2,
-  "modified": "2026-10-23T16:18:16+00:00"
+  "hash": "a2f57c1f3040e141",
+  "seq": 3,
+  "modified": "2026-10-24T04:18:20+00:00"
  },
  "murder-at-the-disco-box@shotgun.live": {
   "hash": "7d5dcb66aa49265d",
@@ -1243,11 +1228,6 @@
   "hash": "1c469fee0d3a69fd",
   "seq": 2,
   "modified": "2026-09-28T04:18:01+00:00"
- },
- "rocky-horror-picture-show@shotgun.live": {
-  "hash": "fc2e228fa40da105",
-  "seq": 17,
-  "modified": "2026-10-23T10:18:39+00:00"
  },
  "sammy-jackie-clarke-dj-set-with-special-guest-valery-karbia@shotgun.live": {
   "hash": "fa49d6001edf108c",
@@ -1275,14 +1255,9 @@
   "modified": "2026-10-01T04:18:24+00:00"
  },
  "tablelist-abc873e7b3df0c6a@zeyzey.miami-calendars": {
-  "hash": "eddf308abae7d730",
-  "seq": 0,
-  "modified": "2026-10-01T04:18:24+00:00"
- },
- "tablelist-b7cca09069029abe@zeyzey.miami-calendars": {
-  "hash": "fa14ed4140fe3c4d",
-  "seq": 2,
-  "modified": "2026-10-23T16:18:16+00:00"
+  "hash": "b5e304a1fcd8007c",
+  "seq": 1,
+  "modified": "2026-10-24T04:18:20+00:00"
  },
  "tablelist-cb59f6b1c057040a@zeyzey.miami-calendars": {
   "hash": "436543e0b4348487",
