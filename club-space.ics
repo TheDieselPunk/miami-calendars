@@ -8,36 +8,20 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a91f165b63d4a00012ec196@club-space.miami-calendars
-DTSTAMP:20260922T004154Z
-LAST-MODIFIED:20260922T004154Z
-SEQUENCE:3
-DTSTART:20261024T030000Z
-DTEND:20261024T180000Z
+UID:19hz-4446607-nicolemoudaber@club-space.miami-calendars
+DTSTAMP:20261024T161821Z
+LAST-MODIFIED:20261024T161821Z
+SEQUENCE:0
+DTSTART:20261024T000000Z
+DTEND:20261024T150000Z
 SUMMARY:Nicole Moudaber
-LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Nicole Moudaber\nTags: tech house\, techno\nAges: 21+\n
- https://dice.fm/event/v3lpy7-nicole-moudaber-23rd-oct-club-space-miami-mia
- mi-tickets\nhttps://edmtrain.com/miami-fl/nicole-moudaber-533027
+LOCATION:Club Space
+DESCRIPTION:Tags: tech house\, techno\nAges: 21+\nhttps://dice.fm/event/v3l
+ py7-nicole-moudaber-23rd-oct-club-space-miami-miami-tickets
 URL:https://dice.fm/event/v3lpy7-nicole-moudaber-23rd-oct-club-space-miami-
  miami-tickets
 STATUS:CONFIRMED
 CATEGORIES:tech house,techno
-END:VEVENT
-BEGIN:VEVENT
-UID:dice-6ac536f590411600012213de@club-space.miami-calendars
-DTSTAMP:20261021T221818Z
-LAST-MODIFIED:20261021T221818Z
-SEQUENCE:1
-DTSTART:20261024T110000Z
-DTEND:20261024T150000Z
-SUMMARY:Race To Space
-LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6ac536f5904
- 11600012213de\nhttps://edmtrain.com/miami-fl/race-to-space-546794
-URL:https://dice.fm/event/6ac536f590411600012213de
-STATUS:CONFIRMED
-CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ad9189cc6d9720001d0432d@club-space.miami-calendars
@@ -51,6 +35,23 @@ LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
 DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6ad9189cc6d
  9720001d0432d
 URL:https://dice.fm/event/6ad9189cc6d9720001d0432d
+STATUS:CONFIRMED
+CATEGORIES:house,techno
+END:VEVENT
+BEGIN:VEVENT
+UID:edmtrain-546794@club-space.miami-calendars
+DTSTAMP:20261024T161821Z
+LAST-MODIFIED:20261024T161821Z
+SEQUENCE:0
+DTSTART:20261025T030000Z
+DTEND:20261025T170000Z
+SUMMARY:Race To Space
+LOCATION:Club Space\, Heart\, 34 NE 11th St\, Miami\, FL 33132\, USA
+DESCRIPTION:Tags (guess): house\, techno\nTimes are an estimate from Club S
+ pace's usual hours - the listing has no start time yet. Check the link.\nh
+ ttps://housemiami.mssg.io/1L2IhH\nhttps://edmtrain.com/miami-fl/race-to-sp
+ ace-546794
+URL:https://housemiami.mssg.io/1L2IhH
 STATUS:CONFIRMED
 CATEGORIES:house,techno
 END:VEVENT

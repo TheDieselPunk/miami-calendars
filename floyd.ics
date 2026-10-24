@@ -9,17 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4446619-thunderponyssalo@floyd.miami-calendars
-DTSTAMP:20261024T101823Z
-LAST-MODIFIED:20261024T101823Z
-SEQUENCE:0
+DTSTAMP:20261024T161821Z
+LAST-MODIFIED:20261024T161821Z
+SEQUENCE:1
 DTSTART:20261024T030000Z
 DTEND:20261024T090000Z
 SUMMARY:Thunderpony's Saloon: Jack Marlow + Snooko
 LOCATION:Floyd Miami
-DESCRIPTION:Lineup: Jack Marlow\, Snooko\nTags: bassline\, house\, uk garag
- e\nAges: 21+\nhttps://dice.fm/event/l8mqew-thunderponys-saloon-jack-marlow
- -snooko-23rd-oct-floyd-miami-miami-tickets\nhttps://edmtrain.com/miami-fl/
- jack-marlow-snooko-533959
+DESCRIPTION:Tags: bassline\, house\, uk garage\nAges: 21+\nhttps://dice.fm/
+ event/l8mqew-thunderponys-saloon-jack-marlow-snooko-23rd-oct-floyd-miami-m
+ iami-tickets
 URL:https://dice.fm/event/l8mqew-thunderponys-saloon-jack-marlow-snooko-23r
  d-oct-floyd-miami-miami-tickets
 STATUS:CONFIRMED
