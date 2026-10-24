@@ -9,19 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:tablelist-abc873e7b3df0c6a@zeyzey.miami-calendars
-DTSTAMP:20261024T041820Z
-LAST-MODIFIED:20261024T041820Z
-SEQUENCE:1
+DTSTAMP:20261024T101823Z
+LAST-MODIFIED:20261024T101823Z
+SEQUENCE:2
 DTSTART:20261024T000000Z
 DTEND:20261024T033000Z
 SUMMARY:Dope Lemon
 LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: dance/electronic\nhttps://buy.tablelist.com/e/abc873e7b3d
- f0c6a\nhttps://calendar.zeyzeymiami.com/shows/intima-ft-ammo-amor-baby-bas
- s-dcal-sebas-23-oct
+DESCRIPTION:https://buy.tablelist.com/e/abc873e7b3df0c6a
 URL:https://buy.tablelist.com/e/abc873e7b3df0c6a
 STATUS:CONFIRMED
-CATEGORIES:dance/electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:tablelist-f1a299c797f4b9b1@zeyzey.miami-calendars
@@ -633,30 +630,32 @@ CATEGORIES:dance/electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-a-trak-friends-04-dec@zeyzey.miami-calendars
-DTSTAMP:20261020T221822Z
-LAST-MODIFIED:20261020T221822Z
-SEQUENCE:0
+DTSTAMP:20261024T101823Z
+LAST-MODIFIED:20261024T101823Z
+SEQUENCE:1
 DTSTART:20261205T040000Z
 DTEND:20261205T080000Z
 SUMMARY:A-Trak & Friends
 LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
- a-trak-friends-04-dec
+DESCRIPTION:Lineup: A-Trak\nTags: dance/electronic\nhttps://calendar.zeyzey
+ miami.com/shows/a-trak-friends-04-dec\nhttps://edmtrain.com/miami-fl/a-tra
+ k-547644
 URL:https://calendar.zeyzeymiami.com/shows/a-trak-friends-04-dec
 STATUS:CONFIRMED
 CATEGORIES:dance/electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-soulection-friends-05-dec@zeyzey.miami-calendars
-DTSTAMP:20261020T221822Z
-LAST-MODIFIED:20261020T221822Z
-SEQUENCE:0
+DTSTAMP:20261024T101823Z
+LAST-MODIFIED:20261024T101823Z
+SEQUENCE:1
 DTSTART:20261205T200000Z
 DTEND:20261206T060000Z
 SUMMARY:Soulection & Friends
 LOCATION:ZeyZey Miami
 DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
- soulection-friends-05-dec
+ soulection-friends-05-dec\nhttps://edmtrain.com/miami-fl/soulection-and-fr
+ iends-547645
 URL:https://calendar.zeyzeymiami.com/shows/soulection-friends-05-dec
 STATUS:CONFIRMED
 CATEGORIES:dance/electronic

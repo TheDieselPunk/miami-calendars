@@ -8,14 +8,14 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a9071e7ab622c00014d4900@floyd.miami-calendars
-DTSTAMP:20260922T004154Z
-LAST-MODIFIED:20260922T004154Z
-SEQUENCE:3
+UID:19hz-4446619-thunderponyssalo@floyd.miami-calendars
+DTSTAMP:20261024T101823Z
+LAST-MODIFIED:20261024T101823Z
+SEQUENCE:0
 DTSTART:20261024T030000Z
 DTEND:20261024T090000Z
 SUMMARY:Thunderpony's Saloon: Jack Marlow + Snooko
-LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
+LOCATION:Floyd Miami
 DESCRIPTION:Lineup: Jack Marlow\, Snooko\nTags: bassline\, house\, uk garag
  e\nAges: 21+\nhttps://dice.fm/event/l8mqew-thunderponys-saloon-jack-marlow
  -snooko-23rd-oct-floyd-miami-miami-tickets\nhttps://edmtrain.com/miami-fl/
@@ -231,15 +231,16 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abe821acf1f4100010d2096@floyd.miami-calendars
-DTSTAMP:20261001T221830Z
-LAST-MODIFIED:20261001T221830Z
-SEQUENCE:0
+DTSTAMP:20261024T101823Z
+LAST-MODIFIED:20261024T101823Z
+SEQUENCE:1
 DTSTART:20261128T040000Z
 DTEND:20261128T100000Z
 SUMMARY:INSULATE
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6abe821acf1
- f4100010d2096
+DESCRIPTION:Lineup: George Smeddles\, Siegel\, Vivi Santana\nTags (guess): 
+ house\, techno\nhttps://dice.fm/event/6abe821acf1f4100010d2096\nhttps://ed
+ mtrain.com/miami-fl/george-smeddles-siegel-547528
 URL:https://dice.fm/event/6abe821acf1f4100010d2096
 STATUS:CONFIRMED
 CATEGORIES:house,techno

@@ -160,16 +160,17 @@ CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ad8e836f3f79d000131952b@jolene.miami-calendars
-DTSTAMP:20261021T221818Z
-LAST-MODIFIED:20261021T221818Z
-SEQUENCE:0
+DTSTAMP:20261024T101823Z
+LAST-MODIFIED:20261024T101823Z
+SEQUENCE:1
 DTSTART:20261120T030000Z
 DTEND:20261120T090000Z
 SUMMARY:The Groove Palace: Rayzir
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6ad8e83
- 6f3f79d000131952b
+DESCRIPTION:Lineup: RAYZIR\nTags (guess): house\, tech house\nhttps://dice.
+ fm/event/6ad8e836f3f79d000131952b\nhttps://edmtrain.com/miami-fl/the-groov
+ e-palace-rayzir-547547
 URL:https://dice.fm/event/6ad8e836f3f79d000131952b
 STATUS:CONFIRMED
 CATEGORIES:house,tech house

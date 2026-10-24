@@ -1,6 +1,34 @@
 {
  "events": [
   {
+   "id": "19hz:4446564-supernaturalfest",
+   "source": "19hz+edmtrain",
+   "title": "Supernatural Fest: Liza Rodriguez, Cesar Romero, Aural Fixationz, Miss Purple Shampoo, Zac",
+   "artists": [],
+   "venue": "The Manor Complex",
+   "venue_slug": null,
+   "date": "2026-10-23",
+   "start": "2026-10-23T13:00:00+00:00",
+   "end": "2026-10-24T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "Fort Lauderdale",
+   "ages": "18+",
+   "price": "$15 b4 11 / $20-25",
+   "genres": [
+    "big room house",
+    "circuit house",
+    "tech house",
+    "tribal house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/supernatural-fest-4",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/supernatural-fest-the-haunted-manor-544061"
+   ]
+  },
+  {
    "id": "19hz:4446604-larsbehrenrothdv",
    "source": "19hz",
    "title": "Lars Behrenroth + Dvize",
@@ -48,7 +76,7 @@
   },
   {
    "id": "tablelist:abc873e7b3df0c6a",
-   "source": "tablelist+venue",
+   "source": "tablelist",
    "title": "Dope Lemon",
    "artists": [],
    "venue": "ZeyZey Miami",
@@ -60,73 +88,33 @@
    "address": "",
    "ages": "",
    "price": "",
-   "genres": [
-    "dance/electronic"
-   ],
+   "genres": [],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://buy.tablelist.com/e/abc873e7b3df0c6a",
-   "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/intima-ft-ammo-amor-baby-bass-dcal-sebas-23-oct"
-   ]
+   "url": "https://buy.tablelist.com/e/abc873e7b3df0c6a"
   },
   {
-   "id": "shotgun:indieween",
-   "source": "shotgun",
-   "title": "Indieween",
+   "id": "19hz:4446612-camaraderiepumah",
+   "source": "19hz",
+   "title": "Camaraderie: Puma / Harry Hm / Amare",
    "artists": [],
-   "venue": "Lincoln's Beard Brewing & Cocktails",
-   "venue_slug": null,
-   "date": "2026-10-23",
-   "start": "2026-10-24T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$16.88",
-   "genres": [
-    "indie",
-    "rock",
-    "alternative"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/indieween"
-  },
-  {
-   "id": "shotgun:madradiomiami102326",
-   "source": "19hz+shotgun",
-   "title": "Camaraderie: Puma / Harry Hm / Amaré",
-   "artists": [],
-   "venue": "Mad Radio Miami",
+   "venue": "Mad Radio",
    "venue_slug": "mad-radio",
    "date": "2026-10-23",
    "start": "2026-10-24T01:00:00+00:00",
    "end": "2026-10-24T07:00:00+00:00",
    "time_estimated": false,
-   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "address": "",
    "ages": "21+",
-   "price": "$21.80",
+   "price": "free w/rsvp b4 midnight ladies / free w/rsvp b4 10pm / $22",
    "genres": [
     "house"
    ],
    "genres_inferred": false,
-   "organizer": "Mad Radio Miami",
-   "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY BEFORE 10 PM / FREE ENTRY LADIES UNTIL MIDNIGHT +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
-   "url": "https://shotgun.live/en/events/madradiomiami102326",
-   "tickets": "AFTER 10 PM $20, FREE LADIES RSVP BEFORE 12 AM Free",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.8462027,
-    "longitude": -80.1851332
-   },
-   "created": "2026-10-01T20:54:01.000Z",
-   "alt_urls": [
-    "https://shotgun.live/en/events/madradiomiami102326"
-   ]
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/madradiomiami102326"
   },
   {
    "id": "19hz:4446612-wassu",
@@ -157,33 +145,30 @@
    ]
   },
   {
-   "id": "shotgun:supernatural-fest-4",
-   "source": "19hz+edmtrain+shotgun",
-   "title": "Supernatural Fest: The Haunted Manor",
+   "id": "19hz:4446616-thewingdimension",
+   "source": "19hz",
+   "title": "The Wing Dimension",
    "artists": [],
-   "venue": "Wilton Manors",
+   "venue": "777 Northeast 79th Street",
    "venue_slug": null,
    "date": "2026-10-23",
-   "start": "2026-10-24T01:00:00+00:00",
+   "start": "2026-10-24T02:00:00+00:00",
    "end": "2026-10-24T08:00:00+00:00",
    "time_estimated": false,
    "address": "",
-   "ages": "18+",
-   "price": "$30.00",
+   "ages": "",
+   "price": "free w/rsvp / $7-18",
    "genres": [
-    "big room house",
-    "circuit house",
-    "tech house",
-    "tribal house"
+    "hip-hop",
+    "hyperpop",
+    "jersey club",
+    "reggaeton",
+    "techno"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/supernatural-fest-4",
-   "alt_urls": [
-    "https://shotgun.live/en/events/supernatural-fest-4",
-    "https://edmtrain.com/fort-lauderdale-fl/supernatural-fest-the-haunted-manor-544061"
-   ]
+   "url": "https://shotgun.live/en/events/wing"
   },
   {
    "id": "19hz:4446616-misifubyfiinfior",
@@ -210,31 +195,6 @@
    "url": "https://posh.vip/e/misifu-by-fiin",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/fiin-543903"
-   ]
-  },
-  {
-   "id": "shotgun:rendezvous1-12",
-   "source": "19hz+shotgun",
-   "title": "Ctrl Room: Conobi, Royce, Shayoos, Sunny-D, + More",
-   "artists": [],
-   "venue": "Club M2 Miami",
-   "venue_slug": null,
-   "date": "2026-10-23",
-   "start": "2026-10-24T02:00:00+00:00",
-   "end": "2026-10-24T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "$20.00",
-   "genres": [
-    "house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/rendezvous1-12",
-   "alt_urls": [
-    "https://shotgun.live/en/events/rendezvous1-12"
    ]
   },
   {
@@ -284,11 +244,11 @@
    "url": "https://dice.fm/event/53k27l--vampire-weekend-23rd-oct-domicile-miami-miami-tickets"
   },
   {
-   "id": "shotgun:house-of-huemans-oct-23",
-   "source": "19hz+shotgun",
+   "id": "19hz:4446616-houseofhuemans",
+   "source": "19hz",
    "title": "House Of Huemans",
    "artists": [],
-   "venue": "EDGE MIAMI",
+   "venue": "Edge",
    "venue_slug": null,
    "date": "2026-10-23",
    "start": "2026-10-24T02:00:00+00:00",
@@ -298,16 +258,12 @@
    "ages": "21+",
    "price": "free w/rsvp b4 midnight / $20+",
    "genres": [
-    "house",
     "tech house"
    ],
    "genres_inferred": false,
-   "organizer": "",
+   "organizer": "Humans Alike",
    "description": "",
-   "url": "https://shotgun.live/en/events/house-of-huemans-oct-23",
-   "alt_urls": [
-    "https://shotgun.live/en/events/house-of-huemans-oct-23"
-   ]
+   "url": "https://shotgun.live/en/events/house-of-huemans-oct-23"
   },
   {
    "id": "dice:6abd7555c82c800001a1b0c7",
@@ -372,9 +328,9 @@
    ]
   },
   {
-   "id": "shotgun:sapphic-panic-at-the-dyke-bar",
-   "source": "19hz+shotgun",
-   "title": "Sapphic Panic! At The Dyke Bar",
+   "id": "19hz:4446616-sapphicpanicp1no",
+   "source": "19hz",
+   "title": "Sapphic Panic! P1no, DJ Aileen",
    "artists": [],
    "venue": "Las Rosas",
    "venue_slug": null,
@@ -384,19 +340,12 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$20.00",
-   "genres": [
-    "hip hop",
-    "pop",
-    "reggaeton"
-   ],
+   "price": "",
+   "genres": [],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/sapphic-panic-at-the-dyke-bar",
-   "alt_urls": [
-    "https://ra.co/events/2565699"
-   ]
+   "url": "https://ra.co/events/2565699"
   },
   {
    "id": "19hz:4446616-francescalombard",
@@ -422,34 +371,26 @@
    "url": "https://www.therumor.com/p/francesca"
   },
   {
-   "id": "shotgun:wing",
-   "source": "19hz+shotgun",
-   "title": "The Wing Dimension",
+   "id": "19hz:4446616-ctrlroomconobiro",
+   "source": "19hz",
+   "title": "Ctrl Room: Conobi, Royce, Shayoos, Sunny-D, + More",
    "artists": [],
-   "venue": "Miami",
-   "venue_slug": "festivals",
+   "venue": "M2",
+   "venue_slug": null,
    "date": "2026-10-23",
    "start": "2026-10-24T02:00:00+00:00",
    "end": "2026-10-24T08:00:00+00:00",
    "time_estimated": false,
    "address": "",
-   "ages": "",
-   "price": "$11.11",
+   "ages": "21+",
+   "price": "free w/rsvp b4 midnight / $20+",
    "genres": [
-    "hip-hop",
-    "hyperpop",
-    "jersey club",
-    "rap",
-    "reggaeton",
-    "techno"
+    "house"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/wing",
-   "alt_urls": [
-    "https://shotgun.live/en/events/wing"
-   ]
+   "url": "https://shotgun.live/en/events/rendezvous1-12"
   },
   {
    "id": "19hz:4446616-greenvelvetcajme",
@@ -504,8 +445,8 @@
    ]
   },
   {
-   "id": "dice:6a9071e7ab622c00014d4900",
-   "source": "19hz+dice+edmtrain",
+   "id": "19hz:4446619-thunderponyssalo",
+   "source": "19hz+edmtrain",
    "title": "Thunderpony's Saloon: Jack Marlow + Snooko",
    "artists": [
     "Jack Marlow",
@@ -517,9 +458,9 @@
    "start": "2026-10-24T03:00:00+00:00",
    "end": "2026-10-24T09:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": "From $10",
+   "price": "$10+",
    "genres": [
     "bassline",
     "house",
@@ -529,9 +470,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/l8mqew-thunderponys-saloon-jack-marlow-snooko-23rd-oct-floyd-miami-miami-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/l8mqew-thunderponys-saloon-jack-marlow-snooko-23rd-oct-floyd-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/jack-marlow-snooko-533959"
    ]
   },
@@ -3527,7 +3466,39 @@
    "id": "dice:6aa04779c1a81a00016fe6d6",
    "source": "19hz+dice+edmtrain",
    "title": "Hocus Pocus 2026 (Friday Pass)",
-   "artists": [],
+   "artists": [
+    "ANNĒ",
+    "Sol Ortega",
+    "AYYBO",
+    "Azzecca",
+    "Cole Knight",
+    "Berrakka",
+    "Bushbaby",
+    "Caleb Jackson",
+    "Chloé Caillet",
+    "Dax J",
+    "DJ Boring",
+    "ATRIP",
+    "Effy",
+    "Eric Prydz",
+    "Funk Assault",
+    "Gorgon City",
+    "Jordan Brando",
+    "William Kiss",
+    "Lucaz",
+    "Mall Grab",
+    "MALUGI",
+    "Monoky",
+    "Purple Disco Machine",
+    "Raje",
+    "JJ Illgen",
+    "Mendoza",
+    "Rooléh",
+    "Kidoo",
+    "Todd Edwards",
+    "Conducta",
+    "X Club."
+   ],
    "venue": "Factory Town",
    "venue_slug": "factory-town",
    "date": "2026-10-30",
@@ -4405,7 +4376,7 @@
   },
   {
    "id": "shotgun:madradiomiami103126",
-   "source": "19hz+shotgun",
+   "source": "19hz+edmtrain+shotgun",
    "title": "Underground Halloween:Shaun Reeves/John Raffaele/Camidimarzo",
    "artists": [
     "Shaun Reeves"
@@ -4437,7 +4408,8 @@
    },
    "created": "2026-10-14T22:02:06.000Z",
    "alt_urls": [
-    "https://shotgun.live/en/events/madradiomiami103126"
+    "https://shotgun.live/en/events/madradiomiami103126",
+    "https://edmtrain.com/miami-fl/shaun-reeves-john-raffaele-547558"
    ]
   },
   {
@@ -4583,7 +4555,36 @@
    "id": "dice:6aa04992243edc00012e491a",
    "source": "dice+edmtrain",
    "title": "Hocus Pocus 2026 (Saturday Pass)",
-   "artists": [],
+   "artists": [
+    "Alves",
+    "Âme",
+    "Marcel Dettmann",
+    "Apollonia",
+    "camoufly",
+    "Danny Daze",
+    "Inbal",
+    "Jean Pierre",
+    "Salomé le Chat",
+    "Joezi",
+    "Joseph Capriati",
+    "Seth Troxler",
+    "Kate Moon",
+    "Kerri Chandler",
+    "Kevin Saunderson",
+    "Julya Karma",
+    "Layton Giordani",
+    "MARTE",
+    "Meduza",
+    "Nicole Gallamini",
+    "Nora En Pure",
+    "Prospa",
+    "Quest",
+    "RSquared",
+    "DJ Seinfeld",
+    "Skream",
+    "Terence Tabeau",
+    "X-Coast"
+   ],
    "venue": "Factory Town",
    "venue_slug": "factory-town",
    "date": "2026-10-31",
@@ -5244,6 +5245,31 @@
    ]
   },
   {
+   "id": "edmtrain:547494",
+   "source": "edmtrain",
+   "title": "Ninetoes",
+   "artists": [
+    "Ninetoes"
+   ],
+   "venue": "1-800-Lucky",
+   "venue_slug": null,
+   "date": "2026-11-01",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "143 NW 23rd St, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/3o87al?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/ninetoes-547494"
+   ]
+  },
+  {
    "id": "edmtrain:542974",
    "source": "edmtrain",
    "title": "Massane",
@@ -5477,6 +5503,31 @@
    "cancelled": false,
    "alt_urls": [
     "https://dice.fm/event/6ac6aa74f13291000127aaa6"
+   ]
+  },
+  {
+   "id": "edmtrain:547521",
+   "source": "edmtrain",
+   "title": "Secret Thursdays",
+   "artists": [],
+   "venue": "Do Not Sit On The Furniture",
+   "venue_slug": null,
+   "date": "2026-11-05",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "423 16th St, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "deep house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/wwnm6v?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/secret-thursdays-547521"
    ]
   },
   {
@@ -8628,9 +8679,11 @@
   },
   {
    "id": "dice:6ad8e836f3f79d000131952b",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "The Groove Palace: Rayzir",
-   "artists": [],
+   "artists": [
+    "RAYZIR"
+   ],
    "venue": "Jolene Sound Room Miami",
    "venue_slug": "jolene",
    "date": "2026-11-19",
@@ -8648,7 +8701,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6ad8e836f3f79d000131952b",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/the-groove-palace-rayzir-547547"
+   ]
   },
   {
    "id": "edmtrain:533946",
@@ -8898,6 +8954,33 @@
    "url": "https://dice.fm/event/py39ry-halo-varga-h-foundation-muted-noise-20th-nov-do-not-sit-on-the-furniture-miami-beach-tickets",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/halo-varga-537172"
+   ]
+  },
+  {
+   "id": "edmtrain:547522",
+   "source": "edmtrain",
+   "title": "Sam WOLFE",
+   "artists": [
+    "Sam WOLFE"
+   ],
+   "venue": "Domicile Miami",
+   "venue_slug": "domicile",
+   "date": "2026-11-20",
+   "start": "2026-11-21T03:00:00+00:00",
+   "end": "2026-11-21T10:00:00+00:00",
+   "time_estimated": true,
+   "address": "2900 NW 7th Ave, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/pyxbdl?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/sam-wolfe-547522"
    ]
   },
   {
@@ -10280,9 +10363,13 @@
   },
   {
    "id": "dice:6abe821acf1f4100010d2096",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "INSULATE",
-   "artists": [],
+   "artists": [
+    "George Smeddles",
+    "Siegel",
+    "Vivi Santana"
+   ],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
    "date": "2026-11-27",
@@ -10300,7 +10387,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6abe821acf1f4100010d2096",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/george-smeddles-siegel-547528"
+   ]
   },
   {
    "id": "dice:6abbe1d7214d4c0001006f40",
@@ -11834,9 +11924,23 @@
   },
   {
    "id": "shotgun:experience-incendia-art-basel",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Experience Incendia: The Art Of Fire 2026",
-   "artists": [],
+   "artists": [
+    "Blond:ish",
+    "AYYBO",
+    "Skream",
+    "Yamagucci",
+    "GUDFELLA",
+    "Bontan",
+    "Calussa",
+    "Fletch",
+    "Apache",
+    "Jay de Lys",
+    "Bassel Darwish",
+    "The Botanist",
+    "Tiffy Vera"
+   ],
    "venue": "Miami",
    "venue_slug": "festivals",
    "date": "2026-12-03",
@@ -11854,7 +11958,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/experience-incendia-art-basel"
+   "url": "https://shotgun.live/en/events/experience-incendia-art-basel",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/experience-incendia-blond-ish-547501"
+   ]
   },
   {
    "id": "dice:6aa05356c1a81a000145fda3",
@@ -12472,9 +12579,11 @@
   },
   {
    "id": "zeyzey:a-trak-friends-04-dec",
-   "source": "venue",
+   "source": "edmtrain+venue",
    "title": "A-Trak & Friends",
-   "artists": [],
+   "artists": [
+    "A-Trak"
+   ],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-12-04",
@@ -12491,7 +12600,10 @@
    "organizer": "",
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/a-trak-friends-04-dec",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/a-trak-547644"
+   ]
   },
   {
    "id": "edmtrain:546404",
@@ -12638,7 +12750,7 @@
   },
   {
    "id": "zeyzey:soulection-friends-05-dec",
-   "source": "venue",
+   "source": "edmtrain+venue",
    "title": "Soulection & Friends",
    "artists": [],
    "venue": "ZeyZey Miami",
@@ -12657,7 +12769,10 @@
    "organizer": "",
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/soulection-friends-05-dec",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/soulection-and-friends-547645"
+   ]
   },
   {
    "id": "19hz:4450720-sango",

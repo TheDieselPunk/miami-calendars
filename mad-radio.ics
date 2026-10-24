@@ -8,26 +8,19 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:madradiomiami102326@shotgun.live
-DTSTAMP:20261017T161817Z
-LAST-MODIFIED:20261017T161817Z
-SEQUENCE:1
+UID:19hz-4446612-camaraderiepumah@mad-radio.miami-calendars
+DTSTAMP:20261024T101823Z
+LAST-MODIFIED:20261024T101823Z
+SEQUENCE:0
 DTSTART:20261024T010000Z
 DTEND:20261024T070000Z
-SUMMARY:Camaraderie: Puma / Harry Hm / Amaré
-LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
-DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
- ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
-  our slick radio show serving up the latest tracks. Save the date and cath
-  the urban-chic experience at Mad Radio Miami. See you on the dance floor!
-  Come early\, stay late\, and let the night unfold FREE ENTRY BEFORE 10 PM
-  / FREE ENTRY LADIES UNTIL MIDNIGHT +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
- \nTags: house\nTickets: AFTER 10 PM $20\, FREE LADIES RSVP BEFORE 12 AM Fr
- ee\nAges: 21+\nhttps://shotgun.live/en/events/madradiomiami102326
+SUMMARY:Camaraderie: Puma / Harry Hm / Amare
+LOCATION:Mad Radio
+DESCRIPTION:Tags: house\nAges: 21+\nhttps://shotgun.live/en/events/madradio
+ miami102326
 URL:https://shotgun.live/en/events/madradiomiami102326
 STATUS:CONFIRMED
 CATEGORIES:house
-GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:benefica-pop-up@shotgun.live
@@ -152,9 +145,9 @@ GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami103126@shotgun.live
-DTSTAMP:20261024T041820Z
-LAST-MODIFIED:20261024T041820Z
-SEQUENCE:3
+DTSTAMP:20261024T101823Z
+LAST-MODIFIED:20261024T101823Z
+SEQUENCE:4
 DTSTART:20261101T010000Z
 DTEND:20261101T080000Z
 SUMMARY:Underground Halloween:Shaun Reeves/John Raffaele/Camidimarzo
@@ -167,7 +160,8 @@ DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
   / FREE ENTRY LADIES UNTIL MIDNIGHT + 25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
  \nLineup: Shaun Reeves\nTags: minimal\, tech house\, techno\nTickets: AFTE
  R 10 PM / EARLY BIRD $20\, FREE LADIES RSVP BEFORE 12 AM Free\nAges: 21+\n
- https://shotgun.live/en/events/madradiomiami103126
+ https://shotgun.live/en/events/madradiomiami103126\nhttps://edmtrain.com/m
+ iami-fl/shaun-reeves-john-raffaele-547558
 URL:https://shotgun.live/en/events/madradiomiami103126
 STATUS:CONFIRMED
 CATEGORIES:minimal,tech house,techno
