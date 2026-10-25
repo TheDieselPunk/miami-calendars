@@ -8,27 +8,20 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:murder-at-the-disco-box@shotgun.live
-DTSTAMP:20261023T041823Z
-LAST-MODIFIED:20261023T041823Z
-SEQUENCE:2
+UID:19hz-4446715-discobox@boombox.miami-calendars
+DTSTAMP:20261025T101803Z
+LAST-MODIFIED:20261025T101803Z
+SEQUENCE:0
 DTSTART:20261025T030000Z
-DTEND:20261025T080000Z
-SUMMARY:Murder At The Disco Box
-LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
- \, USA
-DESCRIPTION:A NIGHT OF DEADLY DISCO DiscoBox returns this Friday with a Hal
- loween special. Costumes are REQUIRED. Disco all night\, plus a costume co
- ntest with 2 FREE TICKETS up for grabs. Best costume wins entry for you an
- d a plus one to BOTH nights of our Halloween weekend\, October 30th & 31st
- . OCT 24 • 11PM TILL LATE THE BOOMBOX | 4447 SW 75TH AVE Dress to impres
- s the dead. 18+ = 20$ 21+ = free entry\nTags: disco\nTickets: RSVP Free\nA
- ges: 18+\nhttps://shotgun.live/en/events/murder-at-the-disco-box\nhttps://
- edmtrain.com/miami-fl/murder-at-the-disco-box-546164
+DTEND:20261025T100000Z
+SUMMARY:Discobox
+LOCATION:The Boombox
+DESCRIPTION:Tags: disco\nAges: 18+\nhttps://shotgun.live/en/events/murder-a
+ t-the-disco-box\nhttps://edmtrain.com/miami-fl/murder-at-the-disco-box-546
+ 164
 URL:https://shotgun.live/en/events/murder-at-the-disco-box
 STATUS:CONFIRMED
 CATEGORIES:disco
-GEO:25.7287781;-80.3169309
 END:VEVENT
 BEGIN:VEVENT
 UID:year-of-the-knife-at-boombox-10-25@shotgun.live

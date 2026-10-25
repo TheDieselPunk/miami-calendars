@@ -67,30 +67,6 @@
    "url": "https://link.dice.fm/pc78b350889b"
   },
   {
-   "id": "shotgun:karnival-halloween-party-horror-games-18-rave",
-   "source": "shotgun",
-   "title": "Karnival: Halloween Cosplay Party & 18+ After Hours Rave",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": "festivals",
-   "date": "2026-10-24",
-   "start": "2026-10-24T22:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "dance",
-    "techno",
-    "house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/karnival-halloween-party-horror-games-18-rave"
-  },
-  {
    "id": "19hz:4446696-guactoberfestlam",
    "source": "19hz",
    "title": "Guactoberfest: Lamebot, Guac, Madsavvy, Jorg, The Engineer",
@@ -189,30 +165,6 @@
    ]
   },
   {
-   "id": "shotgun:midnighthertz",
-   "source": "shotgun",
-   "title": "Midnight Hertz",
-   "artists": [],
-   "venue": "Dania Beach",
-   "venue_slug": null,
-   "date": "2026-10-24",
-   "start": "2026-10-25T00:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$18.00",
-   "genres": [
-    "jersey club",
-    "tech house",
-    "hard bounce"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/midnighthertz"
-  },
-  {
    "id": "19hz:4446703-edx",
    "source": "19hz+edmtrain",
    "title": "EDX",
@@ -238,6 +190,34 @@
    "url": "https://speakeasygo.com/event/EVE-W7S3OV",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/edx-532634"
+   ]
+  },
+  {
+   "id": "19hz:4446708-sammyjackieclark",
+   "source": "19hz+edmtrain",
+   "title": "Sammy Jackie-Clarke, Valery Karbia",
+   "artists": [
+    "Valery Karbia"
+   ],
+   "venue": "2395 Coral Way",
+   "venue_slug": null,
+   "date": "2026-10-24",
+   "start": "2026-10-25T01:00:00+00:00",
+   "end": "2026-10-25T05:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "free",
+   "genres": [
+    "hardstyle",
+    "house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sammy-jackie-clarke-dj-set-with-special-guest-valery-karbia",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/valery-karbia-538185"
    ]
   },
   {
@@ -268,67 +248,26 @@
    ]
   },
   {
-   "id": "shotgun:madradiomiami102426",
-   "source": "19hz+shotgun",
+   "id": "19hz:4446708-musicontherocksl",
+   "source": "19hz",
    "title": "Music On The Rocks: Leo Del Toro / So Madriz / Daizy",
-   "artists": [
-    "Leo Del Toro"
-   ],
-   "venue": "Mad Radio Miami",
+   "artists": [],
+   "venue": "Mad Radio",
    "venue_slug": "mad-radio",
    "date": "2026-10-24",
    "start": "2026-10-25T01:00:00+00:00",
    "end": "2026-10-25T07:00:00+00:00",
    "time_estimated": false,
-   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
-   "ages": "21+",
-   "price": "$21.80",
-   "genres": [
-    "house"
-   ],
-   "genres_inferred": false,
-   "organizer": "Mad Radio Miami",
-   "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY BEFORE 10 PM / FREE ENTRY LADIES UNTIL MIDNIGHT + 25 YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
-   "url": "https://shotgun.live/en/events/madradiomiami102426",
-   "tickets": "AFTER 10 PM $20, FREE LADIES RSVP BEFORE 12 AM Free",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.8462027,
-    "longitude": -80.1851332
-   },
-   "created": "2026-10-01T20:56:10.000Z",
-   "alt_urls": [
-    "https://shotgun.live/en/events/madradiomiami102426"
-   ]
-  },
-  {
-   "id": "shotgun:sammy-jackie-clarke-dj-set-with-special-guest-valery-karbia",
-   "source": "19hz+shotgun",
-   "title": "Sammy Jackie-Clarke Dj Set With Special Guest Valery Karbia",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": "festivals",
-   "date": "2026-10-24",
-   "start": "2026-10-25T01:00:00+00:00",
-   "end": "2026-10-25T05:00:00+00:00",
-   "time_estimated": false,
    "address": "",
-   "ages": "",
-   "price": "free",
+   "ages": "21+",
+   "price": "free w/rsvp b4 midnight ladies / free w/rsvp b4 10pm / $22",
    "genres": [
-    "electro house",
-    "electronica",
-    "hardstyle",
     "house"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/sammy-jackie-clarke-dj-set-with-special-guest-valery-karbia",
-   "alt_urls": [
-    "https://shotgun.live/en/events/sammy-jackie-clarke-dj-set-with-special-guest-valery-karbia"
-   ]
+   "url": "https://shotgun.live/en/events/madradiomiami102426"
   },
   {
    "id": "19hz:4446708-hauntedraveyardp",
@@ -360,26 +299,29 @@
    ]
   },
   {
-   "id": "shotgun:grunge-night-devin-s-birthday",
-   "source": "shotgun",
-   "title": "Grunge Night: Devin's Birthday",
+   "id": "19hz:4446712-sapphossirensoft",
+   "source": "19hz",
+   "title": "Sapphos: Sirens Of The Underworld",
    "artists": [],
-   "venue": "Tribe Tea Kava Lounge",
+   "venue": "777 Northeast 79th Street",
    "venue_slug": null,
    "date": "2026-10-24",
-   "start": "2026-10-25T01:00:00+00:00",
-   "end": null,
+   "start": "2026-10-25T02:00:00+00:00",
+   "end": "2026-10-25T08:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "Free",
+   "price": "free w/rsvp / $11-15",
    "genres": [
-    "rock"
+    "booty bass",
+    "hip-hop",
+    "perreo",
+    "pop"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/grunge-night-devin-s-birthday"
+   "url": "https://shotgun.live/en/events/sapphos-12"
   },
   {
    "id": "19hz:4446712-doomsdayafterdar",
@@ -453,30 +395,6 @@
    "url": "https://dice.fm/event/53k27l--vampire-weekend-23rd-oct-domicile-miami-miami-tickets"
   },
   {
-   "id": "shotgun:mandragora-oct24",
-   "source": "shotgun",
-   "title": "Mandragora & More",
-   "artists": [],
-   "venue": "EDGE MIAMI",
-   "venue_slug": null,
-   "date": "2026-10-24",
-   "start": "2026-10-25T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "progressive house",
-    "progressive psytrance",
-    "house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/mandragora-oct24"
-  },
-  {
    "id": "19hz:4446712-mandragoramegust",
    "source": "19hz+edmtrain",
    "title": "Mandragora, Megusta, Fulano & More",
@@ -507,21 +425,21 @@
    ]
   },
   {
-   "id": "dice:6aa9c6d3a46904000108e080",
-   "source": "19hz+dice+edmtrain",
-   "title": "Ida Engberg b2b ONYVAA",
+   "id": "19hz:4446712-idaengbergonyvaa",
+   "source": "19hz+edmtrain",
+   "title": "Ida Engberg & Onyvaa",
    "artists": [
     "Ida Engberg",
     "ONYVAA",
     "Kujo"
    ],
-   "venue": "Jolene Sound Room Miami",
+   "venue": "Jolene Downtown",
    "venue_slug": "jolene",
    "date": "2026-10-24",
    "start": "2026-10-25T02:00:00+00:00",
    "end": "2026-10-25T08:00:00+00:00",
    "time_estimated": false,
-   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "address": "",
    "ages": "21+",
    "price": "$7 b4 12 / $10-12",
    "genres": [
@@ -531,9 +449,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/l8m97w-ida-engberg-b2b-onyvaa-24th-oct-jolene-sound-room-miami-miami-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/l8m97w-ida-engberg-b2b-onyvaa-24th-oct-jolene-sound-room-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/ida-engberg-onyvaa-537225"
    ]
   },
@@ -594,9 +510,9 @@
    "url": "https://www.therumor.com/p/biz"
   },
   {
-   "id": "shotgun:lunasol-pres-joeski",
-   "source": "19hz+edmtrain+shotgun",
-   "title": "Lunasol Pres. Joeski + Special Guest Kimonos",
+   "id": "19hz:4446712-joeskikimonoso",
+   "source": "19hz+edmtrain",
+   "title": "Joeski, Kimonoso",
    "artists": [
     "Joeski"
    ],
@@ -617,36 +533,7 @@
    "description": "",
    "url": "https://shotgun.live/en/events/lunasol-pres-joeski",
    "alt_urls": [
-    "https://shotgun.live/en/events/lunasol-pres-joeski",
     "https://edmtrain.com/miami-fl/lunasol-pres-joeski-544408"
-   ]
-  },
-  {
-   "id": "shotgun:sapphos-12",
-   "source": "19hz+shotgun",
-   "title": "Sapphos: Sirens Of The Underworld",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-10-24",
-   "start": "2026-10-25T02:00:00+00:00",
-   "end": "2026-10-25T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$15.00",
-   "genres": [
-    "booty bass",
-    "hip-hop",
-    "perreo",
-    "pop"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/sapphos-12",
-   "alt_urls": [
-    "https://shotgun.live/en/events/sapphos-12"
    ]
   },
   {
@@ -698,30 +585,6 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/stavroz-540075"
    ]
-  },
-  {
-   "id": "shotgun:the-hall-360-differ-f-2-f-nico-moon",
-   "source": "shotgun",
-   "title": "The Hall 360 : Differ F2f Nico Moon",
-   "artists": [],
-   "venue": "Upside",
-   "venue_slug": null,
-   "date": "2026-10-24",
-   "start": "2026-10-25T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$45.40",
-   "genres": [
-    "house",
-    "deep house",
-    "melodic house & techno"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/the-hall-360-differ-f-2-f-nico-moon"
   },
   {
    "id": "dice:6a91f30f69be3b0001c698fc",
@@ -848,42 +711,33 @@
    ]
   },
   {
-   "id": "shotgun:murder-at-the-disco-box",
-   "source": "19hz+edmtrain+shotgun",
-   "title": "Murder At The Disco Box",
+   "id": "19hz:4446715-discobox",
+   "source": "19hz+edmtrain",
+   "title": "Discobox",
    "artists": [],
-   "venue": "The Boombox Miami",
+   "venue": "The Boombox",
    "venue_slug": "boombox",
    "date": "2026-10-24",
    "start": "2026-10-25T03:00:00+00:00",
-   "end": "2026-10-25T08:00:00+00:00",
+   "end": "2026-10-25T10:00:00+00:00",
    "time_estimated": false,
-   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
+   "address": "",
    "ages": "18+",
-   "price": "Free",
+   "price": "free 21+ / $20 21",
    "genres": [
     "disco"
    ],
    "genres_inferred": false,
-   "organizer": "The Boombox Miami",
-   "description": "A NIGHT OF DEADLY DISCO DiscoBox returns this Friday with a Halloween special. Costumes are REQUIRED. Disco all night, plus a costume contest with 2 FREE TICKETS up for grabs. Best costume wins entry for you and a plus one to BOTH nights of our Halloween weekend, October 30th & 31st. OCT 24 • 11PM TILL LATE THE BOOMBOX | 4447 SW 75TH AVE Dress to impress the dead. 18+ = 20$ 21+ = free entry",
+   "organizer": "",
+   "description": "",
    "url": "https://shotgun.live/en/events/murder-at-the-disco-box",
-   "tickets": "RSVP Free",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.7287781,
-    "longitude": -80.3169309
-   },
-   "created": "2026-10-19T20:10:03.000Z",
    "alt_urls": [
-    "https://shotgun.live/en/events/murder-at-the-disco-box",
     "https://edmtrain.com/miami-fl/murder-at-the-disco-box-546164"
    ]
   },
   {
    "id": "tablelist:f1a299c797f4b9b1",
-   "source": "19hz+edmtrain+tablelist+venue",
+   "source": "19hz+edmtrain+tablelist",
    "title": "Lewis OfMan",
    "artists": [
     "Lewis OfMan"
@@ -896,7 +750,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "18+",
-   "price": "Free",
+   "price": "$23-51.70",
    "genres": [
     "disco",
     "funk",
@@ -907,7 +761,6 @@
    "description": "",
    "url": "https://buy.tablelist.com/e/f1a299c797f4b9b1",
    "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/lewis-ofman-24-oct",
     "https://ra.co/events/2534428",
     "https://edmtrain.com/miami-fl/lewis-ofman-535661"
    ]
@@ -938,31 +791,6 @@
    "url": "https://www.livnightclub.com/miami/event/EVE112156200020261024/saturday/?ref=ticketmaster",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/twinsick-536622"
-   ]
-  },
-  {
-   "id": "edmtrain:538185",
-   "source": "edmtrain",
-   "title": "Valery Karbia",
-   "artists": [
-    "Valery Karbia"
-   ],
-   "venue": "2395 Coral Wy",
-   "venue_slug": null,
-   "date": "2026-10-24",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "2395 Coral Wy, Miami, FL 33145, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/sammy-jackie-clarke-dj-set-with-special-guest-valery-karbia?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/valery-karbia-538185"
    ]
   },
   {

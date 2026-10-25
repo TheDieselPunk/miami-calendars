@@ -173,9 +173,9 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 44,
+  "events": 42,
   "estimated_times": 18,
-  "next": "2026-10-24",
+  "next": "2026-10-30",
   "sources": [
    "19hz",
    "dice",

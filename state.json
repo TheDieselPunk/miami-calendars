@@ -4,6 +4,11 @@
   "seq": 0,
   "modified": "2026-10-25T04:18:11+00:00"
  },
+ "19hz-4446708-musicontherocksl@mad-radio.miami-calendars": {
+  "hash": "fa5982cf7037c6cf",
+  "seq": 0,
+  "modified": "2026-10-25T10:18:03+00:00"
+ },
  "19hz-4446712-doomsdayafterdar@daer.miami-calendars": {
   "hash": "c7f733e852cc05b2",
   "seq": 0,
@@ -14,10 +19,20 @@
   "seq": 0,
   "modified": "2026-10-17T16:18:17+00:00"
  },
+ "19hz-4446712-idaengbergonyvaa@jolene.miami-calendars": {
+  "hash": "e22bbb2683a405c9",
+  "seq": 0,
+  "modified": "2026-10-25T10:18:03+00:00"
+ },
  "19hz-4446715-aluna@floyd.miami-calendars": {
   "hash": "71e2ee8c8ac1ebdd",
   "seq": 0,
   "modified": "2026-10-25T04:18:11+00:00"
+ },
+ "19hz-4446715-discobox@boombox.miami-calendars": {
+  "hash": "bfce7ecdf17df9f9",
+  "seq": 0,
+  "modified": "2026-10-25T10:18:03+00:00"
  },
  "19hz-4446715-vavo@daer.miami-calendars": {
   "hash": "27a1f997718a11f7",
@@ -463,11 +478,6 @@
   "hash": "62e95e0370f1f901",
   "seq": 2,
   "modified": "2026-10-04T22:18:19+00:00"
- },
- "dice-6aa9c6d3a46904000108e080@jolene.miami-calendars": {
-  "hash": "ca7a80fd2b58a8b6",
-  "seq": 2,
-  "modified": "2026-09-22T00:41:54+00:00"
  },
  "dice-6aaae261eacc0d0001e8d9e6@kemistry.miami-calendars": {
   "hash": "1061a4f9dbd01442",
@@ -1144,20 +1154,10 @@
   "seq": 0,
   "modified": "2026-10-05T22:18:30+00:00"
  },
- "karnival-halloween-party-horror-games-18-rave@shotgun.live": {
-  "hash": "34af2bdcad5fb50d",
-  "seq": 1,
-  "modified": "2026-10-10T16:18:14+00:00"
- },
  "lilith-s-demise-and-slamwich-at-the-boombox-11-15@shotgun.live": {
   "hash": "d563519bbd028c53",
   "seq": 0,
   "modified": "2026-10-22T04:18:28+00:00"
- },
- "madradiomiami102426@shotgun.live": {
-  "hash": "45a4b77c7b7acaba",
-  "seq": 1,
-  "modified": "2026-10-17T16:18:17+00:00"
  },
  "madradiomiami102826@shotgun.live": {
   "hash": "e6813273a9e20c26",
@@ -1179,20 +1179,10 @@
   "seq": 4,
   "modified": "2026-10-24T10:18:23+00:00"
  },
- "murder-at-the-disco-box@shotgun.live": {
-  "hash": "7d5dcb66aa49265d",
-  "seq": 2,
-  "modified": "2026-10-23T04:18:23+00:00"
- },
  "paloma-morphy-miami@shotgun.live": {
   "hash": "1c469fee0d3a69fd",
   "seq": 2,
   "modified": "2026-09-28T04:18:01+00:00"
- },
- "sammy-jackie-clarke-dj-set-with-special-guest-valery-karbia@shotgun.live": {
-  "hash": "fa49d6001edf108c",
-  "seq": 1,
-  "modified": "2026-09-26T22:18:17+00:00"
  },
  "sangomia1205@shotgun.live": {
   "hash": "8c53651b6045a374",
@@ -1225,9 +1215,9 @@
   "modified": "2026-10-01T04:18:24+00:00"
  },
  "tablelist-f1a299c797f4b9b1@zeyzey.miami-calendars": {
-  "hash": "bd5a2f7a23bca065",
-  "seq": 0,
-  "modified": "2026-10-01T04:18:24+00:00"
+  "hash": "6a153765cf353580",
+  "seq": 1,
+  "modified": "2026-10-25T10:18:03+00:00"
  },
  "tablelist-f68f86a4f33a974d@zeyzey.miami-calendars": {
   "hash": "f0dba44f27ecf408",
