@@ -8,21 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4446616-pearsonsound@jolene.miami-calendars
-DTSTAMP:20261024T161821Z
-LAST-MODIFIED:20261024T161821Z
-SEQUENCE:0
-DTSTART:20261024T020000Z
-DTEND:20261024T080000Z
-SUMMARY:Pearson Sound
-LOCATION:Jolene Downtown
-DESCRIPTION:Tags: deep house\, tech house\, techno\nAges: 21+\nhttps://dice
- .fm/event/6abd7555c82c800001a1b0c7
-URL:https://dice.fm/event/6abd7555c82c800001a1b0c7
-STATUS:CONFIRMED
-CATEGORIES:deep house,tech house,techno
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6aa9c6d3a46904000108e080@jolene.miami-calendars
 DTSTAMP:20260922T004154Z
 LAST-MODIFIED:20260922T004154Z
@@ -345,16 +330,16 @@ CATEGORIES:house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6acea6ba0671d7000182aa7e@jolene.miami-calendars
-DTSTAMP:20261014T041826Z
-LAST-MODIFIED:20261014T041826Z
-SEQUENCE:0
+DTSTAMP:20261025T041811Z
+LAST-MODIFIED:20261025T041811Z
+SEQUENCE:1
 DTSTART:20270101T030000Z
 DTEND:20270101T090000Z
 SUMMARY:New Year's Eve
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6acea6b
- a0671d7000182aa7e\nhttps://tixr.com/e/207892
+DESCRIPTION:Tags (guess): house\, tech house\nAges: 21+\nhttps://dice.fm/ev
+ ent/6acea6ba0671d7000182aa7e\nhttps://tixr.com/e/207892
 URL:https://dice.fm/event/6acea6ba0671d7000182aa7e
 STATUS:CONFIRMED
 CATEGORIES:house,tech house

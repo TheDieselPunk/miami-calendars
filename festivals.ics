@@ -416,20 +416,19 @@ URL:https://laylo.com/subtronics/cyclopscove4?utm_source=2d65QY9eqctgGASihm
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-546337@festivals.miami-calendars
-DTSTAMP:20261022T041828Z
-LAST-MODIFIED:20261022T041828Z
-SEQUENCE:2
+UID:19hz-4450716-afrobaseldaypart@festivals.miami-calendars
+DTSTAMP:20261025T041811Z
+LAST-MODIFIED:20261025T041811Z
+SEQUENCE:0
 DTSTART:20261205T200000Z
-DTEND:20261206T070000Z
-SUMMARY:Cloonee b2b Adriatique
-LOCATION:Watson Island Park\, 1050 MacArthur Cswy\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Cloonee\, Adriatique\nTimes are an estimate from Festiv
- als & one-offs's usual hours - the listing has no start time yet. Check th
- e link.\nhttps://dice.fm/event/pywx7k?pid=d6342b83\nhttps://edmtrain.com/m
- iami-fl/cloonee-adriatique-546337
-URL:https://dice.fm/event/pywx7k?pid=d6342b83
+DTEND:20261206T010000Z
+SUMMARY:Afrobasel Day Party
+LOCATION:TBA
+DESCRIPTION:Tags: afro house\, afrobeats\, amapiano\nPresented by: Vibehaus
+ s\nAges: 18+\nhttps://ra.co/events/2556404
+URL:https://ra.co/events/2556404
 STATUS:CONFIRMED
+CATEGORIES:afro house,afrobeats,amapiano
 END:VEVENT
 BEGIN:VEVENT
 UID:sangomia1205@shotgun.live
@@ -446,6 +445,25 @@ DESCRIPTION:Lineup: Sango\, Mathias.\, Lelynd Darkes\, Khalil\, NINI\nTags:
 URL:https://shotgun.live/en/events/sangomia1205
 STATUS:CONFIRMED
 CATEGORIES:baile funk,hip hop,house
+END:VEVENT
+BEGIN:VEVENT
+UID:19hz-4450720-adriatiqueb2bclo@festivals.miami-calendars
+DTSTAMP:20261025T041811Z
+LAST-MODIFIED:20261025T041811Z
+SEQUENCE:0
+DTSTART:20261205T210000Z
+DTEND:20261206T040000Z
+SUMMARY:Adriatique B2B Cloonee
+LOCATION:Watson Island Park\, Miami Beach
+DESCRIPTION:Lineup: Cloonee\, Adriatique\nTags: progressive house\, tech ho
+ use\nPresented by: Framework\, unKommon\nAges: 21+\nhttps://dice.fm/event/
+ pywx7k-framework-unkommon-events-present-adriatique-b2b-cloonee-5th-dec-wa
+ tson-island-park-miami-beach-tickets\nhttps://edmtrain.com/miami-fl/cloone
+ e-adriatique-546337
+URL:https://dice.fm/event/pywx7k-framework-unkommon-events-present-adriatiq
+ ue-b2b-cloonee-5th-dec-watson-island-park-miami-beach-tickets
+STATUS:CONFIRMED
+CATEGORIES:progressive house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4450723-michaelbibi@festivals.miami-calendars

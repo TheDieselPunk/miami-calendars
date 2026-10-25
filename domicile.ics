@@ -8,23 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4446616-hedoncarlaschmit@domicile.miami-calendars
-DTSTAMP:20261017T161817Z
-LAST-MODIFIED:20261017T161817Z
-SEQUENCE:0
-DTSTART:20261024T020000Z
-DTEND:20261024T100000Z
-SUMMARY:Hedon: Carla Schmitt\, Mia Vendetta\, Tektroidgrl\, Ultrathem B2B V
- irgo
-LOCATION:Domicile
-DESCRIPTION:Tags: hard techno\, hard trance\nAges: 18+\nhttps://dice.fm/eve
- nt/53k27l--vampire-weekend-23rd-oct-domicile-miami-miami-tickets
-URL:https://dice.fm/event/53k27l--vampire-weekend-23rd-oct-domicile-miami-m
- iami-tickets
-STATUS:CONFIRMED
-CATEGORIES:hard techno,hard trance
-END:VEVENT
-BEGIN:VEVENT
 UID:19hz-4446712-hedondanithornel@domicile.miami-calendars
 DTSTAMP:20261017T161817Z
 LAST-MODIFIED:20261017T161817Z

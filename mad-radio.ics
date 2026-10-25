@@ -8,52 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4446612-camaraderiepumah@mad-radio.miami-calendars
-DTSTAMP:20261024T101823Z
-LAST-MODIFIED:20261024T101823Z
-SEQUENCE:0
-DTSTART:20261024T010000Z
-DTEND:20261024T070000Z
-SUMMARY:Camaraderie: Puma / Harry Hm / Amare
-LOCATION:Mad Radio
-DESCRIPTION:Tags: house\nAges: 21+\nhttps://shotgun.live/en/events/madradio
- miami102326
-URL:https://shotgun.live/en/events/madradiomiami102326
-STATUS:CONFIRMED
-CATEGORIES:house
-END:VEVENT
-BEGIN:VEVENT
-UID:benefica-pop-up@shotgun.live
-DTSTAMP:20261017T221811Z
-LAST-MODIFIED:20261017T221811Z
-SEQUENCE:0
-DTSTART:20261024T180000Z
-DTEND:20261025T010000Z
-SUMMARY:Benéfica Pop Up
-LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, EE.
-  UU.
-DESCRIPTION:Benéfica Pop-Up · Riverside Terrace Line-up An afternoon of l
- ive music\, great food and independent brands on the riverside terrace at 
- Mad Radio Miami\, all for a cause: children in Colombia. 🎶 LIVE DJs Mil
- agros Espada · Rob Keith · Misturada 🍽️ FOOD Menu by Chef Vima Cast
- illo üõçÔ∏è INDEPENDENT BRANDS Art\, design\, fashion\, photography
-  and handmade accessories from Miami-based creators\, including Rootsbylau
- ra\, La Linterna\, Las Chinis Miami\, Blank Mind\, Martina Hoyos and Panth
- a Design Lab\, with more to be announced. 💲 FREE ENTRY\, VOLUNTARY DONA
- TION Entry is free. If you wish\, you can make a voluntary donation on the
-  day\, and everything goes to children in Colombia. ✨ One more thing Tha
- t day we unveil something new. You'll only see it if you come. 📅 Saturd
- ay\, October 24 · 2 p.m. 📍 Mad Radio Miami · 7700 Biscayne Blvd\, Mia
- mi Hosted by Benéfica\, in partnership with Mad Radio and Mad Records. In
- stagram: @benefica_col\nLineup: Milagros Espada\nTags (guess): deep house
- \, house\nPresented by: Benéfica\nTickets: Donation $10 $10\, Donation $2
- 0 $20\, Donation $50 $50\nhttps://shotgun.live/en/events/benefica-pop-up
-URL:https://shotgun.live/en/events/benefica-pop-up
-STATUS:CONFIRMED
-CATEGORIES:deep house,house
-GEO:25.8462027;-80.1851332
-END:VEVENT
-BEGIN:VEVENT
 UID:madradiomiami102426@shotgun.live
 DTSTAMP:20261017T161817Z
 LAST-MODIFIED:20261017T161817Z

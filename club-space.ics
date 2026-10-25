@@ -8,37 +8,22 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4446607-nicolemoudaber@club-space.miami-calendars
-DTSTAMP:20261024T161821Z
-LAST-MODIFIED:20261024T161821Z
-SEQUENCE:0
-DTSTART:20261024T000000Z
-DTEND:20261024T150000Z
-SUMMARY:Nicole Moudaber
-LOCATION:Club Space
-DESCRIPTION:Tags: tech house\, techno\nAges: 21+\nhttps://dice.fm/event/v3l
- py7-nicole-moudaber-23rd-oct-club-space-miami-miami-tickets
-URL:https://dice.fm/event/v3lpy7-nicole-moudaber-23rd-oct-club-space-miami-
- miami-tickets
-STATUS:CONFIRMED
-CATEGORIES:tech house,techno
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6a91f30f69be3b0001c698fc@club-space.miami-calendars
-DTSTAMP:20261024T221817Z
-LAST-MODIFIED:20261024T221817Z
-SEQUENCE:3
+DTSTAMP:20261025T041811Z
+LAST-MODIFIED:20261025T041811Z
+SEQUENCE:4
 DTSTART:20261025T030000Z
 DTEND:20261025T180000Z
 SUMMARY:Riordan\, Luuk Van Dijk\, Julian Fijma & James Poole
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
 DESCRIPTION:Lineup: Riordan\, Luuk Van Dijk\, Julian Fijma\, James Poole\, 
- Mai Iachetti\, Ms. Mada\nTags: tech house\nAges: 21+\nhttps://dice.fm/even
- t/6a91f30f69be3b0001c698fc\nhttps://edmtrain.com/miami-fl/race-to-space-54
- 6794\nhttps://edmtrain.com/miami-fl/riordan-luuk-van-dijk-533028
+ Mai Iachetti\, Ms. Mada\nTags: hard bounce\, hard groove\, tech house\, tr
+  ance\nAges: 21+\nhttps://dice.fm/event/6a91f30f69be3b0001c698fc\nhttps://
+ edmtrain.com/miami-fl/race-to-space-546794\nhttps://edmtrain.com/miami-fl/
+ riordan-luuk-van-dijk-533028\nhttps://link.dice.fm/brkander
 URL:https://dice.fm/event/6a91f30f69be3b0001c698fc
 STATUS:CONFIRMED
-CATEGORIES:tech house
+CATEGORIES:hard bounce,hard groove,tech house,tr ance
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a91f44e3fb32f00016121ba@club-space.miami-calendars
