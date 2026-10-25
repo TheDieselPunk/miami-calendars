@@ -135,13 +135,9 @@
   },
   {
    "id": "19hz:4446703-kikeroldannaylas",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Kike Roldan, Nayla Scozzesi, and Marco Norma",
-   "artists": [
-    "Kike Roldan",
-    "nayla scozzesi",
-    "Marco Norma"
-   ],
+   "artists": [],
    "venue": "Aire Miami",
    "venue_slug": null,
    "date": "2026-10-24",
@@ -159,18 +155,13 @@
    "genres_inferred": false,
    "organizer": "Aire Miami",
    "description": "",
-   "url": "https://posh.vip/e/kike-roldan-nayla-scozzesi-and-marco-norma",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/kike-roldan-nayla-scozzesi-545979"
-   ]
+   "url": "https://posh.vip/e/kike-roldan-nayla-scozzesi-and-marco-norma"
   },
   {
    "id": "19hz:4446703-edx",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "EDX",
-   "artists": [
-    "EDX"
-   ],
+   "artists": [],
    "venue": "E11even",
    "venue_slug": null,
    "date": "2026-10-24",
@@ -187,18 +178,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://speakeasygo.com/event/EVE-W7S3OV",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/edx-532634"
-   ]
+   "url": "https://speakeasygo.com/event/EVE-W7S3OV"
   },
   {
    "id": "19hz:4446708-sammyjackieclark",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Sammy Jackie-Clarke, Valery Karbia",
-   "artists": [
-    "Valery Karbia"
-   ],
+   "artists": [],
    "venue": "2395 Coral Way",
    "venue_slug": null,
    "date": "2026-10-24",
@@ -215,18 +201,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/sammy-jackie-clarke-dj-set-with-special-guest-valery-karbia",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/valery-karbia-538185"
-   ]
+   "url": "https://shotgun.live/en/events/sammy-jackie-clarke-dj-set-with-special-guest-valery-karbia"
   },
   {
    "id": "19hz:4446708-bijoupresentslup",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Bijou Presents: Lupe Fuentes & Friends",
-   "artists": [
-    "Lupe Fuentes"
-   ],
+   "artists": [],
    "venue": "Bijou Social Club",
    "venue_slug": null,
    "date": "2026-10-24",
@@ -242,10 +223,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/bbqyqm-bijou-presents-lupe-fuentes-friends-24th-oct-bijou-social-club-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/lupe-fuentes-544661"
-   ]
+   "url": "https://dice.fm/event/bbqyqm-bijou-presents-lupe-fuentes-friends-24th-oct-bijou-social-club-miami-tickets"
   },
   {
    "id": "19hz:4446708-musicontherocksl",
@@ -271,11 +249,9 @@
   },
   {
    "id": "19hz:4446708-hauntedraveyardp",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Haunted Raveyard Pre Party: Angels & Demons Ft. Not Agn",
-   "artists": [
-    "NOT AGN"
-   ],
+   "artists": [],
    "venue": "Rock Bar",
    "venue_slug": null,
    "date": "2026-10-24",
@@ -293,10 +269,7 @@
    "genres_inferred": false,
    "organizer": "Collegiate Nightlife",
    "description": "",
-   "url": "https://posh.vip/e/haunted-raveyard-pre-party-angels-demons-ft-not-agn",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/haunted-raveyard-pre-party-not-agn-545610"
-   ]
+   "url": "https://posh.vip/e/haunted-raveyard-pre-party-angels-demons-ft-not-agn"
   },
   {
    "id": "19hz:4446712-sapphossirensoft",
@@ -345,11 +318,9 @@
   },
   {
    "id": "19hz:4446712-pasodoble",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Paso Doble",
-   "artists": [
-    "Paso Doble"
-   ],
+   "artists": [],
    "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
    "date": "2026-10-24",
@@ -366,10 +337,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6a60e7f7170f000001347489",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/paso-doble-523285"
-   ]
+   "url": "https://dice.fm/event/6a60e7f7170f000001347489"
   },
   {
    "id": "19hz:4446712-hedondanithornel",
@@ -396,14 +364,9 @@
   },
   {
    "id": "19hz:4446712-mandragoramegust",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Mandragora, Megusta, Fulano & More",
-   "artists": [
-    "Mandragora",
-    "MeGusta",
-    "FULANO.",
-    "Not So Human"
-   ],
+   "artists": [],
    "venue": "Edge",
    "venue_slug": null,
    "date": "2026-10-24",
@@ -419,20 +382,13 @@
    "genres_inferred": false,
    "organizer": "Pitchpark Events",
    "description": "",
-   "url": "https://posh.vip/e/mandragora-megusta-fulano-not-so-human-campos",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/mandragora-megusta-545412"
-   ]
+   "url": "https://posh.vip/e/mandragora-megusta-fulano-not-so-human-campos"
   },
   {
    "id": "19hz:4446712-idaengbergonyvaa",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Ida Engberg & Onyvaa",
-   "artists": [
-    "Ida Engberg",
-    "ONYVAA",
-    "Kujo"
-   ],
+   "artists": [],
    "venue": "Jolene Downtown",
    "venue_slug": "jolene",
    "date": "2026-10-24",
@@ -448,28 +404,22 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/l8m97w-ida-engberg-b2b-onyvaa-24th-oct-jolene-sound-room-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/ida-engberg-onyvaa-537225"
-   ]
+   "url": "https://dice.fm/event/l8m97w-ida-engberg-b2b-onyvaa-24th-oct-jolene-sound-room-miami-miami-tickets"
   },
   {
-   "id": "dice:6a83a12b1d18340001d369c3",
-   "source": "19hz+dice+edmtrain",
-   "title": "KASIA",
-   "artists": [
-    "Kasia",
-    "Stone Van Brooken"
-   ],
+   "id": "19hz:4446712-kasia",
+   "source": "19hz",
+   "title": "Kasia",
+   "artists": [],
    "venue": "Kemistry",
    "venue_slug": "kemistry",
    "date": "2026-10-24",
    "start": "2026-10-25T02:00:00+00:00",
    "end": "2026-10-25T08:00:00+00:00",
    "time_estimated": false,
-   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "address": "Fort Lauderdale",
    "ages": "18+",
-   "price": "From $20",
+   "price": "$20+",
    "genres": [
     "progressive house",
     "trance"
@@ -477,12 +427,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/yodxp2-kasia-24th-oct-kemistry-fort-lauderdale-tickets",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/event/yodxp2-kasia-24th-oct-kemistry-fort-lauderdale-tickets",
-    "https://edmtrain.com/fort-lauderdale-fl/kasia-stone-van-brooken-535154"
-   ]
+   "url": "https://dice.fm/event/yodxp2-kasia-24th-oct-kemistry-fort-lauderdale-tickets"
   },
   {
    "id": "19hz:4446712-bizmartinez50thb",
@@ -511,11 +456,9 @@
   },
   {
    "id": "19hz:4446712-joeskikimonoso",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Joeski, Kimonoso",
-   "artists": [
-    "Joeski"
-   ],
+   "artists": [],
    "venue": "Lunasol",
    "venue_slug": null,
    "date": "2026-10-24",
@@ -531,10 +474,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/lunasol-pres-joeski",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/lunasol-pres-joeski-544408"
-   ]
+   "url": "https://shotgun.live/en/events/lunasol-pres-joeski"
   },
   {
    "id": "19hz:4446712-nochedeperreo",
@@ -560,11 +500,9 @@
   },
   {
    "id": "19hz:4446712-stavroz",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Stavroz",
-   "artists": [
-    "Stavroz"
-   ],
+   "artists": [],
    "venue": "Sable",
    "venue_slug": null,
    "date": "2026-10-24",
@@ -581,57 +519,35 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/92vedn-stavroz-live-24th-oct-sable-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/stavroz-540075"
-   ]
+   "url": "https://dice.fm/event/92vedn-stavroz-live-24th-oct-sable-miami-miami-tickets"
   },
   {
-   "id": "dice:6a91f30f69be3b0001c698fc",
-   "source": "19hz+dice+edmtrain",
+   "id": "19hz:4446715-riordanluukvandi",
+   "source": "19hz",
    "title": "Riordan, Luuk Van Dijk, Julian Fijma & James Poole",
-   "artists": [
-    "Riordan",
-    "Luuk Van Dijk",
-    "Julian Fijma",
-    "James Poole",
-    "Mai Iachetti",
-    "Ms. Mada"
-   ],
-   "venue": "Club Space Miami",
+   "artists": [],
+   "venue": "Club Space",
    "venue_slug": "club-space",
    "date": "2026-10-24",
    "start": "2026-10-25T03:00:00+00:00",
    "end": "2026-10-25T18:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": "From $20",
+   "price": "$20+",
    "genres": [
-    "hard bounce",
-    "hard groove",
-    "tech house",
-    "tr ance"
+    "tech house"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6a91f30f69be3b0001c698fc",
-   "cancelled": false,
-   "alt_urls": [
-    "https://link.dice.fm/brkander",
-    "https://dice.fm/event/6a91f30f69be3b0001c698fc",
-    "https://edmtrain.com/miami-fl/riordan-luuk-van-dijk-533028",
-    "https://edmtrain.com/miami-fl/race-to-space-546794"
-   ]
+   "url": "https://dice.fm/event/6a91f30f69be3b0001c698fc"
   },
   {
    "id": "19hz:4446715-vavo",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Vavo",
-   "artists": [
-    "VAVO"
-   ],
+   "artists": [],
    "venue": "Daer Nightclub",
    "venue_slug": "daer",
    "date": "2026-10-24",
@@ -649,19 +565,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://www.tixr.com/groups/daernightclubsouthflorida/events/vavo-daer-nightclub-202036",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/vavo-531795"
-   ]
+   "url": "https://www.tixr.com/groups/daernightclubsouthflorida/events/vavo-daer-nightclub-202036"
   },
   {
    "id": "19hz:4446715-aluna",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Aluna",
-   "artists": [
-    "Aluna (of AlunaGeorge)",
-    "Nikita Green"
-   ],
+   "artists": [],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
    "date": "2026-10-24",
@@ -677,19 +587,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6dg9r7-aluna-24th-oct-floyd-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/aluna-of-alunageorge-nikita-green-532663"
-   ]
+   "url": "https://dice.fm/event/6dg9r7-aluna-24th-oct-floyd-miami-miami-tickets"
   },
   {
    "id": "19hz:4446715-davesummerkellan",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Dave Summer, Kelland",
-   "artists": [
-    "Dave Summer",
-    "Kelland"
-   ],
+   "artists": [],
    "venue": "Studio 60",
    "venue_slug": null,
    "date": "2026-10-24",
@@ -705,14 +609,11 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/bbgglg-dave-summer-kelland-24th-oct-studio-60-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/dave-summer-kelland-539202"
-   ]
+   "url": "https://dice.fm/event/bbgglg-dave-summer-kelland-24th-oct-studio-60-miami-miami-tickets"
   },
   {
    "id": "19hz:4446715-discobox",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Discobox",
    "artists": [],
    "venue": "The Boombox",
@@ -730,18 +631,37 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/murder-at-the-disco-box",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/murder-at-the-disco-box-546164"
-   ]
+   "url": "https://shotgun.live/en/events/murder-at-the-disco-box"
+  },
+  {
+   "id": "19hz:4446715-blackroomkanderd",
+   "source": "19hz",
+   "title": "Black Room: Kander, DomnRob, Cultus Vis, Dadrev",
+   "artists": [],
+   "venue": "The Ground At Club Space",
+   "venue_slug": "club-space",
+   "date": "2026-10-24",
+   "start": "2026-10-25T03:00:00+00:00",
+   "end": "2026-10-25T11:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "$15+",
+   "genres": [
+    "hard bounce",
+    "hard groove",
+    "tr ance"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://link.dice.fm/brkander"
   },
   {
    "id": "tablelist:f1a299c797f4b9b1",
-   "source": "19hz+edmtrain+tablelist",
+   "source": "19hz+tablelist",
    "title": "Lewis OfMan",
-   "artists": [
-    "Lewis OfMan"
-   ],
+   "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-10-24",
@@ -761,17 +681,14 @@
    "description": "",
    "url": "https://buy.tablelist.com/e/f1a299c797f4b9b1",
    "alt_urls": [
-    "https://ra.co/events/2534428",
-    "https://edmtrain.com/miami-fl/lewis-ofman-535661"
+    "https://ra.co/events/2534428"
    ]
   },
   {
    "id": "19hz:4446718-twinsick",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Twinsick",
-   "artists": [
-    "TWINSICK"
-   ],
+   "artists": [],
    "venue": "Liv",
    "venue_slug": null,
    "date": "2026-10-24",
@@ -788,62 +705,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://www.livnightclub.com/miami/event/EVE112156200020261024/saturday/?ref=ticketmaster",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/twinsick-536622"
-   ]
-  },
-  {
-   "id": "edmtrain:545361",
-   "source": "edmtrain",
-   "title": "INTRIGA X BOHO House- Day Party Vol. 3: Santelises, Goa '98",
-   "artists": [
-    "Santelises",
-    "Goa '98"
-   ],
-   "venue": "BOHO Wynwood",
-   "venue_slug": null,
-   "date": "2026-10-24",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "85 NW 25th St, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/dky8qo?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/intriga-x-boho-house-day-party-vol-3-santelises-545361"
-   ]
-  },
-  {
-   "id": "edmtrain:545700",
-   "source": "edmtrain",
-   "title": "Loods, KOJA",
-   "artists": [
-    "Loods",
-    "KOJA"
-   ],
-   "venue": "Treehouse Miami Beach",
-   "venue_slug": null,
-   "date": "2026-10-24",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "323 23rd St, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.etix.com/ticket/p/63129693",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/loods-koja-545700"
-   ]
+   "url": "https://www.livnightclub.com/miami/event/EVE112156200020261024/saturday/?ref=ticketmaster"
   },
   {
    "id": "hardrock:211964",

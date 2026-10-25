@@ -8,19 +8,16 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a83a12b1d18340001d369c3@kemistry.miami-calendars
-DTSTAMP:20261020T041827Z
-LAST-MODIFIED:20261020T041827Z
-SEQUENCE:6
+UID:19hz-4446712-kasia@kemistry.miami-calendars
+DTSTAMP:20261025T161807Z
+LAST-MODIFIED:20261025T161807Z
+SEQUENCE:0
 DTSTART:20261025T020000Z
 DTEND:20261025T080000Z
-SUMMARY:KASIA
-LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
- 312\, United States
-DESCRIPTION:Lineup: Kasia\, Stone Van Brooken\nTags: progressive house\, tr
- ance\nAges: 18+\nhttps://dice.fm/event/yodxp2-kasia-24th-oct-kemistry-fort
- -lauderdale-tickets\nhttps://edmtrain.com/fort-lauderdale-fl/kasia-stone-v
- an-brooken-535154
+SUMMARY:Kasia
+LOCATION:Kemistry\, Fort Lauderdale
+DESCRIPTION:Tags: progressive house\, trance\nAges: 18+\nhttps://dice.fm/ev
+ ent/yodxp2-kasia-24th-oct-kemistry-fort-lauderdale-tickets
 URL:https://dice.fm/event/yodxp2-kasia-24th-oct-kemistry-fort-lauderdale-ti
  ckets
 STATUS:CONFIRMED

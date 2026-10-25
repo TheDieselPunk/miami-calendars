@@ -39,16 +39,15 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4446715-vavo@daer.miami-calendars
-DTSTAMP:20261025T041811Z
-LAST-MODIFIED:20261025T041811Z
-SEQUENCE:0
+DTSTAMP:20261025T161807Z
+LAST-MODIFIED:20261025T161807Z
+SEQUENCE:1
 DTSTART:20261025T030000Z
 DTEND:20261025T080000Z
 SUMMARY:Vavo
 LOCATION:Daer Nightclub\, Hollywood
-DESCRIPTION:Lineup: VAVO\nTags: future bass\, pop edm\, trap\nAges: 21+\nht
- tps://www.tixr.com/groups/daernightclubsouthflorida/events/vavo-daer-night
- club-202036\nhttps://edmtrain.com/fort-lauderdale-fl/vavo-531795
+DESCRIPTION:Tags: future bass\, pop edm\, trap\nAges: 21+\nhttps://www.tixr
+ .com/groups/daernightclubsouthflorida/events/vavo-daer-nightclub-202036
 URL:https://www.tixr.com/groups/daernightclubsouthflorida/events/vavo-daer-
  nightclub-202036
 STATUS:CONFIRMED

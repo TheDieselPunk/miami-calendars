@@ -9,16 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4446715-discobox@boombox.miami-calendars
-DTSTAMP:20261025T101803Z
-LAST-MODIFIED:20261025T101803Z
-SEQUENCE:0
+DTSTAMP:20261025T161807Z
+LAST-MODIFIED:20261025T161807Z
+SEQUENCE:1
 DTSTART:20261025T030000Z
 DTEND:20261025T100000Z
 SUMMARY:Discobox
 LOCATION:The Boombox
 DESCRIPTION:Tags: disco\nAges: 18+\nhttps://shotgun.live/en/events/murder-a
- t-the-disco-box\nhttps://edmtrain.com/miami-fl/murder-at-the-disco-box-546
- 164
+ t-the-disco-box
 URL:https://shotgun.live/en/events/murder-at-the-disco-box
 STATUS:CONFIRMED
 CATEGORIES:disco

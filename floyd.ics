@@ -9,17 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4446715-aluna@floyd.miami-calendars
-DTSTAMP:20261025T041811Z
-LAST-MODIFIED:20261025T041811Z
-SEQUENCE:0
+DTSTAMP:20261025T161807Z
+LAST-MODIFIED:20261025T161807Z
+SEQUENCE:1
 DTSTART:20261025T030000Z
 DTEND:20261025T090000Z
 SUMMARY:Aluna
 LOCATION:Floyd Miami
-DESCRIPTION:Lineup: Aluna (of AlunaGeorge)\, Nikita Green\nTags: house\nAge
- s: 21+\nhttps://dice.fm/event/6dg9r7-aluna-24th-oct-floyd-miami-miami-tick
- ets\nhttps://edmtrain.com/miami-fl/aluna-of-alunageorge-nikita-green-53266
- 3
+DESCRIPTION:Tags: house\nAges: 21+\nhttps://dice.fm/event/6dg9r7-aluna-24th
+ -oct-floyd-miami-miami-tickets
 URL:https://dice.fm/event/6dg9r7-aluna-24th-oct-floyd-miami-miami-tickets
 STATUS:CONFIRMED
 CATEGORIES:house

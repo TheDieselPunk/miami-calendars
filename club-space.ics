@@ -8,22 +8,34 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a91f30f69be3b0001c698fc@club-space.miami-calendars
-DTSTAMP:20261025T041811Z
-LAST-MODIFIED:20261025T041811Z
-SEQUENCE:4
+UID:19hz-4446715-riordanluukvandi@club-space.miami-calendars
+DTSTAMP:20261025T161807Z
+LAST-MODIFIED:20261025T161807Z
+SEQUENCE:0
 DTSTART:20261025T030000Z
 DTEND:20261025T180000Z
 SUMMARY:Riordan\, Luuk Van Dijk\, Julian Fijma & James Poole
-LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Riordan\, Luuk Van Dijk\, Julian Fijma\, James Poole\, 
- Mai Iachetti\, Ms. Mada\nTags: hard bounce\, hard groove\, tech house\, tr
-  ance\nAges: 21+\nhttps://dice.fm/event/6a91f30f69be3b0001c698fc\nhttps://
- edmtrain.com/miami-fl/race-to-space-546794\nhttps://edmtrain.com/miami-fl/
- riordan-luuk-van-dijk-533028\nhttps://link.dice.fm/brkander
+LOCATION:Club Space
+DESCRIPTION:Tags: tech house\nAges: 21+\nhttps://dice.fm/event/6a91f30f69be
+ 3b0001c698fc
 URL:https://dice.fm/event/6a91f30f69be3b0001c698fc
 STATUS:CONFIRMED
-CATEGORIES:hard bounce,hard groove,tech house,tr ance
+CATEGORIES:tech house
+END:VEVENT
+BEGIN:VEVENT
+UID:19hz-4446715-blackroomkanderd@club-space.miami-calendars
+DTSTAMP:20261025T161807Z
+LAST-MODIFIED:20261025T161807Z
+SEQUENCE:0
+DTSTART:20261025T030000Z
+DTEND:20261025T110000Z
+SUMMARY:Black Room: Kander\, DomnRob\, Cultus Vis\, Dadrev
+LOCATION:The Ground At Club Space
+DESCRIPTION:Tags: hard bounce\, hard groove\, tr ance\nAges: 21+\nhttps://l
+ ink.dice.fm/brkander
+URL:https://link.dice.fm/brkander
+STATUS:CONFIRMED
+CATEGORIES:hard bounce,hard groove,tr ance
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a91f44e3fb32f00016121ba@club-space.miami-calendars
