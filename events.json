@@ -1011,7 +1011,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$12.00",
+   "price": "$18.00",
    "genres": [],
    "genres_inferred": false,
    "organizer": "",
@@ -1381,6 +1381,30 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/jessy-545575"
    ]
+  },
+  {
+   "id": "shotgun:bad-gyal-mas-cara-tour-unofficial-afterparty-miami",
+   "source": "shotgun",
+   "title": "Bad Gyal Más Cara Tour Unofficial Afterparty: Miami",
+   "artists": [],
+   "venue": "Lust Lounge",
+   "venue_slug": null,
+   "date": "2026-10-28",
+   "start": "2026-10-29T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.35",
+   "genres": [
+    "reggaeton",
+    "latin",
+    "club"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/bad-gyal-mas-cara-tour-unofficial-afterparty-miami"
   },
   {
    "id": "shotgun:miko",
