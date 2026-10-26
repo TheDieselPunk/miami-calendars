@@ -70,7 +70,7 @@
   },
   {
    "id": "tablelist:3e4f70ad438fc504",
-   "source": "tablelist+venue",
+   "source": "tablelist",
    "title": "Peter Bjorn and John - Writer’s Block",
    "artists": [],
    "venue": "ZeyZey Miami",
@@ -82,16 +82,11 @@
    "address": "",
    "ages": "",
    "price": "",
-   "genres": [
-    "indie/alternative"
-   ],
+   "genres": [],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://buy.tablelist.com/e/3e4f70ad438fc504",
-   "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/peter-bjorn-and-john-writer-s-block-20th-anniversary-tour-25-oct"
-   ]
+   "url": "https://buy.tablelist.com/e/3e4f70ad438fc504"
   },
   {
    "id": "19hz:4446799-lazarocasanovani",
@@ -176,6 +171,26 @@
    ]
   },
   {
+   "id": "19hz:4446804-despechosonidoer",
+   "source": "19hz",
+   "title": "Despecho: Sonido Erotik X Pa+Lante",
+   "artists": [],
+   "venue": "777 Northeast 79th Street",
+   "venue_slug": null,
+   "date": "2026-10-25",
+   "start": "2026-10-26T01:00:00+00:00",
+   "end": "2026-10-26T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "free w/rsvp / $12-20",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/despecho"
+  },
+  {
    "id": "19hz:4446804-synthcitytrippie",
    "source": "19hz",
    "title": "Synth City: Trippie Hippie, Grue5Ome, Rude Boy, Pazmal, DJ Ventura",
@@ -194,29 +209,6 @@
    "organizer": "",
    "description": "",
    "url": "https://ra.co/events/2565690"
-  },
-  {
-   "id": "shotgun:despecho",
-   "source": "19hz+shotgun",
-   "title": "Despecho: Sonido Erotik X Pa’Lante",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-10-25",
-   "start": "2026-10-26T01:00:00+00:00",
-   "end": "2026-10-26T06:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "$18.00",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/despecho",
-   "alt_urls": [
-    "https://shotgun.live/en/events/despecho"
-   ]
   },
   {
    "id": "19hz:4446811-frankstormblaise",
@@ -3150,6 +3142,26 @@
    "cancelled": false
   },
   {
+   "id": "shotgun:inferno",
+   "source": "shotgun",
+   "title": "Disco Inferno",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-11-01",
+   "start": "2026-11-02T00:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/inferno"
+  },
+  {
    "id": "19hz:4447471-mistergray",
    "source": "19hz+edmtrain",
    "title": "Mister Gray",
@@ -4599,7 +4611,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $10",
+   "price": "From $15",
    "genres": [
     "ghettotech"
    ],
@@ -5090,8 +5102,8 @@
    ]
   },
   {
-   "id": "19hz:4448536-4b",
-   "source": "19hz+edmtrain",
+   "id": "dice:6acd12180a3d6400017d20c5",
+   "source": "19hz+dice+edmtrain",
    "title": "4B",
    "artists": [
     "4B"
@@ -5102,9 +5114,9 @@
    "start": "2026-11-13T03:00:00+00:00",
    "end": "2026-11-13T09:00:00+00:00",
    "time_estimated": false,
-   "address": "Fort Lauderdale",
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "18+",
-   "price": "$13.22",
+   "price": "From $13",
    "genres": [
     "dubstep",
     "trap"
@@ -5113,7 +5125,9 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/nvr835-4b-12th-nov-kemistry-fort-lauderdale-tickets",
+   "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/nvr835-4b-12th-nov-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/4b-544395"
    ]
   },
@@ -5434,9 +5448,9 @@
    ]
   },
   {
-   "id": "19hz:4448632-rabbitinthemoon",
-   "source": "19hz+edmtrain",
-   "title": "Rabbit In The Moon",
+   "id": "dice:6ab3fb9d80f9a500012b3792",
+   "source": "19hz+dice+edmtrain",
+   "title": "RABBIT IN THE MOON - LIVE",
    "artists": [
     "Rabbit in the Moon"
    ],
@@ -5446,9 +5460,9 @@
    "start": "2026-11-14T03:00:00+00:00",
    "end": "2026-11-14T09:00:00+00:00",
    "time_estimated": false,
-   "address": "Fort Lauderdale",
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "18+",
-   "price": "$53+",
+   "price": "From $53",
    "genres": [
     "breaks",
     "progressive house",
@@ -5459,7 +5473,9 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/mxyy9k-rabbit-in-the-moon-live-13th-nov-kemistry-fort-lauderdale-tickets",
+   "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/mxyy9k-rabbit-in-the-moon-live-13th-nov-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/rabbit-in-the-moon-539579"
    ]
   },
@@ -5807,11 +5823,9 @@
   },
   {
    "id": "dice:6a9c6f1a8e70340001656cb5",
-   "source": "19hz+dice+edmtrain",
+   "source": "dice",
    "title": "80'S DAY DISCO",
-   "artists": [
-    "Jessica Audiffred"
-   ],
+   "artists": [],
    "venue": "Kemistry",
    "venue_slug": "kemistry",
    "date": "2026-11-14",
@@ -5819,22 +5833,17 @@
    "end": "2026-11-15T01:00:00+00:00",
    "time_estimated": false,
    "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
-   "ages": "18+",
-   "price": "$33+",
+   "ages": "",
+   "price": "",
    "genres": [
-    "bass house",
-    "dubstep",
-    "future bass"
+    "bass",
+    "dubstep"
    ],
-   "genres_inferred": false,
+   "genres_inferred": true,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/7dwvg7-jessica-audiffred-14th-nov-kemistry-fort-lauderdale-tickets",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/event/7dwvg7-jessica-audiffred-14th-nov-kemistry-fort-lauderdale-tickets",
-    "https://edmtrain.com/fort-lauderdale-fl/jessica-audiffred-515130"
-   ]
+   "url": "https://dice.fm/event/6a9c6f1a8e70340001656cb5",
+   "cancelled": false
   },
   {
    "id": "shotgun:i-liedtomyself-descry-iliad-see-you-next-ar-boombox-11-14",
@@ -6060,6 +6069,37 @@
    "alt_urls": [
     "https://dice.fm/event/6a3077721b98d10001598c8a",
     "https://edmtrain.com/miami-fl/odesza-boys-noize-527884"
+   ]
+  },
+  {
+   "id": "dice:6a39388b80183200011c1c6f",
+   "source": "19hz+dice+edmtrain",
+   "title": "JESSICA AUDIFFRED",
+   "artists": [
+    "Jessica Audiffred"
+   ],
+   "venue": "Kemistry",
+   "venue_slug": "kemistry",
+   "date": "2026-11-14",
+   "start": "2026-11-15T03:00:00+00:00",
+   "end": "2026-11-15T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "ages": "18+",
+   "price": "From $33",
+   "genres": [
+    "bass house",
+    "dubstep",
+    "future bass"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/7dwvg7-jessica-audiffred-14th-nov-kemistry-fort-lauderdale-tickets",
+   "cancelled": false,
+   "alt_urls": [
+    "https://dice.fm/event/7dwvg7-jessica-audiffred-14th-nov-kemistry-fort-lauderdale-tickets",
+    "https://edmtrain.com/fort-lauderdale-fl/jessica-audiffred-515130"
    ]
   },
   {
@@ -7023,9 +7063,9 @@
    ]
   },
   {
-   "id": "19hz:4449304-ronisize",
-   "source": "19hz+edmtrain",
-   "title": "Roni Size",
+   "id": "dice:6a9840d31cfa4500010544f6",
+   "source": "19hz+dice+edmtrain",
+   "title": "RONI SIZE",
    "artists": [
     "Roni Size"
    ],
@@ -7035,7 +7075,7 @@
    "start": "2026-11-21T03:00:00+00:00",
    "end": "2026-11-21T09:00:00+00:00",
    "time_estimated": false,
-   "address": "Fort Lauderdale",
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "18+",
    "price": "free w/rsvp b4 11pm / $26",
    "genres": [
@@ -7046,7 +7086,9 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/bbg6eo-roni-size-20th-nov-kemistry-fort-lauderdale-tickets",
+   "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/bbg6eo-roni-size-20th-nov-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/roni-size-534312"
    ]
   },
@@ -7512,9 +7554,9 @@
    "cancelled": false
   },
   {
-   "id": "19hz:4449400-starmonster",
-   "source": "19hz+edmtrain",
-   "title": "Star Monster",
+   "id": "dice:6a64b93c7b94a300012b1b10",
+   "source": "19hz+dice+edmtrain",
+   "title": "STAR MONSTER",
    "artists": [
     "Star Monster"
    ],
@@ -7524,9 +7566,9 @@
    "start": "2026-11-22T03:00:00+00:00",
    "end": "2026-11-22T09:00:00+00:00",
    "time_estimated": false,
-   "address": "Fort Lauderdale",
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "18+",
-   "price": "$13.22",
+   "price": "From $13",
    "genres": [
     "dubstep",
     "trap"
@@ -7535,7 +7577,9 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/v3xw57-star-monster-21st-nov-kemistry-fort-lauderdale-tickets",
+   "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/v3xw57-star-monster-21st-nov-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/star-monster-526019"
    ]
   },
@@ -8240,9 +8284,9 @@
    ]
   },
   {
-   "id": "19hz:4449976-space92",
-   "source": "19hz+edmtrain",
-   "title": "Space 92",
+   "id": "dice:6aaae809e78bd300017554b1",
+   "source": "19hz+dice+edmtrain",
+   "title": "SPACE 92",
    "artists": [
     "Space 92"
    ],
@@ -8252,9 +8296,9 @@
    "start": "2026-11-28T03:00:00+00:00",
    "end": "2026-11-28T09:00:00+00:00",
    "time_estimated": false,
-   "address": "Fort Lauderdale",
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "18+",
-   "price": "$19.84",
+   "price": "From $20",
    "genres": [
     "techno"
    ],
@@ -8262,7 +8306,9 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/8e7g5w-space-92-27th-nov-kemistry-fort-lauderdale-tickets",
+   "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/8e7g5w-space-92-27th-nov-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/space-92-538122"
    ]
   },
@@ -8680,9 +8726,9 @@
    ]
   },
   {
-   "id": "19hz:4450072-spacewizard",
-   "source": "19hz+edmtrain",
-   "title": "Space Wizard",
+   "id": "dice:6a60e813170f000001bd0743",
+   "source": "19hz+dice+edmtrain",
+   "title": "SPACE WIZARD",
    "artists": [
     "Space Wizard",
     "XaeboR"
@@ -8693,9 +8739,9 @@
    "start": "2026-11-29T03:00:00+00:00",
    "end": "2026-11-29T09:00:00+00:00",
    "time_estimated": false,
-   "address": "Fort Lauderdale",
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "18+",
-   "price": "$13.22",
+   "price": "From $13",
    "genres": [
     "bass music",
     "dubstep"
@@ -8704,7 +8750,9 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/xe3wmk-space-wizard-28th-nov-kemistry-fort-lauderdale-tickets",
+   "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/xe3wmk-space-wizard-28th-nov-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/space-wizard-xaebor-526433"
    ]
   },
@@ -9875,9 +9923,9 @@
    ]
   },
   {
-   "id": "19hz:4450552-levelup",
-   "source": "19hz+edmtrain",
-   "title": "Level Up",
+   "id": "dice:6a02cf0a5ca3ee0001e1d1dc",
+   "source": "19hz+dice+edmtrain",
+   "title": "LEVEL UP : CYCLOPS COVE PRE-PARTY",
    "artists": [
     "LEVEL UP",
     "Vicky B"
@@ -9888,19 +9936,21 @@
    "start": "2026-12-04T03:00:00+00:00",
    "end": "2026-12-04T09:00:00+00:00",
    "time_estimated": false,
-   "address": "Fort Lauderdale",
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "18+",
-   "price": "$26.45",
+   "price": "From $26",
    "genres": [
     "bass music",
     "dubstep",
     "riddim"
    ],
    "genres_inferred": false,
-   "organizer": "Insomniac",
+   "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/92k2p7-level-up-cyclops-cove-pre-party-3rd-dec-kemistry-fort-lauderdale-tickets",
+   "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/92k2p7-level-up-cyclops-cove-pre-party-3rd-dec-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/cyclops-cove-pre-party-level-up-525244"
    ]
   },
@@ -12344,6 +12394,30 @@
    "cancelled": false
   },
   {
+   "id": "dice:6a6261171e9f6e0001fe74da",
+   "source": "dice",
+   "title": "CANDYLAND : 30 YEAR ANNIVERSARY",
+   "artists": [],
+   "venue": "Kemistry",
+   "venue_slug": "kemistry",
+   "date": "2026-12-19",
+   "start": "2026-12-20T01:00:00+00:00",
+   "end": "2026-12-20T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "ages": "",
+   "price": "From $26",
+   "genres": [
+    "bass",
+    "dubstep"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6a6261171e9f6e0001fe74da",
+   "cancelled": false
+  },
+  {
    "id": "19hz:4452084-dosem",
    "source": "19hz+edmtrain",
    "title": "Dosem",
@@ -12609,9 +12683,9 @@
    "generic_title": true
   },
   {
-   "id": "19hz:4452760-avello",
-   "source": "19hz+edmtrain",
-   "title": "Avello",
+   "id": "dice:6a60e5e3f0b16700018157d5",
+   "source": "19hz+dice+edmtrain",
+   "title": "AVELLO",
    "artists": [
     "AVELLO"
    ],
@@ -12621,9 +12695,9 @@
    "start": "2026-12-27T03:00:00+00:00",
    "end": "2026-12-27T09:00:00+00:00",
    "time_estimated": false,
-   "address": "Fort Lauderdale",
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "18+",
-   "price": "$39.67",
+   "price": "From $40",
    "genres": [
     "bass music",
     "dubstep"
@@ -12632,7 +12706,9 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/53m9ew-avello-26th-dec-kemistry-fort-lauderdale-tickets",
+   "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/53m9ew-avello-26th-dec-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/avello-524557"
    ]
   },
@@ -13228,9 +13304,9 @@
    "cancelled": false
   },
   {
-   "id": "19hz:4454776-infectedmushroom",
-   "source": "19hz+edmtrain",
-   "title": "Infected Mushroom",
+   "id": "dice:6a17a579b4fd860001a0bd2e",
+   "source": "19hz+dice+edmtrain",
+   "title": "INFECTED MUSHROOM",
    "artists": [
     "Infected Mushroom"
    ],
@@ -13240,9 +13316,9 @@
    "start": "2027-01-17T03:00:00+00:00",
    "end": "2027-01-17T09:00:00+00:00",
    "time_estimated": false,
-   "address": "Fort Lauderdale",
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "18+",
-   "price": "$26.45",
+   "price": "From $26",
    "genres": [
     "electro house",
     "glitch",
@@ -13252,7 +13328,9 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6daxpq-infected-mushroom-16th-jan-kemistry-fort-lauderdale-tickets",
+   "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/6daxpq-infected-mushroom-16th-jan-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/infected-mushroom-511448"
    ]
   },
@@ -13326,9 +13404,9 @@
    ]
   },
   {
-   "id": "19hz:4455352-hamro",
-   "source": "19hz+edmtrain",
-   "title": "Hamro",
+   "id": "dice:6a95bdbd6ae28100012001f9",
+   "source": "19hz+dice+edmtrain",
+   "title": "HAMRO",
    "artists": [
     "HAMRO",
     "SQISHI"
@@ -13339,9 +13417,9 @@
    "start": "2027-01-23T03:00:00+00:00",
    "end": "2027-01-23T09:00:00+00:00",
    "time_estimated": false,
-   "address": "Fort Lauderdale",
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "18+",
-   "price": "$13.22",
+   "price": "From $13",
    "genres": [
     "bass music",
     "dubstep"
@@ -13350,7 +13428,9 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/py3lmy-hamro-22nd-jan-kemistry-fort-lauderdale-tickets",
+   "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/py3lmy-hamro-22nd-jan-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/hamro-sqishi-534522"
    ]
   },
@@ -13506,9 +13586,9 @@
    ]
   },
   {
-   "id": "19hz:4456120-junkiekid",
-   "source": "19hz+edmtrain",
-   "title": "Junkie Kid",
+   "id": "dice:6abde1c608a31d0001f4c9e6",
+   "source": "19hz+dice+edmtrain",
+   "title": "JUNKIE KID",
    "artists": [
     "Junkie Kid"
    ],
@@ -13518,9 +13598,9 @@
    "start": "2027-01-31T03:00:00+00:00",
    "end": "2027-01-31T09:00:00+00:00",
    "time_estimated": false,
-   "address": "Fort Lauderdale",
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "18+",
-   "price": "$13.22",
+   "price": "From $13",
    "genres": [
     "hard dance",
     "hard house"
@@ -13529,7 +13609,9 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/53k25d-junkie-kid-30th-jan-kemistry-fort-lauderdale-tickets",
+   "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/53k25d-junkie-kid-30th-jan-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/junkie-kid-541640"
    ]
   },

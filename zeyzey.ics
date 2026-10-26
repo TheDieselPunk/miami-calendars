@@ -9,19 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:tablelist-3e4f70ad438fc504@zeyzey.miami-calendars
-DTSTAMP:20261001T041824Z
-LAST-MODIFIED:20261001T041824Z
-SEQUENCE:0
+DTSTAMP:20261026T101803Z
+LAST-MODIFIED:20261026T101803Z
+SEQUENCE:1
 DTSTART:20261025T230000Z
 DTEND:20261026T060000Z
 SUMMARY:Peter Bjorn and John - Writer’s Block
 LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: indie/alternative\nhttps://buy.tablelist.com/e/3e4f70ad43
- 8fc504\nhttps://calendar.zeyzeymiami.com/shows/peter-bjorn-and-john-writer
- -s-block-20th-anniversary-tour-25-oct
+DESCRIPTION:https://buy.tablelist.com/e/3e4f70ad438fc504
 URL:https://buy.tablelist.com/e/3e4f70ad438fc504
 STATUS:CONFIRMED
-CATEGORIES:indie/alternative
 END:VEVENT
 BEGIN:VEVENT
 UID:tablelist-303b09419bf8998a@zeyzey.miami-calendars
