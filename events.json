@@ -22,11 +22,9 @@
   },
   {
    "id": "19hz:4446792-sundancewdurante",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Sundance w/ Durante",
-   "artists": [
-    "Durante"
-   ],
+   "artists": [],
    "venue": "Upside",
    "venue_slug": null,
    "date": "2026-10-25",
@@ -43,10 +41,7 @@
    "genres_inferred": false,
    "organizer": "Apex",
    "description": "",
-   "url": "https://dice.fm/event/g5v7gp-durante-25th-oct-upside-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/durante-541227"
-   ]
+   "url": "https://dice.fm/event/g5v7gp-durante-25th-oct-upside-miami-tickets"
   },
   {
    "id": "19hz:4446796-rumcokesession55",
@@ -90,13 +85,9 @@
   },
   {
    "id": "19hz:4446799-lazarocasanovani",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Lazaro Casanova, Nicole Fiallo, Solune",
-   "artists": [
-    "Lazaro Casanova",
-    "Nicole Fiallo",
-    "Solune"
-   ],
+   "artists": [],
    "venue": "1-800-Lucky",
    "venue_slug": null,
    "date": "2026-10-25",
@@ -113,10 +104,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/53272y-sundays-lazaro-casanova-nicole-fiallo-solune-25th-oct-1-800-lucky-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/sundays-lazaro-casanova-545963"
-   ]
+   "url": "https://dice.fm/event/53272y-sundays-lazaro-casanova-nicole-fiallo-solune-25th-oct-1-800-lucky-miami-tickets"
   },
   {
    "id": "19hz:4446799-oscargfriends",
@@ -142,11 +130,9 @@
   },
   {
    "id": "19hz:4446799-chizzle",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Chizzle",
-   "artists": [
-    "Chizzle"
-   ],
+   "artists": [],
    "venue": "E11even",
    "venue_slug": null,
    "date": "2026-10-25",
@@ -165,10 +151,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://speakeasygo.com/event/EVE-KYZSSI",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/chizzle-528571"
-   ]
+   "url": "https://speakeasygo.com/event/EVE-KYZSSI"
   },
   {
    "id": "19hz:4446804-despechosonidoer",
@@ -232,31 +215,6 @@
    "organizer": "",
    "description": "",
    "url": "https://link.dice.fm/frankblaisefloyd"
-  },
-  {
-   "id": "edmtrain:545980",
-   "source": "edmtrain",
-   "title": "Oscar G",
-   "artists": [
-    "Oscar G"
-   ],
-   "venue": "AIRE Miami",
-   "venue_slug": null,
-   "date": "2026-10-25",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "111 NE 20th St, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/oe8rqa?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/oscar-g-545980"
-   ]
   },
   {
    "id": "shotgun:the-overjoyed",
@@ -947,7 +905,7 @@
    "organizer": "The Boombox Miami",
    "description": "BOOMBOX SE7EN YEAR ANNIVERSARY Two nights. Two stages. 30+ acts. We’re celebrating 7 years of BOOMBOX with a massive Halloween weekend featuring some of Miami’s best underground sounds. With OMNI SOUND SPACE, EQUINOX BOOKING, FLORIDA GLOSS, and SAY TECH AND SMILE. OCTOBER 30 & 31 18+",
    "url": "https://shotgun.live/en/events/halloween-se-7-en",
-   "tickets": "FRIDAY OCT 30TH (SINGLE DAY PASS) - EARLY BIRD $20 (sold out), 2-DAY PASS (EARLY BIRD) $30 (sold out), SATURDAY OCT 31TH (SINGLE DAY PASS) - EARLY BIRD $20 (sold out), FRIDAY OCT 30TH - SINGLE DAY PASS $30, 2-DAY PASS $40, SATURDAY OCT 31TH - SINGLE DAY PASS $30",
+   "tickets": "FRIDAY OCT 30TH (SINGLE DAY PASS) - EARLY BIRD $20 (sold out), 2-DAY PASS (EARLY BIRD) $30 (sold out), SATURDAY OCT 31TH (SINGLE DAY PASS) - EARLY BIRD $20 (sold out), FRIDAY OCT 30TH (SINGLE DAY PASS) $30, 2-DAY PASS $40, SATURDAY OCT 31TH (SINGLE DAY PASS) $30",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -1269,56 +1227,6 @@
    ]
   },
   {
-   "id": "hardrock:210188",
-   "source": "venue",
-   "title": "Alex Sensation",
-   "artists": [],
-   "venue": "DAER Dayclub Afterdark",
-   "venue_slug": "daer",
-   "date": "2026-10-30",
-   "start": "2026-10-31T02:00:00+00:00",
-   "end": "2026-10-31T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "1 Seminole Way, Hollywood, FL 33314",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://tixr.com/e/210188",
-   "generic_title": false
-  },
-  {
-   "id": "hardrock:204541",
-   "source": "19hz+edmtrain+venue",
-   "title": "DJ Pauly D - Halloween Weekend",
-   "artists": [
-    "DJ Pauly D"
-   ],
-   "venue": "DAER Nightclub",
-   "venue_slug": "daer",
-   "date": "2026-10-30",
-   "start": "2026-10-31T02:00:00+00:00",
-   "end": "2026-10-31T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "1 Seminole Way, Hollywood, FL 33314",
-   "ages": "21+",
-   "price": "$37",
-   "genres": [
-    "pop edm"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://tixr.com/e/204541",
-   "generic_title": false,
-   "alt_urls": [
-    "https://www.tixr.com/groups/daernightclubsouthflorida/events/dj-pauly-d-halloween-weekend-daer-nightclub-204541",
-    "https://edmtrain.com/fort-lauderdale-fl/dj-pauly-d-538589"
-   ]
-  },
-  {
    "id": "19hz:4447288-donotsitonhallow",
    "source": "19hz+edmtrain",
    "title": "Do Not Sit On Halloween ft. Mira",
@@ -1515,7 +1423,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $80",
+   "price": "From $95",
    "genres": [
     "breaks",
     "club",
@@ -1744,6 +1652,56 @@
    "alt_urls": [
     "https://dice.fm/event/6a91f44e3fb32f00016121ba",
     "https://edmtrain.com/miami-fl/halloweek-camelphat-531559"
+   ]
+  },
+  {
+   "id": "hardrock:210188",
+   "source": "venue",
+   "title": "Alex Sensation",
+   "artists": [],
+   "venue": "DAER Dayclub Afterdark",
+   "venue_slug": "daer",
+   "date": "2026-10-30",
+   "start": "2026-10-31T03:00:00+00:00",
+   "end": "2026-10-31T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "1 Seminole Way, Hollywood, FL 33314",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://tixr.com/e/210188",
+   "generic_title": false
+  },
+  {
+   "id": "hardrock:204541",
+   "source": "19hz+edmtrain+venue",
+   "title": "DJ Pauly D - Halloween Weekend",
+   "artists": [
+    "DJ Pauly D"
+   ],
+   "venue": "DAER Nightclub",
+   "venue_slug": "daer",
+   "date": "2026-10-30",
+   "start": "2026-10-31T03:00:00+00:00",
+   "end": "2026-10-31T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "1 Seminole Way, Hollywood, FL 33314",
+   "ages": "21+",
+   "price": "$37",
+   "genres": [
+    "pop edm"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://tixr.com/e/204541",
+   "generic_title": false,
+   "alt_urls": [
+    "https://www.tixr.com/groups/daernightclubsouthflorida/events/dj-pauly-d-halloween-weekend-daer-nightclub-204541",
+    "https://edmtrain.com/fort-lauderdale-fl/dj-pauly-d-538589"
    ]
   },
   {
@@ -3669,7 +3627,7 @@
   {
    "id": "hardrock:205999",
    "source": "venue",
-   "title": "DAER Nightclub",
+   "title": "Sech",
    "artists": [],
    "venue": "DAER Nightclub",
    "venue_slug": "daer",
@@ -3685,7 +3643,7 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/205999",
-   "generic_title": true
+   "generic_title": false
   },
   {
    "id": "19hz:4447960-nicomorano",
