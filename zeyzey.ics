@@ -417,6 +417,21 @@ STATUS:CONFIRMED
 CATEGORIES:indie/alternative
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-solmates-presents-sparrow-more-20-nov@zeyzey.miami-calendars
+DTSTAMP:20261026T221812Z
+LAST-MODIFIED:20261026T221812Z
+SEQUENCE:0
+DTSTART:20261121T030000Z
+DTEND:20261121T080000Z
+SUMMARY:Solmates Presents Sparrow & More
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://calendar.zeyzeymiami.com/shows/solmates-presents-sparro
+ w-more-20-nov
+URL:https://calendar.zeyzeymiami.com/shows/solmates-presents-sparrow-more-2
+ 0-nov
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-selects-donny-benet@shotgun.live
 DTSTAMP:20261023T161816Z
 LAST-MODIFIED:20261023T161816Z
