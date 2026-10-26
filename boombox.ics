@@ -8,40 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4446715-discobox@boombox.miami-calendars
-DTSTAMP:20261025T161807Z
-LAST-MODIFIED:20261025T161807Z
-SEQUENCE:1
-DTSTART:20261025T030000Z
-DTEND:20261025T100000Z
-SUMMARY:Discobox
-LOCATION:The Boombox
-DESCRIPTION:Tags: disco\nAges: 18+\nhttps://shotgun.live/en/events/murder-a
- t-the-disco-box
-URL:https://shotgun.live/en/events/murder-at-the-disco-box
-STATUS:CONFIRMED
-CATEGORIES:disco
-END:VEVENT
-BEGIN:VEVENT
-UID:year-of-the-knife-at-boombox-10-25@shotgun.live
-DTSTAMP:20261025T041811Z
-LAST-MODIFIED:20261025T041811Z
-SEQUENCE:1
-DTSTART:20261025T220000Z
-DTEND:20261026T030000Z
-SUMMARY:Year Of The Knife At Boombox 10/25
-LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
- \, USA
-DESCRIPTION:Equinox Booking Presents Year of The Knife Domain No Truth Hack
- saw\nTags: hardcore\nPresented by: Equinox Booking\nTickets: General Admis
- sion $15 (sold out)\, Day of ticket $20\nhttps://shotgun.live/en/events/ye
- ar-of-the-knife-at-boombox-10-25
-URL:https://shotgun.live/en/events/year-of-the-knife-at-boombox-10-25
-STATUS:CONFIRMED
-CATEGORIES:hardcore
-GEO:25.7287781;-80.3169309
-END:VEVENT
-BEGIN:VEVENT
 UID:halloween-se-7-en@shotgun.live
 DTSTAMP:20261022T041828Z
 LAST-MODIFIED:20261022T041828Z

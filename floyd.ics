@@ -8,32 +8,17 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4446715-aluna@floyd.miami-calendars
-DTSTAMP:20261025T161807Z
-LAST-MODIFIED:20261025T161807Z
-SEQUENCE:1
-DTSTART:20261025T030000Z
-DTEND:20261025T090000Z
-SUMMARY:Aluna
-LOCATION:Floyd Miami
-DESCRIPTION:Tags: house\nAges: 21+\nhttps://dice.fm/event/6dg9r7-aluna-24th
- -oct-floyd-miami-miami-tickets
-URL:https://dice.fm/event/6dg9r7-aluna-24th-oct-floyd-miami-miami-tickets
-STATUS:CONFIRMED
-CATEGORIES:house
-END:VEVENT
-BEGIN:VEVENT
-UID:dice-6a9072b7977d0a0001bea010@floyd.miami-calendars
-DTSTAMP:20260926T221817Z
-LAST-MODIFIED:20260926T221817Z
-SEQUENCE:2
+UID:19hz-4446811-frankstormblaise@floyd.miami-calendars
+DTSTAMP:20261026T041804Z
+LAST-MODIFIED:20261026T041804Z
+SEQUENCE:0
 DTSTART:20261026T030000Z
 DTEND:20261026T090000Z
 SUMMARY:Frank Storm + Blaise Bracic
-LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags: deep house\, tech house\nAges: 21+\nhttps://dice.fm/event
- /6a9072b7977d0a0001bea010\nhttps://link.dice.fm/frankblaisefloyd
-URL:https://dice.fm/event/6a9072b7977d0a0001bea010
+LOCATION:Floyd
+DESCRIPTION:Tags: deep house\, tech house\nAges: 21+\nhttps://link.dice.fm/
+ frankblaisefloyd
+URL:https://link.dice.fm/frankblaisefloyd
 STATUS:CONFIRMED
 CATEGORIES:deep house,tech house
 END:VEVENT

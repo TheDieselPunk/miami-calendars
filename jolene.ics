@@ -8,22 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4446712-idaengbergonyvaa@jolene.miami-calendars
-DTSTAMP:20261025T161807Z
-LAST-MODIFIED:20261025T161807Z
-SEQUENCE:1
-DTSTART:20261025T020000Z
-DTEND:20261025T080000Z
-SUMMARY:Ida Engberg & Onyvaa
-LOCATION:Jolene Downtown
-DESCRIPTION:Tags: techno\nAges: 21+\nhttps://dice.fm/event/l8m97w-ida-engbe
- rg-b2b-onyvaa-24th-oct-jolene-sound-room-miami-miami-tickets
-URL:https://dice.fm/event/l8m97w-ida-engberg-b2b-onyvaa-24th-oct-jolene-sou
- nd-room-miami-miami-tickets
-STATUS:CONFIRMED
-CATEGORIES:techno
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6a86066921cf70000141b5a6@jolene.miami-calendars
 DTSTAMP:20260929T221815Z
 LAST-MODIFIED:20260929T221815Z
