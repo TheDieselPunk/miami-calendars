@@ -8,19 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:tablelist-3e4f70ad438fc504@zeyzey.miami-calendars
-DTSTAMP:20261026T101803Z
-LAST-MODIFIED:20261026T101803Z
-SEQUENCE:1
-DTSTART:20261025T230000Z
-DTEND:20261026T060000Z
-SUMMARY:Peter Bjorn and John - Writer’s Block
-LOCATION:ZeyZey Miami
-DESCRIPTION:https://buy.tablelist.com/e/3e4f70ad438fc504
-URL:https://buy.tablelist.com/e/3e4f70ad438fc504
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:tablelist-303b09419bf8998a@zeyzey.miami-calendars
 DTSTAMP:20261001T041824Z
 LAST-MODIFIED:20261001T041824Z
@@ -402,34 +389,32 @@ STATUS:CONFIRMED
 CATEGORIES:latin
 END:VEVENT
 BEGIN:VEVENT
-UID:zeyzey-the-hails-21-nov@zeyzey.miami-calendars
-DTSTAMP:20260921T200140Z
-LAST-MODIFIED:20260921T200140Z
-SEQUENCE:0
-DTSTART:20261121T010000Z
-DTEND:20261121T080000Z
-SUMMARY:The Hails
-LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: indie/alternative\nhttps://calendar.zeyzeymiami.com/shows
- /the-hails-21-nov
-URL:https://calendar.zeyzeymiami.com/shows/the-hails-21-nov
-STATUS:CONFIRMED
-CATEGORIES:indie/alternative
-END:VEVENT
-BEGIN:VEVENT
-UID:zeyzey-solmates-presents-sparrow-more-20-nov@zeyzey.miami-calendars
-DTSTAMP:20261026T221812Z
-LAST-MODIFIED:20261026T221812Z
+UID:solmates-presents-sparrow-more@shotgun.live
+DTSTAMP:20261027T041817Z
+LAST-MODIFIED:20261027T041817Z
 SEQUENCE:0
 DTSTART:20261121T030000Z
 DTEND:20261121T080000Z
 SUMMARY:Solmates Presents Sparrow & More
-LOCATION:ZeyZey Miami
-DESCRIPTION:https://calendar.zeyzeymiami.com/shows/solmates-presents-sparro
- w-more-20-nov
-URL:https://calendar.zeyzeymiami.com/shows/solmates-presents-sparrow-more-2
- 0-nov
+LOCATION:ZeyZey Miami\, 353 Northeast 61st Street\, Miami\, FL 33137\, USA
+DESCRIPTION:Solmates returns for another night built around the sounds that
+  bring us together. A meeting point for melody\, groove\, and forward-thin
+ king electronic music\, where hypnotic rhythms and emotive sounds set the 
+ tone from the first record to the last. Rooted in connection and driven by
+  a shared love for music\, Solmates creates a space where different influe
+ nces meet\, new discoveries unfold\, and the dancefloor becomes something 
+ more than just a place to move. One room\, one atmosphere\, and a night ma
+ de for the moments that stay with you. See you on the dancefloor.\nLineup:
+  Sparrow\nTags: indie/alternative\nPresented by: Solmates Miami\nTickets: 
+ Pre-Sale & General Admission 1 $20\, General Admission 2 $25\, General Adm
+ ission 3 $30\, VIP $45\nhttps://shotgun.live/en/events/solmates-presents-s
+ parrow-more\nhttps://calendar.zeyzeymiami.com/shows/solmates-presents-spar
+ row-more-20-nov\nhttps://calendar.zeyzeymiami.com/shows/the-hails-21-nov\n
+ https://edmtrain.com/miami-fl/solmates-presents-sparrow-548040
+URL:https://shotgun.live/en/events/solmates-presents-sparrow-more
 STATUS:CONFIRMED
+CATEGORIES:indie/alternative
+GEO:25.8327584;-80.1890685
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-selects-donny-benet@shotgun.live

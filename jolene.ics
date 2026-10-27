@@ -140,6 +140,24 @@ STATUS:CONFIRMED
 CATEGORIES:house,tech house
 END:VEVENT
 BEGIN:VEVENT
+UID:edmtrain-547970@jolene.miami-calendars
+DTSTAMP:20261027T041817Z
+LAST-MODIFIED:20261027T041817Z
+SEQUENCE:0
+DTSTART:20261121T030000Z
+DTEND:20261121T090000Z
+SUMMARY:Eli Escobar\, DJ Lloyd
+LOCATION:Jolene Sound Room Miami\, 200 E Flagler St\, Miami\, FL 33131\, US
+ A
+DESCRIPTION:Lineup: Eli Escobar\, DJ Lloyd\nTags (guess): house\, tech hous
+ e\nTimes are an estimate from Jolene Sound Room's usual hours - the listin
+ g has no start time yet. Check the link.\nhttps://dice.fm/event/dky79v?pid
+ =d6342b83\nhttps://edmtrain.com/miami-fl/eli-escobar-dj-lloyd-547970
+URL:https://dice.fm/event/dky79v?pid=d6342b83
+STATUS:CONFIRMED
+CATEGORIES:house,tech house
+END:VEVENT
+BEGIN:VEVENT
 UID:dice-6adb9490e08a040001e559ea@jolene.miami-calendars
 DTSTAMP:20261023T221816Z
 LAST-MODIFIED:20261023T221816Z
@@ -228,17 +246,17 @@ CATEGORIES:tech house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab443f8697fd600018d79bd@jolene.miami-calendars
-DTSTAMP:20261022T041828Z
-LAST-MODIFIED:20261022T041828Z
-SEQUENCE:3
+DTSTAMP:20261027T041817Z
+LAST-MODIFIED:20261027T041817Z
+SEQUENCE:4
 DTSTART:20261203T031500Z
 DTEND:20261203T110000Z
 SUMMARY:Basel: Benny Benassi (Italo Disco Set)
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Lineup: Benny Benassi\nTags: edm\, house\, tech house\nAges: 21
- +\nhttps://dice.fm/event/6ab443f8697fd600018d79bd\nhttps://edmtrain.com/mi
- ami-fl/italo-disco-benny-benassi-539604
+DESCRIPTION:Lineup: Benny Benassi\, Mutant Pete\nTags: edm\, house\, tech h
+ ouse\nAges: 21+\nhttps://dice.fm/event/6ab443f8697fd600018d79bd\nhttps://e
+ dmtrain.com/miami-fl/basel-benny-benassi-539604
 URL:https://dice.fm/event/6ab443f8697fd600018d79bd
 STATUS:CONFIRMED
 CATEGORIES:edm,house,tech house

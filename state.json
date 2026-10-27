@@ -1,9 +1,4 @@
 {
- "19hz-4446811-frankstormblaise@floyd.miami-calendars": {
-  "hash": "8d3e60b0ee6bad63",
-  "seq": 0,
-  "modified": "2026-10-26T04:18:04+00:00"
- },
  "19hz-4447248-joelcorrysinatse@festivals.miami-calendars": {
   "hash": "a390ec196378d1cb",
   "seq": 0,
@@ -470,9 +465,9 @@
   "modified": "2026-10-04T22:18:19+00:00"
  },
  "dice-6ab443f8697fd600018d79bd@jolene.miami-calendars": {
-  "hash": "a7dea2c3da1b4ca5",
-  "seq": 3,
-  "modified": "2026-10-22T04:18:28+00:00"
+  "hash": "e6b7f379f3ca3338",
+  "seq": 4,
+  "modified": "2026-10-27T04:18:17+00:00"
  },
  "dice-6ab44533af1ad900014f7295@jolene.miami-calendars": {
   "hash": "1ff5e698a6c1db4f",
@@ -828,6 +823,11 @@
   "hash": "bb0a70b54588aa8f",
   "seq": 0,
   "modified": "2026-10-24T10:18:23+00:00"
+ },
+ "edmtrain-547970@jolene.miami-calendars": {
+  "hash": "562972b4bb5bf3b8",
+  "seq": 0,
+  "modified": "2026-10-27T04:18:17+00:00"
  },
  "equinox-fest-4-day-2-3-november-21-22nd@shotgun.live": {
   "hash": "c96fc49296a967fc",
@@ -1209,15 +1209,15 @@
   "seq": 1,
   "modified": "2026-10-10T04:18:32+00:00"
  },
+ "solmates-presents-sparrow-more@shotgun.live": {
+  "hash": "9d4bb4f693858bce",
+  "seq": 0,
+  "modified": "2026-10-27T04:18:17+00:00"
+ },
  "tablelist-303b09419bf8998a@zeyzey.miami-calendars": {
   "hash": "c8e961307ae86593",
   "seq": 0,
   "modified": "2026-10-01T04:18:24+00:00"
- },
- "tablelist-3e4f70ad438fc504@zeyzey.miami-calendars": {
-  "hash": "0615cf8d7ecad871",
-  "seq": 1,
-  "modified": "2026-10-26T10:18:03+00:00"
  },
  "tablelist-7c5e948162a39cd3@zeyzey.miami-calendars": {
   "hash": "d64629cb50950090",
@@ -1429,11 +1429,6 @@
   "seq": 0,
   "modified": "2026-09-21T20:01:40+00:00"
  },
- "zeyzey-solmates-presents-sparrow-more-20-nov@zeyzey.miami-calendars": {
-  "hash": "1e705fb52c9a1ef8",
-  "seq": 0,
-  "modified": "2026-10-26T22:18:12+00:00"
- },
  "zeyzey-soulection-friends-05-dec@zeyzey.miami-calendars": {
   "hash": "1f72cef4721aad70",
   "seq": 1,
@@ -1453,11 +1448,6 @@
   "hash": "15d9c2f61f8aa4d9",
   "seq": 0,
   "modified": "2026-10-20T16:18:13+00:00"
- },
- "zeyzey-the-hails-21-nov@zeyzey.miami-calendars": {
-  "hash": "087100401a02fa46",
-  "seq": 0,
-  "modified": "2026-09-21T20:01:40+00:00"
  },
  "zeyzey-the-unofficial-end-cruise-party-21-jan@zeyzey.miami-calendars": {
   "hash": "f87b09ebb3dce9e7",
