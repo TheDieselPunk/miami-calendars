@@ -93,6 +93,21 @@ STATUS:CONFIRMED
 CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
+UID:dice-6adfa5c2e9571d000113a9ec@club-space.miami-calendars
+DTSTAMP:20261027T161815Z
+LAST-MODIFIED:20261027T161815Z
+SEQUENCE:0
+DTSTART:20261108T120000Z
+DTEND:20261108T160000Z
+SUMMARY:Race To Space
+LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
+DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6adfa5c2e95
+ 71d000113a9ec
+URL:https://dice.fm/event/6adfa5c2e9571d000113a9ec
+STATUS:CONFIRMED
+CATEGORIES:house,techno
+END:VEVENT
+BEGIN:VEVENT
 UID:dice-6ac681e6ede6160001275006@club-space.miami-calendars
 DTSTAMP:20261017T161817Z
 LAST-MODIFIED:20261017T161817Z
@@ -316,6 +331,21 @@ DESCRIPTION:Tags (guess): house\, techno\nTimes are an estimate from Club S
  ttps://dice.fm/event/yoqgkr?pid=d6342b83\nhttps://edmtrain.com/miami-fl/sp
  ace-basel-closing-party-544679
 URL:https://dice.fm/event/yoqgkr?pid=d6342b83
+STATUS:CONFIRMED
+CATEGORIES:house,techno
+END:VEVENT
+BEGIN:VEVENT
+UID:dice-6ae0b22eeeeae40001c1bdce@club-space.miami-calendars
+DTSTAMP:20261027T161815Z
+LAST-MODIFIED:20261027T161815Z
+SEQUENCE:0
+DTSTART:20270124T040000Z
+DTEND:20270124T170000Z
+SUMMARY:Nicole Moudaber Bday Celebration
+LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
+DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6ae0b22eeee
+ ae40001c1bdce
+URL:https://dice.fm/event/6ae0b22eeeeae40001c1bdce
 STATUS:CONFIRMED
 CATEGORIES:house,techno
 END:VEVENT

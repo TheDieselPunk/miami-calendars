@@ -720,7 +720,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$28.26",
+   "price": "$33.00",
    "genres": [],
    "genres_inferred": false,
    "organizer": "",
@@ -2676,7 +2676,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $54",
+   "price": "From $45",
    "genres": [
     "progressive house",
     "tech house"
@@ -4706,6 +4706,30 @@
    ]
   },
   {
+   "id": "dice:6adfa5c2e9571d000113a9ec",
+   "source": "dice",
+   "title": "Race To Space",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2026-11-08",
+   "start": "2026-11-08T12:00:00+00:00",
+   "end": "2026-11-08T16:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6adfa5c2e9571d000113a9ec",
+   "cancelled": false
+  },
+  {
    "id": "hardrock:205532",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -4985,6 +5009,29 @@
    "organizer": "Afterlife Entertainment",
    "description": "",
    "url": "https://wl.eventim.us/event/sunsquabi/703607?afflky=FunkyBiscuit"
+  },
+  {
+   "id": "shotgun:emo-orchestra-afterparty",
+   "source": "shotgun",
+   "title": "Emo Orchestra Afterparty",
+   "artists": [],
+   "venue": "Original Fat Cats",
+   "venue_slug": null,
+   "date": "2026-11-10",
+   "start": "2026-11-11T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "rock",
+    "pop rock"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/emo-orchestra-afterparty"
   },
   {
    "id": "edmtrain:532667",
@@ -5970,6 +6017,50 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/blu-and-nickelus-f-live-in-miami"
+  },
+  {
+   "id": "shotgun:edm-event",
+   "source": "shotgun",
+   "title": "Edm Event",
+   "artists": [],
+   "venue": "Kava Daddy",
+   "venue_slug": null,
+   "date": "2026-11-14",
+   "start": "2026-11-15T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "edm"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/edm-event"
+  },
+  {
+   "id": "shotgun:flow-night",
+   "source": "shotgun",
+   "title": "Flow Night",
+   "artists": [],
+   "venue": "Kava Point Kava Bar & Smoke Shop",
+   "venue_slug": null,
+   "date": "2026-11-14",
+   "start": "2026-11-15T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "edm"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/flow-night"
   },
   {
    "id": "19hz:4448724-anthonyattalla",
@@ -8797,6 +8888,50 @@
    ]
   },
   {
+   "id": "shotgun:palm-beach-jazz-night",
+   "source": "shotgun",
+   "title": "Palm Beach Jazz Night",
+   "artists": [],
+   "venue": "Kava Daddy",
+   "venue_slug": null,
+   "date": "2026-11-28",
+   "start": "2026-11-29T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "jazz"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/palm-beach-jazz-night"
+  },
+  {
+   "id": "shotgun:kava-jazz-night",
+   "source": "shotgun",
+   "title": "Kava Jazz Night",
+   "artists": [],
+   "venue": "Kava Point Kava Bar & Smoke Shop",
+   "venue_slug": null,
+   "date": "2026-11-28",
+   "start": "2026-11-29T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "jazz"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/kava-jazz-night"
+  },
+  {
    "id": "19hz:4450068-areturntotheelem",
    "source": "19hz",
    "title": "A Return To The Elements Miami Art Week",
@@ -10111,6 +10246,47 @@
    ]
   },
   {
+   "id": "shotgun:experience-incendia-art-basel",
+   "source": "edmtrain+shotgun",
+   "title": "Experience Incendia: The Art Of Fire 2026",
+   "artists": [
+    "Blond:ish",
+    "AYYBO",
+    "Skream",
+    "Yamagucci",
+    "GUDFELLA",
+    "Bontan",
+    "Calussa",
+    "Fletch",
+    "Apache",
+    "Jay de Lys",
+    "Bassel Darwish",
+    "The Botanist",
+    "Tiffy Vera"
+   ],
+   "venue": "Historic Virginia Key Beach Park",
+   "venue_slug": "festivals",
+   "date": "2026-12-03",
+   "start": "2026-12-04T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$45.00",
+   "genres": [
+    "house",
+    "melodic house & techno",
+    "progressive house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/experience-incendia-art-basel",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/experience-incendia-blond-ish-547501"
+   ]
+  },
+  {
    "id": "dice:6ab3a356f3be0b000115831c",
    "source": "19hz+dice+edmtrain",
    "title": "Basel: AFTERJAM",
@@ -10223,47 +10399,6 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/guy-j-art-basel-edition-by-apex-x-the-hall"
-  },
-  {
-   "id": "shotgun:experience-incendia-art-basel",
-   "source": "edmtrain+shotgun",
-   "title": "Experience Incendia: The Art Of Fire 2026",
-   "artists": [
-    "Blond:ish",
-    "AYYBO",
-    "Skream",
-    "Yamagucci",
-    "GUDFELLA",
-    "Bontan",
-    "Calussa",
-    "Fletch",
-    "Apache",
-    "Jay de Lys",
-    "Bassel Darwish",
-    "The Botanist",
-    "Tiffy Vera"
-   ],
-   "venue": "Miami",
-   "venue_slug": "festivals",
-   "date": "2026-12-03",
-   "start": "2026-12-04T03:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$45.00",
-   "genres": [
-    "house",
-    "melodic house & techno",
-    "progressive house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/experience-incendia-art-basel",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/experience-incendia-blond-ish-547501"
-   ]
   },
   {
    "id": "dice:6aa05356c1a81a000145fda3",
@@ -11311,6 +11446,30 @@
    ]
   },
   {
+   "id": "shotgun:rap-vs-rock-night",
+   "source": "shotgun",
+   "title": "Rap Vs Rock Night",
+   "artists": [],
+   "venue": "Poorhouse",
+   "venue_slug": null,
+   "date": "2026-12-05",
+   "start": "2026-12-06T02:30:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "rap",
+    "trap",
+    "rock"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/rap-vs-rock-night"
+  },
+  {
    "id": "hardrock:207834",
    "source": "venue",
    "title": "DAER Nightclub",
@@ -12121,6 +12280,50 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/yasumi-fiesta"
+  },
+  {
+   "id": "shotgun:nightmare-before-emo-x-mas",
+   "source": "shotgun",
+   "title": "Nightmare Before Emo X-Mas!",
+   "artists": [],
+   "venue": "Kava Daddy",
+   "venue_slug": null,
+   "date": "2026-12-12",
+   "start": "2026-12-13T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "rock"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/nightmare-before-emo-x-mas"
+  },
+  {
+   "id": "shotgun:kava-point-rock-show",
+   "source": "shotgun",
+   "title": "Kava Point Rock Show",
+   "artists": [],
+   "venue": "Kava Point Kava Bar & Smoke Shop",
+   "venue_slug": null,
+   "date": "2026-12-12",
+   "start": "2026-12-13T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "rock"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/kava-point-rock-show"
   },
   {
    "id": "shotgun:templarsatlasrosas",
@@ -13173,6 +13376,51 @@
    ]
   },
   {
+   "id": "shotgun:lost-lakes-new-years-celebration",
+   "source": "shotgun",
+   "title": "Lost Lakes New Years Celebration",
+   "artists": [],
+   "venue": "Kava Daddy",
+   "venue_slug": null,
+   "date": "2026-12-31",
+   "start": "2027-01-01T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "house",
+    "edm"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/lost-lakes-new-years-celebration"
+  },
+  {
+   "id": "shotgun:kava-point-new-year-celebration",
+   "source": "shotgun",
+   "title": "Kava Point New Year Celebration",
+   "artists": [],
+   "venue": "Kava Point Kava Bar & Smoke Shop",
+   "venue_slug": null,
+   "date": "2026-12-31",
+   "start": "2027-01-01T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/kava-point-new-year-celebration"
+  },
+  {
    "id": "19hz:4453240-thepicklenye",
    "source": "19hz",
    "title": "The Pickle Nye",
@@ -13194,6 +13442,28 @@
    "organizer": "",
    "description": "",
    "url": "https://ra.co/events/2528940"
+  },
+  {
+   "id": "shotgun:midnight-in-the-jazz-age",
+   "source": "shotgun",
+   "title": "Midnight In The Jazz Age",
+   "artists": [],
+   "venue": "Tribe Tea Kava Lounge",
+   "venue_slug": null,
+   "date": "2026-12-31",
+   "start": "2027-01-01T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "jazz"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/midnight-in-the-jazz-age"
   },
   {
    "id": "19hz:4453246-adriatique",
@@ -14013,6 +14283,30 @@
    "generic_title": true
   },
   {
+   "id": "dice:6ae0b22eeeeae40001c1bdce",
+   "source": "dice",
+   "title": "Nicole Moudaber Bday Celebration",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2027-01-23",
+   "start": "2027-01-24T04:00:00+00:00",
+   "end": "2027-01-24T17:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $20",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ae0b22eeeeae40001c1bdce",
+   "cancelled": false
+  },
+  {
    "id": "hardrock:212390",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -14262,6 +14556,29 @@
    "organizer": "",
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/jam-cruise-pre-party-03-feb",
+   "cancelled": false
+  },
+  {
+   "id": "zeyzey:the-temptations-19-feb",
+   "source": "venue",
+   "title": "The Temptations - Farewell Tour",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2027-02-19",
+   "start": "2027-02-20T01:00:00+00:00",
+   "end": "2027-02-20T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "r&b/soul"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/the-temptations-19-feb",
    "cancelled": false
   },
   {

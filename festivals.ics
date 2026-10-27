@@ -257,6 +257,24 @@ STATUS:CONFIRMED
 CATEGORIES:electro,house,tech house,techno
 END:VEVENT
 BEGIN:VEVENT
+UID:experience-incendia-art-basel@shotgun.live
+DTSTAMP:20261027T161815Z
+LAST-MODIFIED:20261027T161815Z
+SEQUENCE:2
+DTSTART:20261204T030000Z
+DTEND:20261204T080000Z
+SUMMARY:Experience Incendia: The Art Of Fire 2026
+LOCATION:Historic Virginia Key Beach Park
+DESCRIPTION:Lineup: Blond:ish\, AYYBO\, Skream\, Yamagucci\, GUDFELLA\, Bon
+ tan\, Calussa\, Fletch\, Apache\, Jay de Lys\, Bassel Darwish\, The Botani
+ st\, Tiffy Vera\nTags: house\, melodic house & techno\, progressive house
+ \nhttps://shotgun.live/en/events/experience-incendia-art-basel\nhttps://ed
+ mtrain.com/miami-fl/experience-incendia-blond-ish-547501
+URL:https://shotgun.live/en/events/experience-incendia-art-basel
+STATUS:CONFIRMED
+CATEGORIES:house,melodic house & techno,progressive house
+END:VEVENT
+BEGIN:VEVENT
 UID:guy-j-art-basel-edition-by-apex-x-the-hall@shotgun.live
 DTSTAMP:20260921T214009Z
 LAST-MODIFIED:20260921T214009Z
@@ -271,24 +289,6 @@ URL:https://shotgun.live/en/events/guy-j-art-basel-edition-by-apex-x-the-ha
  ll
 STATUS:CONFIRMED
 CATEGORIES:progressive house,house,melodic house & techno
-END:VEVENT
-BEGIN:VEVENT
-UID:experience-incendia-art-basel@shotgun.live
-DTSTAMP:20261024T101823Z
-LAST-MODIFIED:20261024T101823Z
-SEQUENCE:1
-DTSTART:20261204T030000Z
-DTEND:20261204T080000Z
-SUMMARY:Experience Incendia: The Art Of Fire 2026
-LOCATION:Miami
-DESCRIPTION:Lineup: Blond:ish\, AYYBO\, Skream\, Yamagucci\, GUDFELLA\, Bon
- tan\, Calussa\, Fletch\, Apache\, Jay de Lys\, Bassel Darwish\, The Botani
- st\, Tiffy Vera\nTags: house\, melodic house & techno\, progressive house
- \nhttps://shotgun.live/en/events/experience-incendia-art-basel\nhttps://ed
- mtrain.com/miami-fl/experience-incendia-blond-ish-547501
-URL:https://shotgun.live/en/events/experience-incendia-art-basel
-STATUS:CONFIRMED
-CATEGORIES:house,melodic house & techno,progressive house
 END:VEVENT
 BEGIN:VEVENT
 UID:edmtrain-463360@festivals.miami-calendars

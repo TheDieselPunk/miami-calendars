@@ -872,6 +872,21 @@ URL:https://calendar.zeyzeymiami.com/shows/jam-cruise-pre-party-03-feb
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-the-temptations-19-feb@zeyzey.miami-calendars
+DTSTAMP:20261027T161815Z
+LAST-MODIFIED:20261027T161815Z
+SEQUENCE:0
+DTSTART:20270220T010000Z
+DTEND:20270220T080000Z
+SUMMARY:The Temptations - Farewell Tour
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: r&b/soul\nhttps://calendar.zeyzeymiami.com/shows/the-temp
+ tations-19-feb
+URL:https://calendar.zeyzeymiami.com/shows/the-temptations-19-feb
+STATUS:CONFIRMED
+CATEGORIES:r&b/soul
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-early-show-mamas-gun-26-feb@zeyzey.miami-calendars
 DTSTAMP:20261006T161825Z
 LAST-MODIFIED:20261006T161825Z
