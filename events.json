@@ -2574,7 +2574,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$15.00",
+   "price": "$22.70",
    "genres": [
     "house",
     "tech house"
@@ -2676,7 +2676,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $45",
+   "price": "From $54",
    "genres": [
     "progressive house",
     "tech house"
@@ -7295,7 +7295,7 @@
   },
   {
    "id": "shotgun:solmates-presents-sparrow-more",
-   "source": "edmtrain+shotgun+venue",
+   "source": "dice+edmtrain+shotgun+venue",
    "title": "Solmates Presents Sparrow & More",
    "artists": [
     "Sparrow"
@@ -7325,6 +7325,7 @@
    },
    "created": "2026-10-26T22:37:01.000Z",
    "alt_urls": [
+    "https://dice.fm/event/6adff5fd8be4730001f56177",
     "https://calendar.zeyzeymiami.com/shows/solmates-presents-sparrow-more-20-nov",
     "https://calendar.zeyzeymiami.com/shows/the-hails-21-nov",
     "https://edmtrain.com/miami-fl/solmates-presents-sparrow-548040"
@@ -9765,7 +9766,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $15",
+   "price": "From $17",
    "genres": [
     "edm",
     "house",

@@ -390,9 +390,9 @@ CATEGORIES:latin
 END:VEVENT
 BEGIN:VEVENT
 UID:solmates-presents-sparrow-more@shotgun.live
-DTSTAMP:20261027T041817Z
-LAST-MODIFIED:20261027T041817Z
-SEQUENCE:0
+DTSTAMP:20261027T101808Z
+LAST-MODIFIED:20261027T101808Z
+SEQUENCE:1
 DTSTART:20261121T030000Z
 DTEND:20261121T080000Z
 SUMMARY:Solmates Presents Sparrow & More
@@ -410,7 +410,8 @@ DESCRIPTION:Solmates returns for another night built around the sounds that
  ission 3 $30\, VIP $45\nhttps://shotgun.live/en/events/solmates-presents-s
  parrow-more\nhttps://calendar.zeyzeymiami.com/shows/solmates-presents-spar
  row-more-20-nov\nhttps://calendar.zeyzeymiami.com/shows/the-hails-21-nov\n
- https://edmtrain.com/miami-fl/solmates-presents-sparrow-548040
+ https://dice.fm/event/6adff5fd8be4730001f56177\nhttps://edmtrain.com/miami
+ -fl/solmates-presents-sparrow-548040
 URL:https://shotgun.live/en/events/solmates-presents-sparrow-more
 STATUS:CONFIRMED
 CATEGORIES:indie/alternative
