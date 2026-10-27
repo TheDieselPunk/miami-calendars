@@ -349,6 +349,30 @@
    ]
   },
   {
+   "id": "shotgun:halloween-do-not-sit-on-the-furniture",
+   "source": "shotgun",
+   "title": "Halloween @ Do Not Sit On The Furniture",
+   "artists": [],
+   "venue": "Do Not Sit On The Furniture",
+   "venue_slug": null,
+   "date": "2026-10-28",
+   "start": "2026-10-29T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "tech house",
+    "afro house",
+    "indie"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/halloween-do-not-sit-on-the-furniture"
+  },
+  {
    "id": "19hz:4447096-jessyfriendssdot",
    "source": "19hz+edmtrain",
    "title": "Jessy & Friends: Sdot - Ippo, Nactua X Santelises, Derek Delight, Jessy Nimni, Ani Phearce, Vadim DBR",
@@ -373,7 +397,8 @@
    "description": "",
    "url": "https://dice.fm/event/6ad24cb2fb32bc000154a3ba",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/jessy-545575"
+    "https://edmtrain.com/miami-fl/jessy-545575",
+    "https://edmtrain.com/miami-fl/halloween-at-do-not-sit-on-the-furniture-santelises-548066"
    ]
   },
   {
@@ -1454,7 +1479,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$12.00",
+   "price": "$22.00",
    "genres": [],
    "genres_inferred": false,
    "organizer": "",
@@ -1494,7 +1519,7 @@
   {
    "id": "zeyzey:salsa-vs-perreo-30-oct",
    "source": "venue",
-   "title": "Salsa vs Perreo (Free Entry)",
+   "title": "Salsa vs Perreo",
    "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
@@ -1504,7 +1529,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "Free",
+   "price": "",
    "genres": [
     "latin"
    ],
@@ -5494,7 +5519,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $56",
+   "price": "From $50",
    "genres": [
     "eurobeat",
     "hard techno",
@@ -6236,6 +6261,30 @@
    ]
   },
   {
+   "id": "dice:6ae0e0da3b35970001ec2268",
+   "source": "dice",
+   "title": "Bill Patrick b2b Bort (All Night Long)",
+   "artists": [],
+   "venue": "Jolene Sound Room Miami",
+   "venue_slug": "jolene",
+   "date": "2026-11-14",
+   "start": "2026-11-15T03:00:00+00:00",
+   "end": "2026-11-15T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "ages": "",
+   "price": "From $7",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ae0e0da3b35970001ec2268",
+   "cancelled": false
+  },
+  {
    "id": "dice:6a39388b80183200011c1c6f",
    "source": "19hz+dice+edmtrain",
    "title": "JESSICA AUDIFFRED",
@@ -6803,7 +6852,7 @@
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-11-18",
-   "start": "2026-11-19T01:00:00+00:00",
+   "start": "2026-11-19T00:00:00+00:00",
    "end": "2026-11-19T06:00:00+00:00",
    "time_estimated": false,
    "address": "",
@@ -6854,7 +6903,7 @@
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-11-19",
-   "start": "2026-11-20T01:00:00+00:00",
+   "start": "2026-11-20T00:00:00+00:00",
    "end": "2026-11-20T06:00:00+00:00",
    "time_estimated": false,
    "address": "",
@@ -12000,6 +12049,30 @@
    ]
   },
   {
+   "id": "dice:6ae0ea6918396c00010b34be",
+   "source": "dice",
+   "title": "Forest Fires Radio",
+   "artists": [],
+   "venue": "Jolene Sound Room Miami",
+   "venue_slug": "jolene",
+   "date": "2026-12-10",
+   "start": "2026-12-11T03:00:00+00:00",
+   "end": "2026-12-11T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "ages": "",
+   "price": "From $7",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ae0ea6918396c00010b34be",
+   "cancelled": false
+  },
+  {
    "id": "shotgun:minotaur-booking-presents-sudden-infant-death-syndrome-ky",
    "source": "shotgun",
    "title": "Minotaur Booking Presents: Sudden Infant Death Syndrome (Ky)",
@@ -14556,6 +14629,30 @@
    "organizer": "",
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/jam-cruise-pre-party-03-feb",
+   "cancelled": false
+  },
+  {
+   "id": "dice:6ada0ef330a6130001bb2b30",
+   "source": "dice",
+   "title": "TYNAN",
+   "artists": [],
+   "venue": "Kemistry",
+   "venue_slug": "kemistry",
+   "date": "2027-02-05",
+   "start": "2027-02-06T03:00:00+00:00",
+   "end": "2027-02-06T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "bass",
+    "dubstep"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ada0ef330a6130001bb2b30",
    "cancelled": false
   },
   {

@@ -392,4 +392,20 @@ URL:https://dice.fm/event/53k25d-junkie-kid-30th-jan-kemistry-fort-lauderda
 STATUS:CONFIRMED
 CATEGORIES:hard dance,hard house
 END:VEVENT
+BEGIN:VEVENT
+UID:dice-6ada0ef330a6130001bb2b30@kemistry.miami-calendars
+DTSTAMP:20261027T221818Z
+LAST-MODIFIED:20261027T221818Z
+SEQUENCE:0
+DTSTART:20270206T030000Z
+DTEND:20270206T090000Z
+SUMMARY:TYNAN
+LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
+ 312\, United States
+DESCRIPTION:Tags (guess): bass\, dubstep\nhttps://dice.fm/event/6ada0ef330a
+ 6130001bb2b30
+URL:https://dice.fm/event/6ada0ef330a6130001bb2b30
+STATUS:CONFIRMED
+CATEGORIES:bass,dubstep
+END:VEVENT
 END:VCALENDAR

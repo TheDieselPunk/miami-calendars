@@ -694,6 +694,11 @@
   "seq": 1,
   "modified": "2026-10-24T10:18:23+00:00"
  },
+ "dice-6ada0ef330a6130001bb2b30@kemistry.miami-calendars": {
+  "hash": "9a93e2260a2754dd",
+  "seq": 0,
+  "modified": "2026-10-27T22:18:18+00:00"
+ },
  "dice-6adb9490e08a040001e559ea@jolene.miami-calendars": {
   "hash": "24090991498eab05",
   "seq": 0,
@@ -708,6 +713,16 @@
   "hash": "d8e935f22cdb9ed4",
   "seq": 0,
   "modified": "2026-10-27T16:18:15+00:00"
+ },
+ "dice-6ae0e0da3b35970001ec2268@jolene.miami-calendars": {
+  "hash": "1a920e9e43b7d1c9",
+  "seq": 0,
+  "modified": "2026-10-27T22:18:18+00:00"
+ },
+ "dice-6ae0ea6918396c00010b34be@jolene.miami-calendars": {
+  "hash": "0f05c3395e838303",
+  "seq": 0,
+  "modified": "2026-10-27T22:18:18+00:00"
  },
  "edmtrain-458943@festivals.miami-calendars": {
   "hash": "fb6052125d7b80e4",
@@ -1410,9 +1425,9 @@
   "modified": "2026-10-02T22:18:26+00:00"
  },
  "zeyzey-salsa-vs-perreo-30-oct@zeyzey.miami-calendars": {
-  "hash": "0791c2b8eb777ca3",
-  "seq": 1,
-  "modified": "2026-10-04T04:18:27+00:00"
+  "hash": "d0e415645581f220",
+  "seq": 2,
+  "modified": "2026-10-27T22:18:18+00:00"
  },
  "zeyzey-salsa-z-30-oct@zeyzey.miami-calendars": {
   "hash": "d9ad207e0aa786b7",
@@ -1475,13 +1490,13 @@
   "modified": "2026-10-20T22:18:22+00:00"
  },
  "zeyzey-vicente-garcia-19-nov@zeyzey.miami-calendars": {
-  "hash": "a0b47ccf29f85612",
-  "seq": 0,
-  "modified": "2026-09-21T20:01:40+00:00"
+  "hash": "abe3cd31cd6163be",
+  "seq": 1,
+  "modified": "2026-10-27T22:18:18+00:00"
  },
  "zeyzey-vicente-garcia-second-show-18-nov@zeyzey.miami-calendars": {
-  "hash": "9e87bff82af270f5",
-  "seq": 0,
-  "modified": "2026-10-05T16:18:24+00:00"
+  "hash": "07f54caac48f54a8",
+  "seq": 1,
+  "modified": "2026-10-27T22:18:18+00:00"
  }
 }

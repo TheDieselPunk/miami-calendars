@@ -123,6 +123,22 @@ STATUS:CONFIRMED
 CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
+UID:dice-6ae0e0da3b35970001ec2268@jolene.miami-calendars
+DTSTAMP:20261027T221818Z
+LAST-MODIFIED:20261027T221818Z
+SEQUENCE:0
+DTSTART:20261115T030000Z
+DTEND:20261115T090000Z
+SUMMARY:Bill Patrick b2b Bort (All Night Long)
+LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
+ a 33131\, United States
+DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6ae0e0d
+ a3b35970001ec2268
+URL:https://dice.fm/event/6ae0e0da3b35970001ec2268
+STATUS:CONFIRMED
+CATEGORIES:house,tech house
+END:VEVENT
+BEGIN:VEVENT
 UID:dice-6ad8e836f3f79d000131952b@jolene.miami-calendars
 DTSTAMP:20261024T101823Z
 LAST-MODIFIED:20261024T101823Z
@@ -324,6 +340,22 @@ LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
 DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6ab448e
  ab6c65c00012abd8a
 URL:https://dice.fm/event/6ab448eab6c65c00012abd8a
+STATUS:CONFIRMED
+CATEGORIES:house,tech house
+END:VEVENT
+BEGIN:VEVENT
+UID:dice-6ae0ea6918396c00010b34be@jolene.miami-calendars
+DTSTAMP:20261027T221818Z
+LAST-MODIFIED:20261027T221818Z
+SEQUENCE:0
+DTSTART:20261211T030000Z
+DTEND:20261211T090000Z
+SUMMARY:Forest Fires Radio
+LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
+ a 33131\, United States
+DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6ae0ea6
+ 918396c00010b34be
+URL:https://dice.fm/event/6ae0ea6918396c00010b34be
 STATUS:CONFIRMED
 CATEGORIES:house,tech house
 END:VEVENT
