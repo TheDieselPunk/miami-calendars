@@ -31,26 +31,6 @@
    ]
   },
   {
-   "id": "shotgun:comedy-night-at-churchill-s-000",
-   "source": "shotgun",
-   "title": "Comedy Night At Churchill's - Every Tuesday",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-10-27",
-   "start": "2026-10-28T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/comedy-night-at-churchill-s-000"
-  },
-  {
    "id": "shotgun:tainted-the-doll-mix-a-dragula-viewing-party-and-drag-show",
    "source": "shotgun",
    "title": "Tainted The Doll MIX A Drag Show",
@@ -414,7 +394,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$11.35",
+   "price": "$17.03",
    "genres": [
     "reggaeton",
     "latin",
@@ -2647,7 +2627,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$45.40",
+   "price": "$68.10",
    "genres": [
     "afro",
     "reggaeton",
@@ -3015,7 +2995,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$34.20",
+   "price": "$51.30",
    "genres": [
     "deep house",
     "afro house",
@@ -4650,6 +4630,34 @@
    ]
   },
   {
+   "id": "edmtrain:548110",
+   "source": "edmtrain",
+   "title": "INTRIGA Day party Vol 4: Santelises, Goa '98, Marimar, Laura carmer",
+   "artists": [
+    "Santelises",
+    "Goa '98",
+    "Marimar",
+    "Laura carmer"
+   ],
+   "venue": "BOHO Wynwood",
+   "venue_slug": null,
+   "date": "2026-11-07",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "85 NW 25th St, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/halloween-do-not-sit-on-the-furniture?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/intriga-day-party-vol-4-santelises-548110"
+   ]
+  },
+  {
    "id": "edmtrain:543148",
    "source": "edmtrain",
    "title": "Miss Monique, Nico Moon, Polk, Fur Coat",
@@ -5034,29 +5042,6 @@
    "organizer": "Afterlife Entertainment",
    "description": "",
    "url": "https://wl.eventim.us/event/sunsquabi/703607?afflky=FunkyBiscuit"
-  },
-  {
-   "id": "shotgun:emo-orchestra-afterparty",
-   "source": "shotgun",
-   "title": "Emo Orchestra Afterparty",
-   "artists": [],
-   "venue": "Original Fat Cats",
-   "venue_slug": null,
-   "date": "2026-11-10",
-   "start": "2026-11-11T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [
-    "rock",
-    "pop rock"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/emo-orchestra-afterparty"
   },
   {
    "id": "edmtrain:532667",
@@ -6513,7 +6498,7 @@
    "organizer": "BEIRUT NIGHTS IN",
    "description": "Beirut Nights In Presents: Beirut to Miami! Immerse yourself in the diverse rhythms of Arabic, French, Latin, House, and other global genres, capturing the essence of Beirut's cosmopolitan allure right in the heart of Miami! Picture a city that has endured the tests of time, our party seeks to encapsulate its resilience and vivacity in the face against all odds. Amidst the turmoil and uncertainty of conflict, Beirutis have always found solace and strength in their vibrant nightlife, turning nights of darkness into moments of light and celebration. The cosmopolitan nature of Beirut's nightlife is a tapestry woven with the threads of diverse cultures, traditions and modern influences. It is a reflection of the city's historical role as a crossroads of civilizations, where East meets West and tradition combine seamlessly with contemporary trends. Step into Beirut's nightlife, and you'll find yourself immersed in a vibrant mosaic of sights, sounds, and experiences that celebrate the city's rich multicultural heritage. Music: Anthony Raad & Mark Azar Doors open @ 11 PM 21+ No refunds",
    "url": "https://shotgun.live/en/events/beiruttomiami1",
-   "tickets": "General Admission - Early Bird $25 (sold out), General Admission - Early Bird $30 (sold out), VIP Table for 6 People - $750 Minimum Spend $150, General Admission - Tier 2 $35, VIP Table for 8 People - $1000 Minimum Spend $200, VIP Table for 10 People - $1500 Minimum Spend $300",
+   "tickets": "General Admission - Early Bird $25 (sold out), General Admission - Early Bird $30 (sold out), VIP Table for 6 People - $750 Minimum Spend $150, General Admission - Tier 2 $35, VIP Table for 8 People - $1000 Minimum Spend $200, VIP Table for 10 People - $1500 Minimum Spend $250",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -13515,28 +13500,6 @@
    "organizer": "",
    "description": "",
    "url": "https://ra.co/events/2528940"
-  },
-  {
-   "id": "shotgun:midnight-in-the-jazz-age",
-   "source": "shotgun",
-   "title": "Midnight In The Jazz Age",
-   "artists": [],
-   "venue": "Tribe Tea Kava Lounge",
-   "venue_slug": null,
-   "date": "2026-12-31",
-   "start": "2027-01-01T03:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [
-    "jazz"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/midnight-in-the-jazz-age"
   },
   {
    "id": "19hz:4453246-adriatique",
