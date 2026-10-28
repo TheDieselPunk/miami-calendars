@@ -179,6 +179,11 @@
   "seq": 1,
   "modified": "2026-10-20T04:18:27+00:00"
  },
+ "clay-birds-at-the-boombox-11-24@shotgun.live": {
+  "hash": "f94ab6ac139c5ff7",
+  "seq": 0,
+  "modified": "2026-10-28T22:18:06+00:00"
+ },
  "dice-6a02cf0a5ca3ee0001e1d1dc@kemistry.miami-calendars": {
   "hash": "f47eb8ae663aa098",
   "seq": 0,
@@ -330,9 +335,9 @@
   "modified": "2026-09-22T00:40:38+00:00"
  },
  "dice-6a95af3f8ba41600019bdfd5@the-ground.miami-calendars": {
-  "hash": "6f2c404ab71ad3be",
-  "seq": 2,
-  "modified": "2026-10-04T22:18:19+00:00"
+  "hash": "4aa0cbf3609b1b79",
+  "seq": 3,
+  "modified": "2026-10-28T22:18:06+00:00"
  },
  "dice-6a95bdbd6ae28100012001f9@kemistry.miami-calendars": {
   "hash": "4c841a3e09fae11e",
@@ -580,14 +585,14 @@
   "modified": "2026-10-01T22:18:30+00:00"
  },
  "dice-6abe81edcf1f4100017bc3b4@floyd.miami-calendars": {
-  "hash": "25362c252892f225",
-  "seq": 0,
-  "modified": "2026-10-01T22:18:30+00:00"
+  "hash": "cb611aac7cf06bba",
+  "seq": 1,
+  "modified": "2026-10-28T22:18:06+00:00"
  },
  "dice-6abe821acf1f4100010d2096@floyd.miami-calendars": {
-  "hash": "58522eb0ee81e442",
-  "seq": 1,
-  "modified": "2026-10-24T10:18:23+00:00"
+  "hash": "c2db6c0de2e31869",
+  "seq": 2,
+  "modified": "2026-10-28T22:18:06+00:00"
  },
  "dice-6abe8450c57ae3000126d8c3@floyd.miami-calendars": {
   "hash": "bdba7ac8c9c9da41",
@@ -724,6 +729,16 @@
   "seq": 0,
   "modified": "2026-10-27T22:18:18+00:00"
  },
+ "dice-6ae219d6be58e900015632e5@floyd.miami-calendars": {
+  "hash": "68d1798811100c6a",
+  "seq": 0,
+  "modified": "2026-10-28T22:18:06+00:00"
+ },
+ "dice-6ae22470c173cf000152ed75@floyd.miami-calendars": {
+  "hash": "8862625eb3d1fadd",
+  "seq": 0,
+  "modified": "2026-10-28T22:18:06+00:00"
+ },
  "edmtrain-458943@festivals.miami-calendars": {
   "hash": "fb6052125d7b80e4",
   "seq": 2,
@@ -854,6 +869,11 @@
   "seq": 0,
   "modified": "2026-10-27T04:18:17+00:00"
  },
+ "edmtrain-548595@midline.miami-calendars": {
+  "hash": "1d044eff398b393d",
+  "seq": 0,
+  "modified": "2026-10-28T22:18:06+00:00"
+ },
  "equinox-fest-4-day-2-3-november-21-22nd@shotgun.live": {
   "hash": "c96fc49296a967fc",
   "seq": 0,
@@ -885,9 +905,9 @@
   "modified": "2026-09-21T21:40:09+00:00"
  },
  "halloween-se-7-en@shotgun.live": {
-  "hash": "6cf6189219a3db32",
-  "seq": 4,
-  "modified": "2026-10-26T16:18:07+00:00"
+  "hash": "5357f53e15fe6de5",
+  "seq": 5,
+  "modified": "2026-10-28T22:18:06+00:00"
  },
  "halloween26@shotgun.live": {
   "hash": "70a2a206cf1ca42d",
@@ -905,14 +925,14 @@
   "modified": "2026-09-21T20:09:04+00:00"
  },
  "hardrock-204543@daer.miami-calendars": {
-  "hash": "b2a349e62c60a23f",
-  "seq": 0,
-  "modified": "2026-09-21T20:05:54+00:00"
+  "hash": "64f646ec9dac6b8d",
+  "seq": 1,
+  "modified": "2026-10-28T22:18:06+00:00"
  },
  "hardrock-204544@daer.miami-calendars": {
-  "hash": "119a5cdcc4fb2ec6",
-  "seq": 1,
-  "modified": "2026-09-21T20:07:29+00:00"
+  "hash": "d24ee577ec357629",
+  "seq": 2,
+  "modified": "2026-10-28T22:18:06+00:00"
  },
  "hardrock-205527@daer.miami-calendars": {
   "hash": "43eef26324dbdb1f",
@@ -1230,9 +1250,9 @@
   "modified": "2026-09-28T04:18:01+00:00"
  },
  "sangomia1205@shotgun.live": {
-  "hash": "8c53651b6045a374",
-  "seq": 1,
-  "modified": "2026-10-10T04:18:32+00:00"
+  "hash": "0e85c3d9c629312f",
+  "seq": 2,
+  "modified": "2026-10-28T22:18:06+00:00"
  },
  "solmates-presents-sparrow-more@shotgun.live": {
   "hash": "cdf8fa41974fa27d",
@@ -1395,9 +1415,9 @@
   "modified": "2026-10-21T22:18:18+00:00"
  },
  "zeyzey-omni-soundspace-presents-black-rave-culture-shekdash-sky-jetta-09-jan@zeyzey.miami-calendars": {
-  "hash": "052aa15f9d680bb1",
-  "seq": 0,
-  "modified": "2026-10-28T16:18:06+00:00"
+  "hash": "eda065962f692d29",
+  "seq": 1,
+  "modified": "2026-10-28T22:18:06+00:00"
  },
  "zeyzey-oscar-g-anastazja-28-nov@zeyzey.miami-calendars": {
   "hash": "d9ad3e195067313e",

@@ -31,7 +31,7 @@
   "slug": "floyd",
   "name": "Floyd",
   "file": "floyd.ics",
-  "events": 21,
+  "events": 23,
   "estimated_times": 0,
   "next": "2026-10-30",
   "sources": [
@@ -86,7 +86,7 @@
   "slug": "boombox",
   "name": "The Boombox Miami",
   "file": "boombox.ics",
-  "events": 8,
+  "events": 9,
   "estimated_times": 0,
   "next": "2026-10-30",
   "sources": [
@@ -159,8 +159,8 @@
   "slug": "midline",
   "name": "Midline",
   "file": "midline.ics",
-  "events": 11,
-  "estimated_times": 1,
+  "events": 12,
+  "estimated_times": 2,
   "next": "2026-10-31",
   "sources": [
    "19hz",

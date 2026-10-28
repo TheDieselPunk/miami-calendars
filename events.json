@@ -324,7 +324,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$10.00",
+   "price": "$15.00",
    "genres": [],
    "genres_inferred": false,
    "organizer": "",
@@ -631,7 +631,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$33.00",
+   "price": "$38.00",
    "genres": [],
    "genres_inferred": false,
    "organizer": "",
@@ -711,7 +711,7 @@
    "organizer": "The Boombox Miami",
    "description": "BOOMBOX SE7EN YEAR ANNIVERSARY Two nights. Two stages. 30+ acts. We’re celebrating 7 years of BOOMBOX with a massive Halloween weekend featuring some of Miami’s best underground sounds. With OMNI SOUND SPACE, EQUINOX BOOKING, FLORIDA GLOSS, and SAY TECH AND SMILE. OCTOBER 30 & 31 18+",
    "url": "https://shotgun.live/en/events/halloween-se-7-en",
-   "tickets": "FRIDAY OCT 30TH (SINGLE DAY PASS) - EARLY BIRD $20 (sold out), 2-DAY PASS (EARLY BIRD) $30 (sold out), SATURDAY OCT 31TH (SINGLE DAY PASS) - EARLY BIRD $20 (sold out), FRIDAY OCT 30TH (SINGLE DAY PASS) $30, 2-DAY PASS $40, SATURDAY OCT 31TH (SINGLE DAY PASS) $30",
+   "tickets": "FRIDAY OCT 30TH (SINGLE DAY PASS) - EARLY BIRD $20 (sold out), 2-DAY PASS (EARLY BIRD) $30 (sold out), SATURDAY OCT 31TH (SINGLE DAY PASS) - EARLY BIRD $20 (sold out), FRIDAY OCT 30TH (SINGLE DAY PASS) $30, 2-DAY PASS $40, SATURDAY OCT 31TH (SINGLE DAY PASS) $30 (sold out), SATURDAY OCT 31TH (SINGLE DAY PASS) - LAST CHANCE $35",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -1229,7 +1229,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $95",
+   "price": "From $100",
    "genres": [
     "breaks",
     "club",
@@ -1783,7 +1783,7 @@
   {
    "id": "hardrock:204543",
    "source": "venue",
-   "title": "Halloween - Saturday, October 31st",
+   "title": "Marco Ninni",
    "artists": [],
    "venue": "DAER Dayclub",
    "venue_slug": "daer",
@@ -2354,7 +2354,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$20.00",
+   "price": "$25.00",
    "genres": [
     "deep house",
     "house",
@@ -2938,7 +2938,7 @@
   {
    "id": "hardrock:204544",
    "source": "venue",
-   "title": "DAER Dayclub",
+   "title": "Konflikt",
    "artists": [],
    "venue": "DAER Dayclub",
    "venue_slug": "daer",
@@ -2954,7 +2954,7 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/204544",
-   "generic_title": true
+   "generic_title": false
   },
   {
    "id": "19hz:4447464-sundancewmassane",
@@ -8161,7 +8161,7 @@
   {
    "id": "dice:6abe81edcf1f4100017bc3b4",
    "source": "dice",
-   "title": "Divorcée",
+   "title": "Divorcée: Greg Wilson",
    "artists": [],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
@@ -8209,6 +8209,34 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/mister-gray-535422"
    ]
+  },
+  {
+   "id": "shotgun:clay-birds-at-the-boombox-11-24",
+   "source": "shotgun",
+   "title": "Clay Birds At The Boombox 11/24",
+   "artists": [],
+   "venue": "The Boombox Miami",
+   "venue_slug": "boombox",
+   "date": "2026-11-24",
+   "start": "2026-11-24T23:00:00+00:00",
+   "end": "2026-11-25T03:30:00+00:00",
+   "time_estimated": false,
+   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
+   "ages": "",
+   "price": "$19.30",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "Equinox Booking",
+   "description": "Severed Records and Equinox Booking Presents Clay Birds My Precious Solitude Sana Leaving $17 adv / $20 all ages 6 pm doors",
+   "url": "https://shotgun.live/en/events/clay-birds-at-the-boombox-11-24",
+   "tickets": "General Admission $17",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.7287781,
+    "longitude": -80.3169309
+   },
+   "created": "2026-10-28T21:34:19.000Z"
   },
   {
    "id": "19hz:4449679-rennmateos",
@@ -8646,7 +8674,7 @@
   {
    "id": "dice:6abe821acf1f4100010d2096",
    "source": "dice+edmtrain",
-   "title": "INSULATE",
+   "title": "INSULATE: George Smeddles",
    "artists": [
     "George Smeddles",
     "Siegel",
@@ -10096,6 +10124,30 @@
    "cancelled": false
   },
   {
+   "id": "shotgun:sangomia1205",
+   "source": "shotgun",
+   "title": "Achromatic X Black Hause Presents: Sango",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": "festivals",
+   "date": "2026-12-03",
+   "start": "2026-12-04T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.70",
+   "genres": [
+    "hip hop",
+    "baile funk",
+    "house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sangomia1205"
+  },
+  {
    "id": "19hz:4450552-wherearemykeysar",
    "source": "19hz+edmtrain",
    "title": "Where Are My Keys? Art Basel 2026",
@@ -10497,7 +10549,7 @@
   {
    "id": "dice:6a95af3f8ba41600019bdfd5",
    "source": "19hz+dice+edmtrain",
-   "title": "RAW CUTS (Ground Basel 2026)",
+   "title": "RAW CUTS: salute b2b HAAi (Ground Basel 2026)",
    "artists": [
     "HAAi",
     "Bakke",
@@ -11278,9 +11330,15 @@
   },
   {
    "id": "19hz:4450720-sango",
-   "source": "19hz",
+   "source": "19hz+edmtrain",
    "title": "Sango",
-   "artists": [],
+   "artists": [
+    "Sango",
+    "Mathias.",
+    "Lelynd Darkes",
+    "Khalil",
+    "NINI"
+   ],
    "venue": "1-800-Lucky",
    "venue_slug": null,
    "date": "2026-12-05",
@@ -11295,36 +11353,6 @@
    ],
    "genres_inferred": false,
    "organizer": "Achromatic",
-   "description": "",
-   "url": "https://shotgun.live/en/events/sangomia1205"
-  },
-  {
-   "id": "shotgun:sangomia1205",
-   "source": "edmtrain+shotgun",
-   "title": "Achromatic Presents: Sango",
-   "artists": [
-    "Sango",
-    "Mathias.",
-    "Lelynd Darkes",
-    "Khalil",
-    "NINI"
-   ],
-   "venue": "Miami",
-   "venue_slug": "festivals",
-   "date": "2026-12-05",
-   "start": "2026-12-05T21:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$22.70",
-   "genres": [
-    "baile funk",
-    "hip hop",
-    "house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/sangomia1205",
    "alt_urls": [
@@ -11702,6 +11730,31 @@
    "alt_urls": [
     "https://dice.fm/event/6ab446f49e8bcf0001f96b29",
     "https://edmtrain.com/miami-fl/francis-mercier-539605"
+   ]
+  },
+  {
+   "id": "edmtrain:548595",
+   "source": "edmtrain",
+   "title": "Channel Tres",
+   "artists": [
+    "Channel Tres"
+   ],
+   "venue": "Midline Miami",
+   "venue_slug": "midline",
+   "date": "2026-12-05",
+   "start": "2026-12-06T03:00:00+00:00",
+   "end": "2026-12-06T08:00:00+00:00",
+   "time_estimated": true,
+   "address": "2221 NW Miami Ct, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzA5NjY1Ojc=/clickthru",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/channel-tres-548595"
    ]
   },
   {
@@ -12893,6 +12946,30 @@
    "url": "https://shotgun.live/en/events/the-hall-360-differ-f-2-f-nico-moon-6"
   },
   {
+   "id": "dice:6ae22470c173cf000152ed75",
+   "source": "dice",
+   "title": "KinAhau All Night Long",
+   "artists": [],
+   "venue": "Floyd Miami",
+   "venue_slug": "floyd",
+   "date": "2026-12-18",
+   "start": "2026-12-19T04:00:00+00:00",
+   "end": "2026-12-19T10:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $20",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ae22470c173cf000152ed75",
+   "cancelled": false
+  },
+  {
    "id": "hardrock:207853",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -13136,6 +13213,30 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/road-to-ni-2027-ft-lauderdale"
+  },
+  {
+   "id": "dice:6ae219d6be58e900015632e5",
+   "source": "dice",
+   "title": "Risqué: Yung Omz",
+   "artists": [],
+   "venue": "Floyd Miami",
+   "venue_slug": "floyd",
+   "date": "2026-12-20",
+   "start": "2026-12-21T04:00:00+00:00",
+   "end": "2026-12-21T10:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $10",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ae219d6be58e900015632e5",
+   "cancelled": false
   },
   {
    "id": "19hz:4452367-arielassault",
@@ -13937,29 +14038,6 @@
    "generic_title": true
   },
   {
-   "id": "zeyzey:omni-soundspace-presents-black-rave-culture-shekdash-sky-jetta-09-jan",
-   "source": "venue",
-   "title": "Black Rave Culture, Shekdash, Sky Jetta",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2027-01-09",
-   "start": "2027-01-10T01:00:00+00:00",
-   "end": "2027-01-10T06:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "dance/electronic"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/omni-soundspace-presents-black-rave-culture-shekdash-sky-jetta-09-jan",
-   "cancelled": false
-  },
-  {
    "id": "hardrock:212394",
    "source": "venue",
    "title": "DAER Nightclub",
@@ -13979,6 +14057,29 @@
    "description": "",
    "url": "https://tixr.com/e/212394",
    "generic_title": true
+  },
+  {
+   "id": "zeyzey:omni-soundspace-presents-black-rave-culture-shekdash-sky-jetta-09-jan",
+   "source": "venue",
+   "title": "Black Rave Culture, Shekdash, Sky Jetta",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2027-01-09",
+   "start": "2027-01-10T03:00:00+00:00",
+   "end": "2027-01-10T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "dance/electronic"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/omni-soundspace-presents-black-rave-culture-shekdash-sky-jetta-09-jan",
+   "cancelled": false
   },
   {
    "id": "edmtrain:539079",
@@ -14722,7 +14823,7 @@
    "time_estimated": false,
    "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "",
-   "price": "",
+   "price": "From $20",
    "genres": [
     "bass",
     "dubstep"

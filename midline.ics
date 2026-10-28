@@ -107,6 +107,23 @@ STATUS:CONFIRMED
 CATEGORIES:bass music,dubstep
 END:VEVENT
 BEGIN:VEVENT
+UID:edmtrain-548595@midline.miami-calendars
+DTSTAMP:20261028T221806Z
+LAST-MODIFIED:20261028T221806Z
+SEQUENCE:0
+DTSTART:20261206T030000Z
+DTEND:20261206T080000Z
+SUMMARY:Channel Tres
+LOCATION:Midline Miami\, 2221 NW Miami Ct\, Miami\, FL 33127\, USA
+DESCRIPTION:Lineup: Channel Tres\nTimes are an estimate from Midline's usua
+ l hours - the listing has no start time yet. Check the link.\nhttps://prod
+ -nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzA5NjY1Ojc=/clickthr
+ u\nhttps://edmtrain.com/miami-fl/channel-tres-548595
+URL:https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzA5Nj
+ Y1Ojc=/clickthru
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:19hz-4452088-eazybaked@midline.miami-calendars
 DTSTAMP:20261002T221826Z
 LAST-MODIFIED:20261002T221826Z

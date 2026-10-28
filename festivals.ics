@@ -233,6 +233,21 @@ URL:https://shotgun.live/en/events/art-basel-airfunk
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:sangomia1205@shotgun.live
+DTSTAMP:20261028T221806Z
+LAST-MODIFIED:20261028T221806Z
+SEQUENCE:2
+DTSTART:20261204T020000Z
+DTEND:20261204T070000Z
+SUMMARY:Achromatic X Black Hause Presents: Sango
+LOCATION:Miami
+DESCRIPTION:Tags: hip hop\, baile funk\, house\nhttps://shotgun.live/en/eve
+ nts/sangomia1205
+URL:https://shotgun.live/en/events/sangomia1205
+STATUS:CONFIRMED
+CATEGORIES:hip hop,baile funk,house
+END:VEVENT
+BEGIN:VEVENT
 UID:19hz-4450552-wherearemykeysar@festivals.miami-calendars
 DTSTAMP:20261021T041830Z
 LAST-MODIFIED:20261021T041830Z
@@ -395,22 +410,6 @@ DESCRIPTION:Tags: afro house\, afrobeats\, amapiano\nPresented by: Vibehaus
 URL:https://ra.co/events/2556404
 STATUS:CONFIRMED
 CATEGORIES:afro house,afrobeats,amapiano
-END:VEVENT
-BEGIN:VEVENT
-UID:sangomia1205@shotgun.live
-DTSTAMP:20261010T041832Z
-LAST-MODIFIED:20261010T041832Z
-SEQUENCE:1
-DTSTART:20261205T210000Z
-DTEND:20261206T020000Z
-SUMMARY:Achromatic Presents: Sango
-LOCATION:Miami
-DESCRIPTION:Lineup: Sango\, Mathias.\, Lelynd Darkes\, Khalil\, NINI\nTags:
-  baile funk\, hip hop\, house\nhttps://shotgun.live/en/events/sangomia1205
- \nhttps://edmtrain.com/miami-fl/achromatic-presents-sango-544060
-URL:https://shotgun.live/en/events/sangomia1205
-STATUS:CONFIRMED
-CATEGORIES:baile funk,hip hop,house
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4450720-adriatiqueb2bclo@festivals.miami-calendars
