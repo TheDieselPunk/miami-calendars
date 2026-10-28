@@ -124,16 +124,17 @@ CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ae0e0da3b35970001ec2268@jolene.miami-calendars
-DTSTAMP:20261027T221818Z
-LAST-MODIFIED:20261027T221818Z
-SEQUENCE:0
+DTSTAMP:20261028T101812Z
+LAST-MODIFIED:20261028T101812Z
+SEQUENCE:1
 DTSTART:20261115T030000Z
 DTEND:20261115T090000Z
 SUMMARY:Bill Patrick b2b Bort (All Night Long)
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6ae0e0d
- a3b35970001ec2268
+DESCRIPTION:Lineup: Bill Patrick\, Bort\nTags (guess): house\, tech house\n
+ https://dice.fm/event/6ae0e0da3b35970001ec2268\nhttps://edmtrain.com/miami
+ -fl/bill-patrick-bort-548365
 URL:https://dice.fm/event/6ae0e0da3b35970001ec2268
 STATUS:CONFIRMED
 CATEGORIES:house,tech house
@@ -244,17 +245,18 @@ CATEGORIES:house,tech house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab442b0fb764f0001259171@jolene.miami-calendars
-DTSTAMP:20261004T221819Z
-LAST-MODIFIED:20261004T221819Z
-SEQUENCE:1
+DTSTAMP:20261028T101812Z
+LAST-MODIFIED:20261028T101812Z
+SEQUENCE:2
 DTSTART:20261202T030000Z
 DTEND:20261202T090000Z
 SUMMARY:Basel: Paco Osuna
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Lineup: Paco Osuna\nTags: tech house\, techno\nAges: 21+\nhttps
- ://dice.fm/event/avk8vx-basel-paco-osuna-1st-dec-jolene-sound-room-miami-m
- iami-tickets\nhttps://edmtrain.com/miami-fl/paco-osuna-539603
+DESCRIPTION:Lineup: Paco Osuna\, Priku\nTags: tech house\, techno\nAges: 21
+ +\nhttps://dice.fm/event/avk8vx-basel-paco-osuna-1st-dec-jolene-sound-room
+ -miami-miami-tickets\nhttps://edmtrain.com/miami-fl/paco-osuna-priku-53960
+ 3
 URL:https://dice.fm/event/avk8vx-basel-paco-osuna-1st-dec-jolene-sound-room
  -miami-miami-tickets
 STATUS:CONFIRMED

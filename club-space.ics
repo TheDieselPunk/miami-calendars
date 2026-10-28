@@ -94,15 +94,15 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6adfa5c2e9571d000113a9ec@club-space.miami-calendars
-DTSTAMP:20261027T161815Z
-LAST-MODIFIED:20261027T161815Z
-SEQUENCE:0
+DTSTAMP:20261028T101812Z
+LAST-MODIFIED:20261028T101812Z
+SEQUENCE:1
 DTSTART:20261108T120000Z
 DTEND:20261108T160000Z
 SUMMARY:Race To Space
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
 DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6adfa5c2e95
- 71d000113a9ec
+ 71d000113a9ec\nhttps://edmtrain.com/miami-fl/race-to-space-548304
 URL:https://dice.fm/event/6adfa5c2e9571d000113a9ec
 STATUS:CONFIRMED
 CATEGORIES:house,techno
@@ -270,16 +270,19 @@ CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aa05356c1a81a000145fda3@club-space.miami-calendars
-DTSTAMP:20261017T161817Z
-LAST-MODIFIED:20261017T161817Z
-SEQUENCE:3
+DTSTAMP:20261028T101812Z
+LAST-MODIFIED:20261028T101812Z
+SEQUENCE:4
 DTSTART:20261204T040000Z
 DTEND:20261205T010000Z
 SUMMARY:Paradise (Space Basel 2026)
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags: house\, tech house\, techno\nAges: 21+\nhttps://dice.fm/e
- vent/6aa05356c1a81a000145fda3\nhttps://edmtrain.com/miami-fl/paradise-spac
- e-basel-2026-535407\nhttps://link.dice.fm/rawcutsbasel
+DESCRIPTION:Lineup: Fleur Shore\, Manda Moor\, Toman\, Jamie Jones\, The Ma
+ rtinez Brothers\, Miguelle & Tons\, Josh Baker\, Enzo Siragusa\, Max Dean
+ \, Luke Dean\, Joss Dean\nTags: house\, tech house\, techno\nAges: 21+\nht
+ tps://dice.fm/event/6aa05356c1a81a000145fda3\nhttps://edmtrain.com/miami-f
+ l/paradise-space-basel-2026-fleur-shore-535407\nhttps://link.dice.fm/rawcu
+ tsbasel
 URL:https://dice.fm/event/6aa05356c1a81a000145fda3
 STATUS:CONFIRMED
 CATEGORIES:house,tech house,techno
@@ -336,15 +339,16 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ae0b22eeeeae40001c1bdce@club-space.miami-calendars
-DTSTAMP:20261027T161815Z
-LAST-MODIFIED:20261027T161815Z
-SEQUENCE:0
+DTSTAMP:20261028T101812Z
+LAST-MODIFIED:20261028T101812Z
+SEQUENCE:1
 DTSTART:20270124T040000Z
 DTEND:20270124T170000Z
 SUMMARY:Nicole Moudaber Bday Celebration
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6ae0b22eeee
- ae40001c1bdce
+DESCRIPTION:Lineup: Nicole Moudaber\nTags (guess): house\, techno\nhttps://
+ dice.fm/event/6ae0b22eeeeae40001c1bdce\nhttps://edmtrain.com/miami-fl/nico
+ le-moudaber-548305
 URL:https://dice.fm/event/6ae0b22eeeeae40001c1bdce
 STATUS:CONFIRMED
 CATEGORIES:house,techno

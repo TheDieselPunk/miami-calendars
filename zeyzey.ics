@@ -390,9 +390,9 @@ CATEGORIES:latin
 END:VEVENT
 BEGIN:VEVENT
 UID:solmates-presents-sparrow-more@shotgun.live
-DTSTAMP:20261027T101808Z
-LAST-MODIFIED:20261027T101808Z
-SEQUENCE:1
+DTSTAMP:20261028T101812Z
+LAST-MODIFIED:20261028T101812Z
+SEQUENCE:2
 DTSTART:20261121T030000Z
 DTEND:20261121T080000Z
 SUMMARY:Solmates Presents Sparrow & More
@@ -404,14 +404,14 @@ DESCRIPTION:Solmates returns for another night built around the sounds that
   a shared love for music\, Solmates creates a space where different influe
  nces meet\, new discoveries unfold\, and the dancefloor becomes something 
  more than just a place to move. One room\, one atmosphere\, and a night ma
- de for the moments that stay with you. See you on the dancefloor.\nLineup:
-  Sparrow\nTags: indie/alternative\nPresented by: Solmates Miami\nTickets: 
- Pre-Sale & General Admission 1 $20\, General Admission 2 $25\, General Adm
- ission 3 $30\, VIP $45\nhttps://shotgun.live/en/events/solmates-presents-s
- parrow-more\nhttps://calendar.zeyzeymiami.com/shows/solmates-presents-spar
- row-more-20-nov\nhttps://calendar.zeyzeymiami.com/shows/the-hails-21-nov\n
- https://dice.fm/event/6adff5fd8be4730001f56177\nhttps://edmtrain.com/miami
- -fl/solmates-presents-sparrow-548040
+ de for the moments that stay with you. See you on the dancefloor.\nTags: i
+ ndie/alternative\nPresented by: Solmates Miami\nTickets: Pre-Sale & Genera
+ l Admission 1 $20\, General Admission 2 $25\, General Admission 3 $30\, VI
+ P $45\nhttps://shotgun.live/en/events/solmates-presents-sparrow-more\nhttp
+ s://calendar.zeyzeymiami.com/shows/solmates-presents-sparrow-more-20-nov\n
+ https://calendar.zeyzeymiami.com/shows/the-hails-21-nov\nhttps://dice.fm/e
+ vent/6adff5fd8be4730001f56177\nhttps://edmtrain.com/miami-fl/solmates-pres
+ ents-548040
 URL:https://shotgun.live/en/events/solmates-presents-sparrow-more
 STATUS:CONFIRMED
 CATEGORIES:indie/alternative
@@ -535,6 +535,22 @@ URL:https://calendar.zeyzeymiami.com/shows/justin-nozuka-second-show-02-dec
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:edmtrain-545267@zeyzey.miami-calendars
+DTSTAMP:20261028T101812Z
+LAST-MODIFIED:20261028T101812Z
+SEQUENCE:1
+DTSTART:20261203T000000Z
+DTEND:20261203T060000Z
+SUMMARY:SG Lewis
+LOCATION:ZeyZey Miami\, 353 NE 61st St\, Miami\, FL 33137\, USA
+DESCRIPTION:Lineup: SG Lewis\nTimes are an estimate from ZeyZey Miami's usu
+ al hours - the listing has no start time yet. Check the link.\nhttps://cal
+ endar.zeyzeymiami.com/shows/sg-lewis-02-dec\nhttps://edmtrain.com/miami-fl
+ /sg-lewis-545267
+URL:https://calendar.zeyzeymiami.com/shows/sg-lewis-02-dec
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-sg-lewis-02-dec@zeyzey.miami-calendars
 DTSTAMP:20261025T041811Z
 LAST-MODIFIED:20261025T041811Z
@@ -548,22 +564,6 @@ DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
 URL:https://calendar.zeyzeymiami.com/shows/sg-lewis-02-dec
 STATUS:CONFIRMED
 CATEGORIES:dance/electronic
-END:VEVENT
-BEGIN:VEVENT
-UID:edmtrain-545267@zeyzey.miami-calendars
-DTSTAMP:20261025T041811Z
-LAST-MODIFIED:20261025T041811Z
-SEQUENCE:0
-DTSTART:20261203T000000Z
-DTEND:20261203T060000Z
-SUMMARY:SG Lewis\, TBA
-LOCATION:ZeyZey Miami\, 353 NE 61st St\, Miami\, FL 33137\, USA
-DESCRIPTION:Lineup: SG Lewis\, TBA\nTimes are an estimate from ZeyZey Miami
- 's usual hours - the listing has no start time yet. Check the link.\nhttps
- ://calendar.zeyzeymiami.com/shows/sg-lewis-02-dec\nhttps://edmtrain.com/mi
- ami-fl/sg-lewis-tba-545267
-URL:https://calendar.zeyzeymiami.com/shows/sg-lewis-02-dec
-STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4450444-sglewisforeverda@zeyzey.miami-calendars
@@ -616,15 +616,16 @@ CATEGORIES:r&b/soul
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-pnk-basel-04-dec@zeyzey.miami-calendars
-DTSTAMP:20261020T221822Z
-LAST-MODIFIED:20261020T221822Z
-SEQUENCE:0
+DTSTAMP:20261028T101812Z
+LAST-MODIFIED:20261028T101812Z
+SEQUENCE:1
 DTSTART:20261204T200000Z
 DTEND:20261205T080000Z
 SUMMARY:PNK Basel
 LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
- pnk-basel-04-dec
+DESCRIPTION:Lineup: SLAMM\, Mishell\, Aka Vinnie\nTags: dance/electronic\nh
+ ttps://calendar.zeyzeymiami.com/shows/pnk-basel-04-dec\nhttps://edmtrain.c
+ om/miami-fl/pnk-records-pnk-basel-slamm-548216
 URL:https://calendar.zeyzeymiami.com/shows/pnk-basel-04-dec
 STATUS:CONFIRMED
 CATEGORIES:dance/electronic
@@ -647,31 +648,31 @@ CATEGORIES:dance/electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-soulection-friends-05-dec@zeyzey.miami-calendars
-DTSTAMP:20261024T101823Z
-LAST-MODIFIED:20261024T101823Z
-SEQUENCE:1
+DTSTAMP:20261028T101812Z
+LAST-MODIFIED:20261028T101812Z
+SEQUENCE:2
 DTSTART:20261205T200000Z
 DTEND:20261206T060000Z
 SUMMARY:Soulection & Friends
 LOCATION:ZeyZey Miami
 DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
- soulection-friends-05-dec\nhttps://edmtrain.com/miami-fl/soulection-and-fr
- iends-547645
+ soulection-friends-05-dec
 URL:https://calendar.zeyzeymiami.com/shows/soulection-friends-05-dec
 STATUS:CONFIRMED
 CATEGORIES:dance/electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-sam-gellaitry-darius-05-dec@zeyzey.miami-calendars
-DTSTAMP:20261020T221822Z
-LAST-MODIFIED:20261020T221822Z
-SEQUENCE:0
+DTSTAMP:20261028T101812Z
+LAST-MODIFIED:20261028T101812Z
+SEQUENCE:1
 DTSTART:20261206T010000Z
 DTEND:20261206T060000Z
 SUMMARY:Sam Gellaitry + Darius
 LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
- sam-gellaitry-darius-05-dec
+DESCRIPTION:Lineup: Sam Gellaitry\, Darius\nTags: dance/electronic\nhttps:/
+ /calendar.zeyzeymiami.com/shows/sam-gellaitry-darius-05-dec\nhttps://edmtr
+ ain.com/miami-fl/sam-gellaitry-darius-547645
 URL:https://calendar.zeyzeymiami.com/shows/sam-gellaitry-darius-05-dec
 STATUS:CONFIRMED
 CATEGORIES:dance/electronic

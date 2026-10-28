@@ -31,24 +31,32 @@
    ]
   },
   {
-   "id": "shotgun:tainted-the-doll-mix-a-dragula-viewing-party-and-drag-show",
-   "source": "shotgun",
-   "title": "Tainted The Doll MIX A Drag Show",
-   "artists": [],
-   "venue": "Churchill's Pub",
+   "id": "edmtrain:548328",
+   "source": "edmtrain",
+   "title": "nactua, Santelises",
+   "artists": [
+    "nactua",
+    "Santelises"
+   ],
+   "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
    "date": "2026-10-27",
-   "start": "2026-10-28T02:30:00+00:00",
+   "start": null,
    "end": null,
    "time_estimated": false,
-   "address": "",
+   "address": "423 16th St, Miami Beach, FL 33139, USA",
    "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
+   "price": "",
+   "genres": [
+    "deep house"
+   ],
+   "genres_inferred": true,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/tainted-the-doll-mix-a-dragula-viewing-party-and-drag-show"
+   "url": "https://shotgun.live/events/halloween-do-not-sit-on-the-furniture?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/nactua-santelises-548328"
+   ]
   },
   {
    "id": "edmtrain:546975",
@@ -327,6 +335,30 @@
    "alt_urls": [
     "https://shotgun.live/en/events/madradiomiami102826"
    ]
+  },
+  {
+   "id": "shotgun:intriga-x-boho-house-day-party-vol-4",
+   "source": "shotgun",
+   "title": "Intriga X Boho House: Day Party Vol 4",
+   "artists": [],
+   "venue": "BOHO House Miami",
+   "venue_slug": null,
+   "date": "2026-10-28",
+   "start": "2026-10-29T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "house",
+    "tech house",
+    "indie dance"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/intriga-x-boho-house-day-party-vol-4"
   },
   {
    "id": "shotgun:halloween-do-not-sit-on-the-furniture",
@@ -2804,6 +2836,29 @@
    ]
   },
   {
+   "id": "edmtrain:548212",
+   "source": "edmtrain",
+   "title": "Challaween at Lions Den",
+   "artists": [],
+   "venue": "150 Northwest 73rd Street",
+   "venue_slug": null,
+   "date": "2026-10-31",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "150 NW 73rd St, Miami, FL 33150, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/challahween-1?u=leogottenger72&_t=mvqv7t32&os=ios&src=event_page&t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/challaween-at-lions-den-548212"
+   ]
+  },
+  {
    "id": "edmtrain:536320",
    "source": "edmtrain",
    "title": "Onur Özer, Mayell, Explorer, Demenz, Max Kraushaar",
@@ -4740,7 +4795,7 @@
   },
   {
    "id": "dice:6adfa5c2e9571d000113a9ec",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "Race To Space",
    "artists": [],
    "venue": "Club Space Miami",
@@ -4760,7 +4815,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6adfa5c2e9571d000113a9ec",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/race-to-space-548304"
+   ]
   },
   {
    "id": "hardrock:205532",
@@ -6247,9 +6305,12 @@
   },
   {
    "id": "dice:6ae0e0da3b35970001ec2268",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "Bill Patrick b2b Bort (All Night Long)",
-   "artists": [],
+   "artists": [
+    "Bill Patrick",
+    "Bort"
+   ],
    "venue": "Jolene Sound Room Miami",
    "venue_slug": "jolene",
    "date": "2026-11-14",
@@ -6267,7 +6328,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6ae0e0da3b35970001ec2268",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/bill-patrick-bort-548365"
+   ]
   },
   {
    "id": "dice:6a39388b80183200011c1c6f",
@@ -6774,6 +6838,33 @@
    "cancelled": false,
    "alt_urls": [
     "https://link.dice.fm/nov15floyd"
+   ]
+  },
+  {
+   "id": "edmtrain:548237",
+   "source": "edmtrain",
+   "title": "Lazaro Casanova, Nicole Fiallo, Nyco Jones",
+   "artists": [
+    "Lazaro Casanova",
+    "Nicole Fiallo",
+    "Nyco Jones"
+   ],
+   "venue": "1-800-Lucky",
+   "venue_slug": null,
+   "date": "2026-11-15",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "143 NW 23rd St, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/8ed7lv?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/lazaro-casanova-nicole-fiallo-548237"
    ]
   },
   {
@@ -7422,9 +7513,7 @@
    "id": "shotgun:solmates-presents-sparrow-more",
    "source": "dice+edmtrain+shotgun+venue",
    "title": "Solmates Presents Sparrow & More",
-   "artists": [
-    "Sparrow"
-   ],
+   "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-11-20",
@@ -7453,7 +7542,7 @@
     "https://dice.fm/event/6adff5fd8be4730001f56177",
     "https://calendar.zeyzeymiami.com/shows/solmates-presents-sparrow-more-20-nov",
     "https://calendar.zeyzeymiami.com/shows/the-hails-21-nov",
-    "https://edmtrain.com/miami-fl/solmates-presents-sparrow-548040"
+    "https://edmtrain.com/miami-fl/solmates-presents-548040"
    ]
   },
   {
@@ -9034,7 +9123,8 @@
    "source": "19hz+edmtrain",
    "title": "Raw Main, Jessy Nimni",
    "artists": [
-    "Raw Main"
+    "Raw Main",
+    "Christine Lucas"
    ],
    "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
@@ -9053,7 +9143,7 @@
    "description": "",
    "url": "https://dice.fm/event/mxy9bl-raw-main-all-day-i-dream-lost-mircale-28th-nov-do-not-sit-on-the-furniture-miami-beach-tickets",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/raw-main-538080"
+    "https://edmtrain.com/miami-fl/raw-main-christine-lucas-538080"
    ]
   },
   {
@@ -9396,6 +9486,31 @@
    ]
   },
   {
+   "id": "edmtrain:548528",
+   "source": "edmtrain",
+   "title": "Simon Vuarambon",
+   "artists": [
+    "Simon Vuarambon"
+   ],
+   "venue": "Upside",
+   "venue_slug": null,
+   "date": "2026-11-28",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "59 NW 28th St, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/k672eo?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/simon-vuarambon-548528"
+   ]
+  },
+  {
    "id": "shotgun:lunasol-pres-sunrise-lesson-8",
    "source": "shotgun",
    "title": "Lunasol Pres. Lesson 8",
@@ -9489,6 +9604,33 @@
    "cancelled": false
   },
   {
+   "id": "edmtrain:548238",
+   "source": "edmtrain",
+   "title": "Lazaro Casanova, Nicole Fiallo, Spyridon",
+   "artists": [
+    "Lazaro Casanova",
+    "Nicole Fiallo",
+    "Spyridon"
+   ],
+   "venue": "1-800-Lucky",
+   "venue_slug": null,
+   "date": "2026-11-29",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "143 NW 23rd St, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/q23dlo?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/lazaro-casanova-nicole-fiallo-548238"
+   ]
+  },
+  {
    "id": "edmtrain:539773",
    "source": "edmtrain",
    "title": "Urge Miami",
@@ -9509,31 +9651,6 @@
    "url": "https://www.eventbrite.com/e/1987540335647?aff=ebdimtedmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/urge-miami-539773"
-   ]
-  },
-  {
-   "id": "edmtrain:548036",
-   "source": "edmtrain",
-   "title": "Nox Vahn",
-   "artists": [
-    "Nox Vahn"
-   ],
-   "venue": "Upside",
-   "venue_slug": null,
-   "date": "2026-11-29",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "59 NW 28th St, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/bbqgmm?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/nox-vahn-548036"
    ]
   },
   {
@@ -9617,7 +9734,8 @@
    "source": "19hz+dice+edmtrain",
    "title": "Basel: Paco Osuna",
    "artists": [
-    "Paco Osuna"
+    "Paco Osuna",
+    "Priku"
    ],
    "venue": "Jolene Sound Room Miami",
    "venue_slug": "jolene",
@@ -9639,7 +9757,7 @@
    "cancelled": false,
    "alt_urls": [
     "https://dice.fm/event/avk8vx-basel-paco-osuna-1st-dec-jolene-sound-room-miami-miami-tickets",
-    "https://edmtrain.com/miami-fl/paco-osuna-539603"
+    "https://edmtrain.com/miami-fl/paco-osuna-priku-539603"
    ]
   },
   {
@@ -9697,6 +9815,31 @@
    "cancelled": false
   },
   {
+   "id": "edmtrain:545267",
+   "source": "edmtrain",
+   "title": "SG Lewis",
+   "artists": [
+    "SG Lewis"
+   ],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-12-02",
+   "start": "2026-12-03T00:00:00+00:00",
+   "end": "2026-12-03T06:00:00+00:00",
+   "time_estimated": true,
+   "address": "353 NE 61st St, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/sg-lewis-02-dec",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/sg-lewis-545267"
+   ]
+  },
+  {
    "id": "zeyzey:sg-lewis-02-dec",
    "source": "venue",
    "title": "SG Lewis Presents Forever Days, Miami",
@@ -9718,32 +9861,6 @@
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/sg-lewis-02-dec",
    "cancelled": false
-  },
-  {
-   "id": "edmtrain:545267",
-   "source": "edmtrain",
-   "title": "SG Lewis, TBA",
-   "artists": [
-    "SG Lewis",
-    "TBA"
-   ],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-12-02",
-   "start": "2026-12-03T00:00:00+00:00",
-   "end": "2026-12-03T06:00:00+00:00",
-   "time_estimated": true,
-   "address": "353 NE 61st St, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/sg-lewis-02-dec",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/sg-lewis-tba-545267"
-   ]
   },
   {
    "id": "19hz:4450444-sglewisforeverda",
@@ -10438,7 +10555,19 @@
    "id": "dice:6aa05356c1a81a000145fda3",
    "source": "19hz+dice+edmtrain",
    "title": "Paradise (Space Basel 2026)",
-   "artists": [],
+   "artists": [
+    "Fleur Shore",
+    "Manda Moor",
+    "Toman",
+    "Jamie Jones",
+    "The Martinez Brothers",
+    "Miguelle & Tons",
+    "Josh Baker",
+    "Enzo Siragusa",
+    "Max Dean",
+    "Luke Dean",
+    "Joss Dean"
+   ],
    "venue": "Club Space Miami",
    "venue_slug": "club-space",
    "date": "2026-12-03",
@@ -10461,7 +10590,7 @@
    "alt_urls": [
     "https://dice.fm/event/6aa05356c1a81a000145fda3",
     "https://link.dice.fm/rawcutsbasel",
-    "https://edmtrain.com/miami-fl/paradise-space-basel-2026-535407"
+    "https://edmtrain.com/miami-fl/paradise-space-basel-2026-fleur-shore-535407"
    ]
   },
   {
@@ -10578,6 +10707,31 @@
    ]
   },
   {
+   "id": "edmtrain:548509",
+   "source": "edmtrain",
+   "title": "Benny Benassi",
+   "artists": [
+    "Benny Benassi"
+   ],
+   "venue": "The Roof At The Moore",
+   "venue_slug": null,
+   "date": "2026-12-03",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "160 NE 41st St, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.eventbrite.com/e/2001645634977?aff=ebdimtedmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/benny-benassi-548509"
+   ]
+  },
+  {
    "id": "19hz:4450620-hugel",
    "source": "19hz+edmtrain",
    "title": "Hugel",
@@ -10687,9 +10841,13 @@
   },
   {
    "id": "zeyzey:pnk-basel-04-dec",
-   "source": "venue",
+   "source": "edmtrain+venue",
    "title": "PNK Basel",
-   "artists": [],
+   "artists": [
+    "SLAMM",
+    "Mishell",
+    "Aka Vinnie"
+   ],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-12-04",
@@ -10706,7 +10864,10 @@
    "organizer": "",
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/pnk-basel-04-dec",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/pnk-records-pnk-basel-slamm-548216"
+   ]
   },
   {
    "id": "19hz:4450624-anotr",
@@ -11220,7 +11381,7 @@
   },
   {
    "id": "zeyzey:soulection-friends-05-dec",
-   "source": "edmtrain+venue",
+   "source": "venue",
    "title": "Soulection & Friends",
    "artists": [],
    "venue": "ZeyZey Miami",
@@ -11239,10 +11400,7 @@
    "organizer": "",
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/soulection-friends-05-dec",
-   "cancelled": false,
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/soulection-and-friends-547645"
-   ]
+   "cancelled": false
   },
   {
    "id": "19hz:4450720-sango",
@@ -11408,9 +11566,12 @@
   },
   {
    "id": "zeyzey:sam-gellaitry-darius-05-dec",
-   "source": "venue",
+   "source": "edmtrain+venue",
    "title": "Sam Gellaitry + Darius",
-   "artists": [],
+   "artists": [
+    "Sam Gellaitry",
+    "Darius"
+   ],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-12-05",
@@ -11427,7 +11588,10 @@
    "organizer": "",
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/sam-gellaitry-darius-05-dec",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/sam-gellaitry-darius-547645"
+   ]
   },
   {
    "id": "hardrock:212140",
@@ -14320,9 +14484,11 @@
   },
   {
    "id": "dice:6ae0b22eeeeae40001c1bdce",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "Nicole Moudaber Bday Celebration",
-   "artists": [],
+   "artists": [
+    "Nicole Moudaber"
+   ],
    "venue": "Club Space Miami",
    "venue_slug": "club-space",
    "date": "2027-01-23",
@@ -14340,7 +14506,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6ae0b22eeeeae40001c1bdce",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/nicole-moudaber-548305"
+   ]
   },
   {
    "id": "hardrock:212390",
@@ -14574,6 +14743,31 @@
    "cancelled": false
   },
   {
+   "id": "edmtrain:548036",
+   "source": "edmtrain",
+   "title": "Nox Vahn",
+   "artists": [
+    "Nox Vahn"
+   ],
+   "venue": "Upside",
+   "venue_slug": null,
+   "date": "2027-01-31",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "59 NW 28th St, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/bbqgmm?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/nox-vahn-548036"
+   ]
+  },
+  {
    "id": "zeyzey:jam-cruise-pre-party-03-feb",
    "source": "venue",
    "title": "An Evening with Pigeons Playing Ping Pong",
@@ -14596,9 +14790,11 @@
   },
   {
    "id": "dice:6ada0ef330a6130001bb2b30",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "TYNAN",
-   "artists": [],
+   "artists": [
+    "TYNAN"
+   ],
    "venue": "Kemistry",
    "venue_slug": "kemistry",
    "date": "2027-02-05",
@@ -14616,7 +14812,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6ada0ef330a6130001bb2b30",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/tynan-548369"
+   ]
   },
   {
    "id": "zeyzey:the-temptations-19-feb",
