@@ -2,11 +2,9 @@
  "events": [
   {
    "id": "19hz:4446991-am75",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Am75",
-   "artists": [
-    "AM75"
-   ],
+   "artists": [],
    "venue": "E11even",
    "venue_slug": null,
    "date": "2026-10-27",
@@ -25,131 +23,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://speakeasygo.com/event/EVE-8GVMHE",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/am75-545578"
-   ]
-  },
-  {
-   "id": "edmtrain:548328",
-   "source": "edmtrain",
-   "title": "nactua, Santelises",
-   "artists": [
-    "nactua",
-    "Santelises"
-   ],
-   "venue": "Do Not Sit On The Furniture",
-   "venue_slug": null,
-   "date": "2026-10-27",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "423 16th St, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "deep house"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/halloween-do-not-sit-on-the-furniture?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/nactua-santelises-548328"
-   ]
-  },
-  {
-   "id": "edmtrain:546975",
-   "source": "edmtrain",
-   "title": "THRILL-O-WEEN 2026: Subfiltronik b2b 4asterisk, HAX b2b Fairydoll, jjjacksen b2b Hamwich, Sakuro b2b Def0, bass Kitty b2b Nejuko, vipr b2b Jisatsu, $krippa b2b SYLLA, LexDubs b2b Bubzie, Bjilla b2b Ramage, Yilla b2b Chao, Sugoi b2b Foe, PHANTEX b2b DREXIS, Aneuryzm b2b Redacted, EMBER b2b Raidxn, King Cope b2b Chorizma, Mihok Dubz b2b PATH, ShvneDubs b2b D3ST, Akii b2b Last Breaths, Ellie b2b Mikeythemaniac, Longing b2b Rando, Momay b2b Skooby, Herr_Dub b2b MAZI",
-   "artists": [
-    "Subfiltronik",
-    "4asterisk",
-    "HAX",
-    "Fairydoll",
-    "jjjacksen",
-    "Hamwich",
-    "Sakuro",
-    "Def0",
-    "bass Kitty",
-    "Nejuko",
-    "vipr",
-    "Jisatsu",
-    "$krippa",
-    "SYLLA",
-    "LexDubs",
-    "Bubzie",
-    "Bjilla",
-    "Ramage",
-    "Yilla",
-    "Chao",
-    "Sugoi",
-    "Foe",
-    "PHANTEX",
-    "DREXIS",
-    "Aneuryzm",
-    "Redacted",
-    "EMBER",
-    "Raidxn",
-    "King Cope",
-    "Chorizma",
-    "Mihok Dubz",
-    "PATH",
-    "ShvneDubs",
-    "D3ST",
-    "Akii",
-    "Last Breaths",
-    "Ellie",
-    "Mikeythemaniac",
-    "Longing",
-    "Rando",
-    "Momay",
-    "Skooby",
-    "Herr_Dub",
-    "MAZI"
-   ],
-   "venue": "Live Stream",
-   "venue_slug": null,
-   "date": "2026-10-27",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.phanosity.com/",
-   "alt_urls": [
-    "https://edmtrain.com/live-streams/thrill-o-ween-2026-subfiltronik-546975"
-   ]
-  },
-  {
-   "id": "edmtrain:547989",
-   "source": "edmtrain",
-   "title": "Sante Sansone",
-   "artists": [
-    "Sante Sansone"
-   ],
-   "venue": "Sable Miami",
-   "venue_slug": null,
-   "date": "2026-10-27",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "2219 NW 2nd Ave, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/wwn9nx?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/sante-sansone-547989"
-   ]
+   "url": "https://speakeasygo.com/event/EVE-8GVMHE"
   },
   {
    "id": "tablelist:303b09419bf8998a",
@@ -2119,7 +1993,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$28.38",
+   "price": "$34.05",
    "genres": [
     "disco",
     "disco house",
@@ -2176,7 +2050,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$22.70",
+   "price": "$39.73",
    "genres": [
     "afro house",
     "deep house",
@@ -9732,7 +9606,7 @@
   {
    "id": "dice:6ab442b0fb764f0001259171",
    "source": "19hz+dice+edmtrain",
-   "title": "Basel: Paco Osuna",
+   "title": "Basel: Paco Osuna, Priku, Lousy Lover & Jonny From Space",
    "artists": [
     "Paco Osuna",
     "Priku"
@@ -13242,6 +13116,28 @@
    ]
   },
   {
+   "id": "shotgun:road-to-ni-2027-ft-lauderdale",
+   "source": "shotgun",
+   "title": "Road To Ni 2027: Ft Lauderdale",
+   "artists": [],
+   "venue": "Nowhere FTL",
+   "venue_slug": null,
+   "date": "2026-12-20",
+   "start": "2026-12-21T00:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$17.03",
+   "genres": [
+    "riddim"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/road-to-ni-2027-ft-lauderdale"
+  },
+  {
    "id": "19hz:4452367-arielassault",
    "source": "19hz+edmtrain",
    "title": "Ariel Assault",
@@ -14039,6 +13935,29 @@
    "description": "",
    "url": "https://tixr.com/e/212385",
    "generic_title": true
+  },
+  {
+   "id": "zeyzey:omni-soundspace-presents-black-rave-culture-shekdash-sky-jetta-09-jan",
+   "source": "venue",
+   "title": "Black Rave Culture, Shekdash, Sky Jetta",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2027-01-09",
+   "start": "2027-01-10T01:00:00+00:00",
+   "end": "2027-01-10T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "dance/electronic"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/omni-soundspace-presents-black-rave-culture-shekdash-sky-jetta-09-jan",
+   "cancelled": false
   },
   {
    "id": "hardrock:212394",

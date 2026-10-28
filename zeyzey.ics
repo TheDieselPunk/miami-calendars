@@ -815,6 +815,23 @@ STATUS:CONFIRMED
 CATEGORIES:funk
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-omni-soundspace-presents-black-rave-culture-shekdash-sky-jetta-0
+ 9-jan@zeyzey.miami-calendars
+DTSTAMP:20261028T161806Z
+LAST-MODIFIED:20261028T161806Z
+SEQUENCE:0
+DTSTART:20270110T010000Z
+DTEND:20270110T060000Z
+SUMMARY:Black Rave Culture\, Shekdash\, Sky Jetta
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
+ omni-soundspace-presents-black-rave-culture-shekdash-sky-jetta-09-jan
+URL:https://calendar.zeyzeymiami.com/shows/omni-soundspace-presents-black-r
+ ave-culture-shekdash-sky-jetta-09-jan
+STATUS:CONFIRMED
+CATEGORIES:dance/electronic
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-booker-t-jones-15-jan@zeyzey.miami-calendars
 DTSTAMP:20261008T161834Z
 LAST-MODIFIED:20261008T161834Z
