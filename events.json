@@ -22,11 +22,9 @@
   },
   {
    "id": "19hz:4447087-e11evenhalloween",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "E11even Halloween Week Ft Renn Mateos",
-   "artists": [
-    "Renn Mateos"
-   ],
+   "artists": [],
    "venue": "E11even",
    "venue_slug": null,
    "date": "2026-10-28",
@@ -44,21 +42,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://speakeasygo.com/event/EVE-Y75L1E",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/renn-mateos-534724"
-   ]
+   "url": "https://speakeasygo.com/event/EVE-Y75L1E"
   },
   {
    "id": "19hz:4447092-adamedmeyerrohan",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Adame, Dmeyer, Rohan Alyan, Effectum2",
-   "artists": [
-    "ADAME",
-    "Dmeyer",
-    "Rohan Alyan",
-    "Effectum2"
-   ],
+   "artists": [],
    "venue": "Aire",
    "venue_slug": null,
    "date": "2026-10-28",
@@ -74,10 +64,7 @@
    "genres_inferred": false,
    "organizer": "Pitch Park",
    "description": "",
-   "url": "https://dice.fm/event/nvrn39-adame-dmeyer-rohan-alyan-effectum2-28th-oct-aire-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/adame-dmeyer-545981"
-   ]
+   "url": "https://dice.fm/event/nvrn39-adame-dmeyer-rohan-alyan-effectum2-28th-oct-aire-miami-tickets"
   },
   {
    "id": "19hz:4447092-levisionerejonpa",
@@ -103,11 +90,9 @@
   },
   {
    "id": "19hz:4447096-jessyfriendssdot",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Jessy & Friends: Sdot - Ippo, Nactua X Santelises, Derek Delight, Jessy Nimni, Ani Phearce, Vadim DBR",
-   "artists": [
-    "Jessy"
-   ],
+   "artists": [],
    "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
    "date": "2026-10-28",
@@ -124,34 +109,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6ad24cb2fb32bc000154a3ba",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/jessy-545575",
-    "https://edmtrain.com/miami-fl/halloween-at-do-not-sit-on-the-furniture-santelises-548066"
-   ]
-  },
-  {
-   "id": "edmtrain:546976",
-   "source": "edmtrain",
-   "title": "THRILL-O-WEEN 2026",
-   "artists": [],
-   "venue": "Live Stream",
-   "venue_slug": null,
-   "date": "2026-10-28",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.phanosity.com/",
-   "alt_urls": [
-    "https://edmtrain.com/live-streams/thrill-o-ween-2026-546976"
-   ]
+   "url": "https://dice.fm/event/6ad24cb2fb32bc000154a3ba"
   },
   {
    "id": "tablelist:f68f86a4f33a974d",
@@ -242,7 +200,7 @@
    "time_estimated": false,
    "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
    "ages": "21+",
-   "price": "$21.80",
+   "price": "$11.00",
    "genres": [
     "house"
    ],
@@ -250,7 +208,7 @@
    "organizer": "Mad Radio Miami",
    "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY BEFORE 10 PM / FREE ENTRY LADIES UNTIL MIDNIGHT +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
    "url": "https://shotgun.live/en/events/madradiomiami102926",
-   "tickets": "AFTER 10 PM $20, FREE LADIES RSVP BEFORE 12 AM Free",
+   "tickets": "ANYTIME $20, FREE LADIES RSVP BEFORE 12 AM Free, BEFORE 12 AM $10",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -2210,7 +2168,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "",
-   "price": "From $175",
+   "price": "From $181 (sold out)",
    "genres": [
     "house",
     "techno"
@@ -3896,28 +3854,39 @@
    "url": "https://shotgun.live/en/events/indie-night-i"
   },
   {
-   "id": "dice:6ac015bea7ef55000125063f",
-   "source": "dice+venue",
-   "title": "CASA WHISPERS x MTRNM Present: Dia De Los Muertos - Zey Zey, Miami",
+   "id": "shotgun:casa-whispers-x-mtrnm-present-dia-de-los-muertos",
+   "source": "dice+shotgun+venue",
+   "title": "Casa Whispers X Mtrnm Present: Dia De Los Muertos",
    "artists": [],
-   "venue": "ZeyZey",
+   "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-11-07",
    "start": "2026-11-08T00:00:00+00:00",
    "end": "2026-11-08T09:00:00+00:00",
    "time_estimated": false,
-   "address": "353 Northeast 61st Street, Miami, Florida 33137, United States",
+   "address": "353 Northeast 61st Street, Miami, FL 33137, USA",
    "ages": "",
-   "price": "From $28",
+   "price": "$28.00",
    "genres": [
-    "jazz"
+    "afro house",
+    "house",
+    "jazz",
+    "tech house"
    ],
    "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6ac015bea7ef55000125063f",
+   "organizer": "Casa Whispers",
+   "description": "CASA WHISPERS x MTRNM Present: DÍA DE LOS MUERTOS - ZeyZey, Miami 🕯️ One night a year, in full colour 🌴 Four sold-out editions later, Casa Whispers and MTRNM come together on November 7 for a new chapter of a night that only comes around once a year. Two stages, eight artists, and a night where life and death dance together 🧡 Past the wooden gate, under the banyan tree: an open-air stage on one side, a disco indoors on the other. An ofrenda you can walk into, Catrina body painting until the small hours, and pan de muerto at midnight. Behind the decks: OSCAAR LAALOLALOO PALMA DON RICO MANUMAGICK CHARLIE WOODS PETEY Q IGNA AROCENA 🎟️ LIMITED TICKETS AVAILABLE See you under the altar 🕯️",
+   "url": "https://shotgun.live/en/events/casa-whispers-x-mtrnm-present-dia-de-los-muertos",
+   "tickets": "TIER 2 ANYTIME ENTRANCE $36.87, TABLE 1 $92.17, TIER 2 ENTRANCE BEFORE 9 PM $25.81, TABLE 2 $92.17, TABLE 3 $92.17, TABLE 4 $92.17, TABLE 5 $92.17",
    "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.8327584,
+    "longitude": -80.1890685
+   },
+   "created": "2026-10-29T15:56:53.000Z",
    "alt_urls": [
+    "https://dice.fm/event/6ac015bea7ef55000125063f",
     "https://calendar.zeyzeymiami.com/shows/casa-whispers-dia-de-muertos-07-nov",
     "https://calendar.zeyzeymiami.com/shows/dana-and-alden-07-nov"
    ]
@@ -3945,6 +3914,30 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/leaetherstrip-live"
+  },
+  {
+   "id": "shotgun:archivium-creative-live-exhibits",
+   "source": "shotgun",
+   "title": "Archivium Creative: Live Exhibits",
+   "artists": [],
+   "venue": "The Sound Library Miami – Kava, Tea & Live Music",
+   "venue_slug": null,
+   "date": "2026-11-07",
+   "start": "2026-11-08T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$12.00",
+   "genres": [
+    "rock",
+    "psychedelic rock",
+    "latin"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/archivium-creative-live-exhibits"
   },
   {
    "id": "19hz:4448052-shallocin",
@@ -12598,6 +12591,27 @@
    ]
   },
   {
+   "id": "zeyzey:yung-bleu-17-dec",
+   "source": "venue",
+   "title": "Yung Bleu",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-12-17",
+   "start": "2026-12-18T00:00:00+00:00",
+   "end": "2026-12-18T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/yung-bleu-17-dec",
+   "cancelled": false
+  },
+  {
    "id": "19hz:4451887-mrpauerfriends",
    "source": "19hz",
    "title": "Mr. Pauer & Friends",
@@ -13154,6 +13168,29 @@
    "url": "https://shotgun.live/en/events/krampus-revenge-2"
   },
   {
+   "id": "zeyzey:danny-kravit-free-entry-26-dec",
+   "source": "venue",
+   "title": "Danny Kravit (Free Entry)",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-12-26",
+   "start": "2026-12-27T02:00:00+00:00",
+   "end": "2026-12-27T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "dance/electronic"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/danny-kravit-free-entry-26-dec",
+   "cancelled": false
+  },
+  {
    "id": "hardrock:207840",
    "source": "venue",
    "title": "DAER Nightclub",
@@ -13341,6 +13378,30 @@
    "description": "",
    "url": "https://tixr.com/e/207897",
    "generic_title": false
+  },
+  {
+   "id": "dice:6ae2d8728294f200017be159",
+   "source": "dice",
+   "title": "REACT NYE 2027: MORSE X CODE",
+   "artists": [],
+   "venue": "Kemistry",
+   "venue_slug": "kemistry",
+   "date": "2026-12-31",
+   "start": "2027-01-01T02:00:00+00:00",
+   "end": "2027-01-01T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "bass",
+    "dubstep"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ae2d8728294f200017be159",
+   "cancelled": false
   },
   {
    "id": "19hz:4453236-dreamland2026mai",

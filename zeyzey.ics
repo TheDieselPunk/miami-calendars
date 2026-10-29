@@ -224,21 +224,36 @@ STATUS:CONFIRMED
 CATEGORIES:downtempo,electro,idm,synthpop
 END:VEVENT
 BEGIN:VEVENT
-UID:dice-6ac015bea7ef55000125063f@zeyzey.miami-calendars
-DTSTAMP:20261023T041823Z
-LAST-MODIFIED:20261023T041823Z
-SEQUENCE:1
+UID:casa-whispers-x-mtrnm-present-dia-de-los-muertos@shotgun.live
+DTSTAMP:20261029T161812Z
+LAST-MODIFIED:20261029T161812Z
+SEQUENCE:0
 DTSTART:20261108T000000Z
 DTEND:20261108T090000Z
-SUMMARY:CASA WHISPERS x MTRNM Present: Dia De Los Muertos - Zey Zey\, Miami
-LOCATION:ZeyZey\, 353 Northeast 61st Street\, Miami\, Florida 33137\, Unite
- d States
-DESCRIPTION:Tags: jazz\nhttps://dice.fm/event/6ac015bea7ef55000125063f\nhtt
- ps://calendar.zeyzeymiami.com/shows/casa-whispers-dia-de-muertos-07-nov\nh
- ttps://calendar.zeyzeymiami.com/shows/dana-and-alden-07-nov
-URL:https://dice.fm/event/6ac015bea7ef55000125063f
+SUMMARY:Casa Whispers X Mtrnm Present: Dia De Los Muertos
+LOCATION:ZeyZey Miami\, 353 Northeast 61st Street\, Miami\, FL 33137\, USA
+DESCRIPTION:CASA WHISPERS x MTRNM Present: DÍA DE LOS MUERTOS - ZeyZey\, M
+ iami 🕯️ One night a year\, in full colour 🌴 Four sold-out editions
+  later\, Casa Whispers and MTRNM come together on November 7 for a new cha
+ pter of a night that only comes around once a year. Two stages\, eight art
+ ists\, and a night where life and death dance together 🧡 Past the woode
+ n gate\, under the banyan tree: an open-air stage on one side\, a disco in
+ doors on the other. An ofrenda you can walk into\, Catrina body painting u
+ ntil the small hours\, and pan de muerto at midnight. Behind the decks: OS
+ CAAR LAALOLALOO PALMA DON RICO MANUMAGICK CHARLIE WOODS PETEY Q IGNA AROCE
+ NA 🎟️ LIMITED TICKETS AVAILABLE See you under the altar 🕯️\nTags
+ : afro house\, house\, jazz\, tech house\nPresented by: Casa Whispers\nTic
+ kets: TIER 2 ANYTIME ENTRANCE $36.87\, TABLE 1 $92.17\, TIER 2 ENTRANCE BE
+ FORE 9 PM $25.81\, TABLE 2 $92.17\, TABLE 3 $92.17\, TABLE 4 $92.17\, TABL
+ E 5 $92.17\nhttps://shotgun.live/en/events/casa-whispers-x-mtrnm-present-d
+ ia-de-los-muertos\nhttps://calendar.zeyzeymiami.com/shows/casa-whispers-di
+ a-de-muertos-07-nov\nhttps://calendar.zeyzeymiami.com/shows/dana-and-alden
+ -07-nov\nhttps://dice.fm/event/6ac015bea7ef55000125063f
+URL:https://shotgun.live/en/events/casa-whispers-x-mtrnm-present-dia-de-los
+ -muertos
 STATUS:CONFIRMED
-CATEGORIES:jazz
+CATEGORIES:afro house,house,jazz,tech house
+GEO:25.8327584;-80.1890685
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-presents-parra-for-cuva@shotgun.live
@@ -738,6 +753,19 @@ STATUS:CONFIRMED
 CATEGORIES:indie/alternative
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-yung-bleu-17-dec@zeyzey.miami-calendars
+DTSTAMP:20261029T161812Z
+LAST-MODIFIED:20261029T161812Z
+SEQUENCE:0
+DTSTART:20261218T000000Z
+DTEND:20261218T060000Z
+SUMMARY:Yung Bleu
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://calendar.zeyzeymiami.com/shows/yung-bleu-17-dec
+URL:https://calendar.zeyzeymiami.com/shows/yung-bleu-17-dec
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-i-love-r-b-party-18-dec@zeyzey.miami-calendars
 DTSTAMP:20260929T041814Z
 LAST-MODIFIED:20260929T041814Z
@@ -779,6 +807,21 @@ DESCRIPTION:Lineup: Lukas & Frank\nhttps://calendar.zeyzeymiami.com/shows/l
  ukas-frank-11-oct\nhttps://edmtrain.com/miami-fl/lukas-and-frank-542965
 URL:https://calendar.zeyzeymiami.com/shows/lukas-frank-11-oct
 STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-danny-kravit-free-entry-26-dec@zeyzey.miami-calendars
+DTSTAMP:20261029T161812Z
+LAST-MODIFIED:20261029T161812Z
+SEQUENCE:0
+DTSTART:20261227T020000Z
+DTEND:20261227T060000Z
+SUMMARY:Danny Kravit (Free Entry)
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
+ danny-kravit-free-entry-26-dec
+URL:https://calendar.zeyzeymiami.com/shows/danny-kravit-free-entry-26-dec
+STATUS:CONFIRMED
+CATEGORIES:dance/electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-chromeo-dj-set-30-dec@zeyzey.miami-calendars

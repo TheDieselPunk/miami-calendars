@@ -194,6 +194,11 @@
   "seq": 1,
   "modified": "2026-10-20T04:18:27+00:00"
  },
+ "casa-whispers-x-mtrnm-present-dia-de-los-muertos@shotgun.live": {
+  "hash": "1df016e776bc2129",
+  "seq": 0,
+  "modified": "2026-10-29T16:18:12+00:00"
+ },
  "clay-birds-at-the-boombox-11-24@shotgun.live": {
   "hash": "f94ab6ac139c5ff7",
   "seq": 0,
@@ -599,11 +604,6 @@
   "seq": 0,
   "modified": "2026-10-01T22:18:30+00:00"
  },
- "dice-6ac015bea7ef55000125063f@zeyzey.miami-calendars": {
-  "hash": "9ad5e060dc78f0aa",
-  "seq": 1,
-  "modified": "2026-10-23T04:18:23+00:00"
- },
  "dice-6ac66d60ede61600010d1cba@club-space.miami-calendars": {
   "hash": "80c722c5865f8a69",
   "seq": 2,
@@ -733,6 +733,11 @@
   "hash": "8862625eb3d1fadd",
   "seq": 0,
   "modified": "2026-10-28T22:18:06+00:00"
+ },
+ "dice-6ae2d8728294f200017be159@kemistry.miami-calendars": {
+  "hash": "f0299541f4f0bda0",
+  "seq": 0,
+  "modified": "2026-10-29T16:18:12+00:00"
  },
  "edmtrain-458943@festivals.miami-calendars": {
   "hash": "fb6052125d7b80e4",
@@ -1225,9 +1230,9 @@
   "modified": "2026-10-22T04:18:28+00:00"
  },
  "madradiomiami102926@shotgun.live": {
-  "hash": "160ee3cf064d0e64",
-  "seq": 2,
-  "modified": "2026-10-17T16:18:17+00:00"
+  "hash": "d8cd6f38373323d2",
+  "seq": 3,
+  "modified": "2026-10-29T16:18:12+00:00"
  },
  "madradiomiami103026@shotgun.live": {
   "hash": "baead94d5c046ce9",
@@ -1343,6 +1348,11 @@
   "hash": "ec9ad721af7fc82f",
   "seq": 0,
   "modified": "2026-09-21T20:01:40+00:00"
+ },
+ "zeyzey-danny-kravit-free-entry-26-dec@zeyzey.miami-calendars": {
+  "hash": "d0d1cc71f3ac4b51",
+  "seq": 0,
+  "modified": "2026-10-29T16:18:12+00:00"
  },
  "zeyzey-dayme-arocena-la-ultima-rumba-19-dec@zeyzey.miami-calendars": {
   "hash": "ee3cf70886fb76c1",
@@ -1518,5 +1528,10 @@
   "hash": "07f54caac48f54a8",
   "seq": 1,
   "modified": "2026-10-27T22:18:18+00:00"
+ },
+ "zeyzey-yung-bleu-17-dec@zeyzey.miami-calendars": {
+  "hash": "20baeb524c75aee0",
+  "seq": 0,
+  "modified": "2026-10-29T16:18:12+00:00"
  }
 }
