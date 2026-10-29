@@ -291,6 +291,19 @@ URL:https://calendar.zeyzeymiami.com/shows/las-migas-10-nov
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-love-in-the-club-12-nov@zeyzey.miami-calendars
+DTSTAMP:20261029T221806Z
+LAST-MODIFIED:20261029T221806Z
+SEQUENCE:0
+DTSTART:20261113T000000Z
+DTEND:20261113T060000Z
+SUMMARY:Love In The Club
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://calendar.zeyzeymiami.com/shows/love-in-the-club-12-nov
+URL:https://calendar.zeyzeymiami.com/shows/love-in-the-club-12-nov
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:dice-6ad760d4f2e7b00001b10371@zeyzey.miami-calendars
 DTSTAMP:20261022T041828Z
 LAST-MODIFIED:20261022T041828Z

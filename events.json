@@ -185,6 +185,30 @@
    ]
   },
   {
+   "id": "dice:6abdf679bbcbf60001fcc8e9",
+   "source": "dice",
+   "title": "HAUNTED RAVEYARD TOUR: KODAK BLACK",
+   "artists": [],
+   "venue": "Kemistry",
+   "venue_slug": "kemistry",
+   "date": "2026-10-29",
+   "start": "2026-10-30T01:00:00+00:00",
+   "end": "2026-10-30T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "ages": "",
+   "price": "From $84",
+   "genres": [
+    "bass",
+    "dubstep"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6abdf679bbcbf60001fcc8e9",
+   "cancelled": false
+  },
+  {
    "id": "shotgun:madradiomiami102926",
    "source": "19hz+edmtrain+shotgun",
    "title": "Wax'n Dance X Never Forever: Per Hammar / Yunks / Gali",
@@ -304,30 +328,6 @@
     "https://dice.fm/event/6a86066921cf70000141b5a6",
     "https://edmtrain.com/miami-fl/hercules-and-love-affair-530459"
    ]
-  },
-  {
-   "id": "dice:6abdf679bbcbf60001fcc8e9",
-   "source": "dice",
-   "title": "HAUNTED RAVEYARD TOUR: KODAK BLACK",
-   "artists": [],
-   "venue": "Kemistry",
-   "venue_slug": "kemistry",
-   "date": "2026-10-29",
-   "start": "2026-10-30T02:00:00+00:00",
-   "end": "2026-10-30T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
-   "ages": "",
-   "price": "From $72",
-   "genres": [
-    "bass",
-    "dubstep"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6abdf679bbcbf60001fcc8e9",
-   "cancelled": false
   },
   {
    "id": "shotgun:aftercitohalloween",
@@ -1284,7 +1284,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $15",
+   "price": "From $25",
    "genres": [
     "house"
    ],
@@ -2218,7 +2218,7 @@
    "time_estimated": false,
    "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "",
-   "price": "From $13",
+   "price": "From $20",
    "genres": [
     "bass",
     "dubstep"
@@ -4851,6 +4851,27 @@
    ]
   },
   {
+   "id": "zeyzey:love-in-the-club-12-nov",
+   "source": "venue",
+   "title": "Love In The Club",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-11-12",
+   "start": "2026-11-13T00:00:00+00:00",
+   "end": "2026-11-13T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/love-in-the-club-12-nov",
+   "cancelled": false
+  },
+  {
    "id": "19hz:4448527-crespo",
    "source": "19hz+edmtrain",
    "title": "Crespo",
@@ -6918,7 +6939,7 @@
   {
    "id": "hardrock:206018",
    "source": "venue",
-   "title": "DAER Nightclub",
+   "title": "Fabolous",
    "artists": [],
    "venue": "DAER Nightclub",
    "venue_slug": "daer",
@@ -6934,7 +6955,7 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/206018",
-   "generic_title": true
+   "generic_title": false
   },
   {
    "id": "19hz:4449304-halovargasurreal",
@@ -7324,13 +7345,13 @@
    "time_estimated": false,
    "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
    "ages": "",
-   "price": "$45.40",
+   "price": "$56.75",
    "genres": [],
    "genres_inferred": false,
    "organizer": "Equinox Booking",
    "description": "Equinox Fest Day 2 and 3 at The Boombox Line up TBA",
    "url": "https://shotgun.live/en/events/equinox-fest-4-day-2-3-november-21-22nd",
-   "tickets": "Day 2 & 3 Weekend Pass $50, Weekend Pass Early Bird $40",
+   "tickets": "Day 2 & 3 Weekend Pass $50, Weekend Pass Early Bird $40 (sold out)",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -7628,6 +7649,30 @@
     "https://dice.fm/event/v3xw57-star-monster-21st-nov-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/star-monster-526019"
    ]
+  },
+  {
+   "id": "shotgun:lunasol-pres-peterguzmanb2bterranova",
+   "source": "shotgun",
+   "title": "Lunasol Pres. Peter Guzman B2b Terranova",
+   "artists": [],
+   "venue": "Lunasol",
+   "venue_slug": null,
+   "date": "2026-11-21",
+   "start": "2026-11-22T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$17.10",
+   "genres": [
+    "house",
+    "deep house",
+    "afro house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/lunasol-pres-peterguzmanb2bterranova"
   },
   {
    "id": "shotgun:rafeeki-vs-serious-jorg",
@@ -9205,9 +9250,9 @@
    ]
   },
   {
-   "id": "shotgun:lunasol-pres-sunrise-lesson-8",
+   "id": "shotgun:lunasol-pres-sunrise-lesson-7",
    "source": "shotgun",
-   "title": "Lunasol Pres. Lesson 8",
+   "title": "Lunasol Pres. Lesson 7",
    "artists": [],
    "venue": "Lunasol",
    "venue_slug": null,
@@ -9222,7 +9267,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/lunasol-pres-sunrise-lesson-8"
+   "url": "https://shotgun.live/en/events/lunasol-pres-sunrise-lesson-7"
   },
   {
    "id": "hardrock:205543",
@@ -11758,7 +11803,7 @@
   {
    "id": "dice:6ab448eab6c65c00012abd8a",
    "source": "dice",
-   "title": "Basel: Special Guests",
+   "title": "Basel: Damian Lazarus, Danny Daze, & more",
    "artists": [],
    "venue": "Jolene Sound Room Miami",
    "venue_slug": "jolene",

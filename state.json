@@ -495,9 +495,9 @@
   "modified": "2026-10-22T04:18:28+00:00"
  },
  "dice-6ab448eab6c65c00012abd8a@jolene.miami-calendars": {
-  "hash": "65b0fce423708b4c",
-  "seq": 1,
-  "modified": "2026-10-22T04:18:28+00:00"
+  "hash": "2d2961d040d4c65b",
+  "seq": 2,
+  "modified": "2026-10-29T22:18:06+00:00"
  },
  "dice-6ab44b4b28d5d90001e98039@jolene.miami-calendars": {
   "hash": "20707619c3dec4b7",
@@ -550,9 +550,9 @@
   "modified": "2026-10-17T16:18:17+00:00"
  },
  "dice-6abdf679bbcbf60001fcc8e9@kemistry.miami-calendars": {
-  "hash": "c8a4b542fbc5f834",
-  "seq": 1,
-  "modified": "2026-10-14T22:18:30+00:00"
+  "hash": "128b2e135c16474c",
+  "seq": 2,
+  "modified": "2026-10-29T22:18:06+00:00"
  },
  "dice-6abe7ba3c57ae3000111bebb@floyd.miami-calendars": {
   "hash": "2703366cfc5193e3",
@@ -880,9 +880,9 @@
   "modified": "2026-10-28T22:18:06+00:00"
  },
  "equinox-fest-4-day-2-3-november-21-22nd@shotgun.live": {
-  "hash": "c96fc49296a967fc",
-  "seq": 0,
-  "modified": "2026-10-19T16:18:24+00:00"
+  "hash": "a6b82d159fc90bb0",
+  "seq": 1,
+  "modified": "2026-10-29T22:18:06+00:00"
  },
  "experience-incendia-art-basel@shotgun.live": {
   "hash": "a94f9fff4890cea5",
@@ -1000,9 +1000,9 @@
   "modified": "2026-10-04T22:18:19+00:00"
  },
  "hardrock-206018@daer.miami-calendars": {
-  "hash": "e5e137d4a05fc9b2",
-  "seq": 1,
-  "modified": "2026-09-21T20:07:29+00:00"
+  "hash": "db578ebf9daf9f44",
+  "seq": 2,
+  "modified": "2026-10-29T22:18:06+00:00"
  },
  "hardrock-206019@daer.miami-calendars": {
   "hash": "cb0b3914cf3fb3bd",
@@ -1408,6 +1408,11 @@
   "hash": "3970ed7b73110793",
   "seq": 0,
   "modified": "2026-09-21T20:01:40+00:00"
+ },
+ "zeyzey-love-in-the-club-12-nov@zeyzey.miami-calendars": {
+  "hash": "70100b962f0b81e6",
+  "seq": 0,
+  "modified": "2026-10-29T22:18:06+00:00"
  },
  "zeyzey-lukas-frank-11-oct@zeyzey.miami-calendars": {
   "hash": "d28e124b26b6fdcb",
