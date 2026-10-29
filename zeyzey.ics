@@ -147,22 +147,6 @@ URL:https://calendar.zeyzeymiami.com/shows/haitian-vinyl-night-by-patrice-e
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:zeyzey-rae-sada-b2b-ape-drums-05-nov@zeyzey.miami-calendars
-DTSTAMP:20261009T041829Z
-LAST-MODIFIED:20261009T041829Z
-SEQUENCE:3
-DTSTART:20261106T000000Z
-DTEND:20261106T060000Z
-SUMMARY:Rae Sada b2b Ape Drums (Free Entry)
-LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: RAE SADA\, Ape Drums\nTags: big room\, dancehall\nAges:
-  18+\nhttps://calendar.zeyzeymiami.com/shows/rae-sada-b2b-ape-drums-05-nov
- \nhttps://edmtrain.com/miami-fl/rae-sada-ape-drums-542737
-URL:https://calendar.zeyzeymiami.com/shows/rae-sada-b2b-ape-drums-05-nov
-STATUS:CONFIRMED
-CATEGORIES:big room,dancehall
-END:VEVENT
-BEGIN:VEVENT
 UID:zeyzey-the-floozies-05-nov@zeyzey.miami-calendars
 DTSTAMP:20260921T235357Z
 LAST-MODIFIED:20260921T235357Z
@@ -177,6 +161,22 @@ DESCRIPTION:Lineup: The Floozies\nTags: electropop\, funk\, synthpop\nAges:
 URL:https://calendar.zeyzeymiami.com/shows/the-floozies-05-nov
 STATUS:CONFIRMED
 CATEGORIES:electropop,funk,synthpop
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-rae-sada-b2b-ape-drums-05-nov@zeyzey.miami-calendars
+DTSTAMP:20261029T041806Z
+LAST-MODIFIED:20261029T041806Z
+SEQUENCE:4
+DTSTART:20261106T030000Z
+DTEND:20261106T060000Z
+SUMMARY:Rae Sada b2b Ape Drums (Free Entry)
+LOCATION:ZeyZey Miami
+DESCRIPTION:Lineup: RAE SADA\, Ape Drums\nTags: big room\, dancehall\nAges:
+  18+\nhttps://calendar.zeyzeymiami.com/shows/rae-sada-b2b-ape-drums-05-nov
+ \nhttps://edmtrain.com/miami-fl/rae-sada-ape-drums-542737
+URL:https://calendar.zeyzeymiami.com/shows/rae-sada-b2b-ape-drums-05-nov
+STATUS:CONFIRMED
+CATEGORIES:big room,dancehall
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-curawaka-06-nov@zeyzey.miami-calendars

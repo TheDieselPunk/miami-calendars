@@ -341,15 +341,14 @@ STATUS:CONFIRMED
 CATEGORIES:electro house,glitch,psytrance
 END:VEVENT
 BEGIN:VEVENT
-UID:dice-6a95bdbd6ae28100012001f9@kemistry.miami-calendars
-DTSTAMP:20261026T101803Z
-LAST-MODIFIED:20261026T101803Z
+UID:19hz-4455352-hamro@kemistry.miami-calendars
+DTSTAMP:20261029T041806Z
+LAST-MODIFIED:20261029T041806Z
 SEQUENCE:0
 DTSTART:20270123T030000Z
 DTEND:20270123T090000Z
-SUMMARY:HAMRO
-LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
- 312\, United States
+SUMMARY:Hamro
+LOCATION:Kemistry\, Fort Lauderdale
 DESCRIPTION:Lineup: HAMRO\, SQISHI\nTags: bass music\, dubstep\nAges: 18+\n
  https://dice.fm/event/py3lmy-hamro-22nd-jan-kemistry-fort-lauderdale-ticke
  ts\nhttps://edmtrain.com/fort-lauderdale-fl/hamro-sqishi-534522
@@ -359,31 +358,14 @@ STATUS:CONFIRMED
 CATEGORIES:bass music,dubstep
 END:VEVENT
 BEGIN:VEVENT
-UID:dice-6a90ca5b0f25790001832792@kemistry.miami-calendars
-DTSTAMP:20261016T161816Z
-LAST-MODIFIED:20261016T161816Z
-SEQUENCE:0
-DTSTART:20270123T230000Z
-DTEND:20270124T040000Z
-SUMMARY:FREESTYLE CRUISE OFFICIAL PRE-PARTY
-LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
- 312\, United States
-DESCRIPTION:Tags (guess): bass\, dubstep\nhttps://dice.fm/event/6a90ca5b0f2
- 5790001832792
-URL:https://dice.fm/event/6a90ca5b0f25790001832792
-STATUS:CONFIRMED
-CATEGORIES:bass,dubstep
-END:VEVENT
-BEGIN:VEVENT
-UID:dice-6abde1c608a31d0001f4c9e6@kemistry.miami-calendars
-DTSTAMP:20261026T101803Z
-LAST-MODIFIED:20261026T101803Z
+UID:19hz-4456120-junkiekid@kemistry.miami-calendars
+DTSTAMP:20261029T041806Z
+LAST-MODIFIED:20261029T041806Z
 SEQUENCE:0
 DTSTART:20270131T030000Z
 DTEND:20270131T090000Z
-SUMMARY:JUNKIE KID
-LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
- 312\, United States
+SUMMARY:Junkie Kid
+LOCATION:Kemistry\, Fort Lauderdale
 DESCRIPTION:Lineup: Junkie Kid\nTags: hard dance\, hard house\nAges: 18+\nh
  ttps://dice.fm/event/53k25d-junkie-kid-30th-jan-kemistry-fort-lauderdale-t
  ickets\nhttps://edmtrain.com/fort-lauderdale-fl/junkie-kid-541640
@@ -393,19 +375,19 @@ STATUS:CONFIRMED
 CATEGORIES:hard dance,hard house
 END:VEVENT
 BEGIN:VEVENT
-UID:dice-6ada0ef330a6130001bb2b30@kemistry.miami-calendars
-DTSTAMP:20261028T101812Z
-LAST-MODIFIED:20261028T101812Z
-SEQUENCE:1
+UID:edmtrain-548369@kemistry.miami-calendars
+DTSTAMP:20261029T041806Z
+LAST-MODIFIED:20261029T041806Z
+SEQUENCE:0
 DTSTART:20270206T030000Z
 DTEND:20270206T090000Z
 SUMMARY:TYNAN
-LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
- 312\, United States
-DESCRIPTION:Lineup: TYNAN\nTags (guess): bass\, dubstep\nhttps://dice.fm/ev
- ent/6ada0ef330a6130001bb2b30\nhttps://edmtrain.com/fort-lauderdale-fl/tyna
- n-548369
-URL:https://dice.fm/event/6ada0ef330a6130001bb2b30
+LOCATION:Kemistry\, 307 SW 2nd St\, Fort Lauderdale\, FL 33312\, USA
+DESCRIPTION:Lineup: TYNAN\nTags (guess): bass\, dubstep\nTimes are an estim
+ ate from Kemistry (Fort Lauderdale)'s usual hours - the listing has no sta
+ rt time yet. Check the link.\nhttps://dice.fm/event/eo98bw?pid=d6342b83\nh
+ ttps://edmtrain.com/fort-lauderdale-fl/tynan-548369
+URL:https://dice.fm/event/eo98bw?pid=d6342b83
 STATUS:CONFIRMED
 CATEGORIES:bass,dubstep
 END:VEVENT

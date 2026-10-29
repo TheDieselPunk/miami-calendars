@@ -9,9 +9,9 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:halloween-se-7-en@shotgun.live
-DTSTAMP:20261028T221806Z
-LAST-MODIFIED:20261028T221806Z
-SEQUENCE:5
+DTSTAMP:20261029T041806Z
+LAST-MODIFIED:20261029T041806Z
+SEQUENCE:6
 DTSTART:20261030T210000Z
 DTEND:20261101T100000Z
 SUMMARY:Halloween Se7en [ Oct 30 · 31 ]
@@ -21,12 +21,14 @@ DESCRIPTION:BOOMBOX SE7EN YEAR ANNIVERSARY Two nights. Two stages. 30+ acts
  . We’re celebrating 7 years of BOOMBOX with a massive Halloween weekend 
  featuring some of Miami’s best underground sounds. With OMNI SOUND SPACE
  \, EQUINOX BOOKING\, FLORIDA GLOSS\, and SAY TECH AND SMILE. OCTOBER 30 & 
- 31 18+\nTickets: FRIDAY OCT 30TH (SINGLE DAY PASS) - EARLY BIRD $20 (sold 
- out)\, 2-DAY PASS (EARLY BIRD) $30 (sold out)\, SATURDAY OCT 31TH (SINGLE 
- DAY PASS) - EARLY BIRD $20 (sold out)\, FRIDAY OCT 30TH (SINGLE DAY PASS) 
- $30\, 2-DAY PASS $40\, SATURDAY OCT 31TH (SINGLE DAY PASS) $30 (sold out)
- \, SATURDAY OCT 31TH (SINGLE DAY PASS) - LAST CHANCE $35\nhttps://shotgun.
- live/en/events/halloween-se-7-en
+ 31 18+ Must bring physical ID's Photos of ID's will NOT be accepted Rain o
+ r Shine\nTickets: FRIDAY OCT 30TH (SINGLE DAY PASS) - EARLY BIRD $20 (sold
+  out)\, 2-DAY PASS (EARLY BIRD) $30 (sold out)\, SATURDAY OCT 31TH (SINGLE
+  DAY PASS) - EARLY BIRD $20 (sold out)\, FRIDAY OCT 30TH (SINGLE DAY PASS)
+  $30 (sold out)\, 2-DAY PASS $40\, FRIDAY OCT 30TH (SINGLE DAY PASS) - LAS
+ T CHANCE $35\, SATURDAY OCT 31TH (SINGLE DAY PASS) $30 (sold out)\, SATURD
+ AY OCT 31TH (SINGLE DAY PASS) - LAST CHANCE $35\nhttps://shotgun.live/en/e
+ vents/halloween-se-7-en
 URL:https://shotgun.live/en/events/halloween-se-7-en
 STATUS:CONFIRMED
 GEO:25.7287781;-80.3169309

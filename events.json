@@ -1,31 +1,6 @@
 {
  "events": [
   {
-   "id": "19hz:4446991-am75",
-   "source": "19hz",
-   "title": "Am75",
-   "artists": [],
-   "venue": "E11even",
-   "venue_slug": null,
-   "date": "2026-10-27",
-   "start": "2026-10-28T00:00:00+00:00",
-   "end": "2026-10-28T05:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "",
-   "genres": [
-    "hip-hop",
-    "house",
-    "open format",
-    "pop edm"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://speakeasygo.com/event/EVE-8GVMHE"
-  },
-  {
    "id": "tablelist:303b09419bf8998a",
    "source": "tablelist+venue",
    "title": "Leon Bridges Presents: Happiness Anytime",
@@ -102,26 +77,6 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/renn-mateos-534724"
    ]
-  },
-  {
-   "id": "shotgun:openhaus-3",
-   "source": "shotgun",
-   "title": "Stage 777: Halloween Showcase",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-10-28",
-   "start": "2026-10-29T00:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/openhaus-3"
   },
   {
    "id": "19hz:4447092-adamedmeyerrohan",
@@ -247,7 +202,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "Free",
+   "price": "",
    "genres": [
     "tech house",
     "afro house",
@@ -631,7 +586,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$38.00",
+   "price": "$33.00",
    "genres": [],
    "genres_inferred": false,
    "organizer": "",
@@ -705,13 +660,13 @@
    "time_estimated": false,
    "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
    "ages": "",
-   "price": "$35.85",
+   "price": "$23.90",
    "genres": [],
    "genres_inferred": false,
    "organizer": "The Boombox Miami",
-   "description": "BOOMBOX SE7EN YEAR ANNIVERSARY Two nights. Two stages. 30+ acts. We’re celebrating 7 years of BOOMBOX with a massive Halloween weekend featuring some of Miami’s best underground sounds. With OMNI SOUND SPACE, EQUINOX BOOKING, FLORIDA GLOSS, and SAY TECH AND SMILE. OCTOBER 30 & 31 18+",
+   "description": "BOOMBOX SE7EN YEAR ANNIVERSARY Two nights. Two stages. 30+ acts. We’re celebrating 7 years of BOOMBOX with a massive Halloween weekend featuring some of Miami’s best underground sounds. With OMNI SOUND SPACE, EQUINOX BOOKING, FLORIDA GLOSS, and SAY TECH AND SMILE. OCTOBER 30 & 31 18+ Must bring physical ID's Photos of ID's will NOT be accepted Rain or Shine",
    "url": "https://shotgun.live/en/events/halloween-se-7-en",
-   "tickets": "FRIDAY OCT 30TH (SINGLE DAY PASS) - EARLY BIRD $20 (sold out), 2-DAY PASS (EARLY BIRD) $30 (sold out), SATURDAY OCT 31TH (SINGLE DAY PASS) - EARLY BIRD $20 (sold out), FRIDAY OCT 30TH (SINGLE DAY PASS) $30, 2-DAY PASS $40, SATURDAY OCT 31TH (SINGLE DAY PASS) $30 (sold out), SATURDAY OCT 31TH (SINGLE DAY PASS) - LAST CHANCE $35",
+   "tickets": "FRIDAY OCT 30TH (SINGLE DAY PASS) - EARLY BIRD $20 (sold out), 2-DAY PASS (EARLY BIRD) $30 (sold out), SATURDAY OCT 31TH (SINGLE DAY PASS) - EARLY BIRD $20 (sold out), FRIDAY OCT 30TH (SINGLE DAY PASS) $30 (sold out), 2-DAY PASS $40, FRIDAY OCT 30TH (SINGLE DAY PASS) - LAST CHANCE $35, SATURDAY OCT 31TH (SINGLE DAY PASS) $30 (sold out), SATURDAY OCT 31TH (SINGLE DAY PASS) - LAST CHANCE $35",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -3281,37 +3236,6 @@
    "url": "https://shotgun.live/en/events/11-04-peace-talks-pgh-at-churchills-pub"
   },
   {
-   "id": "zeyzey:rae-sada-b2b-ape-drums-05-nov",
-   "source": "19hz+edmtrain+venue",
-   "title": "Rae Sada b2b Ape Drums (Free Entry)",
-   "artists": [
-    "RAE SADA",
-    "Ape Drums"
-   ],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-11-05",
-   "start": "2026-11-06T00:00:00+00:00",
-   "end": "2026-11-06T06:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "18+",
-   "price": "Free",
-   "genres": [
-    "big room",
-    "dancehall"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/rae-sada-b2b-ape-drums-05-nov",
-   "cancelled": false,
-   "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/rae-sada-b2b-ape-drums-05-nov",
-    "https://edmtrain.com/miami-fl/rae-sada-ape-drums-542737"
-   ]
-  },
-  {
    "id": "zeyzey:the-floozies-05-nov",
    "source": "19hz+edmtrain+venue",
    "title": "The Floozies",
@@ -3415,6 +3339,37 @@
    "cancelled": false,
    "alt_urls": [
     "https://dice.fm/event/6ac6aa74f13291000127aaa6"
+   ]
+  },
+  {
+   "id": "zeyzey:rae-sada-b2b-ape-drums-05-nov",
+   "source": "19hz+edmtrain+venue",
+   "title": "Rae Sada b2b Ape Drums (Free Entry)",
+   "artists": [
+    "RAE SADA",
+    "Ape Drums"
+   ],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-11-05",
+   "start": "2026-11-06T03:00:00+00:00",
+   "end": "2026-11-06T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "18+",
+   "price": "Free",
+   "genres": [
+    "big room",
+    "dancehall"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/rae-sada-b2b-ape-drums-05-nov",
+   "cancelled": false,
+   "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/rae-sada-b2b-ape-drums-05-nov",
+    "https://edmtrain.com/miami-fl/rae-sada-ape-drums-542737"
    ]
   },
   {
@@ -14354,9 +14309,9 @@
    "generic_title": true
   },
   {
-   "id": "dice:6a95bdbd6ae28100012001f9",
-   "source": "19hz+dice+edmtrain",
-   "title": "HAMRO",
+   "id": "19hz:4455352-hamro",
+   "source": "19hz+edmtrain",
+   "title": "Hamro",
    "artists": [
     "HAMRO",
     "SQISHI"
@@ -14367,9 +14322,9 @@
    "start": "2027-01-23T03:00:00+00:00",
    "end": "2027-01-23T09:00:00+00:00",
    "time_estimated": false,
-   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "address": "Fort Lauderdale",
    "ages": "18+",
-   "price": "From $13",
+   "price": "$13.22",
    "genres": [
     "bass music",
     "dubstep"
@@ -14378,9 +14333,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/py3lmy-hamro-22nd-jan-kemistry-fort-lauderdale-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/py3lmy-hamro-22nd-jan-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/hamro-sqishi-534522"
    ]
   },
@@ -14458,30 +14411,6 @@
    ]
   },
   {
-   "id": "dice:6a90ca5b0f25790001832792",
-   "source": "dice",
-   "title": "FREESTYLE CRUISE OFFICIAL PRE-PARTY",
-   "artists": [],
-   "venue": "Kemistry",
-   "venue_slug": "kemistry",
-   "date": "2027-01-23",
-   "start": "2027-01-23T23:00:00+00:00",
-   "end": "2027-01-24T04:00:00+00:00",
-   "time_estimated": false,
-   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
-   "ages": "",
-   "price": "From $40",
-   "genres": [
-    "bass",
-    "dubstep"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6a90ca5b0f25790001832792",
-   "cancelled": false
-  },
-  {
    "id": "hardrock:212399",
    "source": "venue",
    "title": "DAER Nightclub",
@@ -14505,7 +14434,7 @@
   {
    "id": "dice:6ae0b22eeeeae40001c1bdce",
    "source": "dice+edmtrain",
-   "title": "Nicole Moudaber Bday Celebration",
+   "title": "Nicole Moudaber Birthday Celebration",
    "artists": [
     "Nicole Moudaber"
    ],
@@ -14691,9 +14620,9 @@
    "generic_title": true
   },
   {
-   "id": "dice:6abde1c608a31d0001f4c9e6",
-   "source": "19hz+dice+edmtrain",
-   "title": "JUNKIE KID",
+   "id": "19hz:4456120-junkiekid",
+   "source": "19hz+edmtrain",
+   "title": "Junkie Kid",
    "artists": [
     "Junkie Kid"
    ],
@@ -14703,9 +14632,9 @@
    "start": "2027-01-31T03:00:00+00:00",
    "end": "2027-01-31T09:00:00+00:00",
    "time_estimated": false,
-   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "address": "Fort Lauderdale",
    "ages": "18+",
-   "price": "From $13",
+   "price": "$13.22",
    "genres": [
     "hard dance",
     "hard house"
@@ -14714,9 +14643,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/53k25d-junkie-kid-30th-jan-kemistry-fort-lauderdale-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/53k25d-junkie-kid-30th-jan-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/junkie-kid-541640"
    ]
   },
@@ -14809,8 +14736,8 @@
    "cancelled": false
   },
   {
-   "id": "dice:6ada0ef330a6130001bb2b30",
-   "source": "dice+edmtrain",
+   "id": "edmtrain:548369",
+   "source": "edmtrain",
    "title": "TYNAN",
    "artists": [
     "TYNAN"
@@ -14820,10 +14747,10 @@
    "date": "2027-02-05",
    "start": "2027-02-06T03:00:00+00:00",
    "end": "2027-02-06T09:00:00+00:00",
-   "time_estimated": false,
-   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "time_estimated": true,
+   "address": "307 SW 2nd St, Fort Lauderdale, FL 33312, USA",
    "ages": "",
-   "price": "From $20",
+   "price": "",
    "genres": [
     "bass",
     "dubstep"
@@ -14831,8 +14758,7 @@
    "genres_inferred": true,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6ada0ef330a6130001bb2b30",
-   "cancelled": false,
+   "url": "https://dice.fm/event/eo98bw?pid=d6342b83",
    "alt_urls": [
     "https://edmtrain.com/fort-lauderdale-fl/tynan-548369"
    ]
