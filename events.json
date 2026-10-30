@@ -866,7 +866,7 @@
    "time_estimated": false,
    "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "18+",
-   "price": "From $29",
+   "price": "From $31",
    "genres": [
     "edm",
     "hip-hop",
@@ -2095,7 +2095,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "",
-   "price": "From $175",
+   "price": "From $181 (sold out)",
    "genres": [
     "house",
     "techno"
@@ -2145,7 +2145,7 @@
    "time_estimated": false,
    "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "",
-   "price": "From $20",
+   "price": "From $26",
    "genres": [
     "bass",
     "dubstep"
@@ -2989,6 +2989,31 @@
    "organizer": "",
    "description": "",
    "url": "https://speakeasygo.com/E11EVEN/SUTTUN-AT-E11EVEN"
+  },
+  {
+   "id": "edmtrain:548959",
+   "source": "edmtrain",
+   "title": "DJ Kâsa",
+   "artists": [
+    "DJ Kâsa"
+   ],
+   "venue": "Live Stream",
+   "venue_slug": null,
+   "date": "2026-11-02",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://twitch.tv/andrewfetch",
+   "alt_urls": [
+    "https://edmtrain.com/live-streams/dj-kasa-548959"
+   ]
   },
   {
    "id": "19hz:4447663-ironlyon",
@@ -4078,7 +4103,7 @@
   },
   {
    "id": "shotgun:modern-art-theory-takeover-apotheke",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Modern Art Theory Takeover @ Apotheke",
    "artists": [],
    "venue": "Apotheke South Beach",
@@ -4092,13 +4117,16 @@
    "price": "Free",
    "genres": [
     "disco",
-    "tech house",
-    "house"
+    "house",
+    "tech house"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/modern-art-theory-takeover-apotheke"
+   "url": "https://shotgun.live/en/events/modern-art-theory-takeover-apotheke",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/modern-art-theory-takeover-549045"
+   ]
   },
   {
    "id": "19hz:4448056-alexfarell",
@@ -5707,9 +5735,11 @@
   },
   {
    "id": "hardrock:205535",
-   "source": "venue",
+   "source": "edmtrain+venue",
    "title": "Tony Guerra",
-   "artists": [],
+   "artists": [
+    "Tony Guerra"
+   ],
    "venue": "DAER Dayclub",
    "venue_slug": "daer",
    "date": "2026-11-14",
@@ -5724,7 +5754,10 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/205535",
-   "generic_title": false
+   "generic_title": false,
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/tony-guerra-548942"
+   ]
   },
   {
    "id": "shotgun:cafe-grooves-miami",
@@ -11225,6 +11258,32 @@
    ]
   },
   {
+   "id": "edmtrain:549071",
+   "source": "edmtrain",
+   "title": "Lunasol Pres.: Arymé, Sparrow",
+   "artists": [
+    "Arymé",
+    "Sparrow"
+   ],
+   "venue": "Lunasol",
+   "venue_slug": null,
+   "date": "2026-12-04",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "158 NW 24th St, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/lunasol-pres-tortuga?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/lunasol-pres-aryme-549071"
+   ]
+  },
+  {
    "id": "hardrock:207848",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -11763,9 +11822,9 @@
   {
    "id": "edmtrain:548595",
    "source": "edmtrain",
-   "title": "Channel Tres",
+   "title": "Channel Tres (DJ Set)",
    "artists": [
-    "Channel Tres"
+    "Channel Tres (DJ Set)"
    ],
    "venue": "Midline Miami",
    "venue_slug": "midline",
