@@ -8,21 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:superqueen-38@shotgun.live
-DTSTAMP:20261030T041827Z
-LAST-MODIFIED:20261030T041827Z
-SEQUENCE:0
-DTSTART:20261030T020000Z
-DTEND:20261030T070000Z
-SUMMARY:Superqueen: Costume Party (18+)
-LOCATION:Miami
-DESCRIPTION:Tags: breaks\, drag\, eurodance\, house\, trance\nAges: 18+\nht
- tps://shotgun.live/en/events/superqueen-38
-URL:https://shotgun.live/en/events/superqueen-38
-STATUS:CONFIRMED
-CATEGORIES:breaks,drag,eurodance,house,trance
-END:VEVENT
-BEGIN:VEVENT
 UID:19hz-4447248-joelcorrysinatse@festivals.miami-calendars
 DTSTAMP:20261017T161817Z
 LAST-MODIFIED:20261017T161817Z

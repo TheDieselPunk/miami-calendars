@@ -72,65 +72,59 @@
    ]
   },
   {
-   "id": "shotgun:madradiomiami102926",
-   "source": "19hz+edmtrain+shotgun",
+   "id": "19hz:4447188-waxndancexneverf",
+   "source": "19hz+edmtrain",
    "title": "Wax'n Dance X Never Forever: Per Hammar / Yunks / Gali",
    "artists": [
     "Per Hammar",
+    "YUNKS",
+    "GALI",
     "YUNKS.FM"
    ],
-   "venue": "Mad Radio Miami",
+   "venue": "Mad Radio",
    "venue_slug": "mad-radio",
    "date": "2026-10-29",
    "start": "2026-10-30T01:00:00+00:00",
    "end": "2026-10-30T07:00:00+00:00",
    "time_estimated": false,
-   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "address": "",
    "ages": "21+",
-   "price": "$21.80",
+   "price": "free w/rsvp b4 midnight ladies / free w/rsvp b4 10pm / $22",
    "genres": [
     "house"
    ],
    "genres_inferred": false,
-   "organizer": "Mad Radio Miami",
-   "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY BEFORE 10 PM / FREE ENTRY LADIES UNTIL MIDNIGHT +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
+   "organizer": "",
+   "description": "",
    "url": "https://shotgun.live/en/events/madradiomiami102926",
-   "tickets": "ANYTIME $20",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.8462027,
-    "longitude": -80.1851332
-   },
-   "created": "2026-09-29T16:00:11.000Z",
    "alt_urls": [
-    "https://shotgun.live/en/events/madradiomiami102926",
     "https://edmtrain.com/miami-fl/waxn-dance-x-never-forever-per-hammar-541055"
    ]
   },
   {
-   "id": "shotgun:vocal-jukebox-every-thursday-14",
-   "source": "shotgun",
-   "title": "Vocal Jukebox : Every Thursday",
+   "id": "19hz:4447192-superqueencostum",
+   "source": "19hz",
+   "title": "Superqueen: Costume Party",
    "artists": [],
-   "venue": "Churchill's Pub",
+   "venue": "777 Northeast 79th Street",
    "venue_slug": null,
    "date": "2026-10-29",
    "start": "2026-10-30T02:00:00+00:00",
-   "end": null,
+   "end": "2026-10-30T07:00:00+00:00",
    "time_estimated": false,
    "address": "",
-   "ages": "",
-   "price": "Free",
+   "ages": "18+",
+   "price": "free w/rsvp b4 11pm / $10+",
    "genres": [
-    "rock",
-    "post-punk",
-    "punk"
+    "breaks",
+    "eurodance",
+    "house",
+    "trance"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/vocal-jukebox-every-thursday-14"
+   "url": "https://shotgun.live/en/events/superqueen-38"
   },
   {
    "id": "19hz:4447192-vikenarman",
@@ -193,11 +187,11 @@
    ]
   },
   {
-   "id": "shotgun:aftercitohalloween",
-   "source": "19hz+shotgun",
-   "title": "Aftercito Halloween",
+   "id": "19hz:4447192-aftercitohallowe",
+   "source": "19hz",
+   "title": "Aftercito Halloween: JDEN, Julian Tate, Slon, Legend Saylor",
    "artists": [],
-   "venue": "Lion's Den",
+   "venue": "Lion's Den at Fooqs",
    "venue_slug": null,
    "date": "2026-10-29",
    "start": "2026-10-30T02:00:00+00:00",
@@ -205,69 +199,34 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$11.25",
+   "price": "$11",
    "genres": [
-    "bass",
-    "disco",
-    "house",
-    "uk garage"
+    "house"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/aftercitohalloween",
-   "alt_urls": [
-    "https://ra.co/events/2569920"
-   ]
+   "url": "https://ra.co/events/2569920"
   },
   {
-   "id": "shotgun:superqueen-38",
-   "source": "19hz+shotgun",
-   "title": "Superqueen: Costume Party (18+)",
+   "id": "edmtrain:543165",
+   "source": "edmtrain",
+   "title": "International House",
    "artists": [],
    "venue": "Miami",
-   "venue_slug": "festivals",
-   "date": "2026-10-29",
-   "start": "2026-10-30T02:00:00+00:00",
-   "end": "2026-10-30T07:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "18+",
-   "price": "$10.00",
-   "genres": [
-    "breaks",
-    "drag",
-    "eurodance",
-    "house",
-    "trance"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/superqueen-38",
-   "alt_urls": [
-    "https://shotgun.live/en/events/superqueen-38"
-   ]
-  },
-  {
-   "id": "shotgun:international-house-party-halloween",
-   "source": "edmtrain+shotgun",
-   "title": "International House Party Halloween",
-   "artists": [],
-   "venue": "Miami, United States 🇺🇸",
    "venue_slug": null,
    "date": "2026-10-29",
-   "start": "2026-10-30T02:00:00+00:00",
+   "start": null,
    "end": null,
    "time_estimated": false,
-   "address": "",
+   "address": "Miami, FL, USA",
    "ages": "",
-   "price": "$33.00",
+   "price": "",
    "genres": [],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/international-house-party-halloween",
+   "url": "https://shotgun.live/events/international-house-party-halloween?utm_source=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/international-house-543165"
    ]
