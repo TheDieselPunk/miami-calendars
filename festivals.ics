@@ -8,6 +8,21 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
+UID:superqueen-38@shotgun.live
+DTSTAMP:20261030T041827Z
+LAST-MODIFIED:20261030T041827Z
+SEQUENCE:0
+DTSTART:20261030T020000Z
+DTEND:20261030T070000Z
+SUMMARY:Superqueen: Costume Party (18+)
+LOCATION:Miami
+DESCRIPTION:Tags: breaks\, drag\, eurodance\, house\, trance\nAges: 18+\nht
+ tps://shotgun.live/en/events/superqueen-38
+URL:https://shotgun.live/en/events/superqueen-38
+STATUS:CONFIRMED
+CATEGORIES:breaks,drag,eurodance,house,trance
+END:VEVENT
+BEGIN:VEVENT
 UID:19hz-4447248-joelcorrysinatse@festivals.miami-calendars
 DTSTAMP:20261017T161817Z
 LAST-MODIFIED:20261017T161817Z
@@ -120,6 +135,21 @@ DESCRIPTION:Tags: afro\, reggaeton\, house\nhttps://shotgun.live/en/events/
 URL:https://shotgun.live/en/events/galactic-halloween
 STATUS:CONFIRMED
 CATEGORIES:afro,reggaeton,house
+END:VEVENT
+BEGIN:VEVENT
+UID:inferno@shotgun.live
+DTSTAMP:20261030T041827Z
+LAST-MODIFIED:20261030T041827Z
+SEQUENCE:0
+DTSTART:20261102T000000Z
+DTEND:20261102T050000Z
+SUMMARY:Disco Inferno
+LOCATION:Miami
+DESCRIPTION:Tags: disco\nAges: 21+\nhttps://shotgun.live/en/events/inferno
+ \nhttps://edmtrain.com/miami-fl/disco-inferno-547896
+URL:https://shotgun.live/en/events/inferno
+STATUS:CONFIRMED
+CATEGORIES:disco
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4448056-alexfarell@festivals.miami-calendars
@@ -270,6 +300,27 @@ URL:https://dice.fm/event/oe8a5y-where-are-my-keys-art-basel-2026-3rd-dec-9
  4th-aero-squadron-miami-tickets
 STATUS:CONFIRMED
 CATEGORIES:electro,house,tech house,techno
+END:VEVENT
+BEGIN:VEVENT
+UID:19hz-4450552-baselweekopening@festivals.miami-calendars
+DTSTAMP:20261030T041827Z
+LAST-MODIFIED:20261030T041827Z
+SEQUENCE:0
+DTSTART:20261204T030000Z
+DTEND:20261204T100000Z
+SUMMARY:Basel Week Opening Party - Marron\, Elli Acula\, Elias Garcia\, Jun
+ kfile
+LOCATION:Domicile
+DESCRIPTION:Lineup: MARRØN\, Elli Acula\, Elias Garcia\, Junkfile\nTags: h
+ ard techno\, techno\nPresented by: Agape\nAges: 18+\nhttps://dice.fm/event
+ /532bql-domicile-x-gap-presents-basel-week-opening-party-marrn-elli-acula-
+ elias-garciajunkfile-3rd-dec-domicile-miami-miami-tickets\nhttps://edmtrai
+ n.com/miami-fl/marron-elli-acula-546506
+URL:https://dice.fm/event/532bql-domicile-x-gap-presents-basel-week-opening
+ -party-marrn-elli-acula-elias-garciajunkfile-3rd-dec-domicile-miami-miami-
+ tickets
+STATUS:CONFIRMED
+CATEGORIES:hard techno,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:experience-incendia-art-basel@shotgun.live

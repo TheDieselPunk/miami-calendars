@@ -8,32 +8,17 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:tablelist-303b09419bf8998a@zeyzey.miami-calendars
-DTSTAMP:20261029T101803Z
-LAST-MODIFIED:20261029T101803Z
-SEQUENCE:1
-DTSTART:20261028T230000Z
-DTEND:20261029T050000Z
-SUMMARY:Leon Bridges Presents: Happiness Anytime
-LOCATION:ZeyZey Miami
-DESCRIPTION:https://buy.tablelist.com/e/303b09419bf8998a
-URL:https://buy.tablelist.com/e/303b09419bf8998a
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:tablelist-f68f86a4f33a974d@zeyzey.miami-calendars
-DTSTAMP:20261001T041824Z
-LAST-MODIFIED:20261001T041824Z
-SEQUENCE:0
+DTSTAMP:20261030T041827Z
+LAST-MODIFIED:20261030T041827Z
+SEQUENCE:1
 DTSTART:20261029T220000Z
 DTEND:20261030T040000Z
 SUMMARY:Puma Blue
 LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: indie/alternative\nhttps://buy.tablelist.com/e/f68f86a4f3
- 3a974d\nhttps://calendar.zeyzeymiami.com/shows/puma-blue-29-oct
+DESCRIPTION:https://buy.tablelist.com/e/f68f86a4f33a974d
 URL:https://buy.tablelist.com/e/f68f86a4f33a974d
 STATUS:CONFIRMED
-CATEGORIES:indie/alternative
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-salsa-z-30-oct@zeyzey.miami-calendars
@@ -657,19 +642,19 @@ CATEGORIES:dance/electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-a-trak-friends-04-dec@zeyzey.miami-calendars
-DTSTAMP:20261024T101823Z
-LAST-MODIFIED:20261024T101823Z
-SEQUENCE:1
+DTSTAMP:20261030T041827Z
+LAST-MODIFIED:20261030T041827Z
+SEQUENCE:2
 DTSTART:20261205T040000Z
 DTEND:20261205T080000Z
 SUMMARY:A-Trak & Friends
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: A-Trak\nTags: dance/electronic\nhttps://calendar.zeyzey
- miami.com/shows/a-trak-friends-04-dec\nhttps://edmtrain.com/miami-fl/a-tra
- k-547644
+DESCRIPTION:Lineup: A-Trak\nTags: beats\, funk\, house\nAges: 21+\nhttps://
+ calendar.zeyzeymiami.com/shows/a-trak-friends-04-dec\nhttps://edmtrain.com
+ /miami-fl/a-trak-547644
 URL:https://calendar.zeyzeymiami.com/shows/a-trak-friends-04-dec
 STATUS:CONFIRMED
-CATEGORIES:dance/electronic
+CATEGORIES:beats,funk,house
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-soulection-friends-05-dec@zeyzey.miami-calendars
@@ -685,6 +670,21 @@ DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
 URL:https://calendar.zeyzeymiami.com/shows/soulection-friends-05-dec
 STATUS:CONFIRMED
 CATEGORIES:dance/electronic
+END:VEVENT
+BEGIN:VEVENT
+UID:19hz-4450716-soulectionjoekay@zeyzey.miami-calendars
+DTSTAMP:20261030T041827Z
+LAST-MODIFIED:20261030T041827Z
+SEQUENCE:0
+DTSTART:20261205T200000Z
+DTEND:20261206T060000Z
+SUMMARY:Soulection - Joe Kay
+LOCATION:Zeyzey
+DESCRIPTION:Tags: future beats\, hip-hop\, world club\nAges: 21+\nhttps://c
+ alendar.zeyzeymiami.com/shows/soulection-friends-05-dec
+URL:https://calendar.zeyzeymiami.com/shows/soulection-friends-05-dec
+STATUS:CONFIRMED
+CATEGORIES:future beats,hip-hop,world club
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-sam-gellaitry-darius-05-dec@zeyzey.miami-calendars

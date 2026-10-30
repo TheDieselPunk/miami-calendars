@@ -1,9 +1,4 @@
 {
- "19hz-4447092-levisionerejonpa@mad-radio.miami-calendars": {
-  "hash": "ed817688c19024a1",
-  "seq": 0,
-  "modified": "2026-10-29T10:18:03+00:00"
- },
  "19hz-4447248-joelcorrysinatse@festivals.miami-calendars": {
   "hash": "a390ec196378d1cb",
   "seq": 0,
@@ -114,6 +109,16 @@
   "seq": 0,
   "modified": "2026-10-25T04:18:11+00:00"
  },
+ "19hz-4450552-baselweekopening@domicile.miami-calendars": {
+  "hash": "00493b98cc35f6c6",
+  "seq": 0,
+  "modified": "2026-10-30T04:18:27+00:00"
+ },
+ "19hz-4450552-baselweekopening@festivals.miami-calendars": {
+  "hash": "00493b98cc35f6c6",
+  "seq": 0,
+  "modified": "2026-10-30T04:18:27+00:00"
+ },
  "19hz-4450552-wherearemykeysar@festivals.miami-calendars": {
   "hash": "6bd76db05e903b68",
   "seq": 1,
@@ -128,6 +133,11 @@
   "hash": "4aa3ffee1ed5a2c9",
   "seq": 0,
   "modified": "2026-10-25T04:18:11+00:00"
+ },
+ "19hz-4450716-soulectionjoekay@zeyzey.miami-calendars": {
+  "hash": "72cfbc579aa50382",
+  "seq": 0,
+  "modified": "2026-10-30T04:18:27+00:00"
  },
  "19hz-4450720-adriatiqueb2bclo@festivals.miami-calendars": {
   "hash": "86ff73fe62637fda",
@@ -475,9 +485,9 @@
   "modified": "2026-10-26T10:18:03+00:00"
  },
  "dice-6ab442b0fb764f0001259171@jolene.miami-calendars": {
-  "hash": "8a5c42b4a334924f",
-  "seq": 3,
-  "modified": "2026-10-28T16:18:06+00:00"
+  "hash": "61712094037a8e82",
+  "seq": 4,
+  "modified": "2026-10-30T04:18:27+00:00"
  },
  "dice-6ab443f8697fd600018d79bd@jolene.miami-calendars": {
   "hash": "e6b7f379f3ca3338",
@@ -495,9 +505,9 @@
   "modified": "2026-10-22T04:18:28+00:00"
  },
  "dice-6ab448eab6c65c00012abd8a@jolene.miami-calendars": {
-  "hash": "2d2961d040d4c65b",
-  "seq": 2,
-  "modified": "2026-10-29T22:18:06+00:00"
+  "hash": "c5945a051d27610b",
+  "seq": 3,
+  "modified": "2026-10-30T04:18:27+00:00"
  },
  "dice-6ab44b4b28d5d90001e98039@jolene.miami-calendars": {
   "hash": "20707619c3dec4b7",
@@ -548,11 +558,6 @@
   "hash": "bb311a99493c0bec",
   "seq": 2,
   "modified": "2026-10-17T16:18:17+00:00"
- },
- "dice-6abdf679bbcbf60001fcc8e9@kemistry.miami-calendars": {
-  "hash": "128b2e135c16474c",
-  "seq": 2,
-  "modified": "2026-10-29T22:18:06+00:00"
  },
  "dice-6abe7ba3c57ae3000111bebb@floyd.miami-calendars": {
   "hash": "2703366cfc5193e3",
@@ -735,9 +740,9 @@
   "modified": "2026-10-28T22:18:06+00:00"
  },
  "dice-6ae2d8728294f200017be159@kemistry.miami-calendars": {
-  "hash": "f0299541f4f0bda0",
-  "seq": 0,
-  "modified": "2026-10-29T16:18:12+00:00"
+  "hash": "a496db0cbefaba4f",
+  "seq": 1,
+  "modified": "2026-10-30T04:18:27+00:00"
  },
  "edmtrain-458943@festivals.miami-calendars": {
   "hash": "fb6052125d7b80e4",
@@ -849,11 +854,6 @@
   "seq": 1,
   "modified": "2026-10-21T04:18:30+00:00"
  },
- "edmtrain-546506@domicile.miami-calendars": {
-  "hash": "21cca9ff1d9623d1",
-  "seq": 0,
-  "modified": "2026-10-21T04:18:30+00:00"
- },
  "edmtrain-547346@domicile.miami-calendars": {
   "hash": "fd1c935cd755579c",
   "seq": 0,
@@ -878,6 +878,11 @@
   "hash": "1d044eff398b393d",
   "seq": 0,
   "modified": "2026-10-28T22:18:06+00:00"
+ },
+ "edmtrain-548810@domicile.miami-calendars": {
+  "hash": "d8269862e3c21865",
+  "seq": 0,
+  "modified": "2026-10-30T04:18:27+00:00"
  },
  "equinox-fest-4-day-2-3-november-21-22nd@shotgun.live": {
   "hash": "a6b82d159fc90bb0",
@@ -930,14 +935,14 @@
   "modified": "2026-09-21T20:09:04+00:00"
  },
  "hardrock-204543@daer.miami-calendars": {
-  "hash": "64f646ec9dac6b8d",
-  "seq": 1,
-  "modified": "2026-10-28T22:18:06+00:00"
+  "hash": "9c662a34b6c1fdb7",
+  "seq": 2,
+  "modified": "2026-10-30T04:18:27+00:00"
  },
  "hardrock-204544@daer.miami-calendars": {
-  "hash": "d24ee577ec357629",
-  "seq": 2,
-  "modified": "2026-10-28T22:18:06+00:00"
+  "hash": "48950ecf88668228",
+  "seq": 3,
+  "modified": "2026-10-30T04:18:27+00:00"
  },
  "hardrock-205527@daer.miami-calendars": {
   "hash": "43eef26324dbdb1f",
@@ -980,9 +985,9 @@
   "modified": "2026-09-21T20:07:29+00:00"
  },
  "hardrock-205999@daer.miami-calendars": {
-  "hash": "058d2dcfdb9a3d0b",
-  "seq": 2,
-  "modified": "2026-10-26T16:18:07+00:00"
+  "hash": "d89b6162536c18d4",
+  "seq": 3,
+  "modified": "2026-10-30T04:18:27+00:00"
  },
  "hardrock-206000@daer.miami-calendars": {
   "hash": "6d7f5ed0de952bb0",
@@ -1224,15 +1229,20 @@
   "seq": 0,
   "modified": "2026-10-05T22:18:30+00:00"
  },
+ "inferno@shotgun.live": {
+  "hash": "dac3a7584e16fdb7",
+  "seq": 0,
+  "modified": "2026-10-30T04:18:27+00:00"
+ },
  "lilith-s-demise-and-slamwich-at-the-boombox-11-15@shotgun.live": {
   "hash": "d563519bbd028c53",
   "seq": 0,
   "modified": "2026-10-22T04:18:28+00:00"
  },
  "madradiomiami102926@shotgun.live": {
-  "hash": "d8cd6f38373323d2",
-  "seq": 3,
-  "modified": "2026-10-29T16:18:12+00:00"
+  "hash": "93333ed64f83eaf4",
+  "seq": 4,
+  "modified": "2026-10-30T04:18:27+00:00"
  },
  "madradiomiami103026@shotgun.live": {
   "hash": "baead94d5c046ce9",
@@ -1259,10 +1269,10 @@
   "seq": 2,
   "modified": "2026-10-28T10:18:12+00:00"
  },
- "tablelist-303b09419bf8998a@zeyzey.miami-calendars": {
-  "hash": "1ca0c5a60f99a13d",
-  "seq": 1,
-  "modified": "2026-10-29T10:18:03+00:00"
+ "superqueen-38@shotgun.live": {
+  "hash": "e39bb1181bf9f7f7",
+  "seq": 0,
+  "modified": "2026-10-30T04:18:27+00:00"
  },
  "tablelist-7c5e948162a39cd3@zeyzey.miami-calendars": {
   "hash": "d64629cb50950090",
@@ -1280,9 +1290,9 @@
   "modified": "2026-10-01T04:18:24+00:00"
  },
  "tablelist-f68f86a4f33a974d@zeyzey.miami-calendars": {
-  "hash": "f0dba44f27ecf408",
-  "seq": 0,
-  "modified": "2026-10-01T04:18:24+00:00"
+  "hash": "f9188da2ec9b6347",
+  "seq": 1,
+  "modified": "2026-10-30T04:18:27+00:00"
  },
  "the-boombox-equinox-bookings-presents-arythmia@shotgun.live": {
   "hash": "7af14fdf913838a1",
@@ -1295,9 +1305,9 @@
   "modified": "2026-10-15T10:18:22+00:00"
  },
  "zeyzey-a-trak-friends-04-dec@zeyzey.miami-calendars": {
-  "hash": "818c8198e38d3b07",
-  "seq": 1,
-  "modified": "2026-10-24T10:18:23+00:00"
+  "hash": "38e92edf53e33d2a",
+  "seq": 2,
+  "modified": "2026-10-30T04:18:27+00:00"
  },
  "zeyzey-afroman-01-nov@zeyzey.miami-calendars": {
   "hash": "40bad7f3502ddc01",

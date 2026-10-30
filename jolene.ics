@@ -245,18 +245,18 @@ CATEGORIES:house,tech house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab442b0fb764f0001259171@jolene.miami-calendars
-DTSTAMP:20261028T161806Z
-LAST-MODIFIED:20261028T161806Z
-SEQUENCE:3
+DTSTAMP:20261030T041827Z
+LAST-MODIFIED:20261030T041827Z
+SEQUENCE:4
 DTSTART:20261202T030000Z
 DTEND:20261202T090000Z
 SUMMARY:Basel: Paco Osuna\, Priku\, Lousy Lover & Jonny From Space
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Lineup: Paco Osuna\, Priku\nTags: tech house\, techno\nAges: 21
- +\nhttps://dice.fm/event/avk8vx-basel-paco-osuna-1st-dec-jolene-sound-room
- -miami-miami-tickets\nhttps://edmtrain.com/miami-fl/paco-osuna-priku-53960
- 3
+DESCRIPTION:Lineup: Paco Osuna\, Priku\, Lousy Lover\, Jonny From Space\nTa
+ gs: tech house\, techno\nAges: 21+\nhttps://dice.fm/event/avk8vx-basel-pac
+ o-osuna-1st-dec-jolene-sound-room-miami-miami-tickets\nhttps://edmtrain.co
+ m/miami-fl/paco-osuna-priku-539603
 URL:https://dice.fm/event/avk8vx-basel-paco-osuna-1st-dec-jolene-sound-room
  -miami-miami-tickets
 STATUS:CONFIRMED
@@ -331,16 +331,17 @@ CATEGORIES:organic house,progressive house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab448eab6c65c00012abd8a@jolene.miami-calendars
-DTSTAMP:20261029T221806Z
-LAST-MODIFIED:20261029T221806Z
-SEQUENCE:2
+DTSTAMP:20261030T041827Z
+LAST-MODIFIED:20261030T041827Z
+SEQUENCE:3
 DTSTART:20261207T030000Z
 DTEND:20261207T110000Z
 SUMMARY:Basel: Damian Lazarus\, Danny Daze\, & more
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6ab448e
- ab6c65c00012abd8a
+DESCRIPTION:Lineup: Damian Lazarus\, Danny Daze\, Jason Rault\, Thunderpony
+ \nTags (guess): house\, tech house\nhttps://dice.fm/event/6ab448eab6c65c00
+ 012abd8a\nhttps://edmtrain.com/miami-fl/damian-lazarus-danny-daze-548827
 URL:https://dice.fm/event/6ab448eab6c65c00012abd8a
 STATUS:CONFIRMED
 CATEGORIES:house,tech house

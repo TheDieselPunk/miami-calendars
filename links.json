@@ -67,6 +67,10 @@
   "url": "https://fever.pxf.io/c/254533/1928078/16345?prodsku=665136&u=https%3A%2F%2Ffeverup.com%2Fm%2F665136&intsrc=APIG_15532",
   "checked": "2026-09-21"
  },
+ "523286": {
+  "url": "https://dice.fm/event/oe83ba?pid=d6342b83",
+  "checked": "2026-10-30"
+ },
  "523791": {
   "url": "https://www.tixr.com/pr/edmtrain/170476",
   "checked": "2026-09-21"
@@ -231,10 +235,6 @@
   "url": "https://dice.fm/event/g5vakb?pid=d6342b83",
   "checked": "2026-10-21"
  },
- "546506": {
-  "url": "https://dice.fm/event/532bql?pid=d6342b83",
-  "checked": "2026-10-21"
- },
  "546509": {
   "url": "https://dice.fm/event/7d9m6p?pid=d6342b83",
   "checked": "2026-10-21"
@@ -247,29 +247,13 @@
   "url": "https://posh.vip/e/komashov-rodrigo-vieira-dmeyer-rye-tiffany-romero?t=edmtrain",
   "checked": "2026-10-21"
  },
- "546664": {
-  "url": "https://www.eventbrite.com/e/2003665582695?aff=ebdimtedmtrain",
-  "checked": "2026-10-21"
- },
  "546672": {
   "url": "https://shotgun.live/events/yasumi-fiesta?utm_source=edmtrain",
-  "checked": "2026-10-21"
- },
- "546735": {
-  "url": "https://www.livnightclub.com/miami/event/EVE112156200020261203/prospa/",
   "checked": "2026-10-21"
  },
  "546740": {
   "url": "https://luma.com/hq2ep7v1",
   "checked": "2026-10-21"
- },
- "547012": {
-  "url": "https://ticketmaster.evyy.net/c/254533/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fid%2F15050803",
-  "checked": "2026-10-22"
- },
- "547013": {
-  "url": "https://ra.co/events/2566361",
-  "checked": "2026-10-22"
  },
  "547023": {
   "url": "https://posh.vip/e/dj-diesel-aka-shaquille-oneal-at-rock-bar?t=edmtrain",
@@ -279,10 +263,6 @@
   "url": "https://dice.fm/event/g5vqp6?pid=d6342b83",
   "checked": "2026-10-22"
  },
- "547335": {
-  "url": "https://posh.vip/e/christiano-jordano-kike-roldan-nayla-scozzesi?t=edmtrain",
-  "checked": "2026-10-23"
- },
  "547346": {
   "url": "https://dice.fm/event/q23lly?pid=d6342b83",
   "checked": "2026-10-23"
@@ -291,21 +271,9 @@
   "url": "https://dice.fm/event/xe8ook?pid=d6342b83",
   "checked": "2026-10-23"
  },
- "547494": {
-  "url": "https://dice.fm/event/3o87al?pid=d6342b83",
-  "checked": "2026-10-24"
- },
- "547521": {
-  "url": "https://dice.fm/event/wwnm6v?pid=d6342b83",
-  "checked": "2026-10-24"
- },
  "547522": {
   "url": "https://dice.fm/event/pyxbdl?pid=d6342b83",
   "checked": "2026-10-24"
- },
- "547836": {
-  "url": "https://posh.vip/e/rooftop-sessions-x-discoluminati-goshfather?t=edmtrain",
-  "checked": "2026-10-26"
  },
  "547837": {
   "url": "https://laylo.com/discoluminati/m/o95Fuf",
@@ -382,5 +350,61 @@
  "548595": {
   "url": "https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzA5NjY1Ojc=/clickthru",
   "checked": "2026-10-28"
+ },
+ "548676": {
+  "url": "https://posh.vip/e/house-of-wubz-nowhere-halloween-weekend-special-event?t=edmtrain",
+  "checked": "2026-10-30"
+ },
+ "548680": {
+  "url": "https://dice.fm/event/2wnav6?pid=d6342b83",
+  "checked": "2026-10-30"
+ },
+ "548687": {
+  "url": "https://ticketmaster.evyy.net/c/254533/264167/4272?u=https%3A%2F%2Fwww.universe.com%2Fevents%2FHDYJNF",
+  "checked": "2026-10-30"
+ },
+ "548690": {
+  "url": "https://partiful.com/e/Pqi4UfDB609e6ao8FmdE?c=TZCbyE3k",
+  "checked": "2026-10-30"
+ },
+ "548767": {
+  "url": "https://posh.vip/e/humas-alike-sunday?t=edmtrain",
+  "checked": "2026-10-30"
+ },
+ "548791": {
+  "url": "https://dice.fm/event/oemm8g?pid=d6342b83",
+  "checked": "2026-10-30"
+ },
+ "548792": {
+  "url": "https://dice.fm/event/av88xq?pid=d6342b83",
+  "checked": "2026-10-30"
+ },
+ "548793": {
+  "url": "https://dice.fm/event/bbqq9o?pid=d6342b83",
+  "checked": "2026-10-30"
+ },
+ "548794": {
+  "url": "https://dice.fm/event/l8pp7x?pid=d6342b83",
+  "checked": "2026-10-30"
+ },
+ "548795": {
+  "url": "https://dice.fm/event/l8pp7p?pid=d6342b83",
+  "checked": "2026-10-30"
+ },
+ "548796": {
+  "url": "https://dice.fm/event/pyxx3l?pid=d6342b83",
+  "checked": "2026-10-30"
+ },
+ "548797": {
+  "url": "https://dice.fm/event/wwnnkx?pid=d6342b83",
+  "checked": "2026-10-30"
+ },
+ "548810": {
+  "url": "https://dice.fm/event/7833ov?pid=d6342b83",
+  "checked": "2026-10-30"
+ },
+ "548871": {
+  "url": "https://posh.vip/e/joezi-selva?t=edmtrain",
+  "checked": "2026-10-30"
  }
 }
