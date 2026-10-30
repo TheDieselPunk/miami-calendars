@@ -8,18 +8,16 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a86066921cf70000141b5a6@jolene.miami-calendars
-DTSTAMP:20260929T221815Z
-LAST-MODIFIED:20260929T221815Z
-SEQUENCE:2
+UID:19hz-4447192-herculesloveaffa@jolene.miami-calendars
+DTSTAMP:20261030T161804Z
+LAST-MODIFIED:20261030T161804Z
+SEQUENCE:0
 DTSTART:20261030T020000Z
 DTEND:20261030T080000Z
-SUMMARY:Hercules & Love Affair (DJ Set)
-LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
- a 33131\, United States
-DESCRIPTION:Lineup: Hercules & Love Affair\nTags: deep house\, disco\, tech
-  house\, techno\nAges: 21+\nhttps://dice.fm/event/6a86066921cf70000141b5a6
- \nhttps://edmtrain.com/miami-fl/hercules-and-love-affair-530459
+SUMMARY:Hercules & Love Affair
+LOCATION:Jolene Downtown
+DESCRIPTION:Tags: deep house\, disco\, tech house\, techno\nAges: 21+\nhttp
+ s://dice.fm/event/6a86066921cf70000141b5a6
 URL:https://dice.fm/event/6a86066921cf70000141b5a6
 STATUS:CONFIRMED
 CATEGORIES:deep house,disco,tech house,techno

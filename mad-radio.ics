@@ -9,16 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4447188-waxndancexneverf@mad-radio.miami-calendars
-DTSTAMP:20261030T101805Z
-LAST-MODIFIED:20261030T101805Z
-SEQUENCE:0
+DTSTAMP:20261030T161804Z
+LAST-MODIFIED:20261030T161804Z
+SEQUENCE:1
 DTSTART:20261030T010000Z
 DTEND:20261030T070000Z
 SUMMARY:Wax'n Dance X Never Forever: Per Hammar / Yunks / Gali
 LOCATION:Mad Radio
-DESCRIPTION:Lineup: Per Hammar\, YUNKS\, GALI\, YUNKS.FM\nTags: house\nAges
- : 21+\nhttps://shotgun.live/en/events/madradiomiami102926\nhttps://edmtrai
- n.com/miami-fl/waxn-dance-x-never-forever-per-hammar-541055
+DESCRIPTION:Tags: house\nAges: 21+\nhttps://shotgun.live/en/events/madradio
+ miami102926
 URL:https://shotgun.live/en/events/madradiomiami102926
 STATUS:CONFIRMED
 CATEGORIES:house

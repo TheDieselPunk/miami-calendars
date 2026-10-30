@@ -45,11 +45,9 @@
   },
   {
    "id": "19hz:4447183-e11evenhalloween",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "E11even Halloween Week Ft Damaged Goods",
-   "artists": [
-    "Damaged Goods"
-   ],
+   "artists": [],
    "venue": "E11even",
    "venue_slug": null,
    "date": "2026-10-29",
@@ -66,21 +64,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://speakeasygo.com/event/EVE-3L2NWY",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/damaged-goods-533944"
-   ]
+   "url": "https://speakeasygo.com/event/EVE-3L2NWY"
   },
   {
    "id": "19hz:4447188-waxndancexneverf",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Wax'n Dance X Never Forever: Per Hammar / Yunks / Gali",
-   "artists": [
-    "Per Hammar",
-    "YUNKS",
-    "GALI",
-    "YUNKS.FM"
-   ],
+   "artists": [],
    "venue": "Mad Radio",
    "venue_slug": "mad-radio",
    "date": "2026-10-29",
@@ -96,10 +86,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/madradiomiami102926",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/waxn-dance-x-never-forever-per-hammar-541055"
-   ]
+   "url": "https://shotgun.live/en/events/madradiomiami102926"
   },
   {
    "id": "19hz:4447192-superqueencostum",
@@ -128,11 +115,9 @@
   },
   {
    "id": "19hz:4447192-vikenarman",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Viken Arman",
-   "artists": [
-    "Viken Arman"
-   ],
+   "artists": [],
    "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
    "date": "2026-10-29",
@@ -149,25 +134,20 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/eo95ow-do-not-sit-on-halloween-ft-viken-arman-29th-oct-do-not-sit-on-the-furniture-miami-beach-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/viken-arman-540950"
-   ]
+   "url": "https://dice.fm/event/eo95ow-do-not-sit-on-halloween-ft-viken-arman-29th-oct-do-not-sit-on-the-furniture-miami-beach-tickets"
   },
   {
-   "id": "dice:6a86066921cf70000141b5a6",
-   "source": "19hz+dice+edmtrain",
-   "title": "Hercules & Love Affair (DJ Set)",
-   "artists": [
-    "Hercules & Love Affair"
-   ],
-   "venue": "Jolene Sound Room Miami",
+   "id": "19hz:4447192-herculesloveaffa",
+   "source": "19hz",
+   "title": "Hercules & Love Affair",
+   "artists": [],
+   "venue": "Jolene Downtown",
    "venue_slug": "jolene",
    "date": "2026-10-29",
    "start": "2026-10-30T02:00:00+00:00",
    "end": "2026-10-30T08:00:00+00:00",
    "time_estimated": false,
-   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "address": "",
    "ages": "21+",
    "price": "$10",
    "genres": [
@@ -179,12 +159,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6a86066921cf70000141b5a6",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/event/6a86066921cf70000141b5a6",
-    "https://edmtrain.com/miami-fl/hercules-and-love-affair-530459"
-   ]
+   "url": "https://dice.fm/event/6a86066921cf70000141b5a6"
   },
   {
    "id": "19hz:4447192-aftercitohallowe",
@@ -207,56 +182,6 @@
    "organizer": "",
    "description": "",
    "url": "https://ra.co/events/2569920"
-  },
-  {
-   "id": "edmtrain:543165",
-   "source": "edmtrain",
-   "title": "International House",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-10-29",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "Miami, FL, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/international-house-party-halloween?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/international-house-543165"
-   ]
-  },
-  {
-   "id": "edmtrain:548676",
-   "source": "edmtrain",
-   "title": "Ken, Seeing Dubble, Mxk",
-   "artists": [
-    "Ken",
-    "Seeing Dubble",
-    "Mxk"
-   ],
-   "venue": "Nowhere FTL",
-   "venue_slug": null,
-   "date": "2026-10-29",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "204 SW 2nd St, Fort Lauderdale, FL 33301, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://posh.vip/e/house-of-wubz-nowhere-halloween-weekend-special-event?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/ken-seeing-dubble-548676"
-   ]
   },
   {
    "id": "19hz:4447248-joelcorrysinatse",
@@ -328,7 +253,7 @@
    "organizer": "The Boombox Miami",
    "description": "BOOMBOX SE7EN YEAR ANNIVERSARY Two nights. Two stages. 30+ acts. We’re celebrating 7 years of BOOMBOX with a massive Halloween weekend featuring some of Miami’s best underground sounds. With OMNI SOUND SPACE, EQUINOX BOOKING, FLORIDA GLOSS, and SAY TECH AND SMILE. OCTOBER 30 & 31 18+ Must bring physical ID's Photos of ID's will NOT be accepted Rain or Shine",
    "url": "https://shotgun.live/en/events/halloween-se-7-en",
-   "tickets": "FRIDAY OCT 30TH (SINGLE DAY PASS) - EARLY BIRD $20 (sold out), 2-DAY PASS (EARLY BIRD) $30 (sold out), SATURDAY OCT 31TH (SINGLE DAY PASS) - EARLY BIRD $20 (sold out), FRIDAY OCT 30TH (SINGLE DAY PASS) $30 (sold out), 2-DAY PASS $40, FRIDAY OCT 30TH (SINGLE DAY PASS) - LAST CHANCE $35, SATURDAY OCT 31TH (SINGLE DAY PASS) $30 (sold out), SATURDAY OCT 31TH (SINGLE DAY PASS) - LAST CHANCE $35",
+   "tickets": "FRIDAY OCT 30TH (SINGLE DAY PASS) - EARLY BIRD $20 (sold out), 2-DAY PASS (EARLY BIRD) $30 (sold out), SATURDAY OCT 31TH (SINGLE DAY PASS) - EARLY BIRD $20 (sold out), FRIDAY OCT 30TH (SINGLE DAY PASS) $30 (sold out), 2-DAY PASS $40 (sold out), FRIDAY OCT 30TH (SINGLE DAY PASS) - LAST CHANCE $35, 2-DAY PASS - LAST CHANCE $50, SATURDAY OCT 31TH (SINGLE DAY PASS) $30 (sold out), SATURDAY OCT 31TH (SINGLE DAY PASS) - LAST CHANCE $35",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -1485,9 +1410,11 @@
   },
   {
    "id": "hardrock:204543",
-   "source": "19hz+venue",
+   "source": "19hz+edmtrain+venue",
    "title": "Marco Ninni",
-   "artists": [],
+   "artists": [
+    "Marco Ninni"
+   ],
    "venue": "DAER Dayclub",
    "venue_slug": "daer",
    "date": "2026-10-31",
@@ -1507,7 +1434,8 @@
    "url": "https://tixr.com/e/204543",
    "generic_title": false,
    "alt_urls": [
-    "https://www.tixr.com/groups/daerdayclubsouthflorida/events/halloween-saturday-october-31st-daer-dayclub-204543"
+    "https://www.tixr.com/groups/daerdayclubsouthflorida/events/halloween-saturday-october-31st-daer-dayclub-204543",
+    "https://edmtrain.com/fort-lauderdale-fl/marco-ninni-548904"
    ]
   },
   {
@@ -2167,7 +2095,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "",
-   "price": "From $181 (sold out)",
+   "price": "From $175",
    "genres": [
     "house",
     "techno"
@@ -5780,7 +5708,7 @@
   {
    "id": "hardrock:205535",
    "source": "venue",
-   "title": "DAER Dayclub",
+   "title": "Tony Guerra",
    "artists": [],
    "venue": "DAER Dayclub",
    "venue_slug": "daer",
@@ -5796,7 +5724,7 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/205535",
-   "generic_title": true
+   "generic_title": false
   },
   {
    "id": "shotgun:cafe-grooves-miami",
@@ -11672,7 +11600,7 @@
   {
    "id": "hardrock:207834",
    "source": "venue",
-   "title": "DAER Nightclub",
+   "title": "RL Grime - Cyclops Cove After Party",
    "artists": [],
    "venue": "DAER Nightclub",
    "venue_slug": "daer",
@@ -11688,7 +11616,7 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/207834",
-   "generic_title": true
+   "generic_title": false
   },
   {
    "id": "edmtrain:547346",

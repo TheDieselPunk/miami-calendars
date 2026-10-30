@@ -1,8 +1,13 @@
 {
  "19hz-4447188-waxndancexneverf@mad-radio.miami-calendars": {
-  "hash": "c7f7bbac0762d7bd",
+  "hash": "a693522b4c28f627",
+  "seq": 1,
+  "modified": "2026-10-30T16:18:04+00:00"
+ },
+ "19hz-4447192-herculesloveaffa@jolene.miami-calendars": {
+  "hash": "a783753bc2798c42",
   "seq": 0,
-  "modified": "2026-10-30T10:18:05+00:00"
+  "modified": "2026-10-30T16:18:04+00:00"
  },
  "19hz-4447248-joelcorrysinatse@festivals.miami-calendars": {
   "hash": "a390ec196378d1cb",
@@ -298,11 +303,6 @@
   "hash": "009f6e72330ff92e",
   "seq": 1,
   "modified": "2026-10-17T16:18:17+00:00"
- },
- "dice-6a86066921cf70000141b5a6@jolene.miami-calendars": {
-  "hash": "a108b6e76730e064",
-  "seq": 2,
-  "modified": "2026-09-29T22:18:15+00:00"
  },
  "dice-6a88676d138c56000110cb09@the-ground.miami-calendars": {
   "hash": "6be7703f94d19f9f",
@@ -920,9 +920,9 @@
   "modified": "2026-09-21T21:40:09+00:00"
  },
  "halloween-se-7-en@shotgun.live": {
-  "hash": "bcce2208c59bc668",
-  "seq": 6,
-  "modified": "2026-10-29T04:18:06+00:00"
+  "hash": "49b790ffa46fce00",
+  "seq": 7,
+  "modified": "2026-10-30T16:18:04+00:00"
  },
  "halloween26@shotgun.live": {
   "hash": "70a2a206cf1ca42d",
@@ -940,9 +940,9 @@
   "modified": "2026-09-21T20:09:04+00:00"
  },
  "hardrock-204543@daer.miami-calendars": {
-  "hash": "9c662a34b6c1fdb7",
-  "seq": 2,
-  "modified": "2026-10-30T04:18:27+00:00"
+  "hash": "74592fa7b69dd58d",
+  "seq": 3,
+  "modified": "2026-10-30T16:18:04+00:00"
  },
  "hardrock-204544@daer.miami-calendars": {
   "hash": "48950ecf88668228",
@@ -960,9 +960,9 @@
   "modified": "2026-09-21T20:07:29+00:00"
  },
  "hardrock-205535@daer.miami-calendars": {
-  "hash": "84667ef31da2fc0e",
-  "seq": 1,
-  "modified": "2026-09-21T20:07:29+00:00"
+  "hash": "917c937fd2b7ac02",
+  "seq": 2,
+  "modified": "2026-10-30T16:18:04+00:00"
  },
  "hardrock-205537@daer.miami-calendars": {
   "hash": "9adbe642eab63d37",
@@ -1035,9 +1035,9 @@
   "modified": "2026-09-21T20:07:29+00:00"
  },
  "hardrock-207834@daer.miami-calendars": {
-  "hash": "62e5b299b7ccbddc",
-  "seq": 1,
-  "modified": "2026-09-21T20:07:29+00:00"
+  "hash": "40aa9434f052b6c8",
+  "seq": 2,
+  "modified": "2026-10-30T16:18:04+00:00"
  },
  "hardrock-207835@daer.miami-calendars": {
   "hash": "d3e007075ca331b2",
