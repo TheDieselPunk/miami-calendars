@@ -8,34 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:tablelist-f68f86a4f33a974d@zeyzey.miami-calendars
-DTSTAMP:20261030T041827Z
-LAST-MODIFIED:20261030T041827Z
-SEQUENCE:1
-DTSTART:20261029T220000Z
-DTEND:20261030T040000Z
-SUMMARY:Puma Blue
-LOCATION:ZeyZey Miami
-DESCRIPTION:https://buy.tablelist.com/e/f68f86a4f33a974d
-URL:https://buy.tablelist.com/e/f68f86a4f33a974d
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:zeyzey-salsa-z-30-oct@zeyzey.miami-calendars
-DTSTAMP:20260929T161809Z
-LAST-MODIFIED:20260929T161809Z
-SEQUENCE:0
-DTSTART:20261030T230000Z
-DTEND:20261031T070000Z
-SUMMARY:Salsa Z
-LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: latin\nhttps://calendar.zeyzeymiami.com/shows/salsa-z-30-
- oct
-URL:https://calendar.zeyzeymiami.com/shows/salsa-z-30-oct
-STATUS:CONFIRMED
-CATEGORIES:latin
-END:VEVENT
-BEGIN:VEVENT
 UID:tablelist-f10b685adc35d405@zeyzey.miami-calendars
 DTSTAMP:20261001T041824Z
 LAST-MODIFIED:20261001T041824Z
@@ -290,24 +262,26 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ad760d4f2e7b00001b10371@zeyzey.miami-calendars
-DTSTAMP:20261022T041828Z
-LAST-MODIFIED:20261022T041828Z
-SEQUENCE:2
+DTSTAMP:20261031T041809Z
+LAST-MODIFIED:20261031T041809Z
+SEQUENCE:3
 DTSTART:20261114T020000Z
 DTEND:20261114T070000Z
 SUMMARY:Dance Therapy @ ZeyZey - MindGazm | Tiffany Romero B2B 717
 LOCATION:ZeyZey\, 353 Northeast 61st Street\, Miami\, Florida 33137\, Unite
  d States
-DESCRIPTION:Lineup: Christian Löffler\nTags: deep house\, progressive hous
- e\, r&b/soul\nAges: 18+\nhttps://dice.fm/event/6ad760d4f2e7b00001b10371\nh
- ttps://calendar.zeyzeymiami.com/shows/amrita-fr-13-nov\nhttps://calendar.z
- eyzeymiami.com/shows/christian-loffler-live-fall-2026-tour-13-nov\nhttps:/
- /calendar.zeyzeymiami.com/shows/the-altons-show-you-love-tour-13-nov\nhttp
- s://edmtrain.com/miami-fl/christian-loffler-538533\nhttps://edmtrain.com/m
- iami-fl/zeyzey-presents-mindgazm-546729
-URL:https://dice.fm/event/6ad760d4f2e7b00001b10371
+DESCRIPTION:Lineup: Christian Löffler\nTags: deep house\, house\, progress
+ ive house\, r&b/soul\nAges: 18+\nhttps://dice.fm/event/q23wyx-dance-therap
+ y-zeyzey-mindgazm-tiffany-romero-b2b-717-13th-nov-zeyzey-miami-tickets\nht
+ tps://calendar.zeyzeymiami.com/shows/amrita-fr-13-nov\nhttps://calendar.ze
+ yzeymiami.com/shows/christian-loffler-live-fall-2026-tour-13-nov\nhttps://
+ calendar.zeyzeymiami.com/shows/the-altons-show-you-love-tour-13-nov\nhttps
+ ://edmtrain.com/miami-fl/christian-loffler-538533\nhttps://edmtrain.com/mi
+ ami-fl/zeyzey-presents-mindgazm-546729
+URL:https://dice.fm/event/q23wyx-dance-therapy-zeyzey-mindgazm-tiffany-rome
+ ro-b2b-717-13th-nov-zeyzey-miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:deep house,progressive house,r&b/soul
+CATEGORIES:deep house,house,progressive house,r&b/soul
 END:VEVENT
 BEGIN:VEVENT
 UID:beiruttomiami1@shotgun.live
@@ -400,9 +374,9 @@ CATEGORIES:latin
 END:VEVENT
 BEGIN:VEVENT
 UID:solmates-presents-sparrow-more@shotgun.live
-DTSTAMP:20261028T101812Z
-LAST-MODIFIED:20261028T101812Z
-SEQUENCE:2
+DTSTAMP:20261031T041809Z
+LAST-MODIFIED:20261031T041809Z
+SEQUENCE:3
 DTSTART:20261121T030000Z
 DTEND:20261121T080000Z
 SUMMARY:Solmates Presents Sparrow & More
@@ -414,17 +388,17 @@ DESCRIPTION:Solmates returns for another night built around the sounds that
   a shared love for music\, Solmates creates a space where different influe
  nces meet\, new discoveries unfold\, and the dancefloor becomes something 
  more than just a place to move. One room\, one atmosphere\, and a night ma
- de for the moments that stay with you. See you on the dancefloor.\nTags: i
- ndie/alternative\nPresented by: Solmates Miami\nTickets: Pre-Sale & Genera
- l Admission 1 $20\, General Admission 2 $25\, General Admission 3 $30\, VI
- P $45\nhttps://shotgun.live/en/events/solmates-presents-sparrow-more\nhttp
- s://calendar.zeyzeymiami.com/shows/solmates-presents-sparrow-more-20-nov\n
- https://calendar.zeyzeymiami.com/shows/the-hails-21-nov\nhttps://dice.fm/e
- vent/6adff5fd8be4730001f56177\nhttps://edmtrain.com/miami-fl/solmates-pres
- ents-548040
+ de for the moments that stay with you. See you on the dancefloor.\nLineup:
+  Sparrow\nTags: afro house\, indie/alternative\, latin house\nPresented by
+ : Solmates Miami\nTickets: Pre-Sale & General Admission 1 $20\, General Ad
+ mission 2 $25\, General Admission 3 $30\, VIP $45\nhttps://shotgun.live/en
+ /events/solmates-presents-sparrow-more\nhttps://calendar.zeyzeymiami.com/s
+ hows/solmates-presents-sparrow-more-20-nov\nhttps://calendar.zeyzeymiami.c
+ om/shows/the-hails-21-nov\nhttps://dice.fm/event/6adff5fd8be4730001f56177
+ \nhttps://edmtrain.com/miami-fl/solmates-presents-sparrow-ch-548040
 URL:https://shotgun.live/en/events/solmates-presents-sparrow-more
 STATUS:CONFIRMED
-CATEGORIES:indie/alternative
+CATEGORIES:afro house,indie/alternative,latin house
 GEO:25.8327584;-80.1890685
 END:VEVENT
 BEGIN:VEVENT

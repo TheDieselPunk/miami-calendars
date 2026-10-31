@@ -236,16 +236,18 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:art-basel-airfunk@shotgun.live
-DTSTAMP:20261022T221820Z
-LAST-MODIFIED:20261022T221820Z
-SEQUENCE:0
+DTSTAMP:20261031T041809Z
+LAST-MODIFIED:20261031T041809Z
+SEQUENCE:1
 DTSTART:20261203T220000Z
-DTEND:20261204T030000Z
+DTEND:20261204T080000Z
 SUMMARY:Art Basel: Airfunk - Chez Damier & More
 LOCATION:Miami
-DESCRIPTION:https://shotgun.live/en/events/art-basel-airfunk
+DESCRIPTION:Tags: deep house\nhttps://shotgun.live/en/events/art-basel-airf
+ unk\nhttps://ra.co/events/2567820
 URL:https://shotgun.live/en/events/art-basel-airfunk
 STATUS:CONFIRMED
+CATEGORIES:deep house
 END:VEVENT
 BEGIN:VEVENT
 UID:sangomia1205@shotgun.live
@@ -309,21 +311,23 @@ CATEGORIES:hard techno,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:experience-incendia-art-basel@shotgun.live
-DTSTAMP:20261027T161815Z
-LAST-MODIFIED:20261027T161815Z
-SEQUENCE:2
+DTSTAMP:20261031T041809Z
+LAST-MODIFIED:20261031T041809Z
+SEQUENCE:3
 DTSTART:20261204T030000Z
-DTEND:20261204T080000Z
+DTEND:20261204T110000Z
 SUMMARY:Experience Incendia: The Art Of Fire 2026
 LOCATION:Historic Virginia Key Beach Park
 DESCRIPTION:Lineup: Blond:ish\, AYYBO\, Skream\, Yamagucci\, GUDFELLA\, Bon
  tan\, Calussa\, Fletch\, Apache\, Jay de Lys\, Bassel Darwish\, The Botani
- st\, Tiffy Vera\nTags: house\, melodic house & techno\, progressive house
- \nhttps://shotgun.live/en/events/experience-incendia-art-basel\nhttps://ed
- mtrain.com/miami-fl/experience-incendia-blond-ish-547501
+ st\, Tiffy Vera\nTags: deep house\, disco\, house\, melodic house & techno
+ \, progressive house\, tech house\nhttps://shotgun.live/en/events/experien
+ ce-incendia-art-basel\nhttps://edmtrain.com/miami-fl/experience-incendia-b
+ lond-ish-547501
 URL:https://shotgun.live/en/events/experience-incendia-art-basel
 STATUS:CONFIRMED
-CATEGORIES:house,melodic house & techno,progressive house
+CATEGORIES:deep house,disco,house,melodic house & techno,progressive house,
+ tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:guy-j-art-basel-edition-by-apex-x-the-hall@shotgun.live

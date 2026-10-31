@@ -8,32 +8,20 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:hardrock-210188@daer.miami-calendars
-DTSTAMP:20261026T161807Z
-LAST-MODIFIED:20261026T161807Z
-SEQUENCE:1
-DTSTART:20261031T030000Z
+UID:19hz-4447288-djpaulyd@daer.miami-calendars
+DTSTAMP:20261031T041809Z
+LAST-MODIFIED:20261031T041809Z
+SEQUENCE:0
+DTSTART:20261031T020000Z
 DTEND:20261031T080000Z
-SUMMARY:Alex Sensation
-LOCATION:DAER Dayclub Afterdark\, 1 Seminole Way\, Hollywood\, FL 33314
-DESCRIPTION:https://tixr.com/e/210188
-URL:https://tixr.com/e/210188
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:hardrock-204541@daer.miami-calendars
-DTSTAMP:20261026T161807Z
-LAST-MODIFIED:20261026T161807Z
-SEQUENCE:2
-DTSTART:20261031T030000Z
-DTEND:20261031T080000Z
-SUMMARY:DJ Pauly D - Halloween Weekend
-LOCATION:DAER Nightclub\, 1 Seminole Way\, Hollywood\, FL 33314
-DESCRIPTION:Lineup: DJ Pauly D\nTags: pop edm\nAges: 21+\nhttps://tixr.com/
- e/204541\nhttps://edmtrain.com/fort-lauderdale-fl/dj-pauly-d-538589\nhttps
- ://www.tixr.com/groups/daernightclubsouthflorida/events/dj-pauly-d-hallowe
- en-weekend-daer-nightclub-204541
-URL:https://tixr.com/e/204541
+SUMMARY:DJ Pauly D
+LOCATION:Daer Nightclub\, Hollywood
+DESCRIPTION:Lineup: DJ Pauly D\nTags: pop edm\nAges: 21+\nhttps://www.tixr.
+ com/groups/daernightclubsouthflorida/events/dj-pauly-d-halloween-weekend-d
+ aer-nightclub-204541\nhttps://edmtrain.com/fort-lauderdale-fl/dj-pauly-d-5
+ 38589
+URL:https://www.tixr.com/groups/daernightclubsouthflorida/events/dj-pauly-d
+ -halloween-weekend-daer-nightclub-204541
 STATUS:CONFIRMED
 CATEGORIES:pop edm
 END:VEVENT
@@ -336,28 +324,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:hardrock-212140@daer.miami-calendars
-DTSTAMP:20261022T221820Z
-LAST-MODIFIED:20261022T221820Z
-SEQUENCE:0
+DTSTAMP:20261031T041809Z
+LAST-MODIFIED:20261031T041809Z
+SEQUENCE:1
 DTSTART:20261206T020000Z
 DTEND:20261206T090000Z
 SUMMARY:Magnate
 LOCATION:DAER Dayclub Afterdark\, 1 Seminole Way\, Hollywood\, FL 33314
-DESCRIPTION:https://tixr.com/e/212140
+DESCRIPTION:Ages: 21+\nhttps://tixr.com/e/212140\nhttps://www.tixr.com/grou
+ ps/daerdayclubsouthflorida/events/magnate-daer-dayclub-afterdark-212140
 URL:https://tixr.com/e/212140
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:hardrock-207834@daer.miami-calendars
-DTSTAMP:20261030T161804Z
-LAST-MODIFIED:20261030T161804Z
-SEQUENCE:2
-DTSTART:20261206T030000Z
-DTEND:20261206T090000Z
-SUMMARY:RL Grime - Cyclops Cove After Party
-LOCATION:DAER Nightclub\, 1 Seminole Way\, Hollywood\, FL 33314
-DESCRIPTION:https://tixr.com/e/207834
-URL:https://tixr.com/e/207834
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

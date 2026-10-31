@@ -263,17 +263,9 @@
   "url": "https://dice.fm/event/g5vqp6?pid=d6342b83",
   "checked": "2026-10-22"
  },
- "547346": {
-  "url": "https://dice.fm/event/q23lly?pid=d6342b83",
-  "checked": "2026-10-23"
- },
  "547375": {
   "url": "https://dice.fm/event/xe8ook?pid=d6342b83",
   "checked": "2026-10-23"
- },
- "547522": {
-  "url": "https://dice.fm/event/pyxbdl?pid=d6342b83",
-  "checked": "2026-10-24"
  },
  "547837": {
   "url": "https://laylo.com/discoluminati/m/o95Fuf",
@@ -283,24 +275,8 @@
   "url": "https://laylo.com/discoluminati/m/o95Fuf",
   "checked": "2026-10-26"
  },
- "547916": {
-  "url": "https://dice.fm/event/q23dk9?pid=d6342b83",
-  "checked": "2026-10-27"
- },
  "547917": {
   "url": "https://dice.fm/event/nvrp53?pid=d6342b83",
-  "checked": "2026-10-27"
- },
- "547970": {
-  "url": "https://dice.fm/event/dky79v?pid=d6342b83",
-  "checked": "2026-10-27"
- },
- "547993": {
-  "url": "https://posh.vip/e/low-steppa-selva?t=edmtrain",
-  "checked": "2026-10-27"
- },
- "547994": {
-  "url": "https://posh.vip/e/chris-valencia-selva-10?t=edmtrain",
   "checked": "2026-10-27"
  },
  "548007": {
@@ -309,10 +285,6 @@
  },
  "548030": {
   "url": "https://www.etix.com/ticket/p/37313747",
-  "checked": "2026-10-27"
- },
- "548035": {
-  "url": "https://dice.fm/event/av8kmd?pid=d6342b83",
   "checked": "2026-10-27"
  },
  "548036": {
@@ -329,10 +301,6 @@
  },
  "548237": {
   "url": "https://dice.fm/event/8ed7lv?pid=d6342b83",
-  "checked": "2026-10-28"
- },
- "548238": {
-  "url": "https://dice.fm/event/q23dlo?pid=d6342b83",
   "checked": "2026-10-28"
  },
  "548369": {
@@ -410,5 +378,29 @@
  "549071": {
   "url": "https://shotgun.live/events/lunasol-pres-tortuga?utm_source=edmtrain",
   "checked": "2026-10-30"
+ },
+ "549110": {
+  "url": "https://dice.fm/event/lqa83w?pid=d6342b83",
+  "checked": "2026-10-31"
+ },
+ "549113": {
+  "url": "https://www.etix.com/ticket/p/46928053",
+  "checked": "2026-10-31"
+ },
+ "549114": {
+  "url": "https://www.etix.com/ticket/p/85800734",
+  "checked": "2026-10-31"
+ },
+ "549135": {
+  "url": "https://dice.fm/event/bvlbpv?pid=d6342b83",
+  "checked": "2026-10-31"
+ },
+ "549146": {
+  "url": "https://posh.vip/e/heart-aj-christou?t=edmtrain",
+  "checked": "2026-10-31"
+ },
+ "549160": {
+  "url": "https://www.etix.com/ticket/p/59332715",
+  "checked": "2026-10-31"
  }
 }

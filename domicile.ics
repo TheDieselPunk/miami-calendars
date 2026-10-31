@@ -90,19 +90,18 @@ STATUS:CONFIRMED
 CATEGORIES:hard techno
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-547522@domicile.miami-calendars
-DTSTAMP:20261024T101823Z
-LAST-MODIFIED:20261024T101823Z
+UID:19hz-4449304-samwolfehypnozac@domicile.miami-calendars
+DTSTAMP:20261031T041809Z
+LAST-MODIFIED:20261031T041809Z
 SEQUENCE:0
 DTSTART:20261121T030000Z
 DTEND:20261121T100000Z
-SUMMARY:Sam WOLFE
-LOCATION:Domicile Miami\, 2900 NW 7th Ave\, Miami\, FL 33127\, USA
-DESCRIPTION:Lineup: Sam WOLFE\nTags (guess): techno\nTimes are an estimate 
- from Domicile's usual hours - the listing has no start time yet. Check the
-  link.\nhttps://dice.fm/event/pyxbdl?pid=d6342b83\nhttps://edmtrain.com/mi
- ami-fl/sam-wolfe-547522
-URL:https://dice.fm/event/pyxbdl?pid=d6342b83
+SUMMARY:Sam Wolfe\, Hypnoza\, Christiano Jordano\, Aneya Rose
+LOCATION:Domicile
+DESCRIPTION:Lineup: Sam WOLFE\nTags: techno\nAges: 18+\nhttps://dice.fm/eve
+ nt/6adb6595f0914a00018a364e\nhttps://edmtrain.com/miami-fl/sam-wolfe-54752
+ 2
+URL:https://dice.fm/event/6adb6595f0914a00018a364e
 STATUS:CONFIRMED
 CATEGORIES:techno
 END:VEVENT
@@ -145,20 +144,19 @@ STATUS:CONFIRMED
 CATEGORIES:hard techno,techno
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-547346@domicile.miami-calendars
-DTSTAMP:20261023T101839Z
-LAST-MODIFIED:20261023T101839Z
+UID:19hz-4450744-hhunter@domicile.miami-calendars
+DTSTAMP:20261031T041809Z
+LAST-MODIFIED:20261031T041809Z
 SEQUENCE:0
 DTSTART:20261206T030000Z
 DTEND:20261206T100000Z
-SUMMARY:Domicile Presents: hhunter\, Ultrathem
-LOCATION:Domicile Miami\, 2900 NW 7th Ave\, Miami\, FL 33127\, USA
-DESCRIPTION:Lineup: hhunter\, Ultrathem\nTags (guess): techno\nTimes are an
-  estimate from Domicile's usual hours - the listing has no start time yet.
-  Check the link.\nhttps://dice.fm/event/q23lly?pid=d6342b83\nhttps://edmtr
- ain.com/miami-fl/domicile-presents-hhunter-547346
-URL:https://dice.fm/event/q23lly?pid=d6342b83
+SUMMARY:Hhunter
+LOCATION:Domicile
+DESCRIPTION:Lineup: hhunter\, Ultrathem\nTags: hard techno\nAges: 18+\nhttp
+ s://dice.fm/event/6ada3c7a94de0a00019298b6\nhttps://edmtrain.com/miami-fl/
+ domicile-presents-hhunter-547346
+URL:https://dice.fm/event/6ada3c7a94de0a00019298b6
 STATUS:CONFIRMED
-CATEGORIES:techno
+CATEGORIES:hard techno
 END:VEVENT
 END:VCALENDAR

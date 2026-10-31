@@ -8,21 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4447192-herculesloveaffa@jolene.miami-calendars
-DTSTAMP:20261030T161804Z
-LAST-MODIFIED:20261030T161804Z
-SEQUENCE:0
-DTSTART:20261030T020000Z
-DTEND:20261030T080000Z
-SUMMARY:Hercules & Love Affair
-LOCATION:Jolene Downtown
-DESCRIPTION:Tags: deep house\, disco\, tech house\, techno\nAges: 21+\nhttp
- s://dice.fm/event/6a86066921cf70000141b5a6
-URL:https://dice.fm/event/6a86066921cf70000141b5a6
-STATUS:CONFIRMED
-CATEGORIES:deep house,disco,tech house,techno
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6aa2fa7b8fd8d8000155bbf4@jolene.miami-calendars
 DTSTAMP:20260922T004038Z
 LAST-MODIFIED:20260922T004038Z
@@ -88,19 +73,19 @@ CATEGORIES:ballroom,ghetto house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ad7d9c13dafd600013f1334@jolene.miami-calendars
-DTSTAMP:20261021T041830Z
-LAST-MODIFIED:20261021T041830Z
-SEQUENCE:0
+DTSTAMP:20261031T041809Z
+LAST-MODIFIED:20261031T041809Z
+SEQUENCE:1
 DTSTART:20261108T030000Z
 DTEND:20261108T090000Z
 SUMMARY:DJ Fitness "Doesn't Care at All" Release Party
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6ad7d9c
- 13dafd600013f1334
+DESCRIPTION:Tags: house\nAges: 21+\nhttps://dice.fm/event/6ad7d9c13dafd6000
+ 13f1334
 URL:https://dice.fm/event/6ad7d9c13dafd600013f1334
 STATUS:CONFIRMED
-CATEGORIES:house,tech house
+CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a85fc0f21cf70000116039a@jolene.miami-calendars
@@ -122,71 +107,73 @@ CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ae0e0da3b35970001ec2268@jolene.miami-calendars
-DTSTAMP:20261028T101812Z
-LAST-MODIFIED:20261028T101812Z
-SEQUENCE:1
+DTSTAMP:20261031T041809Z
+LAST-MODIFIED:20261031T041809Z
+SEQUENCE:2
 DTSTART:20261115T030000Z
 DTEND:20261115T090000Z
 SUMMARY:Bill Patrick b2b Bort (All Night Long)
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Lineup: Bill Patrick\, Bort\nTags (guess): house\, tech house\n
- https://dice.fm/event/6ae0e0da3b35970001ec2268\nhttps://edmtrain.com/miami
- -fl/bill-patrick-bort-548365
+DESCRIPTION:Lineup: Bill Patrick\, Bort\nTags: minimal\, tech house\nAges: 
+ 21+\nhttps://dice.fm/event/6ae0e0da3b35970001ec2268\nhttps://edmtrain.com/
+ miami-fl/bill-patrick-bort-548365\nhttps://link.dice.fm/A5bd10755ad9
 URL:https://dice.fm/event/6ae0e0da3b35970001ec2268
 STATUS:CONFIRMED
-CATEGORIES:house,tech house
+CATEGORIES:minimal,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ad8e836f3f79d000131952b@jolene.miami-calendars
-DTSTAMP:20261024T101823Z
-LAST-MODIFIED:20261024T101823Z
-SEQUENCE:1
+DTSTAMP:20261031T041809Z
+LAST-MODIFIED:20261031T041809Z
+SEQUENCE:2
 DTSTART:20261120T030000Z
 DTEND:20261120T090000Z
 SUMMARY:The Groove Palace: Rayzir
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Lineup: RAYZIR\nTags (guess): house\, tech house\nhttps://dice.
- fm/event/6ad8e836f3f79d000131952b\nhttps://edmtrain.com/miami-fl/the-groov
- e-palace-rayzir-547547
-URL:https://dice.fm/event/6ad8e836f3f79d000131952b
+DESCRIPTION:Lineup: RAYZIR\nTags: minimal\, tech house\nAges: 21+\nhttps://
+ dice.fm/event/pyxbmp-the-groove-palace-rayzir-19th-nov-jolene-sound-room-m
+ iami-miami-tickets\nhttps://edmtrain.com/miami-fl/the-groove-palace-rayzir
+ -547547
+URL:https://dice.fm/event/pyxbmp-the-groove-palace-rayzir-19th-nov-jolene-s
+ ound-room-miami-miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:house,tech house
+CATEGORIES:minimal,tech house
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-547970@jolene.miami-calendars
-DTSTAMP:20261027T041817Z
-LAST-MODIFIED:20261027T041817Z
+UID:19hz-4449304-eliescobardjlloy@jolene.miami-calendars
+DTSTAMP:20261031T041809Z
+LAST-MODIFIED:20261031T041809Z
 SEQUENCE:0
 DTSTART:20261121T030000Z
 DTEND:20261121T090000Z
 SUMMARY:Eli Escobar\, DJ Lloyd
-LOCATION:Jolene Sound Room Miami\, 200 E Flagler St\, Miami\, FL 33131\, US
- A
-DESCRIPTION:Lineup: Eli Escobar\, DJ Lloyd\nTags (guess): house\, tech hous
- e\nTimes are an estimate from Jolene Sound Room's usual hours - the listin
- g has no start time yet. Check the link.\nhttps://dice.fm/event/dky79v?pid
- =d6342b83\nhttps://edmtrain.com/miami-fl/eli-escobar-dj-lloyd-547970
-URL:https://dice.fm/event/dky79v?pid=d6342b83
+LOCATION:Jolene Downtown
+DESCRIPTION:Lineup: Eli Escobar\, DJ Lloyd\nTags: disco\, house\nAges: 21+
+ \nhttps://dice.fm/event/dky79v-eli-escobar-dj-lloyd-20th-nov-jolene-sound-
+ room-miami-miami-tickets\nhttps://edmtrain.com/miami-fl/eli-escobar-dj-llo
+ yd-547970
+URL:https://dice.fm/event/dky79v-eli-escobar-dj-lloyd-20th-nov-jolene-sound
+ -room-miami-miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:house,tech house
+CATEGORIES:disco,house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6adb9490e08a040001e559ea@jolene.miami-calendars
-DTSTAMP:20261023T221816Z
-LAST-MODIFIED:20261023T221816Z
-SEQUENCE:0
+DTSTAMP:20261031T041809Z
+LAST-MODIFIED:20261031T041809Z
+SEQUENCE:1
 DTSTART:20261122T030000Z
 DTEND:20261122T090000Z
 SUMMARY:Silvie Loto
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6adb949
- 0e08a040001e559ea
+DESCRIPTION:Tags: tech house\, techno\nAges: 21+\nhttps://dice.fm/event/6ad
+ b9490e08a040001e559ea
 URL:https://dice.fm/event/6adb9490e08a040001e559ea
 STATUS:CONFIRMED
-CATEGORIES:house,tech house
+CATEGORIES:tech house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a8b4d68fec4480001a68ffe@jolene.miami-calendars

@@ -25,22 +25,6 @@ STATUS:CONFIRMED
 CATEGORIES:edm,hip-hop,pop edm
 END:VEVENT
 BEGIN:VEVENT
-UID:dice-6acfb3f29caad40001f10842@kemistry.miami-calendars
-DTSTAMP:20261014T221830Z
-LAST-MODIFIED:20261014T221830Z
-SEQUENCE:0
-DTSTART:20261031T210000Z
-DTEND:20261101T020000Z
-SUMMARY:BOCA HALLO
-LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
- 312\, United States
-DESCRIPTION:Tags (guess): bass\, dubstep\nhttps://dice.fm/event/6acfb3f29ca
- ad40001f10842
-URL:https://dice.fm/event/6acfb3f29caad40001f10842
-STATUS:CONFIRMED
-CATEGORIES:bass,dubstep
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6a6fe2cc1f37f90001ee3794@kemistry.miami-calendars
 DTSTAMP:20261004T221819Z
 LAST-MODIFIED:20261004T221819Z
@@ -342,14 +326,15 @@ STATUS:CONFIRMED
 CATEGORIES:electro house,glitch,psytrance
 END:VEVENT
 BEGIN:VEVENT
-UID:19hz-4455352-hamro@kemistry.miami-calendars
-DTSTAMP:20261029T041806Z
-LAST-MODIFIED:20261029T041806Z
+UID:dice-6a95bdbd6ae28100012001f9@kemistry.miami-calendars
+DTSTAMP:20261031T041809Z
+LAST-MODIFIED:20261031T041809Z
 SEQUENCE:0
 DTSTART:20270123T030000Z
 DTEND:20270123T090000Z
-SUMMARY:Hamro
-LOCATION:Kemistry\, Fort Lauderdale
+SUMMARY:HAMRO
+LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
+ 312\, United States
 DESCRIPTION:Lineup: HAMRO\, SQISHI\nTags: bass music\, dubstep\nAges: 18+\n
  https://dice.fm/event/py3lmy-hamro-22nd-jan-kemistry-fort-lauderdale-ticke
  ts\nhttps://edmtrain.com/fort-lauderdale-fl/hamro-sqishi-534522

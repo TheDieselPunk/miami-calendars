@@ -8,14 +8,14 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a90734702c6070001b79a91@floyd.miami-calendars
-DTSTAMP:20260922T004154Z
-LAST-MODIFIED:20260922T004154Z
-SEQUENCE:3
+UID:19hz-4447291-lprhythmsalomele@floyd.miami-calendars
+DTSTAMP:20261031T041809Z
+LAST-MODIFIED:20261031T041809Z
+SEQUENCE:0
 DTSTART:20261031T030000Z
 DTEND:20261031T090000Z
-SUMMARY:Halloweek: L.P. Rhythm + Salomé Le Chat
-LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
+SUMMARY:L.P. Rhythm + Salome Le Chat
+LOCATION:Floyd Miami
 DESCRIPTION:Lineup: L.P. Rhythm\, Salomé le Chat\, Alezsandro\nTags: house
  \nAges: 21+\nhttps://dice.fm/event/nvxye8-halloweek-lp-rhythm-salom-le-cha
  t-30th-oct-floyd-miami-miami-tickets\nhttps://edmtrain.com/miami-fl/hallow
@@ -106,18 +106,18 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abe7d4787e1d10001e5ab10@floyd.miami-calendars
-DTSTAMP:20261001T221830Z
-LAST-MODIFIED:20261001T221830Z
-SEQUENCE:0
+DTSTAMP:20261031T041809Z
+LAST-MODIFIED:20261031T041809Z
+SEQUENCE:1
 DTSTART:20261115T040000Z
 DTEND:20261115T100000Z
 SUMMARY:OTHERWORLD 5 Year Anniversary
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6abe7d4787e
- 1d10001e5ab10
+DESCRIPTION:Tags: industrial\, techno\nAges: 21+\nhttps://dice.fm/event/6ab
+ e7d4787e1d10001e5ab10\nhttps://link.dice.fm/ow5yrfloyd
 URL:https://dice.fm/event/6abe7d4787e1d10001e5ab10
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:industrial,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abe7eac09571500016a1283@floyd.miami-calendars
@@ -166,34 +166,36 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abe81edcf1f4100017bc3b4@floyd.miami-calendars
-DTSTAMP:20261028T221806Z
-LAST-MODIFIED:20261028T221806Z
-SEQUENCE:1
+DTSTAMP:20261031T041809Z
+LAST-MODIFIED:20261031T041809Z
+SEQUENCE:2
 DTSTART:20261123T040000Z
 DTEND:20261123T100000Z
 SUMMARY:Divorcée: Greg Wilson
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6abe81edcf1
- f4100017bc3b4
+DESCRIPTION:Tags: disco\, electrofunk\, house\nAges: 21+\nhttps://dice.fm/e
+ vent/6abe81edcf1f4100017bc3b4\nhttps://link.dice.fm/divorceefloyd
 URL:https://dice.fm/event/6abe81edcf1f4100017bc3b4
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:disco,electrofunk,house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abe821acf1f4100010d2096@floyd.miami-calendars
-DTSTAMP:20261028T221806Z
-LAST-MODIFIED:20261028T221806Z
-SEQUENCE:2
+DTSTAMP:20261031T041809Z
+LAST-MODIFIED:20261031T041809Z
+SEQUENCE:3
 DTSTART:20261128T040000Z
 DTEND:20261128T100000Z
 SUMMARY:INSULATE: George Smeddles
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: George Smeddles\, Siegel\, Vivi Santana\nTags (guess): 
- house\, techno\nhttps://dice.fm/event/6abe821acf1f4100010d2096\nhttps://ed
- mtrain.com/miami-fl/george-smeddles-siegel-547528
-URL:https://dice.fm/event/6abe821acf1f4100010d2096
+DESCRIPTION:Lineup: George Smeddles\, Siegel\, Vivi Santana\nTags: deep hou
+ se\, jackin house\nAges: 21+\nhttps://dice.fm/event/q235ky-insulate-27th-n
+ ov-floyd-miami-miami-tickets\nhttps://edmtrain.com/miami-fl/george-smeddle
+ s-siegel-547528
+URL:https://dice.fm/event/q235ky-insulate-27th-nov-floyd-miami-miami-ticket
+ s
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:deep house,jackin house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a8f45d3417eef0001651264@floyd.miami-calendars
