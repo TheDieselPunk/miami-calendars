@@ -8,26 +8,19 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:madradiomiami103026@shotgun.live
-DTSTAMP:20261023T161816Z
-LAST-MODIFIED:20261023T161816Z
-SEQUENCE:1
+UID:19hz-4447284-mutantpetejovigi@mad-radio.miami-calendars
+DTSTAMP:20261031T101757Z
+LAST-MODIFIED:20261031T101757Z
+SEQUENCE:0
 DTSTART:20261031T010000Z
 DTEND:20261031T070000Z
 SUMMARY:Mutant Pete / Jovigibs / Extra Andrew
-LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
-DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
- ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
-  our slick radio show serving up the latest tracks. Save the date and cath
-  the urban-chic experience at Mad Radio Miami. See you on the dance floor!
-  Come early\, stay late\, and let the night unfold FREE ENTRY BEFORE 10 PM
-  / FREE ENTRY LADIES UNTIL MIDNIGHT +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
- \nTags: house\nTickets: AFTER 10 PM $20\, FREE LADIES RSVP BEFORE 12 AM Fr
- ee\nAges: 25+\nhttps://shotgun.live/en/events/madradiomiami103026
+LOCATION:Mad Radio
+DESCRIPTION:Tags: house\nAges: 25+\nhttps://shotgun.live/en/events/madradio
+ miami103026
 URL:https://shotgun.live/en/events/madradiomiami103026
 STATUS:CONFIRMED
 CATEGORIES:house
-GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami103126@shotgun.live

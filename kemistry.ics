@@ -8,19 +8,18 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6abc56c1a24952000158beb2@kemistry.miami-calendars
-DTSTAMP:20261017T161817Z
-LAST-MODIFIED:20261017T161817Z
-SEQUENCE:2
+UID:19hz-4447288-fortlauderdaleha@kemistry.miami-calendars
+DTSTAMP:20261031T101757Z
+LAST-MODIFIED:20261031T101757Z
+SEQUENCE:0
 DTSTART:20261031T020000Z
-DTEND:20261031T080000Z
-SUMMARY:HALLOWEEN PARTY
-LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
- 312\, United States
-DESCRIPTION:Tags: edm\, hip-hop\, pop edm\nAges: 18+\nhttps://dice.fm/event
- /6abc56c1a24952000158beb2\nhttps://edmtrain.com/fort-lauderdale-fl/fort-la
- uderdale-halloween-542024\nhttps://posh.vip/e/ftl-halloween-1
-URL:https://dice.fm/event/6abc56c1a24952000158beb2
+DTEND:20261031T060000Z
+SUMMARY:Fort Lauderdale Halloween
+LOCATION:Kemistry\, Fort Lauderdale
+DESCRIPTION:Tags: edm\, hip-hop\, pop edm\nPresented by: Fort Lauderdale'z 
+ Backyard\nAges: 18+\nhttps://posh.vip/e/ftl-halloween-1\nhttps://edmtrain.
+ com/fort-lauderdale-fl/fort-lauderdale-halloween-542024
+URL:https://posh.vip/e/ftl-halloween-1
 STATUS:CONFIRMED
 CATEGORIES:edm,hip-hop,pop edm
 END:VEVENT
@@ -342,6 +341,22 @@ URL:https://dice.fm/event/py3lmy-hamro-22nd-jan-kemistry-fort-lauderdale-ti
  ckets
 STATUS:CONFIRMED
 CATEGORIES:bass music,dubstep
+END:VEVENT
+BEGIN:VEVENT
+UID:dice-6a90ca5b0f25790001832792@kemistry.miami-calendars
+DTSTAMP:20261031T101757Z
+LAST-MODIFIED:20261031T101757Z
+SEQUENCE:0
+DTSTART:20270123T230000Z
+DTEND:20270124T040000Z
+SUMMARY:FREESTYLE CRUISE OFFICIAL PRE-PARTY
+LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
+ 312\, United States
+DESCRIPTION:Tags (guess): bass\, dubstep\nhttps://dice.fm/event/6a90ca5b0f2
+ 5790001832792
+URL:https://dice.fm/event/6a90ca5b0f25790001832792
+STATUS:CONFIRMED
+CATEGORIES:bass,dubstep
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4456120-junkiekid@kemistry.miami-calendars

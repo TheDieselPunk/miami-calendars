@@ -8,15 +8,14 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6aa2fa7b8fd8d8000155bbf4@jolene.miami-calendars
-DTSTAMP:20260922T004038Z
-LAST-MODIFIED:20260922T004038Z
-SEQUENCE:1
+UID:19hz-4447288-alineumberb2bkro@jolene.miami-calendars
+DTSTAMP:20261031T101757Z
+LAST-MODIFIED:20261031T101757Z
+SEQUENCE:0
 DTSTART:20261031T020000Z
 DTEND:20261031T080000Z
-SUMMARY:Aline Umber b2b Krol (All Night Long)
-LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
- a 33131\, United States
+SUMMARY:Aline Umber b2b Krol
+LOCATION:Jolene Downtown
 DESCRIPTION:Tags: funk\, house\, live electronic\nAges: 21+\nhttps://dice.f
  m/event/6aa2fa7b8fd8d8000155bbf4
 URL:https://dice.fm/event/6aa2fa7b8fd8d8000155bbf4

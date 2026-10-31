@@ -9,32 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:tablelist-f10b685adc35d405@zeyzey.miami-calendars
-DTSTAMP:20261001T041824Z
-LAST-MODIFIED:20261001T041824Z
-SEQUENCE:0
+DTSTAMP:20261031T101757Z
+LAST-MODIFIED:20261031T101757Z
+SEQUENCE:1
 DTSTART:20261031T010000Z
 DTEND:20261031T060000Z
 SUMMARY:iLe
 LOCATION:ZeyZey Miami
-DESCRIPTION:https://buy.tablelist.com/e/f10b685adc35d405\nhttps://calendar.
- zeyzeymiami.com/shows/ile-30-oct
+DESCRIPTION:https://buy.tablelist.com/e/f10b685adc35d405
 URL:https://buy.tablelist.com/e/f10b685adc35d405
 STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:zeyzey-salsa-vs-perreo-30-oct@zeyzey.miami-calendars
-DTSTAMP:20261027T221818Z
-LAST-MODIFIED:20261027T221818Z
-SEQUENCE:2
-DTSTART:20261031T023000Z
-DTEND:20261031T070000Z
-SUMMARY:Salsa vs Perreo
-LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: latin\nhttps://calendar.zeyzeymiami.com/shows/salsa-vs-pe
- rreo-30-oct
-URL:https://calendar.zeyzeymiami.com/shows/salsa-vs-perreo-30-oct
-STATUS:CONFIRMED
-CATEGORIES:latin
 END:VEVENT
 BEGIN:VEVENT
 UID:tablelist-7c5e948162a39cd3@zeyzey.miami-calendars
