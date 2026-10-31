@@ -9,16 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4447288-fortlauderdaleha@kemistry.miami-calendars
-DTSTAMP:20261031T101757Z
-LAST-MODIFIED:20261031T101757Z
-SEQUENCE:0
+DTSTAMP:20261031T161758Z
+LAST-MODIFIED:20261031T161758Z
+SEQUENCE:1
 DTSTART:20261031T020000Z
 DTEND:20261031T060000Z
 SUMMARY:Fort Lauderdale Halloween
 LOCATION:Kemistry\, Fort Lauderdale
 DESCRIPTION:Tags: edm\, hip-hop\, pop edm\nPresented by: Fort Lauderdale'z 
- Backyard\nAges: 18+\nhttps://posh.vip/e/ftl-halloween-1\nhttps://edmtrain.
- com/fort-lauderdale-fl/fort-lauderdale-halloween-542024
+ Backyard\nAges: 18+\nhttps://posh.vip/e/ftl-halloween-1
 URL:https://posh.vip/e/ftl-halloween-1
 STATUS:CONFIRMED
 CATEGORIES:edm,hip-hop,pop edm

@@ -2,11 +2,9 @@
  "events": [
   {
    "id": "19hz:4447248-joelcorrysinatse",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Joel Corry | Sin at Sea",
-   "artists": [
-    "Joel Corry"
-   ],
+   "artists": [],
    "venue": "The Shorely At Marina Village",
    "venue_slug": "festivals",
    "date": "2026-10-30",
@@ -23,14 +21,11 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://www.eventbrite.com/e/joel-corry-sin-at-sea-halloween-weekend-at-the-shorely-tickets-2002723474825",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/joel-corry-541995"
-   ]
+   "url": "https://www.eventbrite.com/e/joel-corry-sin-at-sea-halloween-weekend-at-the-shorely-tickets-2002723474825"
   },
   {
    "id": "19hz:4447267-murderonthedance",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Murder On The Dance Floor Halloweekend",
    "artists": [],
    "venue": "Rhythm & Vine",
@@ -46,10 +41,7 @@
    "genres_inferred": false,
    "organizer": "Rhythm + Vine",
    "description": "",
-   "url": "https://www.eventbrite.com/e/murder-on-the-dance-floor-halloweekend-rhythm-vine-tickets-2001249673646",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/murder-on-the-dance-floor-538267"
-   ]
+   "url": "https://www.eventbrite.com/e/murder-on-the-dance-floor-halloweekend-rhythm-vine-tickets-2001249673646"
   },
   {
    "id": "shotgun:halloween-se-7-en",
@@ -81,11 +73,9 @@
   },
   {
    "id": "19hz:4447279-gordo",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Gordo",
-   "artists": [
-    "Gordo"
-   ],
+   "artists": [],
    "venue": "E11even",
    "venue_slug": null,
    "date": "2026-10-30",
@@ -103,18 +93,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://speakeasygo.com/event/EVE-8IJOGR",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/gordo-534725"
-   ]
+   "url": "https://speakeasygo.com/event/EVE-8IJOGR"
   },
   {
    "id": "19hz:4447279-tonyromera",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Tony Romera",
-   "artists": [
-    "Tony Romera"
-   ],
+   "artists": [],
    "venue": "Selva",
    "venue_slug": null,
    "date": "2026-10-30",
@@ -132,14 +117,11 @@
    "genres_inferred": false,
    "organizer": "Selva",
    "description": "",
-   "url": "https://posh.vip/e/tony-romera-selva",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/tony-romera-544224"
-   ]
+   "url": "https://posh.vip/e/tony-romera-selva"
   },
   {
    "id": "19hz:4447279-hallorave",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Hallorave",
    "artists": [],
    "venue": "TBA",
@@ -160,10 +142,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://posh.vip/e/hallowrave-1",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/hallorave-533552"
-   ]
+   "url": "https://posh.vip/e/hallowrave-1"
   },
   {
    "id": "19hz:4447279-breaksyokendallh",
@@ -189,7 +168,7 @@
   },
   {
    "id": "19hz:4447284-nightmareonwynwo",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Nightmare On Wynwood Halloween Festival",
    "artists": [],
    "venue": "Casa Nube Wynwood",
@@ -205,10 +184,7 @@
    "genres_inferred": false,
    "organizer": "Miami'z Backyard",
    "description": "",
-   "url": "https://posh.vip/e/-nightmare-on-wynwood-halloween-festival-",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/nightmare-on-wynwood-halloween-festival-545796"
-   ]
+   "url": "https://posh.vip/e/-nightmare-on-wynwood-halloween-festival-"
   },
   {
    "id": "19hz:4447284-mutantpetejovigi",
@@ -234,12 +210,9 @@
   },
   {
    "id": "19hz:4447284-rooftopsessionsx",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Rooftop Sessions X Discoluminati: Goshfather",
-   "artists": [
-    "Goshfather",
-    "Ricky Fatts"
-   ],
+   "artists": [],
    "venue": "Rooftop 1Wlo",
    "venue_slug": null,
    "date": "2026-10-30",
@@ -255,10 +228,7 @@
    "genres_inferred": false,
    "organizer": "Rooftop 1Wlo X Discoluminati",
    "description": "",
-   "url": "https://posh.vip/e/rooftop-sessions-x-discoluminati-goshfather",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/rooftop-sessions-x-discoluminati-goshfather-547836"
-   ]
+   "url": "https://posh.vip/e/rooftop-sessions-x-discoluminati-goshfather"
   },
   {
    "id": "19hz:4447284-masssignalparami",
@@ -286,11 +256,9 @@
   },
   {
    "id": "19hz:4447284-twistedfunkrecor",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Twisted Funk Records Haunted House Costume Party - Ollie Sanders & Friends",
-   "artists": [
-    "Ollie Sanders"
-   ],
+   "artists": [],
    "venue": "Stache Drinking Den + Coffee Bar",
    "venue_slug": null,
    "date": "2026-10-30",
@@ -309,10 +277,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://www.eventbrite.com/e/twisted-funk-records-haunted-house-costume-party-ollie-sanders-friends-tickets-2003665582695",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/ollie-sanders-546664"
-   ]
+   "url": "https://www.eventbrite.com/e/twisted-funk-records-haunted-house-costume-party-ollie-sanders-friends-tickets-2003665582695"
   },
   {
    "id": "19hz:4447284-miamitechhallowe",
@@ -338,12 +303,9 @@
   },
   {
    "id": "19hz:4447284-thehalloweenxmed",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "The Hall-Oween X Medusa: Polk, Evaristo Caldero, Fela, BIOY, Mateo Paul, Mati Alfonso, Mati Pitton",
-   "artists": [
-    "Polk",
-    "FELA"
-   ],
+   "artists": [],
    "venue": "Upside",
    "venue_slug": null,
    "date": "2026-10-30",
@@ -360,10 +322,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/the-hall-oween-x-medusa",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/the-hall-oween-polk-546718"
-   ]
+   "url": "https://shotgun.live/en/events/the-hall-oween-x-medusa"
   },
   {
    "id": "tablelist:f10b685adc35d405",
@@ -387,11 +346,9 @@
   },
   {
    "id": "19hz:4447288-djpaulyd",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "DJ Pauly D",
-   "artists": [
-    "DJ Pauly D"
-   ],
+   "artists": [],
    "venue": "Daer Nightclub",
    "venue_slug": "daer",
    "date": "2026-10-30",
@@ -407,18 +364,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://www.tixr.com/groups/daernightclubsouthflorida/events/dj-pauly-d-halloween-weekend-daer-nightclub-204541",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/dj-pauly-d-538589"
-   ]
+   "url": "https://www.tixr.com/groups/daernightclubsouthflorida/events/dj-pauly-d-halloween-weekend-daer-nightclub-204541"
   },
   {
    "id": "19hz:4447288-donotsitonhallow",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Do Not Sit On Halloween ft. Mira",
-   "artists": [
-    "Mira"
-   ],
+   "artists": [],
    "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
    "date": "2026-10-30",
@@ -435,10 +387,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6a85c487a9fab30001a240ed",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/mira-533200"
-   ]
+   "url": "https://dice.fm/event/6a85c487a9fab30001a240ed"
   },
   {
    "id": "19hz:4447288-clawzgiohcecatoj",
@@ -487,51 +436,19 @@
    "url": "https://shotgun.live/en/events/boris-oct30"
   },
   {
-   "id": "dice:6aa04779c1a81a00016fe6d6",
-   "source": "19hz+dice+edmtrain",
-   "title": "Hocus Pocus 2026 (Friday Pass)",
-   "artists": [
-    "ANNĒ",
-    "Sol Ortega",
-    "AYYBO",
-    "Azzecca",
-    "Cole Knight",
-    "Berrakka",
-    "Bushbaby",
-    "Caleb Jackson",
-    "Chloé Caillet",
-    "Dax J",
-    "DJ Boring",
-    "ATRIP",
-    "Effy",
-    "Eric Prydz",
-    "Funk Assault",
-    "Gorgon City",
-    "Jordan Brando",
-    "William Kiss",
-    "Lucaz",
-    "Mall Grab",
-    "MALUGI",
-    "Monoky",
-    "Purple Disco Machine",
-    "Raje",
-    "JJ Illgen",
-    "Mendoza",
-    "Rooléh",
-    "Kidoo",
-    "Todd Edwards",
-    "Conducta",
-    "X Club."
-   ],
+   "id": "19hz:4447288-hocuspocus2026",
+   "source": "19hz",
+   "title": "Hocus Pocus 2026",
+   "artists": [],
    "venue": "Factory Town",
    "venue_slug": "factory-town",
    "date": "2026-10-30",
    "start": "2026-10-31T02:00:00+00:00",
    "end": "2026-10-31T11:00:00+00:00",
    "time_estimated": false,
-   "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
+   "address": "",
    "ages": "18+",
-   "price": "From $100",
+   "price": "$190+",
    "genres": [
     "breaks",
     "club",
@@ -546,12 +463,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/eoxxmw-hocus-pocus-2026-3-day-pass-30th-oct-factory-town-miami-tickets",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/event/eoxxmw-hocus-pocus-2026-3-day-pass-30th-oct-factory-town-miami-tickets",
-    "https://edmtrain.com/miami-fl/hocus-pocus-544237"
-   ]
+   "url": "https://dice.fm/event/eoxxmw-hocus-pocus-2026-3-day-pass-30th-oct-factory-town-miami-tickets"
   },
   {
    "id": "19hz:4447288-alineumberb2bkro",
@@ -579,7 +491,7 @@
   },
   {
    "id": "19hz:4447288-fortlauderdaleha",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Fort Lauderdale Halloween",
    "artists": [],
    "venue": "Kemistry",
@@ -599,10 +511,7 @@
    "genres_inferred": false,
    "organizer": "Fort Lauderdale'z Backyard",
    "description": "",
-   "url": "https://posh.vip/e/ftl-halloween-1",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/fort-lauderdale-halloween-542024"
-   ]
+   "url": "https://posh.vip/e/ftl-halloween-1"
   },
   {
    "id": "19hz:4447288-rigopolarmanumat",
@@ -629,7 +538,7 @@
   },
   {
    "id": "19hz:4447288-thedancingdeadha",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "The Dancing Dead: Halloween Extravaganza - Silvio Rodrigues X Deevice, Nico Jones X Sebs C, Redakted X Mav, Inigo X Delgado",
    "artists": [],
    "venue": "M2",
@@ -647,37 +556,11 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/rendezvous1-11",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/the-dancing-dead-halloween-extravaganza-542613"
-   ]
-  },
-  {
-   "id": "shotgun:sarah-tonin-presents-strange-creatures-w-los-refrescos-more",
-   "source": "edmtrain+shotgun",
-   "title": "Sarah Tonin Presents Strange Creatures W Los Refrescos &More",
-   "artists": [],
-   "venue": "Paraiso Estereo",
-   "venue_slug": null,
-   "date": "2026-10-30",
-   "start": "2026-10-31T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/sarah-tonin-presents-strange-creatures-w-los-refrescos-more",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/sarah-tonin-presents-535487"
-   ]
+   "url": "https://shotgun.live/en/events/rendezvous1-11"
   },
   {
    "id": "19hz:4447288-freeacidhallowee",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Free Acid Halloween Edition w/ Un_Mute",
    "artists": [],
    "venue": "The Pickle",
@@ -697,31 +580,22 @@
    "genres_inferred": false,
    "organizer": "The Pickle, Un_Mute Events",
    "description": "",
-   "url": "https://ra.co/events/2527634",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/free-acid-halloween-edition-with-un-mute-546402"
-   ]
+   "url": "https://ra.co/events/2527634"
   },
   {
-   "id": "dice:6a91f44e3fb32f00016121ba",
-   "source": "19hz+dice+edmtrain",
+   "id": "19hz:4447291-halloweekcamelph",
+   "source": "19hz",
    "title": "Halloweek: Camelphat & Volkoder",
-   "artists": [
-    "CamelPhat",
-    "Volkoder",
-    "Danyelino",
-    "Thunderpony",
-    "Will Buck"
-   ],
-   "venue": "Club Space Miami",
+   "artists": [],
+   "venue": "Club Space",
    "venue_slug": "club-space",
    "date": "2026-10-30",
    "start": "2026-10-31T03:00:00+00:00",
    "end": "2026-10-31T18:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": "From $30",
+   "price": "$30+",
    "genres": [
     "deep house",
     "progressive house",
@@ -730,22 +604,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6a91f44e3fb32f00016121ba",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/event/6a91f44e3fb32f00016121ba",
-    "https://edmtrain.com/miami-fl/halloweek-camelphat-531559"
-   ]
+   "url": "https://dice.fm/event/6a91f44e3fb32f00016121ba"
   },
   {
    "id": "19hz:4447291-lprhythmsalomele",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "L.P. Rhythm + Salome Le Chat",
-   "artists": [
-    "L.P. Rhythm",
-    "Salomé le Chat",
-    "Alezsandro"
-   ],
+   "artists": [],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
    "date": "2026-10-30",
@@ -761,20 +626,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/nvxye8-halloweek-lp-rhythm-salom-le-chat-30th-oct-floyd-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/halloweek-l-p-rhythm-536867"
-   ]
+   "url": "https://dice.fm/event/nvxye8-halloweek-lp-rhythm-salom-le-chat-30th-oct-floyd-miami-miami-tickets"
   },
   {
    "id": "tablelist:7c5e948162a39cd3",
-   "source": "19hz+edmtrain+tablelist",
+   "source": "19hz+tablelist",
    "title": "Fleetmac Wood + Horror HiFi",
-   "artists": [
-    "Fleetmac Wood",
-    "Roxanne Roll",
-    "Alex Oxley"
-   ],
+   "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-10-30",
@@ -793,17 +651,14 @@
    "description": "",
    "url": "https://buy.tablelist.com/e/7c5e948162a39cd3",
    "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/fleetmac-wood-horror-hifi-free-entry-30-oct",
-    "https://edmtrain.com/miami-fl/fleetmac-wood-roxanne-roll-524856"
+    "https://calendar.zeyzeymiami.com/shows/fleetmac-wood-horror-hifi-free-entry-30-oct"
    ]
   },
   {
    "id": "19hz:4447294-cristhianbalcaza",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Cristhian Balcazar",
-   "artists": [
-    "Cristhian Balcazar"
-   ],
+   "artists": [],
    "venue": "The Trip",
    "venue_slug": null,
    "date": "2026-10-30",
@@ -819,177 +674,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/av8mgx-cristhian-balcazar-and-friends-30th-oct-the-trip-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/cristhian-balcazar-544035"
-   ]
-  },
-  {
-   "id": "edmtrain:546740",
-   "source": "edmtrain",
-   "title": "AI REHAB: DJen 'Degen' b2b Laraland, Daniel Innov8, Miami Mike, Sebs, Kallil",
-   "artists": [
-    "DJen 'Degen'",
-    "Laraland",
-    "Daniel Innov8",
-    "Miami Mike",
-    "Sebs",
-    "Kallil"
-   ],
-   "venue": "BOHO Miami",
-   "venue_slug": null,
-   "date": "2026-10-30",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "111 NE 20th St, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://luma.com/hq2ep7v1",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/ai-rehab-djen-degen-546740"
-   ]
-  },
-  {
-   "id": "edmtrain:523286",
-   "source": "edmtrain",
-   "title": "Lehar",
-   "artists": [
-    "Lehar"
-   ],
-   "venue": "Do Not Sit On The Furniture",
-   "venue_slug": null,
-   "date": "2026-10-30",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "423 16th St, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "deep house"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/oe83ba?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/lehar-523286"
-   ]
-  },
-  {
-   "id": "edmtrain:538674",
-   "source": "edmtrain",
-   "title": "Boris",
-   "artists": [
-    "Boris"
-   ],
-   "venue": "Edge Miami",
-   "venue_slug": null,
-   "date": "2026-10-30",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "114 NE 20th Terrace, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/boris-oct30?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/boris-nyc-538674"
-   ]
-  },
-  {
-   "id": "edmtrain:548690",
-   "source": "edmtrain",
-   "title": "Friday The 30th halloween Bash: DJ SCHOLAR, Concepts, Housewyfe, Gleb, Rebelz, Bella Vida, Gods Got Us Recs, Chaotic Events, Irina Indigo",
-   "artists": [
-    "DJ SCHOLAR",
-    "Concepts",
-    "Housewyfe",
-    "Gleb",
-    "Rebelz",
-    "Bella Vida",
-    "Gods Got Us Recs",
-    "Chaotic Events",
-    "Irina Indigo"
-   ],
-   "venue": "RedBar",
-   "venue_slug": null,
-   "date": "2026-10-30",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "52 SW 10th St, Miami, FL 33130, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://partiful.com/e/Pqi4UfDB609e6ao8FmdE?c=TZCbyE3k",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/friday-the-30th-halloween-bash-dj-scholar-548690"
-   ]
-  },
-  {
-   "id": "edmtrain:547023",
-   "source": "edmtrain",
-   "title": "DIESEL (Shaquille O'Neal)",
-   "artists": [
-    "DIESEL (Shaquille O'Neal)"
-   ],
-   "venue": "Rock Bar",
-   "venue_slug": null,
-   "date": "2026-10-30",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "219 S Fort Lauderdale Beach Blvd, Fort Lauderdale, FL 33316, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://posh.vip/e/dj-diesel-aka-shaquille-oneal-at-rock-bar?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/diesel-shaquille-oneal-547023"
-   ]
-  },
-  {
-   "id": "edmtrain:543225",
-   "source": "edmtrain",
-   "title": "Paramida, Voigtmann, m.O.N.R.O.E.",
-   "artists": [
-    "Paramida",
-    "Voigtmann",
-    "m.O.N.R.O.E."
-   ],
-   "venue": "Sable Miami",
-   "venue_slug": null,
-   "date": "2026-10-30",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "2219 NW 2nd Ave, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/xe8r23?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/paramida-voigtmann-543225"
-   ]
+   "url": "https://dice.fm/event/av8mgx-cristhian-balcazar-and-friends-30th-oct-the-trip-miami-tickets"
   },
   {
    "id": "19hz:4447300-knowwhatyoudidsp",
@@ -1026,7 +711,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$28.38",
+   "price": "",
    "genres": [
     "deep house",
     "house"
@@ -1234,7 +919,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$34.05",
+   "price": "$39.73",
    "genres": [
     "disco",
     "disco house",
@@ -13529,7 +13214,7 @@
   {
    "id": "zeyzey:danny-kravit-free-entry-26-dec",
    "source": "venue",
-   "title": "Danny Kravit (Free Entry)",
+   "title": "Danny Kravit + Roy David Jr. (Free Entry)",
    "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",

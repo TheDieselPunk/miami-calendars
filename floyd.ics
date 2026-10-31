@@ -9,17 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4447291-lprhythmsalomele@floyd.miami-calendars
-DTSTAMP:20261031T041809Z
-LAST-MODIFIED:20261031T041809Z
-SEQUENCE:0
+DTSTAMP:20261031T161758Z
+LAST-MODIFIED:20261031T161758Z
+SEQUENCE:1
 DTSTART:20261031T030000Z
 DTEND:20261031T090000Z
 SUMMARY:L.P. Rhythm + Salome Le Chat
 LOCATION:Floyd Miami
-DESCRIPTION:Lineup: L.P. Rhythm\, Salomé le Chat\, Alezsandro\nTags: house
- \nAges: 21+\nhttps://dice.fm/event/nvxye8-halloweek-lp-rhythm-salom-le-cha
- t-30th-oct-floyd-miami-miami-tickets\nhttps://edmtrain.com/miami-fl/hallow
- eek-l-p-rhythm-536867
+DESCRIPTION:Tags: house\nAges: 21+\nhttps://dice.fm/event/nvxye8-halloweek-
+ lp-rhythm-salom-le-chat-30th-oct-floyd-miami-miami-tickets
 URL:https://dice.fm/event/nvxye8-halloweek-lp-rhythm-salom-le-chat-30th-oct
  -floyd-miami-miami-tickets
 STATUS:CONFIRMED

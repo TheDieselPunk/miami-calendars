@@ -9,17 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4447288-djpaulyd@daer.miami-calendars
-DTSTAMP:20261031T041809Z
-LAST-MODIFIED:20261031T041809Z
-SEQUENCE:0
+DTSTAMP:20261031T161758Z
+LAST-MODIFIED:20261031T161758Z
+SEQUENCE:1
 DTSTART:20261031T020000Z
 DTEND:20261031T080000Z
 SUMMARY:DJ Pauly D
 LOCATION:Daer Nightclub\, Hollywood
-DESCRIPTION:Lineup: DJ Pauly D\nTags: pop edm\nAges: 21+\nhttps://www.tixr.
- com/groups/daernightclubsouthflorida/events/dj-pauly-d-halloween-weekend-d
- aer-nightclub-204541\nhttps://edmtrain.com/fort-lauderdale-fl/dj-pauly-d-5
- 38589
+DESCRIPTION:Tags: pop edm\nAges: 21+\nhttps://www.tixr.com/groups/daernight
+ clubsouthflorida/events/dj-pauly-d-halloween-weekend-daer-nightclub-204541
 URL:https://www.tixr.com/groups/daernightclubsouthflorida/events/dj-pauly-d
  -halloween-weekend-daer-nightclub-204541
 STATUS:CONFIRMED

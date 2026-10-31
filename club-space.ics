@@ -8,18 +8,16 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a91f44e3fb32f00016121ba@club-space.miami-calendars
-DTSTAMP:20260922T004038Z
-LAST-MODIFIED:20260922T004038Z
-SEQUENCE:2
+UID:19hz-4447291-halloweekcamelph@club-space.miami-calendars
+DTSTAMP:20261031T161758Z
+LAST-MODIFIED:20261031T161758Z
+SEQUENCE:0
 DTSTART:20261031T030000Z
 DTEND:20261031T180000Z
 SUMMARY:Halloweek: Camelphat & Volkoder
-LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: CamelPhat\, Volkoder\, Danyelino\, Thunderpony\, Will B
- uck\nTags: deep house\, progressive house\, tech house\nAges: 21+\nhttps:/
- /dice.fm/event/6a91f44e3fb32f00016121ba\nhttps://edmtrain.com/miami-fl/hal
- loweek-camelphat-531559
+LOCATION:Club Space
+DESCRIPTION:Tags: deep house\, progressive house\, tech house\nAges: 21+\nh
+ ttps://dice.fm/event/6a91f44e3fb32f00016121ba
 URL:https://dice.fm/event/6a91f44e3fb32f00016121ba
 STATUS:CONFIRMED
 CATEGORIES:deep house,progressive house,tech house

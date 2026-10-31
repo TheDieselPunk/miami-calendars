@@ -8,23 +8,18 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6aa04779c1a81a00016fe6d6@factory-town.miami-calendars
-DTSTAMP:20261024T101823Z
-LAST-MODIFIED:20261024T101823Z
-SEQUENCE:5
+UID:19hz-4447288-hocuspocus2026@factory-town.miami-calendars
+DTSTAMP:20261031T161758Z
+LAST-MODIFIED:20261031T161758Z
+SEQUENCE:0
 DTSTART:20261031T020000Z
 DTEND:20261031T110000Z
-SUMMARY:Hocus Pocus 2026 (Friday Pass)
-LOCATION:Factory Town\, 4800 NW 37th Ave\, Miami\, FL 33142\, USA
-DESCRIPTION:Lineup: ANNĒ\, Sol Ortega\, AYYBO\, Azzecca\, Cole Knight\, Be
- rrakka\, Bushbaby\, Caleb Jackson\, Chloé Caillet\, Dax J\, DJ Boring\, A
- TRIP\, Effy\, Eric Prydz\, Funk Assault\, Gorgon City\, Jordan Brando\, Wi
- lliam Kiss\, Lucaz\, Mall Grab\, MALUGI\, Monoky\, Purple Disco Machine\, 
- Raje\, JJ Illgen\, Mendoza\, Rooléh\, Kidoo\, Todd Edwards\, Conducta\, X
-  Club.\nTags: breaks\, club\, disco\, drum and bass\, electro\, progressiv
- e house\, tech house\, techno\, uk garage\nAges: 18+\nhttps://dice.fm/even
- t/eoxxmw-hocus-pocus-2026-3-day-pass-30th-oct-factory-town-miami-tickets\n
- https://edmtrain.com/miami-fl/hocus-pocus-544237
+SUMMARY:Hocus Pocus 2026
+LOCATION:Factory Town
+DESCRIPTION:Tags: breaks\, club\, disco\, drum and bass\, electro\, progres
+ sive house\, tech house\, techno\, uk garage\nAges: 18+\nhttps://dice.fm/e
+ vent/eoxxmw-hocus-pocus-2026-3-day-pass-30th-oct-factory-town-miami-ticket
+ s
 URL:https://dice.fm/event/eoxxmw-hocus-pocus-2026-3-day-pass-30th-oct-facto
  ry-town-miami-tickets
 STATUS:CONFIRMED

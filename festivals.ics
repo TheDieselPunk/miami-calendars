@@ -9,17 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4447248-joelcorrysinatse@festivals.miami-calendars
-DTSTAMP:20261017T161817Z
-LAST-MODIFIED:20261017T161817Z
-SEQUENCE:0
+DTSTAMP:20261031T161758Z
+LAST-MODIFIED:20261031T161758Z
+SEQUENCE:1
 DTSTART:20261030T160000Z
 DTEND:20261030T180000Z
 SUMMARY:Joel Corry | Sin at Sea
 LOCATION:The Shorely At Marina Village\, Fort Lauderdale
-DESCRIPTION:Lineup: Joel Corry\nTags: house\, pop edm\nAges: 21+\nhttps://w
- ww.eventbrite.com/e/joel-corry-sin-at-sea-halloween-weekend-at-the-shorely
- -tickets-2002723474825\nhttps://edmtrain.com/fort-lauderdale-fl/joel-corry
- -541995
+DESCRIPTION:Tags: house\, pop edm\nAges: 21+\nhttps://www.eventbrite.com/e/
+ joel-corry-sin-at-sea-halloween-weekend-at-the-shorely-tickets-20027234748
+ 25
 URL:https://www.eventbrite.com/e/joel-corry-sin-at-sea-halloween-weekend-at
  -the-shorely-tickets-2002723474825
 STATUS:CONFIRMED
@@ -27,31 +26,30 @@ CATEGORIES:house,pop edm
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4447279-hallorave@festivals.miami-calendars
-DTSTAMP:20260921T214009Z
-LAST-MODIFIED:20260921T214009Z
-SEQUENCE:0
+DTSTAMP:20261031T161758Z
+LAST-MODIFIED:20261031T161758Z
+SEQUENCE:1
 DTSTART:20261031T000000Z
 DTEND:20261031T060000Z
 SUMMARY:Hallorave
 LOCATION:TBA
 DESCRIPTION:Tags: drum and bass\, jungle\, uk bass\, uk garage\nhttps://pos
- h.vip/e/hallowrave-1\nhttps://edmtrain.com/miami-fl/hallorave-533552
+ h.vip/e/hallowrave-1
 URL:https://posh.vip/e/hallowrave-1
 STATUS:CONFIRMED
 CATEGORIES:drum and bass,jungle,uk bass,uk garage
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4447284-nightmareonwynwo@festivals.miami-calendars
-DTSTAMP:20261023T161816Z
-LAST-MODIFIED:20261023T161816Z
-SEQUENCE:0
+DTSTAMP:20261031T161758Z
+LAST-MODIFIED:20261031T161758Z
+SEQUENCE:1
 DTSTART:20261031T010000Z
 DTEND:20261031T080000Z
 SUMMARY:Nightmare On Wynwood Halloween Festival
 LOCATION:Casa Nube Wynwood
 DESCRIPTION:Presented by: Miami'z Backyard\nAges: 18+\nhttps://posh.vip/e/-
- nightmare-on-wynwood-halloween-festival-\nhttps://edmtrain.com/miami-fl/ni
- ghtmare-on-wynwood-halloween-festival-545796
+ nightmare-on-wynwood-halloween-festival-
 URL:https://posh.vip/e/-nightmare-on-wynwood-halloween-festival-
 STATUS:CONFIRMED
 END:VEVENT

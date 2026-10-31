@@ -22,17 +22,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:tablelist-7c5e948162a39cd3@zeyzey.miami-calendars
-DTSTAMP:20261001T041824Z
-LAST-MODIFIED:20261001T041824Z
-SEQUENCE:0
+DTSTAMP:20261031T161758Z
+LAST-MODIFIED:20261031T161758Z
+SEQUENCE:1
 DTSTART:20261031T030000Z
 DTEND:20261031T060000Z
 SUMMARY:Fleetmac Wood + Horror HiFi
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: Fleetmac Wood\, Roxanne Roll\, Alex Oxley\nTags: disco
- \, funk\nAges: All ages\nhttps://buy.tablelist.com/e/7c5e948162a39cd3\nhtt
- ps://calendar.zeyzeymiami.com/shows/fleetmac-wood-horror-hifi-free-entry-3
- 0-oct\nhttps://edmtrain.com/miami-fl/fleetmac-wood-roxanne-roll-524856
+DESCRIPTION:Tags: disco\, funk\nAges: All ages\nhttps://buy.tablelist.com/e
+ /7c5e948162a39cd3\nhttps://calendar.zeyzeymiami.com/shows/fleetmac-wood-ho
+ rror-hifi-free-entry-30-oct
 URL:https://buy.tablelist.com/e/7c5e948162a39cd3
 STATUS:CONFIRMED
 CATEGORIES:disco,funk
@@ -781,12 +780,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-danny-kravit-free-entry-26-dec@zeyzey.miami-calendars
-DTSTAMP:20261029T161812Z
-LAST-MODIFIED:20261029T161812Z
-SEQUENCE:0
+DTSTAMP:20261031T161758Z
+LAST-MODIFIED:20261031T161758Z
+SEQUENCE:1
 DTSTART:20261227T020000Z
 DTEND:20261227T060000Z
-SUMMARY:Danny Kravit (Free Entry)
+SUMMARY:Danny Kravit + Roy David Jr. (Free Entry)
 LOCATION:ZeyZey Miami
 DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
  danny-kravit-free-entry-26-dec
