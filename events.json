@@ -56,13 +56,13 @@
    "time_estimated": false,
    "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
    "ages": "",
-   "price": "$59.75",
+   "price": "",
    "genres": [],
    "genres_inferred": false,
    "organizer": "The Boombox Miami",
    "description": "BOOMBOX SE7EN YEAR ANNIVERSARY Two nights. Two stages. 30+ acts. We’re celebrating 7 years of BOOMBOX with a massive Halloween weekend featuring some of Miami’s best underground sounds. With OMNI SOUND SPACE, EQUINOX BOOKING, FLORIDA GLOSS, and SAY TECH AND SMILE. OCTOBER 30 & 31 18+ Must bring physical ID's Photos of ID's will NOT be accepted Rain or Shine",
    "url": "https://shotgun.live/en/events/halloween-se-7-en",
-   "tickets": "2-DAY PASS (EARLY BIRD) $30 (sold out), SATURDAY OCT 31TH (SINGLE DAY PASS) - EARLY BIRD $20 (sold out), 2-DAY PASS $40 (sold out), 2-DAY PASS - LAST CHANCE $50, SATURDAY OCT 31TH (SINGLE DAY PASS) $30 (sold out), SATURDAY OCT 31TH (SINGLE DAY PASS) - LAST CHANCE $35 (sold out)",
+   "tickets": "2-DAY PASS (EARLY BIRD) $30 (sold out), SATURDAY OCT 31TH (SINGLE DAY PASS) - EARLY BIRD $20 (sold out), 2-DAY PASS $40 (sold out), 2-DAY PASS - LAST CHANCE $50 (sold out), SATURDAY OCT 31TH (SINGLE DAY PASS) $30 (sold out), SATURDAY OCT 31TH (SINGLE DAY PASS) - LAST CHANCE $35 (sold out)",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -699,29 +699,6 @@
    "url": "https://ra.co/events/2571011"
   },
   {
-   "id": "shotgun:daybreaker-halloween",
-   "source": "shotgun",
-   "title": "Daybreaker Halloween",
-   "artists": [],
-   "venue": "EDGE Miami",
-   "venue_slug": null,
-   "date": "2026-10-31",
-   "start": "2026-10-31T14:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "deep house",
-    "house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/daybreaker-halloween"
-  },
-  {
    "id": "hardrock:204543",
    "source": "19hz+edmtrain+venue",
    "title": "Marco Ninni",
@@ -835,7 +812,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "Free",
+   "price": "",
    "genres": [
     "acid house",
     "tech house",
@@ -900,7 +877,6 @@
    "description": "",
    "url": "https://buy.tablelist.com/e/cb59f6b1c057040a",
    "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/golden-a-k-pop-kids-party-31-oct",
     "https://calendar.zeyzeymiami.com/shows/mark-farina-s-mushroom-jazz-halloween-edition-31-oct",
     "https://calendar.zeyzeymiami.com/shows/mark-farina-s-mushroom-jazz-halloween-edition-31-oct",
     "https://edmtrain.com/miami-fl/mark-farina-nutritious-524906"
@@ -996,7 +972,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$79.45",
+   "price": "$56.75",
    "genres": [
     "afro house",
     "deep house",
@@ -1048,7 +1024,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "18+",
-   "price": "$15.00",
+   "price": "$20.00",
    "genres": [
     "bass house",
     "bass music",
@@ -1434,7 +1410,7 @@
    "time_estimated": false,
    "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "",
-   "price": "From $26",
+   "price": "From $51",
    "genres": [
     "bass",
     "dubstep"
@@ -1478,7 +1454,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$22.70",
+   "price": "$20.00",
    "genres": [
     "house",
     "tech house"
