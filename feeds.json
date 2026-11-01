@@ -3,7 +3,7 @@
   "slug": "club-space",
   "name": "Club Space",
   "file": "club-space.ics",
-  "events": 20,
+  "events": 21,
   "estimated_times": 2,
   "next": "2026-10-31",
   "sources": [
@@ -58,9 +58,9 @@
   "slug": "factory-town",
   "name": "Factory Town",
   "file": "factory-town.ics",
-  "events": 9,
+  "events": 8,
   "estimated_times": 0,
-  "next": "2026-10-31",
+  "next": "2026-11-01",
   "sources": [
    "19hz",
    "dice",
@@ -72,9 +72,9 @@
   "slug": "kemistry",
   "name": "Kemistry (Fort Lauderdale)",
   "file": "kemistry.ics",
-  "events": 21,
+  "events": 20,
   "estimated_times": 1,
-  "next": "2026-10-31",
+  "next": "2026-11-06",
   "sources": [
    "19hz",
    "dice",
@@ -121,8 +121,7 @@
   "estimated_times": 0,
   "next": "2026-10-31",
   "sources": [
-   "19hz",
-   "edmtrain"
+   "19hz"
   ],
   "hours_note": "Observed on Shotgun: 9 PM-3 AM every night."
  },

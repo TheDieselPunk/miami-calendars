@@ -9,17 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4447344-marconinni@daer.miami-calendars
-DTSTAMP:20261101T041756Z
-LAST-MODIFIED:20261101T041756Z
-SEQUENCE:0
+DTSTAMP:20261101T161749Z
+LAST-MODIFIED:20261101T161749Z
+SEQUENCE:1
 DTSTART:20261031T160000Z
 DTEND:20261031T230000Z
 SUMMARY:Marco Ninni
 LOCATION:Daer Dayclub\, Hollywood
-DESCRIPTION:Lineup: Marco Ninni\nTags: edm\, house\nAges: 21+\nhttps://www.
- tixr.com/groups/daerdayclubsouthflorida/events/halloween-saturday-october-
- 31st-daer-dayclub-204543\nhttps://edmtrain.com/fort-lauderdale-fl/marco-ni
- nni-548904
+DESCRIPTION:Tags: edm\, house\nAges: 21+\nhttps://www.tixr.com/groups/daerd
+ ayclubsouthflorida/events/halloween-saturday-october-31st-daer-dayclub-204
+ 543
 URL:https://www.tixr.com/groups/daerdayclubsouthflorida/events/halloween-sa
  turday-october-31st-daer-dayclub-204543
 STATUS:CONFIRMED
@@ -27,17 +26,16 @@ CATEGORIES:edm,house
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4447384-laszewo@daer.miami-calendars
-DTSTAMP:20261101T041756Z
-LAST-MODIFIED:20261101T041756Z
-SEQUENCE:0
+DTSTAMP:20261101T161749Z
+LAST-MODIFIED:20261101T161749Z
+SEQUENCE:1
 DTSTART:20261101T020000Z
 DTEND:20261101T090000Z
 SUMMARY:Laszewo
 LOCATION:Daer Nightclub\, Hollywood
-DESCRIPTION:Lineup: Łaszewo\nTags: house\, pop edm\, synthpop\nAges: 21+\n
- https://www.tixr.com/groups/daernightclubsouthflorida/events/-aszewo-hallo
- ween-daer-nightclub-204542\nhttps://edmtrain.com/fort-lauderdale-fl/aszewo
- -531796
+DESCRIPTION:Tags: house\, pop edm\, synthpop\nAges: 21+\nhttps://www.tixr.c
+ om/groups/daernightclubsouthflorida/events/-aszewo-halloween-daer-nightclu
+ b-204542
 URL:https://www.tixr.com/groups/daernightclubsouthflorida/events/-aszewo-ha
  lloween-daer-nightclub-204542
 STATUS:CONFIRMED

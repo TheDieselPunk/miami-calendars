@@ -9,17 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4447368-markfarinasmushr@zeyzey.miami-calendars
-DTSTAMP:20261101T101757Z
-LAST-MODIFIED:20261101T101757Z
-SEQUENCE:0
+DTSTAMP:20261101T161749Z
+LAST-MODIFIED:20261101T161749Z
+SEQUENCE:1
 DTSTART:20261031T220000Z
 DTEND:20261101T073000Z
 SUMMARY:Mark Farina's Mushroom Jazz - Halloween Edition w/ Nutritious
 LOCATION:Zeyzey
-DESCRIPTION:Lineup: Mark Farina\, Nutritious\nTags: beats\, downtempo\, hip
- -hop\nPresented by: Liquid Culture Records\nAges: 18+\nhttps://calendar.ze
- yzeymiami.com/shows/mark-farina-s-mushroom-jazz-halloween-edition-31-oct\n
- https://edmtrain.com/miami-fl/mark-farina-nutritious-524906
+DESCRIPTION:Tags: beats\, downtempo\, hip-hop\nPresented by: Liquid Culture
+  Records\nAges: 18+\nhttps://calendar.zeyzeymiami.com/shows/mark-farina-s-
+ mushroom-jazz-halloween-edition-31-oct
 URL:https://calendar.zeyzeymiami.com/shows/mark-farina-s-mushroom-jazz-hall
  oween-edition-31-oct
 STATUS:CONFIRMED

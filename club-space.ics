@@ -8,26 +8,40 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a91f5e0a0dc520001e3fe2f@club-space.miami-calendars
-DTSTAMP:20261101T041756Z
-LAST-MODIFIED:20261101T041756Z
-SEQUENCE:5
+UID:19hz-4447387-halloweekbedouin@club-space.miami-calendars
+DTSTAMP:20261101T161749Z
+LAST-MODIFIED:20261101T161749Z
+SEQUENCE:0
 DTSTART:20261101T030000Z
 DTEND:20261101T190000Z
 SUMMARY:Halloweek: Bedouin + Seth Troxler b2b Victor Calderone + Jamback b2
  b Toman
-LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Bedouin\, Seth Troxler\, Victor Calderone\, Jamback\, T
- oman\nTags: baile funk\, bass music\, dembow\, progressive house\, reggaet
- on\, tech house\, techno\nAges: 21+\nhttps://dice.fm/event/bbglrx-hallowee
- k-bedouin-seth-troxler-b2b-victor-calderone-jamback-b2b-toman-31st-oct-clu
- b-space-miami-miami-tickets\nhttps://edmtrain.com/miami-fl/halloweek-bedou
- in-531560
+LOCATION:Club Space
+DESCRIPTION:Tags: progressive house\, tech house\nAges: 21+\nhttps://dice.f
+ m/event/bbglrx-halloweek-bedouin-seth-troxler-b2b-victor-calderone-jamback
+ -b2b-toman-31st-oct-club-space-miami-miami-tickets
 URL:https://dice.fm/event/bbglrx-halloweek-bedouin-seth-troxler-b2b-victor-
  calderone-jamback-b2b-toman-31st-oct-club-space-miami-miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:baile funk,bass music,dembow,progressive house,reggaeton,tech ho
- use,techno
+CATEGORIES:progressive house,tech house
+END:VEVENT
+BEGIN:VEVENT
+UID:19hz-4447387-perreodelfuturot@club-space.miami-calendars
+DTSTAMP:20261101T161749Z
+LAST-MODIFIED:20261101T161749Z
+SEQUENCE:0
+DTSTART:20261101T030000Z
+DTEND:20261101T110000Z
+SUMMARY:Perreo Del Futuro: TSVI / Anunaku\, Manuka Honey\, yung_womb\, Mara
+ cuya\, SATURNSARii\, Mr. Bitch
+LOCATION:The Ground At Club Space
+DESCRIPTION:Tags: baile funk\, bass music\, dembow\, reggaeton\, techno\nAg
+ es: 21+\nhttps://dice.fm/event/g58ww5-perreo-del-futuro-halloween-31st-oct
+ -the-ground-miami-miami-tickets
+URL:https://dice.fm/event/g58ww5-perreo-del-futuro-halloween-31st-oct-the-g
+ round-miami-miami-tickets
+STATUS:CONFIRMED
+CATEGORIES:baile funk,bass music,dembow,reggaeton,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a91f7bca0dc520001e02d08@club-space.miami-calendars

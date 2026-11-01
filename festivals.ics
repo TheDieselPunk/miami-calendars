@@ -9,17 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4447368-feddelegrandship@festivals.miami-calendars
-DTSTAMP:20261017T161817Z
-LAST-MODIFIED:20261017T161817Z
-SEQUENCE:0
+DTSTAMP:20261101T161749Z
+LAST-MODIFIED:20261101T161749Z
+SEQUENCE:1
 DTSTART:20261031T220000Z
 DTEND:20261101T090000Z
 SUMMARY:Fedde Le Grand | Shipwrecked Halloween
 LOCATION:The Shorely At Marina Village\, Fort Lauderdale
-DESCRIPTION:Lineup: Fedde Le Grand\nTags: house\nAges: 21+\nhttps://www.eve
- ntbrite.com/e/fedde-le-grand-shipwrecked-halloween-weekend-at-the-shorely-
- tickets-2002959594064\nhttps://edmtrain.com/fort-lauderdale-fl/fedde-le-gr
- and-543280
+DESCRIPTION:Tags: house\nAges: 21+\nhttps://www.eventbrite.com/e/fedde-le-g
+ rand-shipwrecked-halloween-weekend-at-the-shorely-tickets-2002959594064
 URL:https://www.eventbrite.com/e/fedde-le-grand-shipwrecked-halloween-weeke
  nd-at-the-shorely-tickets-2002959594064
 STATUS:CONFIRMED
@@ -27,17 +25,15 @@ CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4447380-zoey808x9b49hall@festivals.miami-calendars
-DTSTAMP:20261004T221819Z
-LAST-MODIFIED:20261004T221819Z
-SEQUENCE:0
+DTSTAMP:20261101T161749Z
+LAST-MODIFIED:20261101T161749Z
+SEQUENCE:1
 DTSTART:20261101T010000Z
 DTEND:20261101T090000Z
 SUMMARY:Zoey808 X 9B49 Halloween Festival
 LOCATION:Backyard Ftl\, Fort Lauderdale
-DESCRIPTION:Lineup: Zoey808\, 9B49\nTags: edm\, house\nPresented by: Paradi
- se\nhttps://posh.vip/e/paradise-presents-zoey808-x-9b49-halloween-festival
- -at-backyard-ftl\nhttps://edmtrain.com/fort-lauderdale-fl/zoey808-9b49-539
- 000
+DESCRIPTION:Tags: edm\, house\nPresented by: Paradise\nhttps://posh.vip/e/p
+ aradise-presents-zoey808-x-9b49-halloween-festival-at-backyard-ftl
 URL:https://posh.vip/e/paradise-presents-zoey808-x-9b49-halloween-festival-
  at-backyard-ftl
 STATUS:CONFIRMED
