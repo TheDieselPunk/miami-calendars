@@ -94,10 +94,10 @@ CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-com-truise-06-nov@zeyzey.miami-calendars
-DTSTAMP:20260921T235357Z
-LAST-MODIFIED:20260921T235357Z
-SEQUENCE:1
-DTSTART:20261107T020000Z
+DTSTAMP:20261101T221749Z
+LAST-MODIFIED:20261101T221749Z
+SEQUENCE:2
+DTSTART:20261107T030000Z
 DTEND:20261107T080000Z
 SUMMARY:Com Truise
 LOCATION:ZeyZey Miami
@@ -229,9 +229,9 @@ CATEGORIES:deep house,house,progressive house,r&b/soul
 END:VEVENT
 BEGIN:VEVENT
 UID:beiruttomiami1@shotgun.live
-DTSTAMP:20261101T101757Z
-LAST-MODIFIED:20261101T101757Z
-SEQUENCE:6
+DTSTAMP:20261101T221749Z
+LAST-MODIFIED:20261101T221749Z
+SEQUENCE:7
 DTSTART:20261115T040000Z
 DTEND:20261115T080000Z
 SUMMARY:Beirut Nights In Presents: Beirut To Miami
@@ -253,14 +253,14 @@ DESCRIPTION:Beirut Nights In Presents: Beirut to Miami! Immerse yourself in
  ultural heritage. Music: Anthony Raad & Mark Azar Doors open @ 11 PM 21+ N
  o refunds\nTags: afro house\, arabic house\, arabic pop\, indie/alternativ
  e\nPresented by: BEIRUT NIGHTS IN\nTickets: General Admission - Early Bird
-  $25 (sold out)\, General Admission - Early Bird $30 (sold out)\, VIP Tabl
- e for 6 People - $750 Minimum Spend $150\, General Admission - Tier 2 $35
- \, VIP Table for 8 People - $1000 Minimum Spend $200\, VIP Table for 10 Pe
- ople - $1500 Minimum Spend $250\nhttps://shotgun.live/en/events/beiruttomi
- ami1\nhttps://buy.tablelist.com/e/3f6b13fd54147268\nhttps://buy.tablelist.
- com/e/685c26ba1136eddc\nhttps://calendar.zeyzeymiami.com/shows/beirut-nigh
- ts-in-14-nov\nhttps://calendar.zeyzeymiami.com/shows/dj-paypal-14-nov\nhtt
- ps://calendar.zeyzeymiami.com/shows/tul8te-world-tour-14-nov
+  $30 (sold out)\, VIP Table for 6 People - $750 Minimum Spend $150\, Gener
+ al Admission - Tier 2 $35\, VIP Table for 8 People - $1000 Minimum Spend $
+ 200\, VIP Table for 10 People - $1500 Minimum Spend $250\nhttps://shotgun.
+ live/en/events/beiruttomiami1\nhttps://buy.tablelist.com/e/3f6b13fd5414726
+ 8\nhttps://buy.tablelist.com/e/685c26ba1136eddc\nhttps://calendar.zeyzeymi
+ ami.com/shows/beirut-nights-in-14-nov\nhttps://calendar.zeyzeymiami.com/sh
+ ows/dj-paypal-14-nov\nhttps://calendar.zeyzeymiami.com/shows/tul8te-world-
+ tour-14-nov
 URL:https://shotgun.live/en/events/beiruttomiami1
 STATUS:CONFIRMED
 CATEGORIES:afro house,arabic house,arabic pop,indie/alternative

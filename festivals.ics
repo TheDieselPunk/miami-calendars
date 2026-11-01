@@ -71,6 +71,21 @@ STATUS:CONFIRMED
 CATEGORIES:hard techno
 END:VEVENT
 BEGIN:VEVENT
+UID:churchill-s-pub-november-8th@shotgun.live
+DTSTAMP:20261101T221749Z
+LAST-MODIFIED:20261101T221749Z
+SEQUENCE:0
+DTSTART:20261109T010000Z
+DTEND:20261109T060000Z
+SUMMARY:Churchill's Pub November 8th
+LOCATION:Miami
+DESCRIPTION:Tags: hardcore\, rock\, metal\nhttps://shotgun.live/en/events/c
+ hurchill-s-pub-november-8th
+URL:https://shotgun.live/en/events/churchill-s-pub-november-8th
+STATUS:CONFIRMED
+CATEGORIES:hardcore,rock,metal
+END:VEVENT
+BEGIN:VEVENT
 UID:the-hall-pres-roy-rosenfeld@shotgun.live
 DTSTAMP:20261015T101822Z
 LAST-MODIFIED:20261015T101822Z
