@@ -8,22 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4447288-clawzgiohcecatoj@domicile.miami-calendars
-DTSTAMP:20261017T161817Z
-LAST-MODIFIED:20261017T161817Z
-SEQUENCE:0
-DTSTART:20261031T020000Z
-DTEND:20261031T090000Z
-SUMMARY:Clawz\, Gioh Cecato\, Jay Toledo\, Naomi Luna
-LOCATION:Domicile
-DESCRIPTION:Tags: big room techno\, hard techno\nAges: 18+\nhttps://dice.fm
- /event/k62a6q-halloween-blood-rave-30th-oct-domicile-miami-miami-tickets
-URL:https://dice.fm/event/k62a6q-halloween-blood-rave-30th-oct-domicile-mia
- mi-miami-tickets
-STATUS:CONFIRMED
-CATEGORIES:big room techno,hard techno
-END:VEVENT
-BEGIN:VEVENT
 UID:19hz-4447384-leklownantimatte@domicile.miami-calendars
 DTSTAMP:20261017T161817Z
 LAST-MODIFIED:20261017T161817Z

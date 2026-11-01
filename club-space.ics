@@ -8,39 +8,26 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4447291-halloweekcamelph@club-space.miami-calendars
-DTSTAMP:20261031T161758Z
-LAST-MODIFIED:20261031T161758Z
-SEQUENCE:0
-DTSTART:20261031T030000Z
-DTEND:20261031T180000Z
-SUMMARY:Halloweek: Camelphat & Volkoder
-LOCATION:Club Space
-DESCRIPTION:Tags: deep house\, progressive house\, tech house\nAges: 21+\nh
- ttps://dice.fm/event/6a91f44e3fb32f00016121ba
-URL:https://dice.fm/event/6a91f44e3fb32f00016121ba
-STATUS:CONFIRMED
-CATEGORIES:deep house,progressive house,tech house
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6a91f5e0a0dc520001e3fe2f@club-space.miami-calendars
-DTSTAMP:20261004T221819Z
-LAST-MODIFIED:20261004T221819Z
-SEQUENCE:4
+DTSTAMP:20261101T041756Z
+LAST-MODIFIED:20261101T041756Z
+SEQUENCE:5
 DTSTART:20261101T030000Z
 DTEND:20261101T190000Z
 SUMMARY:Halloweek: Bedouin + Seth Troxler b2b Victor Calderone + Jamback b2
  b Toman
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
 DESCRIPTION:Lineup: Bedouin\, Seth Troxler\, Victor Calderone\, Jamback\, T
- oman\nTags: progressive house\, tech house\nAges: 21+\nhttps://dice.fm/eve
- nt/bbglrx-halloweek-bedouin-seth-troxler-b2b-victor-calderone-jamback-b2b-
- toman-31st-oct-club-space-miami-miami-tickets\nhttps://edmtrain.com/miami-
- fl/halloweek-bedouin-531560
+ oman\nTags: baile funk\, bass music\, dembow\, progressive house\, reggaet
+ on\, tech house\, techno\nAges: 21+\nhttps://dice.fm/event/bbglrx-hallowee
+ k-bedouin-seth-troxler-b2b-victor-calderone-jamback-b2b-toman-31st-oct-clu
+ b-space-miami-miami-tickets\nhttps://edmtrain.com/miami-fl/halloweek-bedou
+ in-531560
 URL:https://dice.fm/event/bbglrx-halloweek-bedouin-seth-troxler-b2b-victor-
  calderone-jamback-b2b-toman-31st-oct-club-space-miami-miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:progressive house,tech house
+CATEGORIES:baile funk,bass music,dembow,progressive house,reggaeton,tech ho
+ use,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a91f7bca0dc520001e02d08@club-space.miami-calendars
