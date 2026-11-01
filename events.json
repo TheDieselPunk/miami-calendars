@@ -122,30 +122,6 @@
    "url": "https://www.eventbrite.com/e/murder-on-the-dance-floor-halloweekend-rhythm-vine-tickets-2001249673646"
   },
   {
-   "id": "shotgun:halloween-party-at-the-sound-library",
-   "source": "shotgun",
-   "title": "Halloween Party At The Sound Library",
-   "artists": [],
-   "venue": "The Sound Library Miami – Kava, Tea & Live Music",
-   "venue_slug": null,
-   "date": "2026-10-31",
-   "start": "2026-10-31T21:30:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "acid house",
-    "tech house",
-    "afro house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/halloween-party-at-the-sound-library"
-  },
-  {
    "id": "19hz:4447368-feddelegrandship",
    "source": "19hz+edmtrain",
    "title": "Fedde Le Grand | Shipwrecked Halloween",
@@ -173,34 +149,32 @@
    ]
   },
   {
-   "id": "tablelist:cb59f6b1c057040a",
-   "source": "19hz+edmtrain+tablelist+venue",
-   "title": "Mark Farina’s Mushroom Jazz",
+   "id": "19hz:4447368-markfarinasmushr",
+   "source": "19hz+edmtrain",
+   "title": "Mark Farina's Mushroom Jazz - Halloween Edition w/ Nutritious",
    "artists": [
     "Mark Farina",
     "Nutritious"
    ],
-   "venue": "ZeyZey Miami",
+   "venue": "Zeyzey",
    "venue_slug": "zeyzey",
    "date": "2026-10-31",
    "start": "2026-10-31T22:00:00+00:00",
-   "end": "2026-11-01T04:00:00+00:00",
+   "end": "2026-11-01T07:30:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "18+",
-   "price": "Free",
+   "price": "free w/rsvp b4 11pm / $25+",
    "genres": [
     "beats",
     "downtempo",
     "hip-hop"
    ],
    "genres_inferred": false,
-   "organizer": "",
+   "organizer": "Liquid Culture Records",
    "description": "",
-   "url": "https://buy.tablelist.com/e/cb59f6b1c057040a",
+   "url": "https://calendar.zeyzeymiami.com/shows/mark-farina-s-mushroom-jazz-halloween-edition-31-oct",
    "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/mark-farina-s-mushroom-jazz-halloween-edition-31-oct",
-    "https://calendar.zeyzeymiami.com/shows/mark-farina-s-mushroom-jazz-halloween-edition-31-oct",
     "https://edmtrain.com/miami-fl/mark-farina-nutritious-524906"
    ]
   },
@@ -272,9 +246,9 @@
    "url": "https://speakeasygo.com/event/EVE-1IN495"
   },
   {
-   "id": "shotgun:soundtuarydiadelosmuertos",
-   "source": "19hz+edmtrain+shotgun",
-   "title": "Día De Los Muertos X Lunasol",
+   "id": "19hz:4447375-diadelosmuertosa",
+   "source": "19hz+edmtrain",
+   "title": "Dia De Los Muertos: Apache, Jesse Perez, Gaeb, Ramonis, Marcela Preziosi",
    "artists": [
     "Apache",
     "Jesse Perez",
@@ -288,11 +262,9 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$79.45",
+   "price": "$20-120",
    "genres": [
     "afro house",
-    "deep house",
-    "house",
     "progressive house",
     "tech house"
    ],
@@ -301,7 +273,6 @@
    "description": "",
    "url": "https://shotgun.live/en/events/soundtuarydiadelosmuertos",
    "alt_urls": [
-    "https://shotgun.live/en/events/soundtuarydiadelosmuertos",
     "https://edmtrain.com/miami-fl/dia-de-los-muertos-x-lunasol-apache-544409"
    ]
   },
@@ -328,8 +299,8 @@
    "url": "https://posh.vip/e/halloween-selva"
   },
   {
-   "id": "shotgun:twisted",
-   "source": "19hz+shotgun",
+   "id": "19hz:4447375-twisted",
+   "source": "19hz",
    "title": "Twisted",
    "artists": [],
    "venue": "Thank You Miami Cocina & Beer House",
@@ -340,7 +311,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "18+",
-   "price": "$20.00",
+   "price": "$13.22-26.43",
    "genres": [
     "bass house",
     "bass music",
@@ -349,12 +320,9 @@
     "techno"
    ],
    "genres_inferred": false,
-   "organizer": "",
+   "organizer": "Calibrate",
    "description": "",
-   "url": "https://shotgun.live/en/events/twisted",
-   "alt_urls": [
-    "https://shotgun.live/en/events/twisted"
-   ]
+   "url": "https://shotgun.live/en/events/twisted"
   },
   {
    "id": "19hz:4447380-luckyhausbowotco",
@@ -408,8 +376,8 @@
    ]
   },
   {
-   "id": "shotgun:nights-in-necropolis-presents-necrodanse-halloween-party",
-   "source": "19hz+edmtrain+shotgun",
+   "id": "19hz:4447380-nightsinnecropol",
+   "source": "19hz+edmtrain",
    "title": "Nights In Necropolis Presents: Necrodanse Halloween Party",
    "artists": [],
    "venue": "Churchill's Pub",
@@ -420,9 +388,8 @@
    "time_estimated": false,
    "address": "",
    "ages": "18+",
-   "price": "$16.88",
+   "price": "$15",
    "genres": [
-    "dark wave",
     "darkwave",
     "ebm",
     "goth",
@@ -433,45 +400,36 @@
    "description": "",
    "url": "https://shotgun.live/en/events/nights-in-necropolis-presents-necrodanse-halloween-party",
    "alt_urls": [
-    "https://shotgun.live/en/events/nights-in-necropolis-presents-necrodanse-halloween-party",
     "https://edmtrain.com/miami-fl/nights-in-necropolis-presents-531042"
    ]
   },
   {
-   "id": "shotgun:madradiomiami103126",
-   "source": "19hz+edmtrain+shotgun",
-   "title": "Underground Halloween:Shaun Reeves/John Raffaele/Camidimarzo",
+   "id": "19hz:4447380-undergroundhallo",
+   "source": "19hz+edmtrain",
+   "title": "Underground Halloween: Shaun Reeves / John Raffaele",
    "artists": [
-    "Shaun Reeves"
+    "Shaun Reeves",
+    "John Raffaele"
    ],
-   "venue": "Mad Radio Miami",
+   "venue": "Mad Radio",
    "venue_slug": "mad-radio",
    "date": "2026-10-31",
    "start": "2026-11-01T01:00:00+00:00",
-   "end": "2026-11-01T08:00:00+00:00",
+   "end": "2026-11-01T09:00:00+00:00",
    "time_estimated": false,
-   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "address": "",
    "ages": "21+",
-   "price": "$21.80",
+   "price": "free w/rsvp b4 midnight ladies / free w/rsvp b4 10pm / $22",
    "genres": [
     "minimal",
     "tech house",
     "techno"
    ],
    "genres_inferred": false,
-   "organizer": "Mad Radio Miami",
-   "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY BEFORE 10 PM / FREE ENTRY LADIES UNTIL MIDNIGHT + 25 YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
+   "organizer": "",
+   "description": "",
    "url": "https://shotgun.live/en/events/madradiomiami103126",
-   "tickets": "AFTER 10 PM / EARLY BIRD $20, FREE LADIES RSVP BEFORE 12 AM Free",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.8462027,
-    "longitude": -80.1851332
-   },
-   "created": "2026-10-14T22:02:06.000Z",
    "alt_urls": [
-    "https://shotgun.live/en/events/madradiomiami103126",
     "https://edmtrain.com/miami-fl/shaun-reeves-john-raffaele-547558"
    ]
   },
@@ -498,26 +456,6 @@
    "organizer": "Un_Mute Events, Explorer",
    "description": "",
    "url": "https://ra.co/events/2557379"
-  },
-  {
-   "id": "shotgun:rat-bastard-s-annual-halloween-classic-the-haunted-house",
-   "source": "shotgun",
-   "title": "Rat Bastard’S Annual Halloween Classic: The Haunted House",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-10-31",
-   "start": "2026-11-01T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/rat-bastard-s-annual-halloween-classic-the-haunted-house"
   },
   {
    "id": "19hz:4447384-laszewo",
@@ -601,15 +539,11 @@
    "url": "https://dice.fm/event/3obkbv-freaky-halloween-night-le-klown-31st-oct-domicile-miami-miami-tickets"
   },
   {
-   "id": "shotgun:facundo-mohrr-halloween",
-   "source": "19hz+edmtrain+shotgun",
-   "title": "Facundo Mohrr (Halloween Night)",
-   "artists": [
-    "Facundo Mohrr",
-    "Conosur",
-    "Solune"
-   ],
-   "venue": "EDGE MIAMI",
+   "id": "19hz:4447384-facundomohrrcono",
+   "source": "19hz",
+   "title": "Facundo Mohrr, Conosur, Solune",
+   "artists": [],
+   "venue": "Edge",
    "venue_slug": null,
    "date": "2026-10-31",
    "start": "2026-11-01T02:00:00+00:00",
@@ -619,18 +553,12 @@
    "ages": "21+",
    "price": "free w/rsvp b4 1 ladies / $15+",
    "genres": [
-    "deep house",
-    "house",
     "progressive house"
    ],
    "genres_inferred": false,
-   "organizer": "",
+   "organizer": "Pitch Park, Humans Alike, AmpOne",
    "description": "",
-   "url": "https://shotgun.live/en/events/facundo-mohrr-halloween",
-   "alt_urls": [
-    "https://dice.fm/event/6dyxw8-halloween-facundo-mohrr-conosur-solune-31st-oct-edge-miami-miami-tickets",
-    "https://edmtrain.com/miami-fl/halloween-facundo-mohrr-544805"
-   ]
+   "url": "https://dice.fm/event/6dyxw8-halloween-facundo-mohrr-conosur-solune-31st-oct-edge-miami-miami-tickets"
   },
   {
    "id": "dice:6aa04992243edc00012e491a",
@@ -756,32 +684,6 @@
    "url": "https://www.therumor.com/p/ragazzi1"
   },
   {
-   "id": "shotgun:halloween26",
-   "source": "edmtrain+shotgun",
-   "title": "Halloween Night: Haunted House",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": "festivals",
-   "date": "2026-10-31",
-   "start": "2026-11-01T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [
-    "house",
-    "tech house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/halloween26",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/halloween-night-haunted-house-546419"
-   ]
-  },
-  {
    "id": "19hz:4447384-djhabibeats",
    "source": "19hz",
    "title": "DJ Habibeats",
@@ -822,30 +724,6 @@
    "organizer": "",
    "description": "",
    "url": "https://ra.co/events/2571022"
-  },
-  {
-   "id": "shotgun:galactic-halloween",
-   "source": "shotgun",
-   "title": "Galactic Halloween",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": "festivals",
-   "date": "2026-10-31",
-   "start": "2026-11-01T02:45:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "afro",
-    "reggaeton",
-    "house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/galactic-halloween"
   },
   {
    "id": "19hz:4447387-area94onurozerre",
@@ -986,6 +864,29 @@
    ]
   },
   {
+   "id": "edmtrain:546419",
+   "source": "edmtrain",
+   "title": "Halloween Night - Haunted House",
+   "artists": [],
+   "venue": "777 NE 79th St",
+   "venue_slug": null,
+   "date": "2026-10-31",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "777 NE 79th St, Miami, FL 33138, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/halloween26?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/halloween-night-haunted-house-546419"
+   ]
+  },
+  {
    "id": "edmtrain:536320",
    "source": "edmtrain",
    "title": "Onur Özer, Mayell, Explorer, Demenz, Max Kraushaar",
@@ -1085,6 +986,33 @@
    "url": "https://shotgun.live/events/daft-disko-halloween?utm_source=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/daft-disko-a-french-house-and-disco-party-543514"
+   ]
+  },
+  {
+   "id": "edmtrain:544805",
+   "source": "edmtrain",
+   "title": "Halloween: Facundo Mohrr, Conosur, Solune",
+   "artists": [
+    "Facundo Mohrr",
+    "Conosur",
+    "Solune"
+   ],
+   "venue": "Edge Miami",
+   "venue_slug": null,
+   "date": "2026-10-31",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "114 NE 20th Terrace, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6dyxw8?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/halloween-facundo-mohrr-544805"
    ]
   },
   {
@@ -1263,15 +1191,15 @@
    "url": "https://ra.co/events/2551218"
   },
   {
-   "id": "zeyzey:afroman-01-nov",
-   "source": "venue",
+   "id": "tablelist:0498b902e3f158bd",
+   "source": "tablelist+venue",
    "title": "Afroman",
    "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-11-01",
    "start": "2026-11-01T23:00:00+00:00",
-   "end": "2026-11-02T06:00:00+00:00",
+   "end": "2026-11-02T05:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "",
@@ -1280,8 +1208,11 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/afroman-01-nov",
-   "cancelled": false
+   "url": "https://buy.tablelist.com/e/0498b902e3f158bd",
+   "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/afroman-01-nov",
+    "https://calendar.zeyzeymiami.com/shows/haitian-vinyl-night-by-patrice-esperant-with-special-guest-rum-coke-miami-01-nov"
+   ]
   },
   {
    "id": "shotgun:inferno",
@@ -1364,27 +1295,6 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/mister-gray-531062"
    ]
-  },
-  {
-   "id": "zeyzey:haitian-vinyl-night-by-patrice-esperant-with-special-guest-rum-coke-miami-01-nov",
-   "source": "venue",
-   "title": "Haitian Vinyl Night",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-11-01",
-   "start": "2026-11-02T01:30:00+00:00",
-   "end": "2026-11-02T06:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/haitian-vinyl-night-by-patrice-esperant-with-special-guest-rum-coke-miami-01-nov",
-   "cancelled": false
   },
   {
    "id": "dice:6aa04b4a5c32c6000140c12f",
@@ -1664,8 +1574,8 @@
    "url": "https://link.dice.fm/H3381aeb6e32"
   },
   {
-   "id": "zeyzey:the-floozies-05-nov",
-   "source": "19hz+edmtrain+venue",
+   "id": "tablelist:4deeeaf00354c0fe",
+   "source": "19hz+edmtrain+tablelist+venue",
    "title": "The Floozies",
    "artists": [
     "The Floozies"
@@ -1674,12 +1584,14 @@
    "venue_slug": "zeyzey",
    "date": "2026-11-05",
    "start": "2026-11-06T00:00:00+00:00",
-   "end": "2026-11-06T06:00:00+00:00",
+   "end": "2026-11-06T05:00:00+00:00",
    "time_estimated": false,
    "address": "",
-   "ages": "All ages",
-   "price": "$29+",
+   "ages": "18+",
+   "price": "Free",
    "genres": [
+    "big room",
+    "dancehall",
     "electropop",
     "funk",
     "synthpop"
@@ -1687,11 +1599,14 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/the-floozies-05-nov",
-   "cancelled": false,
+   "url": "https://buy.tablelist.com/e/4deeeaf00354c0fe",
    "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/rae-sada-b2b-ape-drums-05-nov",
     "https://calendar.zeyzeymiami.com/shows/the-floozies-05-nov",
-    "https://edmtrain.com/miami-fl/the-floozies-529732"
+    "https://calendar.zeyzeymiami.com/shows/rae-sada-b2b-ape-drums-05-nov",
+    "https://calendar.zeyzeymiami.com/shows/the-floozies-05-nov",
+    "https://edmtrain.com/miami-fl/the-floozies-529732",
+    "https://edmtrain.com/miami-fl/rae-sada-ape-drums-542737"
    ]
   },
   {
@@ -1796,46 +1711,15 @@
    ]
   },
   {
-   "id": "zeyzey:rae-sada-b2b-ape-drums-05-nov",
-   "source": "19hz+edmtrain+venue",
-   "title": "Rae Sada b2b Ape Drums (Free Entry)",
-   "artists": [
-    "RAE SADA",
-    "Ape Drums"
-   ],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-11-05",
-   "start": "2026-11-06T03:00:00+00:00",
-   "end": "2026-11-06T06:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "18+",
-   "price": "Free",
-   "genres": [
-    "big room",
-    "dancehall"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/rae-sada-b2b-ape-drums-05-nov",
-   "cancelled": false,
-   "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/rae-sada-b2b-ape-drums-05-nov",
-    "https://edmtrain.com/miami-fl/rae-sada-ape-drums-542737"
-   ]
-  },
-  {
-   "id": "zeyzey:curawaka-06-nov",
-   "source": "venue",
+   "id": "tablelist:ce87a1ddf13687ab",
+   "source": "tablelist+venue",
    "title": "Curawaka",
    "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-11-06",
    "start": "2026-11-06T23:00:00+00:00",
-   "end": "2026-11-07T08:00:00+00:00",
+   "end": "2026-11-07T03:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "",
@@ -1846,8 +1730,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/curawaka-06-nov",
-   "cancelled": false
+   "url": "https://buy.tablelist.com/e/ce87a1ddf13687ab",
+   "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/curawaka-06-nov"
+   ]
   },
   {
    "id": "19hz:4447951-christianojordan",
@@ -1881,9 +1767,9 @@
    ]
   },
   {
-   "id": "zeyzey:amtrac-live-06-nov",
-   "source": "19hz+edmtrain+venue",
-   "title": "Amtrac (Live), My Friend, and more",
+   "id": "tablelist:a717858d6ecfec24",
+   "source": "19hz+edmtrain+tablelist+venue",
+   "title": "Amtrac (Live)",
    "artists": [
     "Amtrac"
    ],
@@ -1891,7 +1777,7 @@
    "venue_slug": "zeyzey",
    "date": "2026-11-06",
    "start": "2026-11-07T01:00:00+00:00",
-   "end": "2026-11-07T08:00:00+00:00",
+   "end": "2026-11-07T07:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "18+",
@@ -1902,9 +1788,9 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/amtrac-live-06-nov",
-   "cancelled": false,
+   "url": "https://buy.tablelist.com/e/a717858d6ecfec24",
    "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/amtrac-live-06-nov",
     "https://app.opendate.io/e/amtrac-live-november-06-2026-708055?utm_source=bandsintown&click_id=Jx1LBob5Tp2MIMBGRqHHNg",
     "https://edmtrain.com/miami-fl/amtrac-531010"
    ]
@@ -2545,7 +2431,7 @@
   },
   {
    "id": "shotgun:casa-whispers-x-mtrnm-present-dia-de-los-muertos",
-   "source": "dice+shotgun+venue",
+   "source": "dice+shotgun+tablelist+venue",
    "title": "Casa Whispers X Mtrnm Present: Dia De Los Muertos",
    "artists": [],
    "venue": "ZeyZey Miami",
@@ -2577,6 +2463,8 @@
    "created": "2026-10-29T15:56:53.000Z",
    "alt_urls": [
     "https://dice.fm/event/6ac015bea7ef55000125063f",
+    "https://buy.tablelist.com/e/b21631fba42530c6",
+    "https://buy.tablelist.com/e/b279d844e3619a4d",
     "https://calendar.zeyzeymiami.com/shows/casa-whispers-dia-de-muertos-07-nov",
     "https://calendar.zeyzeymiami.com/shows/dana-and-alden-07-nov"
    ]
@@ -3375,7 +3263,7 @@
   },
   {
    "id": "shotgun:zeyzey-presents-parra-for-cuva",
-   "source": "19hz+edmtrain+shotgun+venue",
+   "source": "19hz+edmtrain+shotgun+tablelist+venue",
    "title": "Parra For Cuva",
    "artists": [
     "Parra for Cuva"
@@ -3409,6 +3297,7 @@
    },
    "created": null,
    "alt_urls": [
+    "https://buy.tablelist.com/e/0ec2c4bd8130bba8",
     "https://calendar.zeyzeymiami.com/shows/parra-for-cuva-08-nov",
     "https://shotgun.live/en/events/zeyzey-presents-parra-for-cuva",
     "https://edmtrain.com/miami-fl/parra-for-cuva-493732"
@@ -3504,15 +3393,15 @@
    ]
   },
   {
-   "id": "zeyzey:las-migas-10-nov",
-   "source": "venue",
+   "id": "tablelist:7f6123b4f4307830",
+   "source": "tablelist+venue",
    "title": "Las Migas",
    "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-11-10",
    "start": "2026-11-11T00:00:00+00:00",
-   "end": "2026-11-11T06:00:00+00:00",
+   "end": "2026-11-11T05:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "",
@@ -3521,8 +3410,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/las-migas-10-nov",
-   "cancelled": false
+   "url": "https://buy.tablelist.com/e/7f6123b4f4307830",
+   "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/las-migas-10-nov"
+   ]
   },
   {
    "id": "19hz:4448338-sunsquabi",
@@ -3600,6 +3491,26 @@
    "alt_urls": [
     "https://edmtrain.com/fort-lauderdale-fl/lenny-pearce-512140"
    ]
+  },
+  {
+   "id": "tablelist:c90db8b47c62c006",
+   "source": "tablelist",
+   "title": "Blueface X DDG - Fresh Out of Love Tour",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-11-11",
+   "start": "2026-11-12T01:00:00+00:00",
+   "end": "2026-11-12T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://buy.tablelist.com/e/c90db8b47c62c006"
   },
   {
    "id": "19hz:4448440-rivo",
@@ -3871,7 +3782,7 @@
   },
   {
    "id": "dice:6ad760d4f2e7b00001b10371",
-   "source": "19hz+dice+edmtrain+venue",
+   "source": "19hz+dice+edmtrain+tablelist+venue",
    "title": "Dance Therapy @ ZeyZey - MindGazm | Tiffany Romero B2B 717",
    "artists": [
     "Christian Löffler"
@@ -3897,6 +3808,8 @@
    "url": "https://dice.fm/event/q23wyx-dance-therapy-zeyzey-mindgazm-tiffany-romero-b2b-717-13th-nov-zeyzey-miami-tickets",
    "cancelled": false,
    "alt_urls": [
+    "https://buy.tablelist.com/e/05908c43b91b1625",
+    "https://buy.tablelist.com/e/fbfa2b5138eadf1d",
     "https://calendar.zeyzeymiami.com/shows/amrita-fr-13-nov",
     "https://calendar.zeyzeymiami.com/shows/christian-loffler-live-fall-2026-tour-13-nov",
     "https://calendar.zeyzeymiami.com/shows/the-altons-show-you-love-tour-13-nov",
@@ -5093,7 +5006,7 @@
   },
   {
    "id": "shotgun:beiruttomiami1",
-   "source": "shotgun+venue",
+   "source": "shotgun+tablelist+venue",
    "title": "Beirut Nights In Presents: Beirut To Miami",
    "artists": [],
    "venue": "ZeyZey Miami",
@@ -5124,6 +5037,8 @@
    },
    "created": "2026-10-04T22:56:00.000Z",
    "alt_urls": [
+    "https://buy.tablelist.com/e/3f6b13fd54147268",
+    "https://buy.tablelist.com/e/685c26ba1136eddc",
     "https://calendar.zeyzeymiami.com/shows/beirut-nights-in-14-nov",
     "https://calendar.zeyzeymiami.com/shows/dj-paypal-14-nov",
     "https://calendar.zeyzeymiami.com/shows/tul8te-world-tour-14-nov"
@@ -5255,7 +5170,7 @@
   },
   {
    "id": "dice:6a0eff0b5ffbf40001c9044c",
-   "source": "dice+edmtrain+venue",
+   "source": "dice+edmtrain+tablelist+venue",
    "title": "Club 1BD Miami ft. Chvmeleon, Hunny Bee, Pressure Point, & Spinelli",
    "artists": [
     "Club 1BD",
@@ -5281,6 +5196,7 @@
    "url": "https://dice.fm/event/6a0eff0b5ffbf40001c9044c",
    "cancelled": false,
    "alt_urls": [
+    "https://buy.tablelist.com/e/390cf1e657034a3e",
     "https://calendar.zeyzeymiami.com/shows/club-1bd-miami-day-party-15-nov",
     "https://calendar.zeyzeymiami.com/shows/evening-elephants-15-nov",
     "https://edmtrain.com/miami-fl/club-1bd-dj-hunny-bee-517966"
@@ -5474,14 +5390,14 @@
    ]
   },
   {
-   "id": "zeyzey:vicente-garcia-second-show-18-nov",
-   "source": "venue",
+   "id": "tablelist:8ba448be22306de7",
+   "source": "tablelist+venue",
    "title": "Vicente Garcia (Second Show)",
    "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-11-18",
-   "start": "2026-11-19T00:00:00+00:00",
+   "start": "2026-11-19T01:00:00+00:00",
    "end": "2026-11-19T06:00:00+00:00",
    "time_estimated": false,
    "address": "",
@@ -5493,8 +5409,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/vicente-garcia-second-show-18-nov",
-   "cancelled": false
+   "url": "https://buy.tablelist.com/e/8ba448be22306de7",
+   "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/vicente-garcia-second-show-18-nov"
+   ]
   },
   {
    "id": "shotgun:flowers-for-persephone-told-not-to-worry-at-boombox-11-19",
@@ -5525,14 +5443,14 @@
    "created": "2026-10-13T23:32:23.000Z"
   },
   {
-   "id": "zeyzey:vicente-garcia-19-nov",
-   "source": "venue",
+   "id": "tablelist:209109f986348f4b",
+   "source": "tablelist+venue",
    "title": "Vicente Garcia",
    "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-11-19",
-   "start": "2026-11-20T00:00:00+00:00",
+   "start": "2026-11-20T01:00:00+00:00",
    "end": "2026-11-20T06:00:00+00:00",
    "time_estimated": false,
    "address": "",
@@ -5544,8 +5462,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/vicente-garcia-19-nov",
-   "cancelled": false
+   "url": "https://buy.tablelist.com/e/209109f986348f4b",
+   "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/vicente-garcia-19-nov"
+   ]
   },
   {
    "id": "shotgun:echo-beauty-terror-laboratory-mjvj-viole-rose-eddy-gatoe",
@@ -6073,7 +5993,7 @@
   },
   {
    "id": "shotgun:solmates-presents-sparrow-more",
-   "source": "19hz+dice+edmtrain+shotgun+venue",
+   "source": "19hz+dice+edmtrain+shotgun+tablelist+venue",
    "title": "Solmates Presents Sparrow & More",
    "artists": [
     "Sparrow"
@@ -6106,6 +6026,8 @@
    "created": "2026-10-26T22:37:01.000Z",
    "alt_urls": [
     "https://dice.fm/event/6adff5fd8be4730001f56177",
+    "https://buy.tablelist.com/e/290d1d974df30991",
+    "https://buy.tablelist.com/e/3cd935868309e1a6",
     "https://calendar.zeyzeymiami.com/shows/solmates-presents-sparrow-more-20-nov",
     "https://calendar.zeyzeymiami.com/shows/the-hails-21-nov",
     "https://shotgun.live/en/events/solmates-presents-sparrow-more",
@@ -6301,7 +6223,7 @@
   },
   {
    "id": "shotgun:zeyzey-selects-donny-benet",
-   "source": "19hz+edmtrain+shotgun+venue",
+   "source": "19hz+edmtrain+shotgun+tablelist+venue",
    "title": "Donny Benét",
    "artists": [
     "Donny Benét",
@@ -6340,6 +6262,8 @@
    },
    "created": null,
    "alt_urls": [
+    "https://buy.tablelist.com/e/4499d09e5bdfc433",
+    "https://buy.tablelist.com/e/b7fe9af7cbabc23f",
     "https://calendar.zeyzeymiami.com/shows/donny-benet-21-nov",
     "https://calendar.zeyzeymiami.com/shows/helado-tropical-helado-negro-reyna-tropical-21-nov",
     "https://calendar.zeyzeymiami.com/shows/under-the-disco-ball-ft-bosq-21-nov",
@@ -6857,8 +6781,8 @@
    "url": "https://shotgun.live/en/events/stunsgiving-2026"
   },
   {
-   "id": "zeyzey:arde-bogota-22-nov",
-   "source": "venue",
+   "id": "tablelist:eb49879b8b613c42",
+   "source": "tablelist+venue",
    "title": "Arde Bogotá",
    "artists": [],
    "venue": "ZeyZey Miami",
@@ -6876,8 +6800,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/arde-bogota-22-nov",
-   "cancelled": false
+   "url": "https://buy.tablelist.com/e/eb49879b8b613c42",
+   "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/arde-bogota-22-nov"
+   ]
   },
   {
    "id": "19hz:4449487-sundayswittytune",
@@ -7386,15 +7312,15 @@
    "url": "https://dice.fm/event/7d9m6p-back-alley-ft-pagano-27th-nov-eagle-wilton-manors-wilton-manors-tickets"
   },
   {
-   "id": "zeyzey:reggaeton-rave-27-nov",
-   "source": "venue",
+   "id": "tablelist:1a812eb5de36eab4",
+   "source": "tablelist+venue",
    "title": "Reggaeton Rave",
    "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-11-27",
    "start": "2026-11-28T02:00:00+00:00",
-   "end": "2026-11-28T08:00:00+00:00",
+   "end": "2026-11-28T07:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "",
@@ -7405,8 +7331,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/reggaeton-rave-27-nov",
-   "cancelled": false
+   "url": "https://buy.tablelist.com/e/1a812eb5de36eab4",
+   "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/reggaeton-rave-27-nov"
+   ]
   },
   {
    "id": "hardrock:206020",
@@ -7806,15 +7734,15 @@
    ]
   },
   {
-   "id": "zeyzey:josh-fawaz-sunset-show-28-nov",
-   "source": "19hz+venue",
+   "id": "tablelist:515b312cd7dea586",
+   "source": "19hz+tablelist+venue",
    "title": "Josh Fawaz (Sunset Show)",
    "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-11-28",
    "start": "2026-11-28T23:00:00+00:00",
-   "end": "2026-11-29T06:00:00+00:00",
+   "end": "2026-11-29T03:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "18+",
@@ -7827,9 +7755,9 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/josh-fawaz-sunset-show-28-nov",
-   "cancelled": false,
+   "url": "https://buy.tablelist.com/e/515b312cd7dea586",
    "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/josh-fawaz-sunset-show-28-nov",
     "https://ra.co/events/2563133"
    ]
   },
@@ -8131,9 +8059,9 @@
    ]
   },
   {
-   "id": "zeyzey:oscar-g-anastazja-28-nov",
-   "source": "19hz+edmtrain+venue",
-   "title": "Oscar G + Anastazja (Free Entry)",
+   "id": "tablelist:03aeb9a56506c2ac",
+   "source": "19hz+edmtrain+tablelist+venue",
+   "title": "Oscar G + Anastazja",
    "artists": [
     "Oscar G",
     "Anastazja"
@@ -8142,7 +8070,7 @@
    "venue_slug": "zeyzey",
    "date": "2026-11-28",
    "start": "2026-11-29T03:00:00+00:00",
-   "end": "2026-11-29T06:00:00+00:00",
+   "end": "2026-11-29T07:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "",
@@ -8155,9 +8083,9 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/oscar-g-anastazja-28-nov",
-   "cancelled": false,
+   "url": "https://buy.tablelist.com/e/03aeb9a56506c2ac",
    "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/oscar-g-anastazja-28-nov",
     "https://ra.co/events/2563135",
     "https://edmtrain.com/miami-fl/oscar-g-anastazja-544932"
    ]
