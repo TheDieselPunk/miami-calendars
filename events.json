@@ -711,6 +711,26 @@
    "url": "https://www.livnightclub.com/miami/event/EVE112156200020261031/halloween-weekend/?ref=ticketmaster"
   },
   {
+   "id": "shotgun:nov26",
+   "source": "shotgun",
+   "title": "Supernatural Membership: November 2026",
+   "artists": [],
+   "venue": "Supernatural Haus",
+   "venue_slug": null,
+   "date": "2026-11-01",
+   "start": "2026-11-01T04:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$33.33",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/nov26"
+  },
+  {
    "id": "hardrock:204544",
    "source": "19hz+edmtrain+venue",
    "title": "Konflikt",
@@ -804,7 +824,6 @@
    "description": "",
    "url": "https://buy.tablelist.com/e/0498b902e3f158bd",
    "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/afroman-01-nov",
     "https://calendar.zeyzeymiami.com/shows/haitian-vinyl-night-by-patrice-esperant-with-special-guest-rum-coke-miami-01-nov"
    ]
   },
@@ -1046,6 +1065,28 @@
    "url": "https://speakeasygo.com/E11EVEN/SUTTUN-AT-E11EVEN"
   },
   {
+   "id": "shotgun:miami-jazz-jam-every-monday-17",
+   "source": "shotgun",
+   "title": "Miami Jazz Jam Every Monday",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-11-02",
+   "start": "2026-11-03T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "jazz"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/miami-jazz-jam-every-monday-17"
+  },
+  {
    "id": "edmtrain:548959",
    "source": "edmtrain",
    "title": "DJ Kâsa",
@@ -1099,6 +1140,46 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/iron-lyon-531579"
    ]
+  },
+  {
+   "id": "shotgun:comedy-night-at-churchill-s-1",
+   "source": "shotgun",
+   "title": "Comedy Night At Churchill's - Every Tuesday",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-11-03",
+   "start": "2026-11-04T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/comedy-night-at-churchill-s-1"
+  },
+  {
+   "id": "shotgun:tainted-the-doll-mix-a-dragula-viewing-party-and-drag-show-2",
+   "source": "shotgun",
+   "title": "Tainted: Alternativas Latinas A Drag Show",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-11-03",
+   "start": "2026-11-04T03:30:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/tainted-the-doll-mix-a-dragula-viewing-party-and-drag-show-2"
   },
   {
    "id": "shotgun:lovenote-7",
@@ -1303,6 +1384,26 @@
    "alt_urls": [
     "https://dice.fm/event/6ac6aa74f13291000127aaa6"
    ]
+  },
+  {
+   "id": "shotgun:superqueen-39",
+   "source": "shotgun",
+   "title": "Superqueen: Super Y2k (18+)",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-11-05",
+   "start": "2026-11-06T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$10.00",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/superqueen-39"
   },
   {
    "id": "tablelist:ce87a1ddf13687ab",
@@ -1988,6 +2089,30 @@
    "description": "",
    "url": "https://tixr.com/e/205527",
    "generic_title": true
+  },
+  {
+   "id": "shotgun:intriga-x-boho-house-day-party-new-location",
+   "source": "shotgun",
+   "title": "Intriga X Boho House: Day Party Vol 4 (New Location)",
+   "artists": [],
+   "venue": "BOHO House Miami",
+   "venue_slug": null,
+   "date": "2026-11-07",
+   "start": "2026-11-07T21:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$39.73",
+   "genres": [
+    "indie dance",
+    "afro house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/intriga-x-boho-house-day-party-new-location"
   },
   {
    "id": "19hz:4448032-vavorickyretro",
@@ -2688,6 +2813,29 @@
    ]
   },
   {
+   "id": "edmtrain:549216",
+   "source": "edmtrain",
+   "title": "Novo Flow Pool Party",
+   "artists": [],
+   "venue": "Novotel Miami Brickell",
+   "venue_slug": null,
+   "date": "2026-11-07",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1500 SW 1st Ave, Miami, FL 33129, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/area-305-halloween-pool-party-copy-copy-copy?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/novo-flow-pool-party-549216"
+   ]
+  },
+  {
    "id": "edmtrain:543306",
    "source": "edmtrain",
    "title": "MashBit, LUKO, Deelo",
@@ -2982,7 +3130,7 @@
   {
    "id": "shotgun:churchill-s-pub-november-8th",
    "source": "shotgun",
-   "title": "Churchill's Pub November 8th",
+   "title": "Damascus, An Odyssey To The End, Ngy, & Notthread",
    "artists": [],
    "venue": "Miami",
    "venue_slug": "festivals",
