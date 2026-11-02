@@ -8,53 +8,20 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4447344-marconinni@daer.miami-calendars
-DTSTAMP:20261101T161749Z
-LAST-MODIFIED:20261101T161749Z
-SEQUENCE:1
-DTSTART:20261031T160000Z
-DTEND:20261031T230000Z
-SUMMARY:Marco Ninni
-LOCATION:Daer Dayclub\, Hollywood
-DESCRIPTION:Tags: edm\, house\nAges: 21+\nhttps://www.tixr.com/groups/daerd
- ayclubsouthflorida/events/halloween-saturday-october-31st-daer-dayclub-204
- 543
-URL:https://www.tixr.com/groups/daerdayclubsouthflorida/events/halloween-sa
- turday-october-31st-daer-dayclub-204543
-STATUS:CONFIRMED
-CATEGORIES:edm,house
-END:VEVENT
-BEGIN:VEVENT
-UID:19hz-4447384-laszewo@daer.miami-calendars
-DTSTAMP:20261101T161749Z
-LAST-MODIFIED:20261101T161749Z
-SEQUENCE:1
-DTSTART:20261101T020000Z
-DTEND:20261101T090000Z
-SUMMARY:Laszewo
-LOCATION:Daer Nightclub\, Hollywood
-DESCRIPTION:Tags: house\, pop edm\, synthpop\nAges: 21+\nhttps://www.tixr.c
- om/groups/daernightclubsouthflorida/events/-aszewo-halloween-daer-nightclu
- b-204542
-URL:https://www.tixr.com/groups/daernightclubsouthflorida/events/-aszewo-ha
- lloween-daer-nightclub-204542
-STATUS:CONFIRMED
-CATEGORIES:house,pop edm,synthpop
-END:VEVENT
-BEGIN:VEVENT
-UID:hardrock-204544@daer.miami-calendars
-DTSTAMP:20261030T041827Z
-LAST-MODIFIED:20261030T041827Z
-SEQUENCE:3
+UID:19hz-4447440-konflikt@daer.miami-calendars
+DTSTAMP:20261102T101756Z
+LAST-MODIFIED:20261102T101756Z
+SEQUENCE:0
 DTSTART:20261101T170000Z
-DTEND:20261101T230000Z
+DTEND:20261102T000000Z
 SUMMARY:Konflikt
-LOCATION:DAER Dayclub\, 1 Seminole Way\, Hollywood\, FL 33314
+LOCATION:Daer Dayclub\, Hollywood
 DESCRIPTION:Lineup: DJ Konflikt\nTags: big room\, hip-hop\, pop edm\, trap
- \nAges: 21+\nhttps://tixr.com/e/204544\nhttps://edmtrain.com/fort-lauderda
- le-fl/dj-konflikt-548790\nhttps://www.tixr.com/groups/daerdayclubsouthflor
- ida/events/sunday-november-1st-daer-dayclub-204544
-URL:https://tixr.com/e/204544
+ \nAges: 21+\nhttps://www.tixr.com/groups/daerdayclubsouthflorida/events/su
+ nday-november-1st-daer-dayclub-204544\nhttps://edmtrain.com/fort-lauderdal
+ e-fl/dj-konflikt-548790
+URL:https://www.tixr.com/groups/daerdayclubsouthflorida/events/sunday-novem
+ ber-1st-daer-dayclub-204544
 STATUS:CONFIRMED
 CATEGORIES:big room,hip-hop,pop edm,trap
 END:VEVENT

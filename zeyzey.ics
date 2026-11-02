@@ -8,34 +8,15 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4447368-markfarinasmushr@zeyzey.miami-calendars
-DTSTAMP:20261101T161749Z
-LAST-MODIFIED:20261101T161749Z
-SEQUENCE:1
-DTSTART:20261031T220000Z
-DTEND:20261101T073000Z
-SUMMARY:Mark Farina's Mushroom Jazz - Halloween Edition w/ Nutritious
-LOCATION:Zeyzey
-DESCRIPTION:Tags: beats\, downtempo\, hip-hop\nPresented by: Liquid Culture
-  Records\nAges: 18+\nhttps://calendar.zeyzeymiami.com/shows/mark-farina-s-
- mushroom-jazz-halloween-edition-31-oct
-URL:https://calendar.zeyzeymiami.com/shows/mark-farina-s-mushroom-jazz-hall
- oween-edition-31-oct
-STATUS:CONFIRMED
-CATEGORIES:beats,downtempo,hip-hop
-END:VEVENT
-BEGIN:VEVENT
 UID:tablelist-0498b902e3f158bd@zeyzey.miami-calendars
-DTSTAMP:20261102T041800Z
-LAST-MODIFIED:20261102T041800Z
-SEQUENCE:1
+DTSTAMP:20261102T101756Z
+LAST-MODIFIED:20261102T101756Z
+SEQUENCE:2
 DTSTART:20261101T230000Z
 DTEND:20261102T050000Z
 SUMMARY:Afroman
 LOCATION:ZeyZey Miami
-DESCRIPTION:https://buy.tablelist.com/e/0498b902e3f158bd\nhttps://calendar.
- zeyzeymiami.com/shows/haitian-vinyl-night-by-patrice-esperant-with-special
- -guest-rum-coke-miami-01-nov
+DESCRIPTION:https://buy.tablelist.com/e/0498b902e3f158bd
 URL:https://buy.tablelist.com/e/0498b902e3f158bd
 STATUS:CONFIRMED
 END:VEVENT

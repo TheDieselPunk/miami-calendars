@@ -8,22 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4447384-leklownantimatte@domicile.miami-calendars
-DTSTAMP:20261017T161817Z
-LAST-MODIFIED:20261017T161817Z
-SEQUENCE:0
-DTSTART:20261101T020000Z
-DTEND:20261101T100000Z
-SUMMARY:Le Klown\, Antimatter
-LOCATION:Domicile
-DESCRIPTION:Tags: hard techno\, trance\nAges: 18+\nhttps://dice.fm/event/3o
- bkbv-freaky-halloween-night-le-klown-31st-oct-domicile-miami-miami-tickets
-URL:https://dice.fm/event/3obkbv-freaky-halloween-night-le-klown-31st-oct-d
- omicile-miami-miami-tickets
-STATUS:CONFIRMED
-CATEGORIES:hard techno,trance
-END:VEVENT
-BEGIN:VEVENT
 UID:19hz-4447960-laurecroftufo95@domicile.miami-calendars
 DTSTAMP:20261017T161817Z
 LAST-MODIFIED:20261017T161817Z

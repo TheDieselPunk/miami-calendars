@@ -8,53 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4447368-feddelegrandship@festivals.miami-calendars
-DTSTAMP:20261101T161749Z
-LAST-MODIFIED:20261101T161749Z
-SEQUENCE:1
-DTSTART:20261031T220000Z
-DTEND:20261101T090000Z
-SUMMARY:Fedde Le Grand | Shipwrecked Halloween
-LOCATION:The Shorely At Marina Village\, Fort Lauderdale
-DESCRIPTION:Tags: house\nAges: 21+\nhttps://www.eventbrite.com/e/fedde-le-g
- rand-shipwrecked-halloween-weekend-at-the-shorely-tickets-2002959594064
-URL:https://www.eventbrite.com/e/fedde-le-grand-shipwrecked-halloween-weeke
- nd-at-the-shorely-tickets-2002959594064
-STATUS:CONFIRMED
-CATEGORIES:house
-END:VEVENT
-BEGIN:VEVENT
-UID:19hz-4447380-zoey808x9b49hall@festivals.miami-calendars
-DTSTAMP:20261101T161749Z
-LAST-MODIFIED:20261101T161749Z
-SEQUENCE:1
-DTSTART:20261101T010000Z
-DTEND:20261101T090000Z
-SUMMARY:Zoey808 X 9B49 Halloween Festival
-LOCATION:Backyard Ftl\, Fort Lauderdale
-DESCRIPTION:Tags: edm\, house\nPresented by: Paradise\nhttps://posh.vip/e/p
- aradise-presents-zoey808-x-9b49-halloween-festival-at-backyard-ftl
-URL:https://posh.vip/e/paradise-presents-zoey808-x-9b49-halloween-festival-
- at-backyard-ftl
-STATUS:CONFIRMED
-CATEGORIES:edm,house
-END:VEVENT
-BEGIN:VEVENT
-UID:inferno@shotgun.live
-DTSTAMP:20261030T041827Z
-LAST-MODIFIED:20261030T041827Z
-SEQUENCE:0
-DTSTART:20261102T000000Z
-DTEND:20261102T050000Z
-SUMMARY:Disco Inferno
-LOCATION:Miami
-DESCRIPTION:Tags: disco\nAges: 21+\nhttps://shotgun.live/en/events/inferno
- \nhttps://edmtrain.com/miami-fl/disco-inferno-547896
-URL:https://shotgun.live/en/events/inferno
-STATUS:CONFIRMED
-CATEGORIES:disco
-END:VEVENT
-BEGIN:VEVENT
 UID:19hz-4448056-alexfarell@festivals.miami-calendars
 DTSTAMP:20261017T161817Z
 LAST-MODIFIED:20261017T161817Z

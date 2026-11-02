@@ -7,19 +7,4 @@ X-WR-CALNAME:Mad Radio Miami
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
-BEGIN:VEVENT
-UID:19hz-4447380-undergroundhallo@mad-radio.miami-calendars
-DTSTAMP:20261101T161749Z
-LAST-MODIFIED:20261101T161749Z
-SEQUENCE:1
-DTSTART:20261101T010000Z
-DTEND:20261101T090000Z
-SUMMARY:Underground Halloween: Shaun Reeves / John Raffaele
-LOCATION:Mad Radio
-DESCRIPTION:Tags: minimal\, tech house\, techno\nAges: 21+\nhttps://shotgun
- .live/en/events/madradiomiami103126
-URL:https://shotgun.live/en/events/madradiomiami103126
-STATUS:CONFIRMED
-CATEGORIES:minimal,tech house,techno
-END:VEVENT
 END:VCALENDAR

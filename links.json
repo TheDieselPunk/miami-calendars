@@ -223,10 +223,6 @@
   "url": "https://www.etix.com/ticket/p/37313747",
   "checked": "2026-10-27"
  },
- "548110": {
-  "url": "https://shotgun.live/events/halloween-do-not-sit-on-the-furniture?utm_source=edmtrain",
-  "checked": "2026-10-28"
- },
  "548237": {
   "url": "https://dice.fm/event/8ed7lv?pid=d6342b83",
   "checked": "2026-10-28"
@@ -330,5 +326,9 @@
  "549216": {
   "url": "https://posh.vip/e/area-305-halloween-pool-party-copy-copy-copy?t=edmtrain",
   "checked": "2026-11-01"
+ },
+ "549243": {
+  "url": "https://dice.fm/event/l8pp8w?pid=d6342b83",
+  "checked": "2026-11-02"
  }
 }

@@ -3,9 +3,9 @@
   "slug": "club-space",
   "name": "Club Space",
   "file": "club-space.ics",
-  "events": 21,
+  "events": 19,
   "estimated_times": 2,
-  "next": "2026-10-31",
+  "next": "2026-11-01",
   "sources": [
    "19hz",
    "dice",
@@ -31,9 +31,9 @@
   "slug": "floyd",
   "name": "Floyd",
   "file": "floyd.ics",
-  "events": 22,
+  "events": 21,
   "estimated_times": 0,
-  "next": "2026-10-31",
+  "next": "2026-11-06",
   "sources": [
    "19hz",
    "dice",
@@ -45,9 +45,9 @@
   "slug": "domicile",
   "name": "Domicile",
   "file": "domicile.ics",
-  "events": 8,
+  "events": 7,
   "estimated_times": 1,
-  "next": "2026-10-31",
+  "next": "2026-11-06",
   "sources": [
    "19hz",
    "edmtrain"
@@ -100,9 +100,9 @@
   "slug": "zeyzey",
   "name": "ZeyZey Miami",
   "file": "zeyzey.ics",
-  "events": 56,
+  "events": 55,
   "estimated_times": 1,
-  "next": "2026-10-31",
+  "next": "2026-11-01",
   "sources": [
    "19hz",
    "dice",
@@ -117,21 +117,19 @@
   "slug": "mad-radio",
   "name": "Mad Radio Miami",
   "file": "mad-radio.ics",
-  "events": 1,
+  "events": 0,
   "estimated_times": 0,
-  "next": "2026-10-31",
-  "sources": [
-   "19hz"
-  ],
+  "next": null,
+  "sources": [],
   "hours_note": "Observed on Shotgun: 9 PM-3 AM every night."
  },
  {
   "slug": "daer",
   "name": "DAER (Hard Rock Hollywood)",
   "file": "daer.ics",
-  "events": 57,
+  "events": 55,
   "estimated_times": 0,
-  "next": "2026-10-31",
+  "next": "2026-11-01",
   "sources": [
    "19hz",
    "edmtrain",
@@ -143,9 +141,9 @@
   "slug": "jolene",
   "name": "Jolene Sound Room",
   "file": "jolene.ics",
-  "events": 20,
+  "events": 19,
   "estimated_times": 0,
-  "next": "2026-10-31",
+  "next": "2026-11-05",
   "sources": [
    "19hz",
    "dice",
@@ -158,9 +156,9 @@
   "slug": "midline",
   "name": "Midline",
   "file": "midline.ics",
-  "events": 12,
+  "events": 11,
   "estimated_times": 1,
-  "next": "2026-10-31",
+  "next": "2026-11-14",
   "sources": [
    "19hz",
    "edmtrain"
@@ -171,9 +169,9 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 40,
+  "events": 37,
   "estimated_times": 17,
-  "next": "2026-10-31",
+  "next": "2026-11-07",
   "sources": [
    "19hz",
    "dice",
