@@ -973,6 +973,29 @@
    "url": "https://shotgun.live/en/events/rose-blood-deathmatch"
   },
   {
+   "id": "shotgun:clubperreo",
+   "source": "shotgun",
+   "title": "Club Perreo: Grand Opening",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-11-06",
+   "start": "2026-11-07T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$10.00",
+   "genres": [
+    "latin",
+    "reggaeton"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/clubperreo"
+  },
+  {
    "id": "19hz:4447960-somewhereundergr",
    "source": "19hz+edmtrain",
    "title": "Somewhere Underground @ Nowhere",
@@ -1279,7 +1302,7 @@
   {
    "id": "hardrock:205527",
    "source": "venue",
-   "title": "DAER Dayclub",
+   "title": "Jean Marie",
    "artists": [],
    "venue": "DAER Dayclub",
    "venue_slug": "daer",
@@ -1295,7 +1318,7 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/205527",
-   "generic_title": true
+   "generic_title": false
   },
   {
    "id": "shotgun:intriga-x-boho-house-day-party-new-location",
@@ -2183,7 +2206,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$30.00",
+   "price": "$25.00",
    "genres": [
     "disco",
     "funk",
@@ -7456,6 +7479,27 @@
    "generic_title": true
   },
   {
+   "id": "zeyzey:zeyzey-juniors-29-nov",
+   "source": "venue",
+   "title": "ZeyZey Juniors",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-11-29",
+   "start": "2026-11-29T17:00:00+00:00",
+   "end": "2026-11-30T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/zeyzey-juniors-29-nov",
+   "cancelled": false
+  },
+  {
    "id": "19hz:4450144-prebaselpartyour",
    "source": "19hz",
    "title": "Pre Basel Party - Our House",
@@ -8960,6 +9004,27 @@
    ]
   },
   {
+   "id": "hardrock:213223",
+   "source": "venue",
+   "title": "Crankdat - Cyclops Cove Afterparty",
+   "artists": [],
+   "venue": "DAER Dayclub Afterdark",
+   "venue_slug": "daer",
+   "date": "2026-12-04",
+   "start": "2026-12-05T03:00:00+00:00",
+   "end": "2026-12-05T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "1 Seminole Way, Hollywood, FL 33314",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://tixr.com/e/213223",
+   "generic_title": false
+  },
+  {
    "id": "hardrock:207833",
    "source": "venue",
    "title": "DAER Nightclub",
@@ -8979,6 +9044,27 @@
    "description": "",
    "url": "https://tixr.com/e/207833",
    "generic_title": true
+  },
+  {
+   "id": "hardrock:213245",
+   "source": "venue",
+   "title": "Dual Ticket - Cyclops Cove Afterparty",
+   "artists": [],
+   "venue": "DAER South Florida",
+   "venue_slug": "daer",
+   "date": "2026-12-04",
+   "start": "2026-12-05T03:00:00+00:00",
+   "end": "2026-12-05T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "1 Seminole Way, Hollywood, FL 33314",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://tixr.com/e/213245",
+   "generic_title": false
   },
   {
    "id": "19hz:4450648-patricebaumel",
@@ -9205,6 +9291,30 @@
     "https://dice.fm/event/avkodx-ciao-dany-x-meldie-floyd-basel-2026-4th-dec-floyd-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/ciao-melodie-floyd-basel-2026-natalia-roth-535519"
    ]
+  },
+  {
+   "id": "dice:6ae8e7149ac9250001d6d2bc",
+   "source": "dice",
+   "title": "Shygirl presents Club Shy (Ground Basel 2026)",
+   "artists": [],
+   "venue": "The Ground Miami",
+   "venue_slug": "the-ground",
+   "date": "2026-12-04",
+   "start": "2026-12-05T04:00:00+00:00",
+   "end": "2026-12-05T10:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $30",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ae8e7149ac9250001d6d2bc",
+   "cancelled": false
   },
   {
    "id": "zeyzey:a-trak-friends-04-dec",
@@ -9723,6 +9833,27 @@
    "url": "https://shotgun.live/en/events/rap-vs-rock-night"
   },
   {
+   "id": "hardrock:207834",
+   "source": "venue",
+   "title": "RL Grime - Cyclops Cove After Party",
+   "artists": [],
+   "venue": "DAER Nightclub",
+   "venue_slug": "daer",
+   "date": "2026-12-05",
+   "start": "2026-12-06T03:00:00+00:00",
+   "end": "2026-12-06T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "1 Seminole Way, Hollywood, FL 33314",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://tixr.com/e/207834",
+   "generic_title": false
+  },
+  {
    "id": "19hz:4450744-hhunter",
    "source": "19hz+edmtrain",
    "title": "Hhunter",
@@ -9943,6 +10074,30 @@
     "https://dice.fm/event/l8ml6p-obskr-presents-the-system-floyd-basel-2026-5th-dec-floyd-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/obskur-535431"
    ]
+  },
+  {
+   "id": "dice:6ae8e7649ac9250001b75f9d",
+   "source": "dice",
+   "title": "NTS Miami (Ground Basel 2026)",
+   "artists": [],
+   "venue": "The Ground Miami",
+   "venue_slug": "the-ground",
+   "date": "2026-12-05",
+   "start": "2026-12-06T04:00:00+00:00",
+   "end": "2026-12-06T10:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $20",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ae8e7649ac9250001b75f9d",
+   "cancelled": false
   },
   {
    "id": "edmtrain:546405",
@@ -12969,7 +13124,7 @@
   {
    "id": "hardrock:212390",
    "source": "venue",
-   "title": "DAER Dayclub",
+   "title": "Liquid Stranger Presents: ELECTRIC HELIX",
    "artists": [],
    "venue": "DAER Dayclub",
    "venue_slug": "daer",
@@ -12985,7 +13140,7 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/212390",
-   "generic_title": true
+   "generic_title": false
   },
   {
    "id": "edmtrain:458946",
@@ -13443,6 +13598,27 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/effin-aych-546320"
    ]
+  },
+  {
+   "id": "zeyzey:shaheri-06-mar",
+   "source": "venue",
+   "title": "SHĀHERI",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2027-03-06",
+   "start": "2027-03-07T01:00:00+00:00",
+   "end": "2027-03-07T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/shaheri-06-mar",
+   "cancelled": false
   },
   {
    "id": "19hz:4460046-vnvnation",

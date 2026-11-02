@@ -418,6 +418,19 @@ STATUS:CONFIRMED
 CATEGORIES:breaks,club music,world club
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-zeyzey-juniors-29-nov@zeyzey.miami-calendars
+DTSTAMP:20261102T221757Z
+LAST-MODIFIED:20261102T221757Z
+SEQUENCE:0
+DTSTART:20261129T170000Z
+DTEND:20261130T060000Z
+SUMMARY:ZeyZey Juniors
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://calendar.zeyzeymiami.com/shows/zeyzey-juniors-29-nov
+URL:https://calendar.zeyzeymiami.com/shows/zeyzey-juniors-29-nov
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-justin-nozuka-01-dec@zeyzey.miami-calendars
 DTSTAMP:20260921T200140Z
 LAST-MODIFIED:20260921T200140Z
@@ -873,6 +886,19 @@ DESCRIPTION:Tags: r&b/soul\nhttps://calendar.zeyzeymiami.com/shows/early-sh
 URL:https://calendar.zeyzeymiami.com/shows/early-show-mamas-gun-26-feb
 STATUS:CONFIRMED
 CATEGORIES:r&b/soul
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-shaheri-06-mar@zeyzey.miami-calendars
+DTSTAMP:20261102T221757Z
+LAST-MODIFIED:20261102T221757Z
+SEQUENCE:0
+DTSTART:20270307T010000Z
+DTEND:20270307T060000Z
+SUMMARY:SHĀHERI
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://calendar.zeyzeymiami.com/shows/shaheri-06-mar
+URL:https://calendar.zeyzeymiami.com/shows/shaheri-06-mar
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-alex-sampson-14-mar@zeyzey.miami-calendars
