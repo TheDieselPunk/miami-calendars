@@ -133,4 +133,20 @@ URL:https://dice.fm/event/6ab5a8633fd3b20001e06e58
 STATUS:CONFIRMED
 CATEGORIES:progressive house,tech house
 END:VEVENT
+BEGIN:VEVENT
+UID:dice-6ae37fbe8bf64200012df1ae@factory-town.miami-calendars
+DTSTAMP:20261103T221802Z
+LAST-MODIFIED:20261103T221802Z
+SEQUENCE:0
+DTSTART:20270101T020000Z
+DTEND:20270101T110000Z
+SUMMARY:DOM DOLLA PRESENTS GOOD FORTUNE
+LOCATION:Factory Town\, 4800 NW 37th Ave\, Miami\, FL 33142\, USA
+DESCRIPTION:Lineup: Dom Dolla\, SG Lewis\, Fcukers\, Cole Knight\nTags (gue
+ ss): house\, techno\nhttps://dice.fm/event/6ae37fbe8bf64200012df1ae\nhttps
+ ://edmtrain.com/miami-fl/dom-dolla-sg-lewis-549632
+URL:https://dice.fm/event/6ae37fbe8bf64200012df1ae
+STATUS:CONFIRMED
+CATEGORIES:house,techno
+END:VEVENT
 END:VCALENDAR

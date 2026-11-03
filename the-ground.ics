@@ -189,18 +189,18 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ac7e104051f140001741eed@the-ground.miami-calendars
-DTSTAMP:20261008T221912Z
-LAST-MODIFIED:20261008T221912Z
-SEQUENCE:0
+DTSTAMP:20261103T221802Z
+LAST-MODIFIED:20261103T221802Z
+SEQUENCE:1
 DTSTART:20261213T040000Z
 DTEND:20261213T120000Z
-SUMMARY:My Friend Misty x OTHERWORLD Present: Sagittarius Soiree
+SUMMARY:Sagittarius Soiree: Mareux\, Curses (live) & More
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6ac7e104051
- f140001741eed
+DESCRIPTION:Tags: darkwave\, goth\, post-punk\nAges: 21+\nhttps://dice.fm/e
+ vent/6ac7e104051f140001741eed\nhttps://link.dice.fm/sagsoiree
 URL:https://dice.fm/event/6ac7e104051f140001741eed
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:darkwave,goth,post-punk
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aea037c73dd350001f850dd@the-ground.miami-calendars

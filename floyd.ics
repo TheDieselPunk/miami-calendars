@@ -184,12 +184,12 @@ CATEGORIES:pop edm,synthpop
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abe8450c57ae3000126d8c3@floyd.miami-calendars
-DTSTAMP:20261001T221830Z
-LAST-MODIFIED:20261001T221830Z
-SEQUENCE:0
+DTSTAMP:20261103T221802Z
+LAST-MODIFIED:20261103T221802Z
+SEQUENCE:1
 DTSTART:20261130T040000Z
 DTEND:20261130T100000Z
-SUMMARY:TBA
+SUMMARY:Ale De Tuglie + Ammo Avenue
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
 DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6abe8450c57
  ae3000126d8c3
@@ -217,12 +217,12 @@ CATEGORIES:deep house,funk,house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aa05f20dcd56d0001894f1e@floyd.miami-calendars
-DTSTAMP:20261017T161817Z
-LAST-MODIFIED:20261017T161817Z
-SEQUENCE:1
+DTSTAMP:20261103T221802Z
+LAST-MODIFIED:20261103T221802Z
+SEQUENCE:2
 DTSTART:20261204T040000Z
 DTEND:20261204T100000Z
-SUMMARY:Modern Love Affair (Floyd Basel 2026)
+SUMMARY:The Modern Love Affair (Floyd Basel 2026)
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
 DESCRIPTION:Tags (guess): house\, techno\nAges: 21+\nhttps://dice.fm/event/
  6aa05f20dcd56d0001894f1e\nhttps://link.dice.fm/modernloveaffairbasel
@@ -300,18 +300,18 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ac7e104051f140001741eed@floyd.miami-calendars
-DTSTAMP:20261025T041811Z
-LAST-MODIFIED:20261025T041811Z
-SEQUENCE:1
+DTSTAMP:20261103T221802Z
+LAST-MODIFIED:20261103T221802Z
+SEQUENCE:2
 DTSTART:20261213T040000Z
 DTEND:20261213T120000Z
-SUMMARY:My Friend Misty x OTHERWORLD Present: Sagittarius Soiree
+SUMMARY:Sagittarius Soiree: Mareux\, Curses (live) & More
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags: darkwave\, goth\, post-punk\nAges: 21+\nhttps://dice.fm/e
- vent/6ac7e104051f140001741eed\nhttps://link.dice.fm/sagsoiree
+DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6ac7e104051
+ f140001741eed
 URL:https://dice.fm/event/6ac7e104051f140001741eed
 STATUS:CONFIRMED
-CATEGORIES:darkwave,goth,post-punk
+CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aea031485f24b0001343ecc@floyd.miami-calendars

@@ -51,6 +51,26 @@
    ]
   },
   {
+   "id": "shotgun:comedy-night-at-churchill-s-9",
+   "source": "shotgun",
+   "title": "Comedy Night At Churchill's",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-11-03",
+   "start": "2026-11-04T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/comedy-night-at-churchill-s-9"
+  },
+  {
    "id": "shotgun:comedy-night-at-churchill-s-1",
    "source": "shotgun",
    "title": "Comedy Night At Churchill's - Every Tuesday",
@@ -1135,6 +1155,38 @@
     "https://dice.fm/event/wwnvvx-veronica-vasicka-minimal-wave-6th-nov-floyd-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/veronica-vasicka-minimal-wave-543657"
    ]
+  },
+  {
+   "id": "shotgun:freestyle-friday",
+   "source": "shotgun",
+   "title": "Freestyle Friday",
+   "artists": [],
+   "venue": "The Boombox Miami",
+   "venue_slug": "boombox",
+   "date": "2026-11-06",
+   "start": "2026-11-07T04:00:00+00:00",
+   "end": "2026-11-07T10:00:00+00:00",
+   "time_estimated": false,
+   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "synthpop",
+    "electro",
+    "new wave"
+   ],
+   "genres_inferred": false,
+   "organizer": "The Boombox Miami",
+   "description": "A Journey into Freestyle, Electro, & New Wave",
+   "url": "https://shotgun.live/en/events/freestyle-friday",
+   "tickets": "RSVP Free",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.7287781,
+    "longitude": -80.3169309
+   },
+   "created": "2026-11-03T17:00:22.000Z"
   },
   {
    "id": "dice:6aac2b58ba4e800001745f0c",
@@ -2570,6 +2622,26 @@
    "url": "https://wl.eventim.us/event/sunsquabi/703607?afflky=FunkyBiscuit"
   },
   {
+   "id": "shotgun:comedy-night-at-churchill-s-10",
+   "source": "shotgun",
+   "title": "Comedy Night At Churchill's",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-11-10",
+   "start": "2026-11-11T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/comedy-night-at-churchill-s-10"
+  },
+  {
    "id": "edmtrain:532667",
    "source": "edmtrain",
    "title": "Sunsquabi, Phyphr",
@@ -2748,6 +2820,30 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/secret-thursdays-547916"
    ]
+  },
+  {
+   "id": "dice:6aea22412c054000011c16aa",
+   "source": "dice",
+   "title": "Nyksan",
+   "artists": [],
+   "venue": "Jolene Sound Room Miami",
+   "venue_slug": "jolene",
+   "date": "2026-11-12",
+   "start": "2026-11-13T03:00:00+00:00",
+   "end": "2026-11-13T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6aea22412c054000011c16aa",
+   "cancelled": false
   },
   {
    "id": "dice:6acd12180a3d6400017d20c5",
@@ -3076,7 +3172,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $56",
+   "price": "From $50",
    "genres": [
     "eurobeat",
     "hard techno",
@@ -4618,6 +4714,26 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/george-clanton-527103"
    ]
+  },
+  {
+   "id": "shotgun:comedy-night-at-churchill-s-11",
+   "source": "shotgun",
+   "title": "Comedy Night At Churchill's",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-11-17",
+   "start": "2026-11-18T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/comedy-night-at-churchill-s-11"
   },
   {
    "id": "tablelist:8ba448be22306de7",
@@ -6276,6 +6392,26 @@
    ]
   },
   {
+   "id": "shotgun:comedy-night-at-churchill-s-12",
+   "source": "shotgun",
+   "title": "Comedy Night At Churchill's",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-11-24",
+   "start": "2026-11-25T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/comedy-night-at-churchill-s-12"
+  },
+  {
    "id": "edmtrain:543177",
    "source": "edmtrain",
    "title": "KARAN!, LAMEBOT, JEAN SEAN, Craze",
@@ -7786,7 +7922,7 @@
   {
    "id": "dice:6abe8450c57ae3000126d8c3",
    "source": "dice",
-   "title": "TBA",
+   "title": "Ale De Tuglie + Ammo Avenue",
    "artists": [],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
@@ -8837,7 +8973,7 @@
   {
    "id": "dice:6aa05f20dcd56d0001894f1e",
    "source": "19hz+dice",
-   "title": "Modern Love Affair (Floyd Basel 2026)",
+   "title": "The Modern Love Affair (Floyd Basel 2026)",
    "artists": [],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
@@ -10049,7 +10185,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$18.04",
+   "price": "$23.54",
    "genres": [
     "alternative",
     "dark electro",
@@ -10068,6 +10204,28 @@
     "https://shotgun.live/en/events/patriarchy-deflowered-florida-tour-ft-mvtant-angel-husk",
     "https://edmtrain.com/miami-fl/mvtant-546571"
    ]
+  },
+  {
+   "id": "shotgun:raw-cuts-records-h-foundation",
+   "source": "shotgun",
+   "title": "Raw Cuts Records: H-Foundation",
+   "artists": [],
+   "venue": "Paraiso Estéreo",
+   "venue_slug": null,
+   "date": "2026-12-05",
+   "start": "2026-12-06T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$24.99",
+   "genres": [
+    "house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/raw-cuts-records-h-foundation"
   },
   {
    "id": "shotgun:rap-vs-rock-night",
@@ -10246,7 +10404,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $20",
+   "price": "From $30",
    "genres": [
     "organic house",
     "progressive house"
@@ -10881,6 +11039,30 @@
    ]
   },
   {
+   "id": "dice:6aea1d9d1b1d7a0001c28ab0",
+   "source": "dice",
+   "title": "Marco Carola + Silvie Loto",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2026-12-11",
+   "start": "2026-12-12T04:00:00+00:00",
+   "end": "2026-12-12T20:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $30",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6aea1d9d1b1d7a0001c28ab0",
+   "cancelled": false
+  },
+  {
    "id": "dice:6aea02f973dd3500015ff82f",
    "source": "dice",
    "title": "Differ & Friends",
@@ -11192,19 +11374,19 @@
    ]
   },
   {
-   "id": "dice:6ac7e104051f140001741eed",
+   "id": "dice:6aea1dc47426be0001570e63",
    "source": "dice",
-   "title": "My Friend Misty x OTHERWORLD Present: Sagittarius Soiree",
+   "title": "Max Styler + Emanuel Satie",
    "artists": [],
-   "venue": "Floyd Miami",
-   "venue_slug": "the-ground",
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
    "date": "2026-12-12",
    "start": "2026-12-13T04:00:00+00:00",
-   "end": "2026-12-13T12:00:00+00:00",
+   "end": "2026-12-13T17:00:00+00:00",
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "",
-   "price": "From $15",
+   "price": "From $30",
    "genres": [
     "house",
     "techno"
@@ -11212,16 +11394,16 @@
    "genres_inferred": true,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6ac7e104051f140001741eed",
+   "url": "https://dice.fm/event/6aea1dc47426be0001570e63",
    "cancelled": false
   },
   {
    "id": "dice:6ac7e104051f140001741eed",
    "source": "19hz+dice",
-   "title": "My Friend Misty x OTHERWORLD Present: Sagittarius Soiree",
+   "title": "Sagittarius Soiree: Mareux, Curses (live) & More",
    "artists": [],
    "venue": "Floyd Miami",
-   "venue_slug": "floyd",
+   "venue_slug": "the-ground",
    "date": "2026-12-12",
    "start": "2026-12-13T04:00:00+00:00",
    "end": "2026-12-13T12:00:00+00:00",
@@ -11242,6 +11424,30 @@
    "alt_urls": [
     "https://link.dice.fm/sagsoiree"
    ]
+  },
+  {
+   "id": "dice:6ac7e104051f140001741eed",
+   "source": "dice",
+   "title": "Sagittarius Soiree: Mareux, Curses (live) & More",
+   "artists": [],
+   "venue": "Floyd Miami",
+   "venue_slug": "floyd",
+   "date": "2026-12-12",
+   "start": "2026-12-13T04:00:00+00:00",
+   "end": "2026-12-13T12:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $15",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ac7e104051f140001741eed",
+   "cancelled": false
   },
   {
    "id": "19hz:4451422-sonnyfodera",
@@ -11640,6 +11846,30 @@
    "url": "https://shotgun.live/en/events/the-hall-360-differ-f-2-f-nico-moon-6"
   },
   {
+   "id": "dice:6aea1d431652850001b21949",
+   "source": "dice",
+   "title": "Sidepiece + Westend",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2026-12-18",
+   "start": "2026-12-19T04:00:00+00:00",
+   "end": "2026-12-19T20:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $20",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6aea1d431652850001b21949",
+   "cancelled": false
+  },
+  {
    "id": "dice:6ae22470c173cf000152ed75",
    "source": "dice",
    "title": "KinAhau All Night Long",
@@ -11838,6 +12068,30 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/cyclops-machaki-534106"
    ]
+  },
+  {
+   "id": "dice:6aea20f485f24b0001ab78a6",
+   "source": "dice",
+   "title": "(A-Z) Arodes + Chris Avantgarde + Genesi + Jørd + Layla Benitez",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2026-12-19",
+   "start": "2026-12-20T04:00:00+00:00",
+   "end": "2026-12-20T20:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $25",
+   "genres": [
+    "tech house",
+    "techno"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6aea20f485f24b0001ab78a6",
+   "cancelled": false
   },
   {
    "id": "dice:6aea032f2c05400001df7dfc",
@@ -12200,6 +12454,30 @@
    ]
   },
   {
+   "id": "dice:6aea21817426be0001f0121d",
+   "source": "dice",
+   "title": "WHYNOTUS",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2026-12-26",
+   "start": "2026-12-27T04:00:00+00:00",
+   "end": "2026-12-27T20:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $20",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6aea21817426be0001f0121d",
+   "cancelled": false
+  },
+  {
    "id": "dice:6aea03471652850001b13939",
    "source": "dice",
    "title": "RE:FLECT",
@@ -12269,6 +12547,30 @@
    "generic_title": true
   },
   {
+   "id": "dice:6aea21d01652850001c84cb3",
+   "source": "dice",
+   "title": "Sara Landry + ØTTA",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2026-12-27",
+   "start": "2026-12-28T04:00:00+00:00",
+   "end": "2026-12-28T20:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $30",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6aea21d01652850001c84cb3",
+   "cancelled": false
+  },
+  {
    "id": "dice:6aea03af8723ec00012e16cc",
    "source": "dice",
    "title": "Groovers Only",
@@ -12319,6 +12621,30 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/chromeo-549475"
    ]
+  },
+  {
+   "id": "dice:6aea28be1652850001aa993f",
+   "source": "dice",
+   "title": "Jamie xx + Avalon Emerson",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2026-12-30",
+   "start": "2026-12-31T04:00:00+00:00",
+   "end": "2026-12-31T17:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $30",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6aea28be1652850001aa993f",
+   "cancelled": false
   },
   {
    "id": "edmtrain:523791",
@@ -12394,6 +12720,38 @@
    "description": "",
    "url": "https://tixr.com/e/207897",
    "generic_title": false
+  },
+  {
+   "id": "dice:6ae37fbe8bf64200012df1ae",
+   "source": "dice+edmtrain",
+   "title": "DOM DOLLA PRESENTS GOOD FORTUNE",
+   "artists": [
+    "Dom Dolla",
+    "SG Lewis",
+    "Fcukers",
+    "Cole Knight"
+   ],
+   "venue": "Factory Town",
+   "venue_slug": "factory-town",
+   "date": "2026-12-31",
+   "start": "2027-01-01T02:00:00+00:00",
+   "end": "2027-01-01T11:00:00+00:00",
+   "time_estimated": false,
+   "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6ae37fbe8bf64200012df1ae",
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/dom-dolla-sg-lewis-549632"
+   ]
   },
   {
    "id": "dice:6ae2d8728294f200017be159",
@@ -12569,6 +12927,30 @@
    "organizer": "",
    "description": "",
    "url": "https://ra.co/events/2528940"
+  },
+  {
+   "id": "dice:6aea29511b1d7a0001fad588",
+   "source": "dice",
+   "title": "NYE: Dennis Cruz + DJ Harvey + The Martinez Brothers",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2026-12-31",
+   "start": "2027-01-01T04:00:00+00:00",
+   "end": "2027-01-01T23:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $48",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6aea29511b1d7a0001fad588",
+   "cancelled": false
   },
   {
    "id": "dice:6aea036373dd35000163f300",

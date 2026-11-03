@@ -8,6 +8,24 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
+UID:freestyle-friday@shotgun.live
+DTSTAMP:20261103T221802Z
+LAST-MODIFIED:20261103T221802Z
+SEQUENCE:0
+DTSTART:20261107T040000Z
+DTEND:20261107T100000Z
+SUMMARY:Freestyle Friday
+LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
+ \, USA
+DESCRIPTION:A Journey into Freestyle\, Electro\, & New Wave\nTags: synthpop
+ \, electro\, new wave\nTickets: RSVP Free\nhttps://shotgun.live/en/events/
+ freestyle-friday
+URL:https://shotgun.live/en/events/freestyle-friday
+STATUS:CONFIRMED
+CATEGORIES:synthpop,electro,new wave
+GEO:25.7287781;-80.3169309
+END:VEVENT
+BEGIN:VEVENT
 UID:black-techo-matters@shotgun.live
 DTSTAMP:20261103T041809Z
 LAST-MODIFIED:20261103T041809Z

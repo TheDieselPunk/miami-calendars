@@ -3,7 +3,7 @@
   "slug": "club-space",
   "name": "Club Space",
   "file": "club-space.ics",
-  "events": 18,
+  "events": 26,
   "estimated_times": 2,
   "next": "2026-11-06",
   "sources": [
@@ -58,7 +58,7 @@
   "slug": "factory-town",
   "name": "Factory Town",
   "file": "factory-town.ics",
-  "events": 7,
+  "events": 8,
   "estimated_times": 0,
   "next": "2026-11-13",
   "sources": [
@@ -86,9 +86,9 @@
   "slug": "boombox",
   "name": "The Boombox Miami",
   "file": "boombox.ics",
-  "events": 8,
+  "events": 9,
   "estimated_times": 0,
-  "next": "2026-11-07",
+  "next": "2026-11-06",
   "sources": [
    "19hz",
    "edmtrain",
@@ -143,7 +143,7 @@
   "slug": "jolene",
   "name": "Jolene Sound Room",
   "file": "jolene.ics",
-  "events": 19,
+  "events": 20,
   "estimated_times": 0,
   "next": "2026-11-05",
   "sources": [
