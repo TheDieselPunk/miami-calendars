@@ -17,7 +17,7 @@
   "slug": "the-ground",
   "name": "The Ground at Space",
   "file": "the-ground.ics",
-  "events": 12,
+  "events": 15,
   "estimated_times": 0,
   "next": "2026-11-06",
   "sources": [
@@ -31,7 +31,7 @@
   "slug": "floyd",
   "name": "Floyd",
   "file": "floyd.ics",
-  "events": 21,
+  "events": 26,
   "estimated_times": 0,
   "next": "2026-11-06",
   "sources": [
@@ -72,9 +72,9 @@
   "slug": "kemistry",
   "name": "Kemistry (Fort Lauderdale)",
   "file": "kemistry.ics",
-  "events": 20,
+  "events": 21,
   "estimated_times": 1,
-  "next": "2026-11-06",
+  "next": "2026-11-05",
   "sources": [
    "19hz",
    "dice",
@@ -117,17 +117,19 @@
   "slug": "mad-radio",
   "name": "Mad Radio Miami",
   "file": "mad-radio.ics",
-  "events": 0,
+  "events": 4,
   "estimated_times": 0,
-  "next": null,
-  "sources": [],
+  "next": "2026-11-04",
+  "sources": [
+   "shotgun"
+  ],
   "hours_note": "Observed on Shotgun: 9 PM-3 AM every night."
  },
  {
   "slug": "daer",
   "name": "DAER (Hard Rock Hollywood)",
   "file": "daer.ics",
-  "events": 56,
+  "events": 57,
   "estimated_times": 0,
   "next": "2026-11-06",
   "sources": [
