@@ -9,9 +9,9 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:black-techo-matters@shotgun.live
-DTSTAMP:20261031T041809Z
-LAST-MODIFIED:20261031T041809Z
-SEQUENCE:1
+DTSTAMP:20261103T041809Z
+LAST-MODIFIED:20261103T041809Z
+SEQUENCE:2
 DTSTART:20261108T040000Z
 DTEND:20261108T090000Z
 SUMMARY:Black Techno Matters
@@ -30,7 +30,8 @@ DESCRIPTION:Public Energy is proud to be partnering with Black Techno Matte
  set. We’re beyond excited to have techno bumping right here at The Boomb
  ox Miami. ALL BLACK OUTFIT IS *HIGHLY* Encouraged for the occasion.\nLineu
  p: Nile Ashton\, B_X_R_N_X_R_D\, duun\, Duality\nTags: dub techno\, techno
- \nTickets: T1 $10\nhttps://shotgun.live/en/events/black-techo-matters
+ \nTickets: T1 $10 (sold out)\, T2 $17\nhttps://shotgun.live/en/events/blac
+ k-techo-matters
 URL:https://shotgun.live/en/events/black-techo-matters
 STATUS:CONFIRMED
 CATEGORIES:dub techno,techno
