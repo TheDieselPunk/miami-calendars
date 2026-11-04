@@ -54,6 +54,22 @@ STATUS:CONFIRMED
 CATEGORIES:house,melodic house & techno,indie dance
 END:VEVENT
 BEGIN:VEVENT
+UID:ravediggaz@shotgun.live
+DTSTAMP:20261104T041813Z
+LAST-MODIFIED:20261104T041813Z
+SEQUENCE:0
+DTSTART:20261114T045900Z
+DTEND:20261114T110000Z
+SUMMARY:Ravediggaz
+LOCATION:Miami
+DESCRIPTION:Tags: acid house\, breakbeat\, electro\, minimal\, tech house\n
+ Ages: 21+\nhttps://shotgun.live/en/events/ravediggaz\nhttps://ra.co/events
+ /2544621
+URL:https://shotgun.live/en/events/ravediggaz
+STATUS:CONFIRMED
+CATEGORIES:acid house,breakbeat,electro,minimal,tech house
+END:VEVENT
+BEGIN:VEVENT
 UID:19hz-4448695-sacredmeadowsart@festivals.miami-calendars
 DTSTAMP:20260921T214009Z
 LAST-MODIFIED:20260921T214009Z

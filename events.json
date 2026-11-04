@@ -51,46 +51,6 @@
    ]
   },
   {
-   "id": "shotgun:comedy-night-at-churchill-s-9",
-   "source": "shotgun",
-   "title": "Comedy Night At Churchill's",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-11-03",
-   "start": "2026-11-04T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/comedy-night-at-churchill-s-9"
-  },
-  {
-   "id": "shotgun:comedy-night-at-churchill-s-1",
-   "source": "shotgun",
-   "title": "Comedy Night At Churchill's - Every Tuesday",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-11-03",
-   "start": "2026-11-04T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/comedy-night-at-churchill-s-1"
-  },
-  {
    "id": "shotgun:tainted-the-doll-mix-a-dragula-viewing-party-and-drag-show-2",
    "source": "shotgun",
    "title": "Tainted: Alternativas Latinas A Drag Show",
@@ -1057,6 +1017,35 @@
    "url": "https://shotgun.live/en/events/the-hall-360-differ-f-2-f-nico-moon-2",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/ray-kash-549117"
+   ]
+  },
+  {
+   "id": "edmtrain:549703",
+   "source": "edmtrain",
+   "title": "At Sea Opening Party: My Friend, Ammo Amor, Sebas, iAWo, Rob Denman",
+   "artists": [
+    "My Friend",
+    "Ammo Amor",
+    "Sebas",
+    "iAWo",
+    "Rob Denman"
+   ],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-11-06",
+   "start": "2026-11-07T03:00:00+00:00",
+   "end": "2026-11-07T08:00:00+00:00",
+   "time_estimated": true,
+   "address": "353 NE 61st St, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://opdt.io/li_tGoZt",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/at-sea-opening-party-my-friend-uk-549703"
    ]
   },
   {
@@ -2551,9 +2540,12 @@
   },
   {
    "id": "dice:6abe7cb502ef7e0001ff0371",
-   "source": "19hz+dice",
-   "title": "Roujeee Tunes All Night Long",
-   "artists": [],
+   "source": "19hz+dice+edmtrain",
+   "title": "Roujeee Tunes + Thunderpony",
+   "artists": [
+    "Roujeee Tunes",
+    "Thunderpony"
+   ],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
    "date": "2026-11-08",
@@ -2573,7 +2565,33 @@
    "url": "https://dice.fm/event/6abe7cb502ef7e0001ff0371",
    "cancelled": false,
    "alt_urls": [
-    "https://link.dice.fm/roujeeefloyd"
+    "https://link.dice.fm/roujeeefloyd",
+    "https://edmtrain.com/miami-fl/roujeee-tunes-thunderpony-549828"
+   ]
+  },
+  {
+   "id": "edmtrain:549833",
+   "source": "edmtrain",
+   "title": "Binh",
+   "artists": [
+    "Binh"
+   ],
+   "venue": "Fooq's",
+   "venue_slug": null,
+   "date": "2026-11-08",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "150 NW 73rd St, Miami, FL 33150, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/ok2y8r?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/binh-549833"
    ]
   },
   {
@@ -3172,7 +3190,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $50",
+   "price": "From $56",
    "genres": [
     "eurobeat",
     "hard techno",
@@ -3500,27 +3518,33 @@
    ]
   },
   {
-   "id": "19hz:4448639-ravediggaz",
-   "source": "19hz",
-   "title": "Rave Diggaz",
+   "id": "shotgun:ravediggaz",
+   "source": "19hz+shotgun",
+   "title": "Ravediggaz",
    "artists": [],
-   "venue": "Dear Eleanor",
-   "venue_slug": null,
+   "venue": "Miami",
+   "venue_slug": "festivals",
    "date": "2026-11-13",
    "start": "2026-11-14T04:59:00+00:00",
    "end": "2026-11-14T11:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$10-25",
+   "price": "$20.00",
    "genres": [
+    "acid house",
+    "breakbeat",
+    "electro",
     "minimal",
     "tech house"
    ],
    "genres_inferred": false,
-   "organizer": "Ya Dig Records",
+   "organizer": "",
    "description": "",
-   "url": "https://ra.co/events/2544621"
+   "url": "https://shotgun.live/en/events/ravediggaz",
+   "alt_urls": [
+    "https://ra.co/events/2544621"
+   ]
   },
   {
    "id": "edmtrain:549325",
@@ -4403,6 +4427,33 @@
    ]
   },
   {
+   "id": "edmtrain:549776",
+   "source": "edmtrain",
+   "title": "EL HOUSE @ ASTRA WYNWOOD: Carlito', Menacious, Axara",
+   "artists": [
+    "Carlito'",
+    "Menacious",
+    "Axara"
+   ],
+   "venue": "ASTRA",
+   "venue_slug": null,
+   "date": "2026-11-14",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "2121 NW 2nd Ave, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/el-house-astra?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/el-house-astra-wynwood-carlito-549776"
+   ]
+  },
+  {
    "id": "edmtrain:546515",
    "source": "edmtrain",
    "title": "Rodrigo Vieira, Dmeyer",
@@ -4921,6 +4972,31 @@
    "url": "https://posh.vip/e/chris-valencia-selva-10",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/chris-valencia-547994"
+   ]
+  },
+  {
+   "id": "edmtrain:549813",
+   "source": "edmtrain",
+   "title": "Secret Thursdays",
+   "artists": [],
+   "venue": "Do Not Sit On The Furniture",
+   "venue_slug": null,
+   "date": "2026-11-19",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "423 16th St, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "deep house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/aab6pd?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/secret-thursdays-549813"
    ]
   },
   {
@@ -6135,6 +6211,26 @@
    "generic_title": true
   },
   {
+   "id": "shotgun:gypsy-83-at-sidewalk-bottleshop",
+   "source": "shotgun",
+   "title": "Gypsy 83: A Goth Night At Sidewalk Bottleshop",
+   "artists": [],
+   "venue": "North Miami",
+   "venue_slug": null,
+   "date": "2026-11-22",
+   "start": "2026-11-22T23:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/gypsy-83-at-sidewalk-bottleshop"
+  },
+  {
    "id": "19hz:4449480-sundancewbudakid",
    "source": "19hz+edmtrain",
    "title": "Sundance w/ Budakid",
@@ -6267,7 +6363,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "",
-   "price": "",
+   "price": " (sold out)",
    "genres": [
     "house",
     "techno"
@@ -6833,6 +6929,30 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/omaks-548810"
    ]
+  },
+  {
+   "id": "dice:6aea70fe16528500017b9334",
+   "source": "dice",
+   "title": "Generous B Presents",
+   "artists": [],
+   "venue": "Jolene Sound Room Miami",
+   "venue_slug": "jolene",
+   "date": "2026-11-27",
+   "start": "2026-11-28T03:00:00+00:00",
+   "end": "2026-11-28T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6aea70fe16528500017b9334",
+   "cancelled": false
   },
   {
    "id": "dice:6aaae809e78bd300017554b1",
@@ -7921,9 +8041,13 @@
   },
   {
    "id": "dice:6abe8450c57ae3000126d8c3",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "Ale De Tuglie + Ammo Avenue",
-   "artists": [],
+   "artists": [
+    "Ale De Tuglie",
+    "Ammo Avenue",
+    "Alessandro de Tuglie"
+   ],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
    "date": "2026-11-29",
@@ -7941,7 +8065,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6abe8450c57ae3000126d8c3",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/ale-de-tuglie-ammo-avenue-549829"
+   ]
   },
   {
    "id": "edmtrain:539773",
@@ -7979,7 +8106,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $12",
+   "price": "From $15",
    "genres": [
     "house",
     "tech house",
@@ -8829,7 +8956,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $15",
+   "price": "From $17",
    "genres": [
     "minimal",
     "tech house"
@@ -11040,9 +11167,12 @@
   },
   {
    "id": "dice:6aea1d9d1b1d7a0001c28ab0",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "Marco Carola + Silvie Loto",
-   "artists": [],
+   "artists": [
+    "Marco Carola",
+    "Silvie Loto"
+   ],
    "venue": "Club Space Miami",
    "venue_slug": "club-space",
    "date": "2026-12-11",
@@ -11060,7 +11190,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aea1d9d1b1d7a0001c28ab0",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/marco-carola-silvie-loto-549792"
+   ]
   },
   {
    "id": "dice:6aea02f973dd3500015ff82f",
@@ -11375,9 +11508,12 @@
   },
   {
    "id": "dice:6aea1dc47426be0001570e63",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "Max Styler + Emanuel Satie",
-   "artists": [],
+   "artists": [
+    "Max Styler",
+    "Emanuel Satie"
+   ],
    "venue": "Club Space Miami",
    "venue_slug": "club-space",
    "date": "2026-12-12",
@@ -11395,7 +11531,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aea1dc47426be0001570e63",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/max-styler-emanuel-satie-549793"
+   ]
   },
   {
    "id": "dice:6ac7e104051f140001741eed",
@@ -11475,6 +11614,33 @@
    "url": "https://www.ticketweb.com/event/id/14322674",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/sonny-fodera-537637"
+   ]
+  },
+  {
+   "id": "edmtrain:549814",
+   "source": "edmtrain",
+   "title": "Roderic",
+   "artists": [
+    "Roderic"
+   ],
+   "venue": "Do Not Sit On The Furniture",
+   "venue_slug": null,
+   "date": "2026-12-12",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "423 16th St, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "deep house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/kxpwao?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/roderic-549814"
    ]
   },
   {
@@ -11847,9 +12013,12 @@
   },
   {
    "id": "dice:6aea1d431652850001b21949",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "Sidepiece + Westend",
-   "artists": [],
+   "artists": [
+    "SIDEPIECE",
+    "WESTEND"
+   ],
    "venue": "Club Space Miami",
    "venue_slug": "club-space",
    "date": "2026-12-18",
@@ -11867,7 +12036,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aea1d431652850001b21949",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/sidepiece-westend-549713"
+   ]
   },
   {
    "id": "dice:6ae22470c173cf000152ed75",
@@ -11892,6 +12064,33 @@
    "description": "",
    "url": "https://dice.fm/event/6ae22470c173cf000152ed75",
    "cancelled": false
+  },
+  {
+   "id": "edmtrain:549815",
+   "source": "edmtrain",
+   "title": "Pippi Ciez",
+   "artists": [
+    "Pippi Ciez"
+   ],
+   "venue": "Do Not Sit On The Furniture",
+   "venue_slug": null,
+   "date": "2026-12-18",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "423 16th St, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "deep house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/yy28b2?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/pippi-ciez-549815"
+   ]
   },
   {
    "id": "hardrock:207853",
@@ -12071,9 +12270,15 @@
   },
   {
    "id": "dice:6aea20f485f24b0001ab78a6",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "(A-Z) Arodes + Chris Avantgarde + Genesi + Jørd + Layla Benitez",
-   "artists": [],
+   "artists": [
+    "Arodes",
+    "Chris Avantgarde",
+    "GENESI",
+    "Jørd",
+    "Layla Benitez"
+   ],
    "venue": "Club Space Miami",
    "venue_slug": "club-space",
    "date": "2026-12-19",
@@ -12091,13 +12296,18 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aea20f485f24b0001ab78a6",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/arodes-chris-avantgarde-549794"
+   ]
   },
   {
    "id": "dice:6aea032f2c05400001df7dfc",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "San Pacho",
-   "artists": [],
+   "artists": [
+    "San Pacho"
+   ],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
    "date": "2026-12-19",
@@ -12115,7 +12325,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aea032f2c05400001df7dfc",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/san-pacho-549830"
+   ]
   },
   {
    "id": "dice:6aea037c73dd350001f850dd",
@@ -12284,11 +12497,9 @@
   },
   {
    "id": "19hz:4452664-roderic",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Roderic",
-   "artists": [
-    "Roderic"
-   ],
+   "artists": [],
    "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
    "date": "2026-12-25",
@@ -12305,9 +12516,33 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6adf390f8ce7790001290c1c",
+   "url": "https://dice.fm/event/6adf390f8ce7790001290c1c"
+  },
+  {
+   "id": "edmtrain:547917",
+   "source": "edmtrain",
+   "title": "Sébastien Léger",
+   "artists": [
+    "Sébastien Léger"
+   ],
+   "venue": "Do Not Sit On The Furniture",
+   "venue_slug": null,
+   "date": "2026-12-25",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "423 16th St, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "deep house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/nvrp53?pid=d6342b83",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/roderic-547917"
+    "https://edmtrain.com/miami-fl/sebastien-leger-547917"
    ]
   },
   {
@@ -12455,9 +12690,14 @@
   },
   {
    "id": "dice:6aea21817426be0001f0121d",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "WHYNOTUS",
-   "artists": [],
+   "artists": [
+    "Nic Fanciulli",
+    "Malóne Morez",
+    "Calussa",
+    "Tony Guerra"
+   ],
    "venue": "Club Space Miami",
    "venue_slug": "club-space",
    "date": "2026-12-26",
@@ -12475,11 +12715,14 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aea21817426be0001f0121d",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/whynotus-nic-fanciulli-549796"
+   ]
   },
   {
    "id": "dice:6aea03471652850001b13939",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "RE:FLECT",
    "artists": [],
    "venue": "Floyd Miami",
@@ -12499,7 +12742,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aea03471652850001b13939",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/re-flect-549831"
+   ]
   },
   {
    "id": "dice:6aea039753eca80001c88dc8",
@@ -12548,9 +12794,12 @@
   },
   {
    "id": "dice:6aea21d01652850001c84cb3",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "Sara Landry + ØTTA",
-   "artists": [],
+   "artists": [
+    "Sara Landry",
+    "ØTTA"
+   ],
    "venue": "Club Space Miami",
    "venue_slug": "club-space",
    "date": "2026-12-27",
@@ -12568,7 +12817,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aea21d01652850001c84cb3",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/sara-landry-otta-549795"
+   ]
   },
   {
    "id": "dice:6aea03af8723ec00012e16cc",
@@ -12593,6 +12845,31 @@
    "description": "",
    "url": "https://dice.fm/event/6aea03af8723ec00012e16cc",
    "cancelled": false
+  },
+  {
+   "id": "edmtrain:549818",
+   "source": "edmtrain",
+   "title": "A-TRAIN",
+   "artists": [
+    "A-TRAIN"
+   ],
+   "venue": "E11EVEN",
+   "venue_slug": null,
+   "date": "2026-12-28",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "29 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://speakeasygo.com/event/EVE-5NRMXW?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/a-train-549818"
+   ]
   },
   {
    "id": "zeyzey:chromeo-dj-set-30-dec",
@@ -12624,9 +12901,12 @@
   },
   {
    "id": "dice:6aea28be1652850001aa993f",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "Jamie xx + Avalon Emerson",
-   "artists": [],
+   "artists": [
+    "Jamie xx",
+    "Avalon Emerson"
+   ],
    "venue": "Club Space Miami",
    "venue_slug": "club-space",
    "date": "2026-12-30",
@@ -12644,7 +12924,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aea28be1652850001aa993f",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/jamie-xx-avalon-emerson-549797"
+   ]
   },
   {
    "id": "edmtrain:523791",
@@ -12930,9 +13213,13 @@
   },
   {
    "id": "dice:6aea29511b1d7a0001fad588",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "NYE: Dennis Cruz + DJ Harvey + The Martinez Brothers",
-   "artists": [],
+   "artists": [
+    "Dennis Cruz",
+    "DJ Harvey",
+    "The Martinez Brothers"
+   ],
    "venue": "Club Space Miami",
    "venue_slug": "club-space",
    "date": "2026-12-31",
@@ -12950,11 +13237,14 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aea29511b1d7a0001fad588",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/dennis-cruz-dj-harvey-549798"
+   ]
   },
   {
    "id": "dice:6aea036373dd35000163f300",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "NYE: Lisa's Kickback",
    "artists": [],
    "venue": "Floyd Miami",
@@ -12974,7 +13264,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aea036373dd35000163f300",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/lisas-kickback-549832"
+   ]
   },
   {
    "id": "19hz:4453246-adriatique",

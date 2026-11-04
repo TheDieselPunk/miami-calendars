@@ -490,9 +490,9 @@
   "modified": "2026-10-22T22:18:20+00:00"
  },
  "dice-6abe7cb502ef7e0001ff0371@floyd.miami-calendars": {
-  "hash": "7896e02a31105148",
-  "seq": 1,
-  "modified": "2026-10-17T16:18:17+00:00"
+  "hash": "b1610b2463ab6c79",
+  "seq": 2,
+  "modified": "2026-11-04T04:18:13+00:00"
  },
  "dice-6abe7d4787e1d10001e5ab10@floyd.miami-calendars": {
   "hash": "f8badcdb605c664d",
@@ -525,9 +525,9 @@
   "modified": "2026-10-31T04:18:09+00:00"
  },
  "dice-6abe8450c57ae3000126d8c3@floyd.miami-calendars": {
-  "hash": "abec1c6d394f07bc",
-  "seq": 1,
-  "modified": "2026-11-03T22:18:02+00:00"
+  "hash": "806177403f1d88cf",
+  "seq": 2,
+  "modified": "2026-11-04T04:18:13+00:00"
  },
  "dice-6ac66d60ede61600010d1cba@club-space.miami-calendars": {
   "hash": "80c722c5865f8a69",
@@ -690,19 +690,19 @@
   "modified": "2026-11-03T16:18:01+00:00"
  },
  "dice-6aea032f2c05400001df7dfc@floyd.miami-calendars": {
-  "hash": "6ec7ff80e8f6c3f3",
-  "seq": 0,
-  "modified": "2026-11-03T16:18:01+00:00"
+  "hash": "d309e1a882f19217",
+  "seq": 1,
+  "modified": "2026-11-04T04:18:13+00:00"
  },
  "dice-6aea03471652850001b13939@floyd.miami-calendars": {
-  "hash": "91821ad729ca40e1",
-  "seq": 0,
-  "modified": "2026-11-03T16:18:01+00:00"
+  "hash": "bbe0bf18ba74bfaa",
+  "seq": 1,
+  "modified": "2026-11-04T04:18:13+00:00"
  },
  "dice-6aea036373dd35000163f300@floyd.miami-calendars": {
-  "hash": "e62b3b3c3c12559c",
-  "seq": 0,
-  "modified": "2026-11-03T16:18:01+00:00"
+  "hash": "6c9fa04ca4b17bca",
+  "seq": 1,
+  "modified": "2026-11-04T04:18:13+00:00"
  },
  "dice-6aea037c73dd350001f850dd@the-ground.miami-calendars": {
   "hash": "d772a08903ece5a6",
@@ -720,34 +720,34 @@
   "modified": "2026-11-03T16:18:01+00:00"
  },
  "dice-6aea1d431652850001b21949@club-space.miami-calendars": {
-  "hash": "eb767a941eedc44f",
-  "seq": 0,
-  "modified": "2026-11-03T22:18:02+00:00"
+  "hash": "d78d0e066ecf9289",
+  "seq": 1,
+  "modified": "2026-11-04T04:18:13+00:00"
  },
  "dice-6aea1d9d1b1d7a0001c28ab0@club-space.miami-calendars": {
-  "hash": "dbff3df6120a179a",
-  "seq": 0,
-  "modified": "2026-11-03T22:18:02+00:00"
+  "hash": "8b40e61e5de88f14",
+  "seq": 1,
+  "modified": "2026-11-04T04:18:13+00:00"
  },
  "dice-6aea1dc47426be0001570e63@club-space.miami-calendars": {
-  "hash": "fe088293e2c1d897",
-  "seq": 0,
-  "modified": "2026-11-03T22:18:02+00:00"
+  "hash": "dfe593bcf2491011",
+  "seq": 1,
+  "modified": "2026-11-04T04:18:13+00:00"
  },
  "dice-6aea20f485f24b0001ab78a6@club-space.miami-calendars": {
-  "hash": "ffec672a4428774b",
-  "seq": 0,
-  "modified": "2026-11-03T22:18:02+00:00"
+  "hash": "a4e62b5e961d5a52",
+  "seq": 1,
+  "modified": "2026-11-04T04:18:13+00:00"
  },
  "dice-6aea21817426be0001f0121d@club-space.miami-calendars": {
-  "hash": "b5edfae5994485c9",
-  "seq": 0,
-  "modified": "2026-11-03T22:18:02+00:00"
+  "hash": "30ed4d9b6e3049c1",
+  "seq": 1,
+  "modified": "2026-11-04T04:18:13+00:00"
  },
  "dice-6aea21d01652850001c84cb3@club-space.miami-calendars": {
-  "hash": "1216622caac6df84",
-  "seq": 0,
-  "modified": "2026-11-03T22:18:02+00:00"
+  "hash": "93f665a49b11bbba",
+  "seq": 1,
+  "modified": "2026-11-04T04:18:13+00:00"
  },
  "dice-6aea22412c054000011c16aa@jolene.miami-calendars": {
   "hash": "55b74967bcd6f57e",
@@ -755,14 +755,19 @@
   "modified": "2026-11-03T22:18:02+00:00"
  },
  "dice-6aea28be1652850001aa993f@club-space.miami-calendars": {
-  "hash": "60459d733806954b",
-  "seq": 0,
-  "modified": "2026-11-03T22:18:02+00:00"
+  "hash": "4932dee2cf6b2ed2",
+  "seq": 1,
+  "modified": "2026-11-04T04:18:13+00:00"
  },
  "dice-6aea29511b1d7a0001fad588@club-space.miami-calendars": {
-  "hash": "416d77e2166048d6",
+  "hash": "0198ba20975addd3",
+  "seq": 1,
+  "modified": "2026-11-04T04:18:13+00:00"
+ },
+ "dice-6aea70fe16528500017b9334@jolene.miami-calendars": {
+  "hash": "87f8e17b9c759ffb",
   "seq": 0,
-  "modified": "2026-11-03T22:18:02+00:00"
+  "modified": "2026-11-04T04:18:13+00:00"
  },
  "edmtrain-458944@festivals.miami-calendars": {
   "hash": "52f5b7eb786ce532",
@@ -878,6 +883,11 @@
   "hash": "d8269862e3c21865",
   "seq": 0,
   "modified": "2026-10-30T04:18:27+00:00"
+ },
+ "edmtrain-549703@zeyzey.miami-calendars": {
+  "hash": "69f85cdc044a9ba1",
+  "seq": 0,
+  "modified": "2026-11-04T04:18:13+00:00"
  },
  "equinox-fest-4-day-2-3-november-21-22nd@shotgun.live": {
   "hash": "a6b82d159fc90bb0",
@@ -1228,6 +1238,11 @@
   "hash": "1c469fee0d3a69fd",
   "seq": 2,
   "modified": "2026-09-28T04:18:01+00:00"
+ },
+ "ravediggaz@shotgun.live": {
+  "hash": "442a527403f36826",
+  "seq": 0,
+  "modified": "2026-11-04T04:18:13+00:00"
  },
  "sangomia1205@shotgun.live": {
   "hash": "0e85c3d9c629312f",

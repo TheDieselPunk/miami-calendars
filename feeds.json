@@ -100,8 +100,8 @@
   "slug": "zeyzey",
   "name": "ZeyZey Miami",
   "file": "zeyzey.ics",
-  "events": 56,
-  "estimated_times": 1,
+  "events": 57,
+  "estimated_times": 2,
   "next": "2026-11-05",
   "sources": [
    "19hz",
@@ -143,7 +143,7 @@
   "slug": "jolene",
   "name": "Jolene Sound Room",
   "file": "jolene.ics",
-  "events": 20,
+  "events": 21,
   "estimated_times": 0,
   "next": "2026-11-05",
   "sources": [
@@ -171,7 +171,7 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 37,
+  "events": 38,
   "estimated_times": 17,
   "next": "2026-11-07",
   "sources": [

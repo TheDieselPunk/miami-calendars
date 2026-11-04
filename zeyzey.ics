@@ -60,6 +60,23 @@ STATUS:CONFIRMED
 CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
+UID:edmtrain-549703@zeyzey.miami-calendars
+DTSTAMP:20261104T041813Z
+LAST-MODIFIED:20261104T041813Z
+SEQUENCE:0
+DTSTART:20261107T030000Z
+DTEND:20261107T080000Z
+SUMMARY:At Sea Opening Party: My Friend\, Ammo Amor\, Sebas\, iAWo\, Rob De
+ nman
+LOCATION:ZeyZey Miami\, 353 NE 61st St\, Miami\, FL 33137\, USA
+DESCRIPTION:Lineup: My Friend\, Ammo Amor\, Sebas\, iAWo\, Rob Denman\nTime
+ s are an estimate from ZeyZey Miami's usual hours - the listing has no sta
+ rt time yet. Check the link.\nhttps://opdt.io/li_tGoZt\nhttps://edmtrain.c
+ om/miami-fl/at-sea-opening-party-my-friend-uk-549703
+URL:https://opdt.io/li_tGoZt
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-com-truise-06-nov@zeyzey.miami-calendars
 DTSTAMP:20261101T221749Z
 LAST-MODIFIED:20261101T221749Z

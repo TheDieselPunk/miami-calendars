@@ -42,15 +42,17 @@ CATEGORIES:footwork,ghetto tech
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abe7cb502ef7e0001ff0371@floyd.miami-calendars
-DTSTAMP:20261017T161817Z
-LAST-MODIFIED:20261017T161817Z
-SEQUENCE:1
+DTSTAMP:20261104T041813Z
+LAST-MODIFIED:20261104T041813Z
+SEQUENCE:2
 DTSTART:20261109T040000Z
 DTEND:20261109T100000Z
-SUMMARY:Roujeee Tunes All Night Long
+SUMMARY:Roujeee Tunes + Thunderpony
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags: funky house\, tech house\nAges: 21+\nhttps://dice.fm/even
- t/6abe7cb502ef7e0001ff0371\nhttps://link.dice.fm/roujeeefloyd
+DESCRIPTION:Lineup: Roujeee Tunes\, Thunderpony\nTags: funky house\, tech h
+ ouse\nAges: 21+\nhttps://dice.fm/event/6abe7cb502ef7e0001ff0371\nhttps://e
+ dmtrain.com/miami-fl/roujeee-tunes-thunderpony-549828\nhttps://link.dice.f
+ m/roujeeefloyd
 URL:https://dice.fm/event/6abe7cb502ef7e0001ff0371
 STATUS:CONFIRMED
 CATEGORIES:funky house,tech house
@@ -184,15 +186,16 @@ CATEGORIES:pop edm,synthpop
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abe8450c57ae3000126d8c3@floyd.miami-calendars
-DTSTAMP:20261103T221802Z
-LAST-MODIFIED:20261103T221802Z
-SEQUENCE:1
+DTSTAMP:20261104T041813Z
+LAST-MODIFIED:20261104T041813Z
+SEQUENCE:2
 DTSTART:20261130T040000Z
 DTEND:20261130T100000Z
 SUMMARY:Ale De Tuglie + Ammo Avenue
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6abe8450c57
- ae3000126d8c3
+DESCRIPTION:Lineup: Ale De Tuglie\, Ammo Avenue\, Alessandro de Tuglie\nTag
+ s (guess): house\, techno\nhttps://dice.fm/event/6abe8450c57ae3000126d8c3
+ \nhttps://edmtrain.com/miami-fl/ale-de-tuglie-ammo-avenue-549829
 URL:https://dice.fm/event/6abe8450c57ae3000126d8c3
 STATUS:CONFIRMED
 CATEGORIES:house,techno
@@ -345,15 +348,16 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aea032f2c05400001df7dfc@floyd.miami-calendars
-DTSTAMP:20261103T161801Z
-LAST-MODIFIED:20261103T161801Z
-SEQUENCE:0
+DTSTAMP:20261104T041813Z
+LAST-MODIFIED:20261104T041813Z
+SEQUENCE:1
 DTSTART:20261220T040000Z
 DTEND:20261220T100000Z
 SUMMARY:San Pacho
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6aea032f2c0
- 5400001df7dfc
+DESCRIPTION:Lineup: San Pacho\nTags (guess): house\, techno\nhttps://dice.f
+ m/event/6aea032f2c05400001df7dfc\nhttps://edmtrain.com/miami-fl/san-pacho-
+ 549830
 URL:https://dice.fm/event/6aea032f2c05400001df7dfc
 STATUS:CONFIRMED
 CATEGORIES:house,techno
@@ -375,30 +379,30 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aea03471652850001b13939@floyd.miami-calendars
-DTSTAMP:20261103T161801Z
-LAST-MODIFIED:20261103T161801Z
-SEQUENCE:0
+DTSTAMP:20261104T041813Z
+LAST-MODIFIED:20261104T041813Z
+SEQUENCE:1
 DTSTART:20261227T040000Z
 DTEND:20261227T100000Z
 SUMMARY:RE:FLECT
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
 DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6aea0347165
- 2850001b13939
+ 2850001b13939\nhttps://edmtrain.com/miami-fl/re-flect-549831
 URL:https://dice.fm/event/6aea03471652850001b13939
 STATUS:CONFIRMED
 CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aea036373dd35000163f300@floyd.miami-calendars
-DTSTAMP:20261103T161801Z
-LAST-MODIFIED:20261103T161801Z
-SEQUENCE:0
+DTSTAMP:20261104T041813Z
+LAST-MODIFIED:20261104T041813Z
+SEQUENCE:1
 DTSTART:20270101T040000Z
 DTEND:20270101T100000Z
 SUMMARY:NYE: Lisa's Kickback
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
 DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6aea036373d
- d35000163f300
+ d35000163f300\nhttps://edmtrain.com/miami-fl/lisas-kickback-549832
 URL:https://dice.fm/event/6aea036373dd35000163f300
 STATUS:CONFIRMED
 CATEGORIES:house,techno
