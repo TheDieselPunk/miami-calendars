@@ -74,6 +74,11 @@
   "seq": 0,
   "modified": "2026-10-25T04:18:11+00:00"
  },
+ "19hz-4450552-afterjamjamback@jolene.miami-calendars": {
+  "hash": "74a2aa36aba9254d",
+  "seq": 0,
+  "modified": "2026-11-04T10:18:19+00:00"
+ },
  "19hz-4450552-baselweekopening@domicile.miami-calendars": {
   "hash": "00493b98cc35f6c6",
   "seq": 0,
@@ -398,11 +403,6 @@
   "hash": "2f151be5f0d8ed64",
   "seq": 3,
   "modified": "2026-09-26T22:18:17+00:00"
- },
- "dice-6ab3a356f3be0b000115831c@jolene.miami-calendars": {
-  "hash": "6f36c09f34f939bf",
-  "seq": 3,
-  "modified": "2026-10-22T04:18:28+00:00"
  },
  "dice-6ab3fb9d80f9a500012b3792@kemistry.miami-calendars": {
   "hash": "4af2d24278050bfd",
@@ -765,9 +765,9 @@
   "modified": "2026-11-04T04:18:13+00:00"
  },
  "dice-6aea70fe16528500017b9334@jolene.miami-calendars": {
-  "hash": "87f8e17b9c759ffb",
-  "seq": 0,
-  "modified": "2026-11-04T04:18:13+00:00"
+  "hash": "b2a28e7f34e3cd8c",
+  "seq": 1,
+  "modified": "2026-11-04T10:18:19+00:00"
  },
  "edmtrain-458944@festivals.miami-calendars": {
   "hash": "52f5b7eb786ce532",
@@ -1215,24 +1215,24 @@
   "modified": "2026-10-22T04:18:28+00:00"
  },
  "madradiomiami110426@shotgun.live": {
-  "hash": "58469187db6fbc26",
-  "seq": 0,
-  "modified": "2026-11-03T16:18:01+00:00"
+  "hash": "4699b893245f67b0",
+  "seq": 1,
+  "modified": "2026-11-04T10:18:19+00:00"
  },
  "madradiomiami110526@shotgun.live": {
-  "hash": "0758978e6e66ff20",
-  "seq": 0,
-  "modified": "2026-11-03T16:18:01+00:00"
+  "hash": "e5a4ab975f804ea3",
+  "seq": 1,
+  "modified": "2026-11-04T10:18:19+00:00"
  },
  "madradiomiami110626@shotgun.live": {
-  "hash": "f2ee04d2e4598560",
-  "seq": 0,
-  "modified": "2026-11-03T16:18:01+00:00"
+  "hash": "d439a7bceb75e2f0",
+  "seq": 1,
+  "modified": "2026-11-04T10:18:19+00:00"
  },
  "madradiomiami110726@shotgun.live": {
-  "hash": "437fb8c7355e0ebe",
-  "seq": 0,
-  "modified": "2026-11-03T16:18:01+00:00"
+  "hash": "7065bd9d85294e97",
+  "seq": 1,
+  "modified": "2026-11-04T10:18:19+00:00"
  },
  "paloma-morphy-miami@shotgun.live": {
   "hash": "1c469fee0d3a69fd",

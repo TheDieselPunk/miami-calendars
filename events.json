@@ -1,26 +1,6 @@
 {
  "events": [
   {
-   "id": "19hz:4447567-suttun",
-   "source": "19hz",
-   "title": "Suttun",
-   "artists": [],
-   "venue": "E11even",
-   "venue_slug": null,
-   "date": "2026-11-02",
-   "start": "2026-11-03T01:00:00+00:00",
-   "end": "2026-11-03T06:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "free w/rsvp / $12-23",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://speakeasygo.com/E11EVEN/SUTTUN-AT-E11EVEN"
-  },
-  {
    "id": "19hz:4447663-ironlyon",
    "source": "19hz+edmtrain",
    "title": "Iron Lyon",
@@ -49,26 +29,6 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/iron-lyon-531579"
    ]
-  },
-  {
-   "id": "shotgun:tainted-the-doll-mix-a-dragula-viewing-party-and-drag-show-2",
-   "source": "shotgun",
-   "title": "Tainted: Alternativas Latinas A Drag Show",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-11-03",
-   "start": "2026-11-04T03:30:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/tainted-the-doll-mix-a-dragula-viewing-party-and-drag-show-2"
   },
   {
    "id": "edmtrain:549417",
@@ -168,9 +128,11 @@
   },
   {
    "id": "shotgun:madradiomiami110426",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Ika & Usherenko / Ciron / Blame",
-   "artists": [],
+   "artists": [
+    "Ika & Usherenko"
+   ],
    "venue": "Mad Radio Miami",
    "venue_slug": "mad-radio",
    "date": "2026-11-04",
@@ -195,7 +157,10 @@
     "latitude": 25.8462027,
     "longitude": -80.1851332
    },
-   "created": "2026-11-03T12:59:08.000Z"
+   "created": "2026-11-03T12:59:08.000Z",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/ika-and-usherenko-549874"
+   ]
   },
   {
    "id": "shotgun:archivium-creative-jazz-on-cloud-17",
@@ -359,7 +324,7 @@
   },
   {
    "id": "shotgun:madradiomiami110526",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Femme Frequency: Shelley De Vos / Gali",
    "artists": [],
    "venue": "Mad Radio Miami",
@@ -386,7 +351,10 @@
     "latitude": 25.8462027,
     "longitude": -80.1851332
    },
-   "created": "2026-11-03T13:03:41.000Z"
+   "created": "2026-11-03T13:03:41.000Z",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/femme-frequency-549875"
+   ]
   },
   {
    "id": "19hz:4447864-secretthursdaysa",
@@ -615,9 +583,13 @@
   },
   {
    "id": "shotgun:madradiomiami110626",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Blkmarket Music + T Bag Records: Astara & Taimur",
-   "artists": [],
+   "artists": [
+    "Blkmarket Music",
+    "Astara",
+    "Taimur"
+   ],
    "venue": "Mad Radio Miami",
    "venue_slug": "mad-radio",
    "date": "2026-11-06",
@@ -642,7 +614,10 @@
     "latitude": 25.8462027,
     "longitude": -80.1851332
    },
-   "created": "2026-11-03T13:11:59.000Z"
+   "created": "2026-11-03T13:11:59.000Z",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/blkmarket-music-astara-549876"
+   ]
   },
   {
    "id": "19hz:4447956-echoesrexthedogl",
@@ -1553,9 +1528,12 @@
   },
   {
    "id": "shotgun:madradiomiami110726",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Maccabiii & Pezlo MD",
-   "artists": [],
+   "artists": [
+    "Maccabiii",
+    "Pezlo MD"
+   ],
    "venue": "Mad Radio Miami",
    "venue_slug": "mad-radio",
    "date": "2026-11-07",
@@ -1580,7 +1558,10 @@
     "latitude": 25.8462027,
     "longitude": -80.1851332
    },
-   "created": "2026-11-03T13:14:45.000Z"
+   "created": "2026-11-03T13:14:45.000Z",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/maccabiii-pezlo-md-549877"
+   ]
   },
   {
    "id": "19hz:4448052-shallocin",
@@ -2314,7 +2295,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$25.00",
+   "price": "$30.00",
    "genres": [
     "disco",
     "funk",
@@ -4563,7 +4544,7 @@
    "time_estimated": false,
    "address": "353 Northeast 61st Street, Miami, Florida 33137, United States",
    "ages": "",
-   "price": "From $37",
+   "price": "From $42",
    "genres": [
     "hip-hop/rap"
    ],
@@ -5588,6 +5569,31 @@
    "url": "https://ticketmaster.evyy.net/c/254533/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fid%2F14313164",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/broadway-rave-537634"
+   ]
+  },
+  {
+   "id": "edmtrain:549889",
+   "source": "edmtrain",
+   "title": "Jazz in The Jungle: Brenda Navarrete",
+   "artists": [
+    "Brenda Navarrete"
+   ],
+   "venue": "Miami Beach Botanical Garden",
+   "venue_slug": null,
+   "date": "2026-11-20",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "2000 Convention Ctr Dr, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/jazz-in-the-jungle-brenda-navarrete-with-vinyl-selectors-angelica-rose-and-oro-11?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/jazz-in-the-jungle-brenda-navarrete-549889"
    ]
   },
   {
@@ -6932,7 +6938,7 @@
   },
   {
    "id": "dice:6aea70fe16528500017b9334",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "Generous B Presents",
    "artists": [],
    "venue": "Jolene Sound Room Miami",
@@ -6952,7 +6958,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aea70fe16528500017b9334",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/generous-b-presents-549860"
+   ]
   },
   {
    "id": "dice:6aaae809e78bd300017554b1",
@@ -7848,6 +7857,31 @@
    ]
   },
   {
+   "id": "edmtrain:549873",
+   "source": "edmtrain",
+   "title": "Cato Anaya",
+   "artists": [
+    "Cato Anaya"
+   ],
+   "venue": "Lunasol",
+   "venue_slug": null,
+   "date": "2026-11-28",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "158 NW 24th St, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/friendsgiving-173?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/cato-anaya-549873"
+   ]
+  },
+  {
    "id": "edmtrain:539772",
    "source": "edmtrain",
    "title": "Urge Miami",
@@ -8572,6 +8606,31 @@
    ]
   },
   {
+   "id": "edmtrain:549909",
+   "source": "edmtrain",
+   "title": "HUGEL",
+   "artists": [
+    "HUGEL"
+   ],
+   "venue": "Palm Tree Club Miami",
+   "venue_slug": null,
+   "date": "2026-12-02",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1819 79th Street Causeway, North Bay Village, FL 33141, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/hugel-basel-week-presented-by-palm-tree-club-miami?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/hugel-549909"
+   ]
+  },
+  {
    "id": "edmtrain:549537",
    "source": "edmtrain",
    "title": "WhoMadeWho",
@@ -8942,21 +9001,21 @@
    ]
   },
   {
-   "id": "dice:6ab3a356f3be0b000115831c",
-   "source": "19hz+dice+edmtrain",
-   "title": "Basel: AFTERJAM",
+   "id": "19hz:4450552-afterjamjamback",
+   "source": "19hz+edmtrain",
+   "title": "Afterjam: Jamback",
    "artists": [
     "Jamback"
    ],
-   "venue": "Jolene Sound Room Miami",
+   "venue": "Jolene Downtown",
    "venue_slug": "jolene",
    "date": "2026-12-03",
    "start": "2026-12-04T03:00:00+00:00",
-   "end": "2026-12-04T11:00:00+00:00",
+   "end": "2026-12-04T09:00:00+00:00",
    "time_estimated": false,
-   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "address": "",
    "ages": "21+",
-   "price": "From $17",
+   "price": "$10+",
    "genres": [
     "minimal",
     "tech house"
@@ -8965,9 +9024,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6ab3a356f3be0b000115831c",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/6ab3a356f3be0b000115831c",
     "https://edmtrain.com/miami-fl/jamback-543134"
    ]
   },
@@ -9210,6 +9267,32 @@
    "url": "https://app.hive.co/contests/contest/37359/spotlight/",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/hugel-540040"
+   ]
+  },
+  {
+   "id": "edmtrain:549929",
+   "source": "edmtrain",
+   "title": "WhoMadeWho, Alex Wann",
+   "artists": [
+    "WhoMadeWho",
+    "Alex Wann"
+   ],
+   "venue": "Sable Miami",
+   "venue_slug": null,
+   "date": "2026-12-03",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "2219 NW 2nd Ave, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/693798?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/whomadewho-alex-wann-549929"
    ]
   },
   {
@@ -9924,6 +10007,32 @@
    ]
   },
   {
+   "id": "edmtrain:549930",
+   "source": "edmtrain",
+   "title": "Gorgon City, Dombresky (Disco Dom Set)",
+   "artists": [
+    "Gorgon City",
+    "Dombresky (Disco Dom Set)"
+   ],
+   "venue": "Sable Miami",
+   "venue_slug": null,
+   "date": "2026-12-04",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "2219 NW 2nd Ave, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/783o66?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/gorgon-city-dombresky-disco-dom-set-549930"
+   ]
+  },
+  {
    "id": "edmtrain:549110",
    "source": "edmtrain",
    "title": "AJ Christou, Joe Vanditti, Cat & Maomi",
@@ -10334,9 +10443,15 @@
   },
   {
    "id": "shotgun:raw-cuts-records-h-foundation",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Raw Cuts Records: H-Foundation",
-   "artists": [],
+   "artists": [
+    "H-Foundation",
+    "Marlie",
+    "Daizy",
+    "Rana Iravani",
+    "Willy Gorgon"
+   ],
    "venue": "Paraiso Estéreo",
    "venue_slug": null,
    "date": "2026-12-05",
@@ -10352,7 +10467,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/raw-cuts-records-h-foundation"
+   "url": "https://shotgun.live/en/events/raw-cuts-records-h-foundation",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/raw-cuts-records-h-foundation-549913"
+   ]
   },
   {
    "id": "shotgun:rap-vs-rock-night",
@@ -10699,6 +10817,84 @@
    ]
   },
   {
+   "id": "edmtrain:549910",
+   "source": "edmtrain",
+   "title": "WhoMadeWho",
+   "artists": [
+    "WhoMadeWho"
+   ],
+   "venue": "Palm Tree Club Miami",
+   "venue_slug": null,
+   "date": "2026-12-05",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1819 79th Street Causeway, North Bay Village, FL 33141, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/whomadewho-basel-week-presented-by-palm-tree-club-miami?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/whomadewho-549910"
+   ]
+  },
+  {
+   "id": "edmtrain:549931",
+   "source": "edmtrain",
+   "title": "Mathame, Linska, Dreya V",
+   "artists": [
+    "Mathame",
+    "Linska",
+    "Dreya V"
+   ],
+   "venue": "Sable Miami",
+   "venue_slug": null,
+   "date": "2026-12-05",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "2219 NW 2nd Ave, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/bvleag?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/mathame-linska-549931"
+   ]
+  },
+  {
+   "id": "edmtrain:549934",
+   "source": "edmtrain",
+   "title": "Marten Lou, Maxi Meraki",
+   "artists": [
+    "Marten Lou",
+    "Maxi Meraki"
+   ],
+   "venue": "Selva Miami",
+   "venue_slug": null,
+   "date": "2026-12-05",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "800 Brickell Ave, Miami, FL 33131, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/marten-lou-maxi-meraki-1?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/marten-lou-maxi-meraki-549934"
+   ]
+  },
+  {
    "id": "hardrock:207849",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -10968,6 +11164,31 @@
    "url": "https://dice.fm/event/avklnq?pid=d6342b83",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/golfos-pawsa-and-dennis-cruz-533428"
+   ]
+  },
+  {
+   "id": "edmtrain:549911",
+   "source": "edmtrain",
+   "title": "Rampa",
+   "artists": [
+    "Rampa"
+   ],
+   "venue": "Palm Tree Club Miami",
+   "venue_slug": null,
+   "date": "2026-12-06",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1819 79th Street Causeway, North Bay Village, FL 33141, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/rampa-basel-edition-presented-by-palm-tree-club-miami?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/rampa-549911"
    ]
   },
   {
@@ -14853,6 +15074,31 @@
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/alex-sampson-14-mar",
    "cancelled": false
+  },
+  {
+   "id": "edmtrain:550017",
+   "source": "edmtrain",
+   "title": "brakence",
+   "artists": [
+    "brakence"
+   ],
+   "venue": "Fillmore Miami",
+   "venue_slug": null,
+   "date": "2027-03-14",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1700 Washington Ave, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://ticketmaster.evyy.net/c/254533/264167/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fevent%2F0D00654FFE51FD71",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/brakence-550017"
+   ]
   },
   {
    "id": "19hz:4460728-djhabibeats",

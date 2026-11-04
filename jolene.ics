@@ -180,16 +180,17 @@ CATEGORIES:electro,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aea70fe16528500017b9334@jolene.miami-calendars
-DTSTAMP:20261104T041813Z
-LAST-MODIFIED:20261104T041813Z
-SEQUENCE:0
+DTSTAMP:20261104T101819Z
+LAST-MODIFIED:20261104T101819Z
+SEQUENCE:1
 DTSTART:20261128T030000Z
 DTEND:20261128T090000Z
 SUMMARY:Generous B Presents
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
 DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6aea70f
- e16528500017b9334
+ e16528500017b9334\nhttps://edmtrain.com/miami-fl/generous-b-presents-54986
+ 0
 URL:https://dice.fm/event/6aea70fe16528500017b9334
 STATUS:CONFIRMED
 CATEGORIES:house,tech house
@@ -266,15 +267,14 @@ STATUS:CONFIRMED
 CATEGORIES:edm,house,tech house
 END:VEVENT
 BEGIN:VEVENT
-UID:dice-6ab3a356f3be0b000115831c@jolene.miami-calendars
-DTSTAMP:20261022T041828Z
-LAST-MODIFIED:20261022T041828Z
-SEQUENCE:3
+UID:19hz-4450552-afterjamjamback@jolene.miami-calendars
+DTSTAMP:20261104T101819Z
+LAST-MODIFIED:20261104T101819Z
+SEQUENCE:0
 DTSTART:20261204T030000Z
-DTEND:20261204T110000Z
-SUMMARY:Basel: AFTERJAM
-LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
- a 33131\, United States
+DTEND:20261204T090000Z
+SUMMARY:Afterjam: Jamback
+LOCATION:Jolene Downtown
 DESCRIPTION:Lineup: Jamback\nTags: minimal\, tech house\nAges: 21+\nhttps:/
  /dice.fm/event/6ab3a356f3be0b000115831c\nhttps://edmtrain.com/miami-fl/jam
  back-543134
