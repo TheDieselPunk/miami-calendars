@@ -743,12 +743,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-danny-kravit-free-entry-26-dec@zeyzey.miami-calendars
-DTSTAMP:20261031T161758Z
-LAST-MODIFIED:20261031T161758Z
-SEQUENCE:1
+DTSTAMP:20261104T221836Z
+LAST-MODIFIED:20261104T221836Z
+SEQUENCE:2
 DTSTART:20261227T020000Z
 DTEND:20261227T060000Z
-SUMMARY:Danny Kravit + Roy David Jr. (Free Entry)
+SUMMARY:Danny Krivit + Roy Davis Jr. (Free Entry)
 LOCATION:ZeyZey Miami
 DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
  danny-kravit-free-entry-26-dec
@@ -788,21 +788,6 @@ URL:https://calendar.zeyzeymiami.com/shows/new-years-eve-with-dabuell-dj-se
  t-31-dec
 STATUS:CONFIRMED
 CATEGORIES:funk
-END:VEVENT
-BEGIN:VEVENT
-UID:zeyzey-ordinary-boys-09-jan-ccb5f@zeyzey.miami-calendars
-DTSTAMP:20261104T161802Z
-LAST-MODIFIED:20261104T161802Z
-SEQUENCE:0
-DTSTART:20270110T000000Z
-DTEND:20270110T060000Z
-SUMMARY:Ordinary Boys
-LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: punk\nhttps://calendar.zeyzeymiami.com/shows/ordinary-boy
- s-09-jan-ccb5f
-URL:https://calendar.zeyzeymiami.com/shows/ordinary-boys-09-jan-ccb5f
-STATUS:CONFIRMED
-CATEGORIES:punk
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-omni-soundspace-presents-black-rave-culture-shekdash-sky-jetta-0

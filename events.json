@@ -854,7 +854,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$22.00",
+   "price": "$27.13",
    "genres": [
     "black metal",
     "death metal"
@@ -1038,7 +1038,7 @@
    "venue_slug": "club-space",
    "date": "2026-11-06",
    "start": "2026-11-07T04:00:00+00:00",
-   "end": "2026-11-07T17:00:00+00:00",
+   "end": "2026-11-07T19:00:00+00:00",
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
@@ -1643,7 +1643,7 @@
   {
    "id": "hardrock:206000",
    "source": "venue",
-   "title": "DAER Nightclub",
+   "title": "Romi Lux",
    "artists": [],
    "venue": "DAER Nightclub",
    "venue_slug": "daer",
@@ -1659,7 +1659,7 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/206000",
-   "generic_title": true
+   "generic_title": false
   },
   {
    "id": "19hz:4448056-valentinhuedo",
@@ -1902,7 +1902,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "",
-   "price": "From $20",
+   "price": "From $30",
    "genres": [
     "house",
     "techno"
@@ -2252,7 +2252,7 @@
   {
    "id": "hardrock:205532",
    "source": "venue",
-   "title": "DAER Dayclub",
+   "title": "Sunkiss Sunday",
    "artists": [],
    "venue": "DAER Dayclub",
    "venue_slug": "daer",
@@ -2268,7 +2268,7 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/205532",
-   "generic_title": true
+   "generic_title": false
   },
   {
    "id": "shotgun:disco-domingo-vol-6",
@@ -2706,6 +2706,26 @@
    "url": "https://buy.tablelist.com/e/c90db8b47c62c006"
   },
   {
+   "id": "shotgun:top-picks-a-comedy-show-at-tomorrowland",
+   "source": "shotgun",
+   "title": "Top Picks: A Comedy Show At Tomorrowland",
+   "artists": [],
+   "venue": "Tomorrowland Miami",
+   "venue_slug": null,
+   "date": "2026-11-11",
+   "start": "2026-11-12T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.70",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/top-picks-a-comedy-show-at-tomorrowland"
+  },
+  {
    "id": "19hz:4448440-rivo",
    "source": "19hz+edmtrain",
    "title": "Rivo",
@@ -2969,6 +2989,26 @@
    "organizer": "Sole Aspect",
    "description": "",
    "url": "https://ra.co/events/2546045"
+  },
+  {
+   "id": "shotgun:zeina-tobias-linden-by-sarah-tonin",
+   "source": "shotgun",
+   "title": "Zeina & Tobias Linden By Sarah Tonin",
+   "artists": [],
+   "venue": "Fooq's",
+   "venue_slug": null,
+   "date": "2026-11-13",
+   "start": "2026-11-14T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/zeina-tobias-linden-by-sarah-tonin"
   },
   {
    "id": "19hz:4448628-royrosenfeld",
@@ -5458,7 +5498,7 @@
   {
    "id": "dice:6ab54b4737b4c00001654ff2",
    "source": "19hz+dice+edmtrain",
-   "title": "Chris Lorenzo",
+   "title": "Chris Lorenzo + TBA",
    "artists": [
     "Chris Lorenzo",
     "Ms. Mada",
@@ -6207,6 +6247,30 @@
    "generic_title": true
   },
   {
+   "id": "shotgun:end-of-summer-presents-fall",
+   "source": "shotgun",
+   "title": "End Of Summer Presents: Fall",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-11-22",
+   "start": "2026-11-22T23:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "acid techno",
+    "footwork",
+    "techno"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/end-of-summer-presents-fall"
+  },
+  {
    "id": "shotgun:gypsy-83-at-sidewalk-bottleshop",
    "source": "shotgun",
    "title": "Gypsy 83: A Goth Night At Sidewalk Bottleshop",
@@ -6349,7 +6413,7 @@
   {
    "id": "dice:6ac69157ede6160001290447",
    "source": "dice",
-   "title": "TBA",
+   "title": "The Vault presents Circoloco Records Radio",
    "artists": [],
    "venue": "Club Space Miami",
    "venue_slug": "club-space",
@@ -6359,7 +6423,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "",
-   "price": " (sold out)",
+   "price": "From $60",
    "genres": [
     "house",
     "techno"
@@ -6368,7 +6432,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6ac69157ede6160001290447",
-   "cancelled": false
+   "cancelled": false,
+   "also": [
+    "festivals"
+   ]
   },
   {
    "id": "dice:6abe81edcf1f4100017bc3b4",
@@ -8130,7 +8197,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $15",
+   "price": "From $17",
    "genres": [
     "house",
     "tech house",
@@ -8644,6 +8711,29 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/whomadewho-549537"
    ]
+  },
+  {
+   "id": "shotgun:industry-standard-art-week",
+   "source": "shotgun",
+   "title": "Industry Standard Art Week",
+   "artists": [],
+   "venue": "Sable",
+   "venue_slug": null,
+   "date": "2026-12-03",
+   "start": "2026-12-03T20:30:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/industry-standard-art-week"
   },
   {
    "id": "shotgun:art-basel-airfunk",
@@ -12073,6 +12163,30 @@
    "url": "https://ra.co/events/2509687"
   },
   {
+   "id": "shotgun:trailer-as-33-tour",
+   "source": "shotgun",
+   "title": "Trailer As-33 Tour",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-12-17",
+   "start": "2026-12-18T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$12.00",
+   "genres": [
+    "metal",
+    "hard rock",
+    "alternative"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/trailer-as-33-tour"
+  },
+  {
    "id": "edmtrain:549547",
    "source": "edmtrain",
    "title": "Skihouse: S1ms, Dexii, OK Rowan, twotrick",
@@ -12802,7 +12916,7 @@
   {
    "id": "zeyzey:danny-kravit-free-entry-26-dec",
    "source": "venue",
-   "title": "Danny Kravit + Roy David Jr. (Free Entry)",
+   "title": "Danny Krivit + Roy Davis Jr. (Free Entry)",
    "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
@@ -13908,29 +14022,6 @@
    "description": "",
    "url": "https://tixr.com/e/212385",
    "generic_title": true
-  },
-  {
-   "id": "zeyzey:ordinary-boys-09-jan-ccb5f",
-   "source": "venue",
-   "title": "Ordinary Boys",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2027-01-09",
-   "start": "2027-01-10T00:00:00+00:00",
-   "end": "2027-01-10T06:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "punk"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/ordinary-boys-09-jan-ccb5f",
-   "cancelled": false
   },
   {
    "id": "hardrock:212394",
@@ -15089,31 +15180,6 @@
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/alex-sampson-14-mar",
    "cancelled": false
-  },
-  {
-   "id": "edmtrain:550017",
-   "source": "edmtrain",
-   "title": "brakence",
-   "artists": [
-    "brakence"
-   ],
-   "venue": "Fillmore Miami",
-   "venue_slug": null,
-   "date": "2027-03-14",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "1700 Washington Ave, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://ticketmaster.evyy.net/c/254533/264167/4272?u=https%3A%2F%2Fwww.ticketmaster.com%2Fevent%2F0D00654FFE51FD71",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/brakence-550017"
-   ]
   },
   {
    "id": "19hz:4460728-djhabibeats",
