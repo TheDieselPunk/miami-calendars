@@ -511,6 +511,24 @@ STATUS:CONFIRMED
 CATEGORIES:electronica,house,r&b
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-through-the-wall-afters-with-rochelle-jordan-live-special-guests
+ -03-dec@zeyzey.miami-calendars
+DTSTAMP:20261104T161802Z
+LAST-MODIFIED:20261104T161802Z
+SEQUENCE:1
+DTSTART:20261204T010000Z
+DTEND:20261204T060000Z
+SUMMARY:Beatport Live: Rochelle Jordan (LIVE)\, salute\, Todd Edwards\, Her
+ cule & Love Affair (DJ)\, CHRYSALIS
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: r&b/soul\nhttps://calendar.zeyzeymiami.com/shows/through-
+ the-wall-afters-with-rochelle-jordan-live-special-guests-03-dec
+URL:https://calendar.zeyzeymiami.com/shows/through-the-wall-afters-with-roc
+ helle-jordan-live-special-guests-03-dec
+STATUS:CONFIRMED
+CATEGORIES:r&b/soul
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-carla-s-home-a-listening-experience-by-carla-03-dec@zeyzey.miami
  -calendars
 DTSTAMP:20261020T221822Z
@@ -525,24 +543,6 @@ DESCRIPTION:https://calendar.zeyzeymiami.com/shows/carla-s-home-a-listening
 URL:https://calendar.zeyzeymiami.com/shows/carla-s-home-a-listening-experie
  nce-by-carla-03-dec
 STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:zeyzey-through-the-wall-afters-with-rochelle-jordan-live-special-guests
- -03-dec@zeyzey.miami-calendars
-DTSTAMP:20261020T221822Z
-LAST-MODIFIED:20261020T221822Z
-SEQUENCE:0
-DTSTART:20261204T010000Z
-DTEND:20261204T060000Z
-SUMMARY:Through The Wall Afters with Rochelle Jordan (Live) + Special Guest
- s
-LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: r&b/soul\nhttps://calendar.zeyzeymiami.com/shows/through-
- the-wall-afters-with-rochelle-jordan-live-special-guests-03-dec
-URL:https://calendar.zeyzeymiami.com/shows/through-the-wall-afters-with-roc
- helle-jordan-live-special-guests-03-dec
-STATUS:CONFIRMED
-CATEGORIES:r&b/soul
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-pnk-basel-04-dec@zeyzey.miami-calendars
@@ -788,6 +788,21 @@ URL:https://calendar.zeyzeymiami.com/shows/new-years-eve-with-dabuell-dj-se
  t-31-dec
 STATUS:CONFIRMED
 CATEGORIES:funk
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-ordinary-boys-09-jan-ccb5f@zeyzey.miami-calendars
+DTSTAMP:20261104T161802Z
+LAST-MODIFIED:20261104T161802Z
+SEQUENCE:0
+DTSTART:20270110T000000Z
+DTEND:20270110T060000Z
+SUMMARY:Ordinary Boys
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: punk\nhttps://calendar.zeyzeymiami.com/shows/ordinary-boy
+ s-09-jan-ccb5f
+URL:https://calendar.zeyzeymiami.com/shows/ordinary-boys-09-jan-ccb5f
+STATUS:CONFIRMED
+CATEGORIES:punk
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-omni-soundspace-presents-black-rave-culture-shekdash-sky-jetta-0

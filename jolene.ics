@@ -267,14 +267,15 @@ STATUS:CONFIRMED
 CATEGORIES:edm,house,tech house
 END:VEVENT
 BEGIN:VEVENT
-UID:19hz-4450552-afterjamjamback@jolene.miami-calendars
-DTSTAMP:20261104T101819Z
-LAST-MODIFIED:20261104T101819Z
+UID:dice-6ab3a356f3be0b000115831c@jolene.miami-calendars
+DTSTAMP:20261104T161802Z
+LAST-MODIFIED:20261104T161802Z
 SEQUENCE:0
 DTSTART:20261204T030000Z
-DTEND:20261204T090000Z
-SUMMARY:Afterjam: Jamback
-LOCATION:Jolene Downtown
+DTEND:20261204T110000Z
+SUMMARY:Basel: AFTERJAM
+LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
+ a 33131\, United States
 DESCRIPTION:Lineup: Jamback\nTags: minimal\, tech house\nAges: 21+\nhttps:/
  /dice.fm/event/6ab3a356f3be0b000115831c\nhttps://edmtrain.com/miami-fl/jam
  back-543134

@@ -423,4 +423,19 @@ URL:https://dice.fm/event/k676g9-teedee-22nd-jan-floyd-miami-miami-tickets
 STATUS:CONFIRMED
 CATEGORIES:house
 END:VEVENT
+BEGIN:VEVENT
+UID:dice-6aea99dd2c054000010bb0c6@floyd.miami-calendars
+DTSTAMP:20261104T161802Z
+LAST-MODIFIED:20261104T161802Z
+SEQUENCE:0
+DTSTART:20270404T230000Z
+DTEND:20270405T020000Z
+SUMMARY:surround project: Joanne Robertson & Carla dal Forno
+LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
+DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6aea99dd2c0
+ 54000010bb0c6
+URL:https://dice.fm/event/6aea99dd2c054000010bb0c6
+STATUS:CONFIRMED
+CATEGORIES:house,techno
+END:VEVENT
 END:VCALENDAR

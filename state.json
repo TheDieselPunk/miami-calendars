@@ -74,11 +74,6 @@
   "seq": 0,
   "modified": "2026-10-25T04:18:11+00:00"
  },
- "19hz-4450552-afterjamjamback@jolene.miami-calendars": {
-  "hash": "74a2aa36aba9254d",
-  "seq": 0,
-  "modified": "2026-11-04T10:18:19+00:00"
- },
  "19hz-4450552-baselweekopening@domicile.miami-calendars": {
   "hash": "00493b98cc35f6c6",
   "seq": 0,
@@ -403,6 +398,11 @@
   "hash": "2f151be5f0d8ed64",
   "seq": 3,
   "modified": "2026-09-26T22:18:17+00:00"
+ },
+ "dice-6ab3a356f3be0b000115831c@jolene.miami-calendars": {
+  "hash": "6f36c09f34f939bf",
+  "seq": 0,
+  "modified": "2026-11-04T16:18:02+00:00"
  },
  "dice-6ab3fb9d80f9a500012b3792@kemistry.miami-calendars": {
   "hash": "4af2d24278050bfd",
@@ -769,6 +769,11 @@
   "seq": 1,
   "modified": "2026-11-04T10:18:19+00:00"
  },
+ "dice-6aea99dd2c054000010bb0c6@floyd.miami-calendars": {
+  "hash": "a108467dcd80409e",
+  "seq": 0,
+  "modified": "2026-11-04T16:18:02+00:00"
+ },
  "edmtrain-458944@festivals.miami-calendars": {
   "hash": "52f5b7eb786ce532",
   "seq": 2,
@@ -905,9 +910,9 @@
   "modified": "2026-10-14T04:18:26+00:00"
  },
  "freestyle-friday@shotgun.live": {
-  "hash": "68326bd928f32f93",
-  "seq": 0,
-  "modified": "2026-11-03T22:18:02+00:00"
+  "hash": "f1ef96ffabd66e25",
+  "seq": 1,
+  "modified": "2026-11-04T16:18:02+00:00"
  },
  "girl-of-glass-at-boombox-11-8@shotgun.live": {
   "hash": "9b03b4734e200b0c",
@@ -1419,6 +1424,11 @@
   "seq": 2,
   "modified": "2026-11-03T04:18:09+00:00"
  },
+ "zeyzey-ordinary-boys-09-jan-ccb5f@zeyzey.miami-calendars": {
+  "hash": "c25a34963283085b",
+  "seq": 0,
+  "modified": "2026-11-04T16:18:02+00:00"
+ },
  "zeyzey-pnk-basel-04-dec@zeyzey.miami-calendars": {
   "hash": "a23f202cf5255747",
   "seq": 1,
@@ -1485,9 +1495,9 @@
   "modified": "2026-09-21T20:01:40+00:00"
  },
  "zeyzey-through-the-wall-afters-with-rochelle-jordan-live-special-guests-03-dec@zeyzey.miami-calendars": {
-  "hash": "336667edb3361ecc",
-  "seq": 0,
-  "modified": "2026-10-20T22:18:22+00:00"
+  "hash": "173cc07d23dc2338",
+  "seq": 1,
+  "modified": "2026-11-04T16:18:02+00:00"
  },
  "zeyzey-yung-bleu-17-dec@zeyzey.miami-calendars": {
   "hash": "20baeb524c75aee0",
