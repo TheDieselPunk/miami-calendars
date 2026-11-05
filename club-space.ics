@@ -40,34 +40,35 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ac68f6c19d9030001a4695e@club-space.miami-calendars
-DTSTAMP:20261103T041809Z
-LAST-MODIFIED:20261103T041809Z
-SEQUENCE:1
+DTSTAMP:20261105T221829Z
+LAST-MODIFIED:20261105T221829Z
+SEQUENCE:2
 DTSTART:20261108T040000Z
 DTEND:20261108T170000Z
 SUMMARY:Tiga + Dan Molinari
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Tiga\, Dan Molinari\nTags (guess): house\, techno\nhttp
- s://dice.fm/event/6ac68f6c19d9030001a4695e\nhttps://edmtrain.com/miami-fl/
- tiga-dan-molinari-549512
-URL:https://dice.fm/event/6ac68f6c19d9030001a4695e
+DESCRIPTION:Lineup: Tiga\, Dan Molinari\nTags: tech house\nAges: 21+\nhttps
+ ://dice.fm/event/2wnggp-tiga-dan-molinari-7th-nov-club-space-miami-miami-t
+ ickets\nhttps://edmtrain.com/miami-fl/tiga-dan-molinari-549512
+URL:https://dice.fm/event/2wnggp-tiga-dan-molinari-7th-nov-club-space-miami
+ -miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6adfa5c2e9571d000113a9ec@club-space.miami-calendars
-DTSTAMP:20261028T101812Z
-LAST-MODIFIED:20261028T101812Z
-SEQUENCE:1
+DTSTAMP:20261105T221829Z
+LAST-MODIFIED:20261105T221829Z
+SEQUENCE:2
 DTSTART:20261108T120000Z
 DTEND:20261108T160000Z
 SUMMARY:Race To Space
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6adfa5c2e95
- 71d000113a9ec\nhttps://edmtrain.com/miami-fl/race-to-space-548304
+DESCRIPTION:Tags: house\, tech house\nAges: 21+\nhttps://dice.fm/event/6adf
+ a5c2e9571d000113a9ec\nhttps://edmtrain.com/miami-fl/race-to-space-548304
 URL:https://dice.fm/event/6adfa5c2e9571d000113a9ec
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ac681e6ede6160001275006@club-space.miami-calendars

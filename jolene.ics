@@ -350,6 +350,22 @@ STATUS:CONFIRMED
 CATEGORIES:house,tech house
 END:VEVENT
 BEGIN:VEVENT
+UID:dice-6aecdfde59b33300013afd8c@jolene.miami-calendars
+DTSTAMP:20261105T221829Z
+LAST-MODIFIED:20261105T221829Z
+SEQUENCE:0
+DTSTART:20261213T030000Z
+DTEND:20261213T090000Z
+SUMMARY:Satoshie Tomiie
+LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
+ a 33131\, United States
+DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6aecdfd
+ e59b33300013afd8c
+URL:https://dice.fm/event/6aecdfde59b33300013afd8c
+STATUS:CONFIRMED
+CATEGORIES:house,tech house
+END:VEVENT
+BEGIN:VEVENT
 UID:dice-6acea6ba0671d7000182aa7e@jolene.miami-calendars
 DTSTAMP:20261025T041811Z
 LAST-MODIFIED:20261025T041811Z

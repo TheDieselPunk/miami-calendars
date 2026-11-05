@@ -8,6 +8,20 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
+UID:bachata@shotgun.live
+DTSTAMP:20261105T221829Z
+LAST-MODIFIED:20261105T221829Z
+SEQUENCE:0
+DTSTART:20261107T010000Z
+DTEND:20261107T040000Z
+SUMMARY:Bachata Con House
+LOCATION:Miami
+DESCRIPTION:Tags: house\nhttps://shotgun.live/en/events/bachata
+URL:https://shotgun.live/en/events/bachata
+STATUS:CONFIRMED
+CATEGORIES:house
+END:VEVENT
+BEGIN:VEVENT
 UID:19hz-4448056-alexfarell@festivals.miami-calendars
 DTSTAMP:20261105T041825Z
 LAST-MODIFIED:20261105T041825Z
@@ -164,6 +178,21 @@ DESCRIPTION:Ages: 21+\nhttps://www.eventbrite.com/e/urge-miami-festival-202
 URL:https://www.eventbrite.com/e/urge-miami-festival-2026-festival-passes-t
  ickets-1987540335647
 STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:art-basel-shotgun-takeover-fooq-s-miami@shotgun.live
+DTSTAMP:20261105T221829Z
+LAST-MODIFIED:20261105T221829Z
+SEQUENCE:0
+DTSTART:20261203T020000Z
+DTEND:20261203T070000Z
+SUMMARY:Art Basel Shotgun Takeover @ Fooq's Miami
+LOCATION:Fooq's
+DESCRIPTION:Tags: electronica\, house\, deep house\nhttps://shotgun.live/en
+ /events/art-basel-shotgun-takeover-fooq-s-miami
+URL:https://shotgun.live/en/events/art-basel-shotgun-takeover-fooq-s-miami
+STATUS:CONFIRMED
+CATEGORIES:electronica,house,deep house
 END:VEVENT
 BEGIN:VEVENT
 UID:art-basel-airfunk@shotgun.live

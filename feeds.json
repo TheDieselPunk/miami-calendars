@@ -45,7 +45,7 @@
   "slug": "domicile",
   "name": "Domicile",
   "file": "domicile.ics",
-  "events": 7,
+  "events": 8,
   "estimated_times": 1,
   "next": "2026-11-06",
   "sources": [
@@ -117,10 +117,11 @@
   "slug": "mad-radio",
   "name": "Mad Radio Miami",
   "file": "mad-radio.ics",
-  "events": 3,
+  "events": 15,
   "estimated_times": 0,
   "next": "2026-11-05",
   "sources": [
+   "19hz",
    "edmtrain",
    "shotgun"
   ],
@@ -130,7 +131,7 @@
   "slug": "daer",
   "name": "DAER (Hard Rock Hollywood)",
   "file": "daer.ics",
-  "events": 57,
+  "events": 58,
   "estimated_times": 0,
   "next": "2026-11-06",
   "sources": [
@@ -144,7 +145,7 @@
   "slug": "jolene",
   "name": "Jolene Sound Room",
   "file": "jolene.ics",
-  "events": 21,
+  "events": 22,
   "estimated_times": 0,
   "next": "2026-11-05",
   "sources": [
@@ -172,9 +173,9 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 40,
+  "events": 42,
   "estimated_times": 17,
-  "next": "2026-11-07",
+  "next": "2026-11-06",
   "sources": [
    "19hz",
    "dice",

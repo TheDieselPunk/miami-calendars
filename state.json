@@ -14,6 +14,11 @@
   "seq": 0,
   "modified": "2026-10-23T16:18:16+00:00"
  },
+ "19hz-4448059-shoki286@domicile.miami-calendars": {
+  "hash": "d0e570ccec688015",
+  "seq": 0,
+  "modified": "2026-11-05T22:18:29+00:00"
+ },
  "19hz-4448695-sacredmeadowsart@festivals.miami-calendars": {
   "hash": "1b0dddd103dff7b5",
   "seq": 0,
@@ -164,6 +169,16 @@
   "seq": 1,
   "modified": "2026-10-31T04:18:09+00:00"
  },
+ "art-basel-shotgun-takeover-fooq-s-miami@shotgun.live": {
+  "hash": "6636e4e8d20fd989",
+  "seq": 0,
+  "modified": "2026-11-05T22:18:29+00:00"
+ },
+ "bachata@shotgun.live": {
+  "hash": "1c7adc9e2f9ae601",
+  "seq": 0,
+  "modified": "2026-11-05T22:18:29+00:00"
+ },
  "beiruttomiami1@shotgun.live": {
   "hash": "65c9ebec99a45024",
   "seq": 7,
@@ -180,9 +195,9 @@
   "modified": "2026-10-20T04:18:27+00:00"
  },
  "casa-whispers-x-mtrnm-present-dia-de-los-muertos@shotgun.live": {
-  "hash": "98014ee90e31514e",
-  "seq": 2,
-  "modified": "2026-11-03T04:18:09+00:00"
+  "hash": "ada59abd296acfe7",
+  "seq": 3,
+  "modified": "2026-11-05T22:18:29+00:00"
  },
  "churchill-s-pub-november-8th@shotgun.live": {
   "hash": "8789d2f71555c07d",
@@ -545,9 +560,9 @@
   "modified": "2026-10-17T16:18:17+00:00"
  },
  "dice-6ac68f6c19d9030001a4695e@club-space.miami-calendars": {
-  "hash": "ea46f39a6611314d",
-  "seq": 1,
-  "modified": "2026-11-03T04:18:09+00:00"
+  "hash": "15d7c83bdfd8773c",
+  "seq": 2,
+  "modified": "2026-11-05T22:18:29+00:00"
  },
  "dice-6ac69100272a2a00015116c5@club-space.miami-calendars": {
   "hash": "8c6e161a3527313c",
@@ -630,9 +645,9 @@
   "modified": "2026-10-31T04:18:09+00:00"
  },
  "dice-6adfa5c2e9571d000113a9ec@club-space.miami-calendars": {
-  "hash": "c406d8b06bd2b1fa",
-  "seq": 1,
-  "modified": "2026-10-28T10:18:12+00:00"
+  "hash": "81183a61d5189cd3",
+  "seq": 2,
+  "modified": "2026-11-05T22:18:29+00:00"
  },
  "dice-6ae0b22eeeeae40001c1bdce@club-space.miami-calendars": {
   "hash": "c27b61f84130b7e8",
@@ -783,6 +798,11 @@
   "hash": "e09e91615f4f74f3",
   "seq": 0,
   "modified": "2026-11-05T16:18:02+00:00"
+ },
+ "dice-6aecdfde59b33300013afd8c@jolene.miami-calendars": {
+  "hash": "b4989c45bf3bf492",
+  "seq": 0,
+  "modified": "2026-11-05T22:18:29+00:00"
  },
  "edmtrain-458944@festivals.miami-calendars": {
   "hash": "52f5b7eb786ce532",
@@ -940,9 +960,9 @@
   "modified": "2026-09-21T21:40:09+00:00"
  },
  "hardrock-205527@daer.miami-calendars": {
-  "hash": "e6e5bf6cc565ab7f",
-  "seq": 2,
-  "modified": "2026-11-02T22:17:57+00:00"
+  "hash": "cfb025b85e4e6058",
+  "seq": 3,
+  "modified": "2026-11-05T22:18:29+00:00"
  },
  "hardrock-205532@daer.miami-calendars": {
   "hash": "cdf09ad58c9267f2",
@@ -1224,6 +1244,11 @@
   "seq": 0,
   "modified": "2026-11-03T16:18:01+00:00"
  },
+ "hardrock-213703@daer.miami-calendars": {
+  "hash": "1d955aa4c5ca2e63",
+  "seq": 0,
+  "modified": "2026-11-05T22:18:29+00:00"
+ },
  "i-liedtomyself-descry-iliad-see-you-next-ar-boombox-11-14@shotgun.live": {
   "hash": "a9ea58e92e4cfc30",
   "seq": 0,
@@ -1235,19 +1260,79 @@
   "modified": "2026-10-22T04:18:28+00:00"
  },
  "madradiomiami110526@shotgun.live": {
-  "hash": "e5a4ab975f804ea3",
-  "seq": 1,
-  "modified": "2026-11-04T10:18:19+00:00"
+  "hash": "af5e0cd6bd4b6e90",
+  "seq": 2,
+  "modified": "2026-11-05T22:18:29+00:00"
  },
  "madradiomiami110626@shotgun.live": {
-  "hash": "d439a7bceb75e2f0",
-  "seq": 1,
-  "modified": "2026-11-04T10:18:19+00:00"
+  "hash": "ba763ac637762a8a",
+  "seq": 2,
+  "modified": "2026-11-05T22:18:29+00:00"
  },
  "madradiomiami110726@shotgun.live": {
-  "hash": "7065bd9d85294e97",
-  "seq": 1,
-  "modified": "2026-11-04T10:18:19+00:00"
+  "hash": "3b628aea91a549c7",
+  "seq": 2,
+  "modified": "2026-11-05T22:18:29+00:00"
+ },
+ "madradiomiami111126@shotgun.live": {
+  "hash": "56feb5f2a3d20112",
+  "seq": 0,
+  "modified": "2026-11-05T22:18:29+00:00"
+ },
+ "madradiomiami111226@shotgun.live": {
+  "hash": "3afc6c48bc97d919",
+  "seq": 0,
+  "modified": "2026-11-05T22:18:29+00:00"
+ },
+ "madradiomiami111326@shotgun.live": {
+  "hash": "c27f5f8a9bcff67e",
+  "seq": 0,
+  "modified": "2026-11-05T22:18:29+00:00"
+ },
+ "madradiomiami111826@shotgun.live": {
+  "hash": "8934ecc477a893fa",
+  "seq": 0,
+  "modified": "2026-11-05T22:18:29+00:00"
+ },
+ "madradiomiami111926@shotgun.live": {
+  "hash": "9dfbe5a79a3b10d4",
+  "seq": 0,
+  "modified": "2026-11-05T22:18:29+00:00"
+ },
+ "madradiomiami112026@shotgun.live": {
+  "hash": "9ff2f14e020fe8df",
+  "seq": 0,
+  "modified": "2026-11-05T22:18:29+00:00"
+ },
+ "madradiomiami112126@shotgun.live": {
+  "hash": "b554488daf5d8bcf",
+  "seq": 0,
+  "modified": "2026-11-05T22:18:29+00:00"
+ },
+ "madradiomiami112526@shotgun.live": {
+  "hash": "d7f56737625fa02d",
+  "seq": 0,
+  "modified": "2026-11-05T22:18:29+00:00"
+ },
+ "madradiomiami112626@shotgun.live": {
+  "hash": "058da7f0ff1a8ed6",
+  "seq": 0,
+  "modified": "2026-11-05T22:18:29+00:00"
+ },
+ "madradiomiami112726@shotgun.live": {
+  "hash": "d5b04a4b869ff84b",
+  "seq": 0,
+  "modified": "2026-11-05T22:18:29+00:00"
+ },
+ "madradiomiami112826@shotgun.live": {
+  "hash": "39b5497f8b13cd79",
+  "seq": 0,
+  "modified": "2026-11-05T22:18:29+00:00"
+ },
+ "madradiomiami120426@shotgun.live": {
+  "hash": "5a9cf2d1c2be9a93",
+  "seq": 0,
+  "modified": "2026-11-05T22:18:29+00:00"
  },
  "paloma-morphy-miami@shotgun.live": {
   "hash": "1c469fee0d3a69fd",
