@@ -60,6 +60,22 @@ STATUS:CONFIRMED
 CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-com-truise-06-nov@zeyzey.miami-calendars
+DTSTAMP:20261105T041825Z
+LAST-MODIFIED:20261105T041825Z
+SEQUENCE:3
+DTSTART:20261107T020000Z
+DTEND:20261107T080000Z
+SUMMARY:Com Truise
+LOCATION:ZeyZey Miami
+DESCRIPTION:Lineup: Com Truise\nTags: downtempo\, electro\, idm\, synthpop
+ \nAges: All ages\nhttps://calendar.zeyzeymiami.com/shows/com-truise-06-nov
+ \nhttps://edmtrain.com/miami-fl/com-truise-536978
+URL:https://calendar.zeyzeymiami.com/shows/com-truise-06-nov
+STATUS:CONFIRMED
+CATEGORIES:downtempo,electro,idm,synthpop
+END:VEVENT
+BEGIN:VEVENT
 UID:edmtrain-549703@zeyzey.miami-calendars
 DTSTAMP:20261104T041813Z
 LAST-MODIFIED:20261104T041813Z
@@ -75,22 +91,6 @@ DESCRIPTION:Lineup: My Friend\, Ammo Amor\, Sebas\, iAWo\, Rob Denman\nTime
  om/miami-fl/at-sea-opening-party-my-friend-uk-549703
 URL:https://opdt.io/li_tGoZt
 STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:zeyzey-com-truise-06-nov@zeyzey.miami-calendars
-DTSTAMP:20261101T221749Z
-LAST-MODIFIED:20261101T221749Z
-SEQUENCE:2
-DTSTART:20261107T030000Z
-DTEND:20261107T080000Z
-SUMMARY:Com Truise
-LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: Com Truise\nTags: downtempo\, electro\, idm\, synthpop
- \nAges: All ages\nhttps://calendar.zeyzeymiami.com/shows/com-truise-06-nov
- \nhttps://edmtrain.com/miami-fl/com-truise-536978
-URL:https://calendar.zeyzeymiami.com/shows/com-truise-06-nov
-STATUS:CONFIRMED
-CATEGORIES:downtempo,electro,idm,synthpop
 END:VEVENT
 BEGIN:VEVENT
 UID:casa-whispers-x-mtrnm-present-dia-de-los-muertos@shotgun.live

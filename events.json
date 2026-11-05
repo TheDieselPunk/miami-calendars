@@ -637,6 +637,38 @@
    "url": "https://shotgun.live/en/events/subculture-1-v-1-dance-battle-at-respectables"
   },
   {
+   "id": "zeyzey:com-truise-06-nov",
+   "source": "19hz+edmtrain+venue",
+   "title": "Com Truise",
+   "artists": [
+    "Com Truise"
+   ],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-11-06",
+   "start": "2026-11-07T02:00:00+00:00",
+   "end": "2026-11-07T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "All ages",
+   "price": "$29",
+   "genres": [
+    "downtempo",
+    "electro",
+    "idm",
+    "synthpop"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/com-truise-06-nov",
+   "cancelled": false,
+   "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/com-truise-06-nov",
+    "https://edmtrain.com/miami-fl/com-truise-536978"
+   ]
+  },
+  {
    "id": "shotgun:bloom-m2-4",
    "source": "shotgun",
    "title": "Bugs & Beats: Sophie Du Futur, Chamacos, Jad",
@@ -991,38 +1023,6 @@
    "url": "https://opdt.io/li_tGoZt",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/at-sea-opening-party-my-friend-uk-549703"
-   ]
-  },
-  {
-   "id": "zeyzey:com-truise-06-nov",
-   "source": "19hz+edmtrain+venue",
-   "title": "Com Truise",
-   "artists": [
-    "Com Truise"
-   ],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-11-06",
-   "start": "2026-11-07T03:00:00+00:00",
-   "end": "2026-11-07T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "All ages",
-   "price": "$29",
-   "genres": [
-    "downtempo",
-    "electro",
-    "idm",
-    "synthpop"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/com-truise-06-nov",
-   "cancelled": false,
-   "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/com-truise-06-nov",
-    "https://edmtrain.com/miami-fl/com-truise-536978"
    ]
   },
   {
@@ -1615,11 +1615,9 @@
   },
   {
    "id": "19hz:4448056-alexfarell",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Alex Farell",
-   "artists": [
-    "Alex Farell"
-   ],
+   "artists": [],
    "venue": "Casa Nube Wynwood",
    "venue_slug": "festivals",
    "date": "2026-11-07",
@@ -1635,16 +1633,15 @@
    "genres_inferred": false,
    "organizer": "Beyond",
    "description": "",
-   "url": "https://posh.vip/e/alex-farell",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/alex-farell-542565"
-   ]
+   "url": "https://posh.vip/e/alex-farell"
   },
   {
    "id": "hardrock:206000",
-   "source": "venue",
+   "source": "edmtrain+venue",
    "title": "Romi Lux",
-   "artists": [],
+   "artists": [
+    "Romi Lux"
+   ],
    "venue": "DAER Nightclub",
    "venue_slug": "daer",
    "date": "2026-11-07",
@@ -1659,7 +1656,10 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/206000",
-   "generic_title": false
+   "generic_title": false,
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/romi-lux-550235"
+   ]
   },
   {
    "id": "19hz:4448056-valentinhuedo",
@@ -2754,6 +2754,31 @@
    ]
   },
   {
+   "id": "edmtrain:550241",
+   "source": "edmtrain",
+   "title": "Crespo",
+   "artists": [
+    "Crespo"
+   ],
+   "venue": "E11EVEN",
+   "venue_slug": null,
+   "date": "2026-11-11",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "29 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://speakeasygo.com/event/EVE-EGL6RZ?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/crespo-550241"
+   ]
+  },
+  {
    "id": "zeyzey:love-in-the-club-12-nov",
    "source": "venue",
    "title": "Love In The Club",
@@ -3555,6 +3580,31 @@
    "url": "https://shotgun.live/en/events/ravediggaz",
    "alt_urls": [
     "https://ra.co/events/2544621"
+   ]
+  },
+  {
+   "id": "edmtrain:550196",
+   "source": "edmtrain",
+   "title": "Taimur",
+   "artists": [
+    "Taimur"
+   ],
+   "venue": "148 Northeast 28th Street",
+   "venue_slug": null,
+   "date": "2026-11-13",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "148 NE 28th St, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/ravediggaz?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/taimur-550196"
    ]
   },
   {
@@ -7914,7 +7964,7 @@
    ]
   },
   {
-   "id": "edmtrain:549873",
+   "id": "edmtrain:550270",
    "source": "edmtrain",
    "title": "Cato Anaya",
    "artists": [
@@ -7933,9 +7983,9 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://posh.vip/e/friendsgiving-173?t=edmtrain",
+   "url": "https://posh.vip/e/miami-friendsgiving?t=edmtrain",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/cato-anaya-549873"
+    "https://edmtrain.com/miami-fl/cato-anaya-550270"
    ]
   },
   {
@@ -8710,6 +8760,32 @@
    "url": "https://dice.fm/event/nylv89?pid=d6342b83",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/whomadewho-549537"
+   ]
+  },
+  {
+   "id": "edmtrain:550306",
+   "source": "edmtrain",
+   "title": "Dixon, Jimi Jules",
+   "artists": [
+    "Dixon",
+    "Jimi Jules"
+   ],
+   "venue": "Sable Miami",
+   "venue_slug": null,
+   "date": "2026-12-02",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "2219 NW 2nd Ave, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/kxp88p?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/dixon-jimi-jules-550306"
    ]
   },
   {
@@ -10063,6 +10139,57 @@
    ]
   },
   {
+   "id": "edmtrain:550283",
+   "source": "edmtrain",
+   "title": "Dennis Cruz b2b Franky Rizardo",
+   "artists": [
+    "Dennis Cruz",
+    "Franky Rizardo"
+   ],
+   "venue": "Casa Neos",
+   "venue_slug": null,
+   "date": "2026-12-04",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "40 SW North River Dr, Miami, FL 33128, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://music.casa-neos.com/art-week",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/dennis-cruz-franky-rizardo-550283"
+   ]
+  },
+  {
+   "id": "edmtrain:550285",
+   "source": "edmtrain",
+   "title": "Honey Dijon",
+   "artists": [
+    "Honey Dijon"
+   ],
+   "venue": "Casa Neos",
+   "venue_slug": null,
+   "date": "2026-12-04",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "40 SW North River Dr, Miami, FL 33128, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://music.casa-neos.com/art-week",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/honey-dijon-550285"
+   ]
+  },
+  {
    "id": "edmtrain:549071",
    "source": "edmtrain",
    "title": "Lunasol Pres.: Arymé, Sparrow",
@@ -10175,7 +10302,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$34.05",
+   "price": "$39.73",
    "genres": [
     "house"
    ],
@@ -10899,6 +11026,56 @@
    ]
   },
   {
+   "id": "edmtrain:550286",
+   "source": "edmtrain",
+   "title": "ANOTR",
+   "artists": [
+    "ANOTR"
+   ],
+   "venue": "Casa Neos",
+   "venue_slug": null,
+   "date": "2026-12-05",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "40 SW North River Dr, Miami, FL 33128, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://music.casa-neos.com/art-week",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/anotr-550286"
+   ]
+  },
+  {
+   "id": "edmtrain:550290",
+   "source": "edmtrain",
+   "title": "Rafael",
+   "artists": [
+    "Rafael"
+   ],
+   "venue": "Casa Neos",
+   "venue_slug": null,
+   "date": "2026-12-05",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "40 SW North River Dr, Miami, FL 33128, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://music.casa-neos.com/art-week",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/rafael-550290"
+   ]
+  },
+  {
    "id": "edmtrain:549910",
    "source": "edmtrain",
    "title": "WhoMadeWho",
@@ -11246,6 +11423,56 @@
    "url": "https://dice.fm/event/avklnq?pid=d6342b83",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/golfos-pawsa-and-dennis-cruz-533428"
+   ]
+  },
+  {
+   "id": "edmtrain:550292",
+   "source": "edmtrain",
+   "title": "HUGEL",
+   "artists": [
+    "HUGEL"
+   ],
+   "venue": "Casa Neos",
+   "venue_slug": null,
+   "date": "2026-12-06",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "40 SW North River Dr, Miami, FL 33128, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://music.casa-neos.com/art-week",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/hugel-550292"
+   ]
+  },
+  {
+   "id": "edmtrain:550293",
+   "source": "edmtrain",
+   "title": "Miguelle & Tons",
+   "artists": [
+    "Miguelle & Tons"
+   ],
+   "venue": "Casa Neos",
+   "venue_slug": null,
+   "date": "2026-12-06",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "40 SW North River Dr, Miami, FL 33128, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://music.casa-neos.com/art-week",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/miguelle-and-tons-550293"
    ]
   },
   {
@@ -12962,7 +13189,8 @@
    "source": "19hz+edmtrain",
    "title": "Dee Montero, Surreal Flight",
    "artists": [
-    "Dee Montero"
+    "Dee Montero",
+    "Lucas Zárate"
    ],
    "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
@@ -12982,7 +13210,7 @@
    "description": "",
    "url": "https://dice.fm/event/6ad747334276240001e35b4b",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/dee-montero-546503"
+    "https://edmtrain.com/miami-fl/dee-montero-lucas-zarate-546503"
    ]
   },
   {
@@ -14752,9 +14980,9 @@
   {
    "id": "edmtrain:548797",
    "source": "edmtrain",
-   "title": "Anthony Middleton",
+   "title": "Francesca Lombardo",
    "artists": [
-    "Anthony Middleton"
+    "Francesca Lombardo"
    ],
    "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
@@ -14773,7 +15001,7 @@
    "description": "",
    "url": "https://dice.fm/event/wwnnkx?pid=d6342b83",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/anthony-middleton-548797"
+    "https://edmtrain.com/miami-fl/francesca-lombardo-548797"
    ]
   },
   {

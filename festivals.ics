@@ -9,16 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4448056-alexfarell@festivals.miami-calendars
-DTSTAMP:20261017T161817Z
-LAST-MODIFIED:20261017T161817Z
-SEQUENCE:0
+DTSTAMP:20261105T041825Z
+LAST-MODIFIED:20261105T041825Z
+SEQUENCE:1
 DTSTART:20261108T030000Z
 DTEND:20261108T080000Z
 SUMMARY:Alex Farell
 LOCATION:Casa Nube Wynwood
-DESCRIPTION:Lineup: Alex Farell\nTags: hard techno\nPresented by: Beyond\nA
- ges: 18+\nhttps://posh.vip/e/alex-farell\nhttps://edmtrain.com/miami-fl/al
- ex-farell-542565
+DESCRIPTION:Tags: hard techno\nPresented by: Beyond\nAges: 18+\nhttps://pos
+ h.vip/e/alex-farell
 URL:https://posh.vip/e/alex-farell
 STATUS:CONFIRMED
 CATEGORIES:hard techno
