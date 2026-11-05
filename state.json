@@ -665,9 +665,9 @@
   "modified": "2026-10-30T04:18:27+00:00"
  },
  "dice-6ae37fbe8bf64200012df1ae@factory-town.miami-calendars": {
-  "hash": "7d99d23ca59ad761",
-  "seq": 0,
-  "modified": "2026-11-03T22:18:02+00:00"
+  "hash": "39685af8fc2161e8",
+  "seq": 1,
+  "modified": "2026-11-05T16:18:02+00:00"
  },
  "dice-6ae8e7149ac9250001d6d2bc@the-ground.miami-calendars": {
   "hash": "149eeef134c01bb1",
@@ -778,6 +778,11 @@
   "hash": "a108467dcd80409e",
   "seq": 0,
   "modified": "2026-11-04T16:18:02+00:00"
+ },
+ "dice-6aeca8b35616c30001ed56e7@club-space.miami-calendars": {
+  "hash": "e09e91615f4f74f3",
+  "seq": 0,
+  "modified": "2026-11-05T16:18:02+00:00"
  },
  "edmtrain-458944@festivals.miami-calendars": {
   "hash": "52f5b7eb786ce532",
@@ -899,11 +904,6 @@
   "seq": 0,
   "modified": "2026-11-04T04:18:13+00:00"
  },
- "edmtrain-549874@mad-radio.miami-calendars": {
-  "hash": "47688d7bb17fb5fe",
-  "seq": 0,
-  "modified": "2026-11-05T10:18:03+00:00"
- },
  "equinox-fest-4-day-2-3-november-21-22nd@shotgun.live": {
   "hash": "a6b82d159fc90bb0",
   "seq": 1,
@@ -923,6 +923,11 @@
   "hash": "f1ef96ffabd66e25",
   "seq": 1,
   "modified": "2026-11-04T16:18:02+00:00"
+ },
+ "gala-ibiza-at-lunasol-miami@shotgun.live": {
+  "hash": "326425e89af6815e",
+  "seq": 0,
+  "modified": "2026-11-05T16:18:02+00:00"
  },
  "girl-of-glass-at-boombox-11-8@shotgun.live": {
   "hash": "9b03b4734e200b0c",
@@ -1355,9 +1360,9 @@
   "modified": "2026-10-20T22:18:22+00:00"
  },
  "zeyzey-chromeo-dj-set-30-dec@zeyzey.miami-calendars": {
-  "hash": "d1eeb01ba94cacea",
-  "seq": 1,
-  "modified": "2026-11-03T04:18:09+00:00"
+  "hash": "022d477dae491918",
+  "seq": 2,
+  "modified": "2026-11-05T16:18:02+00:00"
  },
  "zeyzey-com-truise-06-nov@zeyzey.miami-calendars": {
   "hash": "ec3dd97445914571",
@@ -1378,6 +1383,11 @@
   "hash": "0cc166b2f68dbaf0",
   "seq": 0,
   "modified": "2026-10-06T16:18:25+00:00"
+ },
+ "zeyzey-friendsgiving-ft-suenalo-the-lab-25-nov@zeyzey.miami-calendars": {
+  "hash": "e36f37085b1a579a",
+  "seq": 0,
+  "modified": "2026-11-05T16:18:02+00:00"
  },
  "zeyzey-i-love-r-b-party-18-dec@zeyzey.miami-calendars": {
   "hash": "3a9aef0ac187e159",
@@ -1420,14 +1430,14 @@
   "modified": "2026-10-06T22:18:30+00:00"
  },
  "zeyzey-new-years-eve-with-dabuell-dj-set-31-dec@zeyzey.miami-calendars": {
-  "hash": "4fa7e2c78e6938fe",
-  "seq": 2,
-  "modified": "2026-11-03T04:18:09+00:00"
+  "hash": "4b5e50fdaa093856",
+  "seq": 3,
+  "modified": "2026-11-05T16:18:02+00:00"
  },
  "zeyzey-omni-soundspace-presents-black-rave-culture-shekdash-sky-jetta-09-jan@zeyzey.miami-calendars": {
-  "hash": "ff35337cc037a27a",
-  "seq": 2,
-  "modified": "2026-11-03T04:18:09+00:00"
+  "hash": "d085c01b4716d58b",
+  "seq": 3,
+  "modified": "2026-11-05T16:18:02+00:00"
  },
  "zeyzey-pnk-basel-04-dec@zeyzey.miami-calendars": {
   "hash": "a23f202cf5255747",
@@ -1443,6 +1453,11 @@
   "hash": "d9f8031decbf378c",
   "seq": 0,
   "modified": "2026-10-20T22:18:22+00:00"
+ },
+ "zeyzey-romain-garcia-16-jan@zeyzey.miami-calendars": {
+  "hash": "83ca98e633ec177c",
+  "seq": 0,
+  "modified": "2026-11-05T16:18:02+00:00"
  },
  "zeyzey-sam-gellaitry-darius-05-dec@zeyzey.miami-calendars": {
   "hash": "c86c0a28aa834085",

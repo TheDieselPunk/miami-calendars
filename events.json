@@ -1,34 +1,6 @@
 {
  "events": [
   {
-   "id": "edmtrain:549874",
-   "source": "edmtrain",
-   "title": "Ika & Usherenko",
-   "artists": [
-    "Ika & Usherenko"
-   ],
-   "venue": "Mad Radio Miami",
-   "venue_slug": "mad-radio",
-   "date": "2026-11-04",
-   "start": "2026-11-05T02:00:00+00:00",
-   "end": "2026-11-05T08:00:00+00:00",
-   "time_estimated": true,
-   "address": "7700 Biscayne Blvd, Miami, FL 33138, USA",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "deep house",
-    "house"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/madradiomiami110426?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/ika-and-usherenko-549874"
-   ]
-  },
-  {
    "id": "19hz:4447768-jessyfriendskebi",
    "source": "19hz",
    "title": "Jessy & Friends: Kebin Van Reeken",
@@ -50,29 +22,6 @@
    "organizer": "",
    "description": "",
    "url": "https://link.dice.fm/H3381aeb6e32"
-  },
-  {
-   "id": "edmtrain:549460",
-   "source": "edmtrain",
-   "title": "Melo - Timeless Music Classics",
-   "artists": [],
-   "venue": "The Sylvester",
-   "venue_slug": null,
-   "date": "2026-11-04",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "3456 N Miami Ave, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/melo-timeless-music-classics-halloween-edition-2?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/melo-timeless-music-classics-549460"
-   ]
   },
   {
    "id": "tablelist:4deeeaf00354c0fe",
@@ -1316,6 +1265,30 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/vavo-ricky-retro-535915"
    ]
+  },
+  {
+   "id": "dice:6aeca8b35616c30001ed56e7",
+   "source": "dice",
+   "title": "Space Yoga",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2026-11-07",
+   "start": "2026-11-07T21:20:00+00:00",
+   "end": "2026-11-07T22:30:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6aeca8b35616c30001ed56e7",
+   "cancelled": false
   },
   {
    "id": "shotgun:indie-night-i",
@@ -4092,6 +4065,30 @@
    ]
   },
   {
+   "id": "shotgun:gala-ibiza-at-lunasol-miami",
+   "source": "shotgun",
+   "title": "Gala Ibiza At Lunasol Miami",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": "festivals",
+   "date": "2026-11-14",
+   "start": "2026-11-15T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$20.00",
+   "genres": [
+    "tech house",
+    "deep house",
+    "progressive house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/gala-ibiza-at-lunasol-miami"
+  },
+  {
    "id": "19hz:4448728-krewella",
    "source": "19hz+edmtrain",
    "title": "Krewella",
@@ -6642,6 +6639,29 @@
    "organizer": "Submission Events",
    "description": "",
    "url": "https://www.eventbrite.com/e/submission-events-presents-spanksgiving-eve-tickets-2003748357276"
+  },
+  {
+   "id": "zeyzey:friendsgiving-ft-suenalo-the-lab-25-nov",
+   "source": "venue",
+   "title": "Friendsgiving ft. Suenalo + The Lab",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-11-25",
+   "start": "2026-11-26T00:00:00+00:00",
+   "end": "2026-11-26T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "dance/electronic"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/friendsgiving-ft-suenalo-the-lab-25-nov",
+   "cancelled": false
   },
   {
    "id": "19hz:4449780-ravesgivingevery",
@@ -13331,7 +13351,7 @@
   },
   {
    "id": "zeyzey:chromeo-dj-set-30-dec",
-   "source": "edmtrain+venue",
+   "source": "19hz+edmtrain+venue",
    "title": "Chromeo (DJ Set)",
    "artists": [
     "Chromeo"
@@ -13343,10 +13363,12 @@
    "end": "2026-12-31T06:00:00+00:00",
    "time_estimated": false,
    "address": "",
-   "ages": "",
-   "price": "",
+   "ages": "18+",
+   "price": "$29-75",
    "genres": [
-    "dance/electronic"
+    "electrofunk",
+    "house",
+    "synthpop"
    ],
    "genres_inferred": false,
    "organizer": "",
@@ -13354,6 +13376,7 @@
    "url": "https://calendar.zeyzeymiami.com/shows/chromeo-dj-set-30-dec",
    "cancelled": false,
    "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/chromeo-dj-set-30-dec",
     "https://edmtrain.com/miami-fl/chromeo-549475"
    ]
   },
@@ -13415,7 +13438,7 @@
   },
   {
    "id": "zeyzey:new-years-eve-with-dabuell-dj-set-31-dec",
-   "source": "edmtrain+venue",
+   "source": "19hz+edmtrain+venue",
    "title": "New Years Eve with Dabeull (DJ Set)",
    "artists": [
     "Dabeull"
@@ -13427,9 +13450,10 @@
    "end": "2027-01-01T06:00:00+00:00",
    "time_estimated": false,
    "address": "",
-   "ages": "",
-   "price": "",
+   "ages": "21+",
+   "price": "$46-87",
    "genres": [
+    "disco",
     "funk"
    ],
    "genres_inferred": false,
@@ -13438,6 +13462,7 @@
    "url": "https://calendar.zeyzeymiami.com/shows/new-years-eve-with-dabuell-dj-set-31-dec",
    "cancelled": false,
    "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/new-years-eve-with-dabuell-dj-set-31-dec",
     "https://edmtrain.com/miami-fl/dabeull-549476"
    ]
   },
@@ -13464,7 +13489,7 @@
   },
   {
    "id": "dice:6ae37fbe8bf64200012df1ae",
-   "source": "dice+edmtrain",
+   "source": "19hz+dice+edmtrain",
    "title": "DOM DOLLA PRESENTS GOOD FORTUNE",
    "artists": [
     "Dom Dolla",
@@ -13479,19 +13504,47 @@
    "end": "2027-01-01T11:00:00+00:00",
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
-   "ages": "",
+   "ages": "18+",
    "price": "",
    "genres": [
-    "house",
-    "techno"
+    "tech house"
    ],
-   "genres_inferred": true,
+   "genres_inferred": false,
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6ae37fbe8bf64200012df1ae",
    "cancelled": false,
    "alt_urls": [
+    "https://drop.cobrand.com/d/domdollaupdates/good-fortune-miami",
     "https://edmtrain.com/miami-fl/dom-dolla-sg-lewis-549632"
+   ]
+  },
+  {
+   "id": "19hz:4453236-davidguetta",
+   "source": "19hz+edmtrain",
+   "title": "David Guetta",
+   "artists": [
+    "David Guetta"
+   ],
+   "venue": "Fontainebleau",
+   "venue_slug": null,
+   "date": "2026-12-31",
+   "start": "2027-01-01T02:00:00+00:00",
+   "end": "2027-01-01T07:00:00+00:00",
+   "time_estimated": false,
+   "address": "Miami Beach",
+   "ages": "21+",
+   "price": "$254-933",
+   "genres": [
+    "big room house",
+    "pop edm"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.universe.com/events/HDYJNF",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/david-guetta-548687"
    ]
   },
   {
@@ -13754,31 +13807,6 @@
    "url": "https://www.ticketweb.com/event/id/14349084",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/adriatique-539523"
-   ]
-  },
-  {
-   "id": "edmtrain:548687",
-   "source": "edmtrain",
-   "title": "David Guetta",
-   "artists": [
-    "David Guetta"
-   ],
-   "venue": "Fontainebleau Miami Beach",
-   "venue_slug": null,
-   "date": "2026-12-31",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "4441 Collins Ave, Miami Beach, FL 33140, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://ticketmaster.evyy.net/c/254533/264167/4272?u=https%3A%2F%2Fwww.universe.com%2Fevents%2FHDYJNF",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/david-guetta-548687"
    ]
   },
   {
@@ -14177,7 +14205,7 @@
   },
   {
    "id": "zeyzey:omni-soundspace-presents-black-rave-culture-shekdash-sky-jetta-09-jan",
-   "source": "edmtrain+venue",
+   "source": "19hz+edmtrain+venue",
    "title": "Black Rave Culture, Shekdash, Sky Jetta",
    "artists": [
     "Black Rave Culture"
@@ -14189,10 +14217,15 @@
    "end": "2027-01-10T06:00:00+00:00",
    "time_estimated": false,
    "address": "",
-   "ages": "",
-   "price": "",
+   "ages": "18+",
+   "price": "free w/rsvp b4 11pm / $19+",
    "genres": [
-    "dance/electronic"
+    "baile funk",
+    "club music",
+    "footwork",
+    "house",
+    "techno",
+    "uk garage"
    ],
    "genres_inferred": false,
    "organizer": "",
@@ -14200,6 +14233,7 @@
    "url": "https://calendar.zeyzeymiami.com/shows/omni-soundspace-presents-black-rave-culture-shekdash-sky-jetta-09-jan",
    "cancelled": false,
    "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/omni-soundspace-presents-black-rave-culture-shekdash-sky-jetta-09-jan#tickets",
     "https://edmtrain.com/miami-fl/black-rave-culture-549482"
    ]
   },
@@ -14338,6 +14372,27 @@
    "description": "",
    "url": "https://tixr.com/e/212387",
    "generic_title": true
+  },
+  {
+   "id": "zeyzey:romain-garcia-16-jan",
+   "source": "venue",
+   "title": "Romain Garcia",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2027-01-16",
+   "start": "2027-01-17T01:00:00+00:00",
+   "end": "2027-01-17T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/romain-garcia-16-jan",
+   "cancelled": false
   },
   {
    "id": "hardrock:212396",

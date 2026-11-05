@@ -87,6 +87,21 @@ STATUS:CONFIRMED
 CATEGORIES:bass music,dubstep
 END:VEVENT
 BEGIN:VEVENT
+UID:gala-ibiza-at-lunasol-miami@shotgun.live
+DTSTAMP:20261105T161802Z
+LAST-MODIFIED:20261105T161802Z
+SEQUENCE:0
+DTSTART:20261115T030000Z
+DTEND:20261115T080000Z
+SUMMARY:Gala Ibiza At Lunasol Miami
+LOCATION:Miami
+DESCRIPTION:Tags: tech house\, deep house\, progressive house\nhttps://shot
+ gun.live/en/events/gala-ibiza-at-lunasol-miami
+URL:https://shotgun.live/en/events/gala-ibiza-at-lunasol-miami
+STATUS:CONFIRMED
+CATEGORIES:tech house,deep house,progressive house
+END:VEVENT
+BEGIN:VEVENT
 UID:dice-6ac69157ede6160001290447@festivals.miami-calendars
 DTSTAMP:20261104T221836Z
 LAST-MODIFIED:20261104T221836Z

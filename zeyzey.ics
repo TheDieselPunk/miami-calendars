@@ -375,6 +375,22 @@ STATUS:CONFIRMED
 CATEGORIES:rock
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-friendsgiving-ft-suenalo-the-lab-25-nov@zeyzey.miami-calendars
+DTSTAMP:20261105T161802Z
+LAST-MODIFIED:20261105T161802Z
+SEQUENCE:0
+DTSTART:20261126T000000Z
+DTEND:20261126T060000Z
+SUMMARY:Friendsgiving ft. Suenalo + The Lab
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
+ friendsgiving-ft-suenalo-the-lab-25-nov
+URL:https://calendar.zeyzeymiami.com/shows/friendsgiving-ft-suenalo-the-lab
+ -25-nov
+STATUS:CONFIRMED
+CATEGORIES:dance/electronic
+END:VEVENT
+BEGIN:VEVENT
 UID:tablelist-1a812eb5de36eab4@zeyzey.miami-calendars
 DTSTAMP:20261101T101757Z
 LAST-MODIFIED:20261101T101757Z
@@ -758,55 +774,55 @@ CATEGORIES:dance/electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-chromeo-dj-set-30-dec@zeyzey.miami-calendars
-DTSTAMP:20261103T041809Z
-LAST-MODIFIED:20261103T041809Z
-SEQUENCE:1
+DTSTAMP:20261105T161802Z
+LAST-MODIFIED:20261105T161802Z
+SEQUENCE:2
 DTSTART:20261231T010000Z
 DTEND:20261231T060000Z
 SUMMARY:Chromeo (DJ Set)
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: Chromeo\nTags: dance/electronic\nhttps://calendar.zeyze
- ymiami.com/shows/chromeo-dj-set-30-dec\nhttps://edmtrain.com/miami-fl/chro
- meo-549475
+DESCRIPTION:Lineup: Chromeo\nTags: electrofunk\, house\, synthpop\nAges: 18
+ +\nhttps://calendar.zeyzeymiami.com/shows/chromeo-dj-set-30-dec\nhttps://e
+ dmtrain.com/miami-fl/chromeo-549475
 URL:https://calendar.zeyzeymiami.com/shows/chromeo-dj-set-30-dec
 STATUS:CONFIRMED
-CATEGORIES:dance/electronic
+CATEGORIES:electrofunk,house,synthpop
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-new-years-eve-with-dabuell-dj-set-31-dec@zeyzey.miami-calendars
-DTSTAMP:20261103T041809Z
-LAST-MODIFIED:20261103T041809Z
-SEQUENCE:2
+DTSTAMP:20261105T161802Z
+LAST-MODIFIED:20261105T161802Z
+SEQUENCE:3
 DTSTART:20270101T010000Z
 DTEND:20270101T060000Z
 SUMMARY:New Years Eve with Dabeull (DJ Set)
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: Dabeull\nTags: funk\nhttps://calendar.zeyzeymiami.com/s
- hows/new-years-eve-with-dabuell-dj-set-31-dec\nhttps://edmtrain.com/miami-
- fl/dabeull-549476
+DESCRIPTION:Lineup: Dabeull\nTags: disco\, funk\nAges: 21+\nhttps://calenda
+ r.zeyzeymiami.com/shows/new-years-eve-with-dabuell-dj-set-31-dec\nhttps://
+ edmtrain.com/miami-fl/dabeull-549476
 URL:https://calendar.zeyzeymiami.com/shows/new-years-eve-with-dabuell-dj-se
  t-31-dec
 STATUS:CONFIRMED
-CATEGORIES:funk
+CATEGORIES:disco,funk
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-omni-soundspace-presents-black-rave-culture-shekdash-sky-jetta-0
  9-jan@zeyzey.miami-calendars
-DTSTAMP:20261103T041809Z
-LAST-MODIFIED:20261103T041809Z
-SEQUENCE:2
+DTSTAMP:20261105T161802Z
+LAST-MODIFIED:20261105T161802Z
+SEQUENCE:3
 DTSTART:20270110T030000Z
 DTEND:20270110T060000Z
 SUMMARY:Black Rave Culture\, Shekdash\, Sky Jetta
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: Black Rave Culture\nTags: dance/electronic\nhttps://cal
- endar.zeyzeymiami.com/shows/omni-soundspace-presents-black-rave-culture-sh
- ekdash-sky-jetta-09-jan\nhttps://edmtrain.com/miami-fl/black-rave-culture-
- 549482
+DESCRIPTION:Lineup: Black Rave Culture\nTags: baile funk\, club music\, foo
+ twork\, house\, techno\, uk garage\nAges: 18+\nhttps://calendar.zeyzeymiam
+ i.com/shows/omni-soundspace-presents-black-rave-culture-shekdash-sky-jetta
+ -09-jan\nhttps://edmtrain.com/miami-fl/black-rave-culture-549482
 URL:https://calendar.zeyzeymiami.com/shows/omni-soundspace-presents-black-r
  ave-culture-shekdash-sky-jetta-09-jan
 STATUS:CONFIRMED
-CATEGORIES:dance/electronic
+CATEGORIES:baile funk,club music,footwork,house,techno,uk garage
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-booker-t-jones-15-jan@zeyzey.miami-calendars
@@ -822,6 +838,19 @@ DESCRIPTION:Tags: r&b/soul\nhttps://calendar.zeyzeymiami.com/shows/booker-t
 URL:https://calendar.zeyzeymiami.com/shows/booker-t-jones-15-jan
 STATUS:CONFIRMED
 CATEGORIES:r&b/soul
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-romain-garcia-16-jan@zeyzey.miami-calendars
+DTSTAMP:20261105T161802Z
+LAST-MODIFIED:20261105T161802Z
+SEQUENCE:0
+DTSTART:20270117T010000Z
+DTEND:20270117T060000Z
+SUMMARY:Romain Garcia
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://calendar.zeyzeymiami.com/shows/romain-garcia-16-jan
+URL:https://calendar.zeyzeymiami.com/shows/romain-garcia-16-jan
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-the-unofficial-end-cruise-party-21-jan@zeyzey.miami-calendars
