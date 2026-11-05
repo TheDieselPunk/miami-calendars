@@ -952,6 +952,21 @@ URL:https://calendar.zeyzeymiami.com/shows/john-splithoff-15-apr
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-ye-dry-06-may@zeyzey.miami-calendars
+DTSTAMP:20261105T101803Z
+LAST-MODIFIED:20261105T101803Z
+SEQUENCE:0
+DTSTART:20270506T230000Z
+DTEND:20270507T050000Z
+SUMMARY:YEИDRY
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: latin\nhttps://calendar.zeyzeymiami.com/shows/ye-dry-06-m
+ ay
+URL:https://calendar.zeyzeymiami.com/shows/ye-dry-06-may
+STATUS:CONFIRMED
+CATEGORIES:latin
+END:VEVENT
+BEGIN:VEVENT
 UID:paloma-morphy-miami@shotgun.live
 DTSTAMP:20260928T041801Z
 LAST-MODIFIED:20260928T041801Z
