@@ -8,26 +8,20 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:madradiomiami110526@shotgun.live
-DTSTAMP:20261105T221829Z
-LAST-MODIFIED:20261105T221829Z
-SEQUENCE:2
+UID:19hz-4447860-femmefrequencysh@mad-radio.miami-calendars
+DTSTAMP:20261106T101826Z
+LAST-MODIFIED:20261106T101826Z
+SEQUENCE:0
 DTSTART:20261106T020000Z
 DTEND:20261106T080000Z
 SUMMARY:Femme Frequency: Shelley De Vos / Gali
-LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
-DESCRIPTION:"FEMME FREQUENCY™ is MAD® cultural platform placing women at
-  the center of the music scene\, featuring local\, international\, and eme
- rging DJs\, the stories behind the music\, culture\, talent\, and communit
- y. A safe space to discover\, play\, and belong. See you on the dance floo
- r! Come early\, stay late\, and let the night unfold FREE ENTRY +25 YEARS 
- OLD HAPPY HOUR 5 PM - 9 PM"\nTags (guess): deep house\, house\nTickets: RS
- VP Free\nAges: 25+\nhttps://shotgun.live/en/events/madradiomiami110526\nht
- tps://edmtrain.com/miami-fl/femme-frequency-549875
-URL:https://shotgun.live/en/events/madradiomiami110526
+LOCATION:Mad Radio
+DESCRIPTION:Tags (guess): deep house\, house\nAges: 25+\nhttps://shotgun.li
+ ve/events/madradiomiami110526\nhttps://edmtrain.com/miami-fl/femme-frequen
+ cy-549875
+URL:https://shotgun.live/events/madradiomiami110526
 STATUS:CONFIRMED
 CATEGORIES:deep house,house
-GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami110626@shotgun.live
