@@ -72,9 +72,9 @@
   "slug": "kemistry",
   "name": "Kemistry (Fort Lauderdale)",
   "file": "kemistry.ics",
-  "events": 21,
+  "events": 20,
   "estimated_times": 1,
-  "next": "2026-11-05",
+  "next": "2026-11-06",
   "sources": [
    "19hz",
    "dice",
@@ -86,7 +86,7 @@
   "slug": "boombox",
   "name": "The Boombox Miami",
   "file": "boombox.ics",
-  "events": 9,
+  "events": 10,
   "estimated_times": 0,
   "next": "2026-11-06",
   "sources": [
@@ -100,7 +100,7 @@
   "slug": "zeyzey",
   "name": "ZeyZey Miami",
   "file": "zeyzey.ics",
-  "events": 60,
+  "events": 62,
   "estimated_times": 2,
   "next": "2026-11-05",
   "sources": [

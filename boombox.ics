@@ -31,9 +31,9 @@ GEO:25.7287781;-80.3169309
 END:VEVENT
 BEGIN:VEVENT
 UID:black-techo-matters@shotgun.live
-DTSTAMP:20261103T041809Z
-LAST-MODIFIED:20261103T041809Z
-SEQUENCE:2
+DTSTAMP:20261106T161826Z
+LAST-MODIFIED:20261106T161826Z
+SEQUENCE:3
 DTSTART:20261108T040000Z
 DTEND:20261108T090000Z
 SUMMARY:Black Techno Matters
@@ -51,9 +51,9 @@ DESCRIPTION:Public Energy is proud to be partnering with Black Techno Matte
  night right for a rare set outside his domain is SERAFITZ with an all wax 
  set. We’re beyond excited to have techno bumping right here at The Boomb
  ox Miami. ALL BLACK OUTFIT IS *HIGHLY* Encouraged for the occasion.\nLineu
- p: Nile Ashton\, B_X_R_N_X_R_D\, duun\, Duality\nTags: dub techno\, techno
- \nTickets: T1 $10 (sold out)\, T2 $17\nhttps://shotgun.live/en/events/blac
- k-techo-matters
+ p: Nile Ashton\, B_X_R_N_X_R_D\, duun\, Duality\, KILLAJAYJAYY\, DjPressur
+ e\, LadyNarcisse\, serafitz\nTags: dub techno\, techno\nTickets: T1 $10 (s
+ old out)\, T2 $17\nhttps://shotgun.live/en/events/black-techo-matters
 URL:https://shotgun.live/en/events/black-techo-matters
 STATUS:CONFIRMED
 CATEGORIES:dub techno,techno
@@ -195,6 +195,24 @@ URL:https://shotgun.live/en/events/the-boombox-equinox-bookings-presents-ar
  ythmia
 STATUS:CONFIRMED
 CATEGORIES:alternative,indie rock,rock
+GEO:25.7287781;-80.3169309
+END:VEVENT
+BEGIN:VEVENT
+UID:lorraine-wazoo-and-more-the-boombox-12-8@shotgun.live
+DTSTAMP:20261106T161826Z
+LAST-MODIFIED:20261106T161826Z
+SEQUENCE:0
+DTSTART:20261208T230000Z
+DTEND:20261209T040000Z
+SUMMARY:Lorraine\, Wazoo\, And More @ The Boombox 12/8
+LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
+ \, USA
+DESCRIPTION:Equinox Booking Presents Lorrane Wazoo Icarus Kissed The Sun Da
+ teline Consort $18 adv / $20 day of all ages doors 6 pm\nPresented by: Equ
+ inox Booking\nTickets: General Admission $18\nhttps://shotgun.live/en/even
+ ts/lorraine-wazoo-and-more-the-boombox-12-8
+URL:https://shotgun.live/en/events/lorraine-wazoo-and-more-the-boombox-12-8
+STATUS:CONFIRMED
 GEO:25.7287781;-80.3169309
 END:VEVENT
 END:VCALENDAR

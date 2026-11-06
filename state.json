@@ -1,8 +1,13 @@
 {
  "19hz-4447860-femmefrequencysh@mad-radio.miami-calendars": {
-  "hash": "2fa82d0c49a966aa",
+  "hash": "adfc0247e163c32e",
+  "seq": 1,
+  "modified": "2026-11-06T16:18:26+00:00"
+ },
+ "19hz-4447864-kingsparadoxmari@jolene.miami-calendars": {
+  "hash": "7451de49b0e2403a",
   "seq": 0,
-  "modified": "2026-11-06T10:18:26+00:00"
+  "modified": "2026-11-06T16:18:26+00:00"
  },
  "19hz-4447960-laurecroftufo95@domicile.miami-calendars": {
   "hash": "1c6d07c138d36c7a",
@@ -190,9 +195,9 @@
   "modified": "2026-11-01T22:17:49+00:00"
  },
  "black-techo-matters@shotgun.live": {
-  "hash": "41108ccd629b40fd",
-  "seq": 2,
-  "modified": "2026-11-03T04:18:09+00:00"
+  "hash": "3f7cf55b9b9e2641",
+  "seq": 3,
+  "modified": "2026-11-06T16:18:26+00:00"
  },
  "cafe-grooves-art-week@shotgun.live": {
   "hash": "bbf01bb33a85d152",
@@ -584,11 +589,6 @@
   "seq": 0,
   "modified": "2026-11-04T22:18:36+00:00"
  },
- "dice-6ac6aa74f13291000127aaa6@jolene.miami-calendars": {
-  "hash": "cbc3e388073c3231",
-  "seq": 1,
-  "modified": "2026-10-17T16:18:17+00:00"
- },
  "dice-6ac6b477b79982000164dae2@factory-town.miami-calendars": {
   "hash": "6132c4b9fb6d66ce",
   "seq": 2,
@@ -698,11 +698,6 @@
   "hash": "9ade20a9e78ed24d",
   "seq": 0,
   "modified": "2026-11-02T22:17:57+00:00"
- },
- "dice-6ae9c96f13b90c0001835bb8@kemistry.miami-calendars": {
-  "hash": "7946290c33005dca",
-  "seq": 0,
-  "modified": "2026-11-03T16:18:01+00:00"
  },
  "dice-6aea02f973dd3500015ff82f@floyd.miami-calendars": {
   "hash": "e45c51956098844d",
@@ -1269,6 +1264,11 @@
   "seq": 0,
   "modified": "2026-10-22T04:18:28+00:00"
  },
+ "lorraine-wazoo-and-more-the-boombox-12-8@shotgun.live": {
+  "hash": "9d9e8b67b3945fd4",
+  "seq": 0,
+  "modified": "2026-11-06T16:18:26+00:00"
+ },
  "madradiomiami110626@shotgun.live": {
   "hash": "ba763ac637762a8a",
   "seq": 2,
@@ -1375,9 +1375,9 @@
   "modified": "2026-11-01T10:17:57+00:00"
  },
  "tablelist-4deeeaf00354c0fe@zeyzey.miami-calendars": {
-  "hash": "3b5860403a6d014e",
-  "seq": 0,
-  "modified": "2026-11-01T10:17:57+00:00"
+  "hash": "f2ead1a92b9aa7d8",
+  "seq": 1,
+  "modified": "2026-11-06T16:18:26+00:00"
  },
  "tablelist-515b312cd7dea586@zeyzey.miami-calendars": {
   "hash": "c61d43631a9700c2",
@@ -1469,6 +1469,11 @@
   "seq": 0,
   "modified": "2026-09-23T16:18:04+00:00"
  },
+ "zeyzey-doctor-calavera-16-jan@zeyzey.miami-calendars": {
+  "hash": "f75629df1e54a85b",
+  "seq": 0,
+  "modified": "2026-11-06T16:18:26+00:00"
+ },
  "zeyzey-early-show-mamas-gun-26-feb@zeyzey.miami-calendars": {
   "hash": "0cc166b2f68dbaf0",
   "seq": 0,
@@ -1528,6 +1533,11 @@
   "hash": "d085c01b4716d58b",
   "seq": 3,
   "modified": "2026-11-05T16:18:02+00:00"
+ },
+ "zeyzey-ordinary-boys-09-jan-ccb5f@zeyzey.miami-calendars": {
+  "hash": "c6ee1ae1ad526ae0",
+  "seq": 0,
+  "modified": "2026-11-06T16:18:26+00:00"
  },
  "zeyzey-pnk-basel-04-dec@zeyzey.miami-calendars": {
   "hash": "a23f202cf5255747",
