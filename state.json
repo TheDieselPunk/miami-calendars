@@ -370,9 +370,9 @@
   "modified": "2026-10-17T16:18:17+00:00"
  },
  "dice-6aa06694dcd56d0001733719@floyd.miami-calendars": {
-  "hash": "69412bbb299c8bae",
-  "seq": 0,
-  "modified": "2026-10-09T22:19:02+00:00"
+  "hash": "afc5f8aaa02a5997",
+  "seq": 1,
+  "modified": "2026-11-06T04:18:43+00:00"
  },
  "dice-6aa19424a8735500017d3f72@club-space.miami-calendars": {
   "hash": "af62b34389e42680",
@@ -435,9 +435,9 @@
   "modified": "2026-10-27T04:18:17+00:00"
  },
  "dice-6ab44533af1ad900014f7295@jolene.miami-calendars": {
-  "hash": "1ff5e698a6c1db4f",
-  "seq": 2,
-  "modified": "2026-10-22T04:18:28+00:00"
+  "hash": "4972e04fbc1a2834",
+  "seq": 3,
+  "modified": "2026-11-06T04:18:43+00:00"
  },
  "dice-6ab446f49e8bcf0001f96b29@jolene.miami-calendars": {
   "hash": "ac2a2bcc3646a05b",
@@ -800,9 +800,9 @@
   "modified": "2026-11-05T16:18:02+00:00"
  },
  "dice-6aecdfde59b33300013afd8c@jolene.miami-calendars": {
-  "hash": "b4989c45bf3bf492",
-  "seq": 0,
-  "modified": "2026-11-05T22:18:29+00:00"
+  "hash": "21eb1ac9320482f9",
+  "seq": 1,
+  "modified": "2026-11-06T04:18:43+00:00"
  },
  "edmtrain-458944@festivals.miami-calendars": {
   "hash": "52f5b7eb786ce532",
@@ -923,6 +923,11 @@
   "hash": "69f85cdc044a9ba1",
   "seq": 0,
   "modified": "2026-11-04T04:18:13+00:00"
+ },
+ "edmtrain-550535@daer.miami-calendars": {
+  "hash": "b9eb4bdd832d33da",
+  "seq": 0,
+  "modified": "2026-11-06T04:18:43+00:00"
  },
  "equinox-fest-4-day-2-3-november-21-22nd@shotgun.live": {
   "hash": "a6b82d159fc90bb0",
@@ -1275,9 +1280,9 @@
   "modified": "2026-11-05T22:18:29+00:00"
  },
  "madradiomiami111126@shotgun.live": {
-  "hash": "56feb5f2a3d20112",
-  "seq": 0,
-  "modified": "2026-11-05T22:18:29+00:00"
+  "hash": "92974b8563381632",
+  "seq": 1,
+  "modified": "2026-11-06T04:18:43+00:00"
  },
  "madradiomiami111226@shotgun.live": {
   "hash": "3afc6c48bc97d919",
@@ -1285,9 +1290,9 @@
   "modified": "2026-11-05T22:18:29+00:00"
  },
  "madradiomiami111326@shotgun.live": {
-  "hash": "c27f5f8a9bcff67e",
-  "seq": 0,
-  "modified": "2026-11-05T22:18:29+00:00"
+  "hash": "6200a04d59853110",
+  "seq": 1,
+  "modified": "2026-11-06T04:18:43+00:00"
  },
  "madradiomiami111826@shotgun.live": {
   "hash": "8934ecc477a893fa",
@@ -1320,9 +1325,9 @@
   "modified": "2026-11-05T22:18:29+00:00"
  },
  "madradiomiami112726@shotgun.live": {
-  "hash": "d5b04a4b869ff84b",
-  "seq": 0,
-  "modified": "2026-11-05T22:18:29+00:00"
+  "hash": "e76daa1027685ee8",
+  "seq": 1,
+  "modified": "2026-11-06T04:18:43+00:00"
  },
  "madradiomiami112826@shotgun.live": {
   "hash": "39b5497f8b13cd79",
@@ -1455,9 +1460,9 @@
   "modified": "2026-11-05T04:18:25+00:00"
  },
  "zeyzey-danny-kravit-free-entry-26-dec@zeyzey.miami-calendars": {
-  "hash": "0438d4fe162bb2d4",
-  "seq": 2,
-  "modified": "2026-11-04T22:18:36+00:00"
+  "hash": "f83e5cca3c647b64",
+  "seq": 3,
+  "modified": "2026-11-06T04:18:43+00:00"
  },
  "zeyzey-dayme-arocena-la-ultima-rumba-19-dec@zeyzey.miami-calendars": {
   "hash": "ee3cf70886fb76c1",

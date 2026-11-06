@@ -285,16 +285,17 @@ CATEGORIES:minimal,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab44533af1ad900014f7295@jolene.miami-calendars
-DTSTAMP:20261022T041828Z
-LAST-MODIFIED:20261022T041828Z
-SEQUENCE:2
+DTSTAMP:20261106T041843Z
+LAST-MODIFIED:20261106T041843Z
+SEQUENCE:3
 DTSTART:20261205T030000Z
 DTEND:20261205T110000Z
 SUMMARY:Basel: SlapFunk
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Tags: house\nAges: 21+\nhttps://dice.fm/event/6ab44533af1ad9000
- 14f7295
+DESCRIPTION:Lineup: D'Julz\, Isaac Carter\, Tomás Station\, Ms. Mada\nTags
+ : house\nAges: 21+\nhttps://dice.fm/event/6ab44533af1ad900014f7295\nhttps:
+ //edmtrain.com/miami-fl/djulz-isaac-carter-550560
 URL:https://dice.fm/event/6ab44533af1ad900014f7295
 STATUS:CONFIRMED
 CATEGORIES:house
@@ -351,16 +352,17 @@ CATEGORIES:house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aecdfde59b33300013afd8c@jolene.miami-calendars
-DTSTAMP:20261105T221829Z
-LAST-MODIFIED:20261105T221829Z
-SEQUENCE:0
+DTSTAMP:20261106T041843Z
+LAST-MODIFIED:20261106T041843Z
+SEQUENCE:1
 DTSTART:20261213T030000Z
 DTEND:20261213T090000Z
 SUMMARY:Satoshie Tomiie
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6aecdfd
- e59b33300013afd8c
+DESCRIPTION:Lineup: Satoshi Tomiie\nTags (guess): house\, tech house\nhttps
+ ://dice.fm/event/6aecdfde59b33300013afd8c\nhttps://edmtrain.com/miami-fl/s
+ atoshi-tomiie-550561
 URL:https://dice.fm/event/6aecdfde59b33300013afd8c
 STATUS:CONFIRMED
 CATEGORIES:house,tech house

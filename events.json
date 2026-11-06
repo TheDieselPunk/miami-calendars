@@ -2584,6 +2584,33 @@
    ]
   },
   {
+   "id": "edmtrain:550538",
+   "source": "edmtrain",
+   "title": "Valentin Huedo",
+   "artists": [
+    "Valentin Huedo"
+   ],
+   "venue": "Do Not Sit On The Furniture",
+   "venue_slug": null,
+   "date": "2026-11-08",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "423 16th St, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "deep house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/53k8vl?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/valentin-huedo-550538"
+   ]
+  },
+  {
    "id": "edmtrain:549833",
    "source": "edmtrain",
    "title": "Binh",
@@ -2774,9 +2801,11 @@
   },
   {
    "id": "shotgun:madradiomiami111126",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Join The Local Signal ))) Israel Sunshine",
-   "artists": [],
+   "artists": [
+    "Israel Sunshine"
+   ],
    "venue": "Mad Radio Miami",
    "venue_slug": "mad-radio",
    "date": "2026-11-11",
@@ -2801,7 +2830,10 @@
     "latitude": 25.8462027,
     "longitude": -80.1851332
    },
-   "created": "2026-11-05T17:39:02.000Z"
+   "created": "2026-11-05T17:39:02.000Z",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/israel-sunshine-550570"
+   ]
   },
   {
    "id": "shotgun:top-picks-a-comedy-show-at-tomorrowland",
@@ -3213,9 +3245,12 @@
   },
   {
    "id": "shotgun:madradiomiami111326",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Road To Trotamundo / Un_Mute: Truly Madly / Kev Gee",
-   "artists": [],
+   "artists": [
+    "Truly Madly",
+    "Kev Gee"
+   ],
    "venue": "Mad Radio Miami",
    "venue_slug": "mad-radio",
    "date": "2026-11-13",
@@ -3240,7 +3275,10 @@
     "latitude": 25.8462027,
     "longitude": -80.1851332
    },
-   "created": "2026-11-05T17:44:57.000Z"
+   "created": "2026-11-05T17:44:57.000Z",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/road-to-trotamundo-truly-madly-550571"
+   ]
   },
   {
    "id": "19hz:4448628-royrosenfeld",
@@ -3433,7 +3471,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $56",
+   "price": "From $50",
    "genres": [
     "eurobeat",
     "hard techno",
@@ -3866,6 +3904,31 @@
    "url": "https://ticketmaster.evyy.net/c/254533/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fid%2F14991673",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/the-faint-538916"
+   ]
+  },
+  {
+   "id": "edmtrain:550614",
+   "source": "edmtrain",
+   "title": "Stephan Jolk",
+   "artists": [
+    "Stephan Jolk"
+   ],
+   "venue": "Queen Miami Beach",
+   "venue_slug": null,
+   "date": "2026-11-13",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "550 Washington Ave, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/2olw7a?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/stephan-jolk-550614"
    ]
   },
   {
@@ -4698,6 +4761,32 @@
    ]
   },
   {
+   "id": "edmtrain:550510",
+   "source": "edmtrain",
+   "title": "Iban Mendoza, Patrick M",
+   "artists": [
+    "Iban Mendoza",
+    "Patrick M"
+   ],
+   "venue": "158 Northwest 24th Street",
+   "venue_slug": null,
+   "date": "2026-11-14",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "158 NW 24th St, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/gala-ibiza-at-lunasol-miami?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/iban-mendoza-patrick-m-550510"
+   ]
+  },
+  {
    "id": "edmtrain:549776",
    "source": "edmtrain",
    "title": "EL HOUSE @ ASTRA WYNWOOD: Carlito', Menacious, Axara",
@@ -5375,6 +5464,32 @@
    "url": "https://speakeasygo.com/event/EVE-IF3OZS?t=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/rockwell-533946"
+   ]
+  },
+  {
+   "id": "edmtrain:550589",
+   "source": "edmtrain",
+   "title": "Global House Music: Gianni Blu, Nautik",
+   "artists": [
+    "Gianni Blu",
+    "Nautik"
+   ],
+   "venue": "Mynt Lounge",
+   "venue_slug": null,
+   "date": "2026-11-19",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1921 Collins Ave, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/gianni-blu-presents-global-house-music?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/global-house-music-gianni-blu-550589"
    ]
   },
   {
@@ -7382,9 +7497,12 @@
   },
   {
    "id": "shotgun:madradiomiami112726",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Tom Peters / Israel Sunshine",
-   "artists": [],
+   "artists": [
+    "Tom Peters",
+    "Israel Sunshine"
+   ],
    "venue": "Mad Radio Miami",
    "venue_slug": "mad-radio",
    "date": "2026-11-27",
@@ -7409,7 +7527,10 @@
     "latitude": 25.8462027,
     "longitude": -80.1851332
    },
-   "created": "2026-11-05T19:36:37.000Z"
+   "created": "2026-11-05T19:36:37.000Z",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/tom-peters-israel-sunshine-550572"
+   ]
   },
   {
    "id": "tablelist:1a812eb5de36eab4",
@@ -9238,6 +9359,36 @@
    ]
   },
   {
+   "id": "edmtrain:550550",
+   "source": "edmtrain",
+   "title": "Shotgun Takeover: Sainte Vie, Mashrik, Jivan Calderone, Philou, Dubfire, Maher Daniel",
+   "artists": [
+    "Sainte Vie",
+    "Mashrik",
+    "Jivan Calderone",
+    "Philou",
+    "Dubfire",
+    "Maher Daniel"
+   ],
+   "venue": "Fooq's",
+   "venue_slug": null,
+   "date": "2026-12-02",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "150 NW 73rd St, Miami, FL 33150, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/art-basel-shotgun-takeover-fooq-s-miami?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/shotgun-takeover-sainte-vie-550550"
+   ]
+  },
+  {
    "id": "edmtrain:549909",
    "source": "edmtrain",
    "title": "HUGEL",
@@ -10474,9 +10625,14 @@
   },
   {
    "id": "dice:6ab44533af1ad900014f7295",
-   "source": "19hz+dice",
+   "source": "19hz+dice+edmtrain",
    "title": "Basel: SlapFunk",
-   "artists": [],
+   "artists": [
+    "D'Julz",
+    "Isaac Carter",
+    "Tomás Station",
+    "Ms. Mada"
+   ],
    "venue": "Jolene Sound Room Miami",
    "venue_slug": "jolene",
    "date": "2026-12-04",
@@ -10495,7 +10651,8 @@
    "url": "https://dice.fm/event/6ab44533af1ad900014f7295",
    "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/6ab44533af1ad900014f7295"
+    "https://dice.fm/event/6ab44533af1ad900014f7295",
+    "https://edmtrain.com/miami-fl/djulz-isaac-carter-550560"
    ]
   },
   {
@@ -10692,6 +10849,31 @@
    "url": "https://ra.co/events/2513593",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/where-are-my-keys-546404"
+   ]
+  },
+  {
+   "id": "edmtrain:550498",
+   "source": "edmtrain",
+   "title": "Miami Art Week: Monolink",
+   "artists": [
+    "Monolink"
+   ],
+   "venue": "Bagatelle Miami River",
+   "venue_slug": null,
+   "date": "2026-12-04",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "311 NW S River Dr, Miami, FL 33128, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://bagatelle.com/events/miami-art-week-monolink-hybrid-dec-4",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/miami-art-week-monolink-550498"
    ]
   },
   {
@@ -11485,7 +11667,9 @@
    "source": "19hz+dice+edmtrain",
    "title": "Obskür Presents: The System (Floyd Basel 2026)",
    "artists": [
-    "Obskür"
+    "Obskür",
+    "Julian Fijma",
+    "Mai Iachetti"
    ],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
@@ -11506,7 +11690,7 @@
    "cancelled": false,
    "alt_urls": [
     "https://dice.fm/event/l8ml6p-obskr-presents-the-system-floyd-basel-2026-5th-dec-floyd-miami-miami-tickets",
-    "https://edmtrain.com/miami-fl/obskur-535431"
+    "https://edmtrain.com/miami-fl/obskur-julian-fijma-535431"
    ]
   },
   {
@@ -11982,6 +12166,31 @@
    ]
   },
   {
+   "id": "edmtrain:550499",
+   "source": "edmtrain",
+   "title": "Bagatelle Sundays Art Week Closing: Marco Carola",
+   "artists": [
+    "Marco Carola"
+   ],
+   "venue": "Bagatelle Miami River",
+   "venue_slug": null,
+   "date": "2026-12-06",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "311 NW S River Dr, Miami, FL 33128, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://bagatelle.com/events/miami-art-week-marco-carola-dec-6",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/bagatelle-sundays-art-week-closing-marco-carola-550499"
+   ]
+  },
+  {
    "id": "edmtrain:550292",
    "source": "edmtrain",
    "title": "HUGEL",
@@ -12332,6 +12541,31 @@
    ]
   },
   {
+   "id": "edmtrain:550627",
+   "source": "edmtrain",
+   "title": "JEV",
+   "artists": [
+    "JEV"
+   ],
+   "venue": "Treehouse Miami Beach",
+   "venue_slug": null,
+   "date": "2026-12-11",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "323 23rd St, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.etix.com/ticket/p/73844639",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/jev-550627"
+   ]
+  },
+  {
    "id": "hardrock:207851",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -12541,6 +12775,31 @@
    "url": "https://shotgun.live/en/events/the-nightmare-before-punkmas"
   },
   {
+   "id": "edmtrain:550535",
+   "source": "edmtrain",
+   "title": "DAER Dayclub Afterdark: Sullivan King",
+   "artists": [
+    "Sullivan King"
+   ],
+   "venue": "DAER Dayclub",
+   "venue_slug": "daer",
+   "date": "2026-12-12",
+   "start": "2026-12-13T03:00:00+00:00",
+   "end": "2026-12-13T09:00:00+00:00",
+   "time_estimated": true,
+   "address": "1 Lucky St, Davie, FL 33314, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.tixr.com/pr/edmtrain/213703",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/daer-dayclub-afterdark-sullivan-king-550535"
+   ]
+  },
+  {
    "id": "hardrock:213703",
    "source": "venue",
    "title": "Sullivan King",
@@ -12584,9 +12843,11 @@
   },
   {
    "id": "dice:6aecdfde59b33300013afd8c",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "Satoshie Tomiie",
-   "artists": [],
+   "artists": [
+    "Satoshi Tomiie"
+   ],
    "venue": "Jolene Sound Room Miami",
    "venue_slug": "jolene",
    "date": "2026-12-12",
@@ -12604,7 +12865,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aecdfde59b33300013afd8c",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/satoshi-tomiie-550561"
+   ]
   },
   {
    "id": "zeyzey:takuya-nakamura-12-dec",
@@ -13248,6 +13512,31 @@
    ]
   },
   {
+   "id": "edmtrain:550617",
+   "source": "edmtrain",
+   "title": "J. Worra",
+   "artists": [
+    "J. Worra"
+   ],
+   "venue": "Selva Miami",
+   "venue_slug": null,
+   "date": "2026-12-18",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "800 Brickell Ave, Miami, FL 33131, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/j-worra-selva?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/j-worra-550617"
+   ]
+  },
+  {
    "id": "hardrock:207853",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -13743,9 +14032,12 @@
   },
   {
    "id": "zeyzey:danny-kravit-free-entry-26-dec",
-   "source": "venue",
+   "source": "edmtrain+venue",
    "title": "Danny Krivit + Roy Davis Jr. (Free Entry)",
-   "artists": [],
+   "artists": [
+    "Danny Krivit",
+    "Roy Davis Jr."
+   ],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-12-26",
@@ -13762,7 +14054,10 @@
    "organizer": "",
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/danny-kravit-free-entry-26-dec",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/danny-krivit-roy-davis-jr-550631"
+   ]
   },
   {
    "id": "hardrock:207840",
@@ -13926,6 +14221,31 @@
    "description": "",
    "url": "https://dice.fm/event/6aea039753eca80001c88dc8",
    "cancelled": false
+  },
+  {
+   "id": "edmtrain:550542",
+   "source": "edmtrain",
+   "title": "Leondis",
+   "artists": [
+    "Leondis"
+   ],
+   "venue": "E11EVEN",
+   "venue_slug": null,
+   "date": "2026-12-26",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "29 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://speakeasygo.com/event/EVE-RJVBFX?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/leondis-550542"
+   ]
   },
   {
    "id": "hardrock:207857",
@@ -14183,7 +14503,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "",
+   "price": " (sold out)",
    "genres": [
     "tech house"
    ],

@@ -253,16 +253,17 @@ CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aa06694dcd56d0001733719@floyd.miami-calendars
-DTSTAMP:20261009T221902Z
-LAST-MODIFIED:20261009T221902Z
-SEQUENCE:0
+DTSTAMP:20261106T041843Z
+LAST-MODIFIED:20261106T041843Z
+SEQUENCE:1
 DTSTART:20261206T040000Z
 DTEND:20261206T100000Z
 SUMMARY:Obskür Presents: The System (Floyd Basel 2026)
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Obskür\nTags: tech house\nAges: 21+\nhttps://dice.fm/e
- vent/l8ml6p-obskr-presents-the-system-floyd-basel-2026-5th-dec-floyd-miami
- -miami-tickets\nhttps://edmtrain.com/miami-fl/obskur-535431
+DESCRIPTION:Lineup: Obskür\, Julian Fijma\, Mai Iachetti\nTags: tech house
+ \nAges: 21+\nhttps://dice.fm/event/l8ml6p-obskr-presents-the-system-floyd-
+ basel-2026-5th-dec-floyd-miami-miami-tickets\nhttps://edmtrain.com/miami-f
+ l/obskur-julian-fijma-535431
 URL:https://dice.fm/event/l8ml6p-obskr-presents-the-system-floyd-basel-2026
  -5th-dec-floyd-miami-miami-tickets
 STATUS:CONFIRMED

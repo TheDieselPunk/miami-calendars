@@ -350,6 +350,22 @@ URL:https://tixr.com/e/207851
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:edmtrain-550535@daer.miami-calendars
+DTSTAMP:20261106T041843Z
+LAST-MODIFIED:20261106T041843Z
+SEQUENCE:0
+DTSTART:20261213T030000Z
+DTEND:20261213T090000Z
+SUMMARY:DAER Dayclub Afterdark: Sullivan King
+LOCATION:DAER Dayclub\, 1 Lucky St\, Davie\, FL 33314\, USA
+DESCRIPTION:Lineup: Sullivan King\nTimes are an estimate from DAER (Hard Ro
+ ck Hollywood)'s usual hours - the listing has no start time yet. Check the
+  link.\nhttps://www.tixr.com/pr/edmtrain/213703\nhttps://edmtrain.com/fort
+ -lauderdale-fl/daer-dayclub-afterdark-sullivan-king-550535
+URL:https://www.tixr.com/pr/edmtrain/213703
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:hardrock-213703@daer.miami-calendars
 DTSTAMP:20261105T221829Z
 LAST-MODIFIED:20261105T221829Z
