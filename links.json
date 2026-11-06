@@ -451,10 +451,6 @@
   "url": "https://shotgun.live/events/gala-ibiza-at-lunasol-miami?utm_source=edmtrain",
   "checked": "2026-11-05"
  },
- "550535": {
-  "url": "https://www.tixr.com/pr/edmtrain/213703",
-  "checked": "2026-11-05"
- },
  "550538": {
   "url": "https://dice.fm/event/53k8vl?pid=d6342b83",
   "checked": "2026-11-05"
@@ -482,5 +478,29 @@
  "550627": {
   "url": "https://www.etix.com/ticket/p/73844639",
   "checked": "2026-11-05"
+ },
+ "550722": {
+  "url": "https://app.discotech.me/events/38237595-ariel-assault-at-strawberry-moon",
+  "checked": "2026-11-06"
+ },
+ "550725": {
+  "url": "https://app.discotech.me/events/38237597-landis-at-strawberry-moon",
+  "checked": "2026-11-06"
+ },
+ "550727": {
+  "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/saxony-bar",
+  "checked": "2026-11-06"
+ },
+ "550729": {
+  "url": "https://app.discotech.me/events/38237598-capri-at-strawberry-moon",
+  "checked": "2026-11-06"
+ },
+ "550755": {
+  "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/major-lazer-at-faena-miami-beach-miami-art-week-2026",
+  "checked": "2026-11-06"
+ },
+ "550756": {
+  "url": "https://music.mila-miami.com/?id=lta9aq793yhixuqzn5l6vejw7q6hwvc8",
+  "checked": "2026-11-06"
  }
 }

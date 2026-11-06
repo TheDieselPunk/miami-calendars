@@ -117,7 +117,7 @@
   "slug": "mad-radio",
   "name": "Mad Radio Miami",
   "file": "mad-radio.ics",
-  "events": 15,
+  "events": 16,
   "estimated_times": 0,
   "next": "2026-11-05",
   "sources": [
@@ -131,8 +131,8 @@
   "slug": "daer",
   "name": "DAER (Hard Rock Hollywood)",
   "file": "daer.ics",
-  "events": 59,
-  "estimated_times": 1,
+  "events": 58,
+  "estimated_times": 0,
   "next": "2026-11-06",
   "sources": [
    "19hz",

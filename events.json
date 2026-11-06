@@ -613,7 +613,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "",
+   "price": "$27.13",
    "genres": [
     "black metal",
     "death metal"
@@ -2036,6 +2036,31 @@
    ]
   },
   {
+   "id": "edmtrain:550722",
+   "source": "edmtrain",
+   "title": "Ariel Assault",
+   "artists": [
+    "Ariel Assault"
+   ],
+   "venue": "Strawberry Moon",
+   "venue_slug": null,
+   "date": "2026-11-07",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "601 Washington Ave, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://app.discotech.me/events/38237595-ariel-assault-at-strawberry-moon",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/ariel-assault-550722"
+   ]
+  },
+  {
    "id": "edmtrain:543306",
    "source": "edmtrain",
    "title": "MashBit, LUKO, Deelo",
@@ -3338,7 +3363,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $56",
+   "price": "From $50",
    "genres": [
     "eurobeat",
     "hard techno",
@@ -3796,6 +3821,31 @@
    "url": "https://dice.fm/event/2olw7a?pid=d6342b83",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/stephan-jolk-550614"
+   ]
+  },
+  {
+   "id": "edmtrain:550725",
+   "source": "edmtrain",
+   "title": "Landis",
+   "artists": [
+    "Landis"
+   ],
+   "venue": "Strawberry Moon",
+   "venue_slug": null,
+   "date": "2026-11-13",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "601 Washington Ave, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://app.discotech.me/events/38237597-landis-at-strawberry-moon",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/landis-550725"
    ]
   },
   {
@@ -4305,6 +4355,42 @@
    ]
   },
   {
+   "id": "shotgun:vice-city-official-pre-launch",
+   "source": "shotgun",
+   "title": "Welcome To Vice City [Official Pre-Launch] W/ Serge Devant",
+   "artists": [
+    "Serge Devant",
+    "Leo Del Toro",
+    "Nico Moon",
+    "Cali Lanauze"
+   ],
+   "venue": "Mad Radio Miami",
+   "venue_slug": "mad-radio",
+   "date": "2026-11-14",
+   "start": "2026-11-15T03:00:00+00:00",
+   "end": "2026-11-15T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "house",
+    "deep house"
+   ],
+   "genres_inferred": false,
+   "organizer": "Mad Radio Miami",
+   "description": "Welcome to Vice City, baby! The Official Pre-Launch Party welcomes Serge Devant & special guests to celebrate what we've all been waiting for. This is your exclusive opportunity to unique activations, first-looks at game footage, merch and more. Powered by Shotgun. Access to this event is extremely limited.",
+   "url": "https://shotgun.live/en/events/vice-city-official-pre-launch",
+   "tickets": "",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.8462027,
+    "longitude": -80.1851332
+   },
+   "created": null
+  },
+  {
    "id": "shotgun:gala-ibiza-at-lunasol-miami",
    "source": "shotgun",
    "title": "Gala Ibiza At Lunasol Miami",
@@ -4704,6 +4790,56 @@
    "url": "https://posh.vip/e/komashov-rodrigo-vieira-dmeyer-rye-tiffany-romero?t=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/rodrigo-vieira-dmeyer-546515"
+   ]
+  },
+  {
+   "id": "edmtrain:550727",
+   "source": "edmtrain",
+   "title": "Iron Lyon",
+   "artists": [
+    "Iron Lyon"
+   ],
+   "venue": "Faena Hotel",
+   "venue_slug": null,
+   "date": "2026-11-14",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "3201 Collins Ave, Miami Beach, FL 33140, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/saxony-bar",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/iron-lyon-550727"
+   ]
+  },
+  {
+   "id": "edmtrain:550729",
+   "source": "edmtrain",
+   "title": "Capri",
+   "artists": [
+    "Capri"
+   ],
+   "venue": "Strawberry Moon",
+   "venue_slug": null,
+   "date": "2026-11-14",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "601 Washington Ave, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://app.discotech.me/events/38237598-capri-at-strawberry-moon",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/capri-550729"
    ]
   },
   {
@@ -5334,9 +5470,34 @@
    ]
   },
   {
+   "id": "edmtrain:550756",
+   "source": "edmtrain",
+   "title": "No Phones Night: Vanjee",
+   "artists": [
+    "Vanjee"
+   ],
+   "venue": "Milā",
+   "venue_slug": null,
+   "date": "2026-11-19",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1636 Meridian Ave, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://music.mila-miami.com/?id=lta9aq793yhixuqzn5l6vejw7q6hwvc8",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/no-phones-night-vanjee-550756"
+   ]
+  },
+  {
    "id": "edmtrain:550589",
    "source": "edmtrain",
-   "title": "Global House Music: Gianni Blu, Nautik",
+   "title": "Gianni Blu, Nautik",
    "artists": [
     "Gianni Blu",
     "Nautik"
@@ -5356,7 +5517,7 @@
    "description": "",
    "url": "https://posh.vip/e/gianni-blu-presents-global-house-music?t=edmtrain",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/global-house-music-gianni-blu-550589"
+    "https://edmtrain.com/miami-fl/gianni-blu-nautik-550589"
    ]
   },
   {
@@ -5853,11 +6014,15 @@
   {
    "id": "dice:6ab54b4737b4c00001654ff2",
    "source": "19hz+dice+edmtrain",
-   "title": "Chris Lorenzo + TBA",
+   "title": "The Vault Presents: Chris Lorenzo, Sammy Virgi + Special Guests",
    "artists": [
     "Chris Lorenzo",
+    "Sammy Virji",
+    "Danyelino",
     "Ms. Mada",
-    "Danyelino"
+    "Bakke",
+    "Sister System",
+    "Basalyga"
    ],
    "venue": "Club Space Miami",
    "venue_slug": "club-space",
@@ -5867,7 +6032,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $20",
+   "price": "From $40",
    "genres": [
     "bass house",
     "tech house"
@@ -5879,7 +6044,7 @@
    "cancelled": false,
    "alt_urls": [
     "https://dice.fm/event/6ab54b4737b4c00001654ff2",
-    "https://edmtrain.com/miami-fl/chris-lorenzo-ms-mada-539839"
+    "https://edmtrain.com/miami-fl/chris-lorenzo-sammy-virji-550746"
    ]
   },
   {
@@ -9250,6 +9415,31 @@
    ]
   },
   {
+   "id": "edmtrain:550755",
+   "source": "edmtrain",
+   "title": "Faena Art Music Series Art Week: Major Lazer",
+   "artists": [
+    "Major Lazer"
+   ],
+   "venue": "Faena Hotel",
+   "venue_slug": null,
+   "date": "2026-12-02",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "3201 Collins Ave, Miami Beach, FL 33140, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/major-lazer-at-faena-miami-beach-miami-art-week-2026",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/faena-art-music-series-art-week-major-lazer-550755"
+   ]
+  },
+  {
    "id": "edmtrain:550550",
    "source": "edmtrain",
    "title": "Shotgun Takeover: Sainte Vie, Mashrik, Jivan Calderone, Philou, Dubfire, Maher Daniel",
@@ -10664,7 +10854,7 @@
   {
    "id": "zeyzey:a-trak-friends-04-dec",
    "source": "19hz+edmtrain+venue",
-   "title": "A-Trak & Friends",
+   "title": "A-Trak & Friends with Melé, BNYX, Natasha Diggs & more",
    "artists": [
     "A-Trak"
    ],
@@ -10745,7 +10935,7 @@
   {
    "id": "edmtrain:550498",
    "source": "edmtrain",
-   "title": "Miami Art Week: Monolink",
+   "title": "Monolink",
    "artists": [
     "Monolink"
    ],
@@ -10764,7 +10954,7 @@
    "description": "",
    "url": "https://bagatelle.com/events/miami-art-week-monolink-hybrid-dec-4",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/miami-art-week-monolink-550498"
+    "https://edmtrain.com/miami-fl/monolink-550498"
    ]
   },
   {
@@ -12694,35 +12884,12 @@
    "url": "https://shotgun.live/en/events/the-nightmare-before-punkmas"
   },
   {
-   "id": "edmtrain:550535",
-   "source": "edmtrain",
-   "title": "DAER Dayclub Afterdark: Sullivan King",
+   "id": "hardrock:213703",
+   "source": "edmtrain+venue",
+   "title": "Sullivan King",
    "artists": [
     "Sullivan King"
    ],
-   "venue": "DAER Dayclub",
-   "venue_slug": "daer",
-   "date": "2026-12-12",
-   "start": "2026-12-13T03:00:00+00:00",
-   "end": "2026-12-13T09:00:00+00:00",
-   "time_estimated": true,
-   "address": "1 Lucky St, Davie, FL 33314, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.tixr.com/pr/edmtrain/213703",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/daer-dayclub-afterdark-sullivan-king-550535"
-   ]
-  },
-  {
-   "id": "hardrock:213703",
-   "source": "venue",
-   "title": "Sullivan King",
-   "artists": [],
    "venue": "DAER Dayclub Afterdark",
    "venue_slug": "daer",
    "date": "2026-12-12",
@@ -12737,7 +12904,10 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/213703",
-   "generic_title": false
+   "generic_title": false,
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/sullivan-king-550535"
+   ]
   },
   {
    "id": "hardrock:207836",
