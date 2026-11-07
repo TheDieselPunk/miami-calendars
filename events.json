@@ -659,7 +659,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$10.00",
+   "price": "$15.00",
    "genres": [
     "latin",
     "latin club",
@@ -815,9 +815,9 @@
    ]
   },
   {
-   "id": "dice:6abe7ba3c57ae3000111bebb",
-   "source": "19hz+dice+edmtrain",
-   "title": "Veronica Vasicka [Minimal Wave]",
+   "id": "19hz:4447963-veronicavasicka",
+   "source": "19hz+edmtrain",
+   "title": "Veronica Vasicka",
    "artists": [
     "Veronica Vasicka",
     "Minimal Wave",
@@ -831,9 +831,9 @@
    "start": "2026-11-07T04:00:00+00:00",
    "end": "2026-11-07T10:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": "From $10",
+   "price": "$10+",
    "genres": [
     "techno"
    ],
@@ -841,9 +841,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/wwnvvx-veronica-vasicka-minimal-wave-6th-nov-floyd-miami-miami-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/wwnvvx-veronica-vasicka-minimal-wave-6th-nov-floyd-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/veronica-vasicka-minimal-wave-543657"
    ]
   },
@@ -880,23 +878,23 @@
    "created": "2026-11-03T17:00:22.000Z"
   },
   {
-   "id": "dice:6aac2b58ba4e800001745f0c",
-   "source": "19hz+dice+edmtrain",
-   "title": "Paige Tomlinson + Lammer + Stüm",
+   "id": "19hz:4447963-paigetomlinsonla",
+   "source": "19hz+edmtrain",
+   "title": "Paige Tomlinson, Lammer, Stum",
    "artists": [
     "Paige Tomlinson",
     "LAMMER",
     "STÜM"
    ],
-   "venue": "The Ground Miami",
+   "venue": "The Ground",
    "venue_slug": "the-ground",
    "date": "2026-11-06",
    "start": "2026-11-07T04:00:00+00:00",
    "end": "2026-11-07T12:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": "From $10",
+   "price": "$10",
    "genres": [
     "breaks",
     "eurodance",
@@ -907,9 +905,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/g58ax5-paige-tomlinson-lammer-stm-6th-nov-the-ground-miami-miami-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/g58ax5-paige-tomlinson-lammer-stm-6th-nov-the-ground-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/paige-tomlinson-lammer-538328"
    ]
   },
@@ -2728,6 +2724,28 @@
    ]
   },
   {
+   "id": "shotgun:undertone-3",
+   "source": "shotgun",
+   "title": "Undertone",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": "festivals",
+   "date": "2026-11-11",
+   "start": "2026-11-12T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$20.00",
+   "genres": [
+    "techno"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/undertone-3"
+  },
+  {
    "id": "shotgun:top-picks-a-comedy-show-at-tomorrowland",
    "source": "shotgun",
    "title": "Top Picks: A Comedy Show At Tomorrowland",
@@ -3774,6 +3792,31 @@
    ]
   },
   {
+   "id": "edmtrain:550760",
+   "source": "edmtrain",
+   "title": "Saxony Bar: Frank Delour",
+   "artists": [
+    "Frank Delour"
+   ],
+   "venue": "Faena Hotel",
+   "venue_slug": null,
+   "date": "2026-11-13",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "3201 Collins Ave, Miami Beach, FL 33140, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/saxony-bar",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/saxony-bar-frank-delour-550760"
+   ]
+  },
+  {
    "id": "edmtrain:538916",
    "source": "edmtrain",
    "title": "The Faint",
@@ -4790,31 +4833,6 @@
    "url": "https://posh.vip/e/komashov-rodrigo-vieira-dmeyer-rye-tiffany-romero?t=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/rodrigo-vieira-dmeyer-546515"
-   ]
-  },
-  {
-   "id": "edmtrain:550727",
-   "source": "edmtrain",
-   "title": "Iron Lyon",
-   "artists": [
-    "Iron Lyon"
-   ],
-   "venue": "Faena Hotel",
-   "venue_slug": null,
-   "date": "2026-11-14",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "3201 Collins Ave, Miami Beach, FL 33140, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/saxony-bar",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/iron-lyon-550727"
    ]
   },
   {
@@ -6096,6 +6114,31 @@
    "url": "https://shotgun.live/events/clubperreo-3?utm_source=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/bonitaapplebumz-bozito-549326"
+   ]
+  },
+  {
+   "id": "edmtrain:550759",
+   "source": "edmtrain",
+   "title": "Saxony Bar: Frank Delour",
+   "artists": [
+    "Frank Delour"
+   ],
+   "venue": "Faena Hotel",
+   "venue_slug": null,
+   "date": "2026-11-20",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "3201 Collins Ave, Miami Beach, FL 33140, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/saxony-bar",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/saxony-bar-frank-delour-550759"
    ]
   },
   {
@@ -7552,6 +7595,30 @@
    "url": "https://dice.fm/event/7d9m6p-back-alley-ft-pagano-27th-nov-eagle-wilton-manors-wilton-manors-tickets"
   },
   {
+   "id": "shotgun:a-night-at-churchill-s-ricky-valido",
+   "source": "shotgun",
+   "title": "A Night At Churchill's: Ricky Valido",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-11-27",
+   "start": "2026-11-28T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.35",
+   "genres": [
+    "country",
+    "rock",
+    "blues"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/a-night-at-churchill-s-ricky-valido"
+  },
+  {
    "id": "shotgun:madradiomiami112726",
    "source": "edmtrain+shotgun",
    "title": "Tom Peters / Israel Sunshine",
@@ -7960,6 +8027,31 @@
    "url": "https://dice.fm/event/7d9m6p?pid=d6342b83",
    "alt_urls": [
     "https://edmtrain.com/fort-lauderdale-fl/pagano-546509"
+   ]
+  },
+  {
+   "id": "edmtrain:550758",
+   "source": "edmtrain",
+   "title": "Saxony Bar: Frank Delour",
+   "artists": [
+    "Frank Delour"
+   ],
+   "venue": "Faena Hotel",
+   "venue_slug": null,
+   "date": "2026-11-27",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "3201 Collins Ave, Miami Beach, FL 33140, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/saxony-bar",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/saxony-bar-frank-delour-550758"
    ]
   },
   {
@@ -16280,6 +16372,81 @@
    "url": "https://dice.fm/event/eo98bw?pid=d6342b83",
    "alt_urls": [
     "https://edmtrain.com/fort-lauderdale-fl/tynan-548369"
+   ]
+  },
+  {
+   "id": "edmtrain:550773",
+   "source": "edmtrain",
+   "title": "Bassnectar",
+   "artists": [
+    "Bassnectar"
+   ],
+   "venue": "Wynwood Art District",
+   "venue_slug": null,
+   "date": "2027-02-12",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "Wynwood Art District, Miami, FL, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.tixr.com/pr/edmtrain/213717",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/bassnectar-550773"
+   ]
+  },
+  {
+   "id": "edmtrain:550774",
+   "source": "edmtrain",
+   "title": "Bassnectar",
+   "artists": [
+    "Bassnectar"
+   ],
+   "venue": "Wynwood Art District",
+   "venue_slug": null,
+   "date": "2027-02-13",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "Wynwood Art District, Miami, FL, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.tixr.com/pr/edmtrain/213717",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/bassnectar-550774"
+   ]
+  },
+  {
+   "id": "edmtrain:550775",
+   "source": "edmtrain",
+   "title": "Bassnectar",
+   "artists": [
+    "Bassnectar"
+   ],
+   "venue": "Wynwood Art District",
+   "venue_slug": null,
+   "date": "2027-02-14",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "Wynwood Art District, Miami, FL, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.tixr.com/pr/edmtrain/213717",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/bassnectar-550775"
    ]
   },
   {

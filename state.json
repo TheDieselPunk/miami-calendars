@@ -14,6 +14,16 @@
   "seq": 0,
   "modified": "2026-10-17T16:18:17+00:00"
  },
+ "19hz-4447963-paigetomlinsonla@the-ground.miami-calendars": {
+  "hash": "600cdf04c3bbcb97",
+  "seq": 0,
+  "modified": "2026-11-07T04:18:30+00:00"
+ },
+ "19hz-4447963-veronicavasicka@floyd.miami-calendars": {
+  "hash": "d6a97e0e16c821ee",
+  "seq": 0,
+  "modified": "2026-11-07T04:18:30+00:00"
+ },
  "19hz-4448056-alexfarell@festivals.miami-calendars": {
   "hash": "22f74d8251fab0a0",
   "seq": 1,
@@ -414,11 +424,6 @@
   "seq": 3,
   "modified": "2026-09-26T22:18:17+00:00"
  },
- "dice-6aac2b58ba4e800001745f0c@the-ground.miami-calendars": {
-  "hash": "29635d81c8d4519a",
-  "seq": 5,
-  "modified": "2026-10-01T22:18:30+00:00"
- },
  "dice-6ab17e0bf1fdd8000191620e@club-space.miami-calendars": {
   "hash": "2f151be5f0d8ed64",
   "seq": 3,
@@ -503,11 +508,6 @@
   "hash": "58de9465ecabb5dc",
   "seq": 0,
   "modified": "2026-09-29T22:18:15+00:00"
- },
- "dice-6abe7ba3c57ae3000111bebb@floyd.miami-calendars": {
-  "hash": "2703366cfc5193e3",
-  "seq": 2,
-  "modified": "2026-10-17T16:18:17+00:00"
  },
  "dice-6abe7c7c6f21220001c6e04f@floyd.miami-calendars": {
   "hash": "72f48c9961519806",
@@ -1418,6 +1418,11 @@
   "hash": "98587408c4e5bf19",
   "seq": 1,
   "modified": "2026-10-15T10:18:22+00:00"
+ },
+ "undertone-3@shotgun.live": {
+  "hash": "c06b90e89596b0c6",
+  "seq": 0,
+  "modified": "2026-11-07T04:18:30+00:00"
  },
  "vice-city-official-pre-launch@shotgun.live": {
   "hash": "da42454247db75b3",

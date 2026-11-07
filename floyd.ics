@@ -8,14 +8,14 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6abe7ba3c57ae3000111bebb@floyd.miami-calendars
-DTSTAMP:20261017T161817Z
-LAST-MODIFIED:20261017T161817Z
-SEQUENCE:2
+UID:19hz-4447963-veronicavasicka@floyd.miami-calendars
+DTSTAMP:20261107T041830Z
+LAST-MODIFIED:20261107T041830Z
+SEQUENCE:0
 DTSTART:20261107T040000Z
 DTEND:20261107T100000Z
-SUMMARY:Veronica Vasicka [Minimal Wave]
-LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
+SUMMARY:Veronica Vasicka
+LOCATION:Floyd Miami
 DESCRIPTION:Lineup: Veronica Vasicka\, Minimal Wave\, True Vine\, Souls Dep
  arted\, SATURNSARii\nTags: techno\nAges: 21+\nhttps://dice.fm/event/wwnvvx
  -veronica-vasicka-minimal-wave-6th-nov-floyd-miami-miami-tickets\nhttps://
