@@ -669,30 +669,6 @@
    ]
   },
   {
-   "id": "dice:6aeca8b35616c30001ed56e7",
-   "source": "dice",
-   "title": "Space Yoga",
-   "artists": [],
-   "venue": "Club Space Miami",
-   "venue_slug": "club-space",
-   "date": "2026-11-07",
-   "start": "2026-11-07T21:20:00+00:00",
-   "end": "2026-11-07T22:30:00+00:00",
-   "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
-   "price": " (sold out)",
-   "genres": [
-    "house",
-    "techno"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6aeca8b35616c30001ed56e7",
-   "cancelled": false
-  },
-  {
    "id": "shotgun:indie-night-i",
    "source": "shotgun",
    "title": "Indie Night I",
@@ -1375,7 +1351,7 @@
    "time_estimated": false,
    "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
    "ages": "",
-   "price": "$17.00",
+   "price": "$23.00",
    "genres": [
     "dub techno",
     "techno"
@@ -3947,7 +3923,7 @@
   {
    "id": "shotgun:vice-city-official-pre-launch",
    "source": "edmtrain+shotgun",
-   "title": "Welcome To Vice City [Official Pre-Launch] W/ Serge Devant",
+   "title": "Welcome To Vice City W/ Serge Devant",
    "artists": [
     "Serge Devant",
     "Leo Del Toro",
@@ -4699,9 +4675,14 @@
   },
   {
    "id": "shotgun:blocofest",
-   "source": "shotgun",
-   "title": "Blocofest- Benefit Show",
-   "artists": [],
+   "source": "edmtrain+shotgun",
+   "title": "Blocofest- Miamibloco's Benefit Show.",
+   "artists": [
+    "Electric Kif",
+    "Alexa Lash Music",
+    "Miamibloco",
+    "DJ Kumi"
+   ],
    "venue": "Churchill's Pub",
    "venue_slug": null,
    "date": "2026-11-17",
@@ -4712,14 +4693,17 @@
    "ages": "",
    "price": "$17.03",
    "genres": [
-    "samba",
     "folk",
-    "hard rock"
+    "hard rock",
+    "samba"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/blocofest"
+   "url": "https://shotgun.live/en/events/blocofest",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/electric-kif-alexa-lash-music-550859"
+   ]
   },
   {
    "id": "shotgun:comedy-night-at-churchill-s-11",
@@ -4740,34 +4724,6 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/comedy-night-at-churchill-s-11"
-  },
-  {
-   "id": "edmtrain:550859",
-   "source": "edmtrain",
-   "title": "Electric Kif, Alexa Lash Music, Miamibloco, DJ Kumi",
-   "artists": [
-    "Electric Kif",
-    "Alexa Lash Music",
-    "Miamibloco",
-    "DJ Kumi"
-   ],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-11-17",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "5501 NE 2nd Ave, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/blocofest?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/electric-kif-alexa-lash-music-550859"
-   ]
   },
   {
    "id": "tablelist:8ba448be22306de7",
