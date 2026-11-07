@@ -8,43 +8,20 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4447860-femmefrequencysh@mad-radio.miami-calendars
-DTSTAMP:20261106T161826Z
-LAST-MODIFIED:20261106T161826Z
-SEQUENCE:1
-DTSTART:20261106T020000Z
-DTEND:20261106T080000Z
-SUMMARY:Femme Frequency: Shelley De Vos / Gali
-LOCATION:Mad Radio
-DESCRIPTION:Tags (guess): deep house\, house\nAges: 25+\nhttps://shotgun.li
- ve/events/madradiomiami110526
-URL:https://shotgun.live/events/madradiomiami110526
-STATUS:CONFIRMED
-CATEGORIES:deep house,house
-END:VEVENT
-BEGIN:VEVENT
-UID:madradiomiami110626@shotgun.live
-DTSTAMP:20261105T221829Z
-LAST-MODIFIED:20261105T221829Z
-SEQUENCE:2
+UID:19hz-4447956-blkmarketmusictb@mad-radio.miami-calendars
+DTSTAMP:20261107T101822Z
+LAST-MODIFIED:20261107T101822Z
+SEQUENCE:0
 DTSTART:20261107T020000Z
 DTEND:20261107T080000Z
 SUMMARY:Blkmarket Music + T Bag Records: Astara & Taimur
-LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
-DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
- ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
-  our slick radio show serving up the latest tracks. Save the date and cath
-  the urban-chic experience at Mad Radio Miami. See you on the dance floor!
-  Come early\, stay late\, and let the night unfold FREE ENTRY BEFORE 10 PM
-  / FREE ENTRY LADIES UNTIL MIDNIGHT +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
- \nLineup: Blkmarket Music\, Astara\, Taimur\nTags: deep house\, tech house
- \, techno\nTickets: AFTER 10 PM $20\, FREE LADIES RSVP BEFORE 12 AM Free\n
- Ages: 21+\nhttps://shotgun.live/en/events/madradiomiami110626\nhttps://edm
- train.com/miami-fl/blkmarket-music-astara-549876
-URL:https://shotgun.live/en/events/madradiomiami110626
+LOCATION:Mad Radio
+DESCRIPTION:Lineup: Blkmarket Music\, Astara\, Taimur\nTags: deep house\, t
+ ech house\, techno\nAges: 21+\nhttps://shotgun.live/events/madradiomiami11
+ 0626\nhttps://edmtrain.com/miami-fl/blkmarket-music-astara-549876
+URL:https://shotgun.live/events/madradiomiami110626
 STATUS:CONFIRMED
 CATEGORIES:deep house,tech house,techno
-GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami110726@shotgun.live

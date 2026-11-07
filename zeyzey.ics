@@ -8,42 +8,23 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:tablelist-4deeeaf00354c0fe@zeyzey.miami-calendars
-DTSTAMP:20261106T161826Z
-LAST-MODIFIED:20261106T161826Z
-SEQUENCE:1
-DTSTART:20261106T000000Z
-DTEND:20261106T050000Z
-SUMMARY:The Floozies
-LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: big room\, dancehall\, electropop\, funk\, synthpop\nAges
- : 18+\nhttps://buy.tablelist.com/e/4deeeaf00354c0fe\nhttps://calendar.zeyz
- eymiami.com/shows/rae-sada-b2b-ape-drums-05-nov\nhttps://calendar.zeyzeymi
- ami.com/shows/the-floozies-05-nov
-URL:https://buy.tablelist.com/e/4deeeaf00354c0fe
-STATUS:CONFIRMED
-CATEGORIES:big room,dancehall,electropop,funk,synthpop
-END:VEVENT
-BEGIN:VEVENT
 UID:tablelist-ce87a1ddf13687ab@zeyzey.miami-calendars
-DTSTAMP:20261101T101757Z
-LAST-MODIFIED:20261101T101757Z
-SEQUENCE:0
+DTSTAMP:20261107T101822Z
+LAST-MODIFIED:20261107T101822Z
+SEQUENCE:1
 DTSTART:20261106T230000Z
 DTEND:20261107T030000Z
 SUMMARY:Curawaka
 LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: folk\nhttps://buy.tablelist.com/e/ce87a1ddf13687ab\nhttps
- ://calendar.zeyzeymiami.com/shows/curawaka-06-nov
+DESCRIPTION:https://buy.tablelist.com/e/ce87a1ddf13687ab
 URL:https://buy.tablelist.com/e/ce87a1ddf13687ab
 STATUS:CONFIRMED
-CATEGORIES:folk
 END:VEVENT
 BEGIN:VEVENT
 UID:tablelist-a717858d6ecfec24@zeyzey.miami-calendars
-DTSTAMP:20261101T101757Z
-LAST-MODIFIED:20261101T101757Z
-SEQUENCE:0
+DTSTAMP:20261107T101822Z
+LAST-MODIFIED:20261107T101822Z
+SEQUENCE:1
 DTSTART:20261107T010000Z
 DTEND:20261107T070000Z
 SUMMARY:Amtrac (Live)
@@ -51,21 +32,20 @@ LOCATION:ZeyZey Miami
 DESCRIPTION:Lineup: Amtrac\nTags: house\nAges: 18+\nhttps://buy.tablelist.c
  om/e/a717858d6ecfec24\nhttps://app.opendate.io/e/amtrac-live-november-06-2
  026-708055?utm_source=bandsintown&click_id=Jx1LBob5Tp2MIMBGRqHHNg\nhttps:/
- /calendar.zeyzeymiami.com/shows/amtrac-live-06-nov\nhttps://edmtrain.com/m
- iami-fl/amtrac-531010
+ /edmtrain.com/miami-fl/amtrac-531010
 URL:https://buy.tablelist.com/e/a717858d6ecfec24
 STATUS:CONFIRMED
 CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
-UID:zeyzey-com-truise-06-nov@zeyzey.miami-calendars
-DTSTAMP:20261105T041825Z
-LAST-MODIFIED:20261105T041825Z
-SEQUENCE:3
+UID:19hz-4447956-comtruise@zeyzey.miami-calendars
+DTSTAMP:20261107T101822Z
+LAST-MODIFIED:20261107T101822Z
+SEQUENCE:0
 DTSTART:20261107T020000Z
 DTEND:20261107T080000Z
 SUMMARY:Com Truise
-LOCATION:ZeyZey Miami
+LOCATION:Zeyzey
 DESCRIPTION:Lineup: Com Truise\nTags: downtempo\, electro\, idm\, synthpop
  \nAges: All ages\nhttps://calendar.zeyzeymiami.com/shows/com-truise-06-nov
  \nhttps://edmtrain.com/miami-fl/com-truise-536978
@@ -189,12 +169,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ad760d4f2e7b00001b10371@zeyzey.miami-calendars
-DTSTAMP:20261101T101757Z
-LAST-MODIFIED:20261101T101757Z
-SEQUENCE:4
+DTSTAMP:20261107T101822Z
+LAST-MODIFIED:20261107T101822Z
+SEQUENCE:5
 DTSTART:20261114T020000Z
 DTEND:20261114T070000Z
-SUMMARY:Dance Therapy @ ZeyZey - MindGazm | Tiffany Romero B2B 717
+SUMMARY:Dance Therapy @ ZeyZey - MindGazm | 717 B2B SPYRIDON | Daniii | Joc
+  Havana
 LOCATION:ZeyZey\, 353 Northeast 61st Street\, Miami\, Florida 33137\, Unite
  d States
 DESCRIPTION:Lineup: Christian Löffler\nTags: deep house\, house\, progress
@@ -1022,6 +1003,19 @@ DESCRIPTION:Tags: latin\nhttps://calendar.zeyzeymiami.com/shows/ye-dry-06-m
 URL:https://calendar.zeyzeymiami.com/shows/ye-dry-06-may
 STATUS:CONFIRMED
 CATEGORIES:latin
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-dillom-08-may@zeyzey.miami-calendars
+DTSTAMP:20261107T101822Z
+LAST-MODIFIED:20261107T101822Z
+SEQUENCE:0
+DTSTART:20270508T230000Z
+DTEND:20270509T050000Z
+SUMMARY:Dillom
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://calendar.zeyzeymiami.com/shows/dillom-08-may
+URL:https://calendar.zeyzeymiami.com/shows/dillom-08-may
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:paloma-morphy-miami@shotgun.live

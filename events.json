@@ -1,168 +1,8 @@
 {
  "events": [
   {
-   "id": "tablelist:4deeeaf00354c0fe",
-   "source": "19hz+tablelist",
-   "title": "The Floozies",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-11-05",
-   "start": "2026-11-06T00:00:00+00:00",
-   "end": "2026-11-06T05:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "18+",
-   "price": "free",
-   "genres": [
-    "big room",
-    "dancehall",
-    "electropop",
-    "funk",
-    "synthpop"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://buy.tablelist.com/e/4deeeaf00354c0fe",
-   "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/rae-sada-b2b-ape-drums-05-nov",
-    "https://calendar.zeyzeymiami.com/shows/the-floozies-05-nov"
-   ]
-  },
-  {
-   "id": "19hz:4447855-grantfisher",
-   "source": "19hz",
-   "title": "Grant Fisher",
-   "artists": [],
-   "venue": "E11even",
-   "venue_slug": null,
-   "date": "2026-11-05",
-   "start": "2026-11-06T01:00:00+00:00",
-   "end": "2026-11-06T06:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "$23+",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://speakeasygo.com/event/EVE-QEMJI1"
-  },
-  {
-   "id": "19hz:4447860-airelersomariepo",
-   "source": "19hz",
-   "title": "Aire: Lerso, Marie Posa, Neovibe, Magno",
-   "artists": [],
-   "venue": "Aire Miami",
-   "venue_slug": null,
-   "date": "2026-11-05",
-   "start": "2026-11-06T02:00:00+00:00",
-   "end": "2026-11-06T09:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "free w/rsvp b4 midnight / $20+",
-   "genres": [
-    "house"
-   ],
-   "genres_inferred": false,
-   "organizer": "Pitchpark Events",
-   "description": "",
-   "url": "https://shotgun.live/en/events/c3trlroom-14"
-  },
-  {
-   "id": "19hz:4447860-femmefrequencysh",
-   "source": "19hz",
-   "title": "Femme Frequency: Shelley De Vos / Gali",
-   "artists": [],
-   "venue": "Mad Radio",
-   "venue_slug": "mad-radio",
-   "date": "2026-11-05",
-   "start": "2026-11-06T02:00:00+00:00",
-   "end": "2026-11-06T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "25+",
-   "price": "free w/rsvp",
-   "genres": [
-    "deep house",
-    "house"
-   ],
-   "genres_inferred": true,
-   "organizer": "Mad Radio Miami",
-   "description": "",
-   "url": "https://shotgun.live/events/madradiomiami110526"
-  },
-  {
-   "id": "19hz:4447864-superqueensupery",
-   "source": "19hz",
-   "title": "Superqueen: Super Y2K Drag Show",
-   "artists": [],
-   "venue": "777 Northeast 79th Street",
-   "venue_slug": null,
-   "date": "2026-11-05",
-   "start": "2026-11-06T03:00:00+00:00",
-   "end": "2026-11-06T09:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "18+",
-   "price": "free w/rsvp b4 11pm / $10+",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/superqueen-39"
-  },
-  {
-   "id": "19hz:4447864-secretthursdaysa",
-   "source": "19hz",
-   "title": "Secret Thursdays: Abuekev, .Abraham, Kidhersch, Reydel, Kvnb2B Curly, Seb Coba, .Xonya",
-   "artists": [],
-   "venue": "Do Not Sit On The Furniture",
-   "venue_slug": null,
-   "date": "2026-11-05",
-   "start": "2026-11-06T03:00:00+00:00",
-   "end": "2026-11-06T10:00:00+00:00",
-   "time_estimated": false,
-   "address": "Miami Beach",
-   "ages": "21+",
-   "price": "free w/rsvp b4 midnight ladies / $19-30",
-   "genres": [
-    "progressive house",
-    "tech house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6adb930179b93500014c3df7"
-  },
-  {
-   "id": "19hz:4447864-kingsparadoxmari",
-   "source": "19hz",
-   "title": "King's Paradox: Marian, Mvcias, Dalva, & Seguez",
-   "artists": [],
-   "venue": "Jolene Downtown",
-   "venue_slug": "jolene",
-   "date": "2026-11-05",
-   "start": "2026-11-06T03:00:00+00:00",
-   "end": "2026-11-06T09:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "$7.01",
-   "genres": [
-    "house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6ac6aa74f13291000127aaa6"
-  },
-  {
    "id": "tablelist:ce87a1ddf13687ab",
-   "source": "tablelist+venue",
+   "source": "tablelist",
    "title": "Curawaka",
    "artists": [],
    "venue": "ZeyZey Miami",
@@ -174,16 +14,11 @@
    "address": "",
    "ages": "",
    "price": "",
-   "genres": [
-    "folk"
-   ],
+   "genres": [],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://buy.tablelist.com/e/ce87a1ddf13687ab",
-   "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/curawaka-06-nov"
-   ]
+   "url": "https://buy.tablelist.com/e/ce87a1ddf13687ab"
   },
   {
    "id": "19hz:4447951-christianojordan",
@@ -243,7 +78,7 @@
   },
   {
    "id": "tablelist:a717858d6ecfec24",
-   "source": "19hz+edmtrain+tablelist+venue",
+   "source": "19hz+edmtrain+tablelist",
    "title": "Amtrac (Live)",
    "artists": [
     "Amtrac"
@@ -265,29 +100,28 @@
    "description": "",
    "url": "https://buy.tablelist.com/e/a717858d6ecfec24",
    "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/amtrac-live-06-nov",
     "https://app.opendate.io/e/amtrac-live-november-06-2026-708055?utm_source=bandsintown&click_id=Jx1LBob5Tp2MIMBGRqHHNg",
     "https://edmtrain.com/miami-fl/amtrac-531010"
    ]
   },
   {
-   "id": "shotgun:madradiomiami110626",
-   "source": "19hz+edmtrain+shotgun",
+   "id": "19hz:4447956-blkmarketmusictb",
+   "source": "19hz+edmtrain",
    "title": "Blkmarket Music + T Bag Records: Astara & Taimur",
    "artists": [
     "Blkmarket Music",
     "Astara",
     "Taimur"
    ],
-   "venue": "Mad Radio Miami",
+   "venue": "Mad Radio",
    "venue_slug": "mad-radio",
    "date": "2026-11-06",
    "start": "2026-11-07T02:00:00+00:00",
    "end": "2026-11-07T08:00:00+00:00",
    "time_estimated": false,
-   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "address": "",
    "ages": "21+",
-   "price": "$21.80",
+   "price": "Free w/RSVP b4 midnight ladies / $22",
    "genres": [
     "deep house",
     "tech house",
@@ -295,18 +129,9 @@
    ],
    "genres_inferred": false,
    "organizer": "Mad Radio Miami",
-   "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY BEFORE 10 PM / FREE ENTRY LADIES UNTIL MIDNIGHT +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
-   "url": "https://shotgun.live/en/events/madradiomiami110626",
-   "tickets": "AFTER 10 PM $20, FREE LADIES RSVP BEFORE 12 AM Free",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.8462027,
-    "longitude": -80.1851332
-   },
-   "created": "2026-11-03T13:11:59.000Z",
+   "description": "",
+   "url": "https://shotgun.live/events/madradiomiami110626",
    "alt_urls": [
-    "https://shotgun.live/events/madradiomiami110626",
     "https://edmtrain.com/miami-fl/blkmarket-music-astara-549876"
    ]
   },
@@ -334,37 +159,43 @@
    "url": "https://dice.fm/event/g5vqp6-echoes-rex-the-dog-live-mxgpu-hybrid-6th-nov-sable-miami-miami-tickets"
   },
   {
-   "id": "shotgun:subculture-1-v-1-dance-battle-at-respectables",
-   "source": "shotgun",
-   "title": "Subculture 1v1 Dance Battle At Respectables",
-   "artists": [],
-   "venue": "West Palm Beach",
+   "id": "19hz:4447956-raykash",
+   "source": "19hz+edmtrain",
+   "title": "Ray Kash",
+   "artists": [
+    "Ray Kash"
+   ],
+   "venue": "Upside",
    "venue_slug": null,
    "date": "2026-11-06",
    "start": "2026-11-07T02:00:00+00:00",
-   "end": null,
+   "end": "2026-11-07T08:00:00+00:00",
    "time_estimated": false,
    "address": "",
-   "ages": "",
-   "price": "$10.00",
+   "ages": "21+",
+   "price": "free w/rsvp / $19.99",
    "genres": [
-    "industrial",
-    "indie rock",
-    "rock"
+    "bass house",
+    "deep house",
+    "g-house",
+    "tech house"
    ],
    "genres_inferred": false,
-   "organizer": "",
+   "organizer": "Apex",
    "description": "",
-   "url": "https://shotgun.live/en/events/subculture-1-v-1-dance-battle-at-respectables"
+   "url": "https://www.eventbrite.com/e/ray-kash-tickets-2004098988022",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/ray-kash-549117"
+   ]
   },
   {
-   "id": "zeyzey:com-truise-06-nov",
-   "source": "19hz+edmtrain+venue",
+   "id": "19hz:4447956-comtruise",
+   "source": "19hz+edmtrain",
    "title": "Com Truise",
    "artists": [
     "Com Truise"
    ],
-   "venue": "ZeyZey Miami",
+   "venue": "Zeyzey",
    "venue_slug": "zeyzey",
    "date": "2026-11-06",
    "start": "2026-11-07T02:00:00+00:00",
@@ -383,50 +214,45 @@
    "organizer": "",
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/com-truise-06-nov",
-   "cancelled": false,
    "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/com-truise-06-nov",
     "https://edmtrain.com/miami-fl/com-truise-536978"
    ]
   },
   {
-   "id": "shotgun:bloom-m2-4",
-   "source": "19hz+shotgun",
-   "title": "Bugs & Beats: Sophie Du Futur, Chamacos, Jad",
+   "id": "19hz:4447960-clubperreogrando",
+   "source": "19hz",
+   "title": "Club Perreo: Grand Opening",
    "artists": [],
-   "venue": "Club M2 Miami",
+   "venue": "777 Northeast 79th Street",
    "venue_slug": null,
    "date": "2026-11-06",
    "start": "2026-11-07T03:00:00+00:00",
-   "end": "2026-11-07T09:00:00+00:00",
+   "end": "2026-11-07T10:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$20.00",
+   "price": "free w/rsvp / $10",
    "genres": [
-    "latin house",
-    "tech house"
+    "latin club",
+    "reggaeton"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/bloom-m2-4",
-   "alt_urls": [
-    "https://shotgun.live/en/events/bloom-m2-4"
-   ]
+   "url": "https://shotgun.live/en/events/clubperreo"
   },
   {
-   "id": "hardrock:205999",
-   "source": "19hz+venue",
+   "id": "19hz:4447960-sech",
+   "source": "19hz",
    "title": "Sech",
    "artists": [],
-   "venue": "DAER Nightclub",
+   "venue": "Daer Nightclub",
    "venue_slug": "daer",
    "date": "2026-11-06",
    "start": "2026-11-07T03:00:00+00:00",
    "end": "2026-11-07T09:00:00+00:00",
    "time_estimated": false,
-   "address": "1 Seminole Way, Hollywood, FL 33314",
+   "address": "Hollywood",
    "ages": "",
    "price": "",
    "genres": [
@@ -436,11 +262,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://tixr.com/e/205999",
-   "generic_title": false,
-   "alt_urls": [
-    "https://www.tixr.com/groups/daernightclubsouthflorida/events/sech-daer-nightclub-205999"
-   ]
+   "url": "https://www.tixr.com/groups/daernightclubsouthflorida/events/sech-daer-nightclub-205999"
   },
   {
    "id": "19hz:4447960-nicomorano",
@@ -560,7 +382,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $10",
+   "price": "$10",
    "genres": [
     "ballroom",
     "ghetto house",
@@ -601,29 +423,6 @@
    "cancelled": false
   },
   {
-   "id": "shotgun:rose-blood-deathmatch",
-   "source": "shotgun",
-   "title": "Roseblood Deathmatch",
-   "artists": [],
-   "venue": "Las Rosas",
-   "venue_slug": null,
-   "date": "2026-11-06",
-   "start": "2026-11-07T03:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$27.13",
-   "genres": [
-    "black metal",
-    "death metal"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/rose-blood-deathmatch"
-  },
-  {
    "id": "19hz:4447960-mimilovemanumat",
    "source": "19hz",
    "title": "Mimi Love, Manumat",
@@ -647,31 +446,27 @@
    "url": "https://www.therumor.com/p/mimi"
   },
   {
-   "id": "shotgun:clubperreo",
-   "source": "19hz+shotgun",
-   "title": "Club Perreo: Grand Opening",
+   "id": "19hz:4447960-bugsbeatssophied",
+   "source": "19hz",
+   "title": "Bugs & Beats: Sophie Du Futur, Chamacos, Jad",
    "artists": [],
-   "venue": "Miami",
+   "venue": "M2",
    "venue_slug": null,
    "date": "2026-11-06",
    "start": "2026-11-07T03:00:00+00:00",
-   "end": "2026-11-07T10:00:00+00:00",
+   "end": "2026-11-07T09:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$15.00",
+   "price": "Free w/RSVP b4 midnight / $20+",
    "genres": [
-    "latin",
-    "latin club",
-    "reggaeton"
+    "latin house",
+    "tech house"
    ],
    "genres_inferred": false,
-   "organizer": "",
+   "organizer": "Pitchpark Events",
    "description": "",
-   "url": "https://shotgun.live/en/events/clubperreo",
-   "alt_urls": [
-    "https://shotgun.live/en/events/clubperreo"
-   ]
+   "url": "https://shotgun.live/en/events/bloom-m2-4"
   },
   {
    "id": "19hz:4447960-somewhereundergr",
@@ -720,38 +515,6 @@
    "organizer": "",
    "description": "",
    "url": "https://ra.co/events/2528914"
-  },
-  {
-   "id": "shotgun:the-hall-360-differ-f-2-f-nico-moon-2",
-   "source": "19hz+edmtrain+shotgun",
-   "title": "The Hall Club: Ray Kash",
-   "artists": [
-    "Ray Kash"
-   ],
-   "venue": "Upside",
-   "venue_slug": null,
-   "date": "2026-11-06",
-   "start": "2026-11-07T03:00:00+00:00",
-   "end": "2026-11-07T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "$22.69",
-   "genres": [
-    "bass house",
-    "deep house",
-    "g-house",
-    "house",
-    "tech house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/the-hall-360-differ-f-2-f-nico-moon-2",
-   "alt_urls": [
-    "https://www.eventbrite.com/e/ray-kash-tickets-2004098988022",
-    "https://edmtrain.com/miami-fl/ray-kash-549117"
-   ]
   },
   {
    "id": "edmtrain:549703",
@@ -858,7 +621,7 @@
    "time_estimated": false,
    "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
    "ages": "",
-   "price": "Free",
+   "price": "",
    "genres": [
     "synthpop",
     "electro",
@@ -1413,7 +1176,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$23.63",
+   "price": "$28.13",
    "genres": [
     "dark wave",
     "alternative",
@@ -2870,6 +2633,29 @@
    ]
   },
   {
+   "id": "shotgun:superqueen-40",
+   "source": "shotgun",
+   "title": "Superqueen: Off Broadway + Karaokiki Happy Hour",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-11-12",
+   "start": "2026-11-13T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$10.00",
+   "genres": [
+    "drag",
+    "pop"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/superqueen-40"
+  },
+  {
    "id": "shotgun:c3trlroom-15",
    "source": "shotgun",
    "title": "Aire: Angels (Il), Størmii, Francesco Theodoli",
@@ -3220,7 +3006,7 @@
   {
    "id": "dice:6ad760d4f2e7b00001b10371",
    "source": "19hz+dice+edmtrain+tablelist+venue",
-   "title": "Dance Therapy @ ZeyZey - MindGazm | Tiffany Romero B2B 717",
+   "title": "Dance Therapy @ ZeyZey - MindGazm | 717 B2B SPYRIDON | Daniii | Joc Havana",
    "artists": [
     "Christian Löffler"
    ],
@@ -5146,6 +4932,30 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/george-clanton-527103"
    ]
+  },
+  {
+   "id": "shotgun:blocofest",
+   "source": "shotgun",
+   "title": "Blocofest- Benefit Show",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-11-17",
+   "start": "2026-11-17T23:30:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$17.03",
+   "genres": [
+    "samba",
+    "folk",
+    "hard rock"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/blocofest"
   },
   {
    "id": "shotgun:comedy-night-at-churchill-s-11",
@@ -16919,6 +16729,27 @@
    "organizer": "",
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/ye-dry-06-may",
+   "cancelled": false
+  },
+  {
+   "id": "zeyzey:dillom-08-may",
+   "source": "venue",
+   "title": "Dillom",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2027-05-08",
+   "start": "2027-05-08T23:00:00+00:00",
+   "end": "2027-05-09T05:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/dillom-08-may",
    "cancelled": false
   },
   {
