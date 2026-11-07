@@ -159,10 +159,6 @@
   "url": "https://www.etix.com/ticket/p/93542223",
   "checked": "2026-10-17"
  },
- "545820": {
-  "url": "https://dice.fm/event/dkyqgg?pid=d6342b83",
-  "checked": "2026-10-18"
- },
  "546140": {
   "url": "https://dice.fm/event/av8q62?pid=d6342b83",
   "checked": "2026-10-20"
@@ -198,10 +194,6 @@
  "546672": {
   "url": "https://shotgun.live/events/yasumi-fiesta?utm_source=edmtrain",
   "checked": "2026-10-21"
- },
- "547027": {
-  "url": "https://dice.fm/event/g5vqp6?pid=d6342b83",
-  "checked": "2026-10-22"
  },
  "547375": {
   "url": "https://dice.fm/event/xe8ook?pid=d6342b83",
@@ -291,10 +283,6 @@
   "url": "https://dice.fm/event/lqa83w?pid=d6342b83",
   "checked": "2026-10-31"
  },
- "549113": {
-  "url": "https://www.etix.com/ticket/p/46928053",
-  "checked": "2026-10-31"
- },
  "549114": {
   "url": "https://www.etix.com/ticket/p/85800734",
   "checked": "2026-10-31"
@@ -306,10 +294,6 @@
  "549216": {
   "url": "https://posh.vip/e/area-305-halloween-pool-party-copy-copy-copy?t=edmtrain",
   "checked": "2026-11-01"
- },
- "549324": {
-  "url": "https://shotgun.live/events/clubperreo?utm_source=edmtrain",
-  "checked": "2026-11-02"
  },
  "549325": {
   "url": "https://shotgun.live/events/clubperreo-2?utm_source=edmtrain",
@@ -323,10 +307,6 @@
   "url": "https://shotgun.live/events/clubperreo-4?utm_source=edmtrain",
   "checked": "2026-11-02"
  },
- "549520": {
-  "url": "https://shotgun.live/events/bloom-m2-4?utm_source=edmtrain",
-  "checked": "2026-11-02"
- },
  "549537": {
   "url": "https://dice.fm/event/nylv89?pid=d6342b83",
   "checked": "2026-11-02"
@@ -338,10 +318,6 @@
  "549547": {
   "url": "https://www.etix.com/ticket/p/71335529",
   "checked": "2026-11-02"
- },
- "549703": {
-  "url": "https://opdt.io/li_tGoZt",
-  "checked": "2026-11-03"
  },
  "549776": {
   "url": "https://posh.vip/e/el-house-astra?t=edmtrain",
@@ -522,5 +498,37 @@
  "550775": {
   "url": "https://www.tixr.com/pr/edmtrain/213717",
   "checked": "2026-11-06"
+ },
+ "550859": {
+  "url": "https://shotgun.live/events/blocofest?utm_source=edmtrain",
+  "checked": "2026-11-07"
+ },
+ "550891": {
+  "url": "https://speakeasygo.com/event/EVE-7M36F4?t=edmtrain",
+  "checked": "2026-11-07"
+ },
+ "550942": {
+  "url": "https://www.eventbrite.com/e/2004166897140?aff=ebdimtedmtrain",
+  "checked": "2026-11-07"
+ },
+ "550948": {
+  "url": "https://dice.fm/event/3kq2dx?pid=d6342b83",
+  "checked": "2026-11-07"
+ },
+ "550974": {
+  "url": "https://dice.fm/event/yy2yop?pid=d6342b83",
+  "checked": "2026-11-07"
+ },
+ "551014": {
+  "url": "https://www.eventbrite.com/e/2004390159925?aff=ebdimtedmtrain",
+  "checked": "2026-11-07"
+ },
+ "551018": {
+  "url": "https://www.eventbrite.com/e/2004499880101?aff=ebdimtedmtrain",
+  "checked": "2026-11-07"
+ },
+ "551083": {
+  "url": "https://www.eventbrite.com/e/2004431131472?aff=ebdimtedmtrain",
+  "checked": "2026-11-07"
  }
 }

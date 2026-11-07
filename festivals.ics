@@ -53,14 +53,15 @@ CATEGORIES:hardcore,rock,metal
 END:VEVENT
 BEGIN:VEVENT
 UID:undertone-3@shotgun.live
-DTSTAMP:20261107T041830Z
-LAST-MODIFIED:20261107T041830Z
-SEQUENCE:0
+DTSTAMP:20261107T161849Z
+LAST-MODIFIED:20261107T161849Z
+SEQUENCE:1
 DTSTART:20261112T020000Z
 DTEND:20261112T070000Z
 SUMMARY:Undertone
 LOCATION:Miami
-DESCRIPTION:Tags: techno\nhttps://shotgun.live/en/events/undertone-3
+DESCRIPTION:Tags: techno\nhttps://shotgun.live/en/events/undertone-3\nhttps
+ ://edmtrain.com/miami-fl/undertone-550809
 URL:https://shotgun.live/en/events/undertone-3
 STATUS:CONFIRMED
 CATEGORIES:techno

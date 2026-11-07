@@ -8,17 +8,16 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6ac66d60ede61600010d1cba@club-space.miami-calendars
-DTSTAMP:20261104T221836Z
-LAST-MODIFIED:20261104T221836Z
-SEQUENCE:3
+UID:19hz-4447963-denniscruzmoodym@club-space.miami-calendars
+DTSTAMP:20261107T161849Z
+LAST-MODIFIED:20261107T161849Z
+SEQUENCE:0
 DTSTART:20261107T040000Z
-DTEND:20261107T190000Z
+DTEND:20261107T170000Z
 SUMMARY:Dennis Cruz + Moodymann b2b Carl Craig
-LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Dennis Cruz\, Moodymann\, Carl Craig\nTags: deep house
- \, tech house\nAges: 21+\nhttps://dice.fm/event/6ac66d60ede61600010d1cba\n
- https://edmtrain.com/miami-fl/dennis-cruz-moodymann-543635
+LOCATION:Club Space
+DESCRIPTION:Tags: deep house\, tech house\nAges: 21+\nhttps://dice.fm/event
+ /6ac66d60ede61600010d1cba
 URL:https://dice.fm/event/6ac66d60ede61600010d1cba
 STATUS:CONFIRMED
 CATEGORIES:deep house,tech house

@@ -8,28 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:freestyle-friday@shotgun.live
-DTSTAMP:20261104T161802Z
-LAST-MODIFIED:20261104T161802Z
-SEQUENCE:1
-DTSTART:20261107T040000Z
-DTEND:20261107T100000Z
-SUMMARY:Freestyle Friday
-LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
- \, USA
-DESCRIPTION:From the heads that brought you DiscoBox\, Miami Bass’d\, Ame
- n & More The Boombox presents: A Journey into Freestyle\, Electro\, New Wa
- ve & Synth Pop With special performance by Nausea\, with an OG Roland 808 
- live in the flesh! 11pm-5am 21 & Over : FREE ENTRY 18 ~20 : $20 COVER MUST
-  HAVE PHYSICAL ID PHOTOS OF IDs WON’T BE ACCEPTED\nTags: synthpop\, elec
- tro\, new wave\nTickets: RSVP Free\nhttps://shotgun.live/en/events/freesty
- le-friday
-URL:https://shotgun.live/en/events/freestyle-friday
-STATUS:CONFIRMED
-CATEGORIES:synthpop,electro,new wave
-GEO:25.7287781;-80.3169309
-END:VEVENT
-BEGIN:VEVENT
 UID:black-techo-matters@shotgun.live
 DTSTAMP:20261106T161826Z
 LAST-MODIFIED:20261106T161826Z
@@ -199,18 +177,19 @@ GEO:25.7287781;-80.3169309
 END:VEVENT
 BEGIN:VEVENT
 UID:lorraine-wazoo-and-more-the-boombox-12-8@shotgun.live
-DTSTAMP:20261106T161826Z
-LAST-MODIFIED:20261106T161826Z
-SEQUENCE:0
+DTSTAMP:20261107T161849Z
+LAST-MODIFIED:20261107T161849Z
+SEQUENCE:1
 DTSTART:20261208T230000Z
 DTEND:20261209T040000Z
 SUMMARY:Lorraine\, Wazoo\, And More @ The Boombox 12/8
 LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
  \, USA
 DESCRIPTION:Equinox Booking Presents Lorrane Wazoo Icarus Kissed The Sun Da
- teline Consort $18 adv / $20 day of all ages doors 6 pm\nPresented by: Equ
- inox Booking\nTickets: General Admission $18\nhttps://shotgun.live/en/even
- ts/lorraine-wazoo-and-more-the-boombox-12-8
+ teline Consort $18 adv / $20 day of all ages doors 6 pm\nLineup: Lorraine
+ \, Wazoo\nPresented by: Equinox Booking\nTickets: General Admission $18\nh
+ ttps://shotgun.live/en/events/lorraine-wazoo-and-more-the-boombox-12-8\nht
+ tps://edmtrain.com/miami-fl/lorraine-wazoo-551062
 URL:https://shotgun.live/en/events/lorraine-wazoo-and-more-the-boombox-12-8
 STATUS:CONFIRMED
 GEO:25.7287781;-80.3169309

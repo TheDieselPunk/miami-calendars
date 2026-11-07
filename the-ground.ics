@@ -9,17 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4447963-paigetomlinsonla@the-ground.miami-calendars
-DTSTAMP:20261107T041830Z
-LAST-MODIFIED:20261107T041830Z
-SEQUENCE:0
+DTSTAMP:20261107T161849Z
+LAST-MODIFIED:20261107T161849Z
+SEQUENCE:1
 DTSTART:20261107T040000Z
 DTEND:20261107T120000Z
 SUMMARY:Paige Tomlinson\, Lammer\, Stum
 LOCATION:The Ground
-DESCRIPTION:Lineup: Paige Tomlinson\, LAMMER\, STÜM\nTags: breaks\, euroda
- nce\, house\, trance\nAges: 21+\nhttps://dice.fm/event/g58ax5-paige-tomlin
- son-lammer-stm-6th-nov-the-ground-miami-miami-tickets\nhttps://edmtrain.co
- m/miami-fl/paige-tomlinson-lammer-538328
+DESCRIPTION:Tags: breaks\, eurodance\, house\, trance\nAges: 21+\nhttps://d
+ ice.fm/event/g58ax5-paige-tomlinson-lammer-stm-6th-nov-the-ground-miami-mi
+ ami-tickets
 URL:https://dice.fm/event/g58ax5-paige-tomlinson-lammer-stm-6th-nov-the-gro
  und-miami-miami-tickets
 STATUS:CONFIRMED

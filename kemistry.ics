@@ -8,22 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a77d938f193780001937329@kemistry.miami-calendars
-DTSTAMP:20261004T221819Z
-LAST-MODIFIED:20261004T221819Z
-SEQUENCE:0
-DTSTART:20261107T030000Z
-DTEND:20261107T090000Z
-SUMMARY:3BallMTY
-LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
- 312\, United States
-DESCRIPTION:Tags (guess): bass\, dubstep\nhttps://dice.fm/event/6a77d938f19
- 3780001937329
-URL:https://dice.fm/event/6a77d938f193780001937329
-STATUS:CONFIRMED
-CATEGORIES:bass,dubstep
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6aaae261eacc0d0001e8d9e6@kemistry.miami-calendars
 DTSTAMP:20261004T221819Z
 LAST-MODIFIED:20261004T221819Z
@@ -327,14 +311,15 @@ STATUS:CONFIRMED
 CATEGORIES:bass,dubstep
 END:VEVENT
 BEGIN:VEVENT
-UID:19hz-4456120-junkiekid@kemistry.miami-calendars
-DTSTAMP:20261029T041806Z
-LAST-MODIFIED:20261029T041806Z
+UID:dice-6abde1c608a31d0001f4c9e6@kemistry.miami-calendars
+DTSTAMP:20261107T161849Z
+LAST-MODIFIED:20261107T161849Z
 SEQUENCE:0
 DTSTART:20270131T030000Z
 DTEND:20270131T090000Z
-SUMMARY:Junkie Kid
-LOCATION:Kemistry\, Fort Lauderdale
+SUMMARY:JUNKIE KID
+LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
+ 312\, United States
 DESCRIPTION:Lineup: Junkie Kid\nTags: hard dance\, hard house\nAges: 18+\nh
  ttps://dice.fm/event/53k25d-junkie-kid-30th-jan-kemistry-fort-lauderdale-t
  ickets\nhttps://edmtrain.com/fort-lauderdale-fl/junkie-kid-541640
