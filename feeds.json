@@ -73,7 +73,7 @@
   "name": "Kemistry (Fort Lauderdale)",
   "file": "kemistry.ics",
   "events": 19,
-  "estimated_times": 1,
+  "estimated_times": 0,
   "next": "2026-11-07",
   "sources": [
    "19hz",
@@ -131,7 +131,7 @@
   "slug": "daer",
   "name": "DAER (Hard Rock Hollywood)",
   "file": "daer.ics",
-  "events": 58,
+  "events": 57,
   "estimated_times": 0,
   "next": "2026-11-06",
   "sources": [
@@ -173,9 +173,9 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 43,
+  "events": 42,
   "estimated_times": 17,
-  "next": "2026-11-06",
+  "next": "2026-11-07",
   "sources": [
    "19hz",
    "dice",

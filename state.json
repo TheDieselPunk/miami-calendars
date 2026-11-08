@@ -204,20 +204,15 @@
   "seq": 0,
   "modified": "2026-11-05T22:18:29+00:00"
  },
- "bachata@shotgun.live": {
-  "hash": "1c7adc9e2f9ae601",
-  "seq": 0,
-  "modified": "2026-11-05T22:18:29+00:00"
- },
  "beiruttomiami1@shotgun.live": {
   "hash": "65c9ebec99a45024",
   "seq": 7,
   "modified": "2026-11-01T22:17:49+00:00"
  },
  "black-techo-matters@shotgun.live": {
-  "hash": "3f7cf55b9b9e2641",
-  "seq": 3,
-  "modified": "2026-11-06T16:18:26+00:00"
+  "hash": "47e7e5b97d1d3ec5",
+  "seq": 4,
+  "modified": "2026-11-08T04:18:22+00:00"
  },
  "cafe-grooves-art-week@shotgun.live": {
   "hash": "bbf01bb33a85d152",
@@ -225,9 +220,9 @@
   "modified": "2026-10-20T04:18:27+00:00"
  },
  "casa-whispers-x-mtrnm-present-dia-de-los-muertos@shotgun.live": {
-  "hash": "8006cdc821677d23",
-  "seq": 4,
-  "modified": "2026-11-07T16:18:49+00:00"
+  "hash": "42e7887185408e06",
+  "seq": 5,
+  "modified": "2026-11-08T04:18:22+00:00"
  },
  "churchill-s-pub-november-8th@shotgun.live": {
   "hash": "8789d2f71555c07d",
@@ -644,6 +639,11 @@
   "seq": 2,
   "modified": "2026-10-31T04:18:09+00:00"
  },
+ "dice-6ada0ef330a6130001bb2b30@kemistry.miami-calendars": {
+  "hash": "f84f4a3b51435b10",
+  "seq": 0,
+  "modified": "2026-11-08T04:18:22+00:00"
+ },
  "dice-6adb9490e08a040001e559ea@jolene.miami-calendars": {
   "hash": "a6deb9b10d6c3cbc",
   "seq": 1,
@@ -899,11 +899,6 @@
   "seq": 1,
   "modified": "2026-10-28T10:18:12+00:00"
  },
- "edmtrain-548369@kemistry.miami-calendars": {
-  "hash": "80ad7116b47a9453",
-  "seq": 0,
-  "modified": "2026-10-29T04:18:06+00:00"
- },
  "edmtrain-548595@midline.miami-calendars": {
   "hash": "8b441902041e7109",
   "seq": 1,
@@ -944,11 +939,6 @@
   "seq": 0,
   "modified": "2026-09-21T21:40:09+00:00"
  },
- "hardrock-205527@daer.miami-calendars": {
-  "hash": "cfb025b85e4e6058",
-  "seq": 3,
-  "modified": "2026-11-05T22:18:29+00:00"
- },
  "hardrock-205532@daer.miami-calendars": {
   "hash": "cdf09ad58c9267f2",
   "seq": 2,
@@ -985,9 +975,9 @@
   "modified": "2026-09-21T20:07:29+00:00"
  },
  "hardrock-206000@daer.miami-calendars": {
-  "hash": "6d768e23f2d389fe",
-  "seq": 3,
-  "modified": "2026-11-05T04:18:25+00:00"
+  "hash": "540c8b0c8d10e525",
+  "seq": 4,
+  "modified": "2026-11-08T04:18:22+00:00"
  },
  "hardrock-206001@daer.miami-calendars": {
   "hash": "8f059e4db84cb1d7",

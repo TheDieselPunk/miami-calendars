@@ -9,9 +9,9 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:black-techo-matters@shotgun.live
-DTSTAMP:20261106T161826Z
-LAST-MODIFIED:20261106T161826Z
-SEQUENCE:3
+DTSTAMP:20261108T041822Z
+LAST-MODIFIED:20261108T041822Z
+SEQUENCE:4
 DTSTART:20261108T040000Z
 DTEND:20261108T090000Z
 SUMMARY:Black Techno Matters
@@ -31,7 +31,8 @@ DESCRIPTION:Public Energy is proud to be partnering with Black Techno Matte
  ox Miami. ALL BLACK OUTFIT IS *HIGHLY* Encouraged for the occasion.\nLineu
  p: Nile Ashton\, B_X_R_N_X_R_D\, duun\, Duality\, KILLAJAYJAYY\, DjPressur
  e\, LadyNarcisse\, serafitz\nTags: dub techno\, techno\nTickets: T1 $10 (s
- old out)\, T2 $17\nhttps://shotgun.live/en/events/black-techo-matters
+ old out)\, T2 $17 (sold out)\, T3 $23\nhttps://shotgun.live/en/events/blac
+ k-techo-matters
 URL:https://shotgun.live/en/events/black-techo-matters
 STATUS:CONFIRMED
 CATEGORIES:dub techno,techno

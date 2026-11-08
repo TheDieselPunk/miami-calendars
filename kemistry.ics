@@ -329,19 +329,19 @@ STATUS:CONFIRMED
 CATEGORIES:hard dance,hard house
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-548369@kemistry.miami-calendars
-DTSTAMP:20261029T041806Z
-LAST-MODIFIED:20261029T041806Z
+UID:dice-6ada0ef330a6130001bb2b30@kemistry.miami-calendars
+DTSTAMP:20261108T041822Z
+LAST-MODIFIED:20261108T041822Z
 SEQUENCE:0
 DTSTART:20270206T030000Z
 DTEND:20270206T090000Z
 SUMMARY:TYNAN
-LOCATION:Kemistry\, 307 SW 2nd St\, Fort Lauderdale\, FL 33312\, USA
-DESCRIPTION:Lineup: TYNAN\nTags (guess): bass\, dubstep\nTimes are an estim
- ate from Kemistry (Fort Lauderdale)'s usual hours - the listing has no sta
- rt time yet. Check the link.\nhttps://dice.fm/event/eo98bw?pid=d6342b83\nh
- ttps://edmtrain.com/fort-lauderdale-fl/tynan-548369
-URL:https://dice.fm/event/eo98bw?pid=d6342b83
+LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
+ 312\, United States
+DESCRIPTION:Lineup: TYNAN\nTags (guess): bass\, dubstep\nhttps://dice.fm/ev
+ ent/6ada0ef330a6130001bb2b30\nhttps://edmtrain.com/fort-lauderdale-fl/tyna
+ n-548369
+URL:https://dice.fm/event/6ada0ef330a6130001bb2b30
 STATUS:CONFIRMED
 CATEGORIES:bass,dubstep
 END:VEVENT

@@ -21,6 +21,28 @@
    "url": "https://buy.tablelist.com/e/ce87a1ddf13687ab"
   },
   {
+   "id": "19hz:4447951-bachataconhouse",
+   "source": "19hz",
+   "title": "Bachata Con House",
+   "artists": [],
+   "venue": "777 Northeast 79th Street",
+   "venue_slug": null,
+   "date": "2026-11-06",
+   "start": "2026-11-07T01:00:00+00:00",
+   "end": "2026-11-07T04:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$15",
+   "genres": [
+    "house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/bachata"
+  },
+  {
    "id": "19hz:4447951-christianojordan",
    "source": "19hz",
    "title": "Christiano Jordano, Kike Roldan, Nayla Scozzesi",
@@ -43,31 +65,6 @@
    "organizer": "Aire Miami",
    "description": "",
    "url": "https://posh.vip/e/christiano-jordano-kike-roldan-nayla-scozzesi"
-  },
-  {
-   "id": "shotgun:bachata",
-   "source": "19hz+shotgun",
-   "title": "Bachata Con House",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": "festivals",
-   "date": "2026-11-06",
-   "start": "2026-11-07T01:00:00+00:00",
-   "end": "2026-11-07T04:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$15.00",
-   "genres": [
-    "house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/bachata",
-   "alt_urls": [
-    "https://shotgun.live/en/events/bachata"
-   ]
   },
   {
    "id": "tablelist:a717858d6ecfec24",
@@ -534,30 +531,6 @@
    "url": "https://dice.fm/event/6dg2o3-unkommon-eats-presented-by-mr-eats-305-7th-nov-little-river-studios-miami-tickets"
   },
   {
-   "id": "hardrock:205527",
-   "source": "19hz+venue",
-   "title": "Jean Marie",
-   "artists": [],
-   "venue": "DAER Dayclub",
-   "venue_slug": "daer",
-   "date": "2026-11-07",
-   "start": "2026-11-07T17:00:00+00:00",
-   "end": "2026-11-07T23:00:00+00:00",
-   "time_estimated": false,
-   "address": "1 Seminole Way, Hollywood, FL 33314",
-   "ages": "21+",
-   "price": "free w/rsvp b4 2 / $37+",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://tixr.com/e/205527",
-   "generic_title": false,
-   "alt_urls": [
-    "https://www.tixr.com/groups/daerdayclubsouthflorida/events/jean-marie-daer-dayclub-205527"
-   ]
-  },
-  {
    "id": "19hz:4448016-novoflowtropical",
    "source": "19hz",
    "title": "Novo Flow: Tropical Paradise",
@@ -578,30 +551,6 @@
    "organizer": "Chaotic House Events",
    "description": "",
    "url": "https://posh.vip/e/area-305-halloween-pool-party-copy-copy-copy"
-  },
-  {
-   "id": "shotgun:intriga-x-boho-house-day-party-new-location",
-   "source": "shotgun",
-   "title": "Intriga X Boho House: Day Party Vol 4 (New Location)",
-   "artists": [],
-   "venue": "BOHO House Miami",
-   "venue_slug": null,
-   "date": "2026-11-07",
-   "start": "2026-11-07T21:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$39.73",
-   "genres": [
-    "indie dance",
-    "afro house",
-    "tech house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/intriga-x-boho-house-day-party-new-location"
   },
   {
    "id": "19hz:4448032-intrigadaypartyv",
@@ -669,32 +618,8 @@
    ]
   },
   {
-   "id": "shotgun:indie-night-i",
-   "source": "shotgun",
-   "title": "Indie Night I",
-   "artists": [],
-   "venue": "South Miami",
-   "venue_slug": null,
-   "date": "2026-11-07",
-   "start": "2026-11-07T22:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$10.00",
-   "genres": [
-    "rock",
-    "indie",
-    "indie rock"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/indie-night-i"
-  },
-  {
    "id": "shotgun:casa-whispers-x-mtrnm-present-dia-de-los-muertos",
-   "source": "19hz+dice+shotgun+tablelist+venue",
+   "source": "19hz+dice+shotgun+tablelist",
    "title": "Casa Whispers X Mtrnm Present: Dia De Los Muertos",
    "artists": [],
    "venue": "ZeyZey Miami",
@@ -709,7 +634,6 @@
    "genres": [
     "afro house",
     "house",
-    "jazz",
     "tech house"
    ],
    "genres_inferred": false,
@@ -728,8 +652,6 @@
     "https://dice.fm/event/6ac015bea7ef55000125063f",
     "https://buy.tablelist.com/e/b21631fba42530c6",
     "https://buy.tablelist.com/e/b279d844e3619a4d",
-    "https://calendar.zeyzeymiami.com/shows/casa-whispers-dia-de-muertos-07-nov",
-    "https://calendar.zeyzeymiami.com/shows/dana-and-alden-07-nov",
     "https://dice.fm/event/l8pyyp-casa-whispers-x-mtrnm-present-dia-de-los-muertos-zey-zey-miami-7th-nov-zeyzey-miami-tickets?lng=es"
    ]
   },
@@ -950,7 +872,7 @@
   },
   {
    "id": "hardrock:206000",
-   "source": "edmtrain+venue",
+   "source": "19hz+edmtrain+venue",
    "title": "Romi Lux",
    "artists": [
     "Romi Lux"
@@ -962,8 +884,8 @@
    "end": "2026-11-08T09:00:00+00:00",
    "time_estimated": false,
    "address": "1 Seminole Way, Hollywood, FL 33314",
-   "ages": "",
-   "price": "",
+   "ages": "21+",
+   "price": "free w/rsvp b4 2 / $37+",
    "genres": [],
    "genres_inferred": false,
    "organizer": "",
@@ -971,6 +893,7 @@
    "url": "https://tixr.com/e/206000",
    "generic_title": false,
    "alt_urls": [
+    "https://www.tixr.com/groups/daerdayclubsouthflorida/events/jean-marie-daer-dayclub-205527",
     "https://edmtrain.com/fort-lauderdale-fl/romi-lux-550235"
    ]
   },
@@ -1091,7 +1014,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "$12",
+   "price": "From $7",
    "genres": [
     "house"
    ],
@@ -1117,7 +1040,7 @@
    "time_estimated": false,
    "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "",
-   "price": "From $26",
+   "price": "From $29",
    "genres": [
     "bass",
     "dubstep"
@@ -1191,7 +1114,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$10.00",
+   "price": "$15.00",
    "genres": [],
    "genres_inferred": false,
    "organizer": "",
@@ -1265,7 +1188,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $30",
+   "price": "$30+",
    "genres": [
     "tech house"
    ],
@@ -1360,7 +1283,7 @@
    "organizer": "The Boombox Miami",
    "description": "Public Energy is proud to be partnering with Black Techno Matters hailing from Washington D.C for their 7 year anniversary. With a shared mission to remind the masses of where their music originates from - Public Energy invites Founder BXNRXD & 1/2 of Secret Handshake Nile Ashton to show what the source really sounds like. On Local support we have PE founder Duality getting out of his comfort zone pushing percussive club bangers and riding rhythms to set the floor for Miami’s main stay and big brother Pressurepoint B2B Lady Narcisse. To start the night right we have Dub Techno connoisseur DUUN alongside a debut for Browards KILLAJAY. To end the night right for a rare set outside his domain is SERAFITZ with an all wax set. We’re beyond excited to have techno bumping right here at The Boombox Miami. ALL BLACK OUTFIT IS *HIGHLY* Encouraged for the occasion.",
    "url": "https://shotgun.live/en/events/black-techo-matters",
-   "tickets": "T1 $10 (sold out), T2 $17",
+   "tickets": "T1 $10 (sold out), T2 $17 (sold out), T3 $23",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -2904,7 +2827,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $50",
+   "price": "From $56",
    "genres": [
     "eurobeat",
     "hard techno",
@@ -4810,6 +4733,29 @@
    "created": "2026-10-13T23:32:23.000Z"
   },
   {
+   "id": "shotgun:superqueen-41",
+   "source": "shotgun",
+   "title": "Superqueen: Gta6 Release Party + Karaokiki Happy Hour",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-11-19",
+   "start": "2026-11-20T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$10.00",
+   "genres": [
+    "drag",
+    "pop"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/superqueen-41"
+  },
+  {
    "id": "tablelist:209109f986348f4b",
    "source": "tablelist+venue",
    "title": "Vicente Garcia",
@@ -5608,7 +5554,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $40",
+   "price": "From $50",
    "genres": [
     "bass house",
     "tech house"
@@ -16052,8 +15998,8 @@
    "cancelled": false
   },
   {
-   "id": "edmtrain:548369",
-   "source": "edmtrain",
+   "id": "dice:6ada0ef330a6130001bb2b30",
+   "source": "dice+edmtrain",
    "title": "TYNAN",
    "artists": [
     "TYNAN"
@@ -16063,10 +16009,10 @@
    "date": "2027-02-05",
    "start": "2027-02-06T03:00:00+00:00",
    "end": "2027-02-06T09:00:00+00:00",
-   "time_estimated": true,
-   "address": "307 SW 2nd St, Fort Lauderdale, FL 33312, USA",
+   "time_estimated": false,
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "",
-   "price": "",
+   "price": "From $20",
    "genres": [
     "bass",
     "dubstep"
@@ -16074,7 +16020,8 @@
    "genres_inferred": true,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/eo98bw?pid=d6342b83",
+   "url": "https://dice.fm/event/6ada0ef330a6130001bb2b30",
+   "cancelled": false,
    "alt_urls": [
     "https://edmtrain.com/fort-lauderdale-fl/tynan-548369"
    ]
