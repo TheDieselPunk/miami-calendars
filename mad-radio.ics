@@ -8,43 +8,20 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4447956-blkmarketmusictb@mad-radio.miami-calendars
-DTSTAMP:20261107T161849Z
-LAST-MODIFIED:20261107T161849Z
-SEQUENCE:1
-DTSTART:20261107T020000Z
-DTEND:20261107T080000Z
-SUMMARY:Blkmarket Music + T Bag Records: Astara & Taimur
-LOCATION:Mad Radio
-DESCRIPTION:Tags: deep house\, tech house\, techno\nAges: 21+\nhttps://shot
- gun.live/events/madradiomiami110626
-URL:https://shotgun.live/events/madradiomiami110626
-STATUS:CONFIRMED
-CATEGORIES:deep house,tech house,techno
-END:VEVENT
-BEGIN:VEVENT
-UID:madradiomiami110726@shotgun.live
-DTSTAMP:20261105T221829Z
-LAST-MODIFIED:20261105T221829Z
-SEQUENCE:2
+UID:19hz-4448052-maccabiiipezlomd@mad-radio.miami-calendars
+DTSTAMP:20261108T101815Z
+LAST-MODIFIED:20261108T101815Z
+SEQUENCE:0
 DTSTART:20261108T020000Z
 DTEND:20261108T080000Z
-SUMMARY:Maccabiii & Pezlo MD
-LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
-DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
- ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
-  our slick radio show serving up the latest tracks. Save the date and cath
-  the urban-chic experience at Mad Radio Miami. See you on the dance floor!
-  Come early\, stay late\, and let the night unfold FREE ENTRY BEFORE 10 PM
-  / FREE ENTRY LADIES UNTIL MIDNIGHT + 25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
- \nLineup: Maccabiii\, Pezlo MD\nTags: deep house\nTickets: AFTER 10 PM / E
- ARLY BIRD $20\, FREE LADIES RSVP BEFORE 12 AM Free\nAges: 25+\nhttps://sho
- tgun.live/en/events/madradiomiami110726\nhttps://edmtrain.com/miami-fl/mac
- cabiii-pezlo-md-549877
-URL:https://shotgun.live/en/events/madradiomiami110726
+SUMMARY:Maccabiii & Pezlo Md
+LOCATION:Mad Radio
+DESCRIPTION:Lineup: Maccabiii\, Pezlo MD\nTags: deep house\nAges: 25+\nhttp
+ s://shotgun.live/events/madradiomiami110726\nhttps://edmtrain.com/miami-fl
+ /maccabiii-pezlo-md-549877
+URL:https://shotgun.live/events/madradiomiami110726
 STATUS:CONFIRMED
 CATEGORIES:deep house
-GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami111126@shotgun.live

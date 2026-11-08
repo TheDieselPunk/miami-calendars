@@ -8,35 +8,20 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:black-techo-matters@shotgun.live
-DTSTAMP:20261108T041822Z
-LAST-MODIFIED:20261108T041822Z
-SEQUENCE:4
+UID:19hz-4448059-blacktechnomatte@boombox.miami-calendars
+DTSTAMP:20261108T101815Z
+LAST-MODIFIED:20261108T101815Z
+SEQUENCE:0
 DTSTART:20261108T040000Z
 DTEND:20261108T090000Z
-SUMMARY:Black Techno Matters
-LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
- \, USA
-DESCRIPTION:Public Energy is proud to be partnering with Black Techno Matte
- rs hailing from Washington D.C for their 7 year anniversary. With a shared
-  mission to remind the masses of where their music originates from - Publi
- c Energy invites Founder BXNRXD & 1/2 of Secret Handshake Nile Ashton to s
- how what the source really sounds like. On Local support we have PE founde
- r Duality getting out of his comfort zone pushing percussive club bangers 
- and riding rhythms to set the floor for Miami’s main stay and big brothe
- r Pressurepoint B2B Lady Narcisse. To start the night right we have Dub Te
- chno connoisseur DUUN alongside a debut for Browards KILLAJAY. To end the 
- night right for a rare set outside his domain is SERAFITZ with an all wax 
- set. We’re beyond excited to have techno bumping right here at The Boomb
- ox Miami. ALL BLACK OUTFIT IS *HIGHLY* Encouraged for the occasion.\nLineu
- p: Nile Ashton\, B_X_R_N_X_R_D\, duun\, Duality\, KILLAJAYJAYY\, DjPressur
- e\, LadyNarcisse\, serafitz\nTags: dub techno\, techno\nTickets: T1 $10 (s
- old out)\, T2 $17 (sold out)\, T3 $23\nhttps://shotgun.live/en/events/blac
- k-techo-matters
+SUMMARY:Black Techno Matters 7 Year Anniversary: Nile Ashton\, Bxrnxrd\, Pr
+ essure Point\, Lady Narcisse\, Duality\, serafitz\, Dunn\, Killajayjayy
+LOCATION:The Boombox
+DESCRIPTION:Tags: dub techno\, techno\nhttps://shotgun.live/en/events/black
+ -techo-matters
 URL:https://shotgun.live/en/events/black-techo-matters
 STATUS:CONFIRMED
 CATEGORIES:dub techno,techno
-GEO:25.7287781;-80.3169309
 END:VEVENT
 BEGIN:VEVENT
 UID:girl-of-glass-at-boombox-11-8@shotgun.live

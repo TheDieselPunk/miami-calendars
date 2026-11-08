@@ -8,81 +8,23 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:tablelist-ce87a1ddf13687ab@zeyzey.miami-calendars
-DTSTAMP:20261107T101822Z
-LAST-MODIFIED:20261107T101822Z
-SEQUENCE:1
-DTSTART:20261106T230000Z
-DTEND:20261107T030000Z
-SUMMARY:Curawaka
-LOCATION:ZeyZey Miami
-DESCRIPTION:https://buy.tablelist.com/e/ce87a1ddf13687ab
-URL:https://buy.tablelist.com/e/ce87a1ddf13687ab
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:tablelist-a717858d6ecfec24@zeyzey.miami-calendars
-DTSTAMP:20261107T161849Z
-LAST-MODIFIED:20261107T161849Z
-SEQUENCE:2
-DTSTART:20261107T010000Z
-DTEND:20261107T070000Z
-SUMMARY:Amtrac (Live)
-LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: house\nAges: 18+\nhttps://buy.tablelist.com/e/a717858d6ec
- fec24\nhttps://app.opendate.io/e/amtrac-live-november-06-2026-708055?utm_s
- ource=bandsintown&click_id=Jx1LBob5Tp2MIMBGRqHHNg
-URL:https://buy.tablelist.com/e/a717858d6ecfec24
-STATUS:CONFIRMED
-CATEGORIES:house
-END:VEVENT
-BEGIN:VEVENT
-UID:19hz-4447956-comtruise@zeyzey.miami-calendars
-DTSTAMP:20261107T161849Z
-LAST-MODIFIED:20261107T161849Z
-SEQUENCE:1
-DTSTART:20261107T020000Z
-DTEND:20261107T080000Z
-SUMMARY:Com Truise
-LOCATION:Zeyzey
-DESCRIPTION:Tags: downtempo\, electro\, idm\, synthpop\nAges: All ages\nhtt
- ps://calendar.zeyzeymiami.com/shows/com-truise-06-nov
-URL:https://calendar.zeyzeymiami.com/shows/com-truise-06-nov
-STATUS:CONFIRMED
-CATEGORIES:downtempo,electro,idm,synthpop
-END:VEVENT
-BEGIN:VEVENT
-UID:casa-whispers-x-mtrnm-present-dia-de-los-muertos@shotgun.live
-DTSTAMP:20261108T041822Z
-LAST-MODIFIED:20261108T041822Z
-SEQUENCE:5
+UID:dice-6ac015bea7ef55000125063f@zeyzey.miami-calendars
+DTSTAMP:20261108T101815Z
+LAST-MODIFIED:20261108T101815Z
+SEQUENCE:0
 DTSTART:20261108T000000Z
 DTEND:20261108T090000Z
-SUMMARY:Casa Whispers X Mtrnm Present: Dia De Los Muertos
-LOCATION:ZeyZey Miami\, 353 Northeast 61st Street\, Miami\, FL 33137\, USA
-DESCRIPTION:CASA WHISPERS x MTRNM Present: DÍA DE LOS MUERTOS - ZeyZey\, M
- iami 🕯️ One night a year\, in full colour 🌴 Four sold-out editions
-  later\, Casa Whispers and MTRNM come together on November 7 for a new cha
- pter of a night that only comes around once a year. Two stages\, eight art
- ists\, and a night where life and death dance together 🧡 Past the woode
- n gate\, under the banyan tree: an open-air stage on one side\, a disco in
- doors on the other. An ofrenda you can walk into\, Catrina body painting u
- ntil the small hours\, and pan de muerto at midnight. Behind the decks: OS
- CAAR LAALOLALOO PALMA DON RICO MANUMAGICK CHARLIE WOODS PETEY Q IGNA AROCE
- NA 🎟️ LIMITED TICKETS AVAILABLE See you under the altar 🕯️\nTags
- : afro house\, house\, tech house\nPresented by: Casa Whispers\nTickets: T
- ABLE 1 $92.17\, TABLE 2 $92.17\, FINAL TIER ANYTIME $46.08\, TABLE 3 $92.1
- 7\, ENTRANCE BEFORE 9 PM $32.25\, TABLE 4 $92.17\, TABLE 5 $92.17\nAges: 2
- 1+\nhttps://shotgun.live/en/events/casa-whispers-x-mtrnm-present-dia-de-lo
- s-muertos\nhttps://buy.tablelist.com/e/b21631fba42530c6\nhttps://buy.table
- list.com/e/b279d844e3619a4d\nhttps://dice.fm/event/6ac015bea7ef55000125063
- f\nhttps://dice.fm/event/l8pyyp-casa-whispers-x-mtrnm-present-dia-de-los-m
+SUMMARY:CASA WHISPERS x MTRNM Present: Dia De Los Muertos - Zey Zey\, Miami
+LOCATION:ZeyZey\, 353 Northeast 61st Street\, Miami\, Florida 33137\, Unite
+ d States
+DESCRIPTION:Tags: afro house\, house\nAges: 21+\nhttps://dice.fm/event/l8py
+ yp-casa-whispers-x-mtrnm-present-dia-de-los-muertos-zey-zey-miami-7th-nov-
+ zeyzey-miami-tickets?lng=es\nhttps://buy.tablelist.com/e/b21631fba42530c6
+ \nhttps://buy.tablelist.com/e/b279d844e3619a4d
+URL:https://dice.fm/event/l8pyyp-casa-whispers-x-mtrnm-present-dia-de-los-m
  uertos-zey-zey-miami-7th-nov-zeyzey-miami-tickets?lng=es
-URL:https://shotgun.live/en/events/casa-whispers-x-mtrnm-present-dia-de-los
- -muertos
 STATUS:CONFIRMED
-CATEGORIES:afro house,house,tech house
-GEO:25.8327584;-80.1890685
+CATEGORIES:afro house,house
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-presents-parra-for-cuva@shotgun.live

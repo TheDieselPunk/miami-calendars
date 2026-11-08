@@ -8,36 +8,22 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4447963-denniscruzmoodym@club-space.miami-calendars
-DTSTAMP:20261107T161849Z
-LAST-MODIFIED:20261107T161849Z
-SEQUENCE:0
-DTSTART:20261107T040000Z
-DTEND:20261107T170000Z
-SUMMARY:Dennis Cruz + Moodymann b2b Carl Craig
-LOCATION:Club Space
-DESCRIPTION:Tags: deep house\, tech house\nAges: 21+\nhttps://dice.fm/event
- /6ac66d60ede61600010d1cba
-URL:https://dice.fm/event/6ac66d60ede61600010d1cba
-STATUS:CONFIRMED
-CATEGORIES:deep house,tech house
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6ac68f6c19d9030001a4695e@club-space.miami-calendars
-DTSTAMP:20261105T221829Z
-LAST-MODIFIED:20261105T221829Z
-SEQUENCE:2
+DTSTAMP:20261108T101815Z
+LAST-MODIFIED:20261108T101815Z
+SEQUENCE:3
 DTSTART:20261108T040000Z
 DTEND:20261108T170000Z
 SUMMARY:Tiga + Dan Molinari
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Tiga\, Dan Molinari\nTags: tech house\nAges: 21+\nhttps
- ://dice.fm/event/2wnggp-tiga-dan-molinari-7th-nov-club-space-miami-miami-t
- ickets\nhttps://edmtrain.com/miami-fl/tiga-dan-molinari-549512
+DESCRIPTION:Lineup: Tiga\, Dan Molinari\nTags: ghettotech\, tech house\nAge
+ s: 21+\nhttps://dice.fm/event/2wnggp-tiga-dan-molinari-7th-nov-club-space-
+ miami-miami-tickets\nhttps://edmtrain.com/miami-fl/tiga-dan-molinari-54951
+ 2\nhttps://link.dice.fm/808lifenov
 URL:https://dice.fm/event/2wnggp-tiga-dan-molinari-7th-nov-club-space-miami
  -miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:tech house
+CATEGORIES:ghettotech,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6adfa5c2e9571d000113a9ec@club-space.miami-calendars

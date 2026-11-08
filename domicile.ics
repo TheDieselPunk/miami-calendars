@@ -8,22 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4447960-laurecroftufo95@domicile.miami-calendars
-DTSTAMP:20261107T161849Z
-LAST-MODIFIED:20261107T161849Z
-SEQUENCE:1
-DTSTART:20261107T030000Z
-DTEND:20261107T100000Z
-SUMMARY:Laure Croft + Ufo95
-LOCATION:Domicile
-DESCRIPTION:Tags: techno\nAges: 18+\nhttps://dice.fm/event/yoqp22-laure-cro
- ft-ufo95-live-6th-nov-domicile-miami-miami-tickets
-URL:https://dice.fm/event/yoqp22-laure-croft-ufo95-live-6th-nov-domicile-mi
- ami-miami-tickets
-STATUS:CONFIRMED
-CATEGORIES:techno
-END:VEVENT
-BEGIN:VEVENT
 UID:19hz-4448056-shoki287@domicile.miami-calendars
 DTSTAMP:20261023T161816Z
 LAST-MODIFIED:20261023T161816Z
