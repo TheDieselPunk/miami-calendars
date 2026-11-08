@@ -9,16 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4448052-maccabiiipezlomd@mad-radio.miami-calendars
-DTSTAMP:20261108T101815Z
-LAST-MODIFIED:20261108T101815Z
-SEQUENCE:0
+DTSTAMP:20261108T221812Z
+LAST-MODIFIED:20261108T221812Z
+SEQUENCE:1
 DTSTART:20261108T020000Z
 DTEND:20261108T080000Z
 SUMMARY:Maccabiii & Pezlo Md
 LOCATION:Mad Radio
-DESCRIPTION:Lineup: Maccabiii\, Pezlo MD\nTags: deep house\nAges: 25+\nhttp
- s://shotgun.live/events/madradiomiami110726\nhttps://edmtrain.com/miami-fl
- /maccabiii-pezlo-md-549877
+DESCRIPTION:Tags: deep house\nAges: 25+\nhttps://shotgun.live/events/madrad
+ iomiami110726
 URL:https://shotgun.live/events/madradiomiami110726
 STATUS:CONFIRMED
 CATEGORIES:deep house

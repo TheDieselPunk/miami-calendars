@@ -9,16 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4448016-jeanmarie@daer.miami-calendars
-DTSTAMP:20261108T101815Z
-LAST-MODIFIED:20261108T101815Z
-SEQUENCE:0
+DTSTAMP:20261108T221812Z
+LAST-MODIFIED:20261108T221812Z
+SEQUENCE:1
 DTSTART:20261107T170000Z
 DTEND:20261108T000000Z
 SUMMARY:Jean Marie
 LOCATION:Daer Dayclub\, Hollywood
-DESCRIPTION:Lineup: Romi Lux\nAges: 21+\nhttps://www.tixr.com/groups/daerda
- yclubsouthflorida/events/jean-marie-daer-dayclub-205527\nhttps://edmtrain.
- com/fort-lauderdale-fl/romi-lux-550235
+DESCRIPTION:Ages: 21+\nhttps://www.tixr.com/groups/daerdayclubsouthflorida/
+ events/jean-marie-daer-dayclub-205527
 URL:https://www.tixr.com/groups/daerdayclubsouthflorida/events/jean-marie-d
  aer-dayclub-205527
 STATUS:CONFIRMED

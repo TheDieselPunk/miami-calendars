@@ -22,11 +22,9 @@
   },
   {
    "id": "19hz:4448016-jeanmarie",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Jean Marie",
-   "artists": [
-    "Romi Lux"
-   ],
+   "artists": [],
    "venue": "Daer Dayclub",
    "venue_slug": "daer",
    "date": "2026-11-07",
@@ -40,10 +38,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://www.tixr.com/groups/daerdayclubsouthflorida/events/jean-marie-daer-dayclub-205527",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/romi-lux-550235"
-   ]
+   "url": "https://www.tixr.com/groups/daerdayclubsouthflorida/events/jean-marie-daer-dayclub-205527"
   },
   {
    "id": "19hz:4448016-novoflowtropical",
@@ -69,16 +64,9 @@
   },
   {
    "id": "19hz:4448032-intrigadaypartyv",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Intriga Day Party Vol. 4 Ft Nactua, Santelises, Fede Barga",
-   "artists": [
-    "Santelises",
-    "nactua",
-    "Jkali",
-    "Fede Barga",
-    "goa 98",
-    "Marimar"
-   ],
+   "artists": [],
    "venue": "Boho House",
    "venue_slug": null,
    "date": "2026-11-07",
@@ -97,19 +85,13 @@
    "genres_inferred": false,
    "organizer": "Intriga Collective",
    "description": "",
-   "url": "https://link.dice.fm/p7b3e6fdd6de",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/intriga-day-party-santelises-549243"
-   ]
+   "url": "https://link.dice.fm/p7b3e6fdd6de"
   },
   {
    "id": "19hz:4448032-vavorickyretro",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Vavo & Ricky Retro",
-   "artists": [
-    "VAVO",
-    "Ricky Retro"
-   ],
+   "artists": [],
    "venue": "Palm Tree Club",
    "venue_slug": null,
    "date": "2026-11-07",
@@ -127,48 +109,33 @@
    "genres_inferred": false,
    "organizer": "Palm Tree Club Miami",
    "description": "",
-   "url": "https://posh.vip/e/vavo-ricky-retro-presented-by-palm-tree-club-miami-copy",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/vavo-ricky-retro-535915"
-   ]
+   "url": "https://posh.vip/e/vavo-ricky-retro-presented-by-palm-tree-club-miami-copy"
   },
   {
-   "id": "dice:6ac015bea7ef55000125063f",
-   "source": "19hz+dice+tablelist",
-   "title": "CASA WHISPERS x MTRNM Present: Dia De Los Muertos - Zey Zey, Miami",
+   "id": "tablelist:b21631fba42530c6",
+   "source": "tablelist",
+   "title": "Dana and Alden",
    "artists": [],
-   "venue": "ZeyZey",
+   "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-11-07",
-   "start": "2026-11-08T00:00:00+00:00",
-   "end": "2026-11-08T09:00:00+00:00",
+   "start": "2026-11-07T22:00:00+00:00",
+   "end": "2026-11-08T02:00:00+00:00",
    "time_estimated": false,
-   "address": "353 Northeast 61st Street, Miami, Florida 33137, United States",
-   "ages": "21+",
-   "price": "From $60",
-   "genres": [
-    "afro house",
-    "house"
-   ],
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/l8pyyp-casa-whispers-x-mtrnm-present-dia-de-los-muertos-zey-zey-miami-7th-nov-zeyzey-miami-tickets?lng=es",
-   "cancelled": false,
-   "alt_urls": [
-    "https://buy.tablelist.com/e/b21631fba42530c6",
-    "https://buy.tablelist.com/e/b279d844e3619a4d",
-    "https://dice.fm/event/l8pyyp-casa-whispers-x-mtrnm-present-dia-de-los-muertos-zey-zey-miami-7th-nov-zeyzey-miami-tickets?lng=es"
-   ]
+   "url": "https://buy.tablelist.com/e/b21631fba42530c6"
   },
   {
    "id": "19hz:4448052-maccabiiipezlomd",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Maccabiii & Pezlo Md",
-   "artists": [
-    "Maccabiii",
-    "Pezlo MD"
-   ],
+   "artists": [],
    "venue": "Mad Radio",
    "venue_slug": "mad-radio",
    "date": "2026-11-07",
@@ -184,18 +151,13 @@
    "genres_inferred": false,
    "organizer": "Mad Radio Miami",
    "description": "",
-   "url": "https://shotgun.live/events/madradiomiami110726",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/maccabiii-pezlo-md-549877"
-   ]
+   "url": "https://shotgun.live/events/madradiomiami110726"
   },
   {
    "id": "19hz:4448052-shallocin",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Shall Ocin",
-   "artists": [
-    "Shall Ocin"
-   ],
+   "artists": [],
    "venue": "Upside",
    "venue_slug": null,
    "date": "2026-11-07",
@@ -213,19 +175,39 @@
    "genres_inferred": false,
    "organizer": "Apex, Hall",
    "description": "",
-   "url": "https://dice.fm/event/xe826k-shall-ocin-7th-nov-upside-miami-tickets",
+   "url": "https://dice.fm/event/xe826k-shall-ocin-7th-nov-upside-miami-tickets"
+  },
+  {
+   "id": "tablelist:b279d844e3619a4d",
+   "source": "19hz+tablelist",
+   "title": "CASA WHISPERS X MTRNM present dia de los muertos",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-11-07",
+   "start": "2026-11-08T02:00:00+00:00",
+   "end": "2026-11-08T07:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "$30+",
+   "genres": [
+    "afro house",
+    "house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://buy.tablelist.com/e/b279d844e3619a4d",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/shall-ocin-545706"
+    "https://dice.fm/event/l8pyyp-casa-whispers-x-mtrnm-present-dia-de-los-muertos-zey-zey-miami-7th-nov-zeyzey-miami-tickets?lng=es"
    ]
   },
   {
    "id": "19hz:4448056-apothekeopeningp",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Apotheke Opening Party Ft. Beki Powell, Rohan Alyan + More",
-   "artists": [
-    "Beki Powell",
-    "Rohan Alyan"
-   ],
+   "artists": [],
    "venue": "Apotheke",
    "venue_slug": null,
    "date": "2026-11-07",
@@ -241,10 +223,7 @@
    "genres_inferred": false,
    "organizer": "Modern Art Theory",
    "description": "",
-   "url": "https://dice.fm/event/bvlbpv-apotheke-opening-party-ft-beki-powell-rohan-alyan-more-7th-nov-apotheke-miami-beach-miami-beach-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/beki-powell-rohan-alyan-549135"
-   ]
+   "url": "https://dice.fm/event/bvlbpv-apotheke-opening-party-ft-beki-powell-rohan-alyan-more-7th-nov-apotheke-miami-beach-miami-beach-tickets"
   },
   {
    "id": "19hz:4448056-alexfarell",
@@ -270,11 +249,9 @@
   },
   {
    "id": "19hz:4448056-valentinhuedo",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Valentin Huedo",
-   "artists": [
-    "Valentin Huedo"
-   ],
+   "artists": [],
    "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
    "date": "2026-11-07",
@@ -290,10 +267,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/53k8vl-valentin-huedo-7th-nov-do-not-sit-on-the-furniture-miami-beach-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/valentin-huedo-536610"
-   ]
+   "url": "https://dice.fm/event/53k8vl-valentin-huedo-7th-nov-do-not-sit-on-the-furniture-miami-beach-tickets"
   },
   {
    "id": "19hz:4448056-shoki287",
@@ -321,13 +295,9 @@
   },
   {
    "id": "19hz:4448056-technasiakikemor",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Technasia, Kike Moreno, Nathalia Palacio, Do-Han",
-   "artists": [
-    "Technasia",
-    "Kike Moreno",
-    "Nathalia Palacio"
-   ],
+   "artists": [],
    "venue": "Edge",
    "venue_slug": null,
    "date": "2026-11-07",
@@ -344,10 +314,7 @@
    "genres_inferred": false,
    "organizer": "Pitch Park",
    "description": "",
-   "url": "https://posh.vip/e/technasia-kike-moreno-nathalia-palacio-dohan",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/technasia-kike-moreno-549366"
-   ]
+   "url": "https://posh.vip/e/technasia-kike-moreno-nathalia-palacio-dohan"
   },
   {
    "id": "19hz:4448056-djfitnessdoesntc",
@@ -372,36 +339,10 @@
    "url": "https://dice.fm/event/6ad7d9c13dafd600013f1334"
   },
   {
-   "id": "dice:6aaae261eacc0d0001e8d9e6",
-   "source": "dice",
-   "title": "WE HEART RnB",
-   "artists": [],
-   "venue": "Kemistry",
-   "venue_slug": "kemistry",
-   "date": "2026-11-07",
-   "start": "2026-11-08T03:00:00+00:00",
-   "end": "2026-11-08T09:00:00+00:00",
-   "time_estimated": false,
-   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
-   "ages": "",
-   "price": "From $29",
-   "genres": [
-    "bass",
-    "dubstep"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6aaae261eacc0d0001e8d9e6",
-   "cancelled": false
-  },
-  {
    "id": "19hz:4448056-heartajchristou",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "He(Art) - AJ Christou",
-   "artists": [
-    "AJ Christou"
-   ],
+   "artists": [],
    "venue": "Lunasol",
    "venue_slug": null,
    "date": "2026-11-07",
@@ -417,10 +358,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://posh.vip/e/heart-aj-christou",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/aj-christou-549146"
-   ]
+   "url": "https://posh.vip/e/heart-aj-christou"
   },
   {
    "id": "19hz:4448056-missmoniquefurco",
@@ -467,12 +405,9 @@
   },
   {
    "id": "19hz:4448056-jaypryornateashr",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Jay Pryor, Nate Ash, Ray Kash",
-   "artists": [
-    "Jay Pryor",
-    "Nate Ash"
-   ],
+   "artists": [],
    "venue": "Sable",
    "venue_slug": null,
    "date": "2026-11-07",
@@ -491,42 +426,29 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/532a38-jay-pryor-nate-ash-7th-nov-sable-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/jay-pryor-nate-ash-544447"
-   ]
+   "url": "https://dice.fm/event/532a38-jay-pryor-nate-ash-7th-nov-sable-miami-miami-tickets"
   },
   {
-   "id": "dice:6ac68f6c19d9030001a4695e",
-   "source": "19hz+dice+edmtrain",
+   "id": "19hz:4448059-tigadanmolinari",
+   "source": "19hz",
    "title": "Tiga + Dan Molinari",
-   "artists": [
-    "Tiga",
-    "Dan Molinari"
-   ],
-   "venue": "Club Space Miami",
+   "artists": [],
+   "venue": "Club Space",
    "venue_slug": "club-space",
    "date": "2026-11-07",
    "start": "2026-11-08T04:00:00+00:00",
    "end": "2026-11-08T17:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": "$10+",
+   "price": "$30+",
    "genres": [
-    "ghettotech",
     "tech house"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/2wnggp-tiga-dan-molinari-7th-nov-club-space-miami-miami-tickets",
-   "cancelled": false,
-   "alt_urls": [
-    "https://link.dice.fm/808lifenov",
-    "https://dice.fm/event/2wnggp-tiga-dan-molinari-7th-nov-club-space-miami-miami-tickets",
-    "https://edmtrain.com/miami-fl/tiga-dan-molinari-549512"
-   ]
+   "url": "https://dice.fm/event/2wnggp-tiga-dan-molinari-7th-nov-club-space-miami-miami-tickets"
   },
   {
    "id": "19hz:4448059-shoki286",
@@ -598,12 +520,32 @@
    "url": "https://shotgun.live/en/events/black-techo-matters"
   },
   {
-   "id": "19hz:4448062-martingarrix",
-   "source": "19hz+edmtrain",
-   "title": "Martin Garrix",
-   "artists": [
-    "Martin Garrix"
+   "id": "19hz:4448059-808lifedjassault",
+   "source": "19hz",
+   "title": "808 Life: DJ Assault + DJ Godfather",
+   "artists": [],
+   "venue": "The Ground At Club Space",
+   "venue_slug": "club-space",
+   "date": "2026-11-07",
+   "start": "2026-11-08T04:00:00+00:00",
+   "end": "2026-11-08T12:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "$10+",
+   "genres": [
+    "ghettotech"
    ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://link.dice.fm/808lifenov"
+  },
+  {
+   "id": "19hz:4448062-martingarrix",
+   "source": "19hz",
+   "title": "Martin Garrix",
+   "artists": [],
    "venue": "Fontainebleau",
    "venue_slug": null,
    "date": "2026-11-07",
@@ -619,177 +561,20 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://www.ticketweb.com/event/id/14328774",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/martin-garrix-538129"
-   ]
+   "url": "https://www.ticketweb.com/event/id/14328774"
   },
   {
-   "id": "edmtrain:549045",
-   "source": "edmtrain",
-   "title": "Modern Art Theory Takeover",
-   "artists": [],
-   "venue": "Apotheke South Beach",
-   "venue_slug": null,
-   "date": "2026-11-07",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "921 Washington Ave, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/modern-art-theory-takeover-apotheke?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/modern-art-theory-takeover-549045"
-   ]
-  },
-  {
-   "id": "edmtrain:543148",
-   "source": "edmtrain",
-   "title": "Miss Monique, Nico Moon, Polk, Fur Coat",
-   "artists": [
-    "Miss Monique",
-    "Nico Moon",
-    "Polk",
-    "Fur Coat"
-   ],
-   "venue": "M2 Nightclub",
-   "venue_slug": null,
-   "date": "2026-11-07",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "1235 Washington Ave, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "open-format"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/2wnmom?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/miss-monique-nico-moon-543148"
-   ]
-  },
-  {
-   "id": "edmtrain:549216",
-   "source": "edmtrain",
-   "title": "Novo Flow Pool Party",
-   "artists": [],
-   "venue": "Novotel Miami Brickell",
-   "venue_slug": null,
-   "date": "2026-11-07",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "1500 SW 1st Ave, Miami, FL 33129, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://posh.vip/e/area-305-halloween-pool-party-copy-copy-copy?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/novo-flow-pool-party-549216"
-   ]
-  },
-  {
-   "id": "edmtrain:550722",
-   "source": "edmtrain",
-   "title": "Ariel Assault",
-   "artists": [
-    "Ariel Assault"
-   ],
-   "venue": "Strawberry Moon",
-   "venue_slug": null,
-   "date": "2026-11-07",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "601 Washington Ave, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://app.discotech.me/events/38237595-ariel-assault-at-strawberry-moon",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/ariel-assault-550722"
-   ]
-  },
-  {
-   "id": "edmtrain:543306",
-   "source": "edmtrain",
-   "title": "MashBit, LUKO, Deelo",
-   "artists": [
-    "MashBit",
-    "LUKO",
-    "Deelo"
-   ],
-   "venue": "Treehouse Miami Beach",
-   "venue_slug": null,
-   "date": "2026-11-07",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "323 23rd St, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.etix.com/ticket/p/83745455",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/mashbit-luko-543306"
-   ]
-  },
-  {
-   "id": "edmtrain:542003",
-   "source": "edmtrain",
-   "title": "Travel Kit, PRØVOST",
-   "artists": [
-    "Travel Kit",
-    "PRØVOST"
-   ],
-   "venue": "Treehouse Miami Beach",
-   "venue_slug": null,
-   "date": "2026-11-07",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "323 23rd St, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.etix.com/ticket/p/56190249",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/travel-kit-provost-542003"
-   ]
-  },
-  {
-   "id": "dice:6adfa5c2e9571d000113a9ec",
-   "source": "19hz+dice+edmtrain",
+   "id": "19hz:4448092-racetospace",
+   "source": "19hz+edmtrain",
    "title": "Race To Space",
    "artists": [],
-   "venue": "Club Space Miami",
+   "venue": "Club Space",
    "venue_slug": "club-space",
    "date": "2026-11-08",
    "start": "2026-11-08T12:00:00+00:00",
    "end": "2026-11-08T16:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
    "price": "$40",
    "genres": [
@@ -800,9 +585,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6adfa5c2e9571d000113a9ec",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/6adfa5c2e9571d000113a9ec",
     "https://edmtrain.com/miami-fl/race-to-space-548304"
    ]
   },
@@ -919,7 +702,7 @@
    "time_estimated": false,
    "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
    "ages": "",
-   "price": "$17.03",
+   "price": "$22.70",
    "genres": [
     "metal",
     "death metal"
@@ -928,7 +711,7 @@
    "organizer": "Equinox Booking",
    "description": "Equinox Booking Presents Girl of Glass Thus Spoke Zarathustra xMerxyx Yet Still We Pray Skin The Witness $15 online / $20 door 6 pm all ages at The Boombox",
    "url": "https://shotgun.live/en/events/girl-of-glass-at-boombox-11-8",
-   "tickets": "General Admission $15",
+   "tickets": "General Admission $15 (sold out), Day of Ticket $20",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -3420,7 +3203,7 @@
    "time_estimated": false,
    "address": "353 Northeast 61st Street, Miami, FL 33137, USA",
    "ages": "",
-   "price": "$39.73",
+   "price": "$45.40",
    "genres": [
     "afro house",
     "arabic house",
@@ -3431,7 +3214,7 @@
    "organizer": "BEIRUT NIGHTS IN",
    "description": "Beirut Nights In Presents: Beirut to Miami! Immerse yourself in the diverse rhythms of Arabic, French, Latin, House, and other global genres, capturing the essence of Beirut's cosmopolitan allure right in the heart of Miami! Picture a city that has endured the tests of time, our party seeks to encapsulate its resilience and vivacity in the face against all odds. Amidst the turmoil and uncertainty of conflict, Beirutis have always found solace and strength in their vibrant nightlife, turning nights of darkness into moments of light and celebration. The cosmopolitan nature of Beirut's nightlife is a tapestry woven with the threads of diverse cultures, traditions and modern influences. It is a reflection of the city's historical role as a crossroads of civilizations, where East meets West and tradition combine seamlessly with contemporary trends. Step into Beirut's nightlife, and you'll find yourself immersed in a vibrant mosaic of sights, sounds, and experiences that celebrate the city's rich multicultural heritage. Music: Anthony Raad & Mark Azar Doors open @ 11 PM 21+ No refunds",
    "url": "https://shotgun.live/en/events/beiruttomiami1",
-   "tickets": "General Admission - Early Bird $30 (sold out), VIP Table for 6 People - $750 Minimum Spend $150, General Admission - Tier 2 $35, VIP Table for 8 People - $1000 Minimum Spend $200, VIP Table for 10 People - $1500 Minimum Spend $250",
+   "tickets": "General Admission - Early Bird $30 (sold out), VIP Table for 6 People - $750 Minimum Spend $150, General Admission - Tier 2 $35 (sold out), General Admission - Tier 3 $40, VIP Table for 8 People - $1000 Minimum Spend $200, VIP Table for 10 People - $1500 Minimum Spend $250",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",

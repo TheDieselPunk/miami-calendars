@@ -8,32 +8,44 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6ac68f6c19d9030001a4695e@club-space.miami-calendars
-DTSTAMP:20261108T101815Z
-LAST-MODIFIED:20261108T101815Z
-SEQUENCE:3
+UID:19hz-4448059-tigadanmolinari@club-space.miami-calendars
+DTSTAMP:20261108T221812Z
+LAST-MODIFIED:20261108T221812Z
+SEQUENCE:0
 DTSTART:20261108T040000Z
 DTEND:20261108T170000Z
 SUMMARY:Tiga + Dan Molinari
-LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Tiga\, Dan Molinari\nTags: ghettotech\, tech house\nAge
- s: 21+\nhttps://dice.fm/event/2wnggp-tiga-dan-molinari-7th-nov-club-space-
- miami-miami-tickets\nhttps://edmtrain.com/miami-fl/tiga-dan-molinari-54951
- 2\nhttps://link.dice.fm/808lifenov
+LOCATION:Club Space
+DESCRIPTION:Tags: tech house\nAges: 21+\nhttps://dice.fm/event/2wnggp-tiga-
+ dan-molinari-7th-nov-club-space-miami-miami-tickets
 URL:https://dice.fm/event/2wnggp-tiga-dan-molinari-7th-nov-club-space-miami
  -miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:ghettotech,tech house
+CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
-UID:dice-6adfa5c2e9571d000113a9ec@club-space.miami-calendars
-DTSTAMP:20261105T221829Z
-LAST-MODIFIED:20261105T221829Z
-SEQUENCE:2
+UID:19hz-4448059-808lifedjassault@club-space.miami-calendars
+DTSTAMP:20261108T221812Z
+LAST-MODIFIED:20261108T221812Z
+SEQUENCE:0
+DTSTART:20261108T040000Z
+DTEND:20261108T120000Z
+SUMMARY:808 Life: DJ Assault + DJ Godfather
+LOCATION:The Ground At Club Space
+DESCRIPTION:Tags: ghettotech\nAges: 21+\nhttps://link.dice.fm/808lifenov
+URL:https://link.dice.fm/808lifenov
+STATUS:CONFIRMED
+CATEGORIES:ghettotech
+END:VEVENT
+BEGIN:VEVENT
+UID:19hz-4448092-racetospace@club-space.miami-calendars
+DTSTAMP:20261108T221812Z
+LAST-MODIFIED:20261108T221812Z
+SEQUENCE:0
 DTSTART:20261108T120000Z
 DTEND:20261108T160000Z
 SUMMARY:Race To Space
-LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
+LOCATION:Club Space
 DESCRIPTION:Tags: house\, tech house\nAges: 21+\nhttps://dice.fm/event/6adf
  a5c2e9571d000113a9ec\nhttps://edmtrain.com/miami-fl/race-to-space-548304
 URL:https://dice.fm/event/6adfa5c2e9571d000113a9ec

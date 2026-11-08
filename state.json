@@ -1,13 +1,13 @@
 {
  "19hz-4448016-jeanmarie@daer.miami-calendars": {
-  "hash": "b63799c6c284a5cd",
-  "seq": 0,
-  "modified": "2026-11-08T10:18:15+00:00"
+  "hash": "7fb2fca5498d0ba7",
+  "seq": 1,
+  "modified": "2026-11-08T22:18:12+00:00"
  },
  "19hz-4448052-maccabiiipezlomd@mad-radio.miami-calendars": {
-  "hash": "afe1f24ff682fede",
-  "seq": 0,
-  "modified": "2026-11-08T10:18:15+00:00"
+  "hash": "e5474c25dab32bbd",
+  "seq": 1,
+  "modified": "2026-11-08T22:18:12+00:00"
  },
  "19hz-4448056-alexfarell@festivals.miami-calendars": {
   "hash": "22f74d8251fab0a0",
@@ -24,6 +24,11 @@
   "seq": 0,
   "modified": "2026-10-23T16:18:16+00:00"
  },
+ "19hz-4448059-808lifedjassault@club-space.miami-calendars": {
+  "hash": "5d4fc9fcd76e3d2d",
+  "seq": 0,
+  "modified": "2026-11-08T22:18:12+00:00"
+ },
  "19hz-4448059-blacktechnomatte@boombox.miami-calendars": {
   "hash": "ff2ff5c1b498e110",
   "seq": 0,
@@ -38,6 +43,16 @@
   "hash": "d0e570ccec688015",
   "seq": 0,
   "modified": "2026-11-05T22:18:29+00:00"
+ },
+ "19hz-4448059-tigadanmolinari@club-space.miami-calendars": {
+  "hash": "4473fa16afd3749c",
+  "seq": 0,
+  "modified": "2026-11-08T22:18:12+00:00"
+ },
+ "19hz-4448092-racetospace@club-space.miami-calendars": {
+  "hash": "d856152985f0cf58",
+  "seq": 0,
+  "modified": "2026-11-08T22:18:12+00:00"
  },
  "19hz-4448695-sacredmeadowsart@festivals.miami-calendars": {
   "hash": "1b0dddd103dff7b5",
@@ -190,9 +205,9 @@
   "modified": "2026-11-05T22:18:29+00:00"
  },
  "beiruttomiami1@shotgun.live": {
-  "hash": "65c9ebec99a45024",
-  "seq": 7,
-  "modified": "2026-11-01T22:17:49+00:00"
+  "hash": "bfeb75bdf720738d",
+  "seq": 8,
+  "modified": "2026-11-08T22:18:12+00:00"
  },
  "cafe-grooves-art-week@shotgun.live": {
   "hash": "bbf01bb33a85d152",
@@ -384,11 +399,6 @@
   "seq": 2,
   "modified": "2026-10-04T22:18:19+00:00"
  },
- "dice-6aaae261eacc0d0001e8d9e6@kemistry.miami-calendars": {
-  "hash": "1061a4f9dbd01442",
-  "seq": 0,
-  "modified": "2026-10-04T22:18:19+00:00"
- },
  "dice-6aaae809e78bd300017554b1@kemistry.miami-calendars": {
   "hash": "d8b246a24af1b68c",
   "seq": 0,
@@ -524,11 +534,6 @@
   "seq": 2,
   "modified": "2026-11-04T04:18:13+00:00"
  },
- "dice-6ac015bea7ef55000125063f@zeyzey.miami-calendars": {
-  "hash": "c2b782c875529384",
-  "seq": 0,
-  "modified": "2026-11-08T10:18:15+00:00"
- },
  "dice-6ac681e6ede6160001275006@club-space.miami-calendars": {
   "hash": "5e886ffd8074bbfd",
   "seq": 2,
@@ -538,11 +543,6 @@
   "hash": "ff69b0778cea4647",
   "seq": 2,
   "modified": "2026-10-17T16:18:17+00:00"
- },
- "dice-6ac68f6c19d9030001a4695e@club-space.miami-calendars": {
-  "hash": "ca53be0dc909949e",
-  "seq": 3,
-  "modified": "2026-11-08T10:18:15+00:00"
  },
  "dice-6ac69100272a2a00015116c5@club-space.miami-calendars": {
   "hash": "8c6e161a3527313c",
@@ -613,11 +613,6 @@
   "hash": "a6deb9b10d6c3cbc",
   "seq": 1,
   "modified": "2026-10-31T04:18:09+00:00"
- },
- "dice-6adfa5c2e9571d000113a9ec@club-space.miami-calendars": {
-  "hash": "81183a61d5189cd3",
-  "seq": 2,
-  "modified": "2026-11-05T22:18:29+00:00"
  },
  "dice-6ae0b22eeeeae40001c1bdce@club-space.miami-calendars": {
   "hash": "c27b61f84130b7e8",
@@ -895,9 +890,9 @@
   "modified": "2026-11-05T16:18:02+00:00"
  },
  "girl-of-glass-at-boombox-11-8@shotgun.live": {
-  "hash": "9b03b4734e200b0c",
-  "seq": 0,
-  "modified": "2026-09-21T19:13:57+00:00"
+  "hash": "5a536be99f4f3162",
+  "seq": 1,
+  "modified": "2026-11-08T22:18:12+00:00"
  },
  "guy-j-art-basel-edition-by-apex-x-the-hall@shotgun.live": {
   "hash": "df94820341ad1d55",
@@ -1303,6 +1298,16 @@
   "hash": "54838941360ac4b8",
   "seq": 0,
   "modified": "2026-11-01T10:17:57+00:00"
+ },
+ "tablelist-b21631fba42530c6@zeyzey.miami-calendars": {
+  "hash": "74f830bb05156134",
+  "seq": 0,
+  "modified": "2026-11-08T22:18:12+00:00"
+ },
+ "tablelist-b279d844e3619a4d@zeyzey.miami-calendars": {
+  "hash": "04b3d10d0d74f2f3",
+  "seq": 0,
+  "modified": "2026-11-08T22:18:12+00:00"
  },
  "tablelist-c90db8b47c62c006@zeyzey.miami-calendars": {
   "hash": "b9b61cadef0cdc3e",
