@@ -8,6 +8,21 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
+UID:she-knows-best-nov-11@shotgun.live
+DTSTAMP:20261109T221817Z
+LAST-MODIFIED:20261109T221817Z
+SEQUENCE:0
+DTSTART:20261112T020000Z
+DTEND:20261112T070000Z
+SUMMARY:She Knows Best
+LOCATION:Miami
+DESCRIPTION:Tags: house\, tech house\nhttps://shotgun.live/en/events/she-kn
+ ows-best-nov-11
+URL:https://shotgun.live/en/events/she-knows-best-nov-11
+STATUS:CONFIRMED
+CATEGORIES:house,tech house
+END:VEVENT
+BEGIN:VEVENT
 UID:undertone-3@shotgun.live
 DTSTAMP:20261107T161849Z
 LAST-MODIFIED:20261107T161849Z
@@ -21,6 +36,36 @@ DESCRIPTION:Tags: techno\nhttps://shotgun.live/en/events/undertone-3\nhttps
 URL:https://shotgun.live/en/events/undertone-3
 STATUS:CONFIRMED
 CATEGORIES:techno
+END:VEVENT
+BEGIN:VEVENT
+UID:the-angels-il-more@shotgun.live
+DTSTAMP:20261109T221817Z
+LAST-MODIFIED:20261109T221817Z
+SEQUENCE:0
+DTSTART:20261113T020000Z
+DTEND:20261113T070000Z
+SUMMARY:The Angels (Il) & More
+LOCATION:Miami
+DESCRIPTION:Tags: afro house\, tech house\, progressive house\nhttps://shot
+ gun.live/en/events/the-angels-il-more
+URL:https://shotgun.live/en/events/the-angels-il-more
+STATUS:CONFIRMED
+CATEGORIES:afro house,tech house,progressive house
+END:VEVENT
+BEGIN:VEVENT
+UID:inner-circle-by-markem@shotgun.live
+DTSTAMP:20261109T221817Z
+LAST-MODIFIED:20261109T221817Z
+SEQUENCE:0
+DTSTART:20261114T010000Z
+DTEND:20261114T090000Z
+SUMMARY:Inner Circle By Markem
+LOCATION:Miami
+DESCRIPTION:Tags: tech house\nhttps://shotgun.live/en/events/inner-circle-b
+ y-markem\nhttps://posh.vip/e/inner-circle-by-markem-2
+URL:https://shotgun.live/en/events/inner-circle-by-markem
+STATUS:CONFIRMED
+CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:the-hall-pres-roy-rosenfeld@shotgun.live
@@ -72,6 +117,21 @@ STATUS:CONFIRMED
 CATEGORIES:bass music,dubstep
 END:VEVENT
 BEGIN:VEVENT
+UID:ketzal-michel-attie-selekter@shotgun.live
+DTSTAMP:20261109T221817Z
+LAST-MODIFIED:20261109T221817Z
+SEQUENCE:0
+DTSTART:20261115T010000Z
+DTEND:20261115T060000Z
+SUMMARY:Ketzal\, Michel Attie\, Selekter
+LOCATION:Miami
+DESCRIPTION:Tags: house\, deep house\, melodic house & techno\nhttps://shot
+ gun.live/en/events/ketzal-michel-attie-selekter
+URL:https://shotgun.live/en/events/ketzal-michel-attie-selekter
+STATUS:CONFIRMED
+CATEGORIES:house,deep house,melodic house & techno
+END:VEVENT
+BEGIN:VEVENT
 UID:gala-ibiza-at-lunasol-miami@shotgun.live
 DTSTAMP:20261105T161802Z
 LAST-MODIFIED:20261105T161802Z
@@ -87,27 +147,34 @@ STATUS:CONFIRMED
 CATEGORIES:tech house,deep house,progressive house
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-551215@festivals.miami-calendars
-DTSTAMP:20261109T161813Z
-LAST-MODIFIED:20261109T161813Z
+UID:humans-alike-sundays@shotgun.live
+DTSTAMP:20261109T221817Z
+LAST-MODIFIED:20261109T221817Z
 SEQUENCE:0
-DTSTART:20261121T200000Z
-DTEND:20261122T070000Z
-SUMMARY:Grand Theft Auto VI Festival: Travis Scott\, Don Toliver\, Kodak Bl
- ack\, SoFaygo\, Cardi B\, Justice (DJ Set)\, Metro Boomin\, Nick León b2b
-  DJ Python\, Prosa b2b Skream\, Rauw Alejandro\, Suero\, Tainy\, The Dare 
- b2b Fcukers (DJ Set)\, CA7RIEL & Paco Amoroso
-LOCATION:Mana Wynwood Convention Center\, 318 NW 23rd St\, Miami\, FL 33127
- \, USA
-DESCRIPTION:Lineup: Travis Scott\, Don Toliver\, Kodak Black\, SoFaygo\, Ca
- rdi B\, Justice (DJ Set)\, Metro Boomin\, Nick León\, DJ Python\, Prosa\,
-  Skream\, Rauw Alejandro\, Suero\, Tainy\, The Dare\, Fcukers (DJ Set)\, C
- A7RIEL & Paco Amoroso\nTimes are an estimate from Festivals & one-offs's u
- sual hours - the listing has no start time yet. Check the link.\nhttps://w
- ww.rockstargames.com/VI/gtavi-thefestival\nhttps://edmtrain.com/miami-fl/g
- rand-theft-auto-vi-festival-551215
-URL:https://www.rockstargames.com/VI/gtavi-thefestival
+DTSTART:20261116T010000Z
+DTEND:20261116T060000Z
+SUMMARY:Humans Alike Sundays
+LOCATION:Miami
+DESCRIPTION:Tags: house\, tech house\nhttps://shotgun.live/en/events/humans
+ -alike-sundays
+URL:https://shotgun.live/en/events/humans-alike-sundays
 STATUS:CONFIRMED
+CATEGORIES:house,tech house
+END:VEVENT
+BEGIN:VEVENT
+UID:humans-alike-sundays-nov-22@shotgun.live
+DTSTAMP:20261109T221817Z
+LAST-MODIFIED:20261109T221817Z
+SEQUENCE:0
+DTSTART:20261123T010000Z
+DTEND:20261123T060000Z
+SUMMARY:Humans Alike Sundays
+LOCATION:Miami
+DESCRIPTION:Tags: house\, tech house\nhttps://shotgun.live/en/events/humans
+ -alike-sundays-nov-22
+URL:https://shotgun.live/en/events/humans-alike-sundays-nov-22
+STATUS:CONFIRMED
+CATEGORIES:house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ac69157ede6160001290447@festivals.miami-calendars
@@ -174,6 +241,21 @@ URL:https://www.eventbrite.com/e/urge-miami-festival-2026-festival-passes-t
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:humans-alike-sundays-nov-29@shotgun.live
+DTSTAMP:20261109T221817Z
+LAST-MODIFIED:20261109T221817Z
+SEQUENCE:0
+DTSTART:20261130T010000Z
+DTEND:20261130T060000Z
+SUMMARY:Humans Alike Sundays
+LOCATION:Miami
+DESCRIPTION:Tags: house\, tech house\nhttps://shotgun.live/en/events/humans
+ -alike-sundays-nov-29
+URL:https://shotgun.live/en/events/humans-alike-sundays-nov-29
+STATUS:CONFIRMED
+CATEGORIES:house,tech house
+END:VEVENT
+BEGIN:VEVENT
 UID:art-basel-shotgun-takeover-fooq-s-miami@shotgun.live
 DTSTAMP:20261105T221829Z
 LAST-MODIFIED:20261105T221829Z
@@ -202,6 +284,26 @@ DESCRIPTION:Tags: deep house\nhttps://shotgun.live/en/events/art-basel-airf
 URL:https://shotgun.live/en/events/art-basel-airfunk
 STATUS:CONFIRMED
 CATEGORIES:deep house
+END:VEVENT
+BEGIN:VEVENT
+UID:vice-city-world-art-basel-show-2026@shotgun.live
+DTSTAMP:20261109T221817Z
+LAST-MODIFIED:20261109T221817Z
+SEQUENCE:0
+DTSTART:20261203T220000Z
+DTEND:20261204T030000Z
+SUMMARY:Vice City World Art Basel Show 2026
+LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
+ \, USA
+DESCRIPTION:Vice City World presents our 2026 Art Basel Show. Thursday Dece
+ mber 3rd come see your favorite UG artist perform live in Miami!\nLineup: 
+ Sir Untre\, Unitus\, BabyBartier\, Dxrop\, whotfis2k\nTags: alternative\, 
+ rap\, hip hop\nPresented by: Vice City World\nTickets: General Admission $
+ 30.84\nhttps://shotgun.live/en/events/vice-city-world-art-basel-show-2026
+URL:https://shotgun.live/en/events/vice-city-world-art-basel-show-2026
+STATUS:CONFIRMED
+CATEGORIES:alternative,rap,hip hop
+GEO:25.7287781;-80.3169309
 END:VEVENT
 BEGIN:VEVENT
 UID:sangomia1205@shotgun.live
@@ -355,6 +457,21 @@ URL:https://dice.fm/partner/tickets/event/2wqeoa-unkommon-events-framework-
  present-anotr-4th-dec-watson-island-park-miami-beach-tickets
 STATUS:CONFIRMED
 CATEGORIES:tech house
+END:VEVENT
+BEGIN:VEVENT
+UID:hvmza-miami-art-week@shotgun.live
+DTSTAMP:20261109T221817Z
+LAST-MODIFIED:20261109T221817Z
+SEQUENCE:0
+DTSTART:20261205T010000Z
+DTEND:20261205T060000Z
+SUMMARY:Hvmza (Miami Art Week)
+LOCATION:Miami
+DESCRIPTION:Tags: afro house\, tech house\, house\nhttps://shotgun.live/en/
+ events/hvmza-miami-art-week
+URL:https://shotgun.live/en/events/hvmza-miami-art-week
+STATUS:CONFIRMED
+CATEGORIES:afro house,tech house,house
 END:VEVENT
 BEGIN:VEVENT
 UID:cafe-grooves-art-week@shotgun.live

@@ -450,9 +450,9 @@
   "modified": "2026-10-31T04:18:09+00:00"
  },
  "dice-6abe7eac09571500016a1283@floyd.miami-calendars": {
-  "hash": "a7677874cd560db1",
-  "seq": 1,
-  "modified": "2026-10-23T16:18:16+00:00"
+  "hash": "20f84fd16d69ff9c",
+  "seq": 2,
+  "modified": "2026-11-09T22:18:17+00:00"
  },
  "dice-6abe802c0957150001d27a61@floyd.miami-calendars": {
   "hash": "96867347bce685f7",
@@ -490,9 +490,9 @@
   "modified": "2026-10-17T16:18:17+00:00"
  },
  "dice-6ac69100272a2a00015116c5@club-space.miami-calendars": {
-  "hash": "8c6e161a3527313c",
-  "seq": 0,
-  "modified": "2026-10-07T22:18:38+00:00"
+  "hash": "a80650819253fa03",
+  "seq": 1,
+  "modified": "2026-11-09T22:18:17+00:00"
  },
  "dice-6ac69157ede6160001290447@club-space.miami-calendars": {
   "hash": "36c71195cf3a278d",
@@ -520,14 +520,14 @@
   "modified": "2026-10-13T04:18:23+00:00"
  },
  "dice-6ac7e104051f140001741eed@floyd.miami-calendars": {
-  "hash": "6dbe255e48596990",
-  "seq": 2,
-  "modified": "2026-11-03T22:18:02+00:00"
+  "hash": "e5739f8d04cedd51",
+  "seq": 3,
+  "modified": "2026-11-09T22:18:17+00:00"
  },
  "dice-6ac7e104051f140001741eed@the-ground.miami-calendars": {
-  "hash": "bfb3718497f381f0",
-  "seq": 1,
-  "modified": "2026-11-03T22:18:02+00:00"
+  "hash": "6f61aae60e13fa38",
+  "seq": 2,
+  "modified": "2026-11-09T22:18:17+00:00"
  },
  "dice-6acd12180a3d6400017d20c5@kemistry.miami-calendars": {
   "hash": "6f800312f708c277",
@@ -704,6 +704,16 @@
   "seq": 1,
   "modified": "2026-11-06T04:18:43+00:00"
  },
+ "dice-6af1e273ced8d2000112e434@the-ground.miami-calendars": {
+  "hash": "16fcd45660b4e1f5",
+  "seq": 0,
+  "modified": "2026-11-09T22:18:17+00:00"
+ },
+ "dice-6af1fa17b839de000132f36b@jolene.miami-calendars": {
+  "hash": "09c85e7f0846fb0c",
+  "seq": 0,
+  "modified": "2026-11-09T22:18:17+00:00"
+ },
  "edmtrain-458944@festivals.miami-calendars": {
   "hash": "52f5b7eb786ce532",
   "seq": 2,
@@ -814,11 +824,6 @@
   "seq": 0,
   "modified": "2026-10-30T04:18:27+00:00"
  },
- "edmtrain-551215@festivals.miami-calendars": {
-  "hash": "6bdd68b735d47a2b",
-  "seq": 0,
-  "modified": "2026-11-09T16:18:13+00:00"
- },
  "equinox-fest-4-day-2-3-november-21-22nd@shotgun.live": {
   "hash": "a6b82d159fc90bb0",
   "seq": 1,
@@ -900,9 +905,9 @@
   "modified": "2026-09-21T20:07:29+00:00"
  },
  "hardrock-206021@daer.miami-calendars": {
-  "hash": "2c67e781610ec6b1",
-  "seq": 1,
-  "modified": "2026-09-21T20:07:29+00:00"
+  "hash": "e78964e1617b86ef",
+  "seq": 2,
+  "modified": "2026-11-09T22:18:17+00:00"
  },
  "hardrock-207833@daer.miami-calendars": {
   "hash": "8c42971731de815e",
@@ -1114,10 +1119,45 @@
   "seq": 1,
   "modified": "2026-11-06T22:18:27+00:00"
  },
+ "hardrock-214220@daer.miami-calendars": {
+  "hash": "6ad6cf055996d273",
+  "seq": 0,
+  "modified": "2026-11-09T22:18:17+00:00"
+ },
+ "humans-alike-sundays-nov-22@shotgun.live": {
+  "hash": "a181bd7fa501aa2c",
+  "seq": 0,
+  "modified": "2026-11-09T22:18:17+00:00"
+ },
+ "humans-alike-sundays-nov-29@shotgun.live": {
+  "hash": "7e46077aec734f56",
+  "seq": 0,
+  "modified": "2026-11-09T22:18:17+00:00"
+ },
+ "humans-alike-sundays@shotgun.live": {
+  "hash": "11bebcdf7fdfd0da",
+  "seq": 0,
+  "modified": "2026-11-09T22:18:17+00:00"
+ },
+ "hvmza-miami-art-week@shotgun.live": {
+  "hash": "ea0774aab31f247b",
+  "seq": 0,
+  "modified": "2026-11-09T22:18:17+00:00"
+ },
  "i-liedtomyself-descry-iliad-see-you-next-ar-boombox-11-14@shotgun.live": {
   "hash": "a9ea58e92e4cfc30",
   "seq": 0,
   "modified": "2026-10-05T22:18:30+00:00"
+ },
+ "inner-circle-by-markem@shotgun.live": {
+  "hash": "24e6b32c95bf45f2",
+  "seq": 0,
+  "modified": "2026-11-09T22:18:17+00:00"
+ },
+ "ketzal-michel-attie-selekter@shotgun.live": {
+  "hash": "5506263da3a98c47",
+  "seq": 0,
+  "modified": "2026-11-09T22:18:17+00:00"
  },
  "lilith-s-demise-and-slamwich-at-the-boombox-11-15@shotgun.live": {
   "hash": "d563519bbd028c53",
@@ -1204,6 +1244,11 @@
   "seq": 2,
   "modified": "2026-10-28T22:18:06+00:00"
  },
+ "she-knows-best-nov-11@shotgun.live": {
+  "hash": "749f8b66399fe69c",
+  "seq": 0,
+  "modified": "2026-11-09T22:18:17+00:00"
+ },
  "solmates-presents-sparrow-more@shotgun.live": {
   "hash": "bb1859566f679966",
   "seq": 4,
@@ -1254,6 +1299,11 @@
   "seq": 0,
   "modified": "2026-11-01T10:17:57+00:00"
  },
+ "the-angels-il-more@shotgun.live": {
+  "hash": "53cf2282373a310c",
+  "seq": 0,
+  "modified": "2026-11-09T22:18:17+00:00"
+ },
  "the-boombox-equinox-bookings-presents-arythmia@shotgun.live": {
   "hash": "7af14fdf913838a1",
   "seq": 1,
@@ -1264,15 +1314,25 @@
   "seq": 1,
   "modified": "2026-10-15T10:18:22+00:00"
  },
+ "thunderbox-vi-x-kitchen-club@shotgun.live": {
+  "hash": "3f898afed44ec131",
+  "seq": 0,
+  "modified": "2026-11-09T22:18:17+00:00"
+ },
  "undertone-3@shotgun.live": {
   "hash": "81d1c526ddb442e7",
   "seq": 1,
   "modified": "2026-11-07T16:18:49+00:00"
  },
- "vice-city-official-pre-launch@shotgun.live": {
-  "hash": "65f7a7699cf5240d",
-  "seq": 2,
-  "modified": "2026-11-07T22:18:22+00:00"
+ "vice-city-pre-launch@shotgun.live": {
+  "hash": "915c2d5e9b40d7d4",
+  "seq": 0,
+  "modified": "2026-11-09T22:18:17+00:00"
+ },
+ "vice-city-world-art-basel-show-2026@shotgun.live": {
+  "hash": "bc1b12e04a1d6bb5",
+  "seq": 0,
+  "modified": "2026-11-09T22:18:17+00:00"
  },
  "zeyzey-a-trak-friends-04-dec@zeyzey.miami-calendars": {
   "hash": "de978b1b1b2707a1",
@@ -1343,6 +1403,11 @@
   "hash": "df0201bea2bcdf05",
   "seq": 0,
   "modified": "2026-10-21T16:18:17+00:00"
+ },
+ "zeyzey-jerro-13-feb@zeyzey.miami-calendars": {
+  "hash": "edb816b9f11b8d07",
+  "seq": 0,
+  "modified": "2026-11-09T22:18:17+00:00"
  },
  "zeyzey-john-splithoff-15-apr@zeyzey.miami-calendars": {
   "hash": "1b231502ba69a1d2",

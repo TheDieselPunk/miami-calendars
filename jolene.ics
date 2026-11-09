@@ -302,6 +302,23 @@ STATUS:CONFIRMED
 CATEGORIES:house,tech house
 END:VEVENT
 BEGIN:VEVENT
+UID:dice-6af1fa17b839de000132f36b@jolene.miami-calendars
+DTSTAMP:20261109T221817Z
+LAST-MODIFIED:20261109T221817Z
+SEQUENCE:0
+DTSTART:20261212T030000Z
+DTEND:20261212T090000Z
+SUMMARY:Archie Hamilton
+LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
+ a 33131\, United States
+DESCRIPTION:Lineup: Archie Hamilton\, Mai Iachetti\, Danyelino\nTags (guess
+ ): house\, tech house\nhttps://dice.fm/event/6af1fa17b839de000132f36b\nhtt
+ ps://edmtrain.com/miami-fl/archie-hamilton-mai-iachetti-551335
+URL:https://dice.fm/event/6af1fa17b839de000132f36b
+STATUS:CONFIRMED
+CATEGORIES:house,tech house
+END:VEVENT
+BEGIN:VEVENT
 UID:dice-6aecdfde59b33300013afd8c@jolene.miami-calendars
 DTSTAMP:20261106T041843Z
 LAST-MODIFIED:20261106T041843Z

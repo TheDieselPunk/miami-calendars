@@ -803,6 +803,20 @@ URL:https://calendar.zeyzeymiami.com/shows/jam-cruise-pre-party-03-feb
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-jerro-13-feb@zeyzey.miami-calendars
+DTSTAMP:20261109T221817Z
+LAST-MODIFIED:20261109T221817Z
+SEQUENCE:0
+DTSTART:20270214T010000Z
+DTEND:20270214T060000Z
+SUMMARY:Jerro
+LOCATION:ZeyZey Miami
+DESCRIPTION:Lineup: Jerro\nhttps://calendar.zeyzeymiami.com/shows/jerro-13-
+ feb\nhttps://edmtrain.com/miami-fl/jerro-551235
+URL:https://calendar.zeyzeymiami.com/shows/jerro-13-feb
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-the-temptations-19-feb@zeyzey.miami-calendars
 DTSTAMP:20261027T161815Z
 LAST-MODIFIED:20261027T161815Z

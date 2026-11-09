@@ -156,12 +156,12 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ac7e104051f140001741eed@the-ground.miami-calendars
-DTSTAMP:20261103T221802Z
-LAST-MODIFIED:20261103T221802Z
-SEQUENCE:1
+DTSTAMP:20261109T221817Z
+LAST-MODIFIED:20261109T221817Z
+SEQUENCE:2
 DTSTART:20261213T040000Z
 DTEND:20261213T120000Z
-SUMMARY:Sagittarius Soiree: Mareux\, Curses (live) & More
+SUMMARY:Sagittarius Soirée: Mareux\, Curses (live) & More
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
 DESCRIPTION:Tags: darkwave\, goth\, post-punk\nAges: 21+\nhttps://dice.fm/e
  vent/6ac7e104051f140001741eed\nhttps://link.dice.fm/sagsoiree
@@ -211,6 +211,21 @@ LOCATION:The Ground Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
 DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6aea03af872
  3ec00012e16cc
 URL:https://dice.fm/event/6aea03af8723ec00012e16cc
+STATUS:CONFIRMED
+CATEGORIES:house,techno
+END:VEVENT
+BEGIN:VEVENT
+UID:dice-6af1e273ced8d2000112e434@the-ground.miami-calendars
+DTSTAMP:20261109T221817Z
+LAST-MODIFIED:20261109T221817Z
+SEQUENCE:0
+DTSTART:20270307T040000Z
+DTEND:20270307T120000Z
+SUMMARY:Miss Bashful
+LOCATION:The Ground Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
+DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6af1e273ced
+ 8d2000112e434
+URL:https://dice.fm/event/6af1e273ced8d2000112e434
 STATUS:CONFIRMED
 CATEGORIES:house,techno
 END:VEVENT
