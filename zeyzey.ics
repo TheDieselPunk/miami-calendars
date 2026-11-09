@@ -8,55 +8,21 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:tablelist-b21631fba42530c6@zeyzey.miami-calendars
-DTSTAMP:20261108T221812Z
-LAST-MODIFIED:20261108T221812Z
+UID:tablelist-0ec2c4bd8130bba8@zeyzey.miami-calendars
+DTSTAMP:20261109T101812Z
+LAST-MODIFIED:20261109T101812Z
 SEQUENCE:0
-DTSTART:20261107T220000Z
-DTEND:20261108T020000Z
-SUMMARY:Dana and Alden
-LOCATION:ZeyZey Miami
-DESCRIPTION:https://buy.tablelist.com/e/b21631fba42530c6
-URL:https://buy.tablelist.com/e/b21631fba42530c6
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:tablelist-b279d844e3619a4d@zeyzey.miami-calendars
-DTSTAMP:20261108T221812Z
-LAST-MODIFIED:20261108T221812Z
-SEQUENCE:0
-DTSTART:20261108T020000Z
-DTEND:20261108T070000Z
-SUMMARY:CASA WHISPERS X MTRNM present dia de los muertos
-LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: afro house\, house\nAges: 21+\nhttps://buy.tablelist.com/
- e/b279d844e3619a4d\nhttps://dice.fm/event/l8pyyp-casa-whispers-x-mtrnm-pre
- sent-dia-de-los-muertos-zey-zey-miami-7th-nov-zeyzey-miami-tickets?lng=es
-URL:https://buy.tablelist.com/e/b279d844e3619a4d
-STATUS:CONFIRMED
-CATEGORIES:afro house,house
-END:VEVENT
-BEGIN:VEVENT
-UID:zeyzey-presents-parra-for-cuva@shotgun.live
-DTSTAMP:20261101T101757Z
-LAST-MODIFIED:20261101T101757Z
-SEQUENCE:4
 DTSTART:20261109T000000Z
 DTEND:20261109T050000Z
 SUMMARY:Parra For Cuva
-LOCATION:ZeyZey Miami\, 353 Northeast 61st Street\, Miami\, FL 33137\, USA
-DESCRIPTION:Ticket sales for this event have moved. Please visit this link 
- to get tickets: https://calendar.zeyzeymiami.com/shows/parra-for-cuva-08-n
- ov\nLineup: Parra for Cuva\nTags: deep house\, downtempo\, electronica\, m
- elodic house & techno\, tech house\nAges: 18+\nhttps://shotgun.live/en/eve
- nts/zeyzey-presents-parra-for-cuva\nhttps://buy.tablelist.com/e/0ec2c4bd81
- 30bba8\nhttps://calendar.zeyzeymiami.com/shows/parra-for-cuva-08-nov\nhttp
- s://edmtrain.com/miami-fl/parra-for-cuva-493732
-URL:https://shotgun.live/en/events/zeyzey-presents-parra-for-cuva
+LOCATION:ZeyZey Miami
+DESCRIPTION:Lineup: Parra For Cuva\nTags: downtempo\, tech house\nAges: 18+
+ \nhttps://buy.tablelist.com/e/0ec2c4bd8130bba8\nhttps://edmtrain.com/miami
+ -fl/parra-for-cuva-493732\nhttps://shotgun.live/en/events/zeyzey-presents-
+ parra-for-cuva
+URL:https://buy.tablelist.com/e/0ec2c4bd8130bba8
 STATUS:CONFIRMED
-CATEGORIES:deep house,downtempo,electronica,melodic house & techno,tech hou
- se
-GEO:25.8327924;-80.1891253
+CATEGORIES:downtempo,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:tablelist-7f6123b4f4307830@zeyzey.miami-calendars

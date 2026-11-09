@@ -8,36 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4448059-tigadanmolinari@club-space.miami-calendars
-DTSTAMP:20261108T221812Z
-LAST-MODIFIED:20261108T221812Z
-SEQUENCE:0
-DTSTART:20261108T040000Z
-DTEND:20261108T170000Z
-SUMMARY:Tiga + Dan Molinari
-LOCATION:Club Space
-DESCRIPTION:Tags: tech house\nAges: 21+\nhttps://dice.fm/event/2wnggp-tiga-
- dan-molinari-7th-nov-club-space-miami-miami-tickets
-URL:https://dice.fm/event/2wnggp-tiga-dan-molinari-7th-nov-club-space-miami
- -miami-tickets
-STATUS:CONFIRMED
-CATEGORIES:tech house
-END:VEVENT
-BEGIN:VEVENT
-UID:19hz-4448059-808lifedjassault@club-space.miami-calendars
-DTSTAMP:20261108T221812Z
-LAST-MODIFIED:20261108T221812Z
-SEQUENCE:0
-DTSTART:20261108T040000Z
-DTEND:20261108T120000Z
-SUMMARY:808 Life: DJ Assault + DJ Godfather
-LOCATION:The Ground At Club Space
-DESCRIPTION:Tags: ghettotech\nAges: 21+\nhttps://link.dice.fm/808lifenov
-URL:https://link.dice.fm/808lifenov
-STATUS:CONFIRMED
-CATEGORIES:ghettotech
-END:VEVENT
-BEGIN:VEVENT
 UID:19hz-4448092-racetospace@club-space.miami-calendars
 DTSTAMP:20261108T221812Z
 LAST-MODIFIED:20261108T221812Z

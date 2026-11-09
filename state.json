@@ -1,58 +1,13 @@
 {
- "19hz-4448016-jeanmarie@daer.miami-calendars": {
-  "hash": "7fb2fca5498d0ba7",
-  "seq": 1,
-  "modified": "2026-11-08T22:18:12+00:00"
- },
- "19hz-4448052-maccabiiipezlomd@mad-radio.miami-calendars": {
-  "hash": "e5474c25dab32bbd",
-  "seq": 1,
-  "modified": "2026-11-08T22:18:12+00:00"
- },
- "19hz-4448056-alexfarell@festivals.miami-calendars": {
-  "hash": "22f74d8251fab0a0",
-  "seq": 1,
-  "modified": "2026-11-05T04:18:25+00:00"
- },
- "19hz-4448056-djfitnessdoesntc@jolene.miami-calendars": {
-  "hash": "f104cbe6bcc58793",
-  "seq": 0,
-  "modified": "2026-11-08T10:18:15+00:00"
- },
- "19hz-4448056-shoki287@domicile.miami-calendars": {
-  "hash": "a7e6da00c4f5df12",
-  "seq": 0,
-  "modified": "2026-10-23T16:18:16+00:00"
- },
- "19hz-4448059-808lifedjassault@club-space.miami-calendars": {
-  "hash": "5d4fc9fcd76e3d2d",
-  "seq": 0,
-  "modified": "2026-11-08T22:18:12+00:00"
- },
- "19hz-4448059-blacktechnomatte@boombox.miami-calendars": {
-  "hash": "ff2ff5c1b498e110",
-  "seq": 0,
-  "modified": "2026-11-08T10:18:15+00:00"
- },
- "19hz-4448059-escaperoom1yeara@floyd.miami-calendars": {
-  "hash": "5c5e3ad30dd33e58",
-  "seq": 0,
-  "modified": "2026-11-08T10:18:15+00:00"
- },
- "19hz-4448059-shoki286@domicile.miami-calendars": {
-  "hash": "d0e570ccec688015",
-  "seq": 0,
-  "modified": "2026-11-05T22:18:29+00:00"
- },
- "19hz-4448059-tigadanmolinari@club-space.miami-calendars": {
-  "hash": "4473fa16afd3749c",
-  "seq": 0,
-  "modified": "2026-11-08T22:18:12+00:00"
- },
  "19hz-4448092-racetospace@club-space.miami-calendars": {
   "hash": "d856152985f0cf58",
   "seq": 0,
   "modified": "2026-11-08T22:18:12+00:00"
+ },
+ "19hz-4448155-roujeeetunesalln@floyd.miami-calendars": {
+  "hash": "1dff5607e9fbfa33",
+  "seq": 0,
+  "modified": "2026-11-09T10:18:12+00:00"
  },
  "19hz-4448695-sacredmeadowsart@festivals.miami-calendars": {
   "hash": "1b0dddd103dff7b5",
@@ -213,11 +168,6 @@
   "hash": "bbf01bb33a85d152",
   "seq": 1,
   "modified": "2026-10-20T04:18:27+00:00"
- },
- "churchill-s-pub-november-8th@shotgun.live": {
-  "hash": "8789d2f71555c07d",
-  "seq": 1,
-  "modified": "2026-11-02T04:18:00+00:00"
  },
  "clay-birds-at-the-boombox-11-24@shotgun.live": {
   "hash": "f94ab6ac139c5ff7",
@@ -493,11 +443,6 @@
   "hash": "86f8de9906c9d600",
   "seq": 0,
   "modified": "2026-11-07T16:18:49+00:00"
- },
- "dice-6abe7cb502ef7e0001ff0371@floyd.miami-calendars": {
-  "hash": "b1610b2463ab6c79",
-  "seq": 2,
-  "modified": "2026-11-04T04:18:13+00:00"
  },
  "dice-6abe7d4787e1d10001e5ab10@floyd.miami-calendars": {
   "hash": "f8badcdb605c664d",
@@ -889,20 +834,10 @@
   "seq": 0,
   "modified": "2026-11-05T16:18:02+00:00"
  },
- "girl-of-glass-at-boombox-11-8@shotgun.live": {
-  "hash": "3b81f1442a6c108e",
-  "seq": 2,
-  "modified": "2026-11-09T04:18:13+00:00"
- },
  "guy-j-art-basel-edition-by-apex-x-the-hall@shotgun.live": {
   "hash": "df94820341ad1d55",
   "seq": 0,
   "modified": "2026-09-21T21:40:09+00:00"
- },
- "hardrock-205532@daer.miami-calendars": {
-  "hash": "cdf09ad58c9267f2",
-  "seq": 2,
-  "modified": "2026-11-04T22:18:36+00:00"
  },
  "hardrock-205535@daer.miami-calendars": {
   "hash": "520551a5ab759f11",
@@ -1274,6 +1209,11 @@
   "seq": 0,
   "modified": "2026-11-01T10:17:57+00:00"
  },
+ "tablelist-0ec2c4bd8130bba8@zeyzey.miami-calendars": {
+  "hash": "c33b450baebb0ac6",
+  "seq": 0,
+  "modified": "2026-11-09T10:18:12+00:00"
+ },
  "tablelist-1a812eb5de36eab4@zeyzey.miami-calendars": {
   "hash": "5ad61de88567af07",
   "seq": 0,
@@ -1298,16 +1238,6 @@
   "hash": "54838941360ac4b8",
   "seq": 0,
   "modified": "2026-11-01T10:17:57+00:00"
- },
- "tablelist-b21631fba42530c6@zeyzey.miami-calendars": {
-  "hash": "74f830bb05156134",
-  "seq": 0,
-  "modified": "2026-11-08T22:18:12+00:00"
- },
- "tablelist-b279d844e3619a4d@zeyzey.miami-calendars": {
-  "hash": "04b3d10d0d74f2f3",
-  "seq": 0,
-  "modified": "2026-11-08T22:18:12+00:00"
  },
  "tablelist-c90db8b47c62c006@zeyzey.miami-calendars": {
   "hash": "b9b61cadef0cdc3e",
@@ -1458,11 +1388,6 @@
   "hash": "a23f202cf5255747",
   "seq": 1,
   "modified": "2026-10-28T10:18:12+00:00"
- },
- "zeyzey-presents-parra-for-cuva@shotgun.live": {
-  "hash": "8eb23cec9e102537",
-  "seq": 4,
-  "modified": "2026-11-01T10:17:57+00:00"
  },
  "zeyzey-puzzle-31-jan@zeyzey.miami-calendars": {
   "hash": "d9f8031decbf378c",
