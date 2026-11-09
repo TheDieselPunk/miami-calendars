@@ -611,8 +611,8 @@
    "generic_title": false
   },
   {
-   "id": "shotgun:disco-domingo-vol-6",
-   "source": "19hz+edmtrain+shotgun",
+   "id": "19hz:4448119-discodomingovol6",
+   "source": "19hz+edmtrain",
    "title": "Disco Domingo Vol. 6 Feat. Toribio",
    "artists": [
     "Toribio"
@@ -625,11 +625,8 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$35.00",
+   "price": "$25-35",
    "genres": [
-    "disco",
-    "funk",
-    "soul",
     "tech house"
    ],
    "genres_inferred": false,
@@ -637,7 +634,6 @@
    "description": "",
    "url": "https://shotgun.live/en/events/disco-domingo-vol-6",
    "alt_urls": [
-    "https://shotgun.live/en/events/disco-domingo-vol-6",
     "https://edmtrain.com/miami-fl/toribio-542100"
    ]
   },
@@ -702,7 +698,7 @@
    "time_estimated": false,
    "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
    "ages": "",
-   "price": "$22.70",
+   "price": "",
    "genres": [
     "metal",
     "death metal"
@@ -711,7 +707,7 @@
    "organizer": "Equinox Booking",
    "description": "Equinox Booking Presents Girl of Glass Thus Spoke Zarathustra xMerxyx Yet Still We Pray Skin The Witness $15 online / $20 door 6 pm all ages at The Boombox",
    "url": "https://shotgun.live/en/events/girl-of-glass-at-boombox-11-8",
-   "tickets": "General Admission $15 (sold out), Day of Ticket $20",
+   "tickets": "General Admission $15, Day of Ticket $20",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -1909,7 +1905,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $56",
+   "price": "From $50",
    "genres": [
     "eurobeat",
     "hard techno",
@@ -5036,8 +5032,8 @@
   },
   {
    "id": "shotgun:vice-rave-car-meetup",
-   "source": "edmtrain+shotgun",
-   "title": "Vice Rave & Car Meetup",
+   "source": "shotgun",
+   "title": "Vice City Rave: 305 Edition",
    "artists": [],
    "venue": "Tenth Level Tavern",
    "venue_slug": null,
@@ -5050,16 +5046,13 @@
    "price": "Free",
    "genres": [
     "drum & bass",
-    "miami bass",
-    "reggaeton"
+    "reggaeton",
+    "miami bass"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/vice-rave-car-meetup",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/vice-rave-and-car-meetup-551055"
-   ]
+   "url": "https://shotgun.live/en/events/vice-rave-car-meetup"
   },
   {
    "id": "hardrock:206019",
@@ -5430,6 +5423,29 @@
    "url": "https://posh.vip/e/joezi-selva?t=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/joezi-548871"
+   ]
+  },
+  {
+   "id": "edmtrain:551055",
+   "source": "edmtrain",
+   "title": "Vice Rave & Car Meetup",
+   "artists": [],
+   "venue": "Tenth Level Tavern",
+   "venue_slug": null,
+   "date": "2026-11-21",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1242 NE 38th St, Oakland Park, FL 33334, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/vice-rave-car-meetup?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/vice-rave-and-car-meetup-551055"
    ]
   },
   {
@@ -10449,6 +10465,26 @@
     "https://dice.fm/event/6ab446f49e8bcf0001f96b29",
     "https://edmtrain.com/miami-fl/francis-mercier-539605"
    ]
+  },
+  {
+   "id": "shotgun:playlist-rewindd-disney-nickelodeon-throwback-miami",
+   "source": "shotgun",
+   "title": "Playlist Rewindd: Disney + Nickelodeon Throwback (Miami)",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-12-05",
+   "start": "2026-12-06T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.35",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/playlist-rewindd-disney-nickelodeon-throwback-miami"
   },
   {
    "id": "edmtrain:548595",
