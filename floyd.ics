@@ -9,16 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4448155-roujeeetunesalln@floyd.miami-calendars
-DTSTAMP:20261109T101812Z
-LAST-MODIFIED:20261109T101812Z
-SEQUENCE:0
+DTSTAMP:20261109T161813Z
+LAST-MODIFIED:20261109T161813Z
+SEQUENCE:1
 DTSTART:20261109T040000Z
 DTEND:20261109T100000Z
 SUMMARY:Roujeee Tunes All Night Long
 LOCATION:Floyd
-DESCRIPTION:Lineup: Roujeee Tunes\, Thunderpony\nTags: funky house\, tech h
- ouse\nAges: 21+\nhttps://link.dice.fm/roujeeefloyd\nhttps://edmtrain.com/m
- iami-fl/roujeee-tunes-thunderpony-549828
+DESCRIPTION:Tags: funky house\, tech house\nAges: 21+\nhttps://link.dice.fm
+ /roujeeefloyd
 URL:https://link.dice.fm/roujeeefloyd
 STATUS:CONFIRMED
 CATEGORIES:funky house,tech house

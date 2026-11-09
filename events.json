@@ -2,7 +2,7 @@
  "events": [
   {
    "id": "19hz:4448092-racetospace",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Race To Space",
    "artists": [],
    "venue": "Club Space",
@@ -21,18 +21,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6adfa5c2e9571d000113a9ec",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/race-to-space-548304"
-   ]
+   "url": "https://dice.fm/event/6adfa5c2e9571d000113a9ec"
   },
   {
    "id": "19hz:4448119-discodomingovol6",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Disco Domingo Vol. 6 Feat. Toribio",
-   "artists": [
-    "Toribio"
-   ],
+   "artists": [],
    "venue": "River House Wine & Bar",
    "venue_slug": null,
    "date": "2026-11-08",
@@ -48,18 +43,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/disco-domingo-vol-6",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/toribio-542100"
-   ]
+   "url": "https://shotgun.live/en/events/disco-domingo-vol-6"
   },
   {
    "id": "19hz:4448124-sundanceocula",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Sundance: Ocula",
-   "artists": [
-    "OCULA"
-   ],
+   "artists": [],
    "venue": "Upside",
    "venue_slug": null,
    "date": "2026-11-08",
@@ -73,10 +63,7 @@
    "genres_inferred": false,
    "organizer": "Apex",
    "description": "",
-   "url": "https://dice.fm/event/av8kmd-sundance-ocula-8th-nov-upside-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/ocula-548035"
-   ]
+   "url": "https://dice.fm/event/av8kmd-sundance-ocula-8th-nov-upside-miami-tickets"
   },
   {
    "id": "19hz:4448131-chillinngrillinm",
@@ -103,11 +90,9 @@
   },
   {
    "id": "tablelist:0ec2c4bd8130bba8",
-   "source": "19hz+edmtrain+tablelist",
+   "source": "19hz+tablelist",
    "title": "Parra For Cuva",
-   "artists": [
-    "Parra For Cuva"
-   ],
+   "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-11-08",
@@ -126,22 +111,14 @@
    "description": "",
    "url": "https://buy.tablelist.com/e/0ec2c4bd8130bba8",
    "alt_urls": [
-    "https://shotgun.live/en/events/zeyzey-presents-parra-for-cuva",
-    "https://edmtrain.com/miami-fl/parra-for-cuva-493732"
+    "https://shotgun.live/en/events/zeyzey-presents-parra-for-cuva"
    ]
   },
   {
    "id": "19hz:4448143-amiritmorecordss",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "A Mi Ritmo Records Showcase: Nicole Fiallo, Hickey, Izzy, Leyva, GAGH, Lazaro Casanova",
-   "artists": [
-    "Hickey",
-    "Izzy",
-    "Leyva",
-    "Nicole Fiallo",
-    "Lazaro Casanova",
-    "GAGH"
-   ],
+   "artists": [],
    "venue": "1-800-Lucky",
    "venue_slug": null,
    "date": "2026-11-08",
@@ -157,18 +134,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/nvrkr8-a-mi-ritmo-records-showcase-8th-nov-1-800-lucky-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/a-mi-ritmo-records-showcase-hickey-545964"
-   ]
+   "url": "https://dice.fm/event/nvrkr8-a-mi-ritmo-records-showcase-8th-nov-1-800-lucky-miami-tickets"
   },
   {
    "id": "19hz:4448143-chizzle",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Chizzle",
-   "artists": [
-    "Chizzle"
-   ],
+   "artists": [],
    "venue": "E11even",
    "venue_slug": null,
    "date": "2026-11-08",
@@ -187,10 +159,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://speakeasygo.com/event/EVE-XZPXEC",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/chizzle-535421"
-   ]
+   "url": "https://speakeasygo.com/event/EVE-XZPXEC"
   },
   {
    "id": "19hz:4448152-cesarmerveilleba",
@@ -214,12 +183,9 @@
   },
   {
    "id": "19hz:4448155-roujeeetunesalln",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Roujeee Tunes All Night Long",
-   "artists": [
-    "Roujeee Tunes",
-    "Thunderpony"
-   ],
+   "artists": [],
    "venue": "Floyd",
    "venue_slug": "floyd",
    "date": "2026-11-08",
@@ -236,62 +202,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://link.dice.fm/roujeeefloyd",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/roujeee-tunes-thunderpony-549828"
-   ]
-  },
-  {
-   "id": "edmtrain:550538",
-   "source": "edmtrain",
-   "title": "Valentin Huedo",
-   "artists": [
-    "Valentin Huedo"
-   ],
-   "venue": "Do Not Sit On The Furniture",
-   "venue_slug": null,
-   "date": "2026-11-08",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "423 16th St, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "deep house"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/53k8vl?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/valentin-huedo-550538"
-   ]
-  },
-  {
-   "id": "edmtrain:549833",
-   "source": "edmtrain",
-   "title": "Binh",
-   "artists": [
-    "Binh"
-   ],
-   "venue": "Fooq's",
-   "venue_slug": null,
-   "date": "2026-11-08",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "150 NW 73rd St, Miami, FL 33150, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/ok2y8r?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/binh-549833"
-   ]
+   "url": "https://link.dice.fm/roujeeefloyd"
   },
   {
    "id": "edmtrain:550891",
@@ -4143,6 +4054,47 @@
    "created": "2026-10-19T15:50:33.000Z"
   },
   {
+   "id": "edmtrain:551215",
+   "source": "edmtrain",
+   "title": "Grand Theft Auto VI Festival: Travis Scott, Don Toliver, Kodak Black, SoFaygo, Cardi B, Justice (DJ Set), Metro Boomin, Nick León b2b DJ Python, Prosa b2b Skream, Rauw Alejandro, Suero, Tainy, The Dare b2b Fcukers (DJ Set), CA7RIEL & Paco Amoroso",
+   "artists": [
+    "Travis Scott",
+    "Don Toliver",
+    "Kodak Black",
+    "SoFaygo",
+    "Cardi B",
+    "Justice (DJ Set)",
+    "Metro Boomin",
+    "Nick León",
+    "DJ Python",
+    "Prosa",
+    "Skream",
+    "Rauw Alejandro",
+    "Suero",
+    "Tainy",
+    "The Dare",
+    "Fcukers (DJ Set)",
+    "CA7RIEL & Paco Amoroso"
+   ],
+   "venue": "Mana Wynwood Convention Center",
+   "venue_slug": "festivals",
+   "date": "2026-11-21",
+   "start": "2026-11-21T20:00:00+00:00",
+   "end": "2026-11-22T07:00:00+00:00",
+   "time_estimated": true,
+   "address": "318 NW 23rd St, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.rockstargames.com/VI/gtavi-thefestival",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/grand-theft-auto-vi-festival-551215"
+   ]
+  },
+  {
    "id": "19hz:4449376-klingande",
    "source": "19hz+edmtrain",
    "title": "Klingande",
@@ -7903,6 +7855,29 @@
    "also": [
     "festivals"
    ]
+  },
+  {
+   "id": "shotgun:manifest-miami-art-week",
+   "source": "shotgun",
+   "title": "Manifest By Amal Nemer (Miami Art Week)",
+   "artists": [],
+   "venue": "EDGE MIAMI",
+   "venue_slug": null,
+   "date": "2026-12-03",
+   "start": "2026-12-04T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$20.00",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/manifest-miami-art-week"
   },
   {
    "id": "dice:6ac6b8aa8532130001c3c2df",

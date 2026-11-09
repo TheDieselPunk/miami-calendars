@@ -87,6 +87,29 @@ STATUS:CONFIRMED
 CATEGORIES:tech house,deep house,progressive house
 END:VEVENT
 BEGIN:VEVENT
+UID:edmtrain-551215@festivals.miami-calendars
+DTSTAMP:20261109T161813Z
+LAST-MODIFIED:20261109T161813Z
+SEQUENCE:0
+DTSTART:20261121T200000Z
+DTEND:20261122T070000Z
+SUMMARY:Grand Theft Auto VI Festival: Travis Scott\, Don Toliver\, Kodak Bl
+ ack\, SoFaygo\, Cardi B\, Justice (DJ Set)\, Metro Boomin\, Nick León b2b
+  DJ Python\, Prosa b2b Skream\, Rauw Alejandro\, Suero\, Tainy\, The Dare 
+ b2b Fcukers (DJ Set)\, CA7RIEL & Paco Amoroso
+LOCATION:Mana Wynwood Convention Center\, 318 NW 23rd St\, Miami\, FL 33127
+ \, USA
+DESCRIPTION:Lineup: Travis Scott\, Don Toliver\, Kodak Black\, SoFaygo\, Ca
+ rdi B\, Justice (DJ Set)\, Metro Boomin\, Nick León\, DJ Python\, Prosa\,
+  Skream\, Rauw Alejandro\, Suero\, Tainy\, The Dare\, Fcukers (DJ Set)\, C
+ A7RIEL & Paco Amoroso\nTimes are an estimate from Festivals & one-offs's u
+ sual hours - the listing has no start time yet. Check the link.\nhttps://w
+ ww.rockstargames.com/VI/gtavi-thefestival\nhttps://edmtrain.com/miami-fl/g
+ rand-theft-auto-vi-festival-551215
+URL:https://www.rockstargames.com/VI/gtavi-thefestival
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:dice-6ac69157ede6160001290447@festivals.miami-calendars
 DTSTAMP:20261104T221836Z
 LAST-MODIFIED:20261104T221836Z

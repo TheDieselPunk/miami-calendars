@@ -319,10 +319,6 @@
   "url": "https://speakeasygo.com/event/EVE-5NRMXW?t=edmtrain",
   "checked": "2026-11-03"
  },
- "549833": {
-  "url": "https://dice.fm/event/ok2y8r?pid=d6342b83",
-  "checked": "2026-11-03"
- },
  "549889": {
   "url": "https://posh.vip/e/jazz-in-the-jungle-brenda-navarrete-with-vinyl-selectors-angelica-rose-and-oro-11?t=edmtrain",
   "checked": "2026-11-04"
@@ -405,10 +401,6 @@
  },
  "550510": {
   "url": "https://shotgun.live/events/gala-ibiza-at-lunasol-miami?utm_source=edmtrain",
-  "checked": "2026-11-05"
- },
- "550538": {
-  "url": "https://dice.fm/event/53k8vl?pid=d6342b83",
   "checked": "2026-11-05"
  },
  "550542": {
@@ -506,5 +498,9 @@
  "551083": {
   "url": "https://www.eventbrite.com/e/2004431131472?aff=ebdimtedmtrain",
   "checked": "2026-11-07"
+ },
+ "551215": {
+  "url": "https://www.rockstargames.com/VI/gtavi-thefestival",
+  "checked": "2026-11-09"
  }
 }
