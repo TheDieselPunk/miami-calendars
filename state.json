@@ -734,6 +734,11 @@
   "seq": 0,
   "modified": "2026-11-09T22:18:17+00:00"
  },
+ "dice-6af34d6308291100017f7af4@floyd.miami-calendars": {
+  "hash": "31a5d14d75b42e19",
+  "seq": 0,
+  "modified": "2026-11-10T22:18:24+00:00"
+ },
  "edmtrain-458944@festivals.miami-calendars": {
   "hash": "52f5b7eb786ce532",
   "seq": 2,
@@ -854,10 +859,20 @@
   "seq": 3,
   "modified": "2026-10-31T04:18:09+00:00"
  },
+ "february-your-arms-are-my-cocoon-sadnees-at-boombox-12-12@shotgun.live": {
+  "hash": "8e41d6a74b2d3de4",
+  "seq": 0,
+  "modified": "2026-11-10T22:18:24+00:00"
+ },
  "flowers-for-persephone-told-not-to-worry-at-boombox-11-19@shotgun.live": {
   "hash": "82f301ab36c78436",
   "seq": 0,
   "modified": "2026-10-14T04:18:26+00:00"
+ },
+ "friday-the-13-th-indie-night-at-boombox-11-13@shotgun.live": {
+  "hash": "76a24e94497c0519",
+  "seq": 0,
+  "modified": "2026-11-10T22:18:24+00:00"
  },
  "gala-ibiza-at-lunasol-miami@shotgun.live": {
   "hash": "326425e89af6815e",
@@ -1144,6 +1159,86 @@
   "seq": 0,
   "modified": "2026-11-09T22:18:17+00:00"
  },
+ "hardrock-214371@daer.miami-calendars": {
+  "hash": "afaf8b4ea7a27948",
+  "seq": 0,
+  "modified": "2026-11-10T22:18:24+00:00"
+ },
+ "hardrock-214373@daer.miami-calendars": {
+  "hash": "ae8e4e697ae606e1",
+  "seq": 0,
+  "modified": "2026-11-10T22:18:24+00:00"
+ },
+ "hardrock-214374@daer.miami-calendars": {
+  "hash": "15864effbc4d992b",
+  "seq": 0,
+  "modified": "2026-11-10T22:18:24+00:00"
+ },
+ "hardrock-214375@daer.miami-calendars": {
+  "hash": "3114d7b82d17c254",
+  "seq": 0,
+  "modified": "2026-11-10T22:18:24+00:00"
+ },
+ "hardrock-214376@daer.miami-calendars": {
+  "hash": "731091adfa9d21ad",
+  "seq": 0,
+  "modified": "2026-11-10T22:18:24+00:00"
+ },
+ "hardrock-214378@daer.miami-calendars": {
+  "hash": "5d2d5c98897f964a",
+  "seq": 0,
+  "modified": "2026-11-10T22:18:24+00:00"
+ },
+ "hardrock-214379@daer.miami-calendars": {
+  "hash": "190fe8462dfda707",
+  "seq": 0,
+  "modified": "2026-11-10T22:18:24+00:00"
+ },
+ "hardrock-214380@daer.miami-calendars": {
+  "hash": "47dbba9369c244d6",
+  "seq": 0,
+  "modified": "2026-11-10T22:18:24+00:00"
+ },
+ "hardrock-214381@daer.miami-calendars": {
+  "hash": "a442d2a4dd744c71",
+  "seq": 0,
+  "modified": "2026-11-10T22:18:24+00:00"
+ },
+ "hardrock-214382@daer.miami-calendars": {
+  "hash": "821e1f6e3124fc86",
+  "seq": 0,
+  "modified": "2026-11-10T22:18:24+00:00"
+ },
+ "hardrock-214383@daer.miami-calendars": {
+  "hash": "6e8b307f336127db",
+  "seq": 0,
+  "modified": "2026-11-10T22:18:24+00:00"
+ },
+ "hardrock-214384@daer.miami-calendars": {
+  "hash": "63e8861ac962ab26",
+  "seq": 0,
+  "modified": "2026-11-10T22:18:24+00:00"
+ },
+ "hardrock-214385@daer.miami-calendars": {
+  "hash": "4125dc1b8469538d",
+  "seq": 0,
+  "modified": "2026-11-10T22:18:24+00:00"
+ },
+ "hardrock-214386@daer.miami-calendars": {
+  "hash": "8c851c159765de72",
+  "seq": 0,
+  "modified": "2026-11-10T22:18:24+00:00"
+ },
+ "hardrock-214387@daer.miami-calendars": {
+  "hash": "8e93f4b6ec0ed1a7",
+  "seq": 0,
+  "modified": "2026-11-10T22:18:24+00:00"
+ },
+ "hardrock-214388@daer.miami-calendars": {
+  "hash": "35ab306ee37befa8",
+  "seq": 0,
+  "modified": "2026-11-10T22:18:24+00:00"
+ },
  "humans-alike-sundays-nov-29@shotgun.live": {
   "hash": "36a22eb4988010bf",
   "seq": 1,
@@ -1315,9 +1410,9 @@
   "modified": "2026-11-09T22:18:17+00:00"
  },
  "vice-city-world-art-basel-show-2026@shotgun.live": {
-  "hash": "54eb613b577e2523",
-  "seq": 1,
-  "modified": "2026-11-10T04:18:23+00:00"
+  "hash": "0b3c4d39f9204d4f",
+  "seq": 2,
+  "modified": "2026-11-10T22:18:24+00:00"
  },
  "zeyzey-a-trak-friends-04-dec@zeyzey.miami-calendars": {
   "hash": "de978b1b1b2707a1",
@@ -1328,6 +1423,11 @@
   "hash": "93a3ae585748f79f",
   "seq": 0,
   "modified": "2026-10-19T16:18:24+00:00"
+ },
+ "zeyzey-alkaloides-free-entry-28-jan@zeyzey.miami-calendars": {
+  "hash": "9a90f5f831e5d6e0",
+  "seq": 0,
+  "modified": "2026-11-10T22:18:24+00:00"
  },
  "zeyzey-ax-and-the-hatchetmen-the-late-checkout-tour-2026-13-dec@zeyzey.miami-calendars": {
   "hash": "7942101eb42b1d85",

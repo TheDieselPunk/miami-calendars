@@ -8,6 +8,24 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
+UID:friday-the-13-th-indie-night-at-boombox-11-13@shotgun.live
+DTSTAMP:20261110T221824Z
+LAST-MODIFIED:20261110T221824Z
+SEQUENCE:0
+DTSTART:20261113T230000Z
+DTEND:20261114T030000Z
+SUMMARY:Friday The 13th Indie Night At Boombox 11/13
+LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
+ \, USA
+DESCRIPTION:Equinox Booking Noforms Toby Rush Four Eyes Thread $13 adv/$15 
+ day of\nPresented by: Equinox Booking\nTickets: General Admission $15\nhtt
+ ps://shotgun.live/en/events/friday-the-13-th-indie-night-at-boombox-11-13
+URL:https://shotgun.live/en/events/friday-the-13-th-indie-night-at-boombox-
+ 11-13
+STATUS:CONFIRMED
+GEO:25.7287781;-80.3169309
+END:VEVENT
+BEGIN:VEVENT
 UID:thunderbox-vi-x-kitchen-club@shotgun.live
 DTSTAMP:20261109T221817Z
 LAST-MODIFIED:20261109T221817Z
@@ -145,9 +163,9 @@ GEO:25.7287781;-80.3169309
 END:VEVENT
 BEGIN:VEVENT
 UID:vice-city-world-art-basel-show-2026@shotgun.live
-DTSTAMP:20261110T041823Z
-LAST-MODIFIED:20261110T041823Z
-SEQUENCE:1
+DTSTAMP:20261110T221824Z
+LAST-MODIFIED:20261110T221824Z
+SEQUENCE:2
 DTSTART:20261203T220000Z
 DTEND:20261204T030000Z
 SUMMARY:Vice City World Art Basel Show 2026
@@ -158,10 +176,11 @@ DESCRIPTION:18+ Event. PROMO CODE “777” $5 OFF The underground takes ov
  s Baby Bartier\, Percaso\, Holottacheese\, Siruntre\, Dxrop\, Whotfis2k\, 
  and more underground rap artists to the stage for our 2026 Art Basel showc
  ase. Come catch the artists you’ve had on repeat and leave with a new fa
- vorite. Grab your tickets now and we’ll see you in the crowd!\nLineup: S
- ir Untre\, Unitus\, BabyBartier\, Dxrop\, whotfis2k\nTags: alternative\, r
- ap\, hip hop\nPresented by: Vice City World\nTickets: General Admission $3
- 0.84\nhttps://shotgun.live/en/events/vice-city-world-art-basel-show-2026
+ vorite. Grab your tickets now and we’ll see you in the crowd!\nLineup: B
+ abyBartier\, Percaso\, holottacheese\, Sir Untre\, Unitus\, Dxrop\, whotfi
+ s2k\nTags: alternative\, rap\, hip hop\nPresented by: Vice City World\nTic
+ kets: General Admission $30.84\nhttps://shotgun.live/en/events/vice-city-w
+ orld-art-basel-show-2026
 URL:https://shotgun.live/en/events/vice-city-world-art-basel-show-2026
 STATUS:CONFIRMED
 CATEGORIES:alternative,rap,hip hop
@@ -183,6 +202,25 @@ DESCRIPTION:Equinox Booking Presents Lorrane Wazoo Icarus Kissed The Sun Da
  ttps://shotgun.live/en/events/lorraine-wazoo-and-more-the-boombox-12-8\nht
  tps://edmtrain.com/miami-fl/lorraine-wazoo-551062
 URL:https://shotgun.live/en/events/lorraine-wazoo-and-more-the-boombox-12-8
+STATUS:CONFIRMED
+GEO:25.7287781;-80.3169309
+END:VEVENT
+BEGIN:VEVENT
+UID:february-your-arms-are-my-cocoon-sadnees-at-boombox-12-12@shotgun.live
+DTSTAMP:20261110T221824Z
+LAST-MODIFIED:20261110T221824Z
+SEQUENCE:0
+DTSTART:20261212T230000Z
+DTEND:20261213T040000Z
+SUMMARY:Febuary\, Your Arms Are My Cocoon\, Sadnees\, At Boombox 12/12
+LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
+ \, USA
+DESCRIPTION:Equinox Booking Presents February Your Arms Are My Cocoon Sadne
+ ss Abriction Leaving $18 adv / $20 day of 6 pm all ages\nPresented by: Equ
+ inox Booking\nTickets: General Admission $18\nhttps://shotgun.live/en/even
+ ts/february-your-arms-are-my-cocoon-sadnees-at-boombox-12-12
+URL:https://shotgun.live/en/events/february-your-arms-are-my-cocoon-sadnees
+ -at-boombox-12-12
 STATUS:CONFIRMED
 GEO:25.7287781;-80.3169309
 END:VEVENT

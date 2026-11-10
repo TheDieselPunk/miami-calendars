@@ -780,6 +780,21 @@ STATUS:CONFIRMED
 CATEGORIES:punk
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-alkaloides-free-entry-28-jan@zeyzey.miami-calendars
+DTSTAMP:20261110T221824Z
+LAST-MODIFIED:20261110T221824Z
+SEQUENCE:0
+DTSTART:20270129T000000Z
+DTEND:20270129T060000Z
+SUMMARY:Alkaloides (Free Entry)
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: indie/alternative\nhttps://calendar.zeyzeymiami.com/shows
+ /alkaloides-free-entry-28-jan
+URL:https://calendar.zeyzeymiami.com/shows/alkaloides-free-entry-28-jan
+STATUS:CONFIRMED
+CATEGORIES:indie/alternative
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-puzzle-31-jan@zeyzey.miami-calendars
 DTSTAMP:20261020T221822Z
 LAST-MODIFIED:20261020T221822Z
