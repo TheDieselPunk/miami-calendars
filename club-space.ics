@@ -8,21 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4448092-racetospace@club-space.miami-calendars
-DTSTAMP:20261109T161813Z
-LAST-MODIFIED:20261109T161813Z
-SEQUENCE:1
-DTSTART:20261108T120000Z
-DTEND:20261108T160000Z
-SUMMARY:Race To Space
-LOCATION:Club Space
-DESCRIPTION:Tags: house\, tech house\nAges: 21+\nhttps://dice.fm/event/6adf
- a5c2e9571d000113a9ec
-URL:https://dice.fm/event/6adfa5c2e9571d000113a9ec
-STATUS:CONFIRMED
-CATEGORIES:house,tech house
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6ac681e6ede6160001275006@club-space.miami-calendars
 DTSTAMP:20261017T161817Z
 LAST-MODIFIED:20261017T161817Z
@@ -271,16 +256,16 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aea1dc47426be0001570e63@club-space.miami-calendars
-DTSTAMP:20261104T041813Z
-LAST-MODIFIED:20261104T041813Z
-SEQUENCE:1
+DTSTAMP:20261110T101817Z
+LAST-MODIFIED:20261110T101817Z
+SEQUENCE:2
 DTSTART:20261213T040000Z
 DTEND:20261213T170000Z
 SUMMARY:Max Styler + Emanuel Satie
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Max Styler\, Emanuel Satie\nTags (guess): house\, techn
- o\nhttps://dice.fm/event/6aea1dc47426be0001570e63\nhttps://edmtrain.com/mi
- ami-fl/max-styler-emanuel-satie-549793
+DESCRIPTION:Lineup: Max Styler\, Emanuel Satie\, Danyelino\, Tiffy Vera\nTa
+ gs (guess): house\, techno\nhttps://dice.fm/event/6aea1dc47426be0001570e63
+ \nhttps://edmtrain.com/miami-fl/max-styler-emanuel-satie-549793
 URL:https://dice.fm/event/6aea1dc47426be0001570e63
 STATUS:CONFIRMED
 CATEGORIES:house,techno

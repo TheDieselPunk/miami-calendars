@@ -8,22 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:tablelist-0ec2c4bd8130bba8@zeyzey.miami-calendars
-DTSTAMP:20261109T161813Z
-LAST-MODIFIED:20261109T161813Z
-SEQUENCE:1
-DTSTART:20261109T000000Z
-DTEND:20261109T050000Z
-SUMMARY:Parra For Cuva
-LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: downtempo\, tech house\nAges: 18+\nhttps://buy.tablelist.
- com/e/0ec2c4bd8130bba8\nhttps://shotgun.live/en/events/zeyzey-presents-par
- ra-for-cuva
-URL:https://buy.tablelist.com/e/0ec2c4bd8130bba8
-STATUS:CONFIRMED
-CATEGORIES:downtempo,tech house
-END:VEVENT
-BEGIN:VEVENT
 UID:tablelist-7f6123b4f4307830@zeyzey.miami-calendars
 DTSTAMP:20261101T101757Z
 LAST-MODIFIED:20261101T101757Z
