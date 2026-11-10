@@ -90,9 +90,9 @@ CATEGORIES:deep house,house,progressive house,r&b/soul
 END:VEVENT
 BEGIN:VEVENT
 UID:beiruttomiami1@shotgun.live
-DTSTAMP:20261108T221812Z
-LAST-MODIFIED:20261108T221812Z
-SEQUENCE:8
+DTSTAMP:20261110T041823Z
+LAST-MODIFIED:20261110T041823Z
+SEQUENCE:9
 DTSTART:20261115T040000Z
 DTEND:20261115T080000Z
 SUMMARY:Beirut Nights In Presents: Beirut To Miami
@@ -113,15 +113,16 @@ DESCRIPTION:Beirut Nights In Presents: Beirut to Miami! Immerse yourself in
  of sights\, sounds\, and experiences that celebrate the city's rich multic
  ultural heritage. Music: Anthony Raad & Mark Azar Doors open @ 11 PM 21+ N
  o refunds\nTags: afro house\, arabic house\, arabic pop\, indie/alternativ
- e\nPresented by: BEIRUT NIGHTS IN\nTickets: General Admission - Early Bird
-  $30 (sold out)\, VIP Table for 6 People - $750 Minimum Spend $150\, Gener
+ e\nPresented by: BEIRUT NIGHTS IN\nTickets: VIP Table for 6 People - $750 
+ Minimum Spend Free\, General Admission - Early Bird $30 (sold out)\, Gener
  al Admission - Tier 2 $35 (sold out)\, General Admission - Tier 3 $40\, VI
- P Table for 8 People - $1000 Minimum Spend $200\, VIP Table for 10 People 
- - $1500 Minimum Spend $250\nhttps://shotgun.live/en/events/beiruttomiami1
- \nhttps://buy.tablelist.com/e/3f6b13fd54147268\nhttps://buy.tablelist.com/
- e/685c26ba1136eddc\nhttps://calendar.zeyzeymiami.com/shows/beirut-nights-i
- n-14-nov\nhttps://calendar.zeyzeymiami.com/shows/dj-paypal-14-nov\nhttps:/
- /calendar.zeyzeymiami.com/shows/tul8te-world-tour-14-nov
+ P Table for 8 People - $1000 Minimum Spend $200 (sold out)\, VIP Table for
+  8 People - $1000 Minimum Spend Free\, VIP Table for 10 People - $1500 Min
+ imum Spend Free\nhttps://shotgun.live/en/events/beiruttomiami1\nhttps://bu
+ y.tablelist.com/e/3f6b13fd54147268\nhttps://buy.tablelist.com/e/685c26ba11
+ 36eddc\nhttps://calendar.zeyzeymiami.com/shows/beirut-nights-in-14-nov\nht
+ tps://calendar.zeyzeymiami.com/shows/dj-paypal-14-nov\nhttps://calendar.ze
+ yzeymiami.com/shows/tul8te-world-tour-14-nov
 URL:https://shotgun.live/en/events/beiruttomiami1
 STATUS:CONFIRMED
 CATEGORIES:afro house,arabic house,arabic pop,indie/alternative
@@ -405,20 +406,21 @@ END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-through-the-wall-afters-with-rochelle-jordan-live-special-guests
  -03-dec@zeyzey.miami-calendars
-DTSTAMP:20261104T161802Z
-LAST-MODIFIED:20261104T161802Z
-SEQUENCE:1
+DTSTAMP:20261110T041823Z
+LAST-MODIFIED:20261110T041823Z
+SEQUENCE:2
 DTSTART:20261204T010000Z
 DTEND:20261204T060000Z
 SUMMARY:Beatport Live: Rochelle Jordan (LIVE)\, salute\, Todd Edwards\, Her
  cule & Love Affair (DJ)\, CHRYSALIS
 LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: r&b/soul\nhttps://calendar.zeyzeymiami.com/shows/through-
- the-wall-afters-with-rochelle-jordan-live-special-guests-03-dec
+DESCRIPTION:Tags: house\, r&b/soul\nAges: 18+\nhttps://calendar.zeyzeymiami
+ .com/shows/through-the-wall-afters-with-rochelle-jordan-live-special-guest
+ s-03-dec\nhttps://ra.co/events/2570591
 URL:https://calendar.zeyzeymiami.com/shows/through-the-wall-afters-with-roc
  helle-jordan-live-special-guests-03-dec
 STATUS:CONFIRMED
-CATEGORIES:r&b/soul
+CATEGORIES:house,r&b/soul
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-carla-s-home-a-listening-experience-by-carla-03-dec@zeyzey.miami
@@ -438,19 +440,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-pnk-basel-04-dec@zeyzey.miami-calendars
-DTSTAMP:20261028T101812Z
-LAST-MODIFIED:20261028T101812Z
-SEQUENCE:1
+DTSTAMP:20261110T041823Z
+LAST-MODIFIED:20261110T041823Z
+SEQUENCE:2
 DTSTART:20261204T200000Z
 DTEND:20261205T080000Z
 SUMMARY:PNK Basel
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: SLAMM\, Mishell\, Aka Vinnie\nTags: dance/electronic\nh
- ttps://calendar.zeyzeymiami.com/shows/pnk-basel-04-dec\nhttps://edmtrain.c
- om/miami-fl/pnk-records-pnk-basel-slamm-548216
+DESCRIPTION:Lineup: SLAMM\, Mishell\, Aka Vinnie\nTags: minimal\, tech hous
+ e\nAges: 21+\nhttps://calendar.zeyzeymiami.com/shows/pnk-basel-04-dec\nhtt
+ ps://edmtrain.com/miami-fl/pnk-records-pnk-basel-slamm-548216\nhttps://pos
+ h.vip/e/pnk-records-presentspnk-art-week
 URL:https://calendar.zeyzeymiami.com/shows/pnk-basel-04-dec
 STATUS:CONFIRMED
-CATEGORIES:dance/electronic
+CATEGORIES:minimal,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-a-trak-friends-04-dec@zeyzey.miami-calendars
@@ -500,19 +503,20 @@ CATEGORIES:future beats,hip-hop,world club
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-sam-gellaitry-darius-05-dec@zeyzey.miami-calendars
-DTSTAMP:20261028T101812Z
-LAST-MODIFIED:20261028T101812Z
-SEQUENCE:1
+DTSTAMP:20261110T041823Z
+LAST-MODIFIED:20261110T041823Z
+SEQUENCE:2
 DTSTART:20261206T010000Z
 DTEND:20261206T060000Z
 SUMMARY:Sam Gellaitry + Darius
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: Sam Gellaitry\, Darius\nTags: dance/electronic\nhttps:/
- /calendar.zeyzeymiami.com/shows/sam-gellaitry-darius-05-dec\nhttps://edmtr
- ain.com/miami-fl/sam-gellaitry-darius-547645
+DESCRIPTION:Lineup: Sam Gellaitry\, Darius\nTags: disco\, future beats\, ho
+ use\, r&b\nAges: 21+\nhttps://calendar.zeyzeymiami.com/shows/sam-gellaitry
+ -darius-05-dec\nhttps://edmtrain.com/miami-fl/sam-gellaitry-darius-547645
+ \nhttps://ra.co/events/2570637
 URL:https://calendar.zeyzeymiami.com/shows/sam-gellaitry-darius-05-dec
 STATUS:CONFIRMED
-CATEGORIES:dance/electronic
+CATEGORIES:disco,future beats,house,r&b
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-shintaro-sakamoto-06-dec@zeyzey.miami-calendars

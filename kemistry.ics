@@ -226,20 +226,21 @@ CATEGORIES:bass music,dubstep
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ae2d8728294f200017be159@kemistry.miami-calendars
-DTSTAMP:20261030T041827Z
-LAST-MODIFIED:20261030T041827Z
-SEQUENCE:1
+DTSTAMP:20261110T041823Z
+LAST-MODIFIED:20261110T041823Z
+SEQUENCE:2
 DTSTART:20270101T020000Z
 DTEND:20270101T090000Z
 SUMMARY:REACT NYE 2027: MORSE X CODE
 LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
  312\, United States
-DESCRIPTION:Lineup: Morse X Code\nTags (guess): bass\, dubstep\nhttps://dic
- e.fm/event/6ae2d8728294f200017be159\nhttps://edmtrain.com/fort-lauderdale-
- fl/morse-x-code-548828
-URL:https://dice.fm/event/6ae2d8728294f200017be159
+DESCRIPTION:Lineup: Morse X Code\nTags: hard techno\nAges: 18+\nhttps://dic
+ e.fm/event/2ollv6-react-nye-2027-morse-x-code-31st-dec-kemistry-fort-laude
+ rdale-tickets\nhttps://edmtrain.com/fort-lauderdale-fl/morse-x-code-548828
+URL:https://dice.fm/event/2ollv6-react-nye-2027-morse-x-code-31st-dec-kemis
+ try-fort-lauderdale-tickets
 STATUS:CONFIRMED
-CATEGORIES:bass,dubstep
+CATEGORIES:hard techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a17a579b4fd860001a0bd2e@kemistry.miami-calendars
@@ -314,19 +315,20 @@ CATEGORIES:hard dance,hard house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ada0ef330a6130001bb2b30@kemistry.miami-calendars
-DTSTAMP:20261108T041822Z
-LAST-MODIFIED:20261108T041822Z
-SEQUENCE:0
+DTSTAMP:20261110T041823Z
+LAST-MODIFIED:20261110T041823Z
+SEQUENCE:1
 DTSTART:20270206T030000Z
 DTEND:20270206T090000Z
 SUMMARY:TYNAN
 LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
  312\, United States
-DESCRIPTION:Lineup: TYNAN\nTags (guess): bass\, dubstep\nhttps://dice.fm/ev
- ent/6ada0ef330a6130001bb2b30\nhttps://edmtrain.com/fort-lauderdale-fl/tyna
- n-548369
-URL:https://dice.fm/event/6ada0ef330a6130001bb2b30
+DESCRIPTION:Lineup: TYNAN\nTags: dubstep\nAges: 18+\nhttps://dice.fm/event/
+ eo98bw-tynan-5th-feb-kemistry-fort-lauderdale-tickets\nhttps://edmtrain.co
+ m/fort-lauderdale-fl/tynan-548369
+URL:https://dice.fm/event/eo98bw-tynan-5th-feb-kemistry-fort-lauderdale-tic
+ kets
 STATUS:CONFIRMED
-CATEGORIES:bass,dubstep
+CATEGORIES:dubstep
 END:VEVENT
 END:VCALENDAR

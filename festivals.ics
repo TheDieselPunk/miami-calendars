@@ -9,15 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:she-knows-best-nov-11@shotgun.live
-DTSTAMP:20261109T221817Z
-LAST-MODIFIED:20261109T221817Z
-SEQUENCE:0
+DTSTAMP:20261110T041823Z
+LAST-MODIFIED:20261110T041823Z
+SEQUENCE:1
 DTSTART:20261112T020000Z
 DTEND:20261112T070000Z
 SUMMARY:She Knows Best
 LOCATION:Miami
 DESCRIPTION:Tags: house\, tech house\nhttps://shotgun.live/en/events/she-kn
- ows-best-nov-11
+ ows-best-nov-11\nhttps://edmtrain.com/miami-fl/she-knows-best-551436
 URL:https://shotgun.live/en/events/she-knows-best-nov-11
 STATUS:CONFIRMED
 CATEGORIES:house,tech house
@@ -118,18 +118,19 @@ CATEGORIES:bass music,dubstep
 END:VEVENT
 BEGIN:VEVENT
 UID:ketzal-michel-attie-selekter@shotgun.live
-DTSTAMP:20261109T221817Z
-LAST-MODIFIED:20261109T221817Z
-SEQUENCE:0
+DTSTAMP:20261110T041823Z
+LAST-MODIFIED:20261110T041823Z
+SEQUENCE:1
 DTSTART:20261115T010000Z
 DTEND:20261115T060000Z
 SUMMARY:Ketzal\, Michel Attie\, Selekter
 LOCATION:Miami
-DESCRIPTION:Tags: house\, deep house\, melodic house & techno\nhttps://shot
- gun.live/en/events/ketzal-michel-attie-selekter
+DESCRIPTION:Lineup: Ketzal\, MICHEL ATTIE\, Selekter\nTags: deep house\, ho
+ use\, melodic house & techno\nhttps://shotgun.live/en/events/ketzal-michel
+ -attie-selekter\nhttps://edmtrain.com/miami-fl/ketzal-michel-attie-551438
 URL:https://shotgun.live/en/events/ketzal-michel-attie-selekter
 STATUS:CONFIRMED
-CATEGORIES:house,deep house,melodic house & techno
+CATEGORIES:deep house,house,melodic house & techno
 END:VEVENT
 BEGIN:VEVENT
 UID:gala-ibiza-at-lunasol-miami@shotgun.live
@@ -148,30 +149,50 @@ CATEGORIES:tech house,deep house,progressive house
 END:VEVENT
 BEGIN:VEVENT
 UID:humans-alike-sundays@shotgun.live
-DTSTAMP:20261109T221817Z
-LAST-MODIFIED:20261109T221817Z
-SEQUENCE:0
+DTSTAMP:20261110T041823Z
+LAST-MODIFIED:20261110T041823Z
+SEQUENCE:1
 DTSTART:20261116T010000Z
 DTEND:20261116T060000Z
 SUMMARY:Humans Alike Sundays
 LOCATION:Miami
 DESCRIPTION:Tags: house\, tech house\nhttps://shotgun.live/en/events/humans
- -alike-sundays
+ -alike-sundays\nhttps://edmtrain.com/miami-fl/humans-alike-sundays-551439
 URL:https://shotgun.live/en/events/humans-alike-sundays
 STATUS:CONFIRMED
 CATEGORIES:house,tech house
 END:VEVENT
 BEGIN:VEVENT
-UID:humans-alike-sundays-nov-22@shotgun.live
-DTSTAMP:20261109T221817Z
-LAST-MODIFIED:20261109T221817Z
+UID:19hz-4449396-blackroom3yearan@festivals.miami-calendars
+DTSTAMP:20261110T041823Z
+LAST-MODIFIED:20261110T041823Z
 SEQUENCE:0
+DTSTART:20261122T020000Z
+DTEND:20261122T080000Z
+SUMMARY:Black Room 3 Year Anniversary Fest: Frederic.\, Arweenn\, Flash Gea
+ \, Domnrob\, Franky De Rey\, Kujo\, Rara\, Spice Crime B2B Violeta\, V1Fro
+ \, Cultus Vis B2B Dadrev\, Federico Barga\, Felizeta B2B Fiuza\, Icky B2B 
+ Kryz\, In6Stinct\, Yari\, V.Seven B2B Proletar\, Ziur\, Doffy\, Ez Miel\, 
+ Nishikigoi\, Tektroidgrl\, Aneurysm\, Derek Darko
+LOCATION:Casa Nube Wynwood
+DESCRIPTION:Tags: hard techno\, schranz\nPresented by: Black Room\nAges: 18
+ +\nhttps://ra.co/events/2572799
+URL:https://ra.co/events/2572799
+STATUS:CONFIRMED
+CATEGORIES:hard techno,schranz
+END:VEVENT
+BEGIN:VEVENT
+UID:humans-alike-sundays-nov-22@shotgun.live
+DTSTAMP:20261110T041823Z
+LAST-MODIFIED:20261110T041823Z
+SEQUENCE:1
 DTSTART:20261123T010000Z
 DTEND:20261123T060000Z
 SUMMARY:Humans Alike Sundays
 LOCATION:Miami
 DESCRIPTION:Tags: house\, tech house\nhttps://shotgun.live/en/events/humans
- -alike-sundays-nov-22
+ -alike-sundays-nov-22\nhttps://edmtrain.com/miami-fl/humans-alike-sundays-
+ 551442
 URL:https://shotgun.live/en/events/humans-alike-sundays-nov-22
 STATUS:CONFIRMED
 CATEGORIES:house,tech house
@@ -211,19 +232,22 @@ URL:https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzA0OD
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:19hz-4449769-tudobem@festivals.miami-calendars
-DTSTAMP:20261017T161817Z
-LAST-MODIFIED:20261017T161817Z
+UID:19hz-4449769-tudobemkarandjcr@festivals.miami-calendars
+DTSTAMP:20261110T041823Z
+LAST-MODIFIED:20261110T041823Z
 SEQUENCE:0
 DTSTART:20261125T233000Z
-DTEND:20261126T023000Z
-SUMMARY:Tudo Bem
+DTEND:20261126T030000Z
+SUMMARY:Tudo Bem: Karan!\, DJ Craze\, Lamebot\, Jean Sean
 LOCATION:Miami Beach Bandshell\, Miami Beach
-DESCRIPTION:Ages: All ages\nhttps://wl.eventim.us/event/tudo-bem/704815?aff
- lky=MiamiBeachBandshell&nts_trk=32183de8-fffa-4854-baad-2f579c89644f
+DESCRIPTION:Tags: baile funk\, club\, miami bass\nPresented by: PeoplePlace
+ sThingsMiami & The Rhythm Foundation\nAges: All ages\nhttps://wl.eventim.u
+ s/event/tudo-bem/704815?afflky=MiamiBeachBandshell&nts_trk=32183de8-fffa-4
+ 854-baad-2f579c89644f
 URL:https://wl.eventim.us/event/tudo-bem/704815?afflky=MiamiBeachBandshell&
  nts_trk=32183de8-fffa-4854-baad-2f579c89644f
 STATUS:CONFIRMED
+CATEGORIES:baile funk,club,miami bass
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4449940-urgemiamifestiva@festivals.miami-calendars
@@ -242,15 +266,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:humans-alike-sundays-nov-29@shotgun.live
-DTSTAMP:20261109T221817Z
-LAST-MODIFIED:20261109T221817Z
-SEQUENCE:0
+DTSTAMP:20261110T041823Z
+LAST-MODIFIED:20261110T041823Z
+SEQUENCE:1
 DTSTART:20261130T010000Z
 DTEND:20261130T060000Z
 SUMMARY:Humans Alike Sundays
 LOCATION:Miami
 DESCRIPTION:Tags: house\, tech house\nhttps://shotgun.live/en/events/humans
- -alike-sundays-nov-29
+ -alike-sundays-nov-29\nhttps://edmtrain.com/miami-fl/humans-alike-sundays-
+ 551445
 URL:https://shotgun.live/en/events/humans-alike-sundays-nov-29
 STATUS:CONFIRMED
 CATEGORIES:house,tech house
@@ -271,6 +296,42 @@ STATUS:CONFIRMED
 CATEGORIES:electronica,house,deep house
 END:VEVENT
 BEGIN:VEVENT
+UID:edmtrain-551477@festivals.miami-calendars
+DTSTAMP:20261110T041823Z
+LAST-MODIFIED:20261110T041823Z
+SEQUENCE:0
+DTSTART:20261203T200000Z
+DTEND:20261204T070000Z
+SUMMARY:III Points Basel Pass: Michael Bibi\, Four Tet\, Ben Sterling\, Kin
+ Ahau\, Silvie Loto\, Natalia Roth\, Kaytranada\, Yung Lean\, Arca\, Shygir
+ l\, B0YG1RL\, LATIN MAFIA
+LOCATION:Hialeah Park Casino\, 2200 E 4th Ave\, Hialeah\, FL 33013\, USA
+DESCRIPTION:Lineup: Michael Bibi\, Four Tet\, Ben Sterling\, KinAhau\, Silv
+ ie Loto\, Natalia Roth\, Kaytranada\, Yung Lean\, Arca\, Shygirl\, B0YG1RL
+ \, LATIN MAFIA\nTimes are an estimate from Festivals & one-offs's usual ho
+ urs - the listing has no start time yet. Check the link.\nhttps://dice.fm/
+ event/783no6?pid=d6342b83\nhttps://edmtrain.com/miami-fl/iii-points-basel-
+ pass-michael-bibi-551477
+URL:https://dice.fm/event/783no6?pid=d6342b83
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:edmtrain-551432@festivals.miami-calendars
+DTSTAMP:20261110T041823Z
+LAST-MODIFIED:20261110T041823Z
+SEQUENCE:0
+DTSTART:20261203T200000Z
+DTEND:20261204T070000Z
+SUMMARY:Dialed Records Art Basel: Alci\, Anthea\, Priku\, Josh Lee
+LOCATION:Sable Miami\, 2219 NW 2nd Ave\, Miami\, FL 33127\, USA
+DESCRIPTION:Lineup: Alci\, Anthea\, Priku\, Josh Lee\nTimes are an estimate
+  from Festivals & one-offs's usual hours - the listing has no start time y
+ et. Check the link.\nhttps://notapromoter.com/discover/x1fAERcOUtILOpMgFhp
+ G\nhttps://edmtrain.com/miami-fl/dialed-records-art-basel-alci-551432
+URL:https://notapromoter.com/discover/x1fAERcOUtILOpMgFhpG
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:art-basel-airfunk@shotgun.live
 DTSTAMP:20261031T041809Z
 LAST-MODIFIED:20261031T041809Z
@@ -287,19 +348,23 @@ CATEGORIES:deep house
 END:VEVENT
 BEGIN:VEVENT
 UID:vice-city-world-art-basel-show-2026@shotgun.live
-DTSTAMP:20261109T221817Z
-LAST-MODIFIED:20261109T221817Z
-SEQUENCE:0
+DTSTAMP:20261110T041823Z
+LAST-MODIFIED:20261110T041823Z
+SEQUENCE:1
 DTSTART:20261203T220000Z
 DTEND:20261204T030000Z
 SUMMARY:Vice City World Art Basel Show 2026
 LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
  \, USA
-DESCRIPTION:Vice City World presents our 2026 Art Basel Show. Thursday Dece
- mber 3rd come see your favorite UG artist perform live in Miami!\nLineup: 
- Sir Untre\, Unitus\, BabyBartier\, Dxrop\, whotfis2k\nTags: alternative\, 
- rap\, hip hop\nPresented by: Vice City World\nTickets: General Admission $
- 30.84\nhttps://shotgun.live/en/events/vice-city-world-art-basel-show-2026
+DESCRIPTION:18+ Event. PROMO CODE “777” $5 OFF The underground takes ov
+ er Miami for Art Basel week! Thursday\, December 3\, Vice City World bring
+ s Baby Bartier\, Percaso\, Holottacheese\, Siruntre\, Dxrop\, Whotfis2k\, 
+ and more underground rap artists to the stage for our 2026 Art Basel showc
+ ase. Come catch the artists you’ve had on repeat and leave with a new fa
+ vorite. Grab your tickets now and we’ll see you in the crowd!\nLineup: S
+ ir Untre\, Unitus\, BabyBartier\, Dxrop\, whotfis2k\nTags: alternative\, r
+ ap\, hip hop\nPresented by: Vice City World\nTickets: General Admission $3
+ 0.84\nhttps://shotgun.live/en/events/vice-city-world-art-basel-show-2026
 URL:https://shotgun.live/en/events/vice-city-world-art-basel-show-2026
 STATUS:CONFIRMED
 CATEGORIES:alternative,rap,hip hop
@@ -540,6 +605,23 @@ URL:https://dice.fm/event/pywx7k-framework-unkommon-events-present-adriatiq
  ue-b2b-cloonee-5th-dec-watson-island-park-miami-beach-tickets
 STATUS:CONFIRMED
 CATEGORIES:progressive house,tech house
+END:VEVENT
+BEGIN:VEVENT
+UID:19hz-4450723-adamportopenair@festivals.miami-calendars
+DTSTAMP:20261110T041823Z
+LAST-MODIFIED:20261110T041823Z
+SEQUENCE:0
+DTSTART:20261205T220000Z
+DTEND:20261206T050000Z
+SUMMARY:Adam Port - Open Air
+LOCATION:73 West Flagler Street
+DESCRIPTION:Lineup: Adam Port\nTags: tech house\nAges: 18+\nhttps://dice.fm
+ /event/2wnav6-club-space-presents-adam-port-open-air-5th-dec-73-west-flagl
+ er-street-miami-tickets\nhttps://edmtrain.com/miami-fl/adam-port-548680
+URL:https://dice.fm/event/2wnav6-club-space-presents-adam-port-open-air-5th
+ -dec-73-west-flagler-street-miami-tickets
+STATUS:CONFIRMED
+CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4450723-michaelbibi@festivals.miami-calendars

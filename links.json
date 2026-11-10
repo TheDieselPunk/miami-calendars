@@ -203,69 +203,9 @@
   "url": "https://www.etix.com/ticket/p/37313747",
   "checked": "2026-10-27"
  },
- "548237": {
-  "url": "https://dice.fm/event/8ed7lv?pid=d6342b83",
-  "checked": "2026-10-28"
- },
- "548509": {
-  "url": "https://www.eventbrite.com/e/2001645634977?aff=ebdimtedmtrain",
-  "checked": "2026-10-28"
- },
- "548528": {
-  "url": "https://dice.fm/event/k672eo?pid=d6342b83",
-  "checked": "2026-10-28"
- },
- "548595": {
-  "url": "https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzA5NjY1Ojc=/clickthru",
-  "checked": "2026-10-28"
- },
- "548680": {
-  "url": "https://dice.fm/event/2wnav6?pid=d6342b83",
-  "checked": "2026-10-30"
- },
- "548791": {
-  "url": "https://dice.fm/event/oemm8g?pid=d6342b83",
-  "checked": "2026-10-30"
- },
- "548792": {
-  "url": "https://dice.fm/event/av88xq?pid=d6342b83",
-  "checked": "2026-10-30"
- },
- "548793": {
-  "url": "https://dice.fm/event/bbqq9o?pid=d6342b83",
-  "checked": "2026-10-30"
- },
- "548794": {
-  "url": "https://dice.fm/event/l8pp7x?pid=d6342b83",
-  "checked": "2026-10-30"
- },
- "548795": {
-  "url": "https://dice.fm/event/l8pp7p?pid=d6342b83",
-  "checked": "2026-10-30"
- },
- "548796": {
-  "url": "https://dice.fm/event/pyxx3l?pid=d6342b83",
-  "checked": "2026-10-30"
- },
  "548797": {
   "url": "https://dice.fm/event/wwnnkx?pid=d6342b83",
   "checked": "2026-10-30"
- },
- "548810": {
-  "url": "https://dice.fm/event/7833ov?pid=d6342b83",
-  "checked": "2026-10-30"
- },
- "548871": {
-  "url": "https://posh.vip/e/joezi-selva?t=edmtrain",
-  "checked": "2026-10-30"
- },
- "549071": {
-  "url": "https://shotgun.live/events/lunasol-pres-tortuga?utm_source=edmtrain",
-  "checked": "2026-10-30"
- },
- "549110": {
-  "url": "https://dice.fm/event/lqa83w?pid=d6342b83",
-  "checked": "2026-10-31"
  },
  "549114": {
   "url": "https://www.etix.com/ticket/p/85800734",
@@ -291,10 +231,6 @@
   "url": "https://posh.vip/e/inner-circle-by-markem-2?t=edmtrain",
   "checked": "2026-11-09"
  },
- "549537": {
-  "url": "https://dice.fm/event/nylv89?pid=d6342b83",
-  "checked": "2026-11-02"
- },
  "549546": {
   "url": "https://www.etix.com/ticket/p/87133765",
   "checked": "2026-11-02"
@@ -305,10 +241,6 @@
  },
  "549776": {
   "url": "https://posh.vip/e/el-house-astra?t=edmtrain",
-  "checked": "2026-11-03"
- },
- "549813": {
-  "url": "https://dice.fm/event/aab6pd?pid=d6342b83",
   "checked": "2026-11-03"
  },
  "549814": {
@@ -505,6 +437,30 @@
  },
  "551355": {
   "url": "https://dice.fm/event/w83ybx?pid=d6342b83",
+  "checked": "2026-11-09"
+ },
+ "551432": {
+  "url": "https://notapromoter.com/discover/x1fAERcOUtILOpMgFhpG",
+  "checked": "2026-11-09"
+ },
+ "551437": {
+  "url": "https://shotgun.live/events/the-angels-il-more?utm_source=edmtrain",
+  "checked": "2026-11-09"
+ },
+ "551441": {
+  "url": "https://shotgun.live/events/la-santa-by-mantra?utm_source=edmtrain",
+  "checked": "2026-11-09"
+ },
+ "551477": {
+  "url": "https://dice.fm/event/783no6?pid=d6342b83",
+  "checked": "2026-11-09"
+ },
+ "551489": {
+  "url": "https://dice.fm/event/bvlw8k?pid=d6342b83",
+  "checked": "2026-11-09"
+ },
+ "551510": {
+  "url": "https://dice.fm/event/g7oyrp?pid=d6342b83",
   "checked": "2026-11-09"
  }
 }

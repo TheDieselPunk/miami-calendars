@@ -73,15 +73,15 @@ CATEGORIES:bass house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ac69100272a2a00015116c5@club-space.miami-calendars
-DTSTAMP:20261109T221817Z
-LAST-MODIFIED:20261109T221817Z
-SEQUENCE:1
+DTSTAMP:20261110T041823Z
+LAST-MODIFIED:20261110T041823Z
+SEQUENCE:2
 DTSTART:20261122T040000Z
 DTEND:20261123T010000Z
 SUMMARY:The Vault Presents TBA
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
 DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6ac69100272
- a2a00015116c5
+ a2a00015116c5\nhttps://edmtrain.com/miami-fl/the-vault-presents-551457
 URL:https://dice.fm/event/6ac69100272a2a00015116c5
 STATUS:CONFIRMED
 CATEGORIES:house,techno
@@ -319,17 +319,17 @@ CATEGORIES:tech house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aea21817426be0001f0121d@club-space.miami-calendars
-DTSTAMP:20261104T041813Z
-LAST-MODIFIED:20261104T041813Z
-SEQUENCE:1
+DTSTAMP:20261110T041823Z
+LAST-MODIFIED:20261110T041823Z
+SEQUENCE:2
 DTSTART:20261227T040000Z
 DTEND:20261227T200000Z
 SUMMARY:WHYNOTUS
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
 DESCRIPTION:Lineup: Nic Fanciulli\, Malóne Morez\, Calussa\, Tony Guerra\n
- Tags (guess): house\, techno\nhttps://dice.fm/event/6aea21817426be0001f012
- 1d\nhttps://edmtrain.com/miami-fl/whynotus-nic-fanciulli-549796
-URL:https://dice.fm/event/6aea21817426be0001f0121d
+ Tags: house\, techno\nAges: 21+\nhttps://dice.fm/event/6ae3a8f91f749d0001d
+ f854b\nhttps://edmtrain.com/miami-fl/whynotus-nic-fanciulli-549796
+URL:https://dice.fm/event/6ae3a8f91f749d0001df854b
 STATUS:CONFIRMED
 CATEGORIES:house,techno
 END:VEVENT
@@ -383,18 +383,18 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ae0b22eeeeae40001c1bdce@club-space.miami-calendars
-DTSTAMP:20261029T041806Z
-LAST-MODIFIED:20261029T041806Z
-SEQUENCE:2
+DTSTAMP:20261110T041823Z
+LAST-MODIFIED:20261110T041823Z
+SEQUENCE:3
 DTSTART:20270124T040000Z
 DTEND:20270124T170000Z
 SUMMARY:Nicole Moudaber Birthday Celebration
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Nicole Moudaber\nTags (guess): house\, techno\nhttps://
- dice.fm/event/6ae0b22eeeeae40001c1bdce\nhttps://edmtrain.com/miami-fl/nico
- le-moudaber-548305
+DESCRIPTION:Lineup: Nicole Moudaber\nTags: tech house\, techno\nAges: 21+\n
+ https://dice.fm/event/6ae0b22eeeeae40001c1bdce\nhttps://edmtrain.com/miami
+ -fl/nicole-moudaber-548305
 URL:https://dice.fm/event/6ae0b22eeeeae40001c1bdce
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:tech house,techno
 END:VEVENT
 END:VCALENDAR

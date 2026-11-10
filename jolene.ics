@@ -167,16 +167,17 @@ CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab44b4b28d5d90001e98039@jolene.miami-calendars
-DTSTAMP:20261022T041828Z
-LAST-MODIFIED:20261022T041828Z
-SEQUENCE:2
+DTSTAMP:20261110T041823Z
+LAST-MODIFIED:20261110T041823Z
+SEQUENCE:3
 DTSTART:20261201T030000Z
 DTEND:20261201T110000Z
 SUMMARY:Basel: Special Guest
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Tags: house\, tech house\, techno\nAges: 21+\nhttps://dice.fm/e
- vent/6ab44d3879b6750001a8fb66
+DESCRIPTION:Lineup: Seth Troxler\nTags: house\, tech house\, techno\nAges: 
+ 21+\nhttps://dice.fm/event/6ab44d3879b6750001a8fb66\nhttps://edmtrain.com/
+ miami-fl/seth-troxler-551483
 URL:https://dice.fm/event/6ab44d3879b6750001a8fb66
 STATUS:CONFIRMED
 CATEGORIES:house,tech house,techno
@@ -219,17 +220,17 @@ CATEGORIES:edm,house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab3a356f3be0b000115831c@jolene.miami-calendars
-DTSTAMP:20261104T161802Z
-LAST-MODIFIED:20261104T161802Z
-SEQUENCE:0
+DTSTAMP:20261110T041823Z
+LAST-MODIFIED:20261110T041823Z
+SEQUENCE:1
 DTSTART:20261204T030000Z
 DTEND:20261204T110000Z
 SUMMARY:Basel: AFTERJAM
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Lineup: Jamback\nTags: minimal\, tech house\nAges: 21+\nhttps:/
- /dice.fm/event/6ab3a356f3be0b000115831c\nhttps://edmtrain.com/miami-fl/jam
- back-543134
+DESCRIPTION:Lineup: Jamback\, Boss Priester\, Rana Iravani\, Locky\nTags: m
+ inimal\, tech house\nAges: 21+\nhttps://dice.fm/event/6ab3a356f3be0b000115
+ 831c\nhttps://edmtrain.com/miami-fl/basel-afterjam-jamback-543134
 URL:https://dice.fm/event/6ab3a356f3be0b000115831c
 STATUS:CONFIRMED
 CATEGORIES:minimal,tech house
@@ -270,36 +271,39 @@ CATEGORIES:organic house,progressive house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab448eab6c65c00012abd8a@jolene.miami-calendars
-DTSTAMP:20261030T041827Z
-LAST-MODIFIED:20261030T041827Z
-SEQUENCE:3
+DTSTAMP:20261110T041823Z
+LAST-MODIFIED:20261110T041823Z
+SEQUENCE:4
 DTSTART:20261207T030000Z
 DTEND:20261207T110000Z
 SUMMARY:Basel: Damian Lazarus\, Danny Daze\, & more
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
 DESCRIPTION:Lineup: Damian Lazarus\, Danny Daze\, Jason Rault\, Thunderpony
- \nTags (guess): house\, tech house\nhttps://dice.fm/event/6ab448eab6c65c00
- 012abd8a\nhttps://edmtrain.com/miami-fl/damian-lazarus-danny-daze-548827
-URL:https://dice.fm/event/6ab448eab6c65c00012abd8a
+ \nTags: deep house\, electro\, tech house\, techno\nAges: 21+\nhttps://dic
+ e.fm/event/q2d3na-basel-damian-lazarus-danny-daze-more-6th-dec-jolene-soun
+ d-room-miami-miami-tickets\nhttps://edmtrain.com/miami-fl/damian-lazarus-d
+ anny-daze-548827
+URL:https://dice.fm/event/q2d3na-basel-damian-lazarus-danny-daze-more-6th-d
+ ec-jolene-sound-room-miami-miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:house,tech house
+CATEGORIES:deep house,electro,tech house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ae0ea6918396c00010b34be@jolene.miami-calendars
-DTSTAMP:20261027T221818Z
-LAST-MODIFIED:20261027T221818Z
-SEQUENCE:0
+DTSTAMP:20261110T041823Z
+LAST-MODIFIED:20261110T041823Z
+SEQUENCE:1
 DTSTART:20261211T030000Z
 DTEND:20261211T090000Z
 SUMMARY:Forest Fires Radio
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6ae0ea6
- 918396c00010b34be
+DESCRIPTION:Tags: breaks\, drum and bass\, electro\, miami bass\, techno\nA
+ ges: 21+\nhttps://dice.fm/event/6ae0ea6918396c00010b34be
 URL:https://dice.fm/event/6ae0ea6918396c00010b34be
 STATUS:CONFIRMED
-CATEGORIES:house,tech house
+CATEGORIES:breaks,drum and bass,electro,miami bass,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6af1fa17b839de000132f36b@jolene.miami-calendars
