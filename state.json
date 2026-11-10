@@ -1144,11 +1144,6 @@
   "seq": 0,
   "modified": "2026-11-09T22:18:17+00:00"
  },
- "humans-alike-sundays-nov-22@shotgun.live": {
-  "hash": "9021ef203b63bac3",
-  "seq": 1,
-  "modified": "2026-11-10T04:18:23+00:00"
- },
  "humans-alike-sundays-nov-29@shotgun.live": {
   "hash": "36a22eb4988010bf",
   "seq": 1,
@@ -1159,25 +1154,10 @@
   "seq": 1,
   "modified": "2026-11-10T04:18:23+00:00"
  },
- "hvmza-miami-art-week@shotgun.live": {
-  "hash": "ea0774aab31f247b",
-  "seq": 0,
-  "modified": "2026-11-09T22:18:17+00:00"
- },
  "i-liedtomyself-descry-iliad-see-you-next-ar-boombox-11-14@shotgun.live": {
   "hash": "a9ea58e92e4cfc30",
   "seq": 0,
   "modified": "2026-10-05T22:18:30+00:00"
- },
- "inner-circle-by-markem@shotgun.live": {
-  "hash": "24e6b32c95bf45f2",
-  "seq": 0,
-  "modified": "2026-11-09T22:18:17+00:00"
- },
- "ketzal-michel-attie-selekter@shotgun.live": {
-  "hash": "1b86fb474e2dfd7a",
-  "seq": 1,
-  "modified": "2026-11-10T04:18:23+00:00"
  },
  "lilith-s-demise-and-slamwich-at-the-boombox-11-15@shotgun.live": {
   "hash": "d563519bbd028c53",
@@ -1264,11 +1244,6 @@
   "seq": 2,
   "modified": "2026-10-28T22:18:06+00:00"
  },
- "she-knows-best-nov-11@shotgun.live": {
-  "hash": "ed268304c7c7c20a",
-  "seq": 1,
-  "modified": "2026-11-10T04:18:23+00:00"
- },
  "solmates-presents-sparrow-more@shotgun.live": {
   "hash": "bb1859566f679966",
   "seq": 4,
@@ -1285,9 +1260,9 @@
   "modified": "2026-11-01T10:17:57+00:00"
  },
  "tablelist-209109f986348f4b@zeyzey.miami-calendars": {
-  "hash": "9a1cbfcb9aa8efd7",
-  "seq": 0,
-  "modified": "2026-11-01T10:17:57+00:00"
+  "hash": "10245863d32c7fa5",
+  "seq": 1,
+  "modified": "2026-11-10T16:18:17+00:00"
  },
  "tablelist-515b312cd7dea586@zeyzey.miami-calendars": {
   "hash": "c61d43631a9700c2",
@@ -1313,11 +1288,6 @@
   "hash": "60ba45bfb5af0604",
   "seq": 0,
   "modified": "2026-11-01T10:17:57+00:00"
- },
- "the-angels-il-more@shotgun.live": {
-  "hash": "53cf2282373a310c",
-  "seq": 0,
-  "modified": "2026-11-09T22:18:17+00:00"
  },
  "the-boombox-equinox-bookings-presents-arythmia@shotgun.live": {
   "hash": "7af14fdf913838a1",
@@ -1405,9 +1375,9 @@
   "modified": "2026-10-06T16:18:25+00:00"
  },
  "zeyzey-friendsgiving-ft-suenalo-the-lab-25-nov@zeyzey.miami-calendars": {
-  "hash": "e36f37085b1a579a",
-  "seq": 0,
-  "modified": "2026-11-05T16:18:02+00:00"
+  "hash": "a1ca24c4877e14f2",
+  "seq": 1,
+  "modified": "2026-11-10T16:18:17+00:00"
  },
  "zeyzey-i-love-r-b-party-18-dec@zeyzey.miami-calendars": {
   "hash": "3a9aef0ac187e159",
@@ -1538,6 +1508,11 @@
   "hash": "ef539c241b626cc2",
   "seq": 2,
   "modified": "2026-11-10T04:18:23+00:00"
+ },
+ "zeyzey-una-noche-en-nuyorico-19-dec@zeyzey.miami-calendars": {
+  "hash": "706b9f1a52a50f27",
+  "seq": 0,
+  "modified": "2026-11-10T16:18:17+00:00"
  },
  "zeyzey-ye-dry-06-may@zeyzey.miami-calendars": {
   "hash": "c0d312ce57bec304",

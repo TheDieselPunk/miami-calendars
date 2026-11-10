@@ -1,31 +1,6 @@
 {
  "events": [
   {
-   "id": "edmtrain:550891",
-   "source": "edmtrain",
-   "title": "CX",
-   "artists": [
-    "CX"
-   ],
-   "venue": "E11EVEN",
-   "venue_slug": null,
-   "date": "2026-11-09",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "29 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://speakeasygo.com/event/EVE-7M36F4?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/cx-550891"
-   ]
-  },
-  {
    "id": "tablelist:7f6123b4f4307830",
    "source": "tablelist+venue",
    "title": "Las Migas",
@@ -215,6 +190,80 @@
    "url": "https://buy.tablelist.com/e/c90db8b47c62c006"
   },
   {
+   "id": "shotgun:she-knows-best-nov-11",
+   "source": "edmtrain+shotgun",
+   "title": "She Knows Best",
+   "artists": [],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-11-11",
+   "start": "2026-11-12T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.70",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/she-knows-best-nov-11",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/she-knows-best-551436"
+   ]
+  },
+  {
+   "id": "shotgun:dirty-circuit-life-13",
+   "source": "shotgun",
+   "title": "Dirty Circuit Life #13",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-11-11",
+   "start": "2026-11-12T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "synthwave",
+    "electronica",
+    "techno"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/dirty-circuit-life-13"
+  },
+  {
+   "id": "shotgun:open-mic-at-churchill-s-pub-19",
+   "source": "shotgun",
+   "title": "Open Mic : Every Wednesday",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-11-11",
+   "start": "2026-11-12T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "post-punk",
+    "punk",
+    "rock"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/open-mic-at-churchill-s-pub-19"
+  },
+  {
    "id": "shotgun:madradiomiami111126",
    "source": "edmtrain+shotgun",
    "title": "Join The Local Signal ))) Israel Sunshine",
@@ -248,32 +297,6 @@
    "created": "2026-11-05T17:39:02.000Z",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/israel-sunshine-550570"
-   ]
-  },
-  {
-   "id": "shotgun:she-knows-best-nov-11",
-   "source": "edmtrain+shotgun",
-   "title": "She Knows Best",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": "festivals",
-   "date": "2026-11-11",
-   "start": "2026-11-12T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$22.70",
-   "genres": [
-    "house",
-    "tech house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/she-knows-best-nov-11",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/she-knows-best-551436"
    ]
   },
   {
@@ -469,6 +492,30 @@
    "url": "https://shotgun.live/en/events/c3trlroom-15"
   },
   {
+   "id": "shotgun:the-angels-il-more",
+   "source": "shotgun",
+   "title": "The Angels (Il) & More",
+   "artists": [],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-11-12",
+   "start": "2026-11-13T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.70",
+   "genres": [
+    "afro house",
+    "tech house",
+    "progressive house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/the-angels-il-more"
+  },
+  {
    "id": "shotgun:madradiomiami111226",
    "source": "shotgun",
    "title": "Femme Frequency / Frameless Sounds: Anabelen / Griott & Cort",
@@ -498,30 +545,6 @@
     "longitude": -80.1851332
    },
    "created": "2026-11-05T17:42:09.000Z"
-  },
-  {
-   "id": "shotgun:the-angels-il-more",
-   "source": "shotgun",
-   "title": "The Angels (Il) & More",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": "festivals",
-   "date": "2026-11-12",
-   "start": "2026-11-13T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$22.70",
-   "genres": [
-    "afro house",
-    "tech house",
-    "progressive house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/the-angels-il-more"
   },
   {
    "id": "19hz:4448536-secretthursdaysa",
@@ -706,31 +729,6 @@
    ]
   },
   {
-   "id": "shotgun:inner-circle-by-markem",
-   "source": "19hz+shotgun",
-   "title": "Inner Circle By Markem",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": "festivals",
-   "date": "2026-11-13",
-   "start": "2026-11-14T01:00:00+00:00",
-   "end": "2026-11-14T09:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$22.70",
-   "genres": [
-    "tech house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/inner-circle-by-markem",
-   "alt_urls": [
-    "https://posh.vip/e/inner-circle-by-markem-2"
-   ]
-  },
-  {
    "id": "shotgun:lavacity-x-nox-radio",
    "source": "edmtrain+shotgun",
    "title": "Lavacity X Nox Radio",
@@ -869,6 +867,34 @@
    "created": "2026-11-05T17:44:57.000Z",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/road-to-trotamundo-truly-madly-550571"
+   ]
+  },
+  {
+   "id": "shotgun:inner-circle-by-markem",
+   "source": "19hz+shotgun",
+   "title": "Inner Circle By Markem",
+   "artists": [],
+   "venue": "Party On A Boat Rentals",
+   "venue_slug": null,
+   "date": "2026-11-13",
+   "start": "2026-11-14T02:00:00+00:00",
+   "end": "2026-11-14T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.70",
+   "genres": [
+    "afro house",
+    "house",
+    "progressive house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/inner-circle-by-markem",
+   "alt_urls": [
+    "https://posh.vip/e/inner-circle-by-markem-2"
    ]
   },
   {
@@ -1084,7 +1110,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $50",
+   "price": "From $56",
    "genres": [
     "eurobeat",
     "hard techno",
@@ -1790,7 +1816,7 @@
    "time_estimated": false,
    "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "",
-   "price": "",
+   "price": " (sold out)",
    "genres": [
     "bass",
     "dubstep"
@@ -1863,10 +1889,10 @@
     "MICHEL ATTIE",
     "Selekter"
    ],
-   "venue": "Miami",
-   "venue_slug": "festivals",
+   "venue": "AIRE Miami",
+   "venue_slug": null,
    "date": "2026-11-14",
-   "start": "2026-11-15T01:00:00+00:00",
+   "start": "2026-11-15T02:00:00+00:00",
    "end": null,
    "time_estimated": false,
    "address": "",
@@ -3189,7 +3215,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "",
+   "price": "Free",
    "genres": [
     "latin"
    ],
@@ -3198,6 +3224,7 @@
    "description": "",
    "url": "https://buy.tablelist.com/e/209109f986348f4b",
    "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/salsa-vs-perreo-free-entry-19-nov",
     "https://calendar.zeyzeymiami.com/shows/vicente-garcia-19-nov"
    ]
   },
@@ -3220,6 +3247,35 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/c3trlroom-16"
+  },
+  {
+   "id": "shotgun:d-meyer-desert-sail-idossa-naza-gold-dario",
+   "source": "edmtrain+shotgun",
+   "title": "Dmeyer, Desert Sail, Idossa, Naza Gold, Dario",
+   "artists": [
+    "Dmeyer",
+    "Desert Sail",
+    "Idossa",
+    "naza gold",
+    "Dario"
+   ],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-11-19",
+   "start": "2026-11-20T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.70",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/d-meyer-desert-sail-idossa-naza-gold-dario",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/dmeyer-desert-sail-551458"
+   ]
   },
   {
    "id": "shotgun:echo-beauty-terror-laboratory-mjvj-viole-rose-eddy-gatoe",
@@ -3275,35 +3331,6 @@
     "longitude": -80.1851332
    },
    "created": "2026-11-05T19:19:35.000Z"
-  },
-  {
-   "id": "shotgun:d-meyer-desert-sail-idossa-naza-gold-dario",
-   "source": "edmtrain+shotgun",
-   "title": "Dmeyer, Desert Sail, Idossa, Naza Gold, Dario",
-   "artists": [
-    "Dmeyer",
-    "Desert Sail",
-    "Idossa",
-    "naza gold",
-    "Dario"
-   ],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-11-19",
-   "start": "2026-11-20T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$22.70",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/d-meyer-desert-sail-idossa-naza-gold-dario",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/dmeyer-desert-sail-551458"
-   ]
   },
   {
    "id": "19hz:4449208-secretthursdaysb",
@@ -3546,26 +3573,6 @@
    ]
   },
   {
-   "id": "shotgun:rami-it-s-jude-jad-abousabe-and-voyz",
-   "source": "shotgun",
-   "title": "Rami + It’S Jude, Jad Abousabe, And Voyz",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-11-20",
-   "start": "2026-11-21T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$22.70",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/rami-it-s-jude-jad-abousabe-and-voyz"
-  },
-  {
    "id": "19hz:4449295-kapo",
    "source": "19hz+edmtrain",
    "title": "Kapo",
@@ -3614,6 +3621,26 @@
    "organizer": "Gigatonegroup",
    "description": "",
    "url": "https://ra.co/events/2537402"
+  },
+  {
+   "id": "shotgun:rami-it-s-jude-jad-abousabe-and-voyz",
+   "source": "shotgun",
+   "title": "Rami + It’S Jude, Jad Abousabe, And Voyz",
+   "artists": [],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-11-20",
+   "start": "2026-11-21T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.70",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/rami-it-s-jude-jad-abousabe-and-voyz"
   },
   {
    "id": "shotgun:madradiomiami112026",
@@ -4379,10 +4406,10 @@
    "source": "shotgun",
    "title": "La Santa By Mantra",
    "artists": [],
-   "venue": "Miami",
+   "venue": "AIRE Miami",
    "venue_slug": null,
    "date": "2026-11-21",
-   "start": "2026-11-22T01:00:00+00:00",
+   "start": "2026-11-22T02:00:00+00:00",
    "end": null,
    "time_estimated": false,
    "address": "",
@@ -5107,8 +5134,8 @@
    "source": "edmtrain+shotgun",
    "title": "Humans Alike Sundays",
    "artists": [],
-   "venue": "Miami",
-   "venue_slug": "festivals",
+   "venue": "AIRE Miami",
+   "venue_slug": null,
    "date": "2026-11-22",
    "start": "2026-11-23T01:00:00+00:00",
    "end": null,
@@ -5464,7 +5491,7 @@
   {
    "id": "zeyzey:friendsgiving-ft-suenalo-the-lab-25-nov",
    "source": "venue",
-   "title": "Friendsgiving ft. Suenalo + The Lab",
+   "title": "Friendsgiving ft. Suenalo + The Lab (Free Entry)",
    "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
@@ -5474,7 +5501,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "",
+   "price": "Free",
    "genres": [
     "dance/electronic"
    ],
@@ -5776,10 +5803,10 @@
    "source": "shotgun",
    "title": "Gaeb, Mewsha, Jon Roc",
    "artists": [],
-   "venue": "Miami",
+   "venue": "AIRE Miami",
    "venue_slug": null,
    "date": "2026-11-27",
-   "start": "2026-11-28T01:00:00+00:00",
+   "start": "2026-11-28T02:00:00+00:00",
    "end": null,
    "time_estimated": false,
    "address": "",
@@ -6395,10 +6422,10 @@
    "source": "shotgun",
    "title": "Mejias, Mr. Fulltime, Diego Silvestre",
    "artists": [],
-   "venue": "Miami",
+   "venue": "AIRE Miami",
    "venue_slug": null,
    "date": "2026-11-28",
-   "start": "2026-11-29T01:00:00+00:00",
+   "start": "2026-11-29T02:00:00+00:00",
    "end": null,
    "time_estimated": false,
    "address": "",
@@ -9020,35 +9047,6 @@
    ]
   },
   {
-   "id": "19hz:4450639-hvmza305mandyere",
-   "source": "19hz+edmtrain",
-   "title": "Hvmza, 305Mandy, Eren, Mr Fulltime",
-   "artists": [
-    "HVMZA"
-   ],
-   "venue": "Aire Miami",
-   "venue_slug": null,
-   "date": "2026-12-04",
-   "start": "2026-12-05T01:00:00+00:00",
-   "end": "2026-12-05T09:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "free w/rsvp b4 midnight ladies / $23",
-   "genres": [
-    "afro house",
-    "latin house",
-    "progressive house"
-   ],
-   "genres_inferred": false,
-   "organizer": "Aire Miami",
-   "description": "",
-   "url": "https://posh.vip/e/hvmza-miami-art-week",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/hvmza-544647"
-   ]
-  },
-  {
    "id": "19hz:4450639-bedouin",
    "source": "19hz+edmtrain",
    "title": "Bedouin",
@@ -9082,27 +9080,35 @@
   },
   {
    "id": "shotgun:hvmza-miami-art-week",
-   "source": "shotgun",
+   "source": "19hz+edmtrain+shotgun",
    "title": "Hvmza (Miami Art Week)",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": "festivals",
+   "artists": [
+    "HVMZA"
+   ],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
    "date": "2026-12-04",
-   "start": "2026-12-05T01:00:00+00:00",
-   "end": null,
+   "start": "2026-12-05T02:00:00+00:00",
+   "end": "2026-12-05T09:00:00+00:00",
    "time_estimated": false,
    "address": "",
-   "ages": "",
+   "ages": "21+",
    "price": "$22.70",
    "genres": [
     "afro house",
-    "tech house",
-    "house"
+    "house",
+    "latin house",
+    "progressive house",
+    "tech house"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/hvmza-miami-art-week"
+   "url": "https://shotgun.live/en/events/hvmza-miami-art-week",
+   "alt_urls": [
+    "https://posh.vip/e/hvmza-miami-art-week",
+    "https://edmtrain.com/miami-fl/hvmza-544647"
+   ]
   },
   {
    "id": "shotgun:madradiomiami120426",
@@ -9134,6 +9140,26 @@
     "longitude": -80.1851332
    },
    "created": "2026-11-05T19:45:24.000Z"
+  },
+  {
+   "id": "shotgun:bloom-m2-5",
+   "source": "shotgun",
+   "title": "Sander Van Doorn",
+   "artists": [],
+   "venue": "Club M2 Miami",
+   "venue_slug": null,
+   "date": "2026-12-04",
+   "start": "2026-12-05T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$15.00",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/bloom-m2-5"
   },
   {
    "id": "hardrock:213223",
@@ -12484,6 +12510,29 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/cyclops-machaki-534106"
    ]
+  },
+  {
+   "id": "zeyzey:una-noche-en-nuyorico-19-dec",
+   "source": "venue",
+   "title": "Una Noche En Nuyorico",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-12-19",
+   "start": "2026-12-20T03:00:00+00:00",
+   "end": "2026-12-20T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "latin"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/una-noche-en-nuyorico-19-dec",
+   "cancelled": false
   },
   {
    "id": "dice:6aea20f485f24b0001ab78a6",

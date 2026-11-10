@@ -8,21 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:she-knows-best-nov-11@shotgun.live
-DTSTAMP:20261110T041823Z
-LAST-MODIFIED:20261110T041823Z
-SEQUENCE:1
-DTSTART:20261112T020000Z
-DTEND:20261112T070000Z
-SUMMARY:She Knows Best
-LOCATION:Miami
-DESCRIPTION:Tags: house\, tech house\nhttps://shotgun.live/en/events/she-kn
- ows-best-nov-11\nhttps://edmtrain.com/miami-fl/she-knows-best-551436
-URL:https://shotgun.live/en/events/she-knows-best-nov-11
-STATUS:CONFIRMED
-CATEGORIES:house,tech house
-END:VEVENT
-BEGIN:VEVENT
 UID:undertone-3@shotgun.live
 DTSTAMP:20261107T161849Z
 LAST-MODIFIED:20261107T161849Z
@@ -36,36 +21,6 @@ DESCRIPTION:Tags: techno\nhttps://shotgun.live/en/events/undertone-3\nhttps
 URL:https://shotgun.live/en/events/undertone-3
 STATUS:CONFIRMED
 CATEGORIES:techno
-END:VEVENT
-BEGIN:VEVENT
-UID:the-angels-il-more@shotgun.live
-DTSTAMP:20261109T221817Z
-LAST-MODIFIED:20261109T221817Z
-SEQUENCE:0
-DTSTART:20261113T020000Z
-DTEND:20261113T070000Z
-SUMMARY:The Angels (Il) & More
-LOCATION:Miami
-DESCRIPTION:Tags: afro house\, tech house\, progressive house\nhttps://shot
- gun.live/en/events/the-angels-il-more
-URL:https://shotgun.live/en/events/the-angels-il-more
-STATUS:CONFIRMED
-CATEGORIES:afro house,tech house,progressive house
-END:VEVENT
-BEGIN:VEVENT
-UID:inner-circle-by-markem@shotgun.live
-DTSTAMP:20261109T221817Z
-LAST-MODIFIED:20261109T221817Z
-SEQUENCE:0
-DTSTART:20261114T010000Z
-DTEND:20261114T090000Z
-SUMMARY:Inner Circle By Markem
-LOCATION:Miami
-DESCRIPTION:Tags: tech house\nhttps://shotgun.live/en/events/inner-circle-b
- y-markem\nhttps://posh.vip/e/inner-circle-by-markem-2
-URL:https://shotgun.live/en/events/inner-circle-by-markem
-STATUS:CONFIRMED
-CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:the-hall-pres-roy-rosenfeld@shotgun.live
@@ -117,22 +72,6 @@ STATUS:CONFIRMED
 CATEGORIES:bass music,dubstep
 END:VEVENT
 BEGIN:VEVENT
-UID:ketzal-michel-attie-selekter@shotgun.live
-DTSTAMP:20261110T041823Z
-LAST-MODIFIED:20261110T041823Z
-SEQUENCE:1
-DTSTART:20261115T010000Z
-DTEND:20261115T060000Z
-SUMMARY:Ketzal\, Michel Attie\, Selekter
-LOCATION:Miami
-DESCRIPTION:Lineup: Ketzal\, MICHEL ATTIE\, Selekter\nTags: deep house\, ho
- use\, melodic house & techno\nhttps://shotgun.live/en/events/ketzal-michel
- -attie-selekter\nhttps://edmtrain.com/miami-fl/ketzal-michel-attie-551438
-URL:https://shotgun.live/en/events/ketzal-michel-attie-selekter
-STATUS:CONFIRMED
-CATEGORIES:deep house,house,melodic house & techno
-END:VEVENT
-BEGIN:VEVENT
 UID:gala-ibiza-at-lunasol-miami@shotgun.live
 DTSTAMP:20261105T161802Z
 LAST-MODIFIED:20261105T161802Z
@@ -180,22 +119,6 @@ DESCRIPTION:Tags: hard techno\, schranz\nPresented by: Black Room\nAges: 18
 URL:https://ra.co/events/2572799
 STATUS:CONFIRMED
 CATEGORIES:hard techno,schranz
-END:VEVENT
-BEGIN:VEVENT
-UID:humans-alike-sundays-nov-22@shotgun.live
-DTSTAMP:20261110T041823Z
-LAST-MODIFIED:20261110T041823Z
-SEQUENCE:1
-DTSTART:20261123T010000Z
-DTEND:20261123T060000Z
-SUMMARY:Humans Alike Sundays
-LOCATION:Miami
-DESCRIPTION:Tags: house\, tech house\nhttps://shotgun.live/en/events/humans
- -alike-sundays-nov-22\nhttps://edmtrain.com/miami-fl/humans-alike-sundays-
- 551442
-URL:https://shotgun.live/en/events/humans-alike-sundays-nov-22
-STATUS:CONFIRMED
-CATEGORIES:house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ac69157ede6160001290447@festivals.miami-calendars
@@ -522,21 +445,6 @@ URL:https://dice.fm/partner/tickets/event/2wqeoa-unkommon-events-framework-
  present-anotr-4th-dec-watson-island-park-miami-beach-tickets
 STATUS:CONFIRMED
 CATEGORIES:tech house
-END:VEVENT
-BEGIN:VEVENT
-UID:hvmza-miami-art-week@shotgun.live
-DTSTAMP:20261109T221817Z
-LAST-MODIFIED:20261109T221817Z
-SEQUENCE:0
-DTSTART:20261205T010000Z
-DTEND:20261205T060000Z
-SUMMARY:Hvmza (Miami Art Week)
-LOCATION:Miami
-DESCRIPTION:Tags: afro house\, tech house\, house\nhttps://shotgun.live/en/
- events/hvmza-miami-art-week
-URL:https://shotgun.live/en/events/hvmza-miami-art-week
-STATUS:CONFIRMED
-CATEGORIES:afro house,tech house,house
 END:VEVENT
 BEGIN:VEVENT
 UID:cafe-grooves-art-week@shotgun.live

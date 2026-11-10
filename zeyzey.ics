@@ -150,14 +150,15 @@ CATEGORIES:latin
 END:VEVENT
 BEGIN:VEVENT
 UID:tablelist-209109f986348f4b@zeyzey.miami-calendars
-DTSTAMP:20261101T101757Z
-LAST-MODIFIED:20261101T101757Z
-SEQUENCE:0
+DTSTAMP:20261110T161817Z
+LAST-MODIFIED:20261110T161817Z
+SEQUENCE:1
 DTSTART:20261120T010000Z
 DTEND:20261120T060000Z
 SUMMARY:Vicente Garcia
 LOCATION:ZeyZey Miami
 DESCRIPTION:Tags: latin\nhttps://buy.tablelist.com/e/209109f986348f4b\nhttp
+ s://calendar.zeyzeymiami.com/shows/salsa-vs-perreo-free-entry-19-nov\nhttp
  s://calendar.zeyzeymiami.com/shows/vicente-garcia-19-nov
 URL:https://buy.tablelist.com/e/209109f986348f4b
 STATUS:CONFIRMED
@@ -237,12 +238,12 @@ CATEGORIES:rock
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-friendsgiving-ft-suenalo-the-lab-25-nov@zeyzey.miami-calendars
-DTSTAMP:20261105T161802Z
-LAST-MODIFIED:20261105T161802Z
-SEQUENCE:0
+DTSTAMP:20261110T161817Z
+LAST-MODIFIED:20261110T161817Z
+SEQUENCE:1
 DTSTART:20261126T000000Z
 DTEND:20261126T060000Z
-SUMMARY:Friendsgiving ft. Suenalo + The Lab
+SUMMARY:Friendsgiving ft. Suenalo + The Lab (Free Entry)
 LOCATION:ZeyZey Miami
 DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
  friendsgiving-ft-suenalo-the-lab-25-nov
@@ -604,6 +605,21 @@ DESCRIPTION:Tags: latin\nhttps://calendar.zeyzeymiami.com/shows/dayme-aroce
  na-la-ultima-rumba-19-dec
 URL:https://calendar.zeyzeymiami.com/shows/dayme-arocena-la-ultima-rumba-19
  -dec
+STATUS:CONFIRMED
+CATEGORIES:latin
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-una-noche-en-nuyorico-19-dec@zeyzey.miami-calendars
+DTSTAMP:20261110T161817Z
+LAST-MODIFIED:20261110T161817Z
+SEQUENCE:0
+DTSTART:20261220T030000Z
+DTEND:20261220T060000Z
+SUMMARY:Una Noche En Nuyorico
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: latin\nhttps://calendar.zeyzeymiami.com/shows/una-noche-e
+ n-nuyorico-19-dec
+URL:https://calendar.zeyzeymiami.com/shows/una-noche-en-nuyorico-19-dec
 STATUS:CONFIRMED
 CATEGORIES:latin
 END:VEVENT
