@@ -9,15 +9,14 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:tablelist-7f6123b4f4307830@zeyzey.miami-calendars
-DTSTAMP:20261101T101757Z
-LAST-MODIFIED:20261101T101757Z
-SEQUENCE:0
+DTSTAMP:20261111T101835Z
+LAST-MODIFIED:20261111T101835Z
+SEQUENCE:1
 DTSTART:20261111T000000Z
 DTEND:20261111T050000Z
 SUMMARY:Las Migas
 LOCATION:ZeyZey Miami
-DESCRIPTION:https://buy.tablelist.com/e/7f6123b4f4307830\nhttps://calendar.
- zeyzeymiami.com/shows/las-migas-10-nov
+DESCRIPTION:https://buy.tablelist.com/e/7f6123b4f4307830
 URL:https://buy.tablelist.com/e/7f6123b4f4307830
 STATUS:CONFIRMED
 END:VEVENT
@@ -950,9 +949,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:paloma-morphy-miami@shotgun.live
-DTSTAMP:20260928T041801Z
-LAST-MODIFIED:20260928T041801Z
-SEQUENCE:2
+DTSTAMP:20261111T101835Z
+LAST-MODIFIED:20261111T101835Z
+SEQUENCE:3
 DTSTART:20270512T230000Z
 DTEND:20270513T060000Z
 SUMMARY:Paloma Morphy
@@ -971,12 +970,13 @@ DESCRIPTION:Paloma Morphy With special guest(s) to be announced soon. Where
  ' and sold-out shows across Mexico\, her live performances feel intimate\,
   honest\, and deeply immersive. Don’t miss the chance to experience one 
  of Latin pop’s fastest-rising artists in Miami this fall\nLineup: Paloma
-  Morphy\nTags: latin\, indie pop\, pop\nPresented by: Mishu\nTickets: GA -
+  Morphy\nTags: indie pop\, latin\, pop\nPresented by: Mishu\nTickets: GA -
   Tier 1 $20 (sold out)\, GA - Tier 2 $25\nhttps://shotgun.live/en/events/p
- aloma-morphy-miami
+ aloma-morphy-miami\nhttps://calendar.zeyzeymiami.com/shows/paloma-morphy-1
+ 2-may
 URL:https://shotgun.live/en/events/paloma-morphy-miami
 STATUS:CONFIRMED
-CATEGORIES:latin,indie pop,pop
+CATEGORIES:indie pop,latin,pop
 GEO:25.8327584;-80.1890685
 END:VEVENT
 END:VCALENDAR

@@ -2,7 +2,7 @@
  "events": [
   {
    "id": "tablelist:7f6123b4f4307830",
-   "source": "tablelist+venue",
+   "source": "tablelist",
    "title": "Las Migas",
    "artists": [],
    "venue": "ZeyZey Miami",
@@ -18,34 +18,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://buy.tablelist.com/e/7f6123b4f4307830",
-   "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/las-migas-10-nov"
-   ]
-  },
-  {
-   "id": "shotgun:ladybusch-wizards-digest-tess-grey-wojtek-wild-spark-11-10",
-   "source": "shotgun",
-   "title": "Ladybusch/Wizards Digest/Tess Grey/Wojtek/Wild Spark 11/10",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-11-10",
-   "start": "2026-11-11T01:30:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$13.62",
-   "genres": [
-    "metal",
-    "indie",
-    "experimental"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/ladybusch-wizards-digest-tess-grey-wojtek-wild-spark-11-10"
+   "url": "https://buy.tablelist.com/e/7f6123b4f4307830"
   },
   {
    "id": "19hz:4448338-sunsquabi",
@@ -973,9 +946,14 @@
   },
   {
    "id": "shotgun:bloom-m2-6",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Tori Seagel, Amdana, Sebastian Morxx, Laura Carmer",
-   "artists": [],
+   "artists": [
+    "Tori Seagel",
+    "Amdana",
+    "Sebastian Morxx",
+    "Laura carmer"
+   ],
    "venue": "Club M2 Miami",
    "venue_slug": null,
    "date": "2026-11-13",
@@ -989,7 +967,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/bloom-m2-6"
+   "url": "https://shotgun.live/en/events/bloom-m2-6",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/tori-seagel-amdana-551943"
+   ]
   },
   {
    "id": "hardrock:206001",
@@ -1138,7 +1119,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $56",
+   "price": "From $66",
    "genres": [
     "eurobeat",
     "hard techno",
@@ -5812,6 +5793,33 @@
    "cancelled": false
   },
   {
+   "id": "edmtrain:551889",
+   "source": "edmtrain",
+   "title": "Juan Yarin",
+   "artists": [
+    "Juan Yarin"
+   ],
+   "venue": "Do Not Sit On The Furniture",
+   "venue_slug": null,
+   "date": "2026-11-25",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "423 16th St, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "deep house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/5wonby?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/juan-yarin-551889"
+   ]
+  },
+  {
    "id": "edmtrain:547375",
    "source": "edmtrain",
    "title": "Hector Couto b2b Yaya",
@@ -7201,6 +7209,29 @@
    ]
   },
   {
+   "id": "edmtrain:552058",
+   "source": "edmtrain",
+   "title": "Skihouse",
+   "artists": [],
+   "venue": "Treehouse Miami Beach",
+   "venue_slug": null,
+   "date": "2026-11-28",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "323 23rd St, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.etix.com/ticket/p/42728549",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/skihouse-552058"
+   ]
+  },
+  {
    "id": "shotgun:lunasol-pres-sunrise-lesson-7",
    "source": "shotgun",
    "title": "Lunasol Pres. Lesson 7",
@@ -7429,7 +7460,9 @@
    "source": "19hz+dice+edmtrain",
    "title": "Basel: Seth Troxler",
    "artists": [
-    "Seth Troxler"
+    "Seth Troxler",
+    "Danyelino",
+    "Sister System"
    ],
    "venue": "Jolene Sound Room Miami",
    "venue_slug": "jolene",
@@ -7452,7 +7485,7 @@
    "cancelled": false,
    "alt_urls": [
     "https://dice.fm/event/6ab44d3879b6750001a8fb66",
-    "https://edmtrain.com/miami-fl/seth-troxler-551483"
+    "https://edmtrain.com/miami-fl/seth-troxler-danyelino-551483"
    ]
   },
   {
@@ -8550,11 +8583,11 @@
    "title": "Manifest By Amal Nemer (Miami Art Week)",
    "artists": [
     "Amal Nemer",
-    "Alessandro de Tuglie",
+    "Ale De Tuglie",
     "Bastian Bux",
-    "Madison Kendall",
     "Lousy Lover",
-    "Alan Amorozzo"
+    "Alan Amorozzo",
+    "Madison Kendall"
    ],
    "venue": "EDGE MIAMI",
    "venue_slug": null,
@@ -8574,7 +8607,7 @@
    "description": "",
    "url": "https://shotgun.live/en/events/manifest-miami-art-week",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/amal-nemer-alessandro-de-tuglie-551325"
+    "https://edmtrain.com/miami-fl/amal-nemer-ale-de-tuglie-551325"
    ]
   },
   {
@@ -8840,9 +8873,15 @@
   },
   {
    "id": "dice:6aa05f20dcd56d0001894f1e",
-   "source": "19hz+dice",
+   "source": "19hz+dice+edmtrain",
    "title": "The Modern Love Affair (Floyd Basel 2026)",
-   "artists": [],
+   "artists": [
+    "Art Department",
+    "D Stone",
+    "Heidi Lawden",
+    "Palms Trax",
+    "Sinopoli"
+   ],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
    "date": "2026-12-03",
@@ -8862,7 +8901,8 @@
    "url": "https://dice.fm/event/6aa05f20dcd56d0001894f1e",
    "cancelled": false,
    "alt_urls": [
-    "https://link.dice.fm/modernloveaffairbasel"
+    "https://link.dice.fm/modernloveaffairbasel",
+    "https://edmtrain.com/miami-fl/art-department-d-stone-551900"
    ]
   },
   {
@@ -9302,9 +9342,11 @@
   },
   {
    "id": "shotgun:bloom-m2-5",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Sander Van Doorn",
-   "artists": [],
+   "artists": [
+    "Sander Van Doorn"
+   ],
    "venue": "Club M2 Miami",
    "venue_slug": null,
    "date": "2026-12-04",
@@ -9318,7 +9360,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/bloom-m2-5"
+   "url": "https://shotgun.live/en/events/bloom-m2-5",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/sander-van-doorn-551944"
+   ]
   },
   {
    "id": "hardrock:213223",
@@ -13303,6 +13348,31 @@
    ]
   },
   {
+   "id": "edmtrain:551895",
+   "source": "edmtrain",
+   "title": "Oscar G",
+   "artists": [
+    "Oscar G"
+   ],
+   "venue": "Edge Miami",
+   "venue_slug": null,
+   "date": "2026-12-26",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "114 NE 20th Terrace, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/bvldgm?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/oscar-g-551895"
+   ]
+  },
+  {
    "id": "hardrock:207857",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -13400,6 +13470,31 @@
    "url": "https://speakeasygo.com/event/EVE-5NRMXW?t=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/a-train-549818"
+   ]
+  },
+  {
+   "id": "edmtrain:552082",
+   "source": "edmtrain",
+   "title": "Tiësto",
+   "artists": [
+    "Tiësto"
+   ],
+   "venue": "LIV Miami",
+   "venue_slug": null,
+   "date": "2026-12-29",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "4441 Collins Ave, Miami Beach, FL 33140, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.livnightclub.com/miami/event/EVE112156200020261229/ti-sto/",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/tiesto-552082"
    ]
   },
   {
@@ -13887,6 +13982,31 @@
    "url": "https://dice.fm/event/bvlw8k?pid=d6342b83",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/devault-551489"
+   ]
+  },
+  {
+   "id": "edmtrain:551979",
+   "source": "edmtrain",
+   "title": "Fisher",
+   "artists": [
+    "Fisher"
+   ],
+   "venue": "Palm Tree Club Miami",
+   "venue_slug": null,
+   "date": "2026-12-31",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1819 79th Street Causeway, North Bay Village, FL 33141, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/fisher-nye-presented-by-palm-tree-club-miami?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/fisher-551979"
    ]
   },
   {
@@ -15218,9 +15338,11 @@
   },
   {
    "id": "dice:6af3854e0c25ed00014a7b8a",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "DJ Swisha",
-   "artists": [],
+   "artists": [
+    "DJ Swisha"
+   ],
    "venue": "Jolene Sound Room Miami",
    "venue_slug": "jolene",
    "date": "2027-01-30",
@@ -15238,7 +15360,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6af3854e0c25ed00014a7b8a",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/dj-swisha-551934"
+   ]
   },
   {
    "id": "dice:6abde1c608a31d0001f4c9e6",
@@ -15590,9 +15715,11 @@
   },
   {
    "id": "dice:6af34d6308291100017f7af4",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "Modeselektor",
-   "artists": [],
+   "artists": [
+    "Modeselektor"
+   ],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
    "date": "2027-02-13",
@@ -15610,7 +15737,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6af34d6308291100017f7af4",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/modeselektor-551901"
+   ]
   },
   {
    "id": "edmtrain:550774",
@@ -16370,7 +16500,7 @@
   },
   {
    "id": "shotgun:paloma-morphy-miami",
-   "source": "shotgun",
+   "source": "shotgun+venue",
    "title": "Paloma Morphy",
    "artists": [
     "Paloma Morphy"
@@ -16385,8 +16515,8 @@
    "ages": "",
    "price": "$29.88",
    "genres": [
-    "latin",
     "indie pop",
+    "latin",
     "pop"
    ],
    "genres_inferred": false,
@@ -16400,7 +16530,10 @@
     "latitude": 25.8327584,
     "longitude": -80.1890685
    },
-   "created": "2026-05-13T14:00:00.000Z"
+   "created": "2026-05-13T14:00:00.000Z",
+   "alt_urls": [
+    "https://calendar.zeyzeymiami.com/shows/paloma-morphy-12-may"
+   ]
   }
  ]
 }

@@ -167,17 +167,17 @@ CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab44b4b28d5d90001e98039@jolene.miami-calendars
-DTSTAMP:20261111T041827Z
-LAST-MODIFIED:20261111T041827Z
-SEQUENCE:4
+DTSTAMP:20261111T101835Z
+LAST-MODIFIED:20261111T101835Z
+SEQUENCE:5
 DTSTART:20261201T030000Z
 DTEND:20261201T110000Z
 SUMMARY:Basel: Seth Troxler
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Lineup: Seth Troxler\nTags: house\, tech house\, techno\nAges: 
- 21+\nhttps://dice.fm/event/6ab44d3879b6750001a8fb66\nhttps://edmtrain.com/
- miami-fl/seth-troxler-551483
+DESCRIPTION:Lineup: Seth Troxler\, Danyelino\, Sister System\nTags: house\,
+  tech house\, techno\nAges: 21+\nhttps://dice.fm/event/6ab44d3879b6750001a
+ 8fb66\nhttps://edmtrain.com/miami-fl/seth-troxler-danyelino-551483
 URL:https://dice.fm/event/6ab44d3879b6750001a8fb66
 STATUS:CONFIRMED
 CATEGORIES:house,tech house,techno
@@ -357,16 +357,17 @@ CATEGORIES:house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6af3854e0c25ed00014a7b8a@jolene.miami-calendars
-DTSTAMP:20261111T041827Z
-LAST-MODIFIED:20261111T041827Z
-SEQUENCE:0
+DTSTAMP:20261111T101835Z
+LAST-MODIFIED:20261111T101835Z
+SEQUENCE:1
 DTSTART:20270131T030000Z
 DTEND:20270131T090000Z
 SUMMARY:DJ Swisha
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6af3854
- e0c25ed00014a7b8a
+DESCRIPTION:Lineup: DJ Swisha\nTags (guess): house\, tech house\nhttps://di
+ ce.fm/event/6af3854e0c25ed00014a7b8a\nhttps://edmtrain.com/miami-fl/dj-swi
+ sha-551934
 URL:https://dice.fm/event/6af3854e0c25ed00014a7b8a
 STATUS:CONFIRMED
 CATEGORIES:house,tech house

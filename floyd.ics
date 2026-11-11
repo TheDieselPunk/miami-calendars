@@ -172,15 +172,17 @@ CATEGORIES:deep house,funk,house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aa05f20dcd56d0001894f1e@floyd.miami-calendars
-DTSTAMP:20261103T221802Z
-LAST-MODIFIED:20261103T221802Z
-SEQUENCE:2
+DTSTAMP:20261111T101835Z
+LAST-MODIFIED:20261111T101835Z
+SEQUENCE:3
 DTSTART:20261204T040000Z
 DTEND:20261204T100000Z
 SUMMARY:The Modern Love Affair (Floyd Basel 2026)
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nAges: 21+\nhttps://dice.fm/event/
- 6aa05f20dcd56d0001894f1e\nhttps://link.dice.fm/modernloveaffairbasel
+DESCRIPTION:Lineup: Art Department\, D Stone\, Heidi Lawden\, Palms Trax\, 
+ Sinopoli\nTags (guess): house\, techno\nAges: 21+\nhttps://dice.fm/event/6
+ aa05f20dcd56d0001894f1e\nhttps://edmtrain.com/miami-fl/art-department-d-st
+ one-551900\nhttps://link.dice.fm/modernloveaffairbasel
 URL:https://dice.fm/event/6aa05f20dcd56d0001894f1e
 STATUS:CONFIRMED
 CATEGORIES:house,techno
@@ -378,15 +380,16 @@ CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6af34d6308291100017f7af4@floyd.miami-calendars
-DTSTAMP:20261110T221824Z
-LAST-MODIFIED:20261110T221824Z
-SEQUENCE:0
+DTSTAMP:20261111T101835Z
+LAST-MODIFIED:20261111T101835Z
+SEQUENCE:1
 DTSTART:20270214T040000Z
 DTEND:20270214T100000Z
 SUMMARY:Modeselektor
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6af34d63082
- 91100017f7af4
+DESCRIPTION:Lineup: Modeselektor\nTags (guess): house\, techno\nhttps://dic
+ e.fm/event/6af34d6308291100017f7af4\nhttps://edmtrain.com/miami-fl/modesel
+ ektor-551901
 URL:https://dice.fm/event/6af34d6308291100017f7af4
 STATUS:CONFIRMED
 CATEGORIES:house,techno
