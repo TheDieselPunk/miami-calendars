@@ -1778,7 +1778,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "",
-   "price": "",
+   "price": " (sold out)",
    "genres": [
     "house",
     "techno"
@@ -2136,7 +2136,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $80",
+   "price": "From $70",
    "genres": [
     "future bass",
     "house",
@@ -2454,7 +2454,7 @@
   {
    "id": "dice:6a88676d138c56000110cb09",
    "source": "19hz+dice+edmtrain",
-   "title": "suero x STAS: EQ",
+   "title": "suero x STAS: EQ + Isla Den",
    "artists": [
     "EQ"
    ],
@@ -2506,7 +2506,7 @@
    "organizer": "BEIRUT NIGHTS IN",
    "description": "Beirut Nights In Presents: Beirut to Miami! Immerse yourself in the diverse rhythms of Arabic, French, Latin, House, and other global genres, capturing the essence of Beirut's cosmopolitan allure right in the heart of Miami! Picture a city that has endured the tests of time, our party seeks to encapsulate its resilience and vivacity in the face against all odds. Amidst the turmoil and uncertainty of conflict, Beirutis have always found solace and strength in their vibrant nightlife, turning nights of darkness into moments of light and celebration. The cosmopolitan nature of Beirut's nightlife is a tapestry woven with the threads of diverse cultures, traditions and modern influences. It is a reflection of the city's historical role as a crossroads of civilizations, where East meets West and tradition combine seamlessly with contemporary trends. Step into Beirut's nightlife, and you'll find yourself immersed in a vibrant mosaic of sights, sounds, and experiences that celebrate the city's rich multicultural heritage. Music: Anthony Raad & Mark Azar Doors open @ 11 PM 21+ No refunds",
    "url": "https://shotgun.live/en/events/beiruttomiami1",
-   "tickets": "VIP Table for 6 People - $750 Minimum Spend Free, General Admission - Early Bird $30 (sold out), General Admission - Tier 2 $35 (sold out), General Admission - Tier 3 $40, VIP Table for 8 People - $1000 Minimum Spend $200 (sold out), VIP Table for 8 People - $1000 Minimum Spend Free, VIP Table for 10 People - $1500 Minimum Spend Free",
+   "tickets": "VIP Table for 6 People - $900 Minimum Spend Free, General Admission - Early Bird $30 (sold out), General Admission - Tier 2 $35 (sold out), General Admission - Tier 3 $40, VIP Table for 8 People - $1200 Minimum Spend Free, VIP Table for 10 People - $1750 Minimum Spend Free",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -2711,7 +2711,7 @@
   {
    "id": "hardrock:205537",
    "source": "venue",
-   "title": "DAER Dayclub",
+   "title": "Sunkiss Sunday",
    "artists": [],
    "venue": "DAER Dayclub",
    "venue_slug": "daer",
@@ -2727,7 +2727,7 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/205537",
-   "generic_title": true
+   "generic_title": false
   },
   {
    "id": "19hz:4448784-pierpressurehome",
@@ -3968,6 +3968,26 @@
    "url": "https://shotgun.live/en/events/clubperreo-3"
   },
   {
+   "id": "shotgun:material-things-4",
+   "source": "shotgun",
+   "title": "Material Things",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-11-20",
+   "start": "2026-11-21T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/material-things-4"
+  },
+  {
    "id": "19hz:4449304-specialguests",
    "source": "19hz",
    "title": "Special Guests",
@@ -5061,6 +5081,26 @@
    "generic_title": true
   },
   {
+   "id": "shotgun:sunday-social-chillin-n-grillin-pop-up",
+   "source": "shotgun",
+   "title": "Sunday Social / Chillin' N Grillin' Pop Up",
+   "artists": [],
+   "venue": "Fooq's",
+   "venue_slug": null,
+   "date": "2026-11-22",
+   "start": "2026-11-22T19:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sunday-social-chillin-n-grillin-pop-up"
+  },
+  {
    "id": "shotgun:end-of-summer-presents-fall",
    "source": "shotgun",
    "title": "End Of Summer Presents: Fall",
@@ -5263,7 +5303,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "",
-   "price": "From $80",
+   "price": "From $70",
    "genres": [
     "house",
     "techno"
@@ -6517,6 +6557,30 @@
    ]
   },
   {
+   "id": "shotgun:violetas-x-pdf",
+   "source": "shotgun",
+   "title": "Paradisio: Violetas X Perreo Del Futuro",
+   "artists": [],
+   "venue": "Las Rosas",
+   "venue_slug": null,
+   "date": "2026-11-28",
+   "start": "2026-11-29T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$10.00",
+   "genres": [
+    "miami bass",
+    "eurodance",
+    "latin house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/violetas-x-pdf"
+  },
+  {
    "id": "shotgun:mejias-mr-fulltime-diego-silvestre",
    "source": "shotgun",
    "title": "Mejias, Mr. Fulltime, Diego Silvestre",
@@ -6984,6 +7048,44 @@
     "https://dice.fm/event/53kwqd-bag-raiders-28th-nov-floyd-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/bag-raiders-katie-ox-532664"
    ]
+  },
+  {
+   "id": "shotgun:deja-vu-ryoka",
+   "source": "shotgun",
+   "title": "Déjà Vu X Ryoka",
+   "artists": [
+    "CHAOS!",
+    "Mastrapa",
+    "spice crime",
+    "Gal4ga",
+    "mango."
+   ],
+   "venue": "The Boombox Miami",
+   "venue_slug": "boombox",
+   "date": "2026-11-28",
+   "start": "2026-11-29T04:00:00+00:00",
+   "end": "2026-11-29T10:00:00+00:00",
+   "time_estimated": false,
+   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "electro",
+    "acid house",
+    "miami bass"
+   ],
+   "genres_inferred": false,
+   "organizer": "DÉJÁ-VU",
+   "description": "Something’s stirring in the deep end… DÉJÀ VU & RYOKA join forces to take over the outside of The Boombox on Saturday, November 28th. Left-field rhythms from some of Miami’s finest, powered by Ryoka’s newly built sound system. LINE UP: ↳ CHAOS! ↳ GAL4GA ↳ MANGO B2B SPICE CRIME ↳ MILES AMILLION ↳ MASTRAPA",
+   "url": "https://shotgun.live/en/events/deja-vu-ryoka",
+   "tickets": "FREE RSVP (21+) Free",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.7287781,
+    "longitude": -80.3169309
+   },
+   "created": "2026-11-11T17:01:30.000Z"
   },
   {
    "id": "dice:6abbe310b2412f00017024b3",
@@ -7531,7 +7633,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $25",
+   "price": "From $20",
    "genres": [
     "tech house",
     "techno"
@@ -7883,7 +7985,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $70",
+   "price": "From $60",
    "genres": [
     "house",
     "tech house",
@@ -8272,6 +8374,7 @@
    "title": "Vice City World Art Basel Show 2026",
    "artists": [
     "BabyBartier",
+    "Boohavinn",
     "Percaso",
     "holottacheese",
     "Sir Untre",
@@ -8295,7 +8398,7 @@
    ],
    "genres_inferred": false,
    "organizer": "Vice City World",
-   "description": "18+ Event. PROMO CODE “777” $5 OFF The underground takes over Miami for Art Basel week! Thursday, December 3, Vice City World brings Baby Bartier, Percaso, Holottacheese, Siruntre, Dxrop, Whotfis2k, and more underground rap artists to the stage for our 2026 Art Basel showcase. Come catch the artists you’ve had on repeat and leave with a new favorite. Grab your tickets now and we’ll see you in the crowd!",
+   "description": "18+ EVENT | PROMO CODE “777” FOR $5 OFF ART BASEL SHOWCASE FEATURING BOOHAVINN, Baby Bartier, Percaso, Holottacheese, Siruntre, Dxrop, Whotfis2k & more! Thursday, December 3, Vice City World brings Miami’s underground rap scene together for one night during Art Basel week. Get your tickets now and use code 777 to save $5!",
    "url": "https://shotgun.live/en/events/vice-city-world-art-basel-show-2026",
    "tickets": "General Admission $30.84",
    "cancelled": false,
@@ -8684,7 +8787,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $17",
+   "price": "From $15",
    "genres": [
     "minimal",
     "tech house"
@@ -8879,7 +8982,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $36 (sold out)",
+   "price": "From $30",
    "genres": [
     "deep house",
     "techno",
@@ -9491,7 +9594,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "",
-   "price": "From $125",
+   "price": "From $100",
    "genres": [
     "house",
     "techno"
@@ -9535,6 +9638,38 @@
    "alt_urls": [
     "https://dice.fm/event/6ab44533af1ad900014f7295",
     "https://edmtrain.com/miami-fl/djulz-isaac-carter-550560"
+   ]
+  },
+  {
+   "id": "edmtrain:552096",
+   "source": "edmtrain",
+   "title": "INFEKT, PROSECUTE, A Hundred Drums, AFTRNOONDLITE, Crimsxn",
+   "artists": [
+    "INFEKT",
+    "PROSECUTE",
+    "A Hundred Drums",
+    "AFTRNOONDLITE",
+    "Crimsxn"
+   ],
+   "venue": "Kemistry",
+   "venue_slug": "kemistry",
+   "date": "2026-12-04",
+   "start": "2026-12-05T03:00:00+00:00",
+   "end": "2026-12-05T09:00:00+00:00",
+   "time_estimated": true,
+   "address": "307 SW 2nd St, Fort Lauderdale, FL 33312, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "bass",
+    "dubstep"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://kemistrynightclub.com/events",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/infekt-prosecute-552096"
    ]
   },
   {
@@ -10496,7 +10631,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $40",
+   "price": "From $30",
    "genres": [
     "organic house",
     "progressive house"
@@ -10509,6 +10644,38 @@
    "alt_urls": [
     "https://dice.fm/event/6ab446f49e8bcf0001f96b29",
     "https://edmtrain.com/miami-fl/francis-mercier-539605"
+   ]
+  },
+  {
+   "id": "edmtrain:552097",
+   "source": "edmtrain",
+   "title": "FuntCase, Vastive, sfam, DIEHL, Swamp Thiing",
+   "artists": [
+    "FuntCase",
+    "Vastive",
+    "sfam",
+    "DIEHL",
+    "Swamp Thiing"
+   ],
+   "venue": "Kemistry",
+   "venue_slug": "kemistry",
+   "date": "2026-12-05",
+   "start": "2026-12-06T03:00:00+00:00",
+   "end": "2026-12-06T09:00:00+00:00",
+   "time_estimated": true,
+   "address": "307 SW 2nd St, Fort Lauderdale, FL 33312, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "bass",
+    "dubstep"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/aabdaq?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/funtcase-vastive-552097"
    ]
   },
   {
@@ -10933,7 +11100,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $75",
+   "price": "From $65",
    "genres": [
     "progressive house",
     "tech house"
@@ -10981,6 +11148,38 @@
    "alt_urls": [
     "https://dice.fm/event/q2d3na-basel-damian-lazarus-danny-daze-more-6th-dec-jolene-sound-room-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/damian-lazarus-danny-daze-548827"
+   ]
+  },
+  {
+   "id": "edmtrain:552098",
+   "source": "edmtrain",
+   "title": "Smoakland, Blossom, Gardella, Rekka Wubz, Psyoptic",
+   "artists": [
+    "Smoakland",
+    "Blossom",
+    "Gardella",
+    "Rekka Wubz",
+    "Psyoptic"
+   ],
+   "venue": "Kemistry",
+   "venue_slug": "kemistry",
+   "date": "2026-12-06",
+   "start": "2026-12-07T03:00:00+00:00",
+   "end": "2026-12-07T09:00:00+00:00",
+   "time_estimated": true,
+   "address": "307 SW 2nd St, Fort Lauderdale, FL 33312, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "bass",
+    "dubstep"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/qnxg5o?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/smoakland-blossom-552098"
    ]
   },
   {
@@ -13607,7 +13806,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $175",
+   "price": "From $150",
    "genres": [
     "tech house"
    ],
@@ -14873,7 +15072,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $24",
+   "price": "From $20",
    "genres": [
     "house"
    ],

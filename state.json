@@ -180,9 +180,9 @@
   "modified": "2026-11-05T22:18:29+00:00"
  },
  "beiruttomiami1@shotgun.live": {
-  "hash": "416c4b202cd300a0",
-  "seq": 9,
-  "modified": "2026-11-10T04:18:23+00:00"
+  "hash": "d11433af54b7fa1d",
+  "seq": 10,
+  "modified": "2026-11-11T22:18:27+00:00"
  },
  "c3trlroom-17@shotgun.live": {
   "hash": "0911970e25c21fbd",
@@ -198,6 +198,11 @@
   "hash": "f94ab6ac139c5ff7",
   "seq": 0,
   "modified": "2026-10-28T22:18:06+00:00"
+ },
+ "deja-vu-ryoka@shotgun.live": {
+  "hash": "52ed252264ee85ee",
+  "seq": 0,
+  "modified": "2026-11-11T22:18:27+00:00"
  },
  "dice-6a02cf0a5ca3ee0001e1d1dc@kemistry.miami-calendars": {
   "hash": "f47eb8ae663aa098",
@@ -270,9 +275,9 @@
   "modified": "2026-10-17T16:18:17+00:00"
  },
  "dice-6a88676d138c56000110cb09@the-ground.miami-calendars": {
-  "hash": "6be7703f94d19f9f",
-  "seq": 2,
-  "modified": "2026-09-26T22:18:17+00:00"
+  "hash": "718cf287a0519686",
+  "seq": 3,
+  "modified": "2026-11-11T22:18:27+00:00"
  },
  "dice-6a8b4d68fec4480001a68ffe@jolene.miami-calendars": {
   "hash": "727f469417ec6457",
@@ -874,6 +879,21 @@
   "seq": 0,
   "modified": "2026-11-11T04:18:27+00:00"
  },
+ "edmtrain-552096@kemistry.miami-calendars": {
+  "hash": "c6b03561a30a5fad",
+  "seq": 0,
+  "modified": "2026-11-11T22:18:27+00:00"
+ },
+ "edmtrain-552097@kemistry.miami-calendars": {
+  "hash": "61408ebda62eac03",
+  "seq": 0,
+  "modified": "2026-11-11T22:18:27+00:00"
+ },
+ "edmtrain-552098@kemistry.miami-calendars": {
+  "hash": "ed353c391c0d8680",
+  "seq": 0,
+  "modified": "2026-11-11T22:18:27+00:00"
+ },
  "equinox-fest-4-day-2-3-november-21-22nd@shotgun.live": {
   "hash": "a6b82d159fc90bb0",
   "seq": 1,
@@ -915,9 +935,9 @@
   "modified": "2026-11-10T04:18:23+00:00"
  },
  "hardrock-205537@daer.miami-calendars": {
-  "hash": "9adbe642eab63d37",
-  "seq": 1,
-  "modified": "2026-09-21T20:07:29+00:00"
+  "hash": "4d8c63081d03650b",
+  "seq": 2,
+  "modified": "2026-11-11T22:18:27+00:00"
  },
  "hardrock-205539@daer.miami-calendars": {
   "hash": "2e5f6669afea916a",
@@ -1435,9 +1455,9 @@
   "modified": "2026-11-09T22:18:17+00:00"
  },
  "vice-city-world-art-basel-show-2026@shotgun.live": {
-  "hash": "0b3c4d39f9204d4f",
-  "seq": 2,
-  "modified": "2026-11-10T22:18:24+00:00"
+  "hash": "812b91f0a476ca4d",
+  "seq": 3,
+  "modified": "2026-11-11T22:18:27+00:00"
  },
  "zeyzey-a-trak-friends-04-dec@zeyzey.miami-calendars": {
   "hash": "de978b1b1b2707a1",

@@ -72,8 +72,8 @@
   "slug": "kemistry",
   "name": "Kemistry (Fort Lauderdale)",
   "file": "kemistry.ics",
-  "events": 18,
-  "estimated_times": 0,
+  "events": 21,
+  "estimated_times": 3,
   "next": "2026-11-12",
   "sources": [
    "19hz",
@@ -86,7 +86,7 @@
   "slug": "boombox",
   "name": "The Boombox Miami",
   "file": "boombox.ics",
-  "events": 11,
+  "events": 12,
   "estimated_times": 0,
   "next": "2026-11-13",
   "sources": [
