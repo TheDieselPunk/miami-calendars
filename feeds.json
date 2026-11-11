@@ -143,7 +143,7 @@
   "slug": "jolene",
   "name": "Jolene Sound Room",
   "file": "jolene.ics",
-  "events": 20,
+  "events": 21,
   "estimated_times": 0,
   "next": "2026-11-12",
   "sources": [
@@ -171,8 +171,8 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 47,
-  "estimated_times": 19,
+  "events": 50,
+  "estimated_times": 21,
   "next": "2026-11-11",
   "sources": [
    "19hz",

@@ -102,6 +102,46 @@ STATUS:CONFIRMED
 CATEGORIES:house,tech house
 END:VEVENT
 BEGIN:VEVENT
+UID:edmtrain-551215@festivals.miami-calendars
+DTSTAMP:20261111T041827Z
+LAST-MODIFIED:20261111T041827Z
+SEQUENCE:0
+DTSTART:20261121T200000Z
+DTEND:20261122T070000Z
+SUMMARY:Grand Theft Auto VI: Travis Scott\, Don Toliver\, Kodak Black\, SoF
+ aygo\, Cardi B\, CA7RIEL\, Paco Amoroso\, Justice\, Metro Boomin\, Nick Le
+ ón\, DJ Python\, Prospa\, Skream\, Suero\, Tainy\, The Dare b2b Fcukers (
+ DJ Set)\, Rauw Alejandro
+LOCATION:Mana Wynwood Convention Center\, 318 NW 23rd St\, Miami\, FL 33127
+ \, USA
+DESCRIPTION:Lineup: Travis Scott\, Don Toliver\, Kodak Black\, SoFaygo\, Ca
+ rdi B\, CA7RIEL\, Paco Amoroso\, Justice\, Metro Boomin\, Nick León\, DJ 
+ Python\, Prospa\, Skream\, Suero\, Tainy\, The Dare\, Fcukers (DJ Set)\, R
+ auw Alejandro\nTimes are an estimate from Festivals & one-offs's usual hou
+ rs - the listing has no start time yet. Check the link.\nhttps://dice.fm/e
+ vent/783n2v?pid=d6342b83\nhttps://edmtrain.com/miami-fl/grand-theft-auto-v
+ i-travis-scott-551215
+URL:https://dice.fm/event/783n2v?pid=d6342b83
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:edmtrain-551792@festivals.miami-calendars
+DTSTAMP:20261111T041827Z
+LAST-MODIFIED:20261111T041827Z
+SEQUENCE:0
+DTSTART:20261121T200000Z
+DTEND:20261122T070000Z
+SUMMARY:Waves Of House
+LOCATION:Virginia Key Beach Park\, 4020 Virginia Beach Dr\, Miami\, FL 3314
+ 9\, USA
+DESCRIPTION:Times are an estimate from Festivals & one-offs's usual hours -
+  the listing has no start time yet. Check the link.\nhttps://bubbl.so/e/6l
+ u5GoR?s=2aYEr43aHBe1mVGdTcAZaHdeO1K2\nhttps://edmtrain.com/miami-fl/waves-
+ of-house-551792
+URL:https://bubbl.so/e/6lu5GoR?s=2aYEr43aHBe1mVGdTcAZaHdeO1K2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:19hz-4449396-blackroom3yearan@festivals.miami-calendars
 DTSTAMP:20261110T041823Z
 LAST-MODIFIED:20261110T041823Z
@@ -202,6 +242,19 @@ DESCRIPTION:Tags: house\, tech house\nhttps://shotgun.live/en/events/humans
 URL:https://shotgun.live/en/events/humans-alike-sundays-nov-29
 STATUS:CONFIRMED
 CATEGORIES:house,tech house
+END:VEVENT
+BEGIN:VEVENT
+UID:c3trlroom-17@shotgun.live
+DTSTAMP:20261111T041827Z
+LAST-MODIFIED:20261111T041827Z
+SEQUENCE:0
+DTSTART:20261203T020000Z
+DTEND:20261203T070000Z
+SUMMARY:Art Basel: T-Puse (Ursul\, Maccabi House)\, Oozzaa
+LOCATION:AIRE Miami
+DESCRIPTION:https://shotgun.live/en/events/c3trlroom-17
+URL:https://shotgun.live/en/events/c3trlroom-17
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:art-basel-shotgun-takeover-fooq-s-miami@shotgun.live

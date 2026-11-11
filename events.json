@@ -70,26 +70,6 @@
    "url": "https://wl.eventim.us/event/sunsquabi/703607?afflky=FunkyBiscuit"
   },
   {
-   "id": "shotgun:comedy-night-at-churchill-s-10",
-   "source": "shotgun",
-   "title": "Comedy Night At Churchill's",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-11-10",
-   "start": "2026-11-11T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/comedy-night-at-churchill-s-10"
-  },
-  {
    "id": "edmtrain:532667",
    "source": "edmtrain",
    "title": "Sunsquabi, Phyphr",
@@ -990,6 +970,26 @@
     "https://edmtrain.com/miami-fl/christian-loffler-538533",
     "https://edmtrain.com/miami-fl/zeyzey-presents-mindgazm-546729"
    ]
+  },
+  {
+   "id": "shotgun:bloom-m2-6",
+   "source": "shotgun",
+   "title": "Tori Seagel, Amdana, Sebastian Morxx, Laura Carmer",
+   "artists": [],
+   "venue": "Club M2 Miami",
+   "venue_slug": null,
+   "date": "2026-11-13",
+   "start": "2026-11-14T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$20.00",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/bloom-m2-6"
   },
   {
    "id": "hardrock:206001",
@@ -3773,6 +3773,26 @@
    "url": "https://shotgun.live/en/events/clubperreo-3"
   },
   {
+   "id": "shotgun:bloom-m2-7",
+   "source": "shotgun",
+   "title": "Ctrl Room",
+   "artists": [],
+   "venue": "Club M2 Miami",
+   "venue_slug": null,
+   "date": "2026-11-20",
+   "start": "2026-11-21T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$20.00",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/bloom-m2-7"
+  },
+  {
    "id": "hardrock:206018",
    "source": "venue",
    "title": "Fabolous",
@@ -4111,7 +4131,7 @@
   {
    "id": "dice:6ab54b4737b4c00001654ff2",
    "source": "19hz+dice+edmtrain",
-   "title": "The Vault Presents: Chris Lorenzo, Sammy Virgi + Special Guests",
+   "title": "The Vault Presents: Chris Lorenzo, Sammy Virji + Special Guests",
    "artists": [
     "Chris Lorenzo",
     "Sammy Virji",
@@ -4316,6 +4336,71 @@
     "longitude": -80.3169309
    },
    "created": "2026-10-19T15:50:33.000Z"
+  },
+  {
+   "id": "edmtrain:551215",
+   "source": "edmtrain",
+   "title": "Grand Theft Auto VI: Travis Scott, Don Toliver, Kodak Black, SoFaygo, Cardi B, CA7RIEL, Paco Amoroso, Justice, Metro Boomin, Nick León, DJ Python, Prospa, Skream, Suero, Tainy, The Dare b2b Fcukers (DJ Set), Rauw Alejandro",
+   "artists": [
+    "Travis Scott",
+    "Don Toliver",
+    "Kodak Black",
+    "SoFaygo",
+    "Cardi B",
+    "CA7RIEL",
+    "Paco Amoroso",
+    "Justice",
+    "Metro Boomin",
+    "Nick León",
+    "DJ Python",
+    "Prospa",
+    "Skream",
+    "Suero",
+    "Tainy",
+    "The Dare",
+    "Fcukers (DJ Set)",
+    "Rauw Alejandro"
+   ],
+   "venue": "Mana Wynwood Convention Center",
+   "venue_slug": "festivals",
+   "date": "2026-11-21",
+   "start": "2026-11-21T20:00:00+00:00",
+   "end": "2026-11-22T07:00:00+00:00",
+   "time_estimated": true,
+   "address": "318 NW 23rd St, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/783n2v?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/grand-theft-auto-vi-travis-scott-551215"
+   ]
+  },
+  {
+   "id": "edmtrain:551792",
+   "source": "edmtrain",
+   "title": "Waves Of House",
+   "artists": [],
+   "venue": "Virginia Key Beach Park",
+   "venue_slug": "festivals",
+   "date": "2026-11-21",
+   "start": "2026-11-21T20:00:00+00:00",
+   "end": "2026-11-22T07:00:00+00:00",
+   "time_estimated": true,
+   "address": "4020 Virginia Beach Dr, Miami, FL 33149, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://bubbl.so/e/6lu5GoR?s=2aYEr43aHBe1mVGdTcAZaHdeO1K2",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/waves-of-house-551792"
+   ]
   },
   {
    "id": "19hz:4449376-klingande",
@@ -7342,7 +7427,7 @@
   {
    "id": "dice:6ab44b4b28d5d90001e98039",
    "source": "19hz+dice+edmtrain",
-   "title": "Basel: Special Guest",
+   "title": "Basel: Seth Troxler",
    "artists": [
     "Seth Troxler"
    ],
@@ -7696,6 +7781,26 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/unkommon-art-week-bedouin-533698"
    ]
+  },
+  {
+   "id": "shotgun:c3trlroom-17",
+   "source": "shotgun",
+   "title": "Art Basel: T-Puse (Ursul, Maccabi House), Oozzaa",
+   "artists": [],
+   "venue": "AIRE Miami",
+   "venue_slug": "festivals",
+   "date": "2026-12-02",
+   "start": "2026-12-03T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$20.00",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/c3trlroom-17"
   },
   {
    "id": "shotgun:art-basel-shotgun-takeover-fooq-s-miami",
@@ -10380,7 +10485,7 @@
   {
    "id": "dice:6ab446f49e8bcf0001f96b29",
    "source": "19hz+dice+edmtrain",
-   "title": "Basel: To Be Announced",
+   "title": "Basel: Francis Mercier",
    "artists": [
     "Francis Mercier"
    ],
@@ -10392,7 +10497,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $30",
+   "price": "From $40",
    "genres": [
     "organic house",
     "progressive house"
@@ -15110,6 +15215,30 @@
    "description": "",
    "url": "https://tixr.com/e/212401",
    "generic_title": true
+  },
+  {
+   "id": "dice:6af3854e0c25ed00014a7b8a",
+   "source": "dice",
+   "title": "DJ Swisha",
+   "artists": [],
+   "venue": "Jolene Sound Room Miami",
+   "venue_slug": "jolene",
+   "date": "2027-01-30",
+   "start": "2027-01-31T03:00:00+00:00",
+   "end": "2027-01-31T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "ages": "",
+   "price": "From $7",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6af3854e0c25ed00014a7b8a",
+   "cancelled": false
   },
   {
    "id": "dice:6abde1c608a31d0001f4c9e6",

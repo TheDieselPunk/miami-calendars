@@ -184,6 +184,11 @@
   "seq": 9,
   "modified": "2026-11-10T04:18:23+00:00"
  },
+ "c3trlroom-17@shotgun.live": {
+  "hash": "0911970e25c21fbd",
+  "seq": 0,
+  "modified": "2026-11-11T04:18:27+00:00"
+ },
  "cafe-grooves-art-week@shotgun.live": {
   "hash": "bbf01bb33a85d152",
   "seq": 1,
@@ -410,9 +415,9 @@
   "modified": "2026-11-06T04:18:43+00:00"
  },
  "dice-6ab446f49e8bcf0001f96b29@jolene.miami-calendars": {
-  "hash": "ac2a2bcc3646a05b",
-  "seq": 4,
-  "modified": "2026-10-22T04:18:28+00:00"
+  "hash": "725070911e4a35ba",
+  "seq": 5,
+  "modified": "2026-11-11T04:18:27+00:00"
  },
  "dice-6ab448eab6c65c00012abd8a@jolene.miami-calendars": {
   "hash": "10f658def9686f1e",
@@ -420,14 +425,14 @@
   "modified": "2026-11-10T04:18:23+00:00"
  },
  "dice-6ab44b4b28d5d90001e98039@jolene.miami-calendars": {
-  "hash": "6fee3919e99a36f0",
-  "seq": 3,
-  "modified": "2026-11-10T04:18:23+00:00"
+  "hash": "52b9eec9e5ce3aaf",
+  "seq": 4,
+  "modified": "2026-11-11T04:18:27+00:00"
  },
  "dice-6ab54b4737b4c00001654ff2@club-space.miami-calendars": {
-  "hash": "9b033a493779f2bf",
-  "seq": 3,
-  "modified": "2026-11-06T22:18:27+00:00"
+  "hash": "7945274ba2447308",
+  "seq": 4,
+  "modified": "2026-11-11T04:18:27+00:00"
  },
  "dice-6ab5a8633fd3b20001e06e58@factory-town.miami-calendars": {
   "hash": "0ce8e6b9b76e494b",
@@ -739,6 +744,11 @@
   "seq": 0,
   "modified": "2026-11-10T22:18:24+00:00"
  },
+ "dice-6af3854e0c25ed00014a7b8a@jolene.miami-calendars": {
+  "hash": "5a86b4371b963cfc",
+  "seq": 0,
+  "modified": "2026-11-11T04:18:27+00:00"
+ },
  "edmtrain-458944@festivals.miami-calendars": {
   "hash": "52f5b7eb786ce532",
   "seq": 2,
@@ -839,6 +849,11 @@
   "seq": 1,
   "modified": "2026-10-28T10:18:12+00:00"
  },
+ "edmtrain-551215@festivals.miami-calendars": {
+  "hash": "a867c531a5b7f1a2",
+  "seq": 0,
+  "modified": "2026-11-11T04:18:27+00:00"
+ },
  "edmtrain-551432@festivals.miami-calendars": {
   "hash": "b00a64e1ce87e8af",
   "seq": 0,
@@ -848,6 +863,11 @@
   "hash": "9dc481466c4b5fdc",
   "seq": 0,
   "modified": "2026-11-10T04:18:23+00:00"
+ },
+ "edmtrain-551792@festivals.miami-calendars": {
+  "hash": "b558f37a1f27eba1",
+  "seq": 0,
+  "modified": "2026-11-11T04:18:27+00:00"
  },
  "equinox-fest-4-day-2-3-november-21-22nd@shotgun.live": {
   "hash": "a6b82d159fc90bb0",
