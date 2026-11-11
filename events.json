@@ -43,57 +43,6 @@
    "url": "https://wl.eventim.us/event/sunsquabi/703607?afflky=FunkyBiscuit"
   },
   {
-   "id": "edmtrain:532667",
-   "source": "edmtrain",
-   "title": "Sunsquabi, Phyphr",
-   "artists": [
-    "Sunsquabi",
-    "Phyphr"
-   ],
-   "venue": "Funky Biscuit",
-   "venue_slug": null,
-   "date": "2026-11-10",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "303 SE Mizner Blvd, Boca Raton, FL 33432, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzAzNjA3Ojc=/clickthru",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/sunsquabi-phyphr-532667"
-   ]
-  },
-  {
-   "id": "edmtrain:551355",
-   "source": "edmtrain",
-   "title": "Shahar",
-   "artists": [
-    "Shahar"
-   ],
-   "venue": "Sable Miami",
-   "venue_slug": null,
-   "date": "2026-11-10",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "2219 NW 2nd Ave, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/w83ybx?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/shahar-551355"
-   ]
-  },
-  {
    "id": "19hz:4448424-lennypearce",
    "source": "19hz+edmtrain",
    "title": "Lenny Pearce",
@@ -278,26 +227,6 @@
    ]
   },
   {
-   "id": "shotgun:top-picks-a-comedy-show-at-tomorrowland",
-   "source": "shotgun",
-   "title": "Top Picks: A Comedy Show At Tomorrowland",
-   "artists": [],
-   "venue": "Tomorrowland Miami",
-   "venue_slug": null,
-   "date": "2026-11-11",
-   "start": "2026-11-12T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$22.70",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/top-picks-a-comedy-show-at-tomorrowland"
-  },
-  {
    "id": "19hz:4448440-rivo",
    "source": "19hz+edmtrain",
    "title": "Rivo",
@@ -471,7 +400,7 @@
   {
    "id": "shotgun:madradiomiami111226",
    "source": "shotgun",
-   "title": "Femme Frequency / Frameless Sounds: Anabelen / Griott & Cort",
+   "title": "Femme Frequency / Frameless Sounds: Anabelen / Griot & Corte",
    "artists": [],
    "venue": "Mad Radio Miami",
    "venue_slug": "mad-radio",
@@ -1119,7 +1048,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $66",
+   "price": "From $60",
    "genres": [
     "eurobeat",
     "hard techno",
@@ -1834,6 +1763,30 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6a9c6f1a8e70340001656cb5",
+   "cancelled": false
+  },
+  {
+   "id": "dice:6af4850488e003000128290e",
+   "source": "dice",
+   "title": "Space Yoga",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2026-11-14",
+   "start": "2026-11-14T21:20:00+00:00",
+   "end": "2026-11-14T22:45:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6af4850488e003000128290e",
    "cancelled": false
   },
   {
@@ -6013,7 +5966,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "",
+   "price": "Free",
    "genres": [
     "latin"
    ],
@@ -6022,7 +5975,8 @@
    "description": "",
    "url": "https://buy.tablelist.com/e/1a812eb5de36eab4",
    "alt_urls": [
-    "https://calendar.zeyzeymiami.com/shows/reggaeton-rave-27-nov"
+    "https://calendar.zeyzeymiami.com/shows/reggaeton-rave-27-nov",
+    "https://calendar.zeyzeymiami.com/shows/romping-shop-27-nov"
    ]
   },
   {

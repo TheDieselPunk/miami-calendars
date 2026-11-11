@@ -253,15 +253,16 @@ CATEGORIES:dance/electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:tablelist-1a812eb5de36eab4@zeyzey.miami-calendars
-DTSTAMP:20261101T101757Z
-LAST-MODIFIED:20261101T101757Z
-SEQUENCE:0
+DTSTAMP:20261111T161829Z
+LAST-MODIFIED:20261111T161829Z
+SEQUENCE:1
 DTSTART:20261128T020000Z
 DTEND:20261128T070000Z
 SUMMARY:Reggaeton Rave
 LOCATION:ZeyZey Miami
 DESCRIPTION:Tags: latin\nhttps://buy.tablelist.com/e/1a812eb5de36eab4\nhttp
- s://calendar.zeyzeymiami.com/shows/reggaeton-rave-27-nov
+ s://calendar.zeyzeymiami.com/shows/reggaeton-rave-27-nov\nhttps://calendar
+ .zeyzeymiami.com/shows/romping-shop-27-nov
 URL:https://buy.tablelist.com/e/1a812eb5de36eab4
 STATUS:CONFIRMED
 CATEGORIES:latin
