@@ -172,56 +172,70 @@ STATUS:CONFIRMED
 CATEGORIES:bass music,dubstep,riddim
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-552096@kemistry.miami-calendars
-DTSTAMP:20261111T221827Z
-LAST-MODIFIED:20261111T221827Z
+UID:dice-6af2f69141e87c00011c30d5@kemistry.miami-calendars
+DTSTAMP:20261112T041831Z
+LAST-MODIFIED:20261112T041831Z
 SEQUENCE:0
 DTSTART:20261205T030000Z
 DTEND:20261205T090000Z
-SUMMARY:INFEKT\, PROSECUTE\, A Hundred Drums\, AFTRNOONDLITE\, Crimsxn
-LOCATION:Kemistry\, 307 SW 2nd St\, Fort Lauderdale\, FL 33312\, USA
+SUMMARY:INFEKT: CYCLOPS COVE AFTER-PARTY
+LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
+ 312\, United States
 DESCRIPTION:Lineup: INFEKT\, PROSECUTE\, A Hundred Drums\, AFTRNOONDLITE\, 
- Crimsxn\nTags (guess): bass\, dubstep\nTimes are an estimate from Kemistry
-  (Fort Lauderdale)'s usual hours - the listing has no start time yet. Chec
- k the link.\nhttps://kemistrynightclub.com/events\nhttps://edmtrain.com/fo
- rt-lauderdale-fl/infekt-prosecute-552096
-URL:https://kemistrynightclub.com/events
+ Crimsxn\nTags (guess): bass\, dubstep\nhttps://dice.fm/event/6af2f69141e87
+ c00011c30d5\nhttps://edmtrain.com/fort-lauderdale-fl/infekt-prosecute-5520
+ 96
+URL:https://dice.fm/event/6af2f69141e87c00011c30d5
 STATUS:CONFIRMED
 CATEGORIES:bass,dubstep
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-552097@kemistry.miami-calendars
-DTSTAMP:20261111T221827Z
-LAST-MODIFIED:20261111T221827Z
+UID:dice-6af4f399f0373b00013f8c8f@kemistry.miami-calendars
+DTSTAMP:20261112T041831Z
+LAST-MODIFIED:20261112T041831Z
 SEQUENCE:0
-DTSTART:20261206T030000Z
-DTEND:20261206T090000Z
-SUMMARY:FuntCase\, Vastive\, sfam\, DIEHL\, Swamp Thiing
-LOCATION:Kemistry\, 307 SW 2nd St\, Fort Lauderdale\, FL 33312\, USA
-DESCRIPTION:Lineup: FuntCase\, Vastive\, sfam\, DIEHL\, Swamp Thiing\nTags 
- (guess): bass\, dubstep\nTimes are an estimate from Kemistry (Fort Lauderd
- ale)'s usual hours - the listing has no start time yet. Check the link.\nh
- ttps://dice.fm/event/aabdaq?pid=d6342b83\nhttps://edmtrain.com/fort-lauder
- dale-fl/funtcase-vastive-552097
-URL:https://dice.fm/event/aabdaq?pid=d6342b83
+DTSTART:20261206T000000Z
+DTEND:20261206T040000Z
+SUMMARY:ONYX
+LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
+ 312\, United States
+DESCRIPTION:Tags (guess): bass\, dubstep\nhttps://dice.fm/event/6af4f399f03
+ 73b00013f8c8f
+URL:https://dice.fm/event/6af4f399f0373b00013f8c8f
 STATUS:CONFIRMED
 CATEGORIES:bass,dubstep
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-552098@kemistry.miami-calendars
-DTSTAMP:20261111T221827Z
-LAST-MODIFIED:20261111T221827Z
+UID:dice-6af2fa5348bd3f00015b723a@kemistry.miami-calendars
+DTSTAMP:20261112T041831Z
+LAST-MODIFIED:20261112T041831Z
+SEQUENCE:0
+DTSTART:20261206T040000Z
+DTEND:20261206T090000Z
+SUMMARY:FUNTCASE: CYCLOPS COVE AFTER-PARTY
+LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
+ 312\, United States
+DESCRIPTION:Lineup: FuntCase\, Vastive\, sfam\, DIEHL\, Swamp Thiing\nTags 
+ (guess): bass\, dubstep\nhttps://dice.fm/event/6af2fa5348bd3f00015b723a\nh
+ ttps://edmtrain.com/fort-lauderdale-fl/funtcase-vastive-552097
+URL:https://dice.fm/event/6af2fa5348bd3f00015b723a
+STATUS:CONFIRMED
+CATEGORIES:bass,dubstep
+END:VEVENT
+BEGIN:VEVENT
+UID:dice-6af2fd6c961e290001bf9087@kemistry.miami-calendars
+DTSTAMP:20261112T041831Z
+LAST-MODIFIED:20261112T041831Z
 SEQUENCE:0
 DTSTART:20261207T030000Z
 DTEND:20261207T090000Z
-SUMMARY:Smoakland\, Blossom\, Gardella\, Rekka Wubz\, Psyoptic
-LOCATION:Kemistry\, 307 SW 2nd St\, Fort Lauderdale\, FL 33312\, USA
-DESCRIPTION:Lineup: Smoakland\, Blossom\, Gardella\, Rekka Wubz\, Psyoptic
- \nTags (guess): bass\, dubstep\nTimes are an estimate from Kemistry (Fort 
- Lauderdale)'s usual hours - the listing has no start time yet. Check the l
- ink.\nhttps://dice.fm/event/qnxg5o?pid=d6342b83\nhttps://edmtrain.com/fort
- -lauderdale-fl/smoakland-blossom-552098
-URL:https://dice.fm/event/qnxg5o?pid=d6342b83
+SUMMARY:SMOAKLAND: CYCLOPS COVE AFTER-PARTY
+LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
+ 312\, United States
+DESCRIPTION:Lineup: Smoakland\, Gardella\, Blossom\, Rekka Wubz\, Psyoptic
+ \nTags (guess): bass\, dubstep\nhttps://dice.fm/event/6af2fd6c961e290001bf
+ 9087\nhttps://edmtrain.com/fort-lauderdale-fl/smoakland-gardella-552098
+URL:https://dice.fm/event/6af2fd6c961e290001bf9087
 STATUS:CONFIRMED
 CATEGORIES:bass,dubstep
 END:VEVENT
@@ -350,15 +364,14 @@ STATUS:CONFIRMED
 CATEGORIES:bass,dubstep
 END:VEVENT
 BEGIN:VEVENT
-UID:dice-6abde1c608a31d0001f4c9e6@kemistry.miami-calendars
-DTSTAMP:20261107T161849Z
-LAST-MODIFIED:20261107T161849Z
+UID:19hz-4456120-junkiekid@kemistry.miami-calendars
+DTSTAMP:20261112T041831Z
+LAST-MODIFIED:20261112T041831Z
 SEQUENCE:0
 DTSTART:20270131T030000Z
 DTEND:20270131T090000Z
-SUMMARY:JUNKIE KID
-LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
- 312\, United States
+SUMMARY:Junkie Kid
+LOCATION:Kemistry\, Fort Lauderdale
 DESCRIPTION:Lineup: Junkie Kid\nTags: hard dance\, hard house\nAges: 18+\nh
  ttps://dice.fm/event/53k25d-junkie-kid-30th-jan-kemistry-fort-lauderdale-t
  ickets\nhttps://edmtrain.com/fort-lauderdale-fl/junkie-kid-541640
@@ -368,15 +381,14 @@ STATUS:CONFIRMED
 CATEGORIES:hard dance,hard house
 END:VEVENT
 BEGIN:VEVENT
-UID:dice-6ada0ef330a6130001bb2b30@kemistry.miami-calendars
-DTSTAMP:20261110T041823Z
-LAST-MODIFIED:20261110T041823Z
-SEQUENCE:1
+UID:19hz-4456696-tynan@kemistry.miami-calendars
+DTSTAMP:20261112T041831Z
+LAST-MODIFIED:20261112T041831Z
+SEQUENCE:0
 DTSTART:20270206T030000Z
 DTEND:20270206T090000Z
-SUMMARY:TYNAN
-LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
- 312\, United States
+SUMMARY:Tynan
+LOCATION:Kemistry\, Fort Lauderdale
 DESCRIPTION:Lineup: TYNAN\nTags: dubstep\nAges: 18+\nhttps://dice.fm/event/
  eo98bw-tynan-5th-feb-kemistry-fort-lauderdale-tickets\nhttps://edmtrain.co
  m/fort-lauderdale-fl/tynan-548369

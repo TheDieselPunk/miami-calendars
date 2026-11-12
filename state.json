@@ -159,6 +159,16 @@
   "seq": 0,
   "modified": "2026-09-21T21:40:09+00:00"
  },
+ "19hz-4456120-junkiekid@kemistry.miami-calendars": {
+  "hash": "143f984e587b03a8",
+  "seq": 0,
+  "modified": "2026-11-12T04:18:31+00:00"
+ },
+ "19hz-4456696-tynan@kemistry.miami-calendars": {
+  "hash": "43b98ac761f3b35e",
+  "seq": 0,
+  "modified": "2026-11-12T04:18:31+00:00"
+ },
  "19hz-4459384-effinpresentshea@midline.miami-calendars": {
   "hash": "d1cde7782386972e",
   "seq": 0,
@@ -469,11 +479,6 @@
   "seq": 0,
   "modified": "2026-09-29T22:18:15+00:00"
  },
- "dice-6abde1c608a31d0001f4c9e6@kemistry.miami-calendars": {
-  "hash": "86f8de9906c9d600",
-  "seq": 0,
-  "modified": "2026-11-07T16:18:49+00:00"
- },
  "dice-6abe7d4787e1d10001e5ab10@floyd.miami-calendars": {
   "hash": "f8badcdb605c664d",
   "seq": 1,
@@ -578,11 +583,6 @@
   "hash": "35b63ee126c74f02",
   "seq": 2,
   "modified": "2026-10-31T04:18:09+00:00"
- },
- "dice-6ada0ef330a6130001bb2b30@kemistry.miami-calendars": {
-  "hash": "1cccb4b4195127cb",
-  "seq": 1,
-  "modified": "2026-11-10T04:18:23+00:00"
  },
  "dice-6adb9490e08a040001e559ea@jolene.miami-calendars": {
   "hash": "a6deb9b10d6c3cbc",
@@ -744,6 +744,21 @@
   "seq": 0,
   "modified": "2026-11-09T22:18:17+00:00"
  },
+ "dice-6af2f69141e87c00011c30d5@kemistry.miami-calendars": {
+  "hash": "0958bcf9c33f11d2",
+  "seq": 0,
+  "modified": "2026-11-12T04:18:31+00:00"
+ },
+ "dice-6af2fa5348bd3f00015b723a@kemistry.miami-calendars": {
+  "hash": "8bc18ff2e107c49b",
+  "seq": 0,
+  "modified": "2026-11-12T04:18:31+00:00"
+ },
+ "dice-6af2fd6c961e290001bf9087@kemistry.miami-calendars": {
+  "hash": "afd17c6717bc373c",
+  "seq": 0,
+  "modified": "2026-11-12T04:18:31+00:00"
+ },
  "dice-6af34d6308291100017f7af4@floyd.miami-calendars": {
   "hash": "b9044070b069dc9f",
   "seq": 1,
@@ -758,6 +773,11 @@
   "hash": "fc2523da07413713",
   "seq": 0,
   "modified": "2026-11-11T16:18:29+00:00"
+ },
+ "dice-6af4f399f0373b00013f8c8f@kemistry.miami-calendars": {
+  "hash": "b13176564c0a4c91",
+  "seq": 0,
+  "modified": "2026-11-12T04:18:31+00:00"
  },
  "edmtrain-458944@festivals.miami-calendars": {
   "hash": "52f5b7eb786ce532",
@@ -879,20 +899,20 @@
   "seq": 0,
   "modified": "2026-11-11T04:18:27+00:00"
  },
- "edmtrain-552096@kemistry.miami-calendars": {
-  "hash": "c6b03561a30a5fad",
+ "edmtrain-552130@festivals.miami-calendars": {
+  "hash": "e5b10c27fc201267",
   "seq": 0,
-  "modified": "2026-11-11T22:18:27+00:00"
+  "modified": "2026-11-12T04:18:31+00:00"
  },
- "edmtrain-552097@kemistry.miami-calendars": {
-  "hash": "61408ebda62eac03",
+ "edmtrain-552131@festivals.miami-calendars": {
+  "hash": "4b421fff24b1917a",
   "seq": 0,
-  "modified": "2026-11-11T22:18:27+00:00"
+  "modified": "2026-11-12T04:18:31+00:00"
  },
- "edmtrain-552098@kemistry.miami-calendars": {
-  "hash": "ed353c391c0d8680",
+ "edmtrain-552132@festivals.miami-calendars": {
+  "hash": "6f5fe49f5fbc1f67",
   "seq": 0,
-  "modified": "2026-11-11T22:18:27+00:00"
+  "modified": "2026-11-12T04:18:31+00:00"
  },
  "equinox-fest-4-day-2-3-november-21-22nd@shotgun.live": {
   "hash": "a6b82d159fc90bb0",

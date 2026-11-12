@@ -72,8 +72,8 @@
   "slug": "kemistry",
   "name": "Kemistry (Fort Lauderdale)",
   "file": "kemistry.ics",
-  "events": 21,
-  "estimated_times": 3,
+  "events": 22,
+  "estimated_times": 0,
   "next": "2026-11-12",
   "sources": [
    "19hz",
@@ -171,8 +171,8 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 50,
-  "estimated_times": 21,
+  "events": 53,
+  "estimated_times": 24,
   "next": "2026-11-11",
   "sources": [
    "19hz",
