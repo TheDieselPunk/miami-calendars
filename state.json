@@ -495,9 +495,9 @@
   "modified": "2026-10-01T22:18:30+00:00"
  },
  "dice-6abe812a02ef7e0001ee351d@floyd.miami-calendars": {
-  "hash": "2738d8ef0427bae2",
-  "seq": 0,
-  "modified": "2026-10-01T22:18:30+00:00"
+  "hash": "e2affbc7d37bf786",
+  "seq": 1,
+  "modified": "2026-11-12T22:18:23+00:00"
  },
  "dice-6abe81edcf1f4100017bc3b4@floyd.miami-calendars": {
   "hash": "e61525e1f23c18bf",
@@ -525,9 +525,9 @@
   "modified": "2026-10-17T16:18:17+00:00"
  },
  "dice-6ac69100272a2a00015116c5@club-space.miami-calendars": {
-  "hash": "f3be10787c2eb7e2",
-  "seq": 2,
-  "modified": "2026-11-10T04:18:23+00:00"
+  "hash": "5c88630656062269",
+  "seq": 3,
+  "modified": "2026-11-12T22:18:23+00:00"
  },
  "dice-6ac69157ede6160001290447@club-space.miami-calendars": {
   "hash": "36c71195cf3a278d",
@@ -1448,6 +1448,11 @@
   "hash": "7af14fdf913838a1",
   "seq": 1,
   "modified": "2026-10-03T10:18:36+00:00"
+ },
+ "the-hall-club-monkey-safari@shotgun.live": {
+  "hash": "0f3fa14ea1d219aa",
+  "seq": 0,
+  "modified": "2026-11-12T22:18:23+00:00"
  },
  "the-hall-pres-roy-rosenfeld@shotgun.live": {
   "hash": "98587408c4e5bf19",

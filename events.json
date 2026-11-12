@@ -4224,6 +4224,39 @@
    ]
   },
   {
+   "id": "shotgun:intriga-x-boho-house-day-party-vol-5",
+   "source": "edmtrain+shotgun",
+   "title": "Intriga X Boho House: Day Party Vol 5",
+   "artists": [
+    "Santelises",
+    "Goa '98",
+    "Laura carmer",
+    "damian and syros",
+    "Lyla"
+   ],
+   "venue": "BOHO House Miami",
+   "venue_slug": null,
+   "date": "2026-11-21",
+   "start": "2026-11-21T21:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$39.73",
+   "genres": [
+    "indie dance",
+    "progressive house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/intriga-x-boho-house-day-party-vol-5",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/intriga-x-boho-house-day-party-vol-5-santelises-552339"
+   ]
+  },
+  {
    "id": "19hz:4449376-klingande",
    "source": "19hz+edmtrain",
    "title": "Klingande",
@@ -4745,8 +4778,16 @@
   {
    "id": "dice:6ac69100272a2a00015116c5",
    "source": "dice+edmtrain",
-   "title": "The Vault Presents TBA",
-   "artists": [],
+   "title": "The Vault: Justice, Barry Can't Swim & Overmono",
+   "artists": [
+    "Justice (DJ Set)",
+    "Barry Can't Swim (DJ Set)",
+    "Overmono (DJ Set)",
+    "Busy P",
+    "Danny Daze",
+    "Mai Iachetti",
+    "Yasmin"
+   ],
    "venue": "Club Space Miami",
    "venue_slug": "club-space",
    "date": "2026-11-21",
@@ -4755,7 +4796,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "",
-   "price": " (sold out)",
+   "price": "From $30",
    "genres": [
     "house",
     "techno"
@@ -4766,13 +4807,14 @@
    "url": "https://dice.fm/event/6ac69100272a2a00015116c5",
    "cancelled": false,
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/the-vault-presents-551457"
+    "https://edmtrain.com/miami-fl/the-vault-presents-551457",
+    "https://edmtrain.com/miami-fl/justice-barry-cant-swim-552344"
    ]
   },
   {
    "id": "dice:6abe812a02ef7e0001ee351d",
    "source": "dice",
-   "title": "TBA",
+   "title": "Floyd at The Vault: Joe Kay presents TEMPO",
    "artists": [],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
@@ -10396,6 +10438,30 @@
    ]
   },
   {
+   "id": "shotgun:art-department-miami-art-week",
+   "source": "shotgun",
+   "title": "Art Department & More (Miami Art Week)",
+   "artists": [],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-12-05",
+   "start": "2026-12-06T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.70",
+   "genres": [
+    "deep house",
+    "tech house",
+    "house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/art-department-miami-art-week"
+  },
+  {
    "id": "hardrock:212140",
    "source": "19hz+venue",
    "title": "Magnate",
@@ -11046,6 +11112,26 @@
    ]
   },
   {
+   "id": "shotgun:sarah-tonin-21-h-basel-closing-party",
+   "source": "shotgun",
+   "title": "Sarah Tonin 21h+ Basel Closing Party",
+   "artists": [],
+   "venue": "Lion's Den",
+   "venue_slug": null,
+   "date": "2026-12-06",
+   "start": "2026-12-06T11:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sarah-tonin-21-h-basel-closing-party"
+  },
+  {
    "id": "hardrock:207849",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -11184,7 +11270,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $75",
+   "price": "From $65",
    "genres": [
     "progressive house",
     "tech house"
@@ -12619,6 +12705,30 @@
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/i-love-r-b-party-18-dec",
    "cancelled": false
+  },
+  {
+   "id": "shotgun:the-hall-club-monkey-safari",
+   "source": "shotgun",
+   "title": "The Hall Club : Monkey Safari",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": "festivals",
+   "date": "2026-12-18",
+   "start": "2026-12-19T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.69",
+   "genres": [
+    "melodic house & techno",
+    "afro house",
+    "deep house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/the-hall-club-monkey-safari"
   },
   {
    "id": "hardrock:207837",

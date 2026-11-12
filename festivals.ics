@@ -690,6 +690,21 @@ STATUS:CONFIRMED
 CATEGORIES:afro house,latin bass
 END:VEVENT
 BEGIN:VEVENT
+UID:the-hall-club-monkey-safari@shotgun.live
+DTSTAMP:20261112T221823Z
+LAST-MODIFIED:20261112T221823Z
+SEQUENCE:0
+DTSTART:20261219T020000Z
+DTEND:20261219T070000Z
+SUMMARY:The Hall Club : Monkey Safari
+LOCATION:Miami
+DESCRIPTION:Tags: melodic house & techno\, afro house\, deep house\nhttps:/
+ /shotgun.live/en/events/the-hall-club-monkey-safari
+URL:https://shotgun.live/en/events/the-hall-club-monkey-safari
+STATUS:CONFIRMED
+CATEGORIES:melodic house & techno,afro house,deep house
+END:VEVENT
+BEGIN:VEVENT
 UID:edmtrain-523791@festivals.miami-calendars
 DTSTAMP:20261103T041809Z
 LAST-MODIFIED:20261103T041809Z
