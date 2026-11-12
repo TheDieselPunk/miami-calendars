@@ -1,48 +1,6 @@
 {
  "events": [
   {
-   "id": "tablelist:7f6123b4f4307830",
-   "source": "tablelist",
-   "title": "Las Migas",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-11-10",
-   "start": "2026-11-11T00:00:00+00:00",
-   "end": "2026-11-11T05:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://buy.tablelist.com/e/7f6123b4f4307830"
-  },
-  {
-   "id": "19hz:4448338-sunsquabi",
-   "source": "19hz",
-   "title": "Sunsquabi",
-   "artists": [],
-   "venue": "The Funky Biscuit",
-   "venue_slug": null,
-   "date": "2026-11-10",
-   "start": "2026-11-11T01:30:00+00:00",
-   "end": "2026-11-11T06:30:00+00:00",
-   "time_estimated": false,
-   "address": "Boca Raton",
-   "ages": "21+",
-   "price": "$32.14+",
-   "genres": [
-    "electronic funk"
-   ],
-   "genres_inferred": false,
-   "organizer": "Afterlife Entertainment",
-   "description": "",
-   "url": "https://wl.eventim.us/event/sunsquabi/703607?afflky=FunkyBiscuit"
-  },
-  {
    "id": "19hz:4448424-lennypearce",
    "source": "19hz+edmtrain",
    "title": "Lenny Pearce",
@@ -92,83 +50,9 @@
    "url": "https://buy.tablelist.com/e/c90db8b47c62c006"
   },
   {
-   "id": "shotgun:she-knows-best-nov-11",
-   "source": "edmtrain+shotgun",
-   "title": "She Knows Best",
-   "artists": [],
-   "venue": "AIRE Miami",
-   "venue_slug": null,
-   "date": "2026-11-11",
-   "start": "2026-11-12T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$22.70",
-   "genres": [
-    "house",
-    "tech house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/she-knows-best-nov-11",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/she-knows-best-551436"
-   ]
-  },
-  {
-   "id": "shotgun:dirty-circuit-life-13",
-   "source": "shotgun",
-   "title": "Dirty Circuit Life #13",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-11-11",
-   "start": "2026-11-12T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [
-    "synthwave",
-    "electronica",
-    "techno"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/dirty-circuit-life-13"
-  },
-  {
-   "id": "shotgun:open-mic-at-churchill-s-pub-19",
-   "source": "shotgun",
-   "title": "Open Mic : Every Wednesday",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-11-11",
-   "start": "2026-11-12T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [
-    "post-punk",
-    "punk",
-    "rock"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/open-mic-at-churchill-s-pub-19"
-  },
-  {
-   "id": "shotgun:madradiomiami111126",
-   "source": "edmtrain+shotgun",
-   "title": "Join The Local Signal ))) Israel Sunshine",
+   "id": "edmtrain:550570",
+   "source": "edmtrain",
+   "title": "Israel Sunshine",
    "artists": [
     "Israel Sunshine"
    ],
@@ -177,53 +61,20 @@
    "date": "2026-11-11",
    "start": "2026-11-12T02:00:00+00:00",
    "end": "2026-11-12T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "time_estimated": true,
+   "address": "7700 Biscayne Blvd, Miami, FL 33138, USA",
    "ages": "",
-   "price": "Free",
+   "price": "",
    "genres": [
     "deep house",
     "house"
    ],
    "genres_inferred": true,
-   "organizer": "Mad Radio Miami",
-   "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY 25+ YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
-   "url": "https://shotgun.live/en/events/madradiomiami111126",
-   "tickets": "RSVP Free",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.8462027,
-    "longitude": -80.1851332
-   },
-   "created": "2026-11-05T17:39:02.000Z",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/israel-sunshine-550570"
-   ]
-  },
-  {
-   "id": "shotgun:undertone-3",
-   "source": "edmtrain+shotgun",
-   "title": "Undertone",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": "festivals",
-   "date": "2026-11-11",
-   "start": "2026-11-12T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$20.00",
-   "genres": [
-    "techno"
-   ],
-   "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/undertone-3",
+   "url": "https://shotgun.live/events/madradiomiami111126?utm_source=edmtrain",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/undertone-550809"
+    "https://edmtrain.com/miami-fl/israel-sunshine-550570"
    ]
   },
   {
@@ -252,6 +103,52 @@
    "url": "https://dice.fm/event/92voeo-rivo-11th-nov-queen-miami-beach-miami-beach-tickets",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/rivo-542099"
+   ]
+  },
+  {
+   "id": "edmtrain:551436",
+   "source": "edmtrain",
+   "title": "She Knows Best",
+   "artists": [],
+   "venue": "111 Northeast 20th Street",
+   "venue_slug": null,
+   "date": "2026-11-11",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "111 NE 20th St, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/she-knows-best-nov-11?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/she-knows-best-551436"
+   ]
+  },
+  {
+   "id": "edmtrain:550809",
+   "source": "edmtrain",
+   "title": "UNDERTONE",
+   "artists": [],
+   "venue": "777 NE 79th St",
+   "venue_slug": null,
+   "date": "2026-11-11",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "777 NE 79th St, Miami, FL 33138, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/undertone-3?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/undertone-550809"
    ]
   },
   {
@@ -669,6 +566,37 @@
    ]
   },
   {
+   "id": "shotgun:inner-circle-by-markem",
+   "source": "19hz+edmtrain+shotgun",
+   "title": "Inner Circle By Markem",
+   "artists": [
+    "Markem"
+   ],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-11-13",
+   "start": "2026-11-14T02:00:00+00:00",
+   "end": "2026-11-14T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.70",
+   "genres": [
+    "afro house",
+    "house",
+    "progressive house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/inner-circle-by-markem",
+   "alt_urls": [
+    "https://posh.vip/e/inner-circle-by-markem-2",
+    "https://edmtrain.com/miami-fl/markem-549332"
+   ]
+  },
+  {
    "id": "shotgun:nights-in-necropolis-presents-tiffadelic-detroit-blk-goth",
    "source": "19hz+edmtrain+shotgun",
    "title": "Nights In Necropolis Presents: Tiffadelic (Detroit Blk Goth)",
@@ -777,34 +705,6 @@
    "created": "2026-11-05T17:44:57.000Z",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/road-to-trotamundo-truly-madly-550571"
-   ]
-  },
-  {
-   "id": "shotgun:inner-circle-by-markem",
-   "source": "19hz+shotgun",
-   "title": "Inner Circle By Markem",
-   "artists": [],
-   "venue": "Party On A Boat Rentals",
-   "venue_slug": null,
-   "date": "2026-11-13",
-   "start": "2026-11-14T02:00:00+00:00",
-   "end": "2026-11-14T09:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$22.70",
-   "genres": [
-    "afro house",
-    "house",
-    "progressive house",
-    "tech house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/inner-circle-by-markem",
-   "alt_urls": [
-    "https://posh.vip/e/inner-circle-by-markem-2"
    ]
   },
   {
@@ -1484,31 +1384,6 @@
    "url": "https://shotgun.live/events/clubperreo-2?utm_source=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/saturnsarii-549325"
-   ]
-  },
-  {
-   "id": "edmtrain:549332",
-   "source": "edmtrain",
-   "title": "Markem",
-   "artists": [
-    "Markem"
-   ],
-   "venue": "AIRE Miami",
-   "venue_slug": null,
-   "date": "2026-11-13",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "111 NE 20th St, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://posh.vip/e/inner-circle-by-markem-2?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/markem-549332"
    ]
   },
   {
@@ -10834,7 +10709,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $211 (sold out)",
+   "price": "From $186 (sold out)",
    "genres": [
     "deep house",
     "funky house",
@@ -11386,7 +11261,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $65",
+   "price": "From $75",
    "genres": [
     "progressive house",
     "tech house"
@@ -14093,7 +13968,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $150",
+   "price": "From $175",
    "genres": [
     "tech house"
    ],

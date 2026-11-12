@@ -879,6 +879,11 @@
   "seq": 1,
   "modified": "2026-10-28T10:18:12+00:00"
  },
+ "edmtrain-550570@mad-radio.miami-calendars": {
+  "hash": "0ff3963fe64e4c2a",
+  "seq": 0,
+  "modified": "2026-11-12T10:18:29+00:00"
+ },
  "edmtrain-551215@festivals.miami-calendars": {
   "hash": "a867c531a5b7f1a2",
   "seq": 0,
@@ -1329,11 +1334,6 @@
   "seq": 1,
   "modified": "2026-11-07T16:18:49+00:00"
  },
- "madradiomiami111126@shotgun.live": {
-  "hash": "92974b8563381632",
-  "seq": 1,
-  "modified": "2026-11-06T04:18:43+00:00"
- },
  "madradiomiami111226@shotgun.live": {
   "hash": "4a306024e13ae47e",
   "seq": 1,
@@ -1429,11 +1429,6 @@
   "seq": 0,
   "modified": "2026-11-01T10:17:57+00:00"
  },
- "tablelist-7f6123b4f4307830@zeyzey.miami-calendars": {
-  "hash": "0b611ab110883039",
-  "seq": 1,
-  "modified": "2026-11-11T10:18:35+00:00"
- },
  "tablelist-8ba448be22306de7@zeyzey.miami-calendars": {
   "hash": "54838941360ac4b8",
   "seq": 0,
@@ -1463,11 +1458,6 @@
   "hash": "3f898afed44ec131",
   "seq": 0,
   "modified": "2026-11-09T22:18:17+00:00"
- },
- "undertone-3@shotgun.live": {
-  "hash": "81d1c526ddb442e7",
-  "seq": 1,
-  "modified": "2026-11-07T16:18:49+00:00"
  },
  "vice-city-pre-launch@shotgun.live": {
   "hash": "915c2d5e9b40d7d4",

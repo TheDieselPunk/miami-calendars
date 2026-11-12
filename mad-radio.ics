@@ -8,26 +8,22 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:madradiomiami111126@shotgun.live
-DTSTAMP:20261106T041843Z
-LAST-MODIFIED:20261106T041843Z
-SEQUENCE:1
+UID:edmtrain-550570@mad-radio.miami-calendars
+DTSTAMP:20261112T101829Z
+LAST-MODIFIED:20261112T101829Z
+SEQUENCE:0
 DTSTART:20261112T020000Z
 DTEND:20261112T080000Z
-SUMMARY:Join The Local Signal ))) Israel Sunshine
-LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
-DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
- ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
-  our slick radio show serving up the latest tracks. Save the date and cath
-  the urban-chic experience at Mad Radio Miami. See you on the dance floor!
-  Come early\, stay late\, and let the night unfold FREE ENTRY 25+ YEARS OL
- D HAPPY HOUR 5 PM - 9 PM"\nLineup: Israel Sunshine\nTags (guess): deep hou
- se\, house\nTickets: RSVP Free\nhttps://shotgun.live/en/events/madradiomia
- mi111126\nhttps://edmtrain.com/miami-fl/israel-sunshine-550570
-URL:https://shotgun.live/en/events/madradiomiami111126
+SUMMARY:Israel Sunshine
+LOCATION:Mad Radio Miami\, 7700 Biscayne Blvd\, Miami\, FL 33138\, USA
+DESCRIPTION:Lineup: Israel Sunshine\nTags (guess): deep house\, house\nTime
+ s are an estimate from Mad Radio Miami's usual hours - the listing has no 
+ start time yet. Check the link.\nhttps://shotgun.live/events/madradiomiami
+ 111126?utm_source=edmtrain\nhttps://edmtrain.com/miami-fl/israel-sunshine-
+ 550570
+URL:https://shotgun.live/events/madradiomiami111126?utm_source=edmtrain
 STATUS:CONFIRMED
 CATEGORIES:deep house,house
-GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami111226@shotgun.live
