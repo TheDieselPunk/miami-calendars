@@ -86,7 +86,7 @@
   "slug": "boombox",
   "name": "The Boombox Miami",
   "file": "boombox.ics",
-  "events": 12,
+  "events": 13,
   "estimated_times": 0,
   "next": "2026-11-13",
   "sources": [
@@ -99,7 +99,7 @@
   "slug": "zeyzey",
   "name": "ZeyZey Miami",
   "file": "zeyzey.ics",
-  "events": 58,
+  "events": 60,
   "estimated_times": 1,
   "next": "2026-11-11",
   "sources": [
@@ -116,9 +116,9 @@
   "slug": "mad-radio",
   "name": "Mad Radio Miami",
   "file": "mad-radio.ics",
-  "events": 13,
-  "estimated_times": 1,
-  "next": "2026-11-11",
+  "events": 12,
+  "estimated_times": 0,
+  "next": "2026-11-12",
   "sources": [
    "edmtrain",
    "shotgun"

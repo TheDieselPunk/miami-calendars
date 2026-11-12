@@ -673,6 +673,21 @@ STATUS:CONFIRMED
 CATEGORIES:disco,funk
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-uma-galera-03-jan@zeyzey.miami-calendars
+DTSTAMP:20261112T161823Z
+LAST-MODIFIED:20261112T161823Z
+SEQUENCE:0
+DTSTART:20270104T000000Z
+DTEND:20270104T060000Z
+SUMMARY:Uma Galera
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: latin\nhttps://calendar.zeyzeymiami.com/shows/uma-galera-
+ 03-jan
+URL:https://calendar.zeyzeymiami.com/shows/uma-galera-03-jan
+STATUS:CONFIRMED
+CATEGORIES:latin
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-omni-soundspace-presents-black-rave-culture-shekdash-sky-jetta-0
  9-jan@zeyzey.miami-calendars
 DTSTAMP:20261107T161849Z
@@ -805,6 +820,19 @@ LOCATION:ZeyZey Miami
 DESCRIPTION:https://calendar.zeyzeymiami.com/shows/jam-cruise-pre-party-03-
  feb
 URL:https://calendar.zeyzeymiami.com/shows/jam-cruise-pre-party-03-feb
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-arc-de-soleil-07-feb@zeyzey.miami-calendars
+DTSTAMP:20261112T161823Z
+LAST-MODIFIED:20261112T161823Z
+SEQUENCE:0
+DTSTART:20270207T230000Z
+DTEND:20270208T060000Z
+SUMMARY:Arc De Soleil
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://calendar.zeyzeymiami.com/shows/arc-de-soleil-07-feb
+URL:https://calendar.zeyzeymiami.com/shows/arc-de-soleil-07-feb
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

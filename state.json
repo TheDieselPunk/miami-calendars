@@ -879,11 +879,6 @@
   "seq": 1,
   "modified": "2026-10-28T10:18:12+00:00"
  },
- "edmtrain-550570@mad-radio.miami-calendars": {
-  "hash": "0ff3963fe64e4c2a",
-  "seq": 0,
-  "modified": "2026-11-12T10:18:29+00:00"
- },
  "edmtrain-551215@festivals.miami-calendars": {
   "hash": "a867c531a5b7f1a2",
   "seq": 0,
@@ -953,6 +948,11 @@
   "hash": "df94820341ad1d55",
   "seq": 0,
   "modified": "2026-09-21T21:40:09+00:00"
+ },
+ "hard-house@shotgun.live": {
+  "hash": "36ae29b65e9553b4",
+  "seq": 0,
+  "modified": "2026-11-12T16:18:23+00:00"
  },
  "hardrock-205535@daer.miami-calendars": {
   "hash": "c6ddac4203fa5cd9",
@@ -1460,9 +1460,9 @@
   "modified": "2026-11-09T22:18:17+00:00"
  },
  "vice-city-pre-launch@shotgun.live": {
-  "hash": "915c2d5e9b40d7d4",
-  "seq": 0,
-  "modified": "2026-11-09T22:18:17+00:00"
+  "hash": "9ee499ebe98c8628",
+  "seq": 1,
+  "modified": "2026-11-12T16:18:23+00:00"
  },
  "vice-city-world-art-basel-show-2026@shotgun.live": {
   "hash": "812b91f0a476ca4d",
@@ -1483,6 +1483,11 @@
   "hash": "9a90f5f831e5d6e0",
   "seq": 0,
   "modified": "2026-11-10T22:18:24+00:00"
+ },
+ "zeyzey-arc-de-soleil-07-feb@zeyzey.miami-calendars": {
+  "hash": "f00da831d299ab0f",
+  "seq": 0,
+  "modified": "2026-11-12T16:18:23+00:00"
  },
  "zeyzey-ax-and-the-hatchetmen-the-late-checkout-tour-2026-13-dec@zeyzey.miami-calendars": {
   "hash": "7942101eb42b1d85",
@@ -1663,6 +1668,11 @@
   "hash": "ef539c241b626cc2",
   "seq": 2,
   "modified": "2026-11-10T04:18:23+00:00"
+ },
+ "zeyzey-uma-galera-03-jan@zeyzey.miami-calendars": {
+  "hash": "d4d2758faff78a3b",
+  "seq": 0,
+  "modified": "2026-11-12T16:18:23+00:00"
  },
  "zeyzey-una-noche-en-nuyorico-19-dec@zeyzey.miami-calendars": {
   "hash": "706b9f1a52a50f27",

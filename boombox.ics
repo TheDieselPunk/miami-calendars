@@ -65,6 +65,24 @@ CATEGORIES:indie,rock
 GEO:25.7287781;-80.3169309
 END:VEVENT
 BEGIN:VEVENT
+UID:hard-house@shotgun.live
+DTSTAMP:20261112T161823Z
+LAST-MODIFIED:20261112T161823Z
+SEQUENCE:0
+DTSTART:20261115T040000Z
+DTEND:20261115T090000Z
+SUMMARY:Hard House
+LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
+ \, USA
+DESCRIPTION:Aggressive leads\, pitched vocals\, hard drums\, pure energy. A
+ n exploration of HARD HOUSE. All night long.\nTags: house\, bounce\, eurod
+ ance\nTickets: RSVP Free\nhttps://shotgun.live/en/events/hard-house
+URL:https://shotgun.live/en/events/hard-house
+STATUS:CONFIRMED
+CATEGORIES:house,bounce,eurodance
+GEO:25.7287781;-80.3169309
+END:VEVENT
+BEGIN:VEVENT
 UID:lilith-s-demise-and-slamwich-at-the-boombox-11-15@shotgun.live
 DTSTAMP:20261022T041828Z
 LAST-MODIFIED:20261022T041828Z

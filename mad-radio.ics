@@ -8,24 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:edmtrain-550570@mad-radio.miami-calendars
-DTSTAMP:20261112T101829Z
-LAST-MODIFIED:20261112T101829Z
-SEQUENCE:0
-DTSTART:20261112T020000Z
-DTEND:20261112T080000Z
-SUMMARY:Israel Sunshine
-LOCATION:Mad Radio Miami\, 7700 Biscayne Blvd\, Miami\, FL 33138\, USA
-DESCRIPTION:Lineup: Israel Sunshine\nTags (guess): deep house\, house\nTime
- s are an estimate from Mad Radio Miami's usual hours - the listing has no 
- start time yet. Check the link.\nhttps://shotgun.live/events/madradiomiami
- 111126?utm_source=edmtrain\nhttps://edmtrain.com/miami-fl/israel-sunshine-
- 550570
-URL:https://shotgun.live/events/madradiomiami111126?utm_source=edmtrain
-STATUS:CONFIRMED
-CATEGORIES:deep house,house
-END:VEVENT
-BEGIN:VEVENT
 UID:madradiomiami111226@shotgun.live
 DTSTAMP:20261111T161829Z
 LAST-MODIFIED:20261111T161829Z
@@ -72,9 +54,9 @@ GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:vice-city-pre-launch@shotgun.live
-DTSTAMP:20261109T221817Z
-LAST-MODIFIED:20261109T221817Z
-SEQUENCE:0
+DTSTAMP:20261112T161823Z
+LAST-MODIFIED:20261112T161823Z
+SEQUENCE:1
 DTSTART:20261115T020000Z
 DTEND:20261115T080000Z
 SUMMARY:Welcome To Vice City W/ Serge Devant
@@ -84,9 +66,9 @@ DESCRIPTION:Welcome to Vice City\, baby! The Pre-Launch Party welcomes Serg
  is is your exclusive opportunity to unique activations\, first-looks at ga
  me footage\, and more. Powered by Shotgun. Access to this event is extreme
  ly limited.\nLineup: Serge Devant\, Leo Del Toro\, Nico Moon\, Cali Lanauz
- e\nTags: deep house\, house\nTickets: VICE CITY PASS $25\nhttps://shotgun.
- live/en/events/vice-city-pre-launch\nhttps://edmtrain.com/miami-fl/serge-d
- evant-leo-del-toro-550949
+ e\nTags: deep house\, house\nTickets: BEFORE 11PM RSVP Free\, VICE CITY PA
+ SS $25\nhttps://shotgun.live/en/events/vice-city-pre-launch\nhttps://edmtr
+ ain.com/miami-fl/serge-devant-leo-del-toro-550949
 URL:https://shotgun.live/en/events/vice-city-pre-launch
 STATUS:CONFIRMED
 CATEGORIES:deep house,house
