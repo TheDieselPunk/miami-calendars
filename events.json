@@ -2651,7 +2651,7 @@
    "time_estimated": false,
    "address": "353 Northeast 61st Street, Miami, Florida 33137, United States",
    "ages": "21+",
-   "price": "From $42",
+   "price": "From $48",
    "genres": [
     "hip-hop",
     "hip-hop/rap",
@@ -4207,7 +4207,7 @@
   {
    "id": "dice:6abe802c0957150001d27a61",
    "source": "dice",
-   "title": "TBA",
+   "title": "Floyd at The Vault",
    "artists": [],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
@@ -4362,13 +4362,13 @@
    "time_estimated": false,
    "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
    "ages": "",
-   "price": "$56.75",
+   "price": "$34.05",
    "genres": [],
    "genres_inferred": false,
    "organizer": "Equinox Booking",
    "description": "Equinox Fest Day 2 and 3 at The Boombox Line up TBA",
    "url": "https://shotgun.live/en/events/equinox-fest-4-day-2-3-november-21-22nd",
-   "tickets": "Day 2 & 3 Weekend Pass $50, Weekend Pass Early Bird $40 (sold out)",
+   "tickets": "Day 2 & 3 Weekend Pass $50, Weekend Pass Early Bird $40 (sold out), Day 2 Ticket $30, Day 3 Ticket $30",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -15543,7 +15543,7 @@
    "ages": "",
    "price": "",
    "genres": [
-    "latin"
+    "reggae"
    ],
    "genres_inferred": false,
    "organizer": "",

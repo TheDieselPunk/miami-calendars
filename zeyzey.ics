@@ -652,18 +652,18 @@ CATEGORIES:disco,funk
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-uma-galera-03-jan@zeyzey.miami-calendars
-DTSTAMP:20261112T161823Z
-LAST-MODIFIED:20261112T161823Z
-SEQUENCE:0
+DTSTAMP:20261113T221820Z
+LAST-MODIFIED:20261113T221820Z
+SEQUENCE:1
 DTSTART:20270104T000000Z
 DTEND:20270104T060000Z
 SUMMARY:Uma Galera
 LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: latin\nhttps://calendar.zeyzeymiami.com/shows/uma-galera-
- 03-jan
+DESCRIPTION:Tags: reggae\nhttps://calendar.zeyzeymiami.com/shows/uma-galera
+ -03-jan
 URL:https://calendar.zeyzeymiami.com/shows/uma-galera-03-jan
 STATUS:CONFIRMED
-CATEGORIES:latin
+CATEGORIES:reggae
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-omni-soundspace-presents-black-rave-culture-shekdash-sky-jetta-0
