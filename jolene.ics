@@ -131,20 +131,20 @@ CATEGORIES:electro,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aea70fe16528500017b9334@jolene.miami-calendars
-DTSTAMP:20261104T101819Z
-LAST-MODIFIED:20261104T101819Z
-SEQUENCE:1
+DTSTAMP:20261113T101829Z
+LAST-MODIFIED:20261113T101829Z
+SEQUENCE:2
 DTSTART:20261128T030000Z
 DTEND:20261128T090000Z
 SUMMARY:Generous B Presents
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6aea70f
- e16528500017b9334\nhttps://edmtrain.com/miami-fl/generous-b-presents-54986
- 0
+DESCRIPTION:Tags: disco\, funk\, house\nAges: 21+\nhttps://dice.fm/event/6a
+ ea70fe16528500017b9334\nhttps://edmtrain.com/miami-fl/generous-b-presents-
+ 549860
 URL:https://dice.fm/event/6aea70fe16528500017b9334
 STATUS:CONFIRMED
-CATEGORIES:house,tech house
+CATEGORIES:disco,funk,house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a6bc6a9f6f43900015dbfd4@jolene.miami-calendars
@@ -167,20 +167,21 @@ CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab44b4b28d5d90001e98039@jolene.miami-calendars
-DTSTAMP:20261111T101835Z
-LAST-MODIFIED:20261111T101835Z
-SEQUENCE:5
+DTSTAMP:20261113T101829Z
+LAST-MODIFIED:20261113T101829Z
+SEQUENCE:6
 DTSTART:20261201T030000Z
 DTEND:20261201T110000Z
 SUMMARY:Basel: Seth Troxler
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Lineup: Seth Troxler\, Danyelino\, Sister System\nTags: house\,
-  tech house\, techno\nAges: 21+\nhttps://dice.fm/event/6ab44d3879b6750001a
- 8fb66\nhttps://edmtrain.com/miami-fl/seth-troxler-danyelino-551483
+DESCRIPTION:Lineup: Seth Troxler\, Danyelino\, Sister System\nTags: deep ho
+ use\, house\, tech house\, techno\nAges: 21+\nhttps://dice.fm/event/6ab44d
+ 3879b6750001a8fb66\nhttps://edmtrain.com/miami-fl/seth-troxler-danyelino-5
+ 51483
 URL:https://dice.fm/event/6ab44d3879b6750001a8fb66
 STATUS:CONFIRMED
-CATEGORIES:house,tech house,techno
+CATEGORIES:deep house,house,tech house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab442b0fb764f0001259171@jolene.miami-calendars
@@ -237,20 +238,22 @@ CATEGORIES:minimal,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab44533af1ad900014f7295@jolene.miami-calendars
-DTSTAMP:20261106T041843Z
-LAST-MODIFIED:20261106T041843Z
-SEQUENCE:3
+DTSTAMP:20261113T101829Z
+LAST-MODIFIED:20261113T101829Z
+SEQUENCE:4
 DTSTART:20261205T030000Z
 DTEND:20261205T110000Z
 SUMMARY:Basel: SlapFunk
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
 DESCRIPTION:Lineup: D'Julz\, Isaac Carter\, Tomás Station\, Ms. Mada\nTags
- : house\nAges: 21+\nhttps://dice.fm/event/6ab44533af1ad900014f7295\nhttps:
- //edmtrain.com/miami-fl/djulz-isaac-carter-550560
-URL:https://dice.fm/event/6ab44533af1ad900014f7295
+ : deep house\, house\nAges: 21+\nhttps://dice.fm/event/53k2wd-basel-slapfu
+ nk-4th-dec-jolene-sound-room-miami-miami-tickets\nhttps://edmtrain.com/mia
+ mi-fl/djulz-isaac-carter-550560
+URL:https://dice.fm/event/53k2wd-basel-slapfunk-4th-dec-jolene-sound-room-m
+ iami-miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:house
+CATEGORIES:deep house,house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ab446f49e8bcf0001f96b29@jolene.miami-calendars
@@ -307,37 +310,38 @@ CATEGORIES:breaks,drum and bass,electro,miami bass,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6af1fa17b839de000132f36b@jolene.miami-calendars
-DTSTAMP:20261109T221817Z
-LAST-MODIFIED:20261109T221817Z
-SEQUENCE:0
+DTSTAMP:20261113T101829Z
+LAST-MODIFIED:20261113T101829Z
+SEQUENCE:1
 DTSTART:20261212T030000Z
 DTEND:20261212T090000Z
 SUMMARY:Archie Hamilton
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Lineup: Archie Hamilton\, Mai Iachetti\, Danyelino\nTags (guess
- ): house\, tech house\nhttps://dice.fm/event/6af1fa17b839de000132f36b\nhtt
- ps://edmtrain.com/miami-fl/archie-hamilton-mai-iachetti-551335
+DESCRIPTION:Lineup: Archie Hamilton\, Mai Iachetti\, Danyelino\nTags: minim
+ al\, tech house\, techno\nAges: 21+\nhttps://dice.fm/event/6af1fa17b839de0
+ 00132f36b\nhttps://edmtrain.com/miami-fl/archie-hamilton-mai-iachetti-5513
+ 35
 URL:https://dice.fm/event/6af1fa17b839de000132f36b
 STATUS:CONFIRMED
-CATEGORIES:house,tech house
+CATEGORIES:minimal,tech house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aecdfde59b33300013afd8c@jolene.miami-calendars
-DTSTAMP:20261106T041843Z
-LAST-MODIFIED:20261106T041843Z
-SEQUENCE:1
+DTSTAMP:20261113T101829Z
+LAST-MODIFIED:20261113T101829Z
+SEQUENCE:2
 DTSTART:20261213T030000Z
 DTEND:20261213T090000Z
 SUMMARY:Satoshie Tomiie
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Lineup: Satoshi Tomiie\nTags (guess): house\, tech house\nhttps
- ://dice.fm/event/6aecdfde59b33300013afd8c\nhttps://edmtrain.com/miami-fl/s
- atoshi-tomiie-550561
+DESCRIPTION:Lineup: Satoshi Tomiie\nTags: deep house\, techno\nAges: 21+\nh
+ ttps://dice.fm/event/6aecdfde59b33300013afd8c\nhttps://edmtrain.com/miami-
+ fl/satoshi-tomiie-550561
 URL:https://dice.fm/event/6aecdfde59b33300013afd8c
 STATUS:CONFIRMED
-CATEGORIES:house,tech house
+CATEGORIES:deep house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4453240-jolenenye@jolene.miami-calendars

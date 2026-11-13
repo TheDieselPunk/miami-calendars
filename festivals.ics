@@ -178,18 +178,20 @@ CATEGORIES:hard techno,schranz
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ac69157ede6160001290447@festivals.miami-calendars
-DTSTAMP:20261104T221836Z
-LAST-MODIFIED:20261104T221836Z
-SEQUENCE:0
+DTSTAMP:20261113T101829Z
+LAST-MODIFIED:20261113T101829Z
+SEQUENCE:1
 DTSTART:20261123T040000Z
 DTEND:20261124T010000Z
 SUMMARY:The Vault presents Circoloco Records Radio
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6ac69157ede
- 6160001290447
-URL:https://dice.fm/event/6ac69157ede6160001290447
+DESCRIPTION:Tags: tech house\nAges: 21+\nhttps://dice.fm/event/92vlg7-the-v
+ ault-presents-circoloco-records-radio-22nd-nov-club-space-miami-miami-tick
+ ets?lng=en-US
+URL:https://dice.fm/event/92vlg7-the-vault-presents-circoloco-records-radio
+ -22nd-nov-club-space-miami-miami-tickets?lng=en-US
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:edmtrain-543177@festivals.miami-calendars
@@ -245,11 +247,11 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:humans-alike-sundays-nov-29@shotgun.live
-DTSTAMP:20261110T041823Z
-LAST-MODIFIED:20261110T041823Z
-SEQUENCE:1
+DTSTAMP:20261113T101829Z
+LAST-MODIFIED:20261113T101829Z
+SEQUENCE:2
 DTSTART:20261130T010000Z
-DTEND:20261130T060000Z
+DTEND:20261130T090000Z
 SUMMARY:Humans Alike Sundays
 LOCATION:Miami
 DESCRIPTION:Tags: house\, tech house\nhttps://shotgun.live/en/events/humans
@@ -258,6 +260,22 @@ DESCRIPTION:Tags: house\, tech house\nhttps://shotgun.live/en/events/humans
 URL:https://shotgun.live/en/events/humans-alike-sundays-nov-29
 STATUS:CONFIRMED
 CATEGORIES:house,tech house
+END:VEVENT
+BEGIN:VEVENT
+UID:19hz-4450444-hugelbaselweek@festivals.miami-calendars
+DTSTAMP:20261113T101829Z
+LAST-MODIFIED:20261113T101829Z
+SEQUENCE:0
+DTSTART:20261203T000000Z
+DTEND:20261203T050000Z
+SUMMARY:Hugel | Basel Week
+LOCATION:Palm Tree Club
+DESCRIPTION:Lineup: HUGEL\nTags: big room house\, latin house\nPresented by
+ : Palm Tree Club Miami\nAges: 21+\nhttps://posh.vip/e/hugel-basel-week-pre
+ sented-by-palm-tree-club-miami\nhttps://edmtrain.com/miami-fl/hugel-549909
+URL:https://posh.vip/e/hugel-basel-week-presented-by-palm-tree-club-miami
+STATUS:CONFIRMED
+CATEGORIES:big room house,latin house
 END:VEVENT
 BEGIN:VEVENT
 UID:c3trlroom-17@shotgun.live
@@ -274,18 +292,21 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:art-basel-shotgun-takeover-fooq-s-miami@shotgun.live
-DTSTAMP:20261105T221829Z
-LAST-MODIFIED:20261105T221829Z
-SEQUENCE:0
+DTSTAMP:20261113T101829Z
+LAST-MODIFIED:20261113T101829Z
+SEQUENCE:1
 DTSTART:20261203T020000Z
-DTEND:20261203T070000Z
+DTEND:20261203T080000Z
 SUMMARY:Art Basel Shotgun Takeover @ Fooq's Miami
 LOCATION:Fooq's
-DESCRIPTION:Tags: electronica\, house\, deep house\nhttps://shotgun.live/en
- /events/art-basel-shotgun-takeover-fooq-s-miami
+DESCRIPTION:Lineup: Sainte Vie\, Mashrik\, Jivan Calderone\, Philou\, Dubfi
+ re\, Maher Daniel\nTags: deep house\, electronica\, house\, tech house\, t
+ echno\nAges: 21+\nhttps://shotgun.live/en/events/art-basel-shotgun-takeove
+ r-fooq-s-miami\nhttps://edmtrain.com/miami-fl/shotgun-takeover-sainte-vie-
+ 550550
 URL:https://shotgun.live/en/events/art-basel-shotgun-takeover-fooq-s-miami
 STATUS:CONFIRMED
-CATEGORIES:electronica,house,deep house
+CATEGORIES:deep house,electronica,house,tech house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:edmtrain-551477@festivals.miami-calendars

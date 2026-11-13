@@ -8,32 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:tablelist-c90db8b47c62c006@zeyzey.miami-calendars
-DTSTAMP:20261101T101757Z
-LAST-MODIFIED:20261101T101757Z
-SEQUENCE:0
-DTSTART:20261112T010000Z
-DTEND:20261112T060000Z
-SUMMARY:Blueface X DDG - Fresh Out of Love Tour
-LOCATION:ZeyZey Miami
-DESCRIPTION:https://buy.tablelist.com/e/c90db8b47c62c006
-URL:https://buy.tablelist.com/e/c90db8b47c62c006
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:zeyzey-love-in-the-club-12-nov@zeyzey.miami-calendars
-DTSTAMP:20261029T221806Z
-LAST-MODIFIED:20261029T221806Z
-SEQUENCE:0
-DTSTART:20261113T000000Z
-DTEND:20261113T060000Z
-SUMMARY:Love In The Club
-LOCATION:ZeyZey Miami
-DESCRIPTION:https://calendar.zeyzeymiami.com/shows/love-in-the-club-12-nov
-URL:https://calendar.zeyzeymiami.com/shows/love-in-the-club-12-nov
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6ad760d4f2e7b00001b10371@zeyzey.miami-calendars
 DTSTAMP:20261107T101822Z
 LAST-MODIFIED:20261107T101822Z
@@ -627,19 +601,21 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-danny-kravit-free-entry-26-dec@zeyzey.miami-calendars
-DTSTAMP:20261106T041843Z
-LAST-MODIFIED:20261106T041843Z
-SEQUENCE:3
+DTSTAMP:20261113T101829Z
+LAST-MODIFIED:20261113T101829Z
+SEQUENCE:4
 DTSTART:20261227T020000Z
 DTEND:20261227T060000Z
 SUMMARY:Danny Krivit + Roy Davis Jr. (Free Entry)
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: Danny Krivit\, Roy Davis Jr.\nTags: dance/electronic\nh
- ttps://calendar.zeyzeymiami.com/shows/danny-kravit-free-entry-26-dec\nhttp
- s://edmtrain.com/miami-fl/danny-krivit-roy-davis-jr-550631
+DESCRIPTION:Lineup: Danny Krivit\, Roy Davis Jr.\nTags: acid house\, chicag
+ o house\, deep house\nAges: 18+\nhttps://calendar.zeyzeymiami.com/shows/da
+ nny-kravit-free-entry-26-dec\nhttps://app.opendate.io/e/danny-krivit-roy-d
+ avis-jr-free-entry-december-26-2026-722229?default_theme=true\nhttps://edm
+ train.com/miami-fl/danny-krivit-roy-davis-jr-550631
 URL:https://calendar.zeyzeymiami.com/shows/danny-kravit-free-entry-26-dec
 STATUS:CONFIRMED
-CATEGORIES:dance/electronic
+CATEGORIES:acid house,chicago house,deep house
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-chromeo-dj-set-30-dec@zeyzey.miami-calendars
@@ -739,17 +715,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-romain-garcia-16-jan@zeyzey.miami-calendars
-DTSTAMP:20261107T161849Z
-LAST-MODIFIED:20261107T161849Z
-SEQUENCE:1
+DTSTAMP:20261113T101829Z
+LAST-MODIFIED:20261113T101829Z
+SEQUENCE:2
 DTSTART:20270117T010000Z
 DTEND:20270117T060000Z
 SUMMARY:Romain Garcia
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: Romain Garcia\nhttps://calendar.zeyzeymiami.com/shows/r
- omain-garcia-16-jan\nhttps://edmtrain.com/miami-fl/romain-garcia-551111
+DESCRIPTION:Lineup: Romain Garcia\nTags: melodic techno\, progressive house
+ \nAges: 18+\nhttps://calendar.zeyzeymiami.com/shows/romain-garcia-16-jan\n
+ https://app.opendate.io/e/romain-garcia-january-16-2027-794190?default_the
+ me=true\nhttps://edmtrain.com/miami-fl/romain-garcia-551111
 URL:https://calendar.zeyzeymiami.com/shows/romain-garcia-16-jan
 STATUS:CONFIRMED
+CATEGORIES:melodic techno,progressive house
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-the-unofficial-end-cruise-party-21-jan@zeyzey.miami-calendars
@@ -839,17 +818,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-jerro-13-feb@zeyzey.miami-calendars
-DTSTAMP:20261109T221817Z
-LAST-MODIFIED:20261109T221817Z
-SEQUENCE:0
+DTSTAMP:20261113T101829Z
+LAST-MODIFIED:20261113T101829Z
+SEQUENCE:1
 DTSTART:20270214T010000Z
 DTEND:20270214T060000Z
 SUMMARY:Jerro
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: Jerro\nhttps://calendar.zeyzeymiami.com/shows/jerro-13-
- feb\nhttps://edmtrain.com/miami-fl/jerro-551235
+DESCRIPTION:Lineup: Jerro\nTags: progressive house\nAges: 18+\nhttps://cale
+ ndar.zeyzeymiami.com/shows/jerro-13-feb\nhttps://edmtrain.com/miami-fl/jer
+ ro-551235
 URL:https://calendar.zeyzeymiami.com/shows/jerro-13-feb
 STATUS:CONFIRMED
+CATEGORIES:progressive house
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-the-temptations-19-feb@zeyzey.miami-calendars

@@ -138,25 +138,27 @@ CATEGORIES:pop edm,synthpop
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abe8450c57ae3000126d8c3@floyd.miami-calendars
-DTSTAMP:20261104T041813Z
-LAST-MODIFIED:20261104T041813Z
-SEQUENCE:2
+DTSTAMP:20261113T101829Z
+LAST-MODIFIED:20261113T101829Z
+SEQUENCE:3
 DTSTART:20261130T040000Z
 DTEND:20261130T100000Z
 SUMMARY:Ale De Tuglie + Ammo Avenue
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
 DESCRIPTION:Lineup: Ale De Tuglie\, Ammo Avenue\, Alessandro de Tuglie\nTag
- s (guess): house\, techno\nhttps://dice.fm/event/6abe8450c57ae3000126d8c3
- \nhttps://edmtrain.com/miami-fl/ale-de-tuglie-ammo-avenue-549829
-URL:https://dice.fm/event/6abe8450c57ae3000126d8c3
+ s: tech house\nAges: 21+\nhttps://dice.fm/event/3o82ql-ale-de-tuglie-ammo-
+ avenue-29th-nov-floyd-miami-miami-tickets\nhttps://edmtrain.com/miami-fl/a
+ le-de-tuglie-ammo-avenue-549829
+URL:https://dice.fm/event/3o82ql-ale-de-tuglie-ammo-avenue-29th-nov-floyd-m
+ iami-miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aa05e5de8caab0001795dc7@floyd.miami-calendars
-DTSTAMP:20261017T161817Z
-LAST-MODIFIED:20261017T161817Z
-SEQUENCE:2
+DTSTAMP:20261113T101829Z
+LAST-MODIFIED:20261113T101829Z
+SEQUENCE:3
 DTSTART:20261203T040000Z
 DTEND:20261203T100000Z
 SUMMARY:PRISMA Showcase (Floyd Basel 2026)
@@ -164,7 +166,8 @@ LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
 DESCRIPTION:Lineup: Demi Riquísimo\, Make A Dance\, Musclecars\, Natasha D
  iggs\nTags: deep house\, funk\, house\nAges: 21+\nhttps://dice.fm/event/eo
  nl2y-prisma-showcase-floyd-basel-2026-2nd-dec-floyd-miami-miami-tickets\nh
- ttps://edmtrain.com/miami-fl/demi-riquisimo-make-a-dance-543112
+ ttps://edmtrain.com/miami-fl/demi-riquisimo-make-a-dance-543112\nhttps://l
+ ink.dice.fm/prismashowcasebasel
 URL:https://dice.fm/event/eonl2y-prisma-showcase-floyd-basel-2026-2nd-dec-f
  loyd-miami-miami-tickets
 STATUS:CONFIRMED
@@ -303,19 +306,20 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aea032f2c05400001df7dfc@floyd.miami-calendars
-DTSTAMP:20261104T041813Z
-LAST-MODIFIED:20261104T041813Z
-SEQUENCE:1
+DTSTAMP:20261113T101829Z
+LAST-MODIFIED:20261113T101829Z
+SEQUENCE:2
 DTSTART:20261220T040000Z
 DTEND:20261220T100000Z
 SUMMARY:San Pacho
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: San Pacho\nTags (guess): house\, techno\nhttps://dice.f
- m/event/6aea032f2c05400001df7dfc\nhttps://edmtrain.com/miami-fl/san-pacho-
- 549830
-URL:https://dice.fm/event/6aea032f2c05400001df7dfc
+DESCRIPTION:Lineup: San Pacho\nTags: tech house\nAges: 21+\nhttps://dice.fm
+ /event/m2bvxr-san-pacho-19th-dec-floyd-miami-miami-tickets\nhttps://edmtra
+ in.com/miami-fl/san-pacho-549830
+URL:https://dice.fm/event/m2bvxr-san-pacho-19th-dec-floyd-miami-miami-ticke
+ ts
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ae219d6be58e900015632e5@floyd.miami-calendars
@@ -334,33 +338,36 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aea03471652850001b13939@floyd.miami-calendars
-DTSTAMP:20261104T041813Z
-LAST-MODIFIED:20261104T041813Z
-SEQUENCE:1
+DTSTAMP:20261113T101829Z
+LAST-MODIFIED:20261113T101829Z
+SEQUENCE:2
 DTSTART:20261227T040000Z
 DTEND:20261227T100000Z
 SUMMARY:RE:FLECT
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6aea0347165
- 2850001b13939\nhttps://edmtrain.com/miami-fl/re-flect-549831
-URL:https://dice.fm/event/6aea03471652850001b13939
+DESCRIPTION:Tags (guess): house\, techno\nAges: 21+\nhttps://dice.fm/event/
+ yy28op-reflect-26th-dec-floyd-miami-miami-tickets\nhttps://edmtrain.com/mi
+ ami-fl/re-flect-549831
+URL:https://dice.fm/event/yy28op-reflect-26th-dec-floyd-miami-miami-tickets
 STATUS:CONFIRMED
 CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aea036373dd35000163f300@floyd.miami-calendars
-DTSTAMP:20261104T041813Z
-LAST-MODIFIED:20261104T041813Z
-SEQUENCE:1
+DTSTAMP:20261113T101829Z
+LAST-MODIFIED:20261113T101829Z
+SEQUENCE:2
 DTSTART:20270101T040000Z
 DTEND:20270101T100000Z
 SUMMARY:NYE: Lisa's Kickback
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6aea036373d
- d35000163f300\nhttps://edmtrain.com/miami-fl/lisas-kickback-549832
-URL:https://dice.fm/event/6aea036373dd35000163f300
+DESCRIPTION:Tags: minimal\, tech house\nAges: 21+\nhttps://dice.fm/event/99
+ eb26-nye-lisas-kickback-31st-dec-floyd-miami-miami-tickets\nhttps://edmtra
+ in.com/miami-fl/lisas-kickback-549832
+URL:https://dice.fm/event/99eb26-nye-lisas-kickback-31st-dec-floyd-miami-mi
+ ami-tickets
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:minimal,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aba864e4479fc0001853144@floyd.miami-calendars

@@ -87,6 +87,21 @@ STATUS:CONFIRMED
 CATEGORIES:hard bounce,hard dance,hard techno,hardcore
 END:VEVENT
 BEGIN:VEVENT
+UID:19hz-4450072-neuxempmaxstern@domicile.miami-calendars
+DTSTAMP:20261113T101829Z
+LAST-MODIFIED:20261113T101829Z
+SEQUENCE:0
+DTSTART:20261129T030000Z
+DTEND:20261129T100000Z
+SUMMARY:Neux\, Emp\, Max Stern
+LOCATION:Domicile
+DESCRIPTION:Tags: hard techno\nAges: 18+\nhttps://dice.fm/event/6af10050806
+ 64100015bf551
+URL:https://dice.fm/event/6af1005080664100015bf551
+STATUS:CONFIRMED
+CATEGORIES:hard techno
+END:VEVENT
+BEGIN:VEVENT
 UID:19hz-4450552-baselweekopening@domicile.miami-calendars
 DTSTAMP:20261030T041827Z
 LAST-MODIFIED:20261030T041827Z
@@ -106,6 +121,21 @@ URL:https://dice.fm/event/532bql-domicile-x-gap-presents-basel-week-opening
  tickets
 STATUS:CONFIRMED
 CATEGORIES:hard techno,techno
+END:VEVENT
+BEGIN:VEVENT
+UID:19hz-4450648-paoloferrara@domicile.miami-calendars
+DTSTAMP:20261113T101829Z
+LAST-MODIFIED:20261113T101829Z
+SEQUENCE:0
+DTSTART:20261205T030000Z
+DTEND:20261205T100000Z
+SUMMARY:Paolo Ferrara
+LOCATION:Domicile
+DESCRIPTION:Tags: big room hard techno\, hard trance\nAges: 18+\nhttps://di
+ ce.fm/event/6ae9d3f4bf8a2d0001de69ec
+URL:https://dice.fm/event/6ae9d3f4bf8a2d0001de69ec
+STATUS:CONFIRMED
+CATEGORIES:big room hard techno,hard trance
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4450744-hhunter@domicile.miami-calendars
