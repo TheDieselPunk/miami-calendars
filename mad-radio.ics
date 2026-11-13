@@ -9,9 +9,9 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:madradiomiami111226@shotgun.live
-DTSTAMP:20261111T161829Z
-LAST-MODIFIED:20261111T161829Z
-SEQUENCE:1
+DTSTAMP:20261113T041825Z
+LAST-MODIFIED:20261113T041825Z
+SEQUENCE:2
 DTSTART:20261113T020000Z
 DTEND:20261113T080000Z
 SUMMARY:Femme Frequency / Frameless Sounds: Anabelen / Griot & Corte
@@ -21,18 +21,18 @@ DESCRIPTION:"FEMME FREQUENCY™ is MAD® cultural platform placing women at
  rging DJs\, the stories behind the music\, culture\, talent\, and communit
  y. A safe space to discover\, play\, and belong. See you on the dance floo
  r! Come early\, stay late\, and let the night unfold FREE ENTRY +25 YEARS 
- OLD HAPPY HOUR 5 PM - 9 PM"\nTags (guess): deep house\, house\nTickets: RS
- VP Free\nhttps://shotgun.live/en/events/madradiomiami111226
+ OLD HAPPY HOUR 5 PM - 9 PM"\nTags: house\nTickets: RSVP Free\nAges: $25+\n
+ https://shotgun.live/en/events/madradiomiami111226
 URL:https://shotgun.live/en/events/madradiomiami111226
 STATUS:CONFIRMED
-CATEGORIES:deep house,house
+CATEGORIES:house
 GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami111326@shotgun.live
-DTSTAMP:20261106T041843Z
-LAST-MODIFIED:20261106T041843Z
-SEQUENCE:1
+DTSTAMP:20261113T041825Z
+LAST-MODIFIED:20261113T041825Z
+SEQUENCE:2
 DTSTART:20261114T020000Z
 DTEND:20261114T080000Z
 SUMMARY:Road To Trotamundo / Un_Mute: Truly Madly / Kev Gee
@@ -43,20 +43,20 @@ DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
   the urban-chic experience at Mad Radio Miami. See you on the dance floor!
   Come early\, stay late\, and let the night unfold FREE ENTRY BEFORE 10 PM
   / FREE ENTRY LADIES UNTIL MIDNIGHT +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
- \nLineup: Truly Madly\, Kev Gee\nTags (guess): deep house\, house\nTickets
- : AFTER 10 PM $20\, FREE LADIES RSVP BEFORE 12 AM Free\nhttps://shotgun.li
- ve/en/events/madradiomiami111326\nhttps://edmtrain.com/miami-fl/road-to-tr
- otamundo-truly-madly-550571
+ \nLineup: Truly Madly\, Kev Gee\nTags: 2-step\, house\, uk garage\nTickets
+ : AFTER 10 PM $20\, FREE LADIES RSVP BEFORE 12 AM Free\nAges: 21+\nhttps:/
+ /shotgun.live/en/events/madradiomiami111326\nhttps://edmtrain.com/miami-fl
+ /road-to-trotamundo-truly-madly-550571
 URL:https://shotgun.live/en/events/madradiomiami111326
 STATUS:CONFIRMED
-CATEGORIES:deep house,house
+CATEGORIES:2-step,house,uk garage
 GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:vice-city-pre-launch@shotgun.live
-DTSTAMP:20261112T161823Z
-LAST-MODIFIED:20261112T161823Z
-SEQUENCE:1
+DTSTAMP:20261113T041825Z
+LAST-MODIFIED:20261113T041825Z
+SEQUENCE:2
 DTSTART:20261115T020000Z
 DTEND:20261115T080000Z
 SUMMARY:Welcome To Vice City W/ Serge Devant
@@ -66,19 +66,20 @@ DESCRIPTION:Welcome to Vice City\, baby! The Pre-Launch Party welcomes Serg
  is is your exclusive opportunity to unique activations\, first-looks at ga
  me footage\, and more. Powered by Shotgun. Access to this event is extreme
  ly limited.\nLineup: Serge Devant\, Leo Del Toro\, Nico Moon\, Cali Lanauz
- e\nTags: deep house\, house\nTickets: BEFORE 11PM RSVP Free\, VICE CITY PA
- SS $25\nhttps://shotgun.live/en/events/vice-city-pre-launch\nhttps://edmtr
- ain.com/miami-fl/serge-devant-leo-del-toro-550949
+ e\nTags: deep house\, house\, tech house\, techno\nTickets: BEFORE 11PM RS
+ VP Free\, VICE CITY PASS $25\nAges: 21+\nhttps://shotgun.live/en/events/vi
+ ce-city-pre-launch\nhttps://edmtrain.com/miami-fl/serge-devant-leo-del-tor
+ o-550949
 URL:https://shotgun.live/en/events/vice-city-pre-launch
 STATUS:CONFIRMED
-CATEGORIES:deep house,house
+CATEGORIES:deep house,house,tech house,techno
 GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami111826@shotgun.live
-DTSTAMP:20261105T221829Z
-LAST-MODIFIED:20261105T221829Z
-SEQUENCE:0
+DTSTAMP:20261113T041825Z
+LAST-MODIFIED:20261113T041825Z
+SEQUENCE:1
 DTSTART:20261119T020000Z
 DTEND:20261119T080000Z
 SUMMARY:Join The Local Signal ))): Paul Dudamel / Yusur / Soul Bro
@@ -88,18 +89,19 @@ DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
   our slick radio show serving up the latest tracks. Save the date and cath
   the urban-chic experience at Mad Radio Miami. See you on the dance floor!
   Come early\, stay late\, and let the night unfold FREE ENTRY 25+ YEARS OL
- D HAPPY HOUR 5 PM - 9 PM"\nTags (guess): deep house\, house\nTickets: RSVP
-  Free\nhttps://shotgun.live/en/events/madradiomiami111826
+ D HAPPY HOUR 5 PM - 9 PM"\nTags: playa tech\, progressive house\, tech hou
+ se\nTickets: RSVP Free\nAges: 25+\nhttps://shotgun.live/en/events/madradio
+ miami111826
 URL:https://shotgun.live/en/events/madradiomiami111826
 STATUS:CONFIRMED
-CATEGORIES:deep house,house
+CATEGORIES:playa tech,progressive house,tech house
 GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami111926@shotgun.live
-DTSTAMP:20261105T221829Z
-LAST-MODIFIED:20261105T221829Z
-SEQUENCE:0
+DTSTAMP:20261113T041825Z
+LAST-MODIFIED:20261113T041825Z
+SEQUENCE:1
 DTSTART:20261120T020000Z
 DTEND:20261120T080000Z
 SUMMARY:Femme Frequency / Soirée: Penny Lane / Darelectric /Psy Chic
@@ -109,18 +111,18 @@ DESCRIPTION:"FEMME FREQUENCY™ is MAD® cultural platform placing women at
  rging DJs\, the stories behind the music\, culture\, talent\, and communit
  y. A safe space to discover\, play\, and belong. See you on the dance floo
  r! Come early\, stay late\, and let the night unfold FREE ENTRY +25 YEARS 
- OLD HAPPY HOUR 5 PM - 9 PM"\nTags (guess): deep house\, house\nTickets: RS
- VP Free\nhttps://shotgun.live/en/events/madradiomiami111926
+ OLD HAPPY HOUR 5 PM - 9 PM"\nTags: house\, tech house\nTickets: RSVP Free
+ \nAges: 25+\nhttps://shotgun.live/en/events/madradiomiami111926
 URL:https://shotgun.live/en/events/madradiomiami111926
 STATUS:CONFIRMED
-CATEGORIES:deep house,house
+CATEGORIES:house,tech house
 GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami112026@shotgun.live
-DTSTAMP:20261105T221829Z
-LAST-MODIFIED:20261105T221829Z
-SEQUENCE:0
+DTSTAMP:20261113T041825Z
+LAST-MODIFIED:20261113T041825Z
+SEQUENCE:1
 DTSTART:20261121T020000Z
 DTEND:20261121T080000Z
 SUMMARY:Camaraderie: Puma / Harry Hm / Amaré
@@ -131,12 +133,11 @@ DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
   the urban-chic experience at Mad Radio Miami. See you on the dance floor!
   Come early\, stay late\, and let the night unfold FREE ENTRY BEFORE 10 PM
   / FREE ENTRY LADIES UNTIL MIDNIGHT +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
- \nTags (guess): deep house\, house\nTickets: AFTER 10 PM $20\, FREE LADIES
-  RSVP BEFORE 12 AM Free\nhttps://shotgun.live/en/events/madradiomiami11202
- 6
+ \nTags: house\nTickets: AFTER 10 PM $20\, FREE LADIES RSVP BEFORE 12 AM Fr
+ ee\nAges: 25+\nhttps://shotgun.live/en/events/madradiomiami112026
 URL:https://shotgun.live/en/events/madradiomiami112026
 STATUS:CONFIRMED
-CATEGORIES:deep house,house
+CATEGORIES:house
 GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT

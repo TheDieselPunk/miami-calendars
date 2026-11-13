@@ -24,19 +24,20 @@ CATEGORIES:house,melodic house & techno,indie dance
 END:VEVENT
 BEGIN:VEVENT
 UID:ravediggaz@shotgun.live
-DTSTAMP:20261104T041813Z
-LAST-MODIFIED:20261104T041813Z
-SEQUENCE:0
+DTSTAMP:20261113T041825Z
+LAST-MODIFIED:20261113T041825Z
+SEQUENCE:1
 DTSTART:20261114T045900Z
 DTEND:20261114T110000Z
 SUMMARY:Ravediggaz
 LOCATION:Miami
-DESCRIPTION:Tags: acid house\, breakbeat\, electro\, minimal\, tech house\n
- Ages: 21+\nhttps://shotgun.live/en/events/ravediggaz\nhttps://ra.co/events
- /2544621
+DESCRIPTION:Tags: acid house\, breakbeat\, breaks\, electro\, house\, minim
+ al\, tech house\, techno\nAges: 21+\nhttps://shotgun.live/en/events/ravedi
+ ggaz\nhttps://ra.co/events/2544621
 URL:https://shotgun.live/en/events/ravediggaz
 STATUS:CONFIRMED
-CATEGORIES:acid house,breakbeat,electro,minimal,tech house
+CATEGORIES:acid house,breakbeat,breaks,electro,house,minimal,tech house,tec
+ hno
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4448695-sacredmeadowsart@festivals.miami-calendars
@@ -72,12 +73,27 @@ STATUS:CONFIRMED
 CATEGORIES:tech house,deep house,progressive house
 END:VEVENT
 BEGIN:VEVENT
+UID:19hz-4448728-picaroneoarovaca@festivals.miami-calendars
+DTSTAMP:20261113T041825Z
+LAST-MODIFIED:20261113T041825Z
+SEQUENCE:0
+DTSTART:20261115T030000Z
+DTEND:20261115T110000Z
+SUMMARY:Picaroneo: Arova\, Carlo Vento\, Chelsea Lyn\, Julian Griba\, Migue
+ l Pasion\, Peralta\, Xensibilia
+LOCATION:TBA
+DESCRIPTION:Tags: techno\nAges: 21+\nhttps://ra.co/events/2579195
+URL:https://ra.co/events/2579195
+STATUS:CONFIRMED
+CATEGORIES:techno
+END:VEVENT
+BEGIN:VEVENT
 UID:humans-alike-sundays@shotgun.live
-DTSTAMP:20261110T041823Z
-LAST-MODIFIED:20261110T041823Z
-SEQUENCE:1
+DTSTAMP:20261113T041825Z
+LAST-MODIFIED:20261113T041825Z
+SEQUENCE:2
 DTSTART:20261116T010000Z
-DTEND:20261116T060000Z
+DTEND:20261116T090000Z
 SUMMARY:Humans Alike Sundays
 LOCATION:Miami
 DESCRIPTION:Tags: house\, tech house\nhttps://shotgun.live/en/events/humans
@@ -85,6 +101,21 @@ DESCRIPTION:Tags: house\, tech house\nhttps://shotgun.live/en/events/humans
 URL:https://shotgun.live/en/events/humans-alike-sundays
 STATUS:CONFIRMED
 CATEGORIES:house,tech house
+END:VEVENT
+BEGIN:VEVENT
+UID:superqueen-41@shotgun.live
+DTSTAMP:20261113T041825Z
+LAST-MODIFIED:20261113T041825Z
+SEQUENCE:0
+DTSTART:20261120T010000Z
+DTEND:20261120T080000Z
+SUMMARY:Superqueen: Gta6 Release Party + Karaokiki Happy Hour
+LOCATION:Miami
+DESCRIPTION:Tags: big room house\, drag\, electro house\, pop\, trap\nAges:
+  18+\nhttps://shotgun.live/en/events/superqueen-41
+URL:https://shotgun.live/en/events/superqueen-41
+STATUS:CONFIRMED
+CATEGORIES:big room house,drag,electro house,pop,trap
 END:VEVENT
 BEGIN:VEVENT
 UID:edmtrain-551215@festivals.miami-calendars

@@ -60,9 +60,9 @@ CATEGORIES:deep house,house,progressive house,r&b/soul
 END:VEVENT
 BEGIN:VEVENT
 UID:beiruttomiami1@shotgun.live
-DTSTAMP:20261111T221827Z
-LAST-MODIFIED:20261111T221827Z
-SEQUENCE:10
+DTSTAMP:20261113T041825Z
+LAST-MODIFIED:20261113T041825Z
+SEQUENCE:11
 DTSTART:20261115T040000Z
 DTEND:20261115T080000Z
 SUMMARY:Beirut Nights In Presents: Beirut To Miami
@@ -82,26 +82,28 @@ DESCRIPTION:Beirut Nights In Presents: Beirut to Miami! Immerse yourself in
  eirut's nightlife\, and you'll find yourself immersed in a vibrant mosaic 
  of sights\, sounds\, and experiences that celebrate the city's rich multic
  ultural heritage. Music: Anthony Raad & Mark Azar Doors open @ 11 PM 21+ N
- o refunds\nTags: afro house\, arabic house\, arabic pop\, indie/alternativ
- e\nPresented by: BEIRUT NIGHTS IN\nTickets: VIP Table for 6 People - $900 
- Minimum Spend Free\, General Admission - Early Bird $30 (sold out)\, Gener
- al Admission - Tier 2 $35 (sold out)\, General Admission - Tier 3 $40\, VI
- P Table for 8 People - $1200 Minimum Spend Free\, VIP Table for 10 People 
- - $1750 Minimum Spend Free\nhttps://shotgun.live/en/events/beiruttomiami1
- \nhttps://buy.tablelist.com/e/3f6b13fd54147268\nhttps://buy.tablelist.com/
- e/685c26ba1136eddc\nhttps://calendar.zeyzeymiami.com/shows/beirut-nights-i
- n-14-nov\nhttps://calendar.zeyzeymiami.com/shows/dj-paypal-14-nov\nhttps:/
- /calendar.zeyzeymiami.com/shows/tul8te-world-tour-14-nov
+ o refunds\nTags: afro house\, arabic house\, arabic pop\, footwork\, indie
+ /alternative\, jersey club\, juke\, jungle\nPresented by: BEIRUT NIGHTS IN
+ \nTickets: VIP Table for 6 People - $900 Minimum Spend Free\, General Admi
+ ssion - Early Bird $30 (sold out)\, General Admission - Tier 2 $35 (sold o
+ ut)\, General Admission - Tier 3 $40\, VIP Table for 8 People - $1200 Mini
+ mum Spend Free\, VIP Table for 10 People - $1750 Minimum Spend Free\nhttps
+ ://shotgun.live/en/events/beiruttomiami1\nhttps://buy.tablelist.com/e/3f6b
+ 13fd54147268\nhttps://buy.tablelist.com/e/685c26ba1136eddc\nhttps://calend
+ ar.zeyzeymiami.com/shows/beirut-nights-in-14-nov\nhttps://calendar.zeyzeym
+ iami.com/shows/dj-paypal-14-nov\nhttps://calendar.zeyzeymiami.com/shows/tu
+ l8te-world-tour-14-nov\nhttps://ra.co/events/2581524
 URL:https://shotgun.live/en/events/beiruttomiami1
 STATUS:CONFIRMED
-CATEGORIES:afro house,arabic house,arabic pop,indie/alternative
+CATEGORIES:afro house,arabic house,arabic pop,footwork,indie/alternative,je
+ rsey club,juke,jungle
 GEO:25.8327584;-80.1890685
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a0eff0b5ffbf40001c9044c@zeyzey.miami-calendars
-DTSTAMP:20261101T101757Z
-LAST-MODIFIED:20261101T101757Z
-SEQUENCE:4
+DTSTAMP:20261113T041825Z
+LAST-MODIFIED:20261113T041825Z
+SEQUENCE:5
 DTSTART:20261115T200000Z
 DTEND:20261116T000000Z
 SUMMARY:Club 1BD Miami ft. Chvmeleon\, Hunny Bee\, Pressure Point\, & Spine
@@ -109,14 +111,14 @@ SUMMARY:Club 1BD Miami ft. Chvmeleon\, Hunny Bee\, Pressure Point\, & Spine
 LOCATION:ZeyZey\, 353 Northeast 61st Street\, Miami\, Florida 33137\, Unite
  d States
 DESCRIPTION:Lineup: Club 1BD\, DJ Hunny Bee\, Pressure Point\, Spinelli\nTa
- gs: hip-hop/rap\nhttps://dice.fm/event/6a0eff0b5ffbf40001c9044c\nhttps://b
- uy.tablelist.com/e/390cf1e657034a3e\nhttps://calendar.zeyzeymiami.com/show
- s/club-1bd-miami-day-party-15-nov\nhttps://calendar.zeyzeymiami.com/shows/
- evening-elephants-15-nov\nhttps://edmtrain.com/miami-fl/club-1bd-dj-hunny-
- bee-517966
+ gs: hip-hop\, hip-hop/rap\, house\, jersey club\, r&b\nAges: 21+\nhttps://
+ dice.fm/event/6a0eff0b5ffbf40001c9044c\nhttps://buy.tablelist.com/e/390cf1
+ e657034a3e\nhttps://calendar.zeyzeymiami.com/shows/club-1bd-miami-day-part
+ y-15-nov\nhttps://calendar.zeyzeymiami.com/shows/evening-elephants-15-nov
+ \nhttps://edmtrain.com/miami-fl/club-1bd-dj-hunny-bee-517966
 URL:https://dice.fm/event/6a0eff0b5ffbf40001c9044c
 STATUS:CONFIRMED
-CATEGORIES:hip-hop/rap
+CATEGORIES:hip-hop,hip-hop/rap,house,jersey club,r&b
 END:VEVENT
 BEGIN:VEVENT
 UID:tablelist-8ba448be22306de7@zeyzey.miami-calendars

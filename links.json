@@ -335,14 +335,6 @@
   "url": "https://shotgun.live/events/art-basel-shotgun-takeover-fooq-s-miami?utm_source=edmtrain",
   "checked": "2026-11-05"
  },
- "550589": {
-  "url": "https://posh.vip/e/gianni-blu-presents-global-house-music?t=edmtrain",
-  "checked": "2026-11-05"
- },
- "550614": {
-  "url": "https://dice.fm/event/2olw7a?pid=d6342b83",
-  "checked": "2026-11-05"
- },
  "550617": {
   "url": "https://posh.vip/e/j-worra-selva?t=edmtrain",
   "checked": "2026-11-05"
@@ -350,14 +342,6 @@
  "550627": {
   "url": "https://www.etix.com/ticket/p/73844639",
   "checked": "2026-11-05"
- },
- "550725": {
-  "url": "https://app.discotech.me/events/38237597-landis-at-strawberry-moon",
-  "checked": "2026-11-06"
- },
- "550729": {
-  "url": "https://app.discotech.me/events/38237598-capri-at-strawberry-moon",
-  "checked": "2026-11-06"
  },
  "550755": {
   "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/major-lazer-at-faena-miami-beach-miami-art-week-2026",
@@ -498,5 +482,9 @@
  "552242": {
   "url": "https://dice.fm/event/vvp7p7?pid=d6342b83",
   "checked": "2026-11-11"
+ },
+ "552388": {
+  "url": "https://shotgun.live/events/the-hall-club-monkey-safari?utm_source=edmtrain",
+  "checked": "2026-11-12"
  }
 }

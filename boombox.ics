@@ -27,9 +27,9 @@ GEO:25.7287781;-80.3169309
 END:VEVENT
 BEGIN:VEVENT
 UID:thunderbox-vi-x-kitchen-club@shotgun.live
-DTSTAMP:20261109T221817Z
-LAST-MODIFIED:20261109T221817Z
-SEQUENCE:0
+DTSTAMP:20261113T041825Z
+LAST-MODIFIED:20261113T041825Z
+SEQUENCE:1
 DTSTART:20261114T040000Z
 DTEND:20261114T100000Z
 SUMMARY:Thunderbox VI X Kitchen Club
@@ -37,10 +37,12 @@ LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
  \, USA
 DESCRIPTION:THUNDERBOX VI + THE KITCHEN CLUB 20$ COVER FOR 18+ FREE ENTRY F
  OR 21+ 21+ : Free Entry 18+ : $20 MUST BRING PHYSICAL IDs NO PHOTOS OF IDs
-  WILL BE ACCEPTED RAIN OR SHINE\nTickets: RSVP Free\nhttps://shotgun.live/
- en/events/thunderbox-vi-x-kitchen-club
+  WILL BE ACCEPTED RAIN OR SHINE\nTags: ebm\, gabber\, goth\, happy hardcor
+ e\, hardstyle\, industrial\, new wave\nTickets: RSVP Free\nAges: 18+\nhttp
+ s://shotgun.live/en/events/thunderbox-vi-x-kitchen-club
 URL:https://shotgun.live/en/events/thunderbox-vi-x-kitchen-club
 STATUS:CONFIRMED
+CATEGORIES:ebm,gabber,goth,happy hardcore,hardstyle,industrial,new wave
 GEO:25.7287781;-80.3169309
 END:VEVENT
 BEGIN:VEVENT
