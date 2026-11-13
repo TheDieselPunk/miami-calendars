@@ -191,10 +191,6 @@
   "url": "https://laylo.com/discoluminati/m/o95Fuf",
   "checked": "2026-10-26"
  },
- "548030": {
-  "url": "https://www.etix.com/ticket/p/37313747",
-  "checked": "2026-10-27"
- },
  "549114": {
   "url": "https://www.etix.com/ticket/p/85800734",
   "checked": "2026-10-31"
@@ -291,10 +287,6 @@
   "url": "https://www.eventbrite.com/e/2004390159925?aff=ebdimtedmtrain",
   "checked": "2026-11-07"
  },
- "551018": {
-  "url": "https://www.eventbrite.com/e/2004499880101?aff=ebdimtedmtrain",
-  "checked": "2026-11-07"
- },
  "551055": {
   "url": "https://shotgun.live/events/vice-rave-car-meetup?utm_source=edmtrain",
   "checked": "2026-11-08"
@@ -305,10 +297,6 @@
  },
  "551432": {
   "url": "https://notapromoter.com/discover/x1fAERcOUtILOpMgFhpG",
-  "checked": "2026-11-09"
- },
- "551437": {
-  "url": "https://shotgun.live/events/the-angels-il-more?utm_source=edmtrain",
   "checked": "2026-11-09"
  },
  "551441": {
@@ -393,6 +381,10 @@
  },
  "552436": {
   "url": "https://speakeasygo.com/event/EVE-T6LFVS?t=edmtrain",
+  "checked": "2026-11-13"
+ },
+ "552511": {
+  "url": "https://www.eventbrite.com/e/2004681927610?aff=ebdimtedmtrain",
   "checked": "2026-11-13"
  }
 }

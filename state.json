@@ -5,9 +5,14 @@
   "modified": "2026-11-13T10:18:29+00:00"
  },
  "19hz-4448536-4b@kemistry.miami-calendars": {
-  "hash": "e05e67df60ef3723",
+  "hash": "1a96f19241b777e2",
+  "seq": 1,
+  "modified": "2026-11-13T16:18:22+00:00"
+ },
+ "19hz-4448536-nyksan@jolene.miami-calendars": {
+  "hash": "a6143940068bfb41",
   "seq": 0,
-  "modified": "2026-11-13T10:18:29+00:00"
+  "modified": "2026-11-13T16:18:22+00:00"
  },
  "19hz-4448632-vinylnightthelad@domicile.miami-calendars": {
   "hash": "dbff49d0b5e06642",
@@ -163,6 +168,11 @@
   "hash": "c67c898414f954bc",
   "seq": 0,
   "modified": "2026-10-31T04:18:09+00:00"
+ },
+ "19hz-4451416-satoshitomiieamo@jolene.miami-calendars": {
+  "hash": "6ee985e862e1e420",
+  "seq": 0,
+  "modified": "2026-11-13T16:18:22+00:00"
  },
  "19hz-4451887-mrpauerfriends@festivals.miami-calendars": {
   "hash": "813ec17374e556ad",
@@ -729,11 +739,6 @@
   "seq": 2,
   "modified": "2026-11-13T10:18:29+00:00"
  },
- "dice-6aea22412c054000011c16aa@jolene.miami-calendars": {
-  "hash": "6024624aa245739a",
-  "seq": 1,
-  "modified": "2026-11-13T04:18:25+00:00"
- },
  "dice-6aea28be1652850001aa993f@club-space.miami-calendars": {
   "hash": "38ab366d00df9044",
   "seq": 2,
@@ -753,11 +758,6 @@
   "hash": "a108467dcd80409e",
   "seq": 0,
   "modified": "2026-11-04T16:18:02+00:00"
- },
- "dice-6aecdfde59b33300013afd8c@jolene.miami-calendars": {
-  "hash": "1072de1e49adec73",
-  "seq": 2,
-  "modified": "2026-11-13T10:18:29+00:00"
  },
  "dice-6af1e273ced8d2000112e434@the-ground.miami-calendars": {
   "hash": "16fcd45660b4e1f5",
@@ -938,6 +938,11 @@
   "hash": "6f5fe49f5fbc1f67",
   "seq": 0,
   "modified": "2026-11-12T04:18:31+00:00"
+ },
+ "edmtrain-552511@festivals.miami-calendars": {
+  "hash": "f0b135357c3d1339",
+  "seq": 0,
+  "modified": "2026-11-13T16:18:22+00:00"
  },
  "equinox-fest-4-day-2-3-november-21-22nd@shotgun.live": {
   "hash": "a6b82d159fc90bb0",
@@ -1559,6 +1564,11 @@
   "seq": 0,
   "modified": "2026-10-06T16:18:25+00:00"
  },
+ "zeyzey-el-david-aguilar-13-feb@zeyzey.miami-calendars": {
+  "hash": "d2683829c36993f0",
+  "seq": 0,
+  "modified": "2026-11-13T16:18:22+00:00"
+ },
  "zeyzey-friendsgiving-ft-suenalo-the-lab-25-nov@zeyzey.miami-calendars": {
   "hash": "a1ca24c4877e14f2",
   "seq": 1,
@@ -1603,6 +1613,11 @@
   "hash": "d28e124b26b6fdcb",
   "seq": 1,
   "modified": "2026-10-06T22:18:30+00:00"
+ },
+ "zeyzey-nervous-records-30-jan@zeyzey.miami-calendars": {
+  "hash": "8d95faac346421b6",
+  "seq": 0,
+  "modified": "2026-11-13T16:18:22+00:00"
  },
  "zeyzey-new-years-eve-with-dabuell-dj-set-31-dec@zeyzey.miami-calendars": {
   "hash": "4b5e50fdaa093856",

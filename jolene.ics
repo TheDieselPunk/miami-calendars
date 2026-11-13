@@ -8,15 +8,14 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6aea22412c054000011c16aa@jolene.miami-calendars
-DTSTAMP:20261113T041825Z
-LAST-MODIFIED:20261113T041825Z
-SEQUENCE:1
+UID:19hz-4448536-nyksan@jolene.miami-calendars
+DTSTAMP:20261113T161822Z
+LAST-MODIFIED:20261113T161822Z
+SEQUENCE:0
 DTSTART:20261113T030000Z
 DTEND:20261113T090000Z
 SUMMARY:Nyksan
-LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
- a 33131\, United States
+LOCATION:Jolene Downtown
 DESCRIPTION:Tags: house\nAges: 21+\nhttps://dice.fm/event/6aea22412c0540000
  11c16aa
 URL:https://dice.fm/event/6aea22412c054000011c16aa
@@ -327,15 +326,14 @@ STATUS:CONFIRMED
 CATEGORIES:minimal,tech house,techno
 END:VEVENT
 BEGIN:VEVENT
-UID:dice-6aecdfde59b33300013afd8c@jolene.miami-calendars
-DTSTAMP:20261113T101829Z
-LAST-MODIFIED:20261113T101829Z
-SEQUENCE:2
+UID:19hz-4451416-satoshitomiieamo@jolene.miami-calendars
+DTSTAMP:20261113T161822Z
+LAST-MODIFIED:20261113T161822Z
+SEQUENCE:0
 DTSTART:20261213T030000Z
 DTEND:20261213T090000Z
-SUMMARY:Satoshie Tomiie
-LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
- a 33131\, United States
+SUMMARY:Satoshi Tomiie\, Amo\, Daizy
+LOCATION:Jolene Downtown
 DESCRIPTION:Lineup: Satoshi Tomiie\nTags: deep house\, techno\nAges: 21+\nh
  ttps://dice.fm/event/6aecdfde59b33300013afd8c\nhttps://edmtrain.com/miami-
  fl/satoshi-tomiie-550561

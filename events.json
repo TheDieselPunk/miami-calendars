@@ -25,11 +25,9 @@
   },
   {
    "id": "19hz:4448527-crespo",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Crespo",
-   "artists": [
-    "Crespo"
-   ],
+   "artists": [],
    "venue": "E11even",
    "venue_slug": null,
    "date": "2026-11-12",
@@ -48,10 +46,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://speakeasygo.com/event/EVE-QXKA4A",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/crespo-545577"
-   ]
+   "url": "https://speakeasygo.com/event/EVE-QXKA4A"
   },
   {
    "id": "19hz:4448532-airetheangelsils",
@@ -99,7 +94,7 @@
   },
   {
    "id": "19hz:4448536-secretthursdaysa",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Secret Thursdays: Ally Archer, Almamexika, Garaboa, Gioo B2B Dylan Sbrizza, Laraland, Rasham, Reydel",
    "artists": [],
    "venue": "Do Not Sit On The Furniture",
@@ -118,23 +113,20 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6adf934ee9571d0001604b82",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/secret-thursdays-547916"
-   ]
+   "url": "https://dice.fm/event/6adf934ee9571d0001604b82"
   },
   {
-   "id": "dice:6aea22412c054000011c16aa",
-   "source": "19hz+dice",
+   "id": "19hz:4448536-nyksan",
+   "source": "19hz",
    "title": "Nyksan",
    "artists": [],
-   "venue": "Jolene Sound Room Miami",
+   "venue": "Jolene Downtown",
    "venue_slug": "jolene",
    "date": "2026-11-12",
    "start": "2026-11-13T03:00:00+00:00",
    "end": "2026-11-13T09:00:00+00:00",
    "time_estimated": false,
-   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "address": "",
    "ages": "21+",
    "price": "$7+",
    "genres": [
@@ -143,19 +135,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6aea22412c054000011c16aa",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/event/6aea22412c054000011c16aa"
-   ]
+   "url": "https://dice.fm/event/6aea22412c054000011c16aa"
   },
   {
    "id": "19hz:4448536-4b",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "4B",
-   "artists": [
-    "4B"
-   ],
+   "artists": [],
    "venue": "Kemistry",
    "venue_slug": "kemistry",
    "date": "2026-11-12",
@@ -172,10 +158,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/nvr835-4b-12th-nov-kemistry-fort-lauderdale-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/4b-544395"
-   ]
+   "url": "https://dice.fm/event/nvr835-4b-12th-nov-kemistry-fort-lauderdale-tickets"
   },
   {
    "id": "19hz:4448536-eranhershbirthda",
@@ -201,11 +184,9 @@
   },
   {
    "id": "19hz:4448542-bolo",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Bolo",
-   "artists": [
-    "BOLO"
-   ],
+   "artists": [],
    "venue": "Liv Nightclub",
    "venue_slug": null,
    "date": "2026-11-12",
@@ -221,10 +202,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://www.ticketweb.com/event/id/14363814",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/bolo-542603"
-   ]
+   "url": "https://www.ticketweb.com/event/id/14363814"
   },
   {
    "id": "19hz:4448542-bhaskar",
@@ -247,81 +225,6 @@
    "organizer": "",
    "description": "",
    "url": "https://music.mila-miami.com/"
-  },
-  {
-   "id": "edmtrain:551437",
-   "source": "edmtrain",
-   "title": "The Angels",
-   "artists": [
-    "The Angels"
-   ],
-   "venue": "111 Northeast 20th Street",
-   "venue_slug": null,
-   "date": "2026-11-12",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "111 NE 20th St, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/the-angels-il-more?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/the-angels-551437"
-   ]
-  },
-  {
-   "id": "edmtrain:551018",
-   "source": "edmtrain",
-   "title": "Eran Hersh",
-   "artists": [
-    "Eran Hersh"
-   ],
-   "venue": "Sable Miami",
-   "venue_slug": null,
-   "date": "2026-11-12",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "2219 NW 2nd Ave, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.eventbrite.com/e/2004499880101?aff=ebdimtedmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/eran-hersh-551018"
-   ]
-  },
-  {
-   "id": "edmtrain:548030",
-   "source": "edmtrain",
-   "title": "Helux",
-   "artists": [
-    "Helux"
-   ],
-   "venue": "Treehouse Miami Beach",
-   "venue_slug": null,
-   "date": "2026-11-12",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "323 23rd St, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.etix.com/ticket/p/37313747",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/helux-548030"
-   ]
   },
   {
    "id": "19hz:4448592-landis",
@@ -3030,7 +2933,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$22.70",
+   "price": "$17.03",
    "genres": [
     "folk",
     "hard rock",
@@ -3158,6 +3061,30 @@
    "alt_urls": [
     "https://calendar.zeyzeymiami.com/shows/vicente-garcia-second-show-18-nov"
    ]
+  },
+  {
+   "id": "shotgun:she-knows-best-nov-18",
+   "source": "shotgun",
+   "title": "She Knows Best",
+   "artists": [],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-11-18",
+   "start": "2026-11-19T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.70",
+   "genres": [
+    "house",
+    "tech house",
+    "deep house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/she-knows-best-nov-18"
   },
   {
    "id": "shotgun:it-s-star-rock-n-roll-revue",
@@ -5823,6 +5750,31 @@
    ]
   },
   {
+   "id": "edmtrain:552511",
+   "source": "edmtrain",
+   "title": "Ian Asher",
+   "artists": [
+    "Ian Asher"
+   ],
+   "venue": "The Shorely At Marina Village",
+   "venue_slug": "festivals",
+   "date": "2026-11-25",
+   "start": "2026-11-25T20:00:00+00:00",
+   "end": "2026-11-26T07:00:00+00:00",
+   "time_estimated": true,
+   "address": "849 Seabreeze Blvd, Fort Lauderdale, FL 33316, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.eventbrite.com/e/2004681927610?aff=ebdimtedmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/ian-asher-552511"
+   ]
+  },
+  {
    "id": "19hz:4449768-insatiablerecord",
    "source": "19hz",
    "title": "Insatiable Records: Hector Couto b2b Yaya",
@@ -7578,7 +7530,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "",
-   "price": "From $23",
+   "price": "From $28",
    "genres": [
     "house",
     "techno"
@@ -13058,21 +13010,21 @@
    ]
   },
   {
-   "id": "dice:6aecdfde59b33300013afd8c",
-   "source": "19hz+dice+edmtrain",
-   "title": "Satoshie Tomiie",
+   "id": "19hz:4451416-satoshitomiieamo",
+   "source": "19hz+edmtrain",
+   "title": "Satoshi Tomiie, Amo, Daizy",
    "artists": [
     "Satoshi Tomiie"
    ],
-   "venue": "Jolene Sound Room Miami",
+   "venue": "Jolene Downtown",
    "venue_slug": "jolene",
    "date": "2026-12-12",
    "start": "2026-12-13T03:00:00+00:00",
    "end": "2026-12-13T09:00:00+00:00",
    "time_estimated": false,
-   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "address": "",
    "ages": "21+",
-   "price": "From $10",
+   "price": "$10+",
    "genres": [
     "deep house",
     "techno"
@@ -13081,9 +13033,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aecdfde59b33300013afd8c",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/6aecdfde59b33300013afd8c",
     "https://edmtrain.com/miami-fl/satoshi-tomiie-550561"
    ]
   },
@@ -13648,30 +13598,6 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/kloud-535570"
    ]
-  },
-  {
-   "id": "shotgun:the-hall-360-differ-f-2-f-nico-moon-6",
-   "source": "shotgun",
-   "title": "The Hall Club: Beico",
-   "artists": [],
-   "venue": "Upside",
-   "venue_slug": null,
-   "date": "2026-12-18",
-   "start": "2026-12-19T03:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$22.69",
-   "genres": [
-    "indie dance",
-    "melodic house & techno",
-    "techno"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/the-hall-360-differ-f-2-f-nico-moon-6"
   },
   {
    "id": "dice:6aea1d431652850001b21949",
@@ -14799,9 +14725,12 @@
   },
   {
    "id": "19hz:4453231-chusceballosdjch",
-   "source": "19hz",
+   "source": "19hz+edmtrain",
    "title": "Chus & Ceballos, DJ Chus, Pablo Ceballos, ANDREATENS",
-   "artists": [],
+   "artists": [
+    "Chus & Ceballos",
+    "ANDREATENS"
+   ],
    "venue": "Kimpton Epic Hotel",
    "venue_slug": null,
    "date": "2026-12-31",
@@ -14817,7 +14746,10 @@
    "genres_inferred": false,
    "organizer": "Groove Society",
    "description": "",
-   "url": "https://ra.co/events/2581976"
+   "url": "https://ra.co/events/2581976",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/chus-and-ceballos-andreatens-552456"
+   ]
   },
   {
    "id": "zeyzey:new-years-eve-with-dabuell-dj-set-31-dec",
@@ -16629,6 +16561,29 @@
    "generic_title": true
   },
   {
+   "id": "zeyzey:nervous-records-30-jan",
+   "source": "venue",
+   "title": "DJ Minx + DJ Holographic (Free Entry)",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2027-01-30",
+   "start": "2027-01-31T01:00:00+00:00",
+   "end": "2027-01-31T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "dance/electronic"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/nervous-records-30-jan",
+   "cancelled": false
+  },
+  {
    "id": "hardrock:212401",
    "source": "venue",
    "title": "DAER Nightclub",
@@ -17028,6 +16983,27 @@
    "description": "",
    "url": "https://tixr.com/e/214374",
    "generic_title": true
+  },
+  {
+   "id": "zeyzey:el-david-aguilar-13-feb",
+   "source": "venue",
+   "title": "El David Aguilar",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2027-02-13",
+   "start": "2027-02-13T23:00:00+00:00",
+   "end": "2027-02-14T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/el-david-aguilar-13-feb",
+   "cancelled": false
   },
   {
    "id": "zeyzey:jerro-13-feb",
@@ -17526,7 +17502,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "",
-   "price": "",
+   "price": "From $15",
    "genres": [
     "house",
     "techno"

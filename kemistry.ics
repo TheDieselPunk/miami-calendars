@@ -9,16 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4448536-4b@kemistry.miami-calendars
-DTSTAMP:20261113T101829Z
-LAST-MODIFIED:20261113T101829Z
-SEQUENCE:0
+DTSTAMP:20261113T161822Z
+LAST-MODIFIED:20261113T161822Z
+SEQUENCE:1
 DTSTART:20261113T030000Z
 DTEND:20261113T090000Z
 SUMMARY:4B
 LOCATION:Kemistry\, Fort Lauderdale
-DESCRIPTION:Lineup: 4B\nTags: dubstep\, trap\nAges: 18+\nhttps://dice.fm/ev
- ent/nvr835-4b-12th-nov-kemistry-fort-lauderdale-tickets\nhttps://edmtrain.
- com/fort-lauderdale-fl/4b-544395
+DESCRIPTION:Tags: dubstep\, trap\nAges: 18+\nhttps://dice.fm/event/nvr835-4
+ b-12th-nov-kemistry-fort-lauderdale-tickets
 URL:https://dice.fm/event/nvr835-4b-12th-nov-kemistry-fort-lauderdale-ticke
  ts
 STATUS:CONFIRMED

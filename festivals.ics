@@ -213,6 +213,23 @@ URL:https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzA0OD
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:edmtrain-552511@festivals.miami-calendars
+DTSTAMP:20261113T161822Z
+LAST-MODIFIED:20261113T161822Z
+SEQUENCE:0
+DTSTART:20261125T200000Z
+DTEND:20261126T070000Z
+SUMMARY:Ian Asher
+LOCATION:The Shorely At Marina Village\, 849 Seabreeze Blvd\, Fort Lauderda
+ le\, FL 33316\, USA
+DESCRIPTION:Lineup: Ian Asher\nTimes are an estimate from Festivals & one-o
+ ffs's usual hours - the listing has no start time yet. Check the link.\nht
+ tps://www.eventbrite.com/e/2004681927610?aff=ebdimtedmtrain\nhttps://edmtr
+ ain.com/fort-lauderdale-fl/ian-asher-552511
+URL:https://www.eventbrite.com/e/2004681927610?aff=ebdimtedmtrain
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:19hz-4449769-tudobemkarandjcr@festivals.miami-calendars
 DTSTAMP:20261110T041823Z
 LAST-MODIFIED:20261110T041823Z
