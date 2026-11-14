@@ -819,7 +819,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$45.40",
+   "price": "$38+",
    "genres": [
     "deep house",
     "deep tech",
@@ -906,30 +906,6 @@
    "cancelled": false
   },
   {
-   "id": "dice:6af4850488e003000128290e",
-   "source": "dice",
-   "title": "Space Yoga",
-   "artists": [],
-   "venue": "Club Space Miami",
-   "venue_slug": "club-space",
-   "date": "2026-11-14",
-   "start": "2026-11-14T21:20:00+00:00",
-   "end": "2026-11-14T22:45:00+00:00",
-   "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
-   "price": " (sold out)",
-   "genres": [
-    "house",
-    "techno"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6af4850488e003000128290e",
-   "cancelled": false
-  },
-  {
    "id": "shotgun:i-liedtomyself-descry-iliad-see-you-next-ar-boombox-11-14",
    "source": "shotgun",
    "title": "I.Liedtomyself, Descry, Iliad, See You Next Ar Boombox 11/14",
@@ -959,28 +935,6 @@
     "longitude": -80.3169309
    },
    "created": "2026-10-05T20:43:28.000Z"
-  },
-  {
-   "id": "shotgun:blu-and-nickelus-f-live-in-miami",
-   "source": "shotgun",
-   "title": "Blu And Nickelus F Live In Miami",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-11-14",
-   "start": "2026-11-15T00:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$22.70",
-   "genres": [
-    "hip hop"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/blu-and-nickelus-f-live-in-miami"
   },
   {
    "id": "shotgun:ketzal-michel-attie-selekter",
@@ -1152,6 +1106,28 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/groove-cruise-miami-anthony-attalla-545225"
    ]
+  },
+  {
+   "id": "shotgun:blu-and-nickelus-f-live-in-miami",
+   "source": "shotgun",
+   "title": "Blu And Nickelus F Live In Miami",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-11-14",
+   "start": "2026-11-15T02:30:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.70",
+   "genres": [
+    "hip hop"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/blu-and-nickelus-f-live-in-miami"
   },
   {
    "id": "hardrock:206002",
@@ -1715,6 +1691,30 @@
    ]
   },
   {
+   "id": "shotgun:studio-60-saturdays-modern-art-theory-takeover-egypt-room",
+   "source": "shotgun",
+   "title": "Studio 60 Saturdays: Modern Art Theory Takeover - Egypt Room",
+   "artists": [],
+   "venue": "Studio 60 Miami",
+   "venue_slug": null,
+   "date": "2026-11-14",
+   "start": "2026-11-15T04:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "indie dance",
+    "tech house",
+    "house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/studio-60-saturdays-modern-art-theory-takeover-egypt-room"
+  },
+  {
    "id": "shotgun:hard-house",
    "source": "shotgun",
    "title": "Hard House",
@@ -1781,7 +1781,10 @@
    "id": "shotgun:beiruttomiami1",
    "source": "19hz+shotgun+tablelist+venue",
    "title": "Beirut Nights In Presents: Beirut To Miami",
-   "artists": [],
+   "artists": [
+    "Anthony Raad",
+    "Mark Azar"
+   ],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-11-14",
@@ -1790,7 +1793,7 @@
    "time_estimated": false,
    "address": "353 Northeast 61st Street, Miami, FL 33137, USA",
    "ages": "",
-   "price": "$45.40",
+   "price": "$51.08",
    "genres": [
     "afro house",
     "arabic house",
@@ -1805,7 +1808,7 @@
    "organizer": "BEIRUT NIGHTS IN",
    "description": "Beirut Nights In Presents: Beirut to Miami! Immerse yourself in the diverse rhythms of Arabic, French, Latin, House, and other global genres, capturing the essence of Beirut's cosmopolitan allure right in the heart of Miami! Picture a city that has endured the tests of time, our party seeks to encapsulate its resilience and vivacity in the face against all odds. Amidst the turmoil and uncertainty of conflict, Beirutis have always found solace and strength in their vibrant nightlife, turning nights of darkness into moments of light and celebration. The cosmopolitan nature of Beirut's nightlife is a tapestry woven with the threads of diverse cultures, traditions and modern influences. It is a reflection of the city's historical role as a crossroads of civilizations, where East meets West and tradition combine seamlessly with contemporary trends. Step into Beirut's nightlife, and you'll find yourself immersed in a vibrant mosaic of sights, sounds, and experiences that celebrate the city's rich multicultural heritage. Music: Anthony Raad & Mark Azar Doors open @ 11 PM 21+ No refunds",
    "url": "https://shotgun.live/en/events/beiruttomiami1",
-   "tickets": "VIP Table for 6 People - $900 Minimum Spend Free, General Admission - Early Bird $30 (sold out), General Admission - Tier 2 $35 (sold out), General Admission - Tier 3 $40, VIP Table for 8 People - $1200 Minimum Spend Free, VIP Table for 10 People - $1750 Minimum Spend Free",
+   "tickets": "VIP Table for 6 People - $900 Minimum Spend Free, General Admission - Early Bird $30 (sold out), General Admission - Tier 2 $35 (sold out), General Admission - Tier 3 $40 (sold out), General Admission - Tier 4 $45, VIP Table for 8 People - $1200 Minimum Spend Free, VIP Table for 10 People - $1750 Minimum Spend Free",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -14534,7 +14537,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $200",
+   "price": "From $175",
    "genres": [
     "tech house"
    ],
