@@ -9,17 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4448635-notion@the-ground.miami-calendars
-DTSTAMP:20261114T041823Z
-LAST-MODIFIED:20261114T041823Z
-SEQUENCE:0
+DTSTAMP:20261114T161813Z
+LAST-MODIFIED:20261114T161813Z
+SEQUENCE:1
 DTSTART:20261114T040000Z
 DTEND:20261114T120000Z
 SUMMARY:Notion
 LOCATION:The Ground
-DESCRIPTION:Lineup: Notion\, DJ Flashdrive\, Violeta\nTags: bassline\, drum
-  and bass\, uk garage\nAges: 21+\nhttps://dice.fm/event/2wqn27-notion-13th
- -nov-the-ground-miami-miami-tickets\nhttps://edmtrain.com/miami-fl/notion-
- dj-flashdrive-532805
+DESCRIPTION:Tags: bassline\, drum and bass\, uk garage\nAges: 21+\nhttps://
+ dice.fm/event/2wqn27-notion-13th-nov-the-ground-miami-miami-tickets
 URL:https://dice.fm/event/2wqn27-notion-13th-nov-the-ground-miami-miami-tic
  kets
 STATUS:CONFIRMED

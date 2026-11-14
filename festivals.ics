@@ -8,23 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:ravediggaz@shotgun.live
-DTSTAMP:20261113T041825Z
-LAST-MODIFIED:20261113T041825Z
-SEQUENCE:1
-DTSTART:20261114T045900Z
-DTEND:20261114T110000Z
-SUMMARY:Ravediggaz
-LOCATION:Miami
-DESCRIPTION:Tags: acid house\, breakbeat\, breaks\, electro\, house\, minim
- al\, tech house\, techno\nAges: 21+\nhttps://shotgun.live/en/events/ravedi
- ggaz\nhttps://ra.co/events/2544621
-URL:https://shotgun.live/en/events/ravediggaz
-STATUS:CONFIRMED
-CATEGORIES:acid house,breakbeat,breaks,electro,house,minimal,tech house,tec
- hno
-END:VEVENT
-BEGIN:VEVENT
 UID:19hz-4448695-sacredmeadowsart@festivals.miami-calendars
 DTSTAMP:20260921T214009Z
 LAST-MODIFIED:20260921T214009Z

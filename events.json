@@ -2,11 +2,9 @@
  "events": [
   {
    "id": "19hz:4448592-landis",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Landis",
-   "artists": [
-    "Landis"
-   ],
+   "artists": [],
    "venue": "The Pool At The Goodtime Hotel",
    "venue_slug": null,
    "date": "2026-11-13",
@@ -23,10 +21,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://booketing.com/microsite/discotech/event/3206/1730046",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/landis-550725"
-   ]
+   "url": "https://booketing.com/microsite/discotech/event/3206/1730046"
   },
   {
    "id": "19hz:4448620-miamisoundbarsou",
@@ -51,13 +46,30 @@
    "url": "https://ra.co/events/2581547"
   },
   {
+   "id": "tablelist:fbfa2b5138eadf1d",
+   "source": "tablelist",
+   "title": "The Altons: Show You Love Tour",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-11-13",
+   "start": "2026-11-14T00:00:00+00:00",
+   "end": "2026-11-14T05:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://buy.tablelist.com/e/fbfa2b5138eadf1d"
+  },
+  {
    "id": "19hz:4448623-lavacityxnoxradi",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Lavacity X Nox Radio",
-   "artists": [
-    "KUJO333",
-    "Col"
-   ],
+   "artists": [],
    "venue": "1660 Northwest 65th Avenue",
    "venue_slug": null,
    "date": "2026-11-13",
@@ -76,18 +88,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/lavacity-x-nox-radio",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/lavacity-x-nox-radio-kujo333-551552"
-   ]
+   "url": "https://shotgun.live/en/events/lavacity-x-nox-radio"
   },
   {
    "id": "19hz:4448623-innercirclebymar",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Inner Circle By Markem",
-   "artists": [
-    "Markem"
-   ],
+   "artists": [],
    "venue": "Aire Miami",
    "venue_slug": null,
    "date": "2026-11-13",
@@ -103,10 +110,7 @@
    "genres_inferred": false,
    "organizer": "Aire Miami",
    "description": "",
-   "url": "https://posh.vip/e/inner-circle-by-markem-2",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/markem-549332"
-   ]
+   "url": "https://posh.vip/e/inner-circle-by-markem-2"
   },
   {
    "id": "19hz:4448628-tiffadelic",
@@ -182,12 +186,9 @@
   },
   {
    "id": "19hz:4448628-roadtotrotamundo",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Road To Trotamundo / Un_Mute: Truly Madly / Kev Gee",
-   "artists": [
-    "Truly Madly",
-    "Kev Gee"
-   ],
+   "artists": [],
    "venue": "Mad Radio",
    "venue_slug": "mad-radio",
    "date": "2026-11-13",
@@ -205,18 +206,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/madradiomiami111326",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/road-to-trotamundo-truly-madly-550571"
-   ]
+   "url": "https://shotgun.live/en/events/madradiomiami111326"
   },
   {
    "id": "19hz:4448628-royrosenfeld",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Roy Rosenfeld",
-   "artists": [
-    "Roy Rosenfeld"
-   ],
+   "artists": [],
    "venue": "Upside",
    "venue_slug": null,
    "date": "2026-11-13",
@@ -232,45 +228,55 @@
    "genres_inferred": false,
    "organizer": "Apex, The Hall",
    "description": "",
-   "url": "https://dice.fm/event/8edvmw-roy-rosenfeld-13th-nov-upside-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/roy-rosenfeld-540795"
-   ]
+   "url": "https://dice.fm/event/8edvmw-roy-rosenfeld-13th-nov-upside-miami-tickets"
   },
   {
-   "id": "dice:6ad760d4f2e7b00001b10371",
-   "source": "19hz+dice+edmtrain+tablelist",
-   "title": "Dance Therapy @ ZeyZey - MindGazm | 717 B2B SPYRIDON | Daniii | Joc Havana",
-   "artists": [
-    "Christian Löffler"
-   ],
-   "venue": "ZeyZey",
+   "id": "tablelist:05908c43b91b1625",
+   "source": "19hz+tablelist",
+   "title": "Christian Löffler Live - Fall 2026 Tour",
+   "artists": [],
+   "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-11-13",
    "start": "2026-11-14T02:00:00+00:00",
    "end": "2026-11-14T07:00:00+00:00",
    "time_estimated": false,
-   "address": "353 Northeast 61st Street, Miami, Florida 33137, United States",
+   "address": "",
    "ages": "18+",
    "price": "$29+",
    "genres": [
     "deep house",
-    "house",
     "progressive house"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/q23wyx-dance-therapy-zeyzey-mindgazm-tiffany-romero-b2b-717-13th-nov-zeyzey-miami-tickets",
-   "cancelled": false,
+   "url": "https://buy.tablelist.com/e/05908c43b91b1625",
    "alt_urls": [
-    "https://buy.tablelist.com/e/05908c43b91b1625",
-    "https://buy.tablelist.com/e/fbfa2b5138eadf1d",
-    "https://calendar.zeyzeymiami.com/shows/christian-loffler-live-fall-2026-tour-13-nov",
-    "https://dice.fm/event/q23wyx-dance-therapy-zeyzey-mindgazm-tiffany-romero-b2b-717-13th-nov-zeyzey-miami-tickets",
-    "https://edmtrain.com/miami-fl/christian-loffler-538533",
-    "https://edmtrain.com/miami-fl/zeyzey-presents-mindgazm-546729"
+    "https://calendar.zeyzeymiami.com/shows/christian-loffler-live-fall-2026-tour-13-nov"
    ]
+  },
+  {
+   "id": "19hz:4448628-dancetherapyamri",
+   "source": "19hz",
+   "title": "Dance Therapy: Amrita, Mindgazm, Tiffany Romero b2b 717",
+   "artists": [],
+   "venue": "Zeyzey",
+   "venue_slug": "zeyzey",
+   "date": "2026-11-13",
+   "start": "2026-11-14T02:00:00+00:00",
+   "end": "2026-11-14T07:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "free w/rsvp b4 10pm / $24",
+   "genres": [
+    "house"
+   ],
+   "genres_inferred": false,
+   "organizer": "Right Now Productions",
+   "description": "",
+   "url": "https://dice.fm/event/q23wyx-dance-therapy-zeyzey-mindgazm-tiffany-romero-b2b-717-13th-nov-zeyzey-miami-tickets"
   },
   {
    "id": "19hz:4448632-clubperreofriday",
@@ -297,11 +303,9 @@
   },
   {
    "id": "19hz:4448632-armenmiran",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Armen Miran",
-   "artists": [
-    "Armen Miran"
-   ],
+   "artists": [],
    "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
    "date": "2026-11-13",
@@ -317,10 +321,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/7d5qvb-armen-miran-13th-nov-do-not-sit-on-the-furniture-miami-beach-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/armen-miran-536611"
-   ]
+   "url": "https://dice.fm/event/7d5qvb-armen-miran-13th-nov-do-not-sit-on-the-furniture-miami-beach-tickets"
   },
   {
    "id": "19hz:4448632-vinylnightthelad",
@@ -346,11 +347,9 @@
   },
   {
    "id": "19hz:4448632-karstensollors",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Karsten Sollors",
-   "artists": [
-    "Karsten Sollors"
-   ],
+   "artists": [],
    "venue": "Eagle",
    "venue_slug": null,
    "date": "2026-11-13",
@@ -367,10 +366,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/g58yr5-victory-party-ft-karsten-sollors-13th-nov-eagle-wilton-manors-wilton-manors-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/karsten-sollors-534979"
-   ]
+   "url": "https://dice.fm/event/g58yr5-victory-party-ft-karsten-sollors-13th-nov-eagle-wilton-manors-wilton-manors-tickets"
   },
   {
    "id": "19hz:4448632-tresmortimermint",
@@ -396,24 +392,19 @@
    "url": "https://shotgun.live/en/events/tres-mortimer-nov-13"
   },
   {
-   "id": "dice:6a84879f8e0c81000177fc08",
-   "source": "19hz+dice+edmtrain",
-   "title": "UNREAL",
-   "artists": [
-    "Callush",
-    "feph",
-    "PRADA2000",
-    "Trym"
-   ],
+   "id": "19hz:4448632-unrealcallushfep",
+   "source": "19hz",
+   "title": "Unreal: Callush, Feph, Prada2000, Mika Heggeman, Restricted, Trym",
+   "artists": [],
    "venue": "Factory Town",
    "venue_slug": "factory-town",
    "date": "2026-11-13",
    "start": "2026-11-14T03:00:00+00:00",
    "end": "2026-11-14T10:00:00+00:00",
    "time_estimated": false,
-   "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
+   "address": "",
    "ages": "18+",
-   "price": "From $66",
+   "price": "$49.99",
    "genres": [
     "eurobeat",
     "hard techno",
@@ -422,28 +413,20 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6dood3-unreal-13th-nov-factory-town-miami-tickets",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/event/6dood3-unreal-13th-nov-factory-town-miami-tickets",
-    "https://edmtrain.com/miami-fl/callush-feph-544373"
-   ]
+   "url": "https://dice.fm/event/6dood3-unreal-13th-nov-factory-town-miami-tickets"
   },
   {
-   "id": "dice:6a85fc0f21cf70000116039a",
-   "source": "19hz+dice+edmtrain",
-   "title": "Adiel & Yu Su",
-   "artists": [
-    "Adiel",
-    "Yu Su"
-   ],
-   "venue": "Jolene Sound Room Miami",
+   "id": "19hz:4448632-adielyusujovigib",
+   "source": "19hz",
+   "title": "Adiel, Yu Su, & Jovi Gibs",
+   "artists": [],
+   "venue": "Jolene Downtown",
    "venue_slug": "jolene",
    "date": "2026-11-13",
    "start": "2026-11-14T03:00:00+00:00",
    "end": "2026-11-14T09:00:00+00:00",
    "time_estimated": false,
-   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "address": "",
    "ages": "21+",
    "price": "$10+",
    "genres": [
@@ -452,20 +435,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/bb99gg-adiel-yu-su-13th-nov-jolene-sound-room-miami-miami-tickets",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/event/bb99gg-adiel-yu-su-13th-nov-jolene-sound-room-miami-miami-tickets",
-    "https://edmtrain.com/miami-fl/adiel-yu-su-530460"
-   ]
+   "url": "https://dice.fm/event/bb99gg-adiel-yu-su-13th-nov-jolene-sound-room-miami-miami-tickets"
   },
   {
    "id": "19hz:4448632-rabbitinthemoon",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Rabbit In The Moon",
-   "artists": [
-    "Rabbit in the Moon"
-   ],
+   "artists": [],
    "venue": "Kemistry",
    "venue_slug": "kemistry",
    "date": "2026-11-13",
@@ -484,10 +460,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/mxyy9k-rabbit-in-the-moon-live-13th-nov-kemistry-fort-lauderdale-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/rabbit-in-the-moon-539579"
-   ]
+   "url": "https://dice.fm/event/mxyy9k-rabbit-in-the-moon-live-13th-nov-kemistry-fort-lauderdale-tickets"
   },
   {
    "id": "19hz:4448632-djsubzeroarmii1n",
@@ -538,7 +511,7 @@
   },
   {
    "id": "19hz:4448632-somewhereundergr",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Somewhere Underground @ Nowhere",
    "artists": [],
    "venue": "Nowhere Ftl",
@@ -557,19 +530,13 @@
    "genres_inferred": false,
    "organizer": "Nowhere Ftl",
    "description": "",
-   "url": "https://posh.vip/e/somewhere-underground-nowhere-special-event",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/somewhere-underground-543190"
-   ]
+   "url": "https://posh.vip/e/somewhere-underground-nowhere-special-event"
   },
   {
    "id": "19hz:4448632-echonomistjakeme",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Echonomist, Jake Mercer",
-   "artists": [
-    "Echonomist",
-    "Jake Mercer"
-   ],
+   "artists": [],
    "venue": "Sable",
    "venue_slug": null,
    "date": "2026-11-13",
@@ -586,10 +553,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/q236kx-echonomist-jake-mercer-13th-nov-sable-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/echonomist-jake-mercer-545198"
-   ]
+   "url": "https://dice.fm/event/q236kx-echonomist-jake-mercer-13th-nov-sable-miami-miami-tickets"
   },
   {
    "id": "19hz:4448632-specialguests",
@@ -614,72 +578,32 @@
    "url": "https://ra.co/events/2528917"
   },
   {
-   "id": "dice:6ac681e6ede6160001275006",
-   "source": "19hz+dice+edmtrain",
-   "title": "James Hype + HILLS",
-   "artists": [
-    "James Hype"
-   ],
-   "venue": "Club Space Miami",
+   "id": "19hz:4448635-jameshypehillsda",
+   "source": "19hz",
+   "title": "James Hype, Hills, Danyelino, Alezsandro, Monky",
+   "artists": [],
+   "venue": "Club Space",
    "venue_slug": "club-space",
    "date": "2026-11-13",
    "start": "2026-11-14T04:00:00+00:00",
    "end": "2026-11-14T17:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": "From $50",
+   "price": "$30+",
    "genres": [
     "tech house"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6ac681e6ede6160001275006",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/event/6ac681e6ede6160001275006",
-    "https://edmtrain.com/miami-fl/james-hype-543636"
-   ]
-  },
-  {
-   "id": "edmtrain:542893",
-   "source": "edmtrain",
-   "title": "Tre Reynolds, Ferra Black, Bakke, Mai Iachetti",
-   "artists": [
-    "Tre Reynolds",
-    "Ferra Black",
-    "Bakke",
-    "Mai Iachetti"
-   ],
-   "venue": "Floyd",
-   "venue_slug": "floyd",
-   "date": "2026-11-13",
-   "start": "2026-11-14T04:00:00+00:00",
-   "end": "2026-11-14T10:00:00+00:00",
-   "time_estimated": true,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "house",
-    "techno"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/l8pqmx?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/tre-reynolds-ferra-black-542893"
-   ]
+   "url": "https://dice.fm/event/6ac681e6ede6160001275006"
   },
   {
    "id": "19hz:4448635-stephanjolk",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Stephan Jolk",
-   "artists": [
-    "Stephan Jolk"
-   ],
+   "artists": [],
    "venue": "Queen",
    "venue_slug": null,
    "date": "2026-11-13",
@@ -696,10 +620,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/2olw7a-stephan-jolk-13th-nov-queen-miami-beach-miami-beach-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/stephan-jolk-550614"
-   ]
+   "url": "https://dice.fm/event/2olw7a-stephan-jolk-13th-nov-queen-miami-beach-miami-beach-tickets"
   },
   {
    "id": "19hz:4448635-thunderboxvixkit",
@@ -731,13 +652,9 @@
   },
   {
    "id": "19hz:4448635-notion",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Notion",
-   "artists": [
-    "Notion",
-    "DJ Flashdrive",
-    "Violeta"
-   ],
+   "artists": [],
    "venue": "The Ground",
    "venue_slug": "the-ground",
    "date": "2026-11-13",
@@ -755,18 +672,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/2wqn27-notion-13th-nov-the-ground-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/notion-dj-flashdrive-532805"
-   ]
+   "url": "https://dice.fm/event/2wqn27-notion-13th-nov-the-ground-miami-miami-tickets"
   },
   {
    "id": "19hz:4448638-lowsteppa",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Low Steppa",
-   "artists": [
-    "Low Steppa"
-   ],
+   "artists": [],
    "venue": "Selva",
    "venue_slug": null,
    "date": "2026-11-13",
@@ -784,244 +696,55 @@
    "genres_inferred": false,
    "organizer": "Selva",
    "description": "",
-   "url": "https://posh.vip/e/low-steppa-selva",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/low-steppa-547993"
-   ]
+   "url": "https://posh.vip/e/low-steppa-selva"
   },
   {
-   "id": "shotgun:ravediggaz",
-   "source": "19hz+shotgun",
+   "id": "19hz:4448639-ravediggaz",
+   "source": "19hz",
    "title": "Ravediggaz",
    "artists": [],
-   "venue": "Miami",
-   "venue_slug": "festivals",
+   "venue": "148 Northeast 28th Street",
+   "venue_slug": null,
+   "date": "2026-11-13",
+   "start": "2026-11-14T04:59:00+00:00",
+   "end": "2026-11-14T11:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$20",
+   "genres": [
+    "breaks",
+    "electro",
+    "house",
+    "techno"
+   ],
+   "genres_inferred": false,
+   "organizer": "Ya Dig Records",
+   "description": "",
+   "url": "https://shotgun.live/en/events/ravediggaz"
+  },
+  {
+   "id": "19hz:4448639-ravediggaz",
+   "source": "19hz",
+   "title": "Rave Diggaz",
+   "artists": [],
+   "venue": "Dear Eleanor",
+   "venue_slug": null,
    "date": "2026-11-13",
    "start": "2026-11-14T04:59:00+00:00",
    "end": "2026-11-14T11:00:00+00:00",
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$20.00",
+   "price": "$10-25",
    "genres": [
-    "acid house",
-    "breakbeat",
-    "breaks",
-    "electro",
-    "house",
     "minimal",
-    "tech house",
-    "techno"
+    "tech house"
    ],
    "genres_inferred": false,
-   "organizer": "",
+   "organizer": "Ya Dig Records",
    "description": "",
-   "url": "https://shotgun.live/en/events/ravediggaz",
-   "alt_urls": [
-    "https://ra.co/events/2544621",
-    "https://shotgun.live/en/events/ravediggaz"
-   ]
-  },
-  {
-   "id": "edmtrain:550196",
-   "source": "edmtrain",
-   "title": "Taimur",
-   "artists": [
-    "Taimur"
-   ],
-   "venue": "148 Northeast 28th Street",
-   "venue_slug": null,
-   "date": "2026-11-13",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "148 NE 28th St, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/ravediggaz?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/taimur-550196"
-   ]
-  },
-  {
-   "id": "edmtrain:549325",
-   "source": "edmtrain",
-   "title": "SATURNSARii",
-   "artists": [
-    "SATURNSARii"
-   ],
-   "venue": "777 NE 79th St",
-   "venue_slug": null,
-   "date": "2026-11-13",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "777 NE 79th St, Miami, FL 33138, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/clubperreo-2?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/saturnsarii-549325"
-   ]
-  },
-  {
-   "id": "edmtrain:538671",
-   "source": "edmtrain",
-   "title": "Nights in Necropolis Presents",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-11-13",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "5501 NE 2nd Ave, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/nights-in-necropolis-presents-tiffadelic-detroit-blk-goth?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/nights-in-necropolis-presents-538671"
-   ]
-  },
-  {
-   "id": "edmtrain:545579",
-   "source": "edmtrain",
-   "title": "Mints On The House: Très Mortimer",
-   "artists": [
-    "Très Mortimer"
-   ],
-   "venue": "Edge Miami",
-   "venue_slug": null,
-   "date": "2026-11-13",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "114 NE 20th Terrace, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/tres-mortimer-nov-13?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/mints-on-the-house-tres-mortimer-545579"
-   ]
-  },
-  {
-   "id": "edmtrain:550760",
-   "source": "edmtrain",
-   "title": "Saxony Bar: Frank Delour",
-   "artists": [
-    "Frank Delour"
-   ],
-   "venue": "Faena Hotel",
-   "venue_slug": null,
-   "date": "2026-11-13",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "3201 Collins Ave, Miami Beach, FL 33140, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/saxony-bar",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/saxony-bar-frank-delour-550760"
-   ]
-  },
-  {
-   "id": "edmtrain:538916",
-   "source": "edmtrain",
-   "title": "The Faint",
-   "artists": [
-    "The Faint"
-   ],
-   "venue": "Las Rosas",
-   "venue_slug": null,
-   "date": "2026-11-13",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "2898 NW 7th Ave, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://ticketmaster.evyy.net/c/254533/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fid%2F14991673",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/the-faint-538916"
-   ]
-  },
-  {
-   "id": "edmtrain:551943",
-   "source": "edmtrain",
-   "title": "Tori Seagel, Amdana, Sebastian Morxx, Laura carmer",
-   "artists": [
-    "Tori Seagel",
-    "Amdana",
-    "Sebastian Morxx",
-    "Laura carmer"
-   ],
-   "venue": "M2 Nightclub",
-   "venue_slug": null,
-   "date": "2026-11-13",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "1235 Washington Ave, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "open-format"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/bloom-m2-6?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/tori-seagel-amdana-551943"
-   ]
-  },
-  {
-   "id": "edmtrain:549160",
-   "source": "edmtrain",
-   "title": "Skihouse",
-   "artists": [],
-   "venue": "Treehouse Miami Beach",
-   "venue_slug": null,
-   "date": "2026-11-13",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "323 23rd St, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.etix.com/ticket/p/59332715",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/skihouse-549160"
-   ]
+   "url": "https://ra.co/events/2544621"
   },
   {
    "id": "hardrock:205535",
@@ -1096,7 +819,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$40.00",
+   "price": "$45.40",
    "genres": [
     "deep house",
     "deep tech",
@@ -1219,7 +942,7 @@
    "time_estimated": false,
    "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
    "ages": "",
-   "price": "$11.35",
+   "price": "$17.03",
    "genres": [
     "indie",
     "rock"
@@ -1228,7 +951,7 @@
    "organizer": "Equinox Booking",
    "description": "Equinox Booking Presents i.liedtomyself descry iliad see you next november 14th $10 online / $15 day of 6 pm all ages",
    "url": "https://shotgun.live/en/events/i-liedtomyself-descry-iliad-see-you-next-ar-boombox-11-14",
-   "tickets": "General Admission $10",
+   "tickets": "General Admission $10 (sold out), Day of $15",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -1742,7 +1465,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$20.00",
+   "price": "$24.99",
    "genres": [
     "tech house",
     "deep house",
@@ -7503,6 +7226,29 @@
    "organizer": "",
    "description": "",
    "url": "https://partiful.com/e/2v5QFySV4e8h9bcvzBct"
+  },
+  {
+   "id": "shotgun:hardcore-deathcore-show",
+   "source": "shotgun",
+   "title": "Hardcore/Deathcore Show",
+   "artists": [],
+   "venue": "Fort Lauderdale",
+   "venue_slug": null,
+   "date": "2026-11-29",
+   "start": "2026-11-30T00:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$10.22",
+   "genres": [
+    "hardcore",
+    "metal"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/hardcore-deathcore-show"
   },
   {
    "id": "19hz:4450159-sundayslazarocas",

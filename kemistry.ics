@@ -9,17 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4448632-rabbitinthemoon@kemistry.miami-calendars
-DTSTAMP:20261114T101824Z
-LAST-MODIFIED:20261114T101824Z
-SEQUENCE:0
+DTSTAMP:20261114T161813Z
+LAST-MODIFIED:20261114T161813Z
+SEQUENCE:1
 DTSTART:20261114T030000Z
 DTEND:20261114T090000Z
 SUMMARY:Rabbit In The Moon
 LOCATION:Kemistry\, Fort Lauderdale
-DESCRIPTION:Lineup: Rabbit in the Moon\nTags: breaks\, progressive house\, 
- techno\, trance\nAges: 18+\nhttps://dice.fm/event/mxyy9k-rabbit-in-the-moo
- n-live-13th-nov-kemistry-fort-lauderdale-tickets\nhttps://edmtrain.com/for
- t-lauderdale-fl/rabbit-in-the-moon-539579
+DESCRIPTION:Tags: breaks\, progressive house\, techno\, trance\nAges: 18+\n
+ https://dice.fm/event/mxyy9k-rabbit-in-the-moon-live-13th-nov-kemistry-for
+ t-lauderdale-tickets
 URL:https://dice.fm/event/mxyy9k-rabbit-in-the-moon-live-13th-nov-kemistry-
  fort-lauderdale-tickets
 STATUS:CONFIRMED

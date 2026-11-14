@@ -9,16 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4448628-roadtotrotamundo@mad-radio.miami-calendars
-DTSTAMP:20261114T101824Z
-LAST-MODIFIED:20261114T101824Z
-SEQUENCE:0
+DTSTAMP:20261114T161813Z
+LAST-MODIFIED:20261114T161813Z
+SEQUENCE:1
 DTSTART:20261114T020000Z
 DTEND:20261114T080000Z
 SUMMARY:Road To Trotamundo / Un_Mute: Truly Madly / Kev Gee
 LOCATION:Mad Radio
-DESCRIPTION:Lineup: Truly Madly\, Kev Gee\nTags: 2-step\, house\, uk garage
- \nAges: 21+\nhttps://shotgun.live/en/events/madradiomiami111326\nhttps://e
- dmtrain.com/miami-fl/road-to-trotamundo-truly-madly-550571
+DESCRIPTION:Tags: 2-step\, house\, uk garage\nAges: 21+\nhttps://shotgun.li
+ ve/en/events/madradiomiami111326
 URL:https://shotgun.live/en/events/madradiomiami111326
 STATUS:CONFIRMED
 CATEGORIES:2-step,house,uk garage

@@ -1,23 +1,43 @@
 {
- "19hz-4448628-roadtotrotamundo@mad-radio.miami-calendars": {
-  "hash": "4a26ba115be112ae",
+ "19hz-4448628-dancetherapyamri@zeyzey.miami-calendars": {
+  "hash": "3822263c6e2d7b09",
   "seq": 0,
-  "modified": "2026-11-14T10:18:24+00:00"
+  "modified": "2026-11-14T16:18:13+00:00"
+ },
+ "19hz-4448628-roadtotrotamundo@mad-radio.miami-calendars": {
+  "hash": "f9b00498f8c9ec06",
+  "seq": 1,
+  "modified": "2026-11-14T16:18:13+00:00"
+ },
+ "19hz-4448632-adielyusujovigib@jolene.miami-calendars": {
+  "hash": "f64528879aae4a7d",
+  "seq": 0,
+  "modified": "2026-11-14T16:18:13+00:00"
  },
  "19hz-4448632-rabbitinthemoon@kemistry.miami-calendars": {
-  "hash": "dd041917cb168f51",
+  "hash": "ae0fdd7c1698554b",
+  "seq": 1,
+  "modified": "2026-11-14T16:18:13+00:00"
+ },
+ "19hz-4448632-unrealcallushfep@factory-town.miami-calendars": {
+  "hash": "4c1296bd27208849",
   "seq": 0,
-  "modified": "2026-11-14T10:18:24+00:00"
+  "modified": "2026-11-14T16:18:13+00:00"
  },
  "19hz-4448632-vinylnightthelad@domicile.miami-calendars": {
   "hash": "dbff49d0b5e06642",
   "seq": 0,
   "modified": "2026-11-10T04:18:23+00:00"
  },
- "19hz-4448635-notion@the-ground.miami-calendars": {
-  "hash": "8dd6f18520c0a33d",
+ "19hz-4448635-jameshypehillsda@club-space.miami-calendars": {
+  "hash": "040b82124104ac36",
   "seq": 0,
-  "modified": "2026-11-14T04:18:23+00:00"
+  "modified": "2026-11-14T16:18:13+00:00"
+ },
+ "19hz-4448635-notion@the-ground.miami-calendars": {
+  "hash": "003a9282fa67b87a",
+  "seq": 1,
+  "modified": "2026-11-14T16:18:13+00:00"
  },
  "19hz-4448635-thunderboxvixkit@boombox.miami-calendars": {
   "hash": "074af0c1a3fa74f1",
@@ -309,16 +329,6 @@
   "seq": 0,
   "modified": "2026-09-29T22:18:15+00:00"
  },
- "dice-6a84879f8e0c81000177fc08@factory-town.miami-calendars": {
-  "hash": "4ab8777fe24194d5",
-  "seq": 5,
-  "modified": "2026-11-14T04:18:23+00:00"
- },
- "dice-6a85fc0f21cf70000116039a@jolene.miami-calendars": {
-  "hash": "009f6e72330ff92e",
-  "seq": 1,
-  "modified": "2026-10-17T16:18:17+00:00"
- },
  "dice-6a88676d138c56000110cb09@the-ground.miami-calendars": {
   "hash": "718cf287a0519686",
   "seq": 3,
@@ -539,11 +549,6 @@
   "seq": 3,
   "modified": "2026-11-13T10:18:29+00:00"
  },
- "dice-6ac681e6ede6160001275006@club-space.miami-calendars": {
-  "hash": "5e886ffd8074bbfd",
-  "seq": 2,
-  "modified": "2026-10-17T16:18:17+00:00"
- },
  "dice-6ac68eedf6f26b00017c493b@club-space.miami-calendars": {
   "hash": "ff69b0778cea4647",
   "seq": 2,
@@ -588,11 +593,6 @@
   "hash": "6f61aae60e13fa38",
   "seq": 2,
   "modified": "2026-11-09T22:18:17+00:00"
- },
- "dice-6ad760d4f2e7b00001b10371@zeyzey.miami-calendars": {
-  "hash": "42eea8868b608232",
-  "seq": 6,
-  "modified": "2026-11-14T10:18:24+00:00"
  },
  "dice-6ad8e836f3f79d000131952b@jolene.miami-calendars": {
   "hash": "35b63ee126c74f02",
@@ -888,11 +888,6 @@
   "hash": "8ad05b242058e5e7",
   "seq": 2,
   "modified": "2026-09-22T00:50:09+00:00"
- },
- "edmtrain-542893@floyd.miami-calendars": {
-  "hash": "55070925f60109e9",
-  "seq": 0,
-  "modified": "2026-11-14T10:18:24+00:00"
  },
  "edmtrain-543177@festivals.miami-calendars": {
   "hash": "98d2fdd792658fe6",
@@ -1355,9 +1350,9 @@
   "modified": "2026-11-13T04:18:25+00:00"
  },
  "i-liedtomyself-descry-iliad-see-you-next-ar-boombox-11-14@shotgun.live": {
-  "hash": "a9ea58e92e4cfc30",
-  "seq": 0,
-  "modified": "2026-10-05T22:18:30+00:00"
+  "hash": "599869af7ab4a65a",
+  "seq": 1,
+  "modified": "2026-11-14T16:18:13+00:00"
  },
  "lilith-s-demise-and-slamwich-at-the-boombox-11-15@shotgun.live": {
   "hash": "d563519bbd028c53",
@@ -1419,11 +1414,6 @@
   "seq": 3,
   "modified": "2026-11-11T10:18:35+00:00"
  },
- "ravediggaz@shotgun.live": {
-  "hash": "741893250523d06d",
-  "seq": 1,
-  "modified": "2026-11-13T04:18:25+00:00"
- },
  "sangomia1205@shotgun.live": {
   "hash": "0e85c3d9c629312f",
   "seq": 2,
@@ -1443,6 +1433,11 @@
   "hash": "f3134c08c6e24f9d",
   "seq": 0,
   "modified": "2026-11-01T10:17:57+00:00"
+ },
+ "tablelist-05908c43b91b1625@zeyzey.miami-calendars": {
+  "hash": "fbca24ac0b148190",
+  "seq": 0,
+  "modified": "2026-11-14T16:18:13+00:00"
  },
  "tablelist-1a812eb5de36eab4@zeyzey.miami-calendars": {
   "hash": "ea46cbf86d20651e",
@@ -1468,6 +1463,11 @@
   "hash": "60ba45bfb5af0604",
   "seq": 0,
   "modified": "2026-11-01T10:17:57+00:00"
+ },
+ "tablelist-fbfa2b5138eadf1d@zeyzey.miami-calendars": {
+  "hash": "5a2a1a2977686b85",
+  "seq": 0,
+  "modified": "2026-11-14T16:18:13+00:00"
  },
  "the-boombox-equinox-bookings-presents-arythmia@shotgun.live": {
   "hash": "7af14fdf913838a1",

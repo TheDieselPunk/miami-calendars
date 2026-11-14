@@ -8,17 +8,16 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6ac681e6ede6160001275006@club-space.miami-calendars
-DTSTAMP:20261017T161817Z
-LAST-MODIFIED:20261017T161817Z
-SEQUENCE:2
+UID:19hz-4448635-jameshypehillsda@club-space.miami-calendars
+DTSTAMP:20261114T161813Z
+LAST-MODIFIED:20261114T161813Z
+SEQUENCE:0
 DTSTART:20261114T040000Z
 DTEND:20261114T170000Z
-SUMMARY:James Hype + HILLS
-LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: James Hype\nTags: tech house\nAges: 21+\nhttps://dice.f
- m/event/6ac681e6ede6160001275006\nhttps://edmtrain.com/miami-fl/james-hype
- -543636
+SUMMARY:James Hype\, Hills\, Danyelino\, Alezsandro\, Monky
+LOCATION:Club Space
+DESCRIPTION:Tags: tech house\nAges: 21+\nhttps://dice.fm/event/6ac681e6ede6
+ 160001275006
 URL:https://dice.fm/event/6ac681e6ede6160001275006
 STATUS:CONFIRMED
 CATEGORIES:tech house
