@@ -326,20 +326,72 @@ STATUS:CONFIRMED
 CATEGORIES:minimal,tech house,techno
 END:VEVENT
 BEGIN:VEVENT
-UID:19hz-4451416-satoshitomiieamo@jolene.miami-calendars
-DTSTAMP:20261113T161822Z
-LAST-MODIFIED:20261113T161822Z
+UID:dice-6aecdfde59b33300013afd8c@jolene.miami-calendars
+DTSTAMP:20261114T041823Z
+LAST-MODIFIED:20261114T041823Z
 SEQUENCE:0
 DTSTART:20261213T030000Z
 DTEND:20261213T090000Z
-SUMMARY:Satoshi Tomiie\, Amo\, Daizy
-LOCATION:Jolene Downtown
+SUMMARY:Satoshie Tomiie
+LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
+ a 33131\, United States
 DESCRIPTION:Lineup: Satoshi Tomiie\nTags: deep house\, techno\nAges: 21+\nh
  ttps://dice.fm/event/6aecdfde59b33300013afd8c\nhttps://edmtrain.com/miami-
  fl/satoshi-tomiie-550561
 URL:https://dice.fm/event/6aecdfde59b33300013afd8c
 STATUS:CONFIRMED
 CATEGORIES:deep house,techno
+END:VEVENT
+BEGIN:VEVENT
+UID:dice-6af7733ee0351200015bffd9@jolene.miami-calendars
+DTSTAMP:20261114T041823Z
+LAST-MODIFIED:20261114T041823Z
+SEQUENCE:0
+DTSTART:20261220T030000Z
+DTEND:20261220T090000Z
+SUMMARY:Mano Le Tough
+LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
+ a 33131\, United States
+DESCRIPTION:Lineup: Mano Le Tough\, Thunderpony\nTags (guess): house\, tech
+  house\nhttps://dice.fm/event/6af7733ee0351200015bffd9\nhttps://edmtrain.c
+ om/miami-fl/mano-le-tough-thunderpony-552858
+URL:https://dice.fm/event/6af7733ee0351200015bffd9
+STATUS:CONFIRMED
+CATEGORIES:house,tech house
+END:VEVENT
+BEGIN:VEVENT
+UID:dice-6af7760bfd864c0001b6da48@jolene.miami-calendars
+DTSTAMP:20261114T041823Z
+LAST-MODIFIED:20261114T041823Z
+SEQUENCE:0
+DTSTART:20261226T030000Z
+DTEND:20261226T090000Z
+SUMMARY:DJ Three b2b Öona Dahl
+LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
+ a 33131\, United States
+DESCRIPTION:Lineup: DJ Three\, Öona Dahl\, DIFFER\nTags (guess): house\, t
+ ech house\nhttps://dice.fm/event/6af7760bfd864c0001b6da48\nhttps://edmtrai
+ n.com/miami-fl/dj-three-oona-dahl-552859
+URL:https://dice.fm/event/6af7760bfd864c0001b6da48
+STATUS:CONFIRMED
+CATEGORIES:house,tech house
+END:VEVENT
+BEGIN:VEVENT
+UID:dice-6af76f74fd864c00010f921a@jolene.miami-calendars
+DTSTAMP:20261114T041823Z
+LAST-MODIFIED:20261114T041823Z
+SEQUENCE:0
+DTSTART:20261231T030000Z
+DTEND:20261231T090000Z
+SUMMARY:Ben UFO
+LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
+ a 33131\, United States
+DESCRIPTION:Lineup: Ben UFO\, Jonny From Space\, Milo Ziro\nTags (guess): h
+ ouse\, tech house\nhttps://dice.fm/event/6af76f74fd864c00010f921a\nhttps:/
+ /edmtrain.com/miami-fl/ben-ufo-jonny-from-space-552860
+URL:https://dice.fm/event/6af76f74fd864c00010f921a
+STATUS:CONFIRMED
+CATEGORIES:house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4453240-jolenenye@jolene.miami-calendars

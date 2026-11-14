@@ -255,34 +255,6 @@
    ]
   },
   {
-   "id": "shotgun:friday-the-13-th-indie-night-at-boombox-11-13",
-   "source": "shotgun",
-   "title": "Friday The 13th Indie Night At Boombox 11/13",
-   "artists": [],
-   "venue": "The Boombox Miami",
-   "venue_slug": "boombox",
-   "date": "2026-11-13",
-   "start": "2026-11-13T23:00:00+00:00",
-   "end": "2026-11-14T03:00:00+00:00",
-   "time_estimated": false,
-   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
-   "ages": "",
-   "price": "$17.03",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "Equinox Booking",
-   "description": "Equinox Booking Noforms Toby Rush Four Eyes Thread $13 adv/$15 day of",
-   "url": "https://shotgun.live/en/events/friday-the-13-th-indie-night-at-boombox-11-13",
-   "tickets": "General Admission $15",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.7287781,
-    "longitude": -80.3169309
-   },
-   "created": "2026-11-10T20:33:05.000Z"
-  },
-  {
    "id": "19hz:4448620-miamisoundbarsou",
    "source": "19hz",
    "title": "Miami Soundbar Sounds: Cristobal On, Nando",
@@ -436,7 +408,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "Free",
+   "price": "free",
    "genres": [
     "progressive house",
     "tech house"
@@ -733,8 +705,7 @@
    "genres": [
     "eurobeat",
     "hard techno",
-    "hard trance",
-    "techno"
+    "hard trance"
    ],
    "genres_inferred": false,
    "organizer": "",
@@ -742,7 +713,6 @@
    "url": "https://dice.fm/event/6dood3-unreal-13th-nov-factory-town-miami-tickets",
    "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/6a84879f8e0c81000177fc08",
     "https://dice.fm/event/6dood3-unreal-13th-nov-factory-town-miami-tickets",
     "https://edmtrain.com/miami-fl/callush-feph-544373"
    ]
@@ -763,7 +733,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $10",
+   "price": "$10+",
    "genres": [
     "house"
    ],
@@ -869,7 +839,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$10.00",
+   "price": "$15.00",
    "genres": [
     "latin",
     "latin club",
@@ -896,7 +866,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$22.69",
+   "price": "$34.05",
    "genres": [
     "house",
     "melodic house & techno",
@@ -1031,7 +1001,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "",
-   "price": "From $15",
+   "price": "From $20",
    "genres": [
     "house",
     "techno"
@@ -1113,23 +1083,23 @@
    ]
   },
   {
-   "id": "dice:6a9050c13e2dcd00013c2e7e",
-   "source": "19hz+dice+edmtrain",
-   "title": "NOTION",
+   "id": "19hz:4448635-notion",
+   "source": "19hz+edmtrain",
+   "title": "Notion",
    "artists": [
     "Notion",
     "DJ Flashdrive",
     "Violeta"
    ],
-   "venue": "The Ground Miami",
+   "venue": "The Ground",
    "venue_slug": "the-ground",
    "date": "2026-11-13",
    "start": "2026-11-14T04:00:00+00:00",
    "end": "2026-11-14T12:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": "From $15",
+   "price": "$15+",
    "genres": [
     "bassline",
     "drum and bass",
@@ -1139,9 +1109,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/2wqn27-notion-13th-nov-the-ground-miami-miami-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/2wqn27-notion-13th-nov-the-ground-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/notion-dj-flashdrive-532805"
    ]
   },
@@ -3063,30 +3031,6 @@
    ]
   },
   {
-   "id": "shotgun:she-knows-best-nov-18",
-   "source": "shotgun",
-   "title": "She Knows Best",
-   "artists": [],
-   "venue": "AIRE Miami",
-   "venue_slug": null,
-   "date": "2026-11-18",
-   "start": "2026-11-19T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$22.70",
-   "genres": [
-    "house",
-    "tech house",
-    "deep house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/she-knows-best-nov-18"
-  },
-  {
    "id": "shotgun:it-s-star-rock-n-roll-revue",
    "source": "shotgun",
    "title": "It's Star Rock N Roll Revue",
@@ -3143,6 +3087,29 @@
    "created": "2026-11-05T17:53:42.000Z",
    "alt_urls": [
     "https://shotgun.live/en/events/madradiomiami111826"
+   ]
+  },
+  {
+   "id": "edmtrain:552808",
+   "source": "edmtrain",
+   "title": "She Knows Best",
+   "artists": [],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-11-18",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "111 NE 20th St, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/she-knows-best-nov-18?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/she-knows-best-552808"
    ]
   },
   {
@@ -4206,9 +4173,15 @@
   },
   {
    "id": "dice:6abe802c0957150001d27a61",
-   "source": "dice",
-   "title": "Floyd at The Vault",
-   "artists": [],
+   "source": "dice+edmtrain",
+   "title": "Floyd at The Vault: Fletch",
+   "artists": [
+    "Fletch",
+    "Raje",
+    "2UP!",
+    "Méssous",
+    "Bryan Softwell"
+   ],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
    "date": "2026-11-20",
@@ -4226,7 +4199,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6abe802c0957150001d27a61",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/fletch-raje-552840"
+   ]
   },
   {
    "id": "edmtrain:549326",
@@ -4253,6 +4229,31 @@
    "url": "https://shotgun.live/events/clubperreo-3?utm_source=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/bonitaapplebumz-bozito-549326"
+   ]
+  },
+  {
+   "id": "edmtrain:552805",
+   "source": "edmtrain",
+   "title": "by Un_Mute, Pickle & Explorer: Konduku",
+   "artists": [
+    "Konduku"
+   ],
+   "venue": "94th Aero Squadron",
+   "venue_slug": null,
+   "date": "2026-11-20",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1395 NW 57th Ave, Miami, FL 33126, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/kxpr2o?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/by-un-mute-pickle-and-explorer-konduku-552805"
    ]
   },
   {
@@ -8136,6 +8137,31 @@
    ]
   },
   {
+   "id": "edmtrain:552827",
+   "source": "edmtrain",
+   "title": "Nine1nine: Le Twins",
+   "artists": [
+    "Le Twins"
+   ],
+   "venue": "E11EVEN",
+   "venue_slug": null,
+   "date": "2026-12-01",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "29 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://speakeasygo.com/event/EVE-4T6QPB?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/nine1nine-le-twins-552827"
+   ]
+  },
+  {
    "id": "edmtrain:551510",
    "source": "edmtrain",
    "title": "Late Groove Basel: Ale De Tuglie, Ambrxse, Alessandro de Tuglie",
@@ -8177,7 +8203,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$10000",
+   "price": "$10,000",
    "genres": [
     "big room house",
     "latin house"
@@ -11076,7 +11102,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$18.99",
+   "price": "$12.99",
    "genres": [
     "pop",
     "pop rock",
@@ -13010,21 +13036,21 @@
    ]
   },
   {
-   "id": "19hz:4451416-satoshitomiieamo",
-   "source": "19hz+edmtrain",
-   "title": "Satoshi Tomiie, Amo, Daizy",
+   "id": "dice:6aecdfde59b33300013afd8c",
+   "source": "19hz+dice+edmtrain",
+   "title": "Satoshie Tomiie",
    "artists": [
     "Satoshi Tomiie"
    ],
-   "venue": "Jolene Downtown",
+   "venue": "Jolene Sound Room Miami",
    "venue_slug": "jolene",
    "date": "2026-12-12",
    "start": "2026-12-13T03:00:00+00:00",
    "end": "2026-12-13T09:00:00+00:00",
    "time_estimated": false,
-   "address": "",
+   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "$10+",
+   "price": "From $10",
    "genres": [
     "deep house",
     "techno"
@@ -13033,7 +13059,9 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aecdfde59b33300013afd8c",
+   "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/6aecdfde59b33300013afd8c",
     "https://edmtrain.com/miami-fl/satoshi-tomiie-550561"
    ]
   },
@@ -13827,6 +13855,36 @@
    "generic_title": true
   },
   {
+   "id": "dice:6af7733ee0351200015bffd9",
+   "source": "dice+edmtrain",
+   "title": "Mano Le Tough",
+   "artists": [
+    "Mano Le Tough",
+    "Thunderpony"
+   ],
+   "venue": "Jolene Sound Room Miami",
+   "venue_slug": "jolene",
+   "date": "2026-12-19",
+   "start": "2026-12-20T03:00:00+00:00",
+   "end": "2026-12-20T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "ages": "",
+   "price": "From $10",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6af7733ee0351200015bffd9",
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/mano-le-tough-thunderpony-552858"
+   ]
+  },
+  {
    "id": "19hz:4452088-eazybaked",
    "source": "19hz+edmtrain",
    "title": "Eazybaked",
@@ -14207,6 +14265,37 @@
    "url": "https://dice.fm/event/nvrp53-sbastien-lger-lost-miracle-25th-dec-do-not-sit-on-the-furniture-miami-beach-tickets",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/sebastien-leger-547917"
+   ]
+  },
+  {
+   "id": "dice:6af7760bfd864c0001b6da48",
+   "source": "dice+edmtrain",
+   "title": "DJ Three b2b Öona Dahl",
+   "artists": [
+    "DJ Three",
+    "Öona Dahl",
+    "DIFFER"
+   ],
+   "venue": "Jolene Sound Room Miami",
+   "venue_slug": "jolene",
+   "date": "2026-12-25",
+   "start": "2026-12-26T03:00:00+00:00",
+   "end": "2026-12-26T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "ages": "",
+   "price": "From $7",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6af7760bfd864c0001b6da48",
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/dj-three-oona-dahl-552859"
    ]
   },
   {
@@ -14665,6 +14754,37 @@
    ]
   },
   {
+   "id": "dice:6af76f74fd864c00010f921a",
+   "source": "dice+edmtrain",
+   "title": "Ben UFO",
+   "artists": [
+    "Ben UFO",
+    "Jonny From Space",
+    "Milo Ziro"
+   ],
+   "venue": "Jolene Sound Room Miami",
+   "venue_slug": "jolene",
+   "date": "2026-12-30",
+   "start": "2026-12-31T03:00:00+00:00",
+   "end": "2026-12-31T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "ages": "",
+   "price": "From $10",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6af76f74fd864c00010f921a",
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/ben-ufo-jonny-from-space-552860"
+   ]
+  },
+  {
    "id": "dice:6aea28be1652850001aa993f",
    "source": "19hz+dice+edmtrain",
    "title": "Jamie xx + Avalon Emerson",
@@ -14844,7 +14964,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $175",
+   "price": "From $200",
    "genres": [
     "tech house"
    ],
@@ -17839,6 +17959,31 @@
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/dillom-08-may",
    "cancelled": false
+  },
+  {
+   "id": "edmtrain:552879",
+   "source": "edmtrain",
+   "title": "BUNT.",
+   "artists": [
+    "BUNT."
+   ],
+   "venue": "North Beach Bandshell",
+   "venue_slug": "festivals",
+   "date": "2027-05-12",
+   "start": "2027-05-12T19:00:00+00:00",
+   "end": "2027-05-13T06:00:00+00:00",
+   "time_estimated": true,
+   "address": "7275 Collins Ave, Miami Beach, FL 33141, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://discopresents.com/event/2027-0512-miami-northbeachbandshell",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/bunt-552879"
+   ]
   },
   {
    "id": "shotgun:paloma-morphy-miami",

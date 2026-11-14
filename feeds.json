@@ -86,7 +86,7 @@
   "slug": "boombox",
   "name": "The Boombox Miami",
   "file": "boombox.ics",
-  "events": 13,
+  "events": 12,
   "estimated_times": 0,
   "next": "2026-11-13",
   "sources": [
@@ -145,7 +145,7 @@
   "slug": "jolene",
   "name": "Jolene Sound Room",
   "file": "jolene.ics",
-  "events": 21,
+  "events": 24,
   "estimated_times": 0,
   "next": "2026-11-12",
   "sources": [
@@ -172,8 +172,8 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 57,
-  "estimated_times": 25,
+  "events": 58,
+  "estimated_times": 26,
   "next": "2026-11-13",
   "sources": [
    "19hz",

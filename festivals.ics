@@ -995,4 +995,21 @@ DESCRIPTION:Times are an estimate from Festivals & one-offs's usual hours -
 URL:https://ultramusicfestival.com/tickets/miami-2027
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:edmtrain-552879@festivals.miami-calendars
+DTSTAMP:20261114T041823Z
+LAST-MODIFIED:20261114T041823Z
+SEQUENCE:0
+DTSTART:20270512T190000Z
+DTEND:20270513T060000Z
+SUMMARY:BUNT.
+LOCATION:North Beach Bandshell\, 7275 Collins Ave\, Miami Beach\, FL 33141
+ \, USA
+DESCRIPTION:Lineup: BUNT.\nTimes are an estimate from Festivals & one-offs'
+ s usual hours - the listing has no start time yet. Check the link.\nhttps:
+ //discopresents.com/event/2027-0512-miami-northbeachbandshell\nhttps://edm
+ train.com/miami-fl/bunt-552879
+URL:https://discopresents.com/event/2027-0512-miami-northbeachbandshell
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
