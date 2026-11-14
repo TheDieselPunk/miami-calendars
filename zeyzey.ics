@@ -9,9 +9,9 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:dice-6ad760d4f2e7b00001b10371@zeyzey.miami-calendars
-DTSTAMP:20261107T101822Z
-LAST-MODIFIED:20261107T101822Z
-SEQUENCE:5
+DTSTAMP:20261114T101824Z
+LAST-MODIFIED:20261114T101824Z
+SEQUENCE:6
 DTSTART:20261114T020000Z
 DTEND:20261114T070000Z
 SUMMARY:Dance Therapy @ ZeyZey - MindGazm | 717 B2B SPYRIDON | Daniii | Joc
@@ -19,18 +19,16 @@ SUMMARY:Dance Therapy @ ZeyZey - MindGazm | 717 B2B SPYRIDON | Daniii | Joc
 LOCATION:ZeyZey\, 353 Northeast 61st Street\, Miami\, Florida 33137\, Unite
  d States
 DESCRIPTION:Lineup: Christian Löffler\nTags: deep house\, house\, progress
- ive house\, r&b/soul\nAges: 18+\nhttps://dice.fm/event/q23wyx-dance-therap
- y-zeyzey-mindgazm-tiffany-romero-b2b-717-13th-nov-zeyzey-miami-tickets\nht
- tps://buy.tablelist.com/e/05908c43b91b1625\nhttps://buy.tablelist.com/e/fb
- fa2b5138eadf1d\nhttps://calendar.zeyzeymiami.com/shows/amrita-fr-13-nov\nh
- ttps://calendar.zeyzeymiami.com/shows/christian-loffler-live-fall-2026-tou
- r-13-nov\nhttps://calendar.zeyzeymiami.com/shows/the-altons-show-you-love-
- tour-13-nov\nhttps://edmtrain.com/miami-fl/christian-loffler-538533\nhttps
- ://edmtrain.com/miami-fl/zeyzey-presents-mindgazm-546729
+ ive house\nAges: 18+\nhttps://dice.fm/event/q23wyx-dance-therapy-zeyzey-mi
+ ndgazm-tiffany-romero-b2b-717-13th-nov-zeyzey-miami-tickets\nhttps://buy.t
+ ablelist.com/e/05908c43b91b1625\nhttps://buy.tablelist.com/e/fbfa2b5138ead
+ f1d\nhttps://calendar.zeyzeymiami.com/shows/christian-loffler-live-fall-20
+ 26-tour-13-nov\nhttps://edmtrain.com/miami-fl/christian-loffler-538533\nht
+ tps://edmtrain.com/miami-fl/zeyzey-presents-mindgazm-546729
 URL:https://dice.fm/event/q23wyx-dance-therapy-zeyzey-mindgazm-tiffany-rome
  ro-b2b-717-13th-nov-zeyzey-miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:deep house,house,progressive house,r&b/soul
+CATEGORIES:deep house,house,progressive house
 END:VEVENT
 BEGIN:VEVENT
 UID:beiruttomiami1@shotgun.live

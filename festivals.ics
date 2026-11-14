@@ -8,21 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:the-hall-pres-roy-rosenfeld@shotgun.live
-DTSTAMP:20261015T101822Z
-LAST-MODIFIED:20261015T101822Z
-SEQUENCE:1
-DTSTART:20261114T030000Z
-DTEND:20261114T080000Z
-SUMMARY:The Hall Club: Roy Rosenfeld
-LOCATION:Miami
-DESCRIPTION:Tags: house\, melodic house & techno\, indie dance\nhttps://sho
- tgun.live/en/events/the-hall-pres-roy-rosenfeld
-URL:https://shotgun.live/en/events/the-hall-pres-roy-rosenfeld
-STATUS:CONFIRMED
-CATEGORIES:house,melodic house & techno,indie dance
-END:VEVENT
-BEGIN:VEVENT
 UID:ravediggaz@shotgun.live
 DTSTAMP:20261113T041825Z
 LAST-MODIFIED:20261113T041825Z
