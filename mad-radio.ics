@@ -8,41 +8,19 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4448628-roadtotrotamundo@mad-radio.miami-calendars
-DTSTAMP:20261114T161813Z
-LAST-MODIFIED:20261114T161813Z
-SEQUENCE:1
-DTSTART:20261114T020000Z
-DTEND:20261114T080000Z
-SUMMARY:Road To Trotamundo / Un_Mute: Truly Madly / Kev Gee
-LOCATION:Mad Radio
-DESCRIPTION:Tags: 2-step\, house\, uk garage\nAges: 21+\nhttps://shotgun.li
- ve/en/events/madradiomiami111326
-URL:https://shotgun.live/en/events/madradiomiami111326
-STATUS:CONFIRMED
-CATEGORIES:2-step,house,uk garage
-END:VEVENT
-BEGIN:VEVENT
-UID:vice-city-pre-launch@shotgun.live
-DTSTAMP:20261115T041821Z
-LAST-MODIFIED:20261115T041821Z
-SEQUENCE:3
+UID:19hz-4448724-welcometovicecit@mad-radio.miami-calendars
+DTSTAMP:20261115T161810Z
+LAST-MODIFIED:20261115T161810Z
+SEQUENCE:0
 DTSTART:20261115T020000Z
 DTEND:20261115T080000Z
-SUMMARY:Welcome To Vice City W/ Serge Devant
-LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
-DESCRIPTION:Welcome to Vice City\, baby! The Pre-Launch Party welcomes Serg
- e Devant & special guests to celebrate what we've all been waiting for. Th
- is is your exclusive opportunity to unique activations\, first-looks at ga
- me footage\, and more. Powered by Shotgun. Access to this event is extreme
- ly limited.\nLineup: Serge Devant\, Leo Del Toro\, Nico Moon\, Cali Lanauz
- e\nTags: deep house\, house\, tech house\, techno\nTickets: VICE CITY DOOR
-  $30\nAges: 21+\nhttps://shotgun.live/en/events/vice-city-pre-launch\nhttp
- s://edmtrain.com/miami-fl/serge-devant-leo-del-toro-550949
+SUMMARY:Welcome To Vice City w/ Serge Devant
+LOCATION:Mad Radio
+DESCRIPTION:Tags: deep house\, tech house\, techno\nAges: 21+\nhttps://shot
+ gun.live/en/events/vice-city-pre-launch
 URL:https://shotgun.live/en/events/vice-city-pre-launch
 STATUS:CONFIRMED
-CATEGORIES:deep house,house,tech house,techno
-GEO:25.8462027;-80.1851332
+CATEGORIES:deep house,tech house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami111826@shotgun.live

@@ -9,36 +9,17 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4448695-sacredmeadowsart@festivals.miami-calendars
-DTSTAMP:20260921T214009Z
-LAST-MODIFIED:20260921T214009Z
-SEQUENCE:0
+DTSTAMP:20261115T161810Z
+LAST-MODIFIED:20261115T161810Z
+SEQUENCE:1
 DTSTART:20261114T190000Z
 DTEND:20261115T010000Z
 SUMMARY:Sacred Meadows Art and Music Project
 LOCATION:Sawgrass Recreation Park\, Broward County
-DESCRIPTION:Lineup: Truth\, Hairitage\, Buku\, Esseks\, INAKTIV\, Smith.\, 
- Raaket\, Bondzeye\, Meadoh\, haven woods.\, Saigga\, American Grime\, Juma
- nji\, KTRL\, AFTRNOONDLITE\, Don Flock\, Rumble in the Jungle Crew\, Stun
- \nTags: bass music\, dubstep\nhttps://sacredmeadowsfest.com/\nhttps://edmt
- rain.com/fort-lauderdale-fl/sacred-meadows-art-and-music-project-475883
+DESCRIPTION:Tags: bass music\, dubstep\nhttps://sacredmeadowsfest.com/
 URL:https://sacredmeadowsfest.com/
 STATUS:CONFIRMED
 CATEGORIES:bass music,dubstep
-END:VEVENT
-BEGIN:VEVENT
-UID:gala-ibiza-at-lunasol-miami@shotgun.live
-DTSTAMP:20261105T161802Z
-LAST-MODIFIED:20261105T161802Z
-SEQUENCE:0
-DTSTART:20261115T030000Z
-DTEND:20261115T080000Z
-SUMMARY:Gala Ibiza At Lunasol Miami
-LOCATION:Miami
-DESCRIPTION:Tags: tech house\, deep house\, progressive house\nhttps://shot
- gun.live/en/events/gala-ibiza-at-lunasol-miami
-URL:https://shotgun.live/en/events/gala-ibiza-at-lunasol-miami
-STATUS:CONFIRMED
-CATEGORIES:tech house,deep house,progressive house
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4448728-picaroneoarovaca@festivals.miami-calendars

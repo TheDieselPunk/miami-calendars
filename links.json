@@ -123,10 +123,6 @@
   "url": "https://dice.fm/event/nvrqe3?pid=d6342b83",
   "checked": "2026-10-07"
  },
- "544448": {
-  "url": "https://shotgun.live/events/cafe-grooves-miami?utm_source=edmtrain",
-  "checked": "2026-11-14"
- },
  "544678": {
   "url": "https://dice.fm/event/92vxld?pid=d6342b83",
   "checked": "2026-10-13"
@@ -171,10 +167,6 @@
   "url": "https://dice.fm/event/yoqbkv?pid=d6342b83",
   "checked": "2026-10-21"
  },
- "546515": {
-  "url": "https://posh.vip/e/komashov-rodrigo-vieira-dmeyer-rye-tiffany-romero?t=edmtrain",
-  "checked": "2026-10-21"
- },
  "546672": {
   "url": "https://shotgun.live/events/yasumi-fiesta?utm_source=edmtrain",
   "checked": "2026-10-21"
@@ -203,17 +195,9 @@
   "url": "https://shotgun.live/events/clubperreo-4?utm_source=edmtrain",
   "checked": "2026-11-02"
  },
- "549546": {
-  "url": "https://www.etix.com/ticket/p/87133765",
-  "checked": "2026-11-02"
- },
  "549547": {
   "url": "https://www.etix.com/ticket/p/71335529",
   "checked": "2026-11-02"
- },
- "549776": {
-  "url": "https://posh.vip/e/el-house-astra?t=edmtrain",
-  "checked": "2026-11-03"
  },
  "549889": {
   "url": "https://posh.vip/e/jazz-in-the-jungle-brenda-navarrete-with-vinyl-selectors-angelica-rose-and-oro-11?t=edmtrain",
@@ -234,10 +218,6 @@
  "550306": {
   "url": "https://dice.fm/event/kxp88p?pid=d6342b83",
   "checked": "2026-11-04"
- },
- "550510": {
-  "url": "https://shotgun.live/events/gala-ibiza-at-lunasol-miami?utm_source=edmtrain",
-  "checked": "2026-11-05"
  },
  "550627": {
   "url": "https://www.etix.com/ticket/p/73844639",
@@ -298,6 +278,10 @@
  "551792": {
   "url": "https://bubbl.so/e/6lu5GoR?s=2aYEr43aHBe1mVGdTcAZaHdeO1K2",
   "checked": "2026-11-10"
+ },
+ "551894": {
+  "url": "https://speakeasygo.com/event/EVE-M9KYLK?t=edmtrain",
+  "checked": "2026-11-15"
  },
  "551895": {
   "url": "https://dice.fm/event/bvldgm?pid=d6342b83",
@@ -402,5 +386,9 @@
  "552964": {
   "url": "https://posh.vip/e/sounds-of-rituals-presented-by-palm-tree-club-miami-1?t=edmtrain",
   "checked": "2026-11-14"
+ },
+ "552985": {
+  "url": "https://spkeasy.com/event/EVE-C7V1HK?t=EDMTrain",
+  "checked": "2026-11-15"
  }
 }

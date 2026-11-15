@@ -8,101 +8,53 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:tablelist-fbfa2b5138eadf1d@zeyzey.miami-calendars
-DTSTAMP:20261114T161813Z
-LAST-MODIFIED:20261114T161813Z
+UID:tablelist-685c26ba1136eddc@zeyzey.miami-calendars
+DTSTAMP:20261115T161810Z
+LAST-MODIFIED:20261115T161810Z
 SEQUENCE:0
-DTSTART:20261114T000000Z
-DTEND:20261114T050000Z
-SUMMARY:The Altons: Show You Love Tour
+DTSTART:20261115T010000Z
+DTEND:20261115T070000Z
+SUMMARY:Tul8te - World Tour
 LOCATION:ZeyZey Miami
-DESCRIPTION:https://buy.tablelist.com/e/fbfa2b5138eadf1d
-URL:https://buy.tablelist.com/e/fbfa2b5138eadf1d
+DESCRIPTION:https://buy.tablelist.com/e/685c26ba1136eddc
+URL:https://buy.tablelist.com/e/685c26ba1136eddc
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:tablelist-05908c43b91b1625@zeyzey.miami-calendars
-DTSTAMP:20261114T161813Z
-LAST-MODIFIED:20261114T161813Z
+UID:tablelist-3f6b13fd54147268@zeyzey.miami-calendars
+DTSTAMP:20261115T161810Z
+LAST-MODIFIED:20261115T161810Z
 SEQUENCE:0
-DTSTART:20261114T020000Z
-DTEND:20261114T070000Z
-SUMMARY:Christian Löffler Live - Fall 2026 Tour
-LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: deep house\, progressive house\nAges: 18+\nhttps://buy.ta
- blelist.com/e/05908c43b91b1625\nhttps://calendar.zeyzeymiami.com/shows/chr
- istian-loffler-live-fall-2026-tour-13-nov
-URL:https://buy.tablelist.com/e/05908c43b91b1625
-STATUS:CONFIRMED
-CATEGORIES:deep house,progressive house
-END:VEVENT
-BEGIN:VEVENT
-UID:19hz-4448628-dancetherapyamri@zeyzey.miami-calendars
-DTSTAMP:20261114T161813Z
-LAST-MODIFIED:20261114T161813Z
-SEQUENCE:0
-DTSTART:20261114T020000Z
-DTEND:20261114T070000Z
-SUMMARY:Dance Therapy: Amrita\, Mindgazm\, Tiffany Romero b2b 717
-LOCATION:Zeyzey
-DESCRIPTION:Tags: house\nPresented by: Right Now Productions\nAges: 21+\nht
- tps://dice.fm/event/q23wyx-dance-therapy-zeyzey-mindgazm-tiffany-romero-b2
- b-717-13th-nov-zeyzey-miami-tickets
-URL:https://dice.fm/event/q23wyx-dance-therapy-zeyzey-mindgazm-tiffany-rome
- ro-b2b-717-13th-nov-zeyzey-miami-tickets
-STATUS:CONFIRMED
-CATEGORIES:house
-END:VEVENT
-BEGIN:VEVENT
-UID:beiruttomiami1@shotgun.live
-DTSTAMP:20261115T041821Z
-LAST-MODIFIED:20261115T041821Z
-SEQUENCE:13
 DTSTART:20261115T040000Z
 DTEND:20261115T080000Z
-SUMMARY:Beirut Nights In Presents: Beirut To Miami
-LOCATION:ZeyZey Miami\, 353 Northeast 61st Street\, Miami\, FL 33137\, USA
-DESCRIPTION:Beirut Nights In Presents: Beirut to Miami! Immerse yourself in
-  the diverse rhythms of Arabic\, French\, Latin\, House\, and other global
-  genres\, capturing the essence of Beirut's cosmopolitan allure right in t
- he heart of Miami! Picture a city that has endured the tests of time\, our
-  party seeks to encapsulate its resilience and vivacity in the face agains
- t all odds. Amidst the turmoil and uncertainty of conflict\, Beirutis have
-  always found solace and strength in their vibrant nightlife\, turning nig
- hts of darkness into moments of light and celebration. The cosmopolitan na
- ture of Beirut's nightlife is a tapestry woven with the threads of diverse
-  cultures\, traditions and modern influences. It is a reflection of the ci
- ty's historical role as a crossroads of civilizations\, where East meets W
- est and tradition combine seamlessly with contemporary trends. Step into B
- eirut's nightlife\, and you'll find yourself immersed in a vibrant mosaic 
- of sights\, sounds\, and experiences that celebrate the city's rich multic
- ultural heritage. Music: Anthony Raad & Mark Azar Doors open @ 11 PM 21+ N
- o refunds\nLineup: Anthony Raad\, Mark Azar\nTags: afro house\, arabic hou
- se\, arabic pop\, footwork\, indie/alternative\, jersey club\, juke\, jung
- le\nPresented by: BEIRUT NIGHTS IN\nTickets: VIP Table for 6 People - $900
-  Minimum Spend Free\, General Admission - Early Bird $30 (sold out)\, Gene
- ral Admission - Tier 2 $35 (sold out)\, General Admission - Tier 3 $40 (so
- ld out)\, General Admission - Tier 4 $45\, VIP Table for 8 People - $1200 
- Minimum Spend Free\, DJ Booth Ticket $200\, VIP Table for 10 People - $175
- 0 Minimum Spend Free\nhttps://shotgun.live/en/events/beiruttomiami1\nhttps
- ://buy.tablelist.com/e/3f6b13fd54147268\nhttps://buy.tablelist.com/e/685c2
- 6ba1136eddc\nhttps://calendar.zeyzeymiami.com/shows/beirut-nights-in-14-no
- v\nhttps://calendar.zeyzeymiami.com/shows/dj-paypal-14-nov\nhttps://calend
- ar.zeyzeymiami.com/shows/tul8te-world-tour-14-nov\nhttps://ra.co/events/25
- 81524
-URL:https://shotgun.live/en/events/beiruttomiami1
+SUMMARY:Beirut Nights In
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://buy.tablelist.com/e/3f6b13fd54147268
+URL:https://buy.tablelist.com/e/3f6b13fd54147268
 STATUS:CONFIRMED
-CATEGORIES:afro house,arabic house,arabic pop,footwork,indie/alternative,je
- rsey club,juke,jungle
-GEO:25.8327584;-80.1890685
+END:VEVENT
+BEGIN:VEVENT
+UID:19hz-4448731-timadiscodjpaypa@zeyzey.miami-calendars
+DTSTAMP:20261115T161810Z
+LAST-MODIFIED:20261115T161810Z
+SEQUENCE:0
+DTSTART:20261115T040000Z
+DTEND:20261115T080000Z
+SUMMARY:Tima Disco: DJ Paypal\, Duality\, Sel.6
+LOCATION:Zeyzey
+DESCRIPTION:Tags: footwork\, jersey club\, juke\, jungle\nhttps://ra.co/eve
+ nts/2581524
+URL:https://ra.co/events/2581524
+STATUS:CONFIRMED
+CATEGORIES:footwork,jersey club,juke,jungle
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a0eff0b5ffbf40001c9044c@zeyzey.miami-calendars
-DTSTAMP:20261113T041825Z
-LAST-MODIFIED:20261113T041825Z
-SEQUENCE:5
+DTSTAMP:20261115T161810Z
+LAST-MODIFIED:20261115T161810Z
+SEQUENCE:6
 DTSTART:20261115T200000Z
-DTEND:20261116T000000Z
+DTEND:20261116T010000Z
 SUMMARY:Club 1BD Miami ft. Chvmeleon\, Hunny Bee\, Pressure Point\, & Spine
  lli
 LOCATION:ZeyZey\, 353 Northeast 61st Street\, Miami\, Florida 33137\, Unite

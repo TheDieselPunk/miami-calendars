@@ -8,33 +8,16 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4448632-unrealcallushfep@factory-town.miami-calendars
-DTSTAMP:20261114T161813Z
-LAST-MODIFIED:20261114T161813Z
+UID:19hz-4448728-odeszaboysnoizeb@factory-town.miami-calendars
+DTSTAMP:20261115T161810Z
+LAST-MODIFIED:20261115T161810Z
 SEQUENCE:0
-DTSTART:20261114T030000Z
-DTEND:20261114T100000Z
-SUMMARY:Unreal: Callush\, Feph\, Prada2000\, Mika Heggeman\, Restricted\, T
- rym
-LOCATION:Factory Town
-DESCRIPTION:Tags: eurobeat\, hard techno\, hard trance\nAges: 18+\nhttps://
- dice.fm/event/6dood3-unreal-13th-nov-factory-town-miami-tickets
-URL:https://dice.fm/event/6dood3-unreal-13th-nov-factory-town-miami-tickets
-STATUS:CONFIRMED
-CATEGORIES:eurobeat,hard techno,hard trance
-END:VEVENT
-BEGIN:VEVENT
-UID:dice-6a3077721b98d10001598c8a@factory-town.miami-calendars
-DTSTAMP:20260922T004038Z
-LAST-MODIFIED:20260922T004038Z
-SEQUENCE:2
 DTSTART:20261115T030000Z
 DTEND:20261115T100000Z
-SUMMARY:ODESZA
-LOCATION:Factory Town\, 4800 NW 37th Ave\, Miami\, FL 33142\, USA
-DESCRIPTION:Lineup: ODESZA\, Boys Noize\, Bob Moses\nTags: future bass\, ho
- use\, synthpop\nAges: 18+\nhttps://dice.fm/event/6a3077721b98d10001598c8a
- \nhttps://edmtrain.com/miami-fl/odesza-boys-noize-527884
+SUMMARY:Odesza\, Boys Noize\, Bob Moses
+LOCATION:Factory Town
+DESCRIPTION:Tags: future bass\, house\, synthpop\nAges: 18+\nhttps://dice.f
+ m/event/6a3077721b98d10001598c8a
 URL:https://dice.fm/event/6a3077721b98d10001598c8a
 STATUS:CONFIRMED
 CATEGORIES:future bass,house,synthpop
