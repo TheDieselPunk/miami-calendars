@@ -341,19 +341,19 @@
    "url": "https://dice.fm/event/6a3077721b98d10001598c8a"
   },
   {
-   "id": "dice:6ae0e0da3b35970001ec2268",
-   "source": "19hz+dice",
+   "id": "19hz:4448728-billpatrickb2bbo",
+   "source": "19hz",
    "title": "Bill Patrick b2b Bort (All Night Long)",
    "artists": [],
-   "venue": "Jolene Sound Room Miami",
+   "venue": "Jolene Downtown",
    "venue_slug": "jolene",
    "date": "2026-11-14",
    "start": "2026-11-15T03:00:00+00:00",
    "end": "2026-11-15T09:00:00+00:00",
    "time_estimated": false,
-   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "address": "",
    "ages": "21+",
-   "price": "From $10",
+   "price": "$7",
    "genres": [
     "minimal",
     "tech house"
@@ -361,11 +361,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6ae0e0da3b35970001ec2268",
-   "cancelled": false,
-   "alt_urls": [
-    "https://link.dice.fm/A5bd10755ad9"
-   ]
+   "url": "https://link.dice.fm/A5bd10755ad9"
   },
   {
    "id": "19hz:4448728-jessicaaudiffred",
@@ -2382,7 +2378,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $60",
+   "price": "From $50",
    "genres": [
     "bass house",
     "tech house"
@@ -4439,6 +4435,29 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aecad8e4f38a6000158d762"
+  },
+  {
+   "id": "edmtrain:550896",
+   "source": "edmtrain",
+   "title": "Thanksgiving Day a NINE1NINE",
+   "artists": [],
+   "venue": "E11EVEN",
+   "venue_slug": null,
+   "date": "2026-11-26",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "29 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://speakeasygo.com/event/EVE-WYZZ03?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/thanksgiving-day-a-nine1nine-550896"
+   ]
   },
   {
    "id": "19hz:4449940-urgemiamifestiva",
@@ -7034,6 +7053,31 @@
    "url": "https://www.eventbrite.com/e/2004426045259?aff=ebdimtedmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/kybba-552418"
+   ]
+  },
+  {
+   "id": "edmtrain:552828",
+   "source": "edmtrain",
+   "title": "NINE1NINE Miami Art Week: Diplo",
+   "artists": [
+    "Diplo"
+   ],
+   "venue": "E11EVEN",
+   "venue_slug": null,
+   "date": "2026-12-02",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "29 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://speakeasygo.com/event/EVE-9EX4YQ?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/nine1nine-miami-art-week-diplo-552828"
    ]
   },
   {

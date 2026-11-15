@@ -8,18 +8,17 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6ae0e0da3b35970001ec2268@jolene.miami-calendars
-DTSTAMP:20261115T161810Z
-LAST-MODIFIED:20261115T161810Z
-SEQUENCE:3
+UID:19hz-4448728-billpatrickb2bbo@jolene.miami-calendars
+DTSTAMP:20261115T221817Z
+LAST-MODIFIED:20261115T221817Z
+SEQUENCE:0
 DTSTART:20261115T030000Z
 DTEND:20261115T090000Z
 SUMMARY:Bill Patrick b2b Bort (All Night Long)
-LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
- a 33131\, United States
-DESCRIPTION:Tags: minimal\, tech house\nAges: 21+\nhttps://dice.fm/event/6a
- e0e0da3b35970001ec2268\nhttps://link.dice.fm/A5bd10755ad9
-URL:https://dice.fm/event/6ae0e0da3b35970001ec2268
+LOCATION:Jolene Downtown
+DESCRIPTION:Tags: minimal\, tech house\nAges: 21+\nhttps://link.dice.fm/A5b
+ d10755ad9
+URL:https://link.dice.fm/A5bd10755ad9
 STATUS:CONFIRMED
 CATEGORIES:minimal,tech house
 END:VEVENT
