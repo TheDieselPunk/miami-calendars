@@ -8,17 +8,18 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6abe7d4787e1d10001e5ab10@floyd.miami-calendars
-DTSTAMP:20261031T041809Z
-LAST-MODIFIED:20261031T041809Z
-SEQUENCE:1
+UID:19hz-4448731-otherworld5yeara@floyd.miami-calendars
+DTSTAMP:20261115T041821Z
+LAST-MODIFIED:20261115T041821Z
+SEQUENCE:0
 DTSTART:20261115T040000Z
 DTEND:20261115T100000Z
-SUMMARY:OTHERWORLD 5 Year Anniversary
-LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags: industrial\, techno\nAges: 21+\nhttps://dice.fm/event/6ab
- e7d4787e1d10001e5ab10\nhttps://link.dice.fm/ow5yrfloyd
-URL:https://dice.fm/event/6abe7d4787e1d10001e5ab10
+SUMMARY:Otherworld 5 Year Anniversary: Carmen Electro\, Diana Franco\, Angi
+ e Lonarc\, FIUZA
+LOCATION:Floyd
+DESCRIPTION:Tags: industrial\, techno\nAges: 21+\nhttps://link.dice.fm/ow5y
+ rfloyd
+URL:https://link.dice.fm/ow5yrfloyd
 STATUS:CONFIRMED
 CATEGORIES:industrial,techno
 END:VEVENT

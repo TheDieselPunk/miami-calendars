@@ -804,13 +804,10 @@
    ]
   },
   {
-   "id": "shotgun:cafe-grooves-miami",
-   "source": "19hz+edmtrain+shotgun",
-   "title": "Cafe Grooves Miami",
-   "artists": [
-    "Art Department",
-    "Natalia Roth"
-   ],
+   "id": "19hz:4448689-cafegrooves",
+   "source": "19hz",
+   "title": "Cafe Grooves",
+   "artists": [],
    "venue": "Sable",
    "venue_slug": null,
    "date": "2026-11-14",
@@ -822,19 +819,13 @@
    "price": "$38+",
    "genres": [
     "deep house",
-    "deep tech",
     "disco",
-    "disco house",
     "tech house"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/cafe-grooves-miami",
-   "alt_urls": [
-    "https://shotgun.live/en/events/cafe-grooves-miami",
-    "https://edmtrain.com/miami-fl/cafe-grooves-miami-art-department-544448"
-   ]
+   "url": "https://shotgun.live/en/events/cafe-grooves-miami"
   },
   {
    "id": "19hz:4448695-sacredmeadowsart",
@@ -880,61 +871,6 @@
    "alt_urls": [
     "https://edmtrain.com/fort-lauderdale-fl/sacred-meadows-art-and-music-project-475883"
    ]
-  },
-  {
-   "id": "dice:6a9c6f1a8e70340001656cb5",
-   "source": "dice",
-   "title": "80'S DAY DISCO",
-   "artists": [],
-   "venue": "Kemistry",
-   "venue_slug": "kemistry",
-   "date": "2026-11-14",
-   "start": "2026-11-14T20:00:00+00:00",
-   "end": "2026-11-15T01:00:00+00:00",
-   "time_estimated": false,
-   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
-   "ages": "",
-   "price": " (sold out)",
-   "genres": [
-    "bass",
-    "dubstep"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6a9c6f1a8e70340001656cb5",
-   "cancelled": false
-  },
-  {
-   "id": "shotgun:i-liedtomyself-descry-iliad-see-you-next-ar-boombox-11-14",
-   "source": "shotgun",
-   "title": "I.Liedtomyself, Descry, Iliad, See You Next Ar Boombox 11/14",
-   "artists": [],
-   "venue": "The Boombox Miami",
-   "venue_slug": "boombox",
-   "date": "2026-11-14",
-   "start": "2026-11-14T23:00:00+00:00",
-   "end": "2026-11-15T03:00:00+00:00",
-   "time_estimated": false,
-   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
-   "ages": "",
-   "price": "$17.03",
-   "genres": [
-    "indie",
-    "rock"
-   ],
-   "genres_inferred": false,
-   "organizer": "Equinox Booking",
-   "description": "Equinox Booking Presents i.liedtomyself descry iliad see you next november 14th $10 online / $15 day of 6 pm all ages",
-   "url": "https://shotgun.live/en/events/i-liedtomyself-descry-iliad-see-you-next-ar-boombox-11-14",
-   "tickets": "General Admission $10 (sold out), Day of $15",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.7287781,
-    "longitude": -80.3169309
-   },
-   "created": "2026-10-05T20:43:28.000Z"
   },
   {
    "id": "shotgun:ketzal-michel-attie-selekter",
@@ -993,50 +929,6 @@
    "url": "https://posh.vip/e/el-house-astra"
   },
   {
-   "id": "shotgun:edm-event",
-   "source": "shotgun",
-   "title": "Edm Event",
-   "artists": [],
-   "venue": "Kava Daddy",
-   "venue_slug": null,
-   "date": "2026-11-14",
-   "start": "2026-11-15T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [
-    "edm"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/edm-event"
-  },
-  {
-   "id": "shotgun:flow-night",
-   "source": "shotgun",
-   "title": "Flow Night",
-   "artists": [],
-   "venue": "Kava Point Kava Bar & Smoke Shop",
-   "venue_slug": null,
-   "date": "2026-11-14",
-   "start": "2026-11-15T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [
-    "edm"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/flow-night"
-  },
-  {
    "id": "shotgun:vice-city-pre-launch",
    "source": "19hz+edmtrain+shotgun",
    "title": "Welcome To Vice City W/ Serge Devant",
@@ -1054,7 +946,7 @@
    "time_estimated": false,
    "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
    "ages": "21+",
-   "price": "$27.25",
+   "price": "$32.70",
    "genres": [
     "deep house",
     "house",
@@ -1065,14 +957,14 @@
    "organizer": "Mad Radio Miami",
    "description": "Welcome to Vice City, baby! The Pre-Launch Party welcomes Serge Devant & special guests to celebrate what we've all been waiting for. This is your exclusive opportunity to unique activations, first-looks at game footage, and more. Powered by Shotgun. Access to this event is extremely limited.",
    "url": "https://shotgun.live/en/events/vice-city-pre-launch",
-   "tickets": "BEFORE 11PM RSVP Free, VICE CITY PASS $25",
+   "tickets": "VICE CITY DOOR $30",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
     "latitude": 25.8462027,
     "longitude": -80.1851332
    },
-   "created": "2026-11-09T20:00:00.000Z",
+   "created": "2026-11-15T02:00:00.000Z",
    "alt_urls": [
     "https://shotgun.live/en/events/vice-city-pre-launch",
     "https://edmtrain.com/miami-fl/serge-devant-leo-del-toro-550949"
@@ -1120,7 +1012,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$22.70",
+   "price": "$17.03",
    "genres": [
     "hip hop"
    ],
@@ -1312,7 +1204,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $7",
+   "price": "From $10",
    "genres": [
     "minimal",
     "tech house"
@@ -1594,7 +1486,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $30",
+   "price": "From $40",
    "genres": [
     "tech house",
     "techno"
@@ -1632,19 +1524,19 @@
    "url": "https://ra.co/events/2574007"
   },
   {
-   "id": "dice:6abe7d4787e1d10001e5ab10",
-   "source": "19hz+dice",
-   "title": "OTHERWORLD 5 Year Anniversary",
+   "id": "19hz:4448731-otherworld5yeara",
+   "source": "19hz",
+   "title": "Otherworld 5 Year Anniversary: Carmen Electro, Diana Franco, Angie Lonarc, FIUZA",
    "artists": [],
-   "venue": "Floyd Miami",
+   "venue": "Floyd",
    "venue_slug": "floyd",
    "date": "2026-11-14",
    "start": "2026-11-15T04:00:00+00:00",
    "end": "2026-11-15T10:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": "From $15",
+   "price": "$15+",
    "genres": [
     "industrial",
     "techno"
@@ -1652,11 +1544,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6abe7d4787e1d10001e5ab10",
-   "cancelled": false,
-   "alt_urls": [
-    "https://link.dice.fm/ow5yrfloyd"
-   ]
+   "url": "https://link.dice.fm/ow5yrfloyd"
   },
   {
    "id": "shotgun:hell",
@@ -1808,7 +1696,7 @@
    "organizer": "BEIRUT NIGHTS IN",
    "description": "Beirut Nights In Presents: Beirut to Miami! Immerse yourself in the diverse rhythms of Arabic, French, Latin, House, and other global genres, capturing the essence of Beirut's cosmopolitan allure right in the heart of Miami! Picture a city that has endured the tests of time, our party seeks to encapsulate its resilience and vivacity in the face against all odds. Amidst the turmoil and uncertainty of conflict, Beirutis have always found solace and strength in their vibrant nightlife, turning nights of darkness into moments of light and celebration. The cosmopolitan nature of Beirut's nightlife is a tapestry woven with the threads of diverse cultures, traditions and modern influences. It is a reflection of the city's historical role as a crossroads of civilizations, where East meets West and tradition combine seamlessly with contemporary trends. Step into Beirut's nightlife, and you'll find yourself immersed in a vibrant mosaic of sights, sounds, and experiences that celebrate the city's rich multicultural heritage. Music: Anthony Raad & Mark Azar Doors open @ 11 PM 21+ No refunds",
    "url": "https://shotgun.live/en/events/beiruttomiami1",
-   "tickets": "VIP Table for 6 People - $900 Minimum Spend Free, General Admission - Early Bird $30 (sold out), General Admission - Tier 2 $35 (sold out), General Admission - Tier 3 $40 (sold out), General Admission - Tier 4 $45, VIP Table for 8 People - $1200 Minimum Spend Free, VIP Table for 10 People - $1750 Minimum Spend Free",
+   "tickets": "VIP Table for 6 People - $900 Minimum Spend Free, General Admission - Early Bird $30 (sold out), General Admission - Tier 2 $35 (sold out), General Admission - Tier 3 $40 (sold out), General Admission - Tier 4 $45, VIP Table for 8 People - $1200 Minimum Spend Free, DJ Booth Ticket $200, VIP Table for 10 People - $1750 Minimum Spend Free",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -1981,6 +1869,32 @@
    "url": "https://posh.vip/e/komashov-rodrigo-vieira-dmeyer-rye-tiffany-romero?t=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/rodrigo-vieira-dmeyer-546515"
+   ]
+  },
+  {
+   "id": "edmtrain:544448",
+   "source": "edmtrain",
+   "title": "Cafe Grooves Miami: Art Department, Natalia Roth",
+   "artists": [
+    "Art Department",
+    "Natalia Roth"
+   ],
+   "venue": "Sable Miami",
+   "venue_slug": null,
+   "date": "2026-11-14",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "2219 NW 2nd Ave, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/cafe-grooves-miami?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/cafe-grooves-miami-art-department-544448"
    ]
   },
   {
@@ -14537,7 +14451,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "18+",
-   "price": "From $175",
+   "price": "From $200",
    "genres": [
     "tech house"
    ],

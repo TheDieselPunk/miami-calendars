@@ -69,6 +69,11 @@
   "seq": 0,
   "modified": "2026-11-10T04:18:23+00:00"
  },
+ "19hz-4448731-otherworld5yeara@floyd.miami-calendars": {
+  "hash": "ff0ddd23104cd434",
+  "seq": 0,
+  "modified": "2026-11-15T04:18:21+00:00"
+ },
  "19hz-4449295-kapo@midline.miami-calendars": {
   "hash": "e59b55d5f12b5ecb",
   "seq": 0,
@@ -245,9 +250,9 @@
   "modified": "2026-11-13T10:18:29+00:00"
  },
  "beiruttomiami1@shotgun.live": {
-  "hash": "bbfc223fd5c122fb",
-  "seq": 12,
-  "modified": "2026-11-14T22:18:25+00:00"
+  "hash": "98c64b81f91c7370",
+  "seq": 13,
+  "modified": "2026-11-15T04:18:21+00:00"
  },
  "c3trlroom-17@shotgun.live": {
   "hash": "0911970e25c21fbd",
@@ -379,11 +384,6 @@
   "seq": 2,
   "modified": "2026-10-04T22:18:19+00:00"
  },
- "dice-6a9c6f1a8e70340001656cb5@kemistry.miami-calendars": {
-  "hash": "0aa9aef0326a4e9a",
-  "seq": 2,
-  "modified": "2026-10-26T10:18:03+00:00"
- },
  "dice-6aa05356c1a81a000145fda3@club-space.miami-calendars": {
   "hash": "f18dfe3c8bc59968",
   "seq": 4,
@@ -513,11 +513,6 @@
   "hash": "86f8de9906c9d600",
   "seq": 0,
   "modified": "2026-11-13T10:18:29+00:00"
- },
- "dice-6abe7d4787e1d10001e5ab10@floyd.miami-calendars": {
-  "hash": "f8badcdb605c664d",
-  "seq": 1,
-  "modified": "2026-10-31T04:18:09+00:00"
  },
  "dice-6abe7eac09571500016a1283@floyd.miami-calendars": {
   "hash": "20f84fd16d69ff9c",
@@ -1344,11 +1339,6 @@
   "seq": 2,
   "modified": "2026-11-13T04:18:25+00:00"
  },
- "i-liedtomyself-descry-iliad-see-you-next-ar-boombox-11-14@shotgun.live": {
-  "hash": "599869af7ab4a65a",
-  "seq": 1,
-  "modified": "2026-11-14T16:18:13+00:00"
- },
  "lilith-s-demise-and-slamwich-at-the-boombox-11-15@shotgun.live": {
   "hash": "d563519bbd028c53",
   "seq": 0,
@@ -1475,9 +1465,9 @@
   "modified": "2026-11-12T22:18:23+00:00"
  },
  "vice-city-pre-launch@shotgun.live": {
-  "hash": "1d9e7c3302a62000",
-  "seq": 2,
-  "modified": "2026-11-13T04:18:25+00:00"
+  "hash": "4052feb0855b4e99",
+  "seq": 3,
+  "modified": "2026-11-15T04:18:21+00:00"
  },
  "vice-city-world-art-basel-show-2026@shotgun.live": {
   "hash": "812b91f0a476ca4d",
