@@ -1156,6 +1156,34 @@
    "url": "https://www.eventbrite.com/e/vice-city-after-dark-a-gta-vi-tribute-tickets-2002568304707"
   },
   {
+   "id": "19hz:4449300-deivschonfelamat",
+   "source": "19hz+edmtrain",
+   "title": "Deiv Schon, Fela, Mati Alfonso",
+   "artists": [
+    "Deiv Schon"
+   ],
+   "venue": "Upside",
+   "venue_slug": null,
+   "date": "2026-11-20",
+   "start": "2026-11-21T02:00:00+00:00",
+   "end": "2026-11-21T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "free w/rsvp / $19.99",
+   "genres": [
+    "indie dance",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "Apex",
+   "description": "",
+   "url": "https://www.eventbrite.com/e/deiv-schon-tickets-2004193857780",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/deiv-schon-549464"
+   ]
+  },
+  {
    "id": "19hz:4449304-clubperreobozito",
    "source": "19hz",
    "title": "Club Perreo: Bozito, Bonita Applebunz",
@@ -1272,7 +1300,7 @@
    "description": "",
    "url": "https://dice.fm/event/6adb6595f0914a00018a364e",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/sam-wolfe-547522"
+    "https://edmtrain.com/miami-fl/altrd-state-techno-sam-wolfe-547522"
    ]
   },
   {
@@ -1288,7 +1316,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$20.00",
+   "price": "$10.00",
    "genres": [
     "house",
     "tech house"
@@ -1482,36 +1510,6 @@
    "url": "https://ra.co/events/2528919"
   },
   {
-   "id": "shotgun:the-hall-360-differ-f-2-f-nico-moon-4",
-   "source": "19hz+edmtrain+shotgun",
-   "title": "The Hall Club: Deiv Schön",
-   "artists": [
-    "Deiv Schon"
-   ],
-   "venue": "Upside",
-   "venue_slug": null,
-   "date": "2026-11-20",
-   "start": "2026-11-21T03:00:00+00:00",
-   "end": "2026-11-21T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "$22.69",
-   "genres": [
-    "house",
-    "indie dance",
-    "tech house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/the-hall-360-differ-f-2-f-nico-moon-4",
-   "alt_urls": [
-    "https://www.eventbrite.com/e/deiv-schon-tickets-2004193857780",
-    "https://edmtrain.com/miami-fl/deiv-schon-549464"
-   ]
-  },
-  {
    "id": "shotgun:solmates-presents-sparrow-more",
    "source": "19hz+dice+edmtrain+shotgun+tablelist+venue",
    "title": "Solmates Presents Sparrow & More",
@@ -1526,7 +1524,7 @@
    "time_estimated": false,
    "address": "353 Northeast 61st Street, Miami, FL 33137, USA",
    "ages": "",
-   "price": "$22.70",
+   "price": "$28.38",
    "genres": [
     "afro house",
     "indie/alternative",
@@ -1536,7 +1534,7 @@
    "organizer": "Solmates Miami",
    "description": "Solmates returns for another night built around the sounds that bring us together. A meeting point for melody, groove, and forward-thinking electronic music, where hypnotic rhythms and emotive sounds set the tone from the first record to the last. Rooted in connection and driven by a shared love for music, Solmates creates a space where different influences meet, new discoveries unfold, and the dancefloor becomes something more than just a place to move. One room, one atmosphere, and a night made for the moments that stay with you. See you on the dancefloor.",
    "url": "https://shotgun.live/en/events/solmates-presents-sparrow-more",
-   "tickets": "Pre-Sale & General Admission 1 $20, General Admission 2 $25, General Admission 3 $30, VIP $45",
+   "tickets": "Pre-Sale & General Admission 1 $20 (sold out), General Admission 2 $25, General Admission 3 $30, VIP $45",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -2046,8 +2044,8 @@
     "electronica",
     "funk",
     "house",
+    "indie/alternative",
     "italo disco",
-    "latin",
     "synthpop",
     "tropcial"
    ],
@@ -2066,8 +2064,7 @@
    "alt_urls": [
     "https://buy.tablelist.com/e/4499d09e5bdfc433",
     "https://buy.tablelist.com/e/b7fe9af7cbabc23f",
-    "https://calendar.zeyzeymiami.com/shows/donny-benet-21-nov",
-    "https://calendar.zeyzeymiami.com/shows/helado-tropical-helado-negro-reyna-tropical-21-nov",
+    "https://calendar.zeyzeymiami.com/shows/donny-benet-helado-negro-reyna-tropical-bosq-21-nov",
     "https://calendar.zeyzeymiami.com/shows/under-the-disco-ball-ft-bosq-21-nov",
     "https://calendar.zeyzeymiami.com/shows/under-the-disco-ball-ft-bosq-21-nov",
     "https://edmtrain.com/miami-fl/under-the-disco-ball-bosq-545718"
@@ -2161,7 +2158,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$13.51",
+   "price": "$8.05",
    "genres": [],
    "genres_inferred": false,
    "organizer": "",
@@ -2787,7 +2784,7 @@
   {
    "id": "hardrock:205540",
    "source": "venue",
-   "title": "DAER Dayclub",
+   "title": "Sunkiss Sundays",
    "artists": [],
    "venue": "DAER Dayclub",
    "venue_slug": "daer",
@@ -2803,7 +2800,7 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/205540",
-   "generic_title": true
+   "generic_title": false
   },
   {
    "id": "shotgun:sunday-social-chillin-n-grillin-pop-up",
@@ -3722,6 +3719,32 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aecad8e4f38a6000158d762"
+  },
+  {
+   "id": "edmtrain:553404",
+   "source": "edmtrain",
+   "title": "Rodrigo Vieira, Sophie Du Futur",
+   "artists": [
+    "Rodrigo Vieira",
+    "Sophie Du Futur"
+   ],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-11-26",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "111 NE 20th St, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/after-thanksgiving?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/rodrigo-vieira-sophie-du-futur-553404"
+   ]
   },
   {
    "id": "edmtrain:550896",
@@ -5293,7 +5316,7 @@
   {
    "id": "hardrock:205543",
    "source": "venue",
-   "title": "DAER Dayclub",
+   "title": "Sunkiss Sundays",
    "artists": [],
    "venue": "DAER Dayclub",
    "venue_slug": "daer",
@@ -5309,7 +5332,7 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/205543",
-   "generic_title": true
+   "generic_title": false
   },
   {
    "id": "zeyzey:zeyzey-juniors-29-nov",
@@ -9536,6 +9559,31 @@
    ]
   },
   {
+   "id": "edmtrain:553329",
+   "source": "edmtrain",
+   "title": "Lunasol Pres.: The Kimonos",
+   "artists": [
+    "The Kimonos"
+   ],
+   "venue": "Lunasol",
+   "venue_slug": null,
+   "date": "2026-12-05",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "158 NW 24th St, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/lunasol-pres-kimonos-2?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/lunasol-pres-the-kimonos-553329"
+   ]
+  },
+  {
    "id": "edmtrain:552938",
    "source": "edmtrain",
    "title": "Skihouse",
@@ -12390,7 +12438,9 @@
    "title": "Sara Landry + ØTTA",
    "artists": [
     "Sara Landry",
-    "ØTTA"
+    "ØTTA",
+    "Coffintexts",
+    "Sister System"
    ],
    "venue": "Club Space Miami",
    "venue_slug": "club-space",
@@ -13346,6 +13396,35 @@
    ]
   },
   {
+   "id": "dice:6afa72145e983f0001babaf8",
+   "source": "dice+edmtrain",
+   "title": "CHARLOTTE DE WITTE",
+   "artists": [
+    "Charlotte de Witte"
+   ],
+   "venue": "Factory Town",
+   "venue_slug": "factory-town",
+   "date": "2027-01-02",
+   "start": "2027-01-03T03:00:00+00:00",
+   "end": "2027-01-03T10:00:00+00:00",
+   "time_estimated": false,
+   "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6afa72145e983f0001babaf8",
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/charlotte-de-witte-553393"
+   ]
+  },
+  {
    "id": "edmtrain:546412",
    "source": "edmtrain",
    "title": "Loud Luxury, Ty Sunderland, Anne Louise",
@@ -13712,6 +13791,34 @@
    "url": "https://dice.fm/event/6ae2298500259b000162f15b",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/lost-desert-548793"
+   ]
+  },
+  {
+   "id": "edmtrain:553353",
+   "source": "edmtrain",
+   "title": "LAYZ",
+   "artists": [
+    "LAYZ"
+   ],
+   "venue": "Kemistry",
+   "venue_slug": "kemistry",
+   "date": "2027-01-15",
+   "start": "2027-01-16T03:00:00+00:00",
+   "end": "2027-01-16T09:00:00+00:00",
+   "time_estimated": true,
+   "address": "307 SW 2nd St, Fort Lauderdale, FL 33312, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "bass",
+    "dubstep"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://shorturl.at/7jeS7",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/layz-553353"
    ]
   },
   {
@@ -14723,27 +14830,6 @@
    "description": "",
    "url": "https://tixr.com/e/214371",
    "generic_title": true
-  },
-  {
-   "id": "zeyzey:equiss-06-feb",
-   "source": "venue",
-   "title": "EQUISS",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2027-02-06",
-   "start": "2027-02-07T02:00:00+00:00",
-   "end": "2027-02-07T06:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/equiss-06-feb",
-   "cancelled": false
   },
   {
    "id": "hardrock:214382",

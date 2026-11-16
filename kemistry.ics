@@ -239,6 +239,23 @@ STATUS:CONFIRMED
 CATEGORIES:hard techno
 END:VEVENT
 BEGIN:VEVENT
+UID:edmtrain-553353@kemistry.miami-calendars
+DTSTAMP:20261116T221812Z
+LAST-MODIFIED:20261116T221812Z
+SEQUENCE:0
+DTSTART:20270116T030000Z
+DTEND:20270116T090000Z
+SUMMARY:LAYZ
+LOCATION:Kemistry\, 307 SW 2nd St\, Fort Lauderdale\, FL 33312\, USA
+DESCRIPTION:Lineup: LAYZ\nTags (guess): bass\, dubstep\nTimes are an estima
+ te from Kemistry (Fort Lauderdale)'s usual hours - the listing has no star
+ t time yet. Check the link.\nhttps://shorturl.at/7jeS7\nhttps://edmtrain.c
+ om/fort-lauderdale-fl/layz-553353
+URL:https://shorturl.at/7jeS7
+STATUS:CONFIRMED
+CATEGORIES:bass,dubstep
+END:VEVENT
+BEGIN:VEVENT
 UID:dice-6a17a579b4fd860001a0bd2e@kemistry.miami-calendars
 DTSTAMP:20261113T041825Z
 LAST-MODIFIED:20261113T041825Z

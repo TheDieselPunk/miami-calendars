@@ -20,9 +20,9 @@
   "modified": "2026-10-31T04:18:09+00:00"
  },
  "19hz-4449304-samwolfehypnozac@domicile.miami-calendars": {
-  "hash": "c4f0e85713fc451d",
-  "seq": 0,
-  "modified": "2026-10-31T04:18:09+00:00"
+  "hash": "09ab59493c55c500",
+  "seq": 1,
+  "modified": "2026-11-16T22:18:12+00:00"
  },
  "19hz-4449396-blackroom3yearan@festivals.miami-calendars": {
   "hash": "779fed13b000066f",
@@ -610,9 +610,9 @@
   "modified": "2026-11-13T10:18:29+00:00"
  },
  "dice-6aea21d01652850001c84cb3@club-space.miami-calendars": {
-  "hash": "7d9c94846dc94be8",
-  "seq": 2,
-  "modified": "2026-11-13T10:18:29+00:00"
+  "hash": "5d1667cf8e872a13",
+  "seq": 3,
+  "modified": "2026-11-16T22:18:12+00:00"
  },
  "dice-6aea28be1652850001aa993f@club-space.miami-calendars": {
   "hash": "38ab366d00df9044",
@@ -693,6 +693,11 @@
   "hash": "0528a596596aceef",
   "seq": 0,
   "modified": "2026-11-14T04:18:23+00:00"
+ },
+ "dice-6afa72145e983f0001babaf8@factory-town.miami-calendars": {
+  "hash": "24a8d06f77ea7033",
+  "seq": 0,
+  "modified": "2026-11-16T22:18:12+00:00"
  },
  "edmtrain-458944@festivals.miami-calendars": {
   "hash": "52f5b7eb786ce532",
@@ -839,6 +844,11 @@
   "seq": 0,
   "modified": "2026-11-14T04:18:23+00:00"
  },
+ "edmtrain-553353@kemistry.miami-calendars": {
+  "hash": "8111b743f814cd82",
+  "seq": 0,
+  "modified": "2026-11-16T22:18:12+00:00"
+ },
  "equinox-fest-4-day-2-3-november-21-22nd@shotgun.live": {
   "hash": "e9c75d0204f31fa2",
   "seq": 2,
@@ -870,9 +880,9 @@
   "modified": "2026-09-21T20:07:29+00:00"
  },
  "hardrock-205540@daer.miami-calendars": {
-  "hash": "8a744be55364f7cd",
-  "seq": 1,
-  "modified": "2026-09-21T20:07:29+00:00"
+  "hash": "a24ff261c94836ef",
+  "seq": 2,
+  "modified": "2026-11-16T22:18:12+00:00"
  },
  "hardrock-205541@daer.miami-calendars": {
   "hash": "4545bc6dd68c0de5",
@@ -880,9 +890,9 @@
   "modified": "2026-09-21T20:07:29+00:00"
  },
  "hardrock-205543@daer.miami-calendars": {
-  "hash": "7993759b25b1ceae",
-  "seq": 1,
-  "modified": "2026-09-21T20:07:29+00:00"
+  "hash": "c06d9c3c8830228c",
+  "seq": 2,
+  "modified": "2026-11-16T22:18:12+00:00"
  },
  "hardrock-206018@daer.miami-calendars": {
   "hash": "db578ebf9daf9f44",
@@ -1265,9 +1275,9 @@
   "modified": "2026-10-28T22:18:06+00:00"
  },
  "solmates-presents-sparrow-more@shotgun.live": {
-  "hash": "bb1859566f679966",
-  "seq": 4,
-  "modified": "2026-11-01T10:17:57+00:00"
+  "hash": "448cb18cdeab1c61",
+  "seq": 5,
+  "modified": "2026-11-16T22:18:12+00:00"
  },
  "superqueen-41@shotgun.live": {
   "hash": "2f40a66985422743",
@@ -1394,11 +1404,6 @@
   "seq": 0,
   "modified": "2026-11-13T16:18:22+00:00"
  },
- "zeyzey-equiss-06-feb@zeyzey.miami-calendars": {
-  "hash": "56cf984565cf8f30",
-  "seq": 0,
-  "modified": "2026-11-16T16:18:11+00:00"
- },
  "zeyzey-friendsgiving-ft-suenalo-the-lab-25-nov@zeyzey.miami-calendars": {
   "hash": "a1ca24c4877e14f2",
   "seq": 1,
@@ -1490,9 +1495,9 @@
   "modified": "2026-11-10T04:18:23+00:00"
  },
  "zeyzey-selects-donny-benet@shotgun.live": {
-  "hash": "ac290a93b499f5bd",
-  "seq": 6,
-  "modified": "2026-11-01T10:17:57+00:00"
+  "hash": "3551340bc2627654",
+  "seq": 7,
+  "modified": "2026-11-16T22:18:12+00:00"
  },
  "zeyzey-sg-lewis-02-dec@zeyzey.miami-calendars": {
   "hash": "2256da4264ca0517",

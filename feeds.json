@@ -58,7 +58,7 @@
   "slug": "factory-town",
   "name": "Factory Town",
   "file": "factory-town.ics",
-  "events": 6,
+  "events": 7,
   "estimated_times": 0,
   "next": "2026-12-02",
   "sources": [
@@ -72,8 +72,8 @@
   "slug": "kemistry",
   "name": "Kemistry (Fort Lauderdale)",
   "file": "kemistry.ics",
-  "events": 18,
-  "estimated_times": 0,
+  "events": 19,
+  "estimated_times": 1,
   "next": "2026-11-20",
   "sources": [
    "19hz",
@@ -99,7 +99,7 @@
   "slug": "zeyzey",
   "name": "ZeyZey Miami",
   "file": "zeyzey.ics",
-  "events": 60,
+  "events": 59,
   "estimated_times": 1,
   "next": "2026-11-15",
   "sources": [

@@ -117,4 +117,20 @@ URL:https://dice.fm/event/6ae37fbe8bf64200012df1ae
 STATUS:CONFIRMED
 CATEGORIES:tech house
 END:VEVENT
+BEGIN:VEVENT
+UID:dice-6afa72145e983f0001babaf8@factory-town.miami-calendars
+DTSTAMP:20261116T221812Z
+LAST-MODIFIED:20261116T221812Z
+SEQUENCE:0
+DTSTART:20270103T030000Z
+DTEND:20270103T100000Z
+SUMMARY:CHARLOTTE DE WITTE
+LOCATION:Factory Town\, 4800 NW 37th Ave\, Miami\, FL 33142\, USA
+DESCRIPTION:Lineup: Charlotte de Witte\nTags (guess): house\, techno\nhttps
+ ://dice.fm/event/6afa72145e983f0001babaf8\nhttps://edmtrain.com/miami-fl/c
+ harlotte-de-witte-553393
+URL:https://dice.fm/event/6afa72145e983f0001babaf8
+STATUS:CONFIRMED
+CATEGORIES:house,techno
+END:VEVENT
 END:VCALENDAR
