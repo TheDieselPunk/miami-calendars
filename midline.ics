@@ -8,22 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4448728-krewella@midline.miami-calendars
-DTSTAMP:20261115T161810Z
-LAST-MODIFIED:20261115T161810Z
-SEQUENCE:1
-DTSTART:20261115T030000Z
-DTEND:20261115T080000Z
-SUMMARY:Krewella
-LOCATION:Midline
-DESCRIPTION:Tags: big room\, electro house\, trap\nAges: 18+\nhttps://wl.ev
- entim.us/event/krewella-midline-miami/704551?afflky=Midline
-URL:https://wl.eventim.us/event/krewella-midline-miami/704551?afflky=Midlin
- e
-STATUS:CONFIRMED
-CATEGORIES:big room,electro house,trap
-END:VEVENT
-BEGIN:VEVENT
 UID:19hz-4449295-kapo@midline.miami-calendars
 DTSTAMP:20260926T221817Z
 LAST-MODIFIED:20260926T221817Z

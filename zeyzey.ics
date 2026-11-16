@@ -8,66 +8,22 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:tablelist-685c26ba1136eddc@zeyzey.miami-calendars
-DTSTAMP:20261115T161810Z
-LAST-MODIFIED:20261115T161810Z
+UID:tablelist-390cf1e657034a3e@zeyzey.miami-calendars
+DTSTAMP:20261116T101806Z
+LAST-MODIFIED:20261116T101806Z
 SEQUENCE:0
-DTSTART:20261115T010000Z
-DTEND:20261115T070000Z
-SUMMARY:Tul8te - World Tour
-LOCATION:ZeyZey Miami
-DESCRIPTION:https://buy.tablelist.com/e/685c26ba1136eddc
-URL:https://buy.tablelist.com/e/685c26ba1136eddc
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:tablelist-3f6b13fd54147268@zeyzey.miami-calendars
-DTSTAMP:20261115T161810Z
-LAST-MODIFIED:20261115T161810Z
-SEQUENCE:0
-DTSTART:20261115T040000Z
-DTEND:20261115T080000Z
-SUMMARY:Beirut Nights In
-LOCATION:ZeyZey Miami
-DESCRIPTION:https://buy.tablelist.com/e/3f6b13fd54147268
-URL:https://buy.tablelist.com/e/3f6b13fd54147268
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:19hz-4448731-timadiscodjpaypa@zeyzey.miami-calendars
-DTSTAMP:20261115T161810Z
-LAST-MODIFIED:20261115T161810Z
-SEQUENCE:0
-DTSTART:20261115T040000Z
-DTEND:20261115T080000Z
-SUMMARY:Tima Disco: DJ Paypal\, Duality\, Sel.6
-LOCATION:Zeyzey
-DESCRIPTION:Tags: footwork\, jersey club\, juke\, jungle\nhttps://ra.co/eve
- nts/2581524
-URL:https://ra.co/events/2581524
-STATUS:CONFIRMED
-CATEGORIES:footwork,jersey club,juke,jungle
-END:VEVENT
-BEGIN:VEVENT
-UID:dice-6a0eff0b5ffbf40001c9044c@zeyzey.miami-calendars
-DTSTAMP:20261115T161810Z
-LAST-MODIFIED:20261115T161810Z
-SEQUENCE:6
 DTSTART:20261115T200000Z
 DTEND:20261116T010000Z
-SUMMARY:Club 1BD Miami ft. Chvmeleon\, Hunny Bee\, Pressure Point\, & Spine
- lli
-LOCATION:ZeyZey\, 353 Northeast 61st Street\, Miami\, Florida 33137\, Unite
- d States
+SUMMARY:Club 1BD Miami (Day Party)
+LOCATION:ZeyZey Miami
 DESCRIPTION:Lineup: Club 1BD\, DJ Hunny Bee\, Pressure Point\, Spinelli\nTa
- gs: hip-hop\, hip-hop/rap\, house\, jersey club\, r&b\nAges: 21+\nhttps://
- dice.fm/event/6a0eff0b5ffbf40001c9044c\nhttps://buy.tablelist.com/e/390cf1
- e657034a3e\nhttps://calendar.zeyzeymiami.com/shows/club-1bd-miami-day-part
- y-15-nov\nhttps://calendar.zeyzeymiami.com/shows/evening-elephants-15-nov
- \nhttps://edmtrain.com/miami-fl/club-1bd-dj-hunny-bee-517966
-URL:https://dice.fm/event/6a0eff0b5ffbf40001c9044c
+ gs: hip-hop\, house\, jersey club\, r&b\nAges: 21+\nhttps://buy.tablelist.
+ com/e/390cf1e657034a3e\nhttps://dice.fm/partner/tickets/event/ryk7xv-club-
+ 1bd-miami-ft-chvmeleon-hunny-bee-pressure-point-spinelli-15th-nov-zeyzey-m
+ iami-tickets\nhttps://edmtrain.com/miami-fl/club-1bd-dj-hunny-bee-517966
+URL:https://buy.tablelist.com/e/390cf1e657034a3e
 STATUS:CONFIRMED
-CATEGORIES:hip-hop,hip-hop/rap,house,jersey club,r&b
+CATEGORIES:hip-hop,house,jersey club,r&b
 END:VEVENT
 BEGIN:VEVENT
 UID:tablelist-8ba448be22306de7@zeyzey.miami-calendars
