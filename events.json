@@ -42,14 +42,9 @@
   },
   {
    "id": "tablelist:390cf1e657034a3e",
-   "source": "19hz+edmtrain+tablelist",
+   "source": "19hz+tablelist",
    "title": "Club 1BD Miami (Day Party)",
-   "artists": [
-    "Club 1BD",
-    "DJ Hunny Bee",
-    "Pressure Point",
-    "Spinelli"
-   ],
+   "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-11-15",
@@ -70,8 +65,7 @@
    "description": "",
    "url": "https://buy.tablelist.com/e/390cf1e657034a3e",
    "alt_urls": [
-    "https://dice.fm/partner/tickets/event/ryk7xv-club-1bd-miami-ft-chvmeleon-hunny-bee-pressure-point-spinelli-15th-nov-zeyzey-miami-tickets",
-    "https://edmtrain.com/miami-fl/club-1bd-dj-hunny-bee-517966"
+    "https://dice.fm/partner/tickets/event/ryk7xv-club-1bd-miami-ft-chvmeleon-hunny-bee-pressure-point-spinelli-15th-nov-zeyzey-miami-tickets"
    ]
   },
   {
@@ -119,13 +113,9 @@
   },
   {
    "id": "19hz:4448815-lazarocasanovani",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Lazaro Casanova, Nicole Fiallo, Nyco Jones",
-   "artists": [
-    "Lazaro Casanova",
-    "Nicole Fiallo",
-    "Nyco Jones"
-   ],
+   "artists": [],
    "venue": "1-800-Lucky",
    "venue_slug": null,
    "date": "2026-11-15",
@@ -142,14 +132,11 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/8ed7lv-sundays-lazaro-casanova-nicole-fiallo-nyco-jones-15th-nov-1-800-lucky-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/lazaro-casanova-nicole-fiallo-548237"
-   ]
+   "url": "https://dice.fm/event/8ed7lv-sundays-lazaro-casanova-nicole-fiallo-nyco-jones-15th-nov-1-800-lucky-miami-tickets"
   },
   {
    "id": "19hz:4448815-humansalikesunda",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Humans Alike Sundays",
    "artists": [],
    "venue": "111 Northeast 20th Street",
@@ -168,18 +155,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/humans-alike-sundays",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/humans-alike-sundays-551439"
-   ]
+   "url": "https://shotgun.live/en/events/humans-alike-sundays"
   },
   {
    "id": "19hz:4448815-damagedgoods",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Damaged Goods",
-   "artists": [
-    "Damaged Goods"
-   ],
+   "artists": [],
    "venue": "E11even",
    "venue_slug": null,
    "date": "2026-11-15",
@@ -196,21 +178,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://speakeasygo.com/event/EVE-VKVBQV",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/damaged-goods-532635"
-   ]
+   "url": "https://speakeasygo.com/event/EVE-VKVBQV"
   },
   {
    "id": "19hz:4448827-francfalaaryeh",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Franc Fala + Aryeh",
-   "artists": [
-    "Franc Fala",
-    "Aryeh",
-    "Nii Tei",
-    "Cado"
-   ],
+   "artists": [],
    "venue": "Floyd",
    "venue_slug": "floyd",
    "date": "2026-11-15",
@@ -228,61 +202,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://link.dice.fm/nov15floyd",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/franc-fala-aryeh-551329"
-   ]
-  },
-  {
-   "id": "edmtrain:553273",
-   "source": "edmtrain",
-   "title": "Tony Guerra, Lousy Lover",
-   "artists": [
-    "Tony Guerra",
-    "Lousy Lover"
-   ],
-   "venue": "AIRE Miami",
-   "venue_slug": null,
-   "date": "2026-11-15",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "111 NE 20th St, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/bb95xg?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/tony-guerra-lousy-lover-553273"
-   ]
-  },
-  {
-   "id": "edmtrain:543314",
-   "source": "edmtrain",
-   "title": "Rodriguez Jr.",
-   "artists": [
-    "Rodriguez Jr."
-   ],
-   "venue": "Upside",
-   "venue_slug": null,
-   "date": "2026-11-15",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "59 NW 28th St, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/nvrqe3?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/rodriguez-jr-543314"
-   ]
+   "url": "https://link.dice.fm/nov15floyd"
   },
   {
    "id": "shotgun:miami-jazz-jam-every-monday-18",
@@ -2395,6 +2315,30 @@
    ]
   },
   {
+   "id": "shotgun:nativos-br-nov-21",
+   "source": "shotgun",
+   "title": "Nativos (Br) & More",
+   "artists": [],
+   "venue": "EDGE MIAMI",
+   "venue_slug": null,
+   "date": "2026-11-21",
+   "start": "2026-11-22T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$20.00",
+   "genres": [
+    "progressive house",
+    "afro house",
+    "house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/nativos-br-nov-21"
+  },
+  {
    "id": "dice:6adb9490e08a040001e559ea",
    "source": "19hz+dice",
    "title": "Silvie Loto",
@@ -3699,6 +3643,29 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/hector-couto-yaya-547375"
    ]
+  },
+  {
+   "id": "shotgun:after-thanksgiving",
+   "source": "shotgun",
+   "title": "After Thanksgiving Soiree",
+   "artists": [],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-11-26",
+   "start": "2026-11-27T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.70",
+   "genres": [
+    "afro house",
+    "progressive house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/after-thanksgiving"
   },
   {
    "id": "shotgun:madradiomiami112626",
@@ -14758,6 +14725,27 @@
    "generic_title": true
   },
   {
+   "id": "zeyzey:equiss-06-feb",
+   "source": "venue",
+   "title": "EQUISS",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2027-02-06",
+   "start": "2027-02-07T02:00:00+00:00",
+   "end": "2027-02-07T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/equiss-06-feb",
+   "cancelled": false
+  },
+  {
    "id": "hardrock:214382",
    "source": "venue",
    "title": "DAER Nightclub",
@@ -14777,6 +14765,29 @@
    "description": "",
    "url": "https://tixr.com/e/214382",
    "generic_title": true
+  },
+  {
+   "id": "zeyzey:icee-red-06-feb",
+   "source": "venue",
+   "title": "Icee Red",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2027-02-06",
+   "start": "2027-02-07T03:00:00+00:00",
+   "end": "2027-02-07T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "dance/electronic"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/icee-red-06-feb",
+   "cancelled": false
   },
   {
    "id": "edmtrain:552435",

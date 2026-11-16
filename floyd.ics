@@ -9,16 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4448827-francfalaaryeh@floyd.miami-calendars
-DTSTAMP:20261116T041808Z
-LAST-MODIFIED:20261116T041808Z
-SEQUENCE:0
+DTSTAMP:20261116T161811Z
+LAST-MODIFIED:20261116T161811Z
+SEQUENCE:1
 DTSTART:20261116T040000Z
 DTEND:20261116T100000Z
 SUMMARY:Franc Fala + Aryeh
 LOCATION:Floyd
-DESCRIPTION:Lineup: Franc Fala\, Aryeh\, Nii Tei\, Cado\nTags: afro house\,
-  minimal\, tech house\nAges: 21+\nhttps://link.dice.fm/nov15floyd\nhttps:/
- /edmtrain.com/miami-fl/franc-fala-aryeh-551329
+DESCRIPTION:Tags: afro house\, minimal\, tech house\nAges: 21+\nhttps://lin
+ k.dice.fm/nov15floyd
 URL:https://link.dice.fm/nov15floyd
 STATUS:CONFIRMED
 CATEGORIES:afro house,minimal,tech house
