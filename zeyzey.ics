@@ -753,15 +753,16 @@ CATEGORIES:indie/alternative
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-nervous-records-30-jan@zeyzey.miami-calendars
-DTSTAMP:20261113T161822Z
-LAST-MODIFIED:20261113T161822Z
-SEQUENCE:0
+DTSTAMP:20261116T041808Z
+LAST-MODIFIED:20261116T041808Z
+SEQUENCE:1
 DTSTART:20270131T010000Z
 DTEND:20270131T060000Z
 SUMMARY:DJ Minx + DJ Holographic (Free Entry)
 LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
- nervous-records-30-jan
+DESCRIPTION:Lineup: DJ Minx\, DJ Holographic\nTags: dance/electronic\nhttps
+ ://calendar.zeyzeymiami.com/shows/nervous-records-30-jan\nhttps://edmtrain
+ .com/miami-fl/dj-minx-dj-holographic-553298
 URL:https://calendar.zeyzeymiami.com/shows/nervous-records-30-jan
 STATUS:CONFIRMED
 CATEGORIES:dance/electronic

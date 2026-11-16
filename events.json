@@ -883,34 +883,6 @@
    "url": "https://ra.co/events/2580772"
   },
   {
-   "id": "shotgun:lilith-s-demise-and-slamwich-at-the-boombox-11-15",
-   "source": "shotgun",
-   "title": "Lilith’S Demise And Slamwich At The Boombox 11/15",
-   "artists": [],
-   "venue": "The Boombox Miami",
-   "venue_slug": "boombox",
-   "date": "2026-11-15",
-   "start": "2026-11-15T23:00:00+00:00",
-   "end": "2026-11-16T04:00:00+00:00",
-   "time_estimated": false,
-   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
-   "ages": "",
-   "price": "$22.70",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "Equinox Booking",
-   "description": "Equinox Booking Presents Lilith’s Demise Slamwich Necrotizing Nostophobia $15 adv / $20 day of 6 pm all ages",
-   "url": "https://shotgun.live/en/events/lilith-s-demise-and-slamwich-at-the-boombox-11-15",
-   "tickets": "General Admission $15 (sold out), Day of $20",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.7287781,
-    "longitude": -80.3169309
-   },
-   "created": "2026-10-21T22:21:54.000Z"
-  },
-  {
    "id": "19hz:4448808-sundancewrodrigu",
    "source": "19hz",
    "title": "Sundance w/ Rodriguez Jr. Hybrid Live",
@@ -1019,8 +991,8 @@
    ]
   },
   {
-   "id": "dice:6abe7eac09571500016a1283",
-   "source": "19hz+dice+edmtrain",
+   "id": "19hz:4448827-francfalaaryeh",
+   "source": "19hz+edmtrain",
    "title": "Franc Fala + Aryeh",
    "artists": [
     "Franc Fala",
@@ -1028,15 +1000,15 @@
     "Nii Tei",
     "Cado"
    ],
-   "venue": "Floyd Miami",
+   "venue": "Floyd",
    "venue_slug": "floyd",
    "date": "2026-11-15",
    "start": "2026-11-16T04:00:00+00:00",
    "end": "2026-11-16T10:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": "From $15",
+   "price": "$15+",
    "genres": [
     "afro house",
     "minimal",
@@ -1045,11 +1017,35 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6abe7eac09571500016a1283",
-   "cancelled": false,
+   "url": "https://link.dice.fm/nov15floyd",
    "alt_urls": [
-    "https://link.dice.fm/nov15floyd",
     "https://edmtrain.com/miami-fl/franc-fala-aryeh-551329"
+   ]
+  },
+  {
+   "id": "edmtrain:553273",
+   "source": "edmtrain",
+   "title": "Tony Guerra, Lousy Lover",
+   "artists": [
+    "Tony Guerra",
+    "Lousy Lover"
+   ],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-11-15",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "111 NE 20th St, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/bb95xg?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/tony-guerra-lousy-lover-553273"
    ]
   },
   {
@@ -1076,6 +1072,28 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/rodriguez-jr-543314"
    ]
+  },
+  {
+   "id": "shotgun:miami-jazz-jam-every-monday-18",
+   "source": "shotgun",
+   "title": "Miami Jazz Jam : Dave Daniel's 86th Birthday Edition",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-11-16",
+   "start": "2026-11-17T00:30:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "jazz"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/miami-jazz-jam-every-monday-18"
   },
   {
    "id": "19hz:4448911-georgeclanton",
@@ -1275,6 +1293,30 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/it-s-star-rock-n-roll-revue"
+  },
+  {
+   "id": "shotgun:open-mic-at-churchill-s-pub-20",
+   "source": "shotgun",
+   "title": "Open Mic : Every Wednesday",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-11-18",
+   "start": "2026-11-19T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "rock",
+    "indie",
+    "punk"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/open-mic-at-churchill-s-pub-20"
   },
   {
    "id": "shotgun:madradiomiami111826",
@@ -1565,6 +1607,30 @@
    "organizer": "",
    "description": "",
    "url": "https://www.facebook.com/events/1872625933915927/"
+  },
+  {
+   "id": "shotgun:vocal-jukebox-every-thursday-16",
+   "source": "shotgun",
+   "title": "Vocal Jukebox : Every Thursday",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-11-19",
+   "start": "2026-11-20T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "rock",
+    "indie",
+    "hip hop"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/vocal-jukebox-every-thursday-16"
   },
   {
    "id": "19hz:4449208-secretthursdaysb",
@@ -2378,7 +2444,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $50",
+   "price": "From $60",
    "genres": [
     "bass house",
     "tech house"
@@ -9954,6 +10020,30 @@
    ]
   },
   {
+   "id": "shotgun:lunasol-pres-kimonos-2",
+   "source": "shotgun",
+   "title": "Lunasol Pres. Kimonos",
+   "artists": [],
+   "venue": "Lunasol",
+   "venue_slug": null,
+   "date": "2026-12-05",
+   "start": "2026-12-06T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$34.20",
+   "genres": [
+    "deep house",
+    "afro house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/lunasol-pres-kimonos-2"
+  },
+  {
    "id": "shotgun:playlist-rewindd-disney-nickelodeon-throwback-miami",
    "source": "shotgun",
    "title": "Playlist Rewindd: Disney + Nickelodeon Throwback (Miami)",
@@ -15144,9 +15234,12 @@
   },
   {
    "id": "zeyzey:nervous-records-30-jan",
-   "source": "venue",
+   "source": "edmtrain+venue",
    "title": "DJ Minx + DJ Holographic (Free Entry)",
-   "artists": [],
+   "artists": [
+    "DJ Minx",
+    "DJ Holographic"
+   ],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2027-01-30",
@@ -15163,7 +15256,10 @@
    "organizer": "",
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/nervous-records-30-jan",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/dj-minx-dj-holographic-553298"
+   ]
   },
   {
    "id": "hardrock:212401",
@@ -16358,6 +16454,31 @@
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/the-growlers-city-club-live-08-apr",
    "cancelled": false
+  },
+  {
+   "id": "edmtrain:553280",
+   "source": "edmtrain",
+   "title": "George Clanton",
+   "artists": [
+    "George Clanton"
+   ],
+   "venue": "Las Rosas",
+   "venue_slug": null,
+   "date": "2027-04-08",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "2898 NW 7th Ave, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://ticketmaster.evyy.net/c/254533/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fid%2F14992723",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/george-clanton-553280"
+   ]
   },
   {
    "id": "zeyzey:john-splithoff-15-apr",
