@@ -695,6 +695,22 @@ URL:https://www.tixr.com/pr/edmtrain/170476
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:the-countdown-miami-at-bayfront-park-2026@shotgun.live
+DTSTAMP:20261117T221813Z
+LAST-MODIFIED:20261117T221813Z
+SEQUENCE:0
+DTSTART:20261231T220000Z
+DTEND:20270101T030000Z
+SUMMARY:The Countdown Miami At Bayfront Park
+LOCATION:Bayfront Park
+DESCRIPTION:Tags: hip hop\, reggae\, r&b\nhttps://shotgun.live/en/events/th
+ e-countdown-miami-at-bayfront-park-2026
+URL:https://shotgun.live/en/events/the-countdown-miami-at-bayfront-park-202
+ 6
+STATUS:CONFIRMED
+CATEGORIES:hip hop,reggae,r&b
+END:VEVENT
+BEGIN:VEVENT
 UID:edmtrain-523792@festivals.miami-calendars
 DTSTAMP:20260922T005009Z
 LAST-MODIFIED:20260922T005009Z

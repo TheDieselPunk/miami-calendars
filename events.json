@@ -221,7 +221,7 @@
   {
    "id": "shotgun:madradiomiami111826",
    "source": "19hz+shotgun",
-   "title": "Join The Local Signal ))): Paul Dudamel / Yusur / Soul Bro",
+   "title": "Join The Local Signal ))): Paul Dudamel / Yusur / Tomaz",
    "artists": [],
    "venue": "Mad Radio Miami",
    "venue_slug": "mad-radio",
@@ -1268,7 +1268,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "Free",
+   "price": "$12.00",
    "genres": [],
    "genres_inferred": false,
    "organizer": "",
@@ -2761,7 +2761,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$17.03",
+   "price": "$22.70",
    "genres": [],
    "genres_inferred": false,
    "organizer": "",
@@ -2847,7 +2847,7 @@
   {
    "id": "dice:6a079483f03f2d0001135fb0",
    "source": "dice",
-   "title": "Headache",
+   "title": "Ground at The Vault: Headache",
    "artists": [],
    "venue": "The Ground Miami",
    "venue_slug": "the-ground",
@@ -2920,7 +2920,7 @@
   {
    "id": "dice:6abe81edcf1f4100017bc3b4",
    "source": "19hz+dice",
-   "title": "Divorcée: Greg Wilson",
+   "title": "Floyd at The Vault: Divorcée presents Greg Wilson",
    "artists": [],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
@@ -3329,6 +3329,29 @@
    ]
   },
   {
+   "id": "shotgun:sixto-rein-thanksgiving-eve-social-high-club",
+   "source": "shotgun",
+   "title": "Sixto Rein By Social High Club (Thanksgiving Eve)",
+   "artists": [],
+   "venue": "EDGE MIAMI",
+   "venue_slug": null,
+   "date": "2026-11-25",
+   "start": "2026-11-26T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$20.00",
+   "genres": [
+    "reggaeton",
+    "latin"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/sixto-rein-thanksgiving-eve-social-high-club"
+  },
+  {
    "id": "dice:6a8b4d68fec4480001a68ffe",
    "source": "19hz+dice+edmtrain",
    "title": "Helena Hauff",
@@ -3487,6 +3510,32 @@
    "url": "https://shotgun.live/en/events/after-thanksgiving"
   },
   {
+   "id": "shotgun:c3trlroom-19",
+   "source": "edmtrain+shotgun",
+   "title": "Aire: Orel Sasportas (Il), Rodrigo Vieira, Bagdelan",
+   "artists": [
+    "Rodrigo Vieira",
+    "Sophie Du Futur"
+   ],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-11-26",
+   "start": "2026-11-27T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$20.00",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/c3trlroom-19",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/rodrigo-vieira-sophie-du-futur-553404"
+   ]
+  },
+  {
    "id": "shotgun:madradiomiami112626",
    "source": "19hz+shotgun",
    "title": "Femme Frequency: Mary Zander / La Vega",
@@ -3541,32 +3590,6 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aecad8e4f38a6000158d762"
-  },
-  {
-   "id": "edmtrain:553404",
-   "source": "edmtrain",
-   "title": "Rodrigo Vieira, Sophie Du Futur",
-   "artists": [
-    "Rodrigo Vieira",
-    "Sophie Du Futur"
-   ],
-   "venue": "AIRE Miami",
-   "venue_slug": null,
-   "date": "2026-11-26",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "111 NE 20th St, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/after-thanksgiving?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/rodrigo-vieira-sophie-du-futur-553404"
-   ]
   },
   {
    "id": "edmtrain:550896",
@@ -3746,7 +3769,7 @@
   {
    "id": "hardrock:206020",
    "source": "venue",
-   "title": "DAER Nightclub",
+   "title": "Quavo",
    "artists": [],
    "venue": "DAER Nightclub",
    "venue_slug": "daer",
@@ -3762,7 +3785,7 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/206020",
-   "generic_title": true
+   "generic_title": false
   },
   {
    "id": "19hz:4449976-sanderkleinenber",
@@ -5203,29 +5226,6 @@
    "url": "https://partiful.com/e/2v5QFySV4e8h9bcvzBct"
   },
   {
-   "id": "shotgun:hardcore-deathcore-show",
-   "source": "shotgun",
-   "title": "Hardcore/Deathcore Show",
-   "artists": [],
-   "venue": "Fort Lauderdale",
-   "venue_slug": null,
-   "date": "2026-11-29",
-   "start": "2026-11-30T00:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$10.22",
-   "genres": [
-    "hardcore",
-    "metal"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/hardcore-deathcore-show"
-  },
-  {
    "id": "19hz:4450159-sundayslazarocas",
    "source": "19hz+edmtrain",
    "title": "Sundays: Lazaro Casanova, Nicole Fiallo, Spyridon",
@@ -5895,6 +5895,30 @@
    "url": "https://shotgun.live/en/events/c3trlroom-17"
   },
   {
+   "id": "shotgun:t-puse-miami-art-week",
+   "source": "shotgun",
+   "title": "T-Puse & More (Miami Art Week)",
+   "artists": [],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-12-02",
+   "start": "2026-12-03T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.70",
+   "genres": [
+    "indie dance",
+    "afro house",
+    "progressive house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/t-puse-miami-art-week"
+  },
+  {
    "id": "shotgun:art-basel-shotgun-takeover-fooq-s-miami",
    "source": "19hz+edmtrain+shotgun",
    "title": "Art Basel Shotgun Takeover @ Fooq's Miami",
@@ -6479,7 +6503,7 @@
   {
    "id": "zeyzey:through-the-wall-afters-with-rochelle-jordan-live-special-guests-03-dec",
    "source": "19hz+venue",
-   "title": "Beatport Live: Rochelle Jordan (LIVE), salute, Todd Edwards, Hercule & Love Affair (DJ), CHRYSALIS",
+   "title": "Beatport Live: Rochelle Jordan (LIVE), salute, Todd Edwards, Hercules & Love Affair (DJ), CHRYSALIS",
    "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
@@ -8737,6 +8761,30 @@
    "cancelled": false
   },
   {
+   "id": "shotgun:churchill-s-pub-s-basel-destruction",
+   "source": "shotgun",
+   "title": "Churchill's Pub Basel Destruction",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-12-05",
+   "start": "2026-12-06T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$17.33",
+   "genres": [
+    "new wave",
+    "post-punk",
+    "rock"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/churchill-s-pub-s-basel-destruction"
+  },
+  {
    "id": "shotgun:drumspleasefab",
    "source": "shotgun",
    "title": "Drumspleasefab",
@@ -9243,6 +9291,39 @@
    "url": "https://posh.vip/e/marten-lou-maxi-meraki-1",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/marten-lou-maxi-meraki-549934"
+   ]
+  },
+  {
+   "id": "edmtrain:553861",
+   "source": "edmtrain",
+   "title": "Solomun, Pachanga Boys, Magdalena, Miluhska, Max Stern, Siegel",
+   "artists": [
+    "Solomun",
+    "Pachanga Boys",
+    "Magdalena",
+    "Miluhska",
+    "Max Stern",
+    "Siegel"
+   ],
+   "venue": "Club Space",
+   "venue_slug": "club-space",
+   "date": "2026-12-05",
+   "start": "2026-12-06T04:00:00+00:00",
+   "end": "2026-12-06T18:00:00+00:00",
+   "time_estimated": true,
+   "address": "Heart, 34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://shorturl.at/j4pA0",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/solomun-pachanga-boys-553861"
    ]
   },
   {
@@ -11249,6 +11330,30 @@
    "url": "https://shotgun.live/en/events/the-hall-club-monkey-safari"
   },
   {
+   "id": "shotgun:misifu-fiin-dec-18",
+   "source": "shotgun",
+   "title": "Misifu By Fiin",
+   "artists": [],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-12-18",
+   "start": "2026-12-19T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.70",
+   "genres": [
+    "indie dance",
+    "house",
+    "afro house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/misifu-fiin-dec-18"
+  },
+  {
    "id": "hardrock:207837",
    "source": "venue",
    "title": "DAER Nightclub",
@@ -12208,7 +12313,7 @@
   {
    "id": "dice:6aea21817426be0001f0121d",
    "source": "19hz+dice+edmtrain",
-   "title": "WHYNOTUS",
+   "title": "WHYNOTUS: Nic Fanciulli + Malone Morez + Calussa + Tony Guerra",
    "artists": [
     "Nic Fanciulli",
     "Malóne Morez",
@@ -12596,6 +12701,30 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/dreamland-new-years-festival-523791"
    ]
+  },
+  {
+   "id": "shotgun:the-countdown-miami-at-bayfront-park-2026",
+   "source": "shotgun",
+   "title": "The Countdown Miami At Bayfront Park",
+   "artists": [],
+   "venue": "Bayfront Park",
+   "venue_slug": "festivals",
+   "date": "2026-12-31",
+   "start": "2026-12-31T22:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "hip hop",
+    "reggae",
+    "r&b"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/the-countdown-miami-at-bayfront-park-2026"
   },
   {
    "id": "19hz:4453231-chusceballosdjch",
@@ -13217,6 +13346,30 @@
    ]
   },
   {
+   "id": "dice:6afc8ddf969e980001653623",
+   "source": "dice",
+   "title": "horsegiirL",
+   "artists": [],
+   "venue": "Factory Town",
+   "venue_slug": "factory-town",
+   "date": "2027-01-01",
+   "start": "2027-01-02T03:00:00+00:00",
+   "end": "2027-01-02T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6afc8ddf969e980001653623",
+   "cancelled": false
+  },
+  {
    "id": "hardrock:210867",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -13600,7 +13753,7 @@
   {
    "id": "zeyzey:omni-soundspace-presents-black-rave-culture-shekdash-sky-jetta-09-jan",
    "source": "19hz+edmtrain+venue",
-   "title": "Black Rave Culture, Shekdash, Sky Jetta",
+   "title": "Black Rave Culture, Shekdash, Sky Jetta (Free Entry)",
    "artists": [
     "Black Rave Culture",
     "shekdash",
@@ -13614,7 +13767,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "18+",
-   "price": "free w/rsvp b4 11pm / $19+",
+   "price": "Free",
    "genres": [
     "baile funk",
     "club music",
