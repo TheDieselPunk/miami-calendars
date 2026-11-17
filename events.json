@@ -2,11 +2,9 @@
  "events": [
   {
    "id": "19hz:4448911-georgeclanton",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "George Clanton",
-   "artists": [
-    "George Clanton"
-   ],
+   "artists": [],
    "venue": "Las Rosas",
    "venue_slug": null,
    "date": "2026-11-16",
@@ -23,10 +21,7 @@
    "genres_inferred": false,
    "organizer": "Breakeven Booking",
    "description": "",
-   "url": "https://www.ticketweb.com/event/id/14992723",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/george-clanton-527103"
-   ]
+   "url": "https://www.ticketweb.com/event/id/14992723"
   },
   {
    "id": "shotgun:blocofest",
@@ -1469,8 +1464,11 @@
   {
    "id": "edmtrain:551894",
    "source": "edmtrain",
-   "title": "NINE1NINE Friday Night",
-   "artists": [],
+   "title": "Gta Vi Official Launch Party: ANOTR, JT",
+   "artists": [
+    "ANOTR",
+    "JT"
+   ],
    "venue": "E11EVEN",
    "venue_slug": null,
    "date": "2026-11-20",
@@ -1486,7 +1484,7 @@
    "description": "",
    "url": "https://speakeasygo.com/event/EVE-M9KYLK?t=edmtrain",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/nine1nine-friday-night-551894"
+    "https://edmtrain.com/miami-fl/gta-vi-official-launch-party-anotr-551894"
    ]
   },
   {
@@ -8182,6 +8180,32 @@
    ]
   },
   {
+   "id": "edmtrain:553686",
+   "source": "edmtrain",
+   "title": "Blond:ish, Sama",
+   "artists": [
+    "Blond:ish",
+    "Sama"
+   ],
+   "venue": "Mynt Lounge",
+   "venue_slug": null,
+   "date": "2026-12-04",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1921 Collins Ave, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://speakeasygo.com/event/EVE-514ZB4?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/blond-ish-sama-dc-553686"
+   ]
+  },
+  {
    "id": "edmtrain:549930",
    "source": "edmtrain",
    "title": "Gorgon City, Dombresky (Disco Dom Set)",
@@ -9942,6 +9966,32 @@
    ]
   },
   {
+   "id": "edmtrain:553653",
+   "source": "edmtrain",
+   "title": "Psycho Bunny Art Week Closing Party: Lucy Guo, JNR Choi",
+   "artists": [
+    "Lucy Guo",
+    "JNR Choi"
+   ],
+   "venue": "The Goodtime Hotel",
+   "venue_slug": null,
+   "date": "2026-12-06",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "601 Washington Ave, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://goodtimehotelpoolparty.com/events/sunday-december-6th-at-goodtime-hotel-pool-party",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/psycho-bunny-art-week-closing-party-lucy-guo-553653"
+   ]
+  },
+  {
    "id": "edmtrain:552436",
    "source": "edmtrain",
    "title": "Damaged Goods",
@@ -10827,6 +10877,36 @@
    "url": "https://www.ticketweb.com/event/id/14322674",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/sonny-fodera-537637"
+   ]
+  },
+  {
+   "id": "edmtrain:553682",
+   "source": "edmtrain",
+   "title": "Lunasol In Bloom - AW Events: Migue b2b GUTO, Lolo b2b CHACH, BECO, NATZ",
+   "artists": [
+    "Migue",
+    "GUTO",
+    "Lolo",
+    "CHACH",
+    "BECO",
+    "NATZ"
+   ],
+   "venue": "Lunasol",
+   "venue_slug": null,
+   "date": "2026-12-12",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "158 NW 24th St, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/lunasol-in-bloom-aw-events?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/lunasol-in-bloom-aw-events-migue-553682"
    ]
   },
   {
@@ -13229,6 +13309,27 @@
    "url": "https://dice.fm/event/xe82rm-loud-luxury-new-years-weekend-miami-2nd-jan-bronco-miami-tickets"
   },
   {
+   "id": "zeyzey:party-pupils-02-jan",
+   "source": "venue",
+   "title": "Party Pupils",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2027-01-02",
+   "start": "2027-01-03T01:00:00+00:00",
+   "end": "2027-01-03T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/party-pupils-02-jan",
+   "cancelled": false
+  },
+  {
    "id": "hardrock:208379",
    "source": "venue",
    "title": "DAER Nightclub",
@@ -13857,6 +13958,31 @@
    "alt_urls": [
     "https://dice.fm/event/6daxpq-infected-mushroom-16th-jan-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/im-game-tour-infected-mushroom-511448"
+   ]
+  },
+  {
+   "id": "edmtrain:553721",
+   "source": "edmtrain",
+   "title": "Two Friends",
+   "artists": [
+    "Two Friends"
+   ],
+   "venue": "LIV Miami",
+   "venue_slug": null,
+   "date": "2027-01-16",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "4441 Collins Ave, Miami Beach, FL 33140, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.livnightclub.com/miami/event/EVE112156200020270116/two-friends/",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/two-friends-553721"
    ]
   },
   {
@@ -15686,6 +15812,27 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aea99dd2c054000010bb0c6",
+   "cancelled": false
+  },
+  {
+   "id": "zeyzey:almost-monday-06-apr",
+   "source": "venue",
+   "title": "almost monday",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2027-04-06",
+   "start": "2027-04-06T23:00:00+00:00",
+   "end": "2027-04-07T05:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/almost-monday-06-apr",
    "cancelled": false
   },
   {
