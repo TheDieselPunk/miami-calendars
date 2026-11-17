@@ -58,7 +58,7 @@
   "slug": "factory-town",
   "name": "Factory Town",
   "file": "factory-town.ics",
-  "events": 7,
+  "events": 8,
   "estimated_times": 0,
   "next": "2026-12-02",
   "sources": [
@@ -72,8 +72,8 @@
   "slug": "kemistry",
   "name": "Kemistry (Fort Lauderdale)",
   "file": "kemistry.ics",
-  "events": 19,
-  "estimated_times": 1,
+  "events": 18,
+  "estimated_times": 0,
   "next": "2026-11-20",
   "sources": [
    "19hz",

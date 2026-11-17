@@ -1157,11 +1157,9 @@
   },
   {
    "id": "19hz:4449300-deivschonfelamat",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Deiv Schon, Fela, Mati Alfonso",
-   "artists": [
-    "Deiv Schon"
-   ],
+   "artists": [],
    "venue": "Upside",
    "venue_slug": null,
    "date": "2026-11-20",
@@ -1178,10 +1176,7 @@
    "genres_inferred": false,
    "organizer": "Apex",
    "description": "",
-   "url": "https://www.eventbrite.com/e/deiv-schon-tickets-2004193857780",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/deiv-schon-549464"
-   ]
+   "url": "https://www.eventbrite.com/e/deiv-schon-tickets-2004193857780"
   },
   {
    "id": "19hz:4449304-clubperreobozito",
@@ -1770,6 +1765,32 @@
    ]
   },
   {
+   "id": "edmtrain:553607",
+   "source": "edmtrain",
+   "title": "San Dee, Rohan Alyan",
+   "artists": [
+    "San Dee",
+    "Rohan Alyan"
+   ],
+   "venue": "The Studio at Maple & Ash",
+   "venue_slug": null,
+   "date": "2026-11-20",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "652 NE 2nd Ave 2nd floor, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/w8358p?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/san-dee-rohan-alyan-553607"
+   ]
+  },
+  {
    "id": "hardrock:205539",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -2313,9 +2334,11 @@
   },
   {
    "id": "shotgun:nativos-br-nov-21",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Nativos (Br) & More",
-   "artists": [],
+   "artists": [
+    "Nativos"
+   ],
    "venue": "EDGE MIAMI",
    "venue_slug": null,
    "date": "2026-11-21",
@@ -2326,14 +2349,17 @@
    "ages": "",
    "price": "$20.00",
    "genres": [
-    "progressive house",
     "afro house",
-    "house"
+    "house",
+    "progressive house"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/nativos-br-nov-21"
+   "url": "https://shotgun.live/en/events/nativos-br-nov-21",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/nativos-br-553476"
+   ]
   },
   {
    "id": "dice:6adb9490e08a040001e559ea",
@@ -2363,9 +2389,9 @@
    ]
   },
   {
-   "id": "dice:6a64b93c7b94a300012b1b10",
-   "source": "19hz+dice+edmtrain",
-   "title": "STAR MONSTER",
+   "id": "19hz:4449400-starmonster",
+   "source": "19hz+edmtrain",
+   "title": "Star Monster",
    "artists": [
     "Star Monster"
    ],
@@ -2375,9 +2401,9 @@
    "start": "2026-11-22T03:00:00+00:00",
    "end": "2026-11-22T09:00:00+00:00",
    "time_estimated": false,
-   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "address": "Fort Lauderdale",
    "ages": "18+",
-   "price": "From $13",
+   "price": "$13.22",
    "genres": [
     "dubstep",
     "trap"
@@ -2386,9 +2412,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/v3xw57-star-monster-21st-nov-kemistry-fort-lauderdale-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/v3xw57-star-monster-21st-nov-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/star-monster-526019"
    ]
   },
@@ -4876,9 +4900,9 @@
    ]
   },
   {
-   "id": "dice:6a60e813170f000001bd0743",
-   "source": "19hz+dice+edmtrain",
-   "title": "SPACE WIZARD",
+   "id": "19hz:4450072-spacewizard",
+   "source": "19hz+edmtrain",
+   "title": "Space Wizard",
    "artists": [
     "Space Wizard",
     "XaeboR"
@@ -4889,9 +4913,9 @@
    "start": "2026-11-29T03:00:00+00:00",
    "end": "2026-11-29T09:00:00+00:00",
    "time_estimated": false,
-   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "address": "Fort Lauderdale",
    "ages": "18+",
-   "price": "From $13",
+   "price": "$13.22",
    "genres": [
     "bass music",
     "dubstep"
@@ -4900,9 +4924,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/xe3wmk-space-wizard-28th-nov-kemistry-fort-lauderdale-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/xe3wmk-space-wizard-28th-nov-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/space-wizard-xaebor-526433"
    ]
   },
@@ -8865,30 +8887,6 @@
    "url": "https://dice.fm/event/6aae92124c55e1000198df1c"
   },
   {
-   "id": "dice:6af4f399f0373b00013f8c8f",
-   "source": "dice",
-   "title": "ONYX",
-   "artists": [],
-   "venue": "Kemistry",
-   "venue_slug": "kemistry",
-   "date": "2026-12-05",
-   "start": "2026-12-06T00:00:00+00:00",
-   "end": "2026-12-06T04:00:00+00:00",
-   "time_estimated": false,
-   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
-   "ages": "",
-   "price": "From $33",
-   "genres": [
-    "bass",
-    "dubstep"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6af4f399f0373b00013f8c8f",
-   "cancelled": false
-  },
-  {
    "id": "shotgun:drumspleasefab",
    "source": "shotgun",
    "title": "Drumspleasefab",
@@ -9238,7 +9236,8 @@
    "source": "19hz+dice+edmtrain",
    "title": "Basel: Francis Mercier",
    "artists": [
-    "Francis Mercier"
+    "Francis Mercier",
+    "Rara"
    ],
    "venue": "Jolene Sound Room Miami",
    "venue_slug": "jolene",
@@ -9260,7 +9259,7 @@
    "cancelled": false,
    "alt_urls": [
     "https://dice.fm/event/6ab446f49e8bcf0001f96b29",
-    "https://edmtrain.com/miami-fl/francis-mercier-539605"
+    "https://edmtrain.com/miami-fl/francis-mercier-rara-539605"
    ]
   },
   {
@@ -11005,6 +11004,32 @@
    ]
   },
   {
+   "id": "edmtrain:553553",
+   "source": "edmtrain",
+   "title": "Green Velvet, Justin Martin",
+   "artists": [
+    "Green Velvet",
+    "Justin Martin"
+   ],
+   "venue": "Sable Miami",
+   "venue_slug": null,
+   "date": "2026-12-12",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "2219 NW 2nd Ave, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/99ex77?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/green-velvet-justin-martin-553553"
+   ]
+  },
+  {
    "id": "edmtrain:546672",
    "source": "edmtrain",
    "title": "Rhemmasfz, Randy Derricott / DJ RANZ",
@@ -11366,9 +11391,9 @@
    ]
   },
   {
-   "id": "dice:6a6267e25c999a000109f8ae",
-   "source": "19hz+dice+edmtrain",
-   "title": "THE RESISTANCE",
+   "id": "19hz:4451992-theresistanceris",
+   "source": "19hz+edmtrain",
+   "title": "The Resistance: Rise of the Shadowcell, Automhate, Vyle",
    "artists": [
     "The Resistance",
     "Automhate (Vyle Set)"
@@ -11379,9 +11404,9 @@
    "start": "2026-12-19T03:00:00+00:00",
    "end": "2026-12-19T09:00:00+00:00",
    "time_estimated": false,
-   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "address": "Fort Lauderdale",
    "ages": "18+",
-   "price": "From $40",
+   "price": "$39.67",
    "genres": [
     "bass music",
     "dubstep"
@@ -11390,9 +11415,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/7dxyd9-the-resistance-18th-dec-kemistry-fort-lauderdale-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/7dxyd9-the-resistance-18th-dec-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/rise-of-the-shadowcell-the-resistance-524125"
    ]
   },
@@ -13255,6 +13278,37 @@
    "generic_title": true
   },
   {
+   "id": "dice:6afb73773dae3000018cf76d",
+   "source": "dice+edmtrain",
+   "title": "TAPE B AT FACTORY TOWN",
+   "artists": [
+    "Tape B",
+    "Daily Bread",
+    "Seth David"
+   ],
+   "venue": "Factory Town",
+   "venue_slug": "factory-town",
+   "date": "2027-01-01",
+   "start": "2027-01-02T03:00:00+00:00",
+   "end": "2027-01-02T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6afb73773dae3000018cf76d",
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/tape-b-daily-bread-553432"
+   ]
+  },
+  {
    "id": "hardrock:210867",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -13794,8 +13848,8 @@
    ]
   },
   {
-   "id": "edmtrain:553353",
-   "source": "edmtrain",
+   "id": "dice:6af9273325a1a100013ad38c",
+   "source": "dice+edmtrain",
    "title": "LAYZ",
    "artists": [
     "LAYZ"
@@ -13805,10 +13859,10 @@
    "date": "2027-01-15",
    "start": "2027-01-16T03:00:00+00:00",
    "end": "2027-01-16T09:00:00+00:00",
-   "time_estimated": true,
-   "address": "307 SW 2nd St, Fort Lauderdale, FL 33312, USA",
+   "time_estimated": false,
+   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "",
-   "price": "",
+   "price": "From $26",
    "genres": [
     "bass",
     "dubstep"
@@ -13816,7 +13870,8 @@
    "genres_inferred": true,
    "organizer": "",
    "description": "",
-   "url": "https://shorturl.at/7jeS7",
+   "url": "https://dice.fm/event/6af9273325a1a100013ad38c",
+   "cancelled": false,
    "alt_urls": [
     "https://edmtrain.com/fort-lauderdale-fl/layz-553353"
    ]

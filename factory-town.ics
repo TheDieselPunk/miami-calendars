@@ -118,6 +118,22 @@ STATUS:CONFIRMED
 CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
+UID:dice-6afb73773dae3000018cf76d@factory-town.miami-calendars
+DTSTAMP:20261117T041807Z
+LAST-MODIFIED:20261117T041807Z
+SEQUENCE:0
+DTSTART:20270102T030000Z
+DTEND:20270102T090000Z
+SUMMARY:TAPE B AT FACTORY TOWN
+LOCATION:Factory Town\, 4800 NW 37th Ave\, Miami\, FL 33142\, USA
+DESCRIPTION:Lineup: Tape B\, Daily Bread\, Seth David\nTags (guess): house
+ \, techno\nhttps://dice.fm/event/6afb73773dae3000018cf76d\nhttps://edmtrai
+ n.com/miami-fl/tape-b-daily-bread-553432
+URL:https://dice.fm/event/6afb73773dae3000018cf76d
+STATUS:CONFIRMED
+CATEGORIES:house,techno
+END:VEVENT
+BEGIN:VEVENT
 UID:dice-6afa72145e983f0001babaf8@factory-town.miami-calendars
 DTSTAMP:20261116T221812Z
 LAST-MODIFIED:20261116T221812Z
