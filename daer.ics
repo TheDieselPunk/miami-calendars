@@ -8,21 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4448784-sunkisssunday@daer.miami-calendars
-DTSTAMP:20261116T101806Z
-LAST-MODIFIED:20261116T101806Z
-SEQUENCE:0
-DTSTART:20261115T170000Z
-DTEND:20261116T000000Z
-SUMMARY:Sunkiss Sunday
-LOCATION:Daer Dayclub\, Hollywood
-DESCRIPTION:Ages: 21+\nhttps://www.tixr.com/groups/daerdayclubsouthflorida/
- events/sunday-november-15th-daer-dayclub-205537
-URL:https://www.tixr.com/groups/daerdayclubsouthflorida/events/sunday-novem
- ber-15th-daer-dayclub-205537
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:hardrock-206018@daer.miami-calendars
 DTSTAMP:20261029T221806Z
 LAST-MODIFIED:20261029T221806Z

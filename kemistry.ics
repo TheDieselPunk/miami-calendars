@@ -26,14 +26,15 @@ STATUS:CONFIRMED
 CATEGORIES:drum and bass,jungle
 END:VEVENT
 BEGIN:VEVENT
-UID:19hz-4449400-starmonster@kemistry.miami-calendars
-DTSTAMP:20261117T041807Z
-LAST-MODIFIED:20261117T041807Z
+UID:dice-6a64b93c7b94a300012b1b10@kemistry.miami-calendars
+DTSTAMP:20261117T101805Z
+LAST-MODIFIED:20261117T101805Z
 SEQUENCE:0
 DTSTART:20261122T030000Z
 DTEND:20261122T090000Z
-SUMMARY:Star Monster
-LOCATION:Kemistry\, Fort Lauderdale
+SUMMARY:STAR MONSTER
+LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
+ 312\, United States
 DESCRIPTION:Lineup: Star Monster\nTags: dubstep\, trap\nAges: 18+\nhttps://
  dice.fm/event/v3xw57-star-monster-21st-nov-kemistry-fort-lauderdale-ticket
  s\nhttps://edmtrain.com/fort-lauderdale-fl/star-monster-526019
@@ -61,14 +62,15 @@ STATUS:CONFIRMED
 CATEGORIES:techno
 END:VEVENT
 BEGIN:VEVENT
-UID:19hz-4450072-spacewizard@kemistry.miami-calendars
-DTSTAMP:20261117T041807Z
-LAST-MODIFIED:20261117T041807Z
+UID:dice-6a60e813170f000001bd0743@kemistry.miami-calendars
+DTSTAMP:20261117T101805Z
+LAST-MODIFIED:20261117T101805Z
 SEQUENCE:0
 DTSTART:20261129T030000Z
 DTEND:20261129T090000Z
-SUMMARY:Space Wizard
-LOCATION:Kemistry\, Fort Lauderdale
+SUMMARY:SPACE WIZARD
+LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
+ 312\, United States
 DESCRIPTION:Lineup: Space Wizard\, XaeboR\nTags: bass music\, dubstep\nAges
  : 18+\nhttps://dice.fm/event/xe3wmk-space-wizard-28th-nov-kemistry-fort-la
  uderdale-tickets\nhttps://edmtrain.com/fort-lauderdale-fl/space-wizard-xae
@@ -116,6 +118,22 @@ STATUS:CONFIRMED
 CATEGORIES:bass,dubstep
 END:VEVENT
 BEGIN:VEVENT
+UID:dice-6af4f399f0373b00013f8c8f@kemistry.miami-calendars
+DTSTAMP:20261117T101805Z
+LAST-MODIFIED:20261117T101805Z
+SEQUENCE:0
+DTSTART:20261206T000000Z
+DTEND:20261206T040000Z
+SUMMARY:ONYX
+LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
+ 312\, United States
+DESCRIPTION:Tags (guess): bass\, dubstep\nhttps://dice.fm/event/6af4f399f03
+ 73b00013f8c8f
+URL:https://dice.fm/event/6af4f399f0373b00013f8c8f
+STATUS:CONFIRMED
+CATEGORIES:bass,dubstep
+END:VEVENT
+BEGIN:VEVENT
 UID:dice-6af2fa5348bd3f00015b723a@kemistry.miami-calendars
 DTSTAMP:20261112T041831Z
 LAST-MODIFIED:20261112T041831Z
@@ -150,14 +168,15 @@ STATUS:CONFIRMED
 CATEGORIES:bass,dubstep
 END:VEVENT
 BEGIN:VEVENT
-UID:19hz-4451992-theresistanceris@kemistry.miami-calendars
-DTSTAMP:20261117T041807Z
-LAST-MODIFIED:20261117T041807Z
+UID:dice-6a6267e25c999a000109f8ae@kemistry.miami-calendars
+DTSTAMP:20261117T101805Z
+LAST-MODIFIED:20261117T101805Z
 SEQUENCE:0
 DTSTART:20261219T030000Z
 DTEND:20261219T090000Z
-SUMMARY:The Resistance: Rise of the Shadowcell\, Automhate\, Vyle
-LOCATION:Kemistry\, Fort Lauderdale
+SUMMARY:THE RESISTANCE
+LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
+ 312\, United States
 DESCRIPTION:Lineup: The Resistance\, Automhate (Vyle Set)\nTags: bass music
  \, dubstep\nAges: 18+\nhttps://dice.fm/event/7dxyd9-the-resistance-18th-de
  c-kemistry-fort-lauderdale-tickets\nhttps://edmtrain.com/fort-lauderdale-f

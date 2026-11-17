@@ -8,23 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:tablelist-390cf1e657034a3e@zeyzey.miami-calendars
-DTSTAMP:20261116T161811Z
-LAST-MODIFIED:20261116T161811Z
-SEQUENCE:1
-DTSTART:20261115T200000Z
-DTEND:20261116T010000Z
-SUMMARY:Club 1BD Miami (Day Party)
-LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: hip-hop\, house\, jersey club\, r&b\nAges: 21+\nhttps://b
- uy.tablelist.com/e/390cf1e657034a3e\nhttps://dice.fm/partner/tickets/event
- /ryk7xv-club-1bd-miami-ft-chvmeleon-hunny-bee-pressure-point-spinelli-15th
- -nov-zeyzey-miami-tickets
-URL:https://buy.tablelist.com/e/390cf1e657034a3e
-STATUS:CONFIRMED
-CATEGORIES:hip-hop,house,jersey club,r&b
-END:VEVENT
-BEGIN:VEVENT
 UID:tablelist-8ba448be22306de7@zeyzey.miami-calendars
 DTSTAMP:20261101T101757Z
 LAST-MODIFIED:20261101T101757Z
