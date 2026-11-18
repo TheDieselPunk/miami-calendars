@@ -24,9 +24,9 @@ CATEGORIES:big room house,drag,electro house,pop,trap
 END:VEVENT
 BEGIN:VEVENT
 UID:edmtrain-551215@festivals.miami-calendars
-DTSTAMP:20261111T041827Z
-LAST-MODIFIED:20261111T041827Z
-SEQUENCE:0
+DTSTAMP:20261118T161815Z
+LAST-MODIFIED:20261118T161815Z
+SEQUENCE:1
 DTSTART:20261121T200000Z
 DTEND:20261122T070000Z
 SUMMARY:Grand Theft Auto VI: Travis Scott\, Don Toliver\, Kodak Black\, SoF
@@ -41,7 +41,7 @@ DESCRIPTION:Lineup: Travis Scott\, Don Toliver\, Kodak Black\, SoFaygo\, Ca
  auw Alejandro\nTimes are an estimate from Festivals & one-offs's usual hou
  rs - the listing has no start time yet. Check the link.\nhttps://dice.fm/e
  vent/783n2v?pid=d6342b83\nhttps://edmtrain.com/miami-fl/grand-theft-auto-v
- i-travis-scott-551215
+ i-551215
 URL:https://dice.fm/event/783n2v?pid=d6342b83
 STATUS:CONFIRMED
 END:VEVENT

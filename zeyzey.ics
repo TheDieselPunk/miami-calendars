@@ -834,6 +834,21 @@ STATUS:CONFIRMED
 CATEGORIES:r&b/soul
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-mike-dunn-27-feb@zeyzey.miami-calendars
+DTSTAMP:20261118T161815Z
+LAST-MODIFIED:20261118T161815Z
+SEQUENCE:0
+DTSTART:20270228T010000Z
+DTEND:20270228T060000Z
+SUMMARY:Mike Dunn (Free Entry)
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
+ mike-dunn-27-feb
+URL:https://calendar.zeyzeymiami.com/shows/mike-dunn-27-feb
+STATUS:CONFIRMED
+CATEGORIES:dance/electronic
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-shaheri-06-mar@zeyzey.miami-calendars
 DTSTAMP:20261102T221757Z
 LAST-MODIFIED:20261102T221757Z

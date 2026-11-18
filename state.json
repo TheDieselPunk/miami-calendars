@@ -800,9 +800,9 @@
   "modified": "2026-10-28T10:18:12+00:00"
  },
  "edmtrain-551215@festivals.miami-calendars": {
-  "hash": "a867c531a5b7f1a2",
-  "seq": 0,
-  "modified": "2026-11-11T04:18:27+00:00"
+  "hash": "547e438390d55fdd",
+  "seq": 1,
+  "modified": "2026-11-18T16:18:15+00:00"
  },
  "edmtrain-551432@festivals.miami-calendars": {
   "hash": "b00a64e1ce87e8af",
@@ -993,6 +993,11 @@
   "hash": "808a74ca06528947",
   "seq": 1,
   "modified": "2026-09-21T20:07:29+00:00"
+ },
+ "hardrock-207892@daer.miami-calendars": {
+  "hash": "424309c221bd35e5",
+  "seq": 0,
+  "modified": "2026-11-18T16:18:15+00:00"
  },
  "hardrock-207897@daer.miami-calendars": {
   "hash": "ee2652d033165bc1",
@@ -1463,6 +1468,11 @@
   "hash": "d28e124b26b6fdcb",
   "seq": 1,
   "modified": "2026-10-06T22:18:30+00:00"
+ },
+ "zeyzey-mike-dunn-27-feb@zeyzey.miami-calendars": {
+  "hash": "b8ccdc4fa8faec5b",
+  "seq": 0,
+  "modified": "2026-11-18T16:18:15+00:00"
  },
  "zeyzey-nervous-records-30-jan@zeyzey.miami-calendars": {
   "hash": "7b7335b456491c99",
