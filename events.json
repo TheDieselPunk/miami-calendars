@@ -41,7 +41,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$17.03",
+   "price": "$22.70",
    "genres": [
     "folk",
     "hard rock",
@@ -79,26 +79,6 @@
    "organizer": "",
    "description": "",
    "url": "https://speakeasygo.com/E11EVEN/IRON-LYON-AT-E11EVEN"
-  },
-  {
-   "id": "shotgun:comedy-night-at-churchill-s-11",
-   "source": "shotgun",
-   "title": "Comedy Night At Churchill's",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-11-17",
-   "start": "2026-11-18T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/comedy-night-at-churchill-s-11"
   },
   {
    "id": "edmtrain:552221",
@@ -220,9 +200,11 @@
   },
   {
    "id": "shotgun:madradiomiami111826",
-   "source": "19hz+shotgun",
+   "source": "19hz+edmtrain+shotgun",
    "title": "Join The Local Signal ))): Paul Dudamel / Yusur / Tomaz",
-   "artists": [],
+   "artists": [
+    "Paul Dudamel"
+   ],
    "venue": "Mad Radio Miami",
    "venue_slug": "mad-radio",
    "date": "2026-11-18",
@@ -250,7 +232,8 @@
    },
    "created": "2026-11-05T17:53:42.000Z",
    "alt_urls": [
-    "https://shotgun.live/en/events/madradiomiami111826"
+    "https://shotgun.live/en/events/madradiomiami111826",
+    "https://edmtrain.com/miami-fl/paul-dudamel-554078"
    ]
   },
   {
@@ -743,6 +726,35 @@
    "url": "https://music.mila-miami.com/?id=lta9aq793yhixuqzn5l6vejw7q6hwvc8",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/no-phones-night-vanjee-550756"
+   ]
+  },
+  {
+   "id": "edmtrain:553883",
+   "source": "edmtrain",
+   "title": "Bury Me in Bass Vol.2: Benzo, yōjō, Bondzeye, EA DUBZ, Matte Black",
+   "artists": [
+    "Benzo",
+    "yōjō",
+    "Bondzeye",
+    "EA DUBZ",
+    "Matte Black"
+   ],
+   "venue": "Nowhere FTL",
+   "venue_slug": null,
+   "date": "2026-11-19",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "204 SW 2nd St, Fort Lauderdale, FL 33301, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/bass-night-nowhere-special-event?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/bury-me-in-bass-vol-2-benzo-fl-553883"
    ]
   },
   {
@@ -2919,9 +2931,13 @@
   },
   {
    "id": "dice:6abe81edcf1f4100017bc3b4",
-   "source": "19hz+dice",
+   "source": "19hz+dice+edmtrain",
    "title": "Floyd at The Vault: Divorcée presents Greg Wilson",
-   "artists": [],
+   "artists": [
+    "Greg Wilson",
+    "Adam At The Door",
+    "Will Buck"
+   ],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
    "date": "2026-11-22",
@@ -2942,7 +2958,8 @@
    "url": "https://dice.fm/event/6abe81edcf1f4100017bc3b4",
    "cancelled": false,
    "alt_urls": [
-    "https://link.dice.fm/divorceefloyd"
+    "https://link.dice.fm/divorceefloyd",
+    "https://edmtrain.com/miami-fl/greg-wilson-adam-at-the-door-554034"
    ]
   },
   {
@@ -2967,6 +2984,32 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/psych-on-drugs-every-sunday-4"
+  },
+  {
+   "id": "edmtrain:553932",
+   "source": "edmtrain",
+   "title": "Thunderpony, Dalva",
+   "artists": [
+    "Thunderpony",
+    "Dalva"
+   ],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-11-22",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "111 NE 20th St, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/l87rop?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/thunderpony-dalva-553932"
+   ]
   },
   {
    "id": "19hz:4449583-mistergray",
@@ -3246,6 +3289,30 @@
    "cancelled": false
   },
   {
+   "id": "shotgun:aftercito-thanksgiving-eve",
+   "source": "shotgun",
+   "title": "Aftercito Thanksgiving Eve",
+   "artists": [],
+   "venue": "Fooq's",
+   "venue_slug": null,
+   "date": "2026-11-25",
+   "start": "2026-11-26T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$6.14",
+   "genres": [
+    "miami bass",
+    "house",
+    "uk garage"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/aftercito-thanksgiving-eve"
+  },
+  {
    "id": "shotgun:madradiomiami112526",
    "source": "19hz+shotgun",
    "title": "Join The Local Signal ))): Wax'n Dance",
@@ -3459,6 +3526,36 @@
    "description": "",
    "url": "https://dice.fm/event/6abbde6877c894000165e049",
    "cancelled": false
+  },
+  {
+   "id": "edmtrain:554035",
+   "source": "edmtrain",
+   "title": "SASHYME, JDEN, Good JuJu, rhaff, Chini, Laredo",
+   "artists": [
+    "SASHYME",
+    "JDEN",
+    "Good JuJu",
+    "rhaff",
+    "Chini",
+    "Laredo"
+   ],
+   "venue": "Fooq's",
+   "venue_slug": null,
+   "date": "2026-11-25",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "150 NW 73rd St, Miami, FL 33150, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/aftercito-thanksgiving-eve?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/sashyme-jden-554035"
+   ]
   },
   {
    "id": "edmtrain:547375",
@@ -5450,7 +5547,7 @@
   {
    "id": "edmtrain:533949",
    "source": "edmtrain",
-   "title": "Emkay",
+   "title": "NINE1NINE Miami Art Week: Emkay",
    "artists": [
     "Emkay"
    ],
@@ -5469,7 +5566,7 @@
    "description": "",
    "url": "https://speakeasygo.com/event/EVE-269ESQ?t=edmtrain",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/emkay-533949"
+    "https://edmtrain.com/miami-fl/nine1nine-miami-art-week-emkay-533949"
    ]
   },
   {
@@ -6209,6 +6306,32 @@
    "url": "https://www.eventbrite.com/e/2004426045259?aff=ebdimtedmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/kybba-552418"
+   ]
+  },
+  {
+   "id": "edmtrain:553933",
+   "source": "edmtrain",
+   "title": "T-Puse, Dmeyer",
+   "artists": [
+    "T-Puse",
+    "Dmeyer"
+   ],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-12-02",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "111 NE 20th St, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/t-puse-miami-art-week?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/t-puse-dmeyer-553933"
    ]
   },
   {
@@ -7941,13 +8064,13 @@
   {
    "id": "shotgun:lunasol-pres-tortuga",
    "source": "19hz+edmtrain+shotgun",
-   "title": "Lunasol Pres. Tortuga Showcase",
+   "title": "⁠Sparrow Presents Tortuga At Lunasol Miami Art Basel",
    "artists": [
     "Arymé",
     "Sparrow"
    ],
    "venue": "Lunasol",
-   "venue_slug": null,
+   "venue_slug": "festivals",
    "date": "2026-12-04",
    "start": "2026-12-05T03:00:00+00:00",
    "end": "2026-12-05T08:00:00+00:00",
@@ -8178,6 +8301,31 @@
    "url": "https://www.ticketweb.com/event/id/15050803",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/pawsa-547012"
+   ]
+  },
+  {
+   "id": "edmtrain:553917",
+   "source": "edmtrain",
+   "title": "Andre Power",
+   "artists": [
+    "Andre Power"
+   ],
+   "venue": "1-800-Lucky",
+   "venue_slug": null,
+   "date": "2026-12-04",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "143 NW 23rd St, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/kxpbqp?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/andre-power-553917"
    ]
   },
   {
@@ -9324,32 +9472,6 @@
    "url": "https://shorturl.at/j4pA0",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/solomun-pachanga-boys-553861"
-   ]
-  },
-  {
-   "id": "edmtrain:544678",
-   "source": "edmtrain",
-   "title": "Space Basel Saturday TBD",
-   "artists": [],
-   "venue": "Club Space",
-   "venue_slug": "club-space",
-   "date": "2026-12-05",
-   "start": "2026-12-06T04:00:00+00:00",
-   "end": "2026-12-06T18:00:00+00:00",
-   "time_estimated": true,
-   "address": "Heart, 34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "house",
-    "techno"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/92vxld?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/space-basel-saturday-tbd-544678"
    ]
   },
   {
@@ -10551,6 +10673,28 @@
    "created": "2026-11-10T17:08:02.000Z"
   },
   {
+   "id": "shotgun:asylum-booking-at-churchill-s-pub",
+   "source": "shotgun",
+   "title": "Asylum Booking At Churchill’S Pub",
+   "artists": [],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-12-12",
+   "start": "2026-12-13T00:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.25",
+   "genres": [
+    "hardcore"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/asylum-booking-at-churchill-s-pub"
+  },
+  {
    "id": "shotgun:buko-boys-floating-around-tour-at-lincoln-s-beard-miami-fl",
    "source": "shotgun",
    "title": "Buko Boys Floating Around Tour At Lincoln's Beard Miami, Fl",
@@ -11331,9 +11475,11 @@
   },
   {
    "id": "shotgun:misifu-fiin-dec-18",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Misifu By Fiin",
-   "artists": [],
+   "artists": [
+    "Fiin"
+   ],
    "venue": "AIRE Miami",
    "venue_slug": null,
    "date": "2026-12-18",
@@ -11344,14 +11490,17 @@
    "ages": "",
    "price": "$22.70",
    "genres": [
-    "indie dance",
+    "afro house",
     "house",
-    "afro house"
+    "indie dance"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/misifu-fiin-dec-18"
+   "url": "https://shotgun.live/en/events/misifu-fiin-dec-18",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/fiin-553934"
+   ]
   },
   {
    "id": "hardrock:207837",
@@ -12704,9 +12853,12 @@
   },
   {
    "id": "shotgun:the-countdown-miami-at-bayfront-park-2026",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "The Countdown Miami At Bayfront Park",
-   "artists": [],
+   "artists": [
+    "AFROJACK",
+    "Sean Paul"
+   ],
    "venue": "Bayfront Park",
    "venue_slug": "festivals",
    "date": "2026-12-31",
@@ -12718,13 +12870,16 @@
    "price": "",
    "genres": [
     "hip hop",
-    "reggae",
-    "r&b"
+    "r&b",
+    "reggae"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/the-countdown-miami-at-bayfront-park-2026"
+   "url": "https://shotgun.live/en/events/the-countdown-miami-at-bayfront-park-2026",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/the-countdown-miami-afrojack-553958"
+   ]
   },
   {
    "id": "19hz:4453231-chusceballosdjch",
@@ -13347,9 +13502,12 @@
   },
   {
    "id": "dice:6afc8ddf969e980001653623",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "horsegiirL",
-   "artists": [],
+   "artists": [
+    "horsegiirL",
+    "Ali RQ"
+   ],
    "venue": "Factory Town",
    "venue_slug": "factory-town",
    "date": "2027-01-01",
@@ -13367,7 +13525,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6afc8ddf969e980001653623",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/horsegiirl-ali-rq-554021"
+   ]
   },
   {
    "id": "hardrock:210867",

@@ -3,8 +3,8 @@
   "slug": "club-space",
   "name": "Club Space",
   "file": "club-space.ics",
-  "events": 22,
-  "estimated_times": 3,
+  "events": 21,
+  "estimated_times": 2,
   "next": "2026-11-20",
   "sources": [
    "19hz",
@@ -171,7 +171,7 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 53,
+  "events": 54,
   "estimated_times": 26,
   "next": "2026-11-19",
   "sources": [

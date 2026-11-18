@@ -420,9 +420,9 @@
   "modified": "2026-11-12T22:18:23+00:00"
  },
  "dice-6abe81edcf1f4100017bc3b4@floyd.miami-calendars": {
-  "hash": "988c18f494c3ff91",
-  "seq": 3,
-  "modified": "2026-11-17T22:18:13+00:00"
+  "hash": "e44ba9ae15cbb8c4",
+  "seq": 4,
+  "modified": "2026-11-18T04:18:24+00:00"
  },
  "dice-6abe821acf1f4100010d2096@floyd.miami-calendars": {
   "hash": "f9793af2a35bec31",
@@ -700,9 +700,9 @@
   "modified": "2026-11-17T04:18:07+00:00"
  },
  "dice-6afc8ddf969e980001653623@factory-town.miami-calendars": {
-  "hash": "25e4547077457a66",
-  "seq": 0,
-  "modified": "2026-11-17T22:18:13+00:00"
+  "hash": "ea1ed8714925db71",
+  "seq": 1,
+  "modified": "2026-11-18T04:18:24+00:00"
  },
  "edmtrain-458944@festivals.miami-calendars": {
   "hash": "52f5b7eb786ce532",
@@ -788,11 +788,6 @@
   "hash": "98d2fdd792658fe6",
   "seq": 0,
   "modified": "2026-10-07T04:18:39+00:00"
- },
- "edmtrain-544678@club-space.miami-calendars": {
-  "hash": "643212bb82ed19ba",
-  "seq": 0,
-  "modified": "2026-10-13T22:18:25+00:00"
  },
  "edmtrain-544679@club-space.miami-calendars": {
   "hash": "bed2f6b352ad723d",
@@ -1224,10 +1219,15 @@
   "seq": 1,
   "modified": "2026-11-07T16:18:49+00:00"
  },
+ "lunasol-pres-tortuga@shotgun.live": {
+  "hash": "472a51dfc48b32dd",
+  "seq": 0,
+  "modified": "2026-11-18T04:18:24+00:00"
+ },
  "madradiomiami111826@shotgun.live": {
-  "hash": "de8213c0a201fbbb",
-  "seq": 2,
-  "modified": "2026-11-17T22:18:13+00:00"
+  "hash": "46214e10522cf210",
+  "seq": 3,
+  "modified": "2026-11-18T04:18:24+00:00"
  },
  "madradiomiami111926@shotgun.live": {
   "hash": "b3cbd27e86f683a4",
@@ -1325,9 +1325,9 @@
   "modified": "2026-10-03T10:18:36+00:00"
  },
  "the-countdown-miami-at-bayfront-park-2026@shotgun.live": {
-  "hash": "dcdefcb23e1fda3e",
-  "seq": 0,
-  "modified": "2026-11-17T22:18:13+00:00"
+  "hash": "a07b6f7c5d55c49a",
+  "seq": 1,
+  "modified": "2026-11-18T04:18:24+00:00"
  },
  "the-hall-club-monkey-safari@shotgun.live": {
   "hash": "0f3fa14ea1d219aa",

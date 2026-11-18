@@ -135,15 +135,16 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6afc8ddf969e980001653623@factory-town.miami-calendars
-DTSTAMP:20261117T221813Z
-LAST-MODIFIED:20261117T221813Z
-SEQUENCE:0
+DTSTAMP:20261118T041824Z
+LAST-MODIFIED:20261118T041824Z
+SEQUENCE:1
 DTSTART:20270102T030000Z
 DTEND:20270102T090000Z
 SUMMARY:horsegiirL
 LOCATION:Factory Town\, 4800 NW 37th Ave\, Miami\, FL 33142\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6afc8ddf969
- e980001653623
+DESCRIPTION:Lineup: horsegiirL\, Ali RQ\nTags (guess): house\, techno\nhttp
+ s://dice.fm/event/6afc8ddf969e980001653623\nhttps://edmtrain.com/miami-fl/
+ horsegiirl-ali-rq-554021
 URL:https://dice.fm/event/6afc8ddf969e980001653623
 STATUS:CONFIRMED
 CATEGORIES:house,techno
