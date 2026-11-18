@@ -1521,7 +1521,7 @@
   {
    "id": "hardrock:205539",
    "source": "venue",
-   "title": "DAER Dayclub",
+   "title": "Chris Valencia",
    "artists": [],
    "venue": "DAER Dayclub",
    "venue_slug": "daer",
@@ -1537,7 +1537,7 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/205539",
-   "generic_title": true
+   "generic_title": false
   },
   {
    "id": "shotgun:equinox-fest-4-day-2-3-november-21-22nd",
@@ -1616,7 +1616,7 @@
   {
    "id": "edmtrain:551215",
    "source": "edmtrain",
-   "title": "Grand Theft Auto VI: Travis Scott, Don Toliver, Kodak Black, SoFaygo, Cardi B, CA7RIEL, Paco Amoroso, Justice, Metro Boomin, Nick León, DJ Python, Prospa, Skream, Suero, Tainy, The Dare b2b Fcukers (DJ Set), Rauw Alejandro",
+   "title": "Grand Theft Auto VI: Travis Scott, Don Toliver, Kodak Black, SoFaygo, Cardi B, CA7RIEL, Paco Amoroso, Justice (DJ Set), Metro Boomin, Nick León, DJ Python, Prospa, Skream, Suero, Tainy, The Dare b2b Fcukers (DJ Set), Rauw Alejandro",
    "artists": [
     "Travis Scott",
     "Don Toliver",
@@ -1625,7 +1625,7 @@
     "Cardi B",
     "CA7RIEL",
     "Paco Amoroso",
-    "Justice",
+    "Justice (DJ Set)",
     "Metro Boomin",
     "Nick León",
     "DJ Python",
@@ -8349,6 +8349,31 @@
    ]
   },
   {
+   "id": "edmtrain:554291",
+   "source": "edmtrain",
+   "title": "Art of the Sea: KIMONOS",
+   "artists": [
+    "KIMONOS"
+   ],
+   "venue": "Sexy Fish Miami",
+   "venue_slug": null,
+   "date": "2026-12-04",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1001 S Miami Ave, Miami, FL 33130, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.sevenrooms.com/experiences/sexyfishmiamimiami/dinner-party-kimonos-high-top-seating-5983038832754688",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/art-of-the-sea-kimonos-554291"
+   ]
+  },
+  {
    "id": "edmtrain:552937",
    "source": "edmtrain",
    "title": "Skihouse: Blinkr, CharlieWonder",
@@ -9606,6 +9631,32 @@
    ]
   },
   {
+   "id": "edmtrain:554292",
+   "source": "edmtrain",
+   "title": "Art of the Sea: Guy Gerber, Monobase",
+   "artists": [
+    "Guy Gerber",
+    "Monobase"
+   ],
+   "venue": "Sexy Fish Miami",
+   "venue_slug": null,
+   "date": "2026-12-05",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1001 S Miami Ave, Miami, FL 33130, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.sevenrooms.com/explore/sexyfishmiamimiami/reservations/create/details/?date=2026-12-05&details_id=ahNzfnNldmVucm9vbXMtc2VjdXJlcjMLEg9uaWdodGxvb3BfVmVudWUYgIDjmLrZogkMCxIKRXhwZXJpZW5jZRiAgLeO2-nDCQw&details_type=EXPERIENCE&party_size=5&searchTab=experiences",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/art-of-the-sea-guy-gerber-554292"
+   ]
+  },
+  {
    "id": "edmtrain:552938",
    "source": "edmtrain",
    "title": "Skihouse",
@@ -9734,7 +9785,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$20.00",
+   "price": "$25.00",
    "genres": [
     "disco",
     "funk",
@@ -9876,7 +9927,7 @@
   {
    "id": "zeyzey:shintaro-sakamoto-06-dec",
    "source": "venue",
-   "title": "Shintaro Sakamoto + Rogê",
+   "title": "Shintaro Sakamoto",
    "artists": [],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
@@ -12149,6 +12200,30 @@
    "url": "https://shotgun.live/en/events/road-to-ni-2027-ft-lauderdale"
   },
   {
+   "id": "dice:6afdfe1e2d0125000139cc10",
+   "source": "dice",
+   "title": "Jimi Jules",
+   "artists": [],
+   "venue": "Jolene Sound Room Miami",
+   "venue_slug": "jolene",
+   "date": "2026-12-20",
+   "start": "2026-12-21T03:00:00+00:00",
+   "end": "2026-12-21T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "ages": "",
+   "price": "From $12",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6afdfe1e2d0125000139cc10",
+   "cancelled": false
+  },
+  {
    "id": "dice:6ae219d6be58e900015632e5",
    "source": "dice",
    "title": "Risqué: Yung Omz",
@@ -12475,6 +12550,34 @@
    ]
   },
   {
+   "id": "shotgun:oscar-g-dec-26",
+   "source": "edmtrain+shotgun",
+   "title": "Oscar G & More",
+   "artists": [
+    "Oscar G"
+   ],
+   "venue": "EDGE MIAMI",
+   "venue_slug": null,
+   "date": "2026-12-26",
+   "start": "2026-12-27T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$20.00",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/oscar-g-dec-26",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/oscar-g-551895"
+   ]
+  },
+  {
    "id": "dice:6a60e5e3f0b16700018157d5",
    "source": "19hz+dice+edmtrain",
    "title": "AVELLO",
@@ -12590,31 +12693,6 @@
    "description": "",
    "url": "https://dice.fm/event/6aea039753eca80001c88dc8",
    "cancelled": false
-  },
-  {
-   "id": "edmtrain:551895",
-   "source": "edmtrain",
-   "title": "Oscar G",
-   "artists": [
-    "Oscar G"
-   ],
-   "venue": "Edge Miami",
-   "venue_slug": null,
-   "date": "2026-12-26",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "114 NE 20th Terrace, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/bvldgm?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/oscar-g-551895"
-   ]
   },
   {
    "id": "edmtrain:552964",
@@ -13030,9 +13108,11 @@
   },
   {
    "id": "hardrock:207892",
-   "source": "venue",
-   "title": "DeadMau5 - New Year's Eve",
-   "artists": [],
+   "source": "edmtrain+venue",
+   "title": "deadmau5 - New Year's Eve",
+   "artists": [
+    "deadmau5"
+   ],
    "venue": "DAER Nightclub",
    "venue_slug": "daer",
    "date": "2026-12-31",
@@ -13047,7 +13127,10 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/207892",
-   "generic_title": false
+   "generic_title": false,
+   "alt_urls": [
+    "https://edmtrain.com/fort-lauderdale-fl/deadmau5-554293"
+   ]
   },
   {
    "id": "dice:6ae37fbe8bf64200012df1ae",
@@ -14985,7 +15068,7 @@
   {
    "id": "hardrock:212401",
    "source": "venue",
-   "title": "DAER Nightclub",
+   "title": "Malaa",
    "artists": [],
    "venue": "DAER Nightclub",
    "venue_slug": "daer",
@@ -15001,7 +15084,7 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/212401",
-   "generic_title": true
+   "generic_title": false
   },
   {
    "id": "19hz:4456120-lunalenthe",
