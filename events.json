@@ -1,61 +1,6 @@
 {
  "events": [
   {
-   "id": "19hz:4448911-georgeclanton",
-   "source": "19hz",
-   "title": "George Clanton",
-   "artists": [],
-   "venue": "Las Rosas",
-   "venue_slug": null,
-   "date": "2026-11-16",
-   "start": "2026-11-17T01:00:00+00:00",
-   "end": "2026-11-17T06:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "18+",
-   "price": "$42+",
-   "genres": [
-    "chillwave",
-    "synthpop"
-   ],
-   "genres_inferred": false,
-   "organizer": "Breakeven Booking",
-   "description": "",
-   "url": "https://www.ticketweb.com/event/id/14992723"
-  },
-  {
-   "id": "shotgun:blocofest",
-   "source": "edmtrain+shotgun",
-   "title": "Blocofest- Miamibloco's Benefit Show.",
-   "artists": [
-    "Electric Kif",
-    "Alexa Lash Music",
-    "Miamibloco",
-    "DJ Kumi"
-   ],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-11-17",
-   "start": "2026-11-17T23:30:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$22.70",
-   "genres": [
-    "folk",
-    "hard rock",
-    "samba"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/blocofest",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/electric-kif-alexa-lash-music-550859"
-   ]
-  },
-  {
    "id": "19hz:4449007-ironlyon",
    "source": "19hz",
    "title": "Iron Lyon",
@@ -79,6 +24,34 @@
    "organizer": "",
    "description": "",
    "url": "https://speakeasygo.com/E11EVEN/IRON-LYON-AT-E11EVEN"
+  },
+  {
+   "id": "edmtrain:550859",
+   "source": "edmtrain",
+   "title": "Electric Kif, Alexa Lash Music, Miamibloco, DJ Kumi",
+   "artists": [
+    "Electric Kif",
+    "Alexa Lash Music",
+    "Miamibloco",
+    "DJ Kumi"
+   ],
+   "venue": "Churchill's Pub",
+   "venue_slug": null,
+   "date": "2026-11-17",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "5501 NE 2nd Ave, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/blocofest?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/electric-kif-alexa-lash-music-550859"
+   ]
   },
   {
    "id": "edmtrain:552221",
@@ -7071,7 +7044,7 @@
    "time_estimated": false,
    "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "18+",
-   "price": "From $40",
+   "price": "From $46",
    "genres": [
     "bass music",
     "dubstep",
@@ -8404,6 +8377,31 @@
    ]
   },
   {
+   "id": "edmtrain:554164",
+   "source": "edmtrain",
+   "title": "Vanjee",
+   "artists": [
+    "Vanjee"
+   ],
+   "venue": "Selva Miami",
+   "venue_slug": null,
+   "date": "2026-12-04",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "800 Brickell Ave, Miami, FL 33131, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/-selva-5?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/vanjee-554164"
+   ]
+  },
+  {
    "id": "edmtrain:552937",
    "source": "edmtrain",
    "title": "Skihouse: Blinkr, CharlieWonder",
@@ -9633,6 +9631,31 @@
    "url": "https://shotgun.live/events/lunasol-pres-kimonos-2?utm_source=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/lunasol-pres-the-kimonos-553329"
+   ]
+  },
+  {
+   "id": "edmtrain:554186",
+   "source": "edmtrain",
+   "title": "Section's One Year Anniversary: TBA",
+   "artists": [
+    "TBA"
+   ],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-12-05",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "Miami, FL, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.sectionsapp.com/events/32cb1565-b72d-44d4-9aa6-b0dd0f94a3a4?s=16ce527d02953ce3af94434636e7ca8c",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/sections-one-year-anniversary-tba-554186"
    ]
   },
   {
@@ -11187,6 +11210,31 @@
    ]
   },
   {
+   "id": "edmtrain:554245",
+   "source": "edmtrain",
+   "title": "Skihouse: maur.",
+   "artists": [
+    "maur."
+   ],
+   "venue": "Treehouse Miami Beach",
+   "venue_slug": null,
+   "date": "2026-12-12",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "323 23rd St, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.etix.com/ticket/p/72138607",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/skihouse-maur-554245"
+   ]
+  },
+  {
    "id": "hardrock:207852",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -11399,6 +11447,31 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/trailer-as-33-tour"
+  },
+  {
+   "id": "edmtrain:554165",
+   "source": "edmtrain",
+   "title": "Chris Valencia",
+   "artists": [
+    "Chris Valencia"
+   ],
+   "venue": "Selva Miami",
+   "venue_slug": null,
+   "date": "2026-12-17",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "800 Brickell Ave, Miami, FL 33131, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/chris-valencia-selva-11?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/chris-valencia-554165"
+   ]
   },
   {
    "id": "edmtrain:549547",
@@ -12033,6 +12106,31 @@
    "description": "",
    "url": "https://dice.fm/event/6aea037c73dd350001f850dd",
    "cancelled": false
+  },
+  {
+   "id": "edmtrain:554166",
+   "source": "edmtrain",
+   "title": "SAFAR",
+   "artists": [
+    "SAFAR"
+   ],
+   "venue": "Selva Miami",
+   "venue_slug": null,
+   "date": "2026-12-19",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "800 Brickell Ave, Miami, FL 33131, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/safar-selva?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/safar-554166"
+   ]
   },
   {
    "id": "hardrock:207855",
@@ -13624,9 +13722,11 @@
   },
   {
    "id": "zeyzey:party-pupils-02-jan",
-   "source": "venue",
+   "source": "edmtrain+venue",
    "title": "Party Pupils",
-   "artists": [],
+   "artists": [
+    "Party Pupils"
+   ],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2027-01-02",
@@ -13641,7 +13741,10 @@
    "organizer": "",
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/party-pupils-02-jan",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/party-pupils-554268"
+   ]
   },
   {
    "id": "hardrock:208379",

@@ -565,14 +565,15 @@ CATEGORIES:disco,funk
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-party-pupils-02-jan@zeyzey.miami-calendars
-DTSTAMP:20261117T161809Z
-LAST-MODIFIED:20261117T161809Z
-SEQUENCE:0
+DTSTAMP:20261118T101813Z
+LAST-MODIFIED:20261118T101813Z
+SEQUENCE:1
 DTSTART:20270103T010000Z
 DTEND:20270103T060000Z
 SUMMARY:Party Pupils
 LOCATION:ZeyZey Miami
-DESCRIPTION:https://calendar.zeyzeymiami.com/shows/party-pupils-02-jan
+DESCRIPTION:Lineup: Party Pupils\nhttps://calendar.zeyzeymiami.com/shows/pa
+ rty-pupils-02-jan\nhttps://edmtrain.com/miami-fl/party-pupils-554268
 URL:https://calendar.zeyzeymiami.com/shows/party-pupils-02-jan
 STATUS:CONFIRMED
 END:VEVENT
