@@ -64,6 +64,24 @@ STATUS:CONFIRMED
 GEO:25.7287781;-80.3169309
 END:VEVENT
 BEGIN:VEVENT
+UID:black-friday-cover-show@shotgun.live
+DTSTAMP:20261119T041851Z
+LAST-MODIFIED:20261119T041851Z
+SEQUENCE:0
+DTSTART:20261127T230000Z
+DTEND:20261128T030000Z
+SUMMARY:Black Friday Cover Show
+LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
+ \, USA
+DESCRIPTION:Black Friday Cover Show Featuring: Blink 182 Hatebreed Alice In
+  Chains Gorilla Biscuits $10 6 pm all ages\nPresented by: Equinox Booking
+ \nTickets: General Admission $10\, cheap ahh ticket $7\nhttps://shotgun.li
+ ve/en/events/black-friday-cover-show
+URL:https://shotgun.live/en/events/black-friday-cover-show
+STATUS:CONFIRMED
+GEO:25.7287781;-80.3169309
+END:VEVENT
+BEGIN:VEVENT
 UID:the-boombox-equinox-bookings-presents-arythmia@shotgun.live
 DTSTAMP:20261003T101836Z
 LAST-MODIFIED:20261003T101836Z
@@ -168,6 +186,29 @@ DESCRIPTION:Equinox Booking Presents February Your Arms Are My Cocoon Sadne
 URL:https://shotgun.live/en/events/february-your-arms-are-my-cocoon-sadnees
  -at-boombox-12-12
 STATUS:CONFIRMED
+GEO:25.7287781;-80.3169309
+END:VEVENT
+BEGIN:VEVENT
+UID:afterlife-the-purgatory@shotgun.live
+DTSTAMP:20261119T041851Z
+LAST-MODIFIED:20261119T041851Z
+SEQUENCE:0
+DTSTART:20270103T030000Z
+DTEND:20270103T100000Z
+SUMMARY:Afterlife (The Purgatory)
+LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
+ \, USA
+DESCRIPTION:TALK LESS JUST DANCE X CRUSHEDBONES AFTERLIFE: THE PURGATORY 01
+ .02.27 • 10PM – END• 18+ I @weareaneurysm @gioo.adrian @steven.bello
+  @jwelset @kissparade II @chelxz @ecue.dj @gatedkix @n0xheav3n @sugarc0de 
+ TWO STAGES. 10 DIFFERENT DJs. ONE NIGHT OF HARD BEATS. SALTA USQUE AD MORT
+ EM #hardtechno #industrial #schranz #techno #rave\nLineup: jwelset\, kissp
+ arade\, HUNTER STEEL\, sugarc0de\nTags: hardtek\, techno\, gabber\nPresent
+ ed by: Talk Less Just Dance\nTickets: early bird $5.14\nhttps://shotgun.li
+ ve/en/events/afterlife-the-purgatory
+URL:https://shotgun.live/en/events/afterlife-the-purgatory
+STATUS:CONFIRMED
+CATEGORIES:hardtek,techno,gabber
 GEO:25.7287781;-80.3169309
 END:VEVENT
 END:VCALENDAR
