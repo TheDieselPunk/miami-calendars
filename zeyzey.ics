@@ -9,18 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:tablelist-8ba448be22306de7@zeyzey.miami-calendars
-DTSTAMP:20261101T101757Z
-LAST-MODIFIED:20261101T101757Z
-SEQUENCE:0
+DTSTAMP:20261119T101813Z
+LAST-MODIFIED:20261119T101813Z
+SEQUENCE:1
 DTSTART:20261119T010000Z
 DTEND:20261119T060000Z
 SUMMARY:Vicente Garcia (Second Show)
 LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: latin\nhttps://buy.tablelist.com/e/8ba448be22306de7\nhttp
- s://calendar.zeyzeymiami.com/shows/vicente-garcia-second-show-18-nov
+DESCRIPTION:https://buy.tablelist.com/e/8ba448be22306de7
 URL:https://buy.tablelist.com/e/8ba448be22306de7
 STATUS:CONFIRMED
-CATEGORIES:latin
 END:VEVENT
 BEGIN:VEVENT
 UID:tablelist-209109f986348f4b@zeyzey.miami-calendars

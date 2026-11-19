@@ -106,4 +106,21 @@ URL:https://dice.fm/event/6ada3c7a94de0a00019298b6
 STATUS:CONFIRMED
 CATEGORIES:hard techno
 END:VEVENT
+BEGIN:VEVENT
+UID:edmtrain-554510@domicile.miami-calendars
+DTSTAMP:20261119T101813Z
+LAST-MODIFIED:20261119T101813Z
+SEQUENCE:0
+DTSTART:20261213T030000Z
+DTEND:20261213T100000Z
+SUMMARY:Alex Stein
+LOCATION:Domicile Miami\, 2900 NW 7th Ave\, Miami\, FL 33127\, USA
+DESCRIPTION:Lineup: Alex Stein\nTags (guess): techno\nTimes are an estimate
+  from Domicile's usual hours - the listing has no start time yet. Check th
+ e link.\nhttps://dice.fm/event/bvl3ng?pid=d6342b83\nhttps://edmtrain.com/m
+ iami-fl/alex-stein-554510
+URL:https://dice.fm/event/bvl3ng?pid=d6342b83
+STATUS:CONFIRMED
+CATEGORIES:techno
+END:VEVENT
 END:VCALENDAR

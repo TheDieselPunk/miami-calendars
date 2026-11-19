@@ -1,4 +1,9 @@
 {
+ "19hz-4449108-jointhelocalsign@mad-radio.miami-calendars": {
+  "hash": "5e362d4544373d97",
+  "seq": 0,
+  "modified": "2026-11-19T10:18:13+00:00"
+ },
  "19hz-4449295-kapo@midline.miami-calendars": {
   "hash": "e59b55d5f12b5ecb",
   "seq": 0,
@@ -715,9 +720,9 @@
   "modified": "2026-11-18T04:18:24+00:00"
  },
  "dice-6afdfe1e2d0125000139cc10@jolene.miami-calendars": {
-  "hash": "a9805bb5ad791899",
-  "seq": 0,
-  "modified": "2026-11-18T22:18:21+00:00"
+  "hash": "37033a6eb906f581",
+  "seq": 1,
+  "modified": "2026-11-19T10:18:13+00:00"
  },
  "edmtrain-458944@festivals.miami-calendars": {
   "hash": "52f5b7eb786ce532",
@@ -864,6 +869,11 @@
   "seq": 0,
   "modified": "2026-11-17T22:18:13+00:00"
  },
+ "edmtrain-554510@domicile.miami-calendars": {
+  "hash": "f84add4ddf97165a",
+  "seq": 0,
+  "modified": "2026-11-19T10:18:13+00:00"
+ },
  "equinox-fest-4-day-2-3-november-21-22nd@shotgun.live": {
   "hash": "e9c75d0204f31fa2",
   "seq": 2,
@@ -890,9 +900,9 @@
   "modified": "2026-09-21T21:40:09+00:00"
  },
  "hardrock-205539@daer.miami-calendars": {
-  "hash": "7e7601a65a4ce25d",
-  "seq": 2,
-  "modified": "2026-11-18T22:18:21+00:00"
+  "hash": "a80d38591a4cdcc3",
+  "seq": 3,
+  "modified": "2026-11-19T10:18:13+00:00"
  },
  "hardrock-205540@daer.miami-calendars": {
   "hash": "a24ff261c94836ef",
@@ -1010,9 +1020,9 @@
   "modified": "2026-09-21T20:07:29+00:00"
  },
  "hardrock-207892@daer.miami-calendars": {
-  "hash": "081da7f2913ccb27",
-  "seq": 1,
-  "modified": "2026-11-18T22:18:21+00:00"
+  "hash": "64f3cff4be7fe685",
+  "seq": 2,
+  "modified": "2026-11-19T10:18:13+00:00"
  },
  "hardrock-207897@daer.miami-calendars": {
   "hash": "ee2652d033165bc1",
@@ -1120,9 +1130,9 @@
   "modified": "2026-10-26T22:18:12+00:00"
  },
  "hardrock-212401@daer.miami-calendars": {
-  "hash": "d9683c8111fce85b",
-  "seq": 1,
-  "modified": "2026-11-18T22:18:21+00:00"
+  "hash": "55bc66d47a126b92",
+  "seq": 2,
+  "modified": "2026-11-19T10:18:13+00:00"
  },
  "hardrock-213223@daer.miami-calendars": {
   "hash": "8dbdb7f1a7fd6590",
@@ -1244,11 +1254,6 @@
   "seq": 0,
   "modified": "2026-11-18T04:18:24+00:00"
  },
- "madradiomiami111826@shotgun.live": {
-  "hash": "46214e10522cf210",
-  "seq": 3,
-  "modified": "2026-11-18T04:18:24+00:00"
- },
  "madradiomiami111926@shotgun.live": {
   "hash": "b3cbd27e86f683a4",
   "seq": 1,
@@ -1330,9 +1335,9 @@
   "modified": "2026-11-01T10:17:57+00:00"
  },
  "tablelist-8ba448be22306de7@zeyzey.miami-calendars": {
-  "hash": "54838941360ac4b8",
-  "seq": 0,
-  "modified": "2026-11-01T10:17:57+00:00"
+  "hash": "e24ec705ace449b1",
+  "seq": 1,
+  "modified": "2026-11-19T10:18:13+00:00"
  },
  "tablelist-eb49879b8b613c42@zeyzey.miami-calendars": {
   "hash": "60ba45bfb5af0604",
@@ -1358,6 +1363,11 @@
   "hash": "812b91f0a476ca4d",
   "seq": 3,
   "modified": "2026-11-11T22:18:27+00:00"
+ },
+ "witchouse-rave@shotgun.live": {
+  "hash": "7443a303da2272e1",
+  "seq": 0,
+  "modified": "2026-11-19T10:18:13+00:00"
  },
  "zeyzey-a-trak-friends-04-dec@zeyzey.miami-calendars": {
   "hash": "de978b1b1b2707a1",

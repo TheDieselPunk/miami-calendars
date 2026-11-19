@@ -311,16 +311,17 @@ CATEGORIES:house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6afdfe1e2d0125000139cc10@jolene.miami-calendars
-DTSTAMP:20261118T221821Z
-LAST-MODIFIED:20261118T221821Z
-SEQUENCE:0
+DTSTAMP:20261119T101813Z
+LAST-MODIFIED:20261119T101813Z
+SEQUENCE:1
 DTSTART:20261221T030000Z
 DTEND:20261221T090000Z
 SUMMARY:Jimi Jules
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6afdfe1
- e2d0125000139cc10
+DESCRIPTION:Lineup: Jimi Jules\, Max Stern\nTags (guess): house\, tech hous
+ e\nhttps://dice.fm/event/6afdfe1e2d0125000139cc10\nhttps://edmtrain.com/mi
+ ami-fl/jimi-jules-max-stern-554528
 URL:https://dice.fm/event/6afdfe1e2d0125000139cc10
 STATUS:CONFIRMED
 CATEGORIES:house,tech house

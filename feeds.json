@@ -45,8 +45,8 @@
   "slug": "domicile",
   "name": "Domicile",
   "file": "domicile.ics",
-  "events": 6,
-  "estimated_times": 0,
+  "events": 7,
+  "estimated_times": 1,
   "next": "2026-11-20",
   "sources": [
    "19hz",
@@ -86,7 +86,7 @@
   "slug": "boombox",
   "name": "The Boombox Miami",
   "file": "boombox.ics",
-  "events": 10,
+  "events": 11,
   "estimated_times": 0,
   "next": "2026-11-19",
   "sources": [
