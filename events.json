@@ -22,11 +22,9 @@
   },
   {
    "id": "19hz:4449108-jointhelocalsign",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Join The Local Signal ))): Paul Dudamel / Yusur / Soul Bro",
-   "artists": [
-    "Paul Dudamel"
-   ],
+   "artists": [],
    "venue": "Mad Radio",
    "venue_slug": "mad-radio",
    "date": "2026-11-18",
@@ -44,33 +42,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/madradiomiami111826",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/paul-dudamel-554078"
-   ]
-  },
-  {
-   "id": "edmtrain:552808",
-   "source": "edmtrain",
-   "title": "She Knows Best",
-   "artists": [],
-   "venue": "AIRE Miami",
-   "venue_slug": null,
-   "date": "2026-11-18",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "111 NE 20th St, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/she-knows-best-nov-18?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/she-knows-best-552808"
-   ]
+   "url": "https://shotgun.live/en/events/madradiomiami111826"
   },
   {
    "id": "shotgun:flowers-for-persephone-told-not-to-worry-at-boombox-11-19",
@@ -592,6 +564,34 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/bass-bingo-afters-545702"
    ]
+  },
+  {
+   "id": "shotgun:the-roar-battle-of-the-bands",
+   "source": "shotgun",
+   "title": "The Roar // Battle Of The Bands",
+   "artists": [],
+   "venue": "The Boombox Miami",
+   "venue_slug": "boombox",
+   "date": "2026-11-20",
+   "start": "2026-11-20T23:00:00+00:00",
+   "end": "2026-11-21T04:00:00+00:00",
+   "time_estimated": false,
+   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
+   "ages": "",
+   "price": "$10.00",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "The Boombox Miami",
+   "description": "BATTLE OF THE BANDS THE ROAR FIU X THE BOOMBOX",
+   "url": "https://shotgun.live/en/events/the-roar-battle-of-the-bands",
+   "tickets": "GA $10",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.7287781,
+    "longitude": -80.3169309
+   },
+   "created": "2026-11-19T12:00:00.000Z"
   },
   {
    "id": "19hz:4449295-johnsummit",
@@ -12318,6 +12318,29 @@
    ]
   },
   {
+   "id": "zeyzey:johnny-dread-dj-safe-stadick-free-entry-23-dec",
+   "source": "venue",
+   "title": "Johnny Dread (Free Entry)",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-12-23",
+   "start": "2026-12-24T00:00:00+00:00",
+   "end": "2026-12-24T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "reggae"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/johnny-dread-dj-safe-stadick-free-entry-23-dec",
+   "cancelled": false
+  },
+  {
    "id": "hardrock:214220",
    "source": "venue",
    "title": "Zehavi",
@@ -15017,6 +15040,29 @@
    "organizer": "",
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/alkaloides-free-entry-28-jan",
+   "cancelled": false
+  },
+  {
+   "id": "zeyzey:salsa-z-presents-rebolu-29-jan",
+   "source": "venue",
+   "title": "Salsa Z presents Rebolu",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2027-01-29",
+   "start": "2027-01-30T02:00:00+00:00",
+   "end": "2027-01-30T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "latin"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/salsa-z-presents-rebolu-29-jan",
    "cancelled": false
   },
   {

@@ -9,16 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4449108-jointhelocalsign@mad-radio.miami-calendars
-DTSTAMP:20261119T101813Z
-LAST-MODIFIED:20261119T101813Z
-SEQUENCE:0
+DTSTAMP:20261119T161817Z
+LAST-MODIFIED:20261119T161817Z
+SEQUENCE:1
 DTSTART:20261119T020000Z
 DTEND:20261119T080000Z
 SUMMARY:Join The Local Signal ))): Paul Dudamel / Yusur / Soul Bro
 LOCATION:Mad Radio
-DESCRIPTION:Lineup: Paul Dudamel\nTags: playa tech\, progressive house\, te
- ch house\nAges: 25+\nhttps://shotgun.live/en/events/madradiomiami111826\nh
- ttps://edmtrain.com/miami-fl/paul-dudamel-554078
+DESCRIPTION:Tags: playa tech\, progressive house\, tech house\nAges: 25+\nh
+ ttps://shotgun.live/en/events/madradiomiami111826
 URL:https://shotgun.live/en/events/madradiomiami111826
 STATUS:CONFIRMED
 CATEGORIES:playa tech,progressive house,tech house

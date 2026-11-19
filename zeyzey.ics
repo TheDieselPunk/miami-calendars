@@ -511,6 +511,23 @@ URL:https://calendar.zeyzeymiami.com/shows/lukas-frank-11-oct
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-johnny-dread-dj-safe-stadick-free-entry-23-dec@zeyzey.miami-cale
+ ndars
+DTSTAMP:20261119T161817Z
+LAST-MODIFIED:20261119T161817Z
+SEQUENCE:0
+DTSTART:20261224T000000Z
+DTEND:20261224T060000Z
+SUMMARY:Johnny Dread (Free Entry)
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: reggae\nhttps://calendar.zeyzeymiami.com/shows/johnny-dre
+ ad-dj-safe-stadick-free-entry-23-dec
+URL:https://calendar.zeyzeymiami.com/shows/johnny-dread-dj-safe-stadick-fre
+ e-entry-23-dec
+STATUS:CONFIRMED
+CATEGORIES:reggae
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-danny-kravit-free-entry-26-dec@zeyzey.miami-calendars
 DTSTAMP:20261113T101829Z
 LAST-MODIFIED:20261113T101829Z
@@ -700,6 +717,21 @@ DESCRIPTION:Tags: indie/alternative\nhttps://calendar.zeyzeymiami.com/shows
 URL:https://calendar.zeyzeymiami.com/shows/alkaloides-free-entry-28-jan
 STATUS:CONFIRMED
 CATEGORIES:indie/alternative
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-salsa-z-presents-rebolu-29-jan@zeyzey.miami-calendars
+DTSTAMP:20261119T161817Z
+LAST-MODIFIED:20261119T161817Z
+SEQUENCE:0
+DTSTART:20270130T020000Z
+DTEND:20270130T080000Z
+SUMMARY:Salsa Z presents Rebolu
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: latin\nhttps://calendar.zeyzeymiami.com/shows/salsa-z-pre
+ sents-rebolu-29-jan
+URL:https://calendar.zeyzeymiami.com/shows/salsa-z-presents-rebolu-29-jan
+STATUS:CONFIRMED
+CATEGORIES:latin
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-nervous-records-30-jan@zeyzey.miami-calendars
