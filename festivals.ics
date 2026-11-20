@@ -690,6 +690,21 @@ STATUS:CONFIRMED
 CATEGORIES:melodic house & techno,afro house,deep house
 END:VEVENT
 BEGIN:VEVENT
+UID:xmas-x-the-hall-x-shyft-x-circle@shotgun.live
+DTSTAMP:20261120T221810Z
+LAST-MODIFIED:20261120T221810Z
+SEQUENCE:0
+DTSTART:20261225T045900Z
+DTEND:20261225T095900Z
+SUMMARY:Xmas X The Hall X Shyft X Circle
+LOCATION:Miami
+DESCRIPTION:Tags: indie dance\, tech house\, melodic house & techno\nhttps:
+ //shotgun.live/en/events/xmas-x-the-hall-x-shyft-x-circle
+URL:https://shotgun.live/en/events/xmas-x-the-hall-x-shyft-x-circle
+STATUS:CONFIRMED
+CATEGORIES:indie dance,tech house,melodic house & techno
+END:VEVENT
+BEGIN:VEVENT
 UID:edmtrain-523791@festivals.miami-calendars
 DTSTAMP:20261103T041809Z
 LAST-MODIFIED:20261103T041809Z

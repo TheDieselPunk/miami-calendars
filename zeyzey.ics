@@ -22,9 +22,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:solmates-presents-sparrow-more@shotgun.live
-DTSTAMP:20261116T221812Z
-LAST-MODIFIED:20261116T221812Z
-SEQUENCE:5
+DTSTAMP:20261120T221810Z
+LAST-MODIFIED:20261120T221810Z
+SEQUENCE:6
 DTSTART:20261121T030000Z
 DTEND:20261121T080000Z
 SUMMARY:Solmates Presents Sparrow & More
@@ -39,13 +39,13 @@ DESCRIPTION:Solmates returns for another night built around the sounds that
  de for the moments that stay with you. See you on the dancefloor.\nLineup:
   Sparrow\nTags: afro house\, indie/alternative\, latin house\nPresented by
  : Solmates Miami\nTickets: Pre-Sale & General Admission 1 $20 (sold out)\,
-  General Admission 2 $25\, General Admission 3 $30\, VIP $45\nhttps://shot
- gun.live/en/events/solmates-presents-sparrow-more\nhttps://buy.tablelist.c
- om/e/290d1d974df30991\nhttps://buy.tablelist.com/e/3cd935868309e1a6\nhttps
- ://calendar.zeyzeymiami.com/shows/solmates-presents-sparrow-more-20-nov\nh
- ttps://calendar.zeyzeymiami.com/shows/the-hails-21-nov\nhttps://dice.fm/ev
- ent/6adff5fd8be4730001f56177\nhttps://edmtrain.com/miami-fl/solmates-prese
- nts-sparrow-ch-548040
+  General Admission 2 $25 (sold out)\, General Admission 3 $30\, VIP $45\nh
+ ttps://shotgun.live/en/events/solmates-presents-sparrow-more\nhttps://buy.
+ tablelist.com/e/290d1d974df30991\nhttps://buy.tablelist.com/e/3cd935868309
+ e1a6\nhttps://calendar.zeyzeymiami.com/shows/solmates-presents-sparrow-mor
+ e-20-nov\nhttps://calendar.zeyzeymiami.com/shows/the-hails-21-nov\nhttps:/
+ /dice.fm/event/6adff5fd8be4730001f56177\nhttps://edmtrain.com/miami-fl/sol
+ mates-presents-sparrow-ch-548040
 URL:https://shotgun.live/en/events/solmates-presents-sparrow-more
 STATUS:CONFIRMED
 CATEGORIES:afro house,indie/alternative,latin house
@@ -216,21 +216,6 @@ URL:https://calendar.zeyzeymiami.com/shows/sg-lewis-02-dec
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:zeyzey-sg-lewis-02-dec@zeyzey.miami-calendars
-DTSTAMP:20261025T041811Z
-LAST-MODIFIED:20261025T041811Z
-SEQUENCE:3
-DTSTART:20261203T000000Z
-DTEND:20261203T060000Z
-SUMMARY:SG Lewis Presents Forever Days\, Miami
-LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
- sg-lewis-02-dec
-URL:https://calendar.zeyzeymiami.com/shows/sg-lewis-02-dec
-STATUS:CONFIRMED
-CATEGORIES:dance/electronic
-END:VEVENT
-BEGIN:VEVENT
 UID:19hz-4450444-sglewisforeverda@zeyzey.miami-calendars
 DTSTAMP:20261025T041811Z
 LAST-MODIFIED:20261025T041811Z
@@ -244,6 +229,21 @@ DESCRIPTION:Tags: electronica\, house\, r&b\nAges: 18+\nhttps://calendar.ze
 URL:https://calendar.zeyzeymiami.com/shows/sg-lewis-02-dec
 STATUS:CONFIRMED
 CATEGORIES:electronica,house,r&b
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-sg-lewis-02-dec@zeyzey.miami-calendars
+DTSTAMP:20261120T221810Z
+LAST-MODIFIED:20261120T221810Z
+SEQUENCE:4
+DTSTART:20261203T010000Z
+DTEND:20261203T060000Z
+SUMMARY:SG Lewis Presents Forever Days\, Miami
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
+ sg-lewis-02-dec
+URL:https://calendar.zeyzeymiami.com/shows/sg-lewis-02-dec
+STATUS:CONFIRMED
+CATEGORIES:dance/electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-through-the-wall-afters-with-rochelle-jordan-live-special-guests
@@ -345,10 +345,10 @@ CATEGORIES:future beats,hip-hop,world club
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-sam-gellaitry-darius-05-dec@zeyzey.miami-calendars
-DTSTAMP:20261110T041823Z
-LAST-MODIFIED:20261110T041823Z
-SEQUENCE:2
-DTSTART:20261206T010000Z
+DTSTAMP:20261120T221810Z
+LAST-MODIFIED:20261120T221810Z
+SEQUENCE:3
+DTSTART:20261206T020000Z
 DTEND:20261206T060000Z
 SUMMARY:Sam Gellaitry + Darius
 LOCATION:ZeyZey Miami
@@ -610,21 +610,6 @@ URL:https://calendar.zeyzeymiami.com/shows/omni-soundspace-presents-black-r
  ave-culture-shekdash-sky-jetta-09-jan
 STATUS:CONFIRMED
 CATEGORIES:baile funk,club music,footwork,house,techno,uk garage
-END:VEVENT
-BEGIN:VEVENT
-UID:zeyzey-booker-t-jones-15-jan@zeyzey.miami-calendars
-DTSTAMP:20261008T161834Z
-LAST-MODIFIED:20261008T161834Z
-SEQUENCE:0
-DTSTART:20270116T010000Z
-DTEND:20270116T080000Z
-SUMMARY:Booker T. Jones
-LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: r&b/soul\nhttps://calendar.zeyzeymiami.com/shows/booker-t
- -jones-15-jan
-URL:https://calendar.zeyzeymiami.com/shows/booker-t-jones-15-jan
-STATUS:CONFIRMED
-CATEGORIES:r&b/soul
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-doctor-calavera-16-jan@zeyzey.miami-calendars

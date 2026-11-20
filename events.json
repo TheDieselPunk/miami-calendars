@@ -873,7 +873,7 @@
    "time_estimated": false,
    "address": "353 Northeast 61st Street, Miami, FL 33137, USA",
    "ages": "",
-   "price": "$28.38",
+   "price": "$34.05",
    "genres": [
     "afro house",
     "indie/alternative",
@@ -883,7 +883,7 @@
    "organizer": "Solmates Miami",
    "description": "Solmates returns for another night built around the sounds that bring us together. A meeting point for melody, groove, and forward-thinking electronic music, where hypnotic rhythms and emotive sounds set the tone from the first record to the last. Rooted in connection and driven by a shared love for music, Solmates creates a space where different influences meet, new discoveries unfold, and the dancefloor becomes something more than just a place to move. One room, one atmosphere, and a night made for the moments that stay with you. See you on the dancefloor.",
    "url": "https://shotgun.live/en/events/solmates-presents-sparrow-more",
-   "tickets": "Pre-Sale & General Admission 1 $20 (sold out), General Admission 2 $25, General Admission 3 $30, VIP $45",
+   "tickets": "Pre-Sale & General Admission 1 $20 (sold out), General Admission 2 $25 (sold out), General Admission 3 $30, VIP $45",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -3037,6 +3037,49 @@
    "cancelled": false
   },
   {
+   "id": "shotgun:friendsgiving1",
+   "source": "shotgun",
+   "title": "A Supernatural Friendsgiving",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-11-25",
+   "start": "2026-11-26T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/friendsgiving1"
+  },
+  {
+   "id": "shotgun:she-knows-best-nov-25",
+   "source": "shotgun",
+   "title": "She Knows Best (Thanksgiving Eve)",
+   "artists": [],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-11-25",
+   "start": "2026-11-26T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.70",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/she-knows-best-nov-25"
+  },
+  {
    "id": "shotgun:aftercito-thanksgiving-eve",
    "source": "shotgun",
    "title": "Aftercito Thanksgiving Eve",
@@ -3690,6 +3733,30 @@
    ]
   },
   {
+   "id": "shotgun:lightleak-edge-miami",
+   "source": "shotgun",
+   "title": "Lightleak @ Edge Miami",
+   "artists": [],
+   "venue": "EDGE Miami",
+   "venue_slug": null,
+   "date": "2026-11-27",
+   "start": "2026-11-28T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$15.00",
+   "genres": [
+    "alternative dance",
+    "disco house",
+    "deep tech"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/lightleak-edge-miami"
+  },
+  {
    "id": "19hz:4449976-blackweekendpass",
    "source": "19hz",
    "title": "Black Weekend Pass Ft. Pagano | Tom Stephan",
@@ -3823,6 +3890,30 @@
    "alt_urls": [
     "https://edmtrain.com/fort-lauderdale-fl/somewhere-underground-543191"
    ]
+  },
+  {
+   "id": "shotgun:moji-riva-starr-peace-control-special-guest-sable",
+   "source": "shotgun",
+   "title": "Moji - Riva Starr, Peace Control, + Special Guest @ Sable",
+   "artists": [],
+   "venue": "Sable",
+   "venue_slug": null,
+   "date": "2026-11-27",
+   "start": "2026-11-28T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$15.00",
+   "genres": [
+    "dance",
+    "disco",
+    "deep house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/moji-riva-starr-peace-control-special-guest-sable"
   },
   {
    "id": "shotgun:the-hall-360-differ-f-2-f-nico-moon-3",
@@ -5510,7 +5601,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $25",
+   "price": "From $27",
    "genres": [
     "tech house",
     "techno"
@@ -5710,29 +5801,6 @@
    ]
   },
   {
-   "id": "zeyzey:sg-lewis-02-dec",
-   "source": "venue",
-   "title": "SG Lewis Presents Forever Days, Miami",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-12-02",
-   "start": "2026-12-03T00:00:00+00:00",
-   "end": "2026-12-03T06:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "dance/electronic"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/sg-lewis-02-dec",
-   "cancelled": false
-  },
-  {
    "id": "19hz:4450444-sglewisforeverda",
    "source": "19hz",
    "title": "Sg Lewis - Forever Days",
@@ -5849,6 +5917,29 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/unkommon-art-week-bedouin-533698"
    ]
+  },
+  {
+   "id": "zeyzey:sg-lewis-02-dec",
+   "source": "venue",
+   "title": "SG Lewis Presents Forever Days, Miami",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-12-02",
+   "start": "2026-12-03T01:00:00+00:00",
+   "end": "2026-12-03T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "dance/electronic"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/sg-lewis-02-dec",
+   "cancelled": false
   },
   {
    "id": "shotgun:c3trlroom-17",
@@ -6040,6 +6131,30 @@
     "https://dice.fm/event/6aaafb88d2cb540001cdd853",
     "https://edmtrain.com/miami-fl/franky-rizardo-the-martinez-brothers-543874"
    ]
+  },
+  {
+   "id": "shotgun:soundtuarymusicartbasel",
+   "source": "shotgun",
+   "title": "Soundtuary Music - Label Showcase @Lunasol",
+   "artists": [],
+   "venue": "Lunasol",
+   "venue_slug": null,
+   "date": "2026-12-02",
+   "start": "2026-12-03T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.70",
+   "genres": [
+    "house",
+    "afro house",
+    "dance"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/soundtuarymusicartbasel"
   },
   {
    "id": "dice:6ab443f8697fd600018d79bd",
@@ -7712,6 +7827,30 @@
    "url": "https://dice.fm/event/783o66-sable-basel-gorgon-city-disco-dom-4th-dec-sable-miami-miami-tickets"
   },
   {
+   "id": "shotgun:subculture-blood-rave",
+   "source": "shotgun",
+   "title": "Subculture Blood Rave",
+   "artists": [],
+   "venue": "West Palm Beach",
+   "venue_slug": null,
+   "date": "2026-12-04",
+   "start": "2026-12-05T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$15.00",
+   "genres": [
+    "ebm",
+    "psychedelic rock",
+    "dark wave"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/subculture-blood-rave"
+  },
+  {
    "id": "shotgun:bloom-m2-5",
    "source": "19hz+edmtrain+shotgun",
    "title": "Sander Van Doorn",
@@ -9034,39 +9173,6 @@
    "url": "https://shotgun.live/en/events/drumspleasefab"
   },
   {
-   "id": "zeyzey:sam-gellaitry-darius-05-dec",
-   "source": "19hz+edmtrain+venue",
-   "title": "Sam Gellaitry + Darius",
-   "artists": [
-    "Sam Gellaitry",
-    "Darius"
-   ],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-12-05",
-   "start": "2026-12-06T01:00:00+00:00",
-   "end": "2026-12-06T06:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "$34.50-68.95",
-   "genres": [
-    "disco",
-    "future beats",
-    "house",
-    "r&b"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/sam-gellaitry-darius-05-dec",
-   "cancelled": false,
-   "alt_urls": [
-    "https://ra.co/events/2570637",
-    "https://edmtrain.com/miami-fl/sam-gellaitry-darius-547645"
-   ]
-  },
-  {
    "id": "shotgun:art-department-miami-art-week",
    "source": "edmtrain+shotgun",
    "title": "Art Department & More (Miami Art Week)",
@@ -9124,7 +9230,7 @@
   {
    "id": "shotgun:patriarchy-deflowered-florida-tour-ft-mvtant-angel-husk",
    "source": "19hz+edmtrain+shotgun",
-   "title": "Patriarchy Florida Deflowerment Tour Ft. Mvtant + Angel Husk",
+   "title": "Flesh Ft. Patriarchy + Mvtant + Angel Husk",
    "artists": [
     "MVTANT"
    ],
@@ -9186,6 +9292,39 @@
    "alt_urls": [
     "https://shotgun.live/en/events/raw-cuts-records-h-foundation",
     "https://edmtrain.com/miami-fl/raw-cuts-records-h-foundation-549913"
+   ]
+  },
+  {
+   "id": "zeyzey:sam-gellaitry-darius-05-dec",
+   "source": "19hz+edmtrain+venue",
+   "title": "Sam Gellaitry + Darius",
+   "artists": [
+    "Sam Gellaitry",
+    "Darius"
+   ],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-12-05",
+   "start": "2026-12-06T02:00:00+00:00",
+   "end": "2026-12-06T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "$34.50-68.95",
+   "genres": [
+    "disco",
+    "future beats",
+    "house",
+    "r&b"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/sam-gellaitry-darius-05-dec",
+   "cancelled": false,
+   "alt_urls": [
+    "https://ra.co/events/2570637",
+    "https://edmtrain.com/miami-fl/sam-gellaitry-darius-547645"
    ]
   },
   {
@@ -12590,6 +12729,30 @@
    "generic_title": false
   },
   {
+   "id": "shotgun:xmas-x-the-hall-x-shyft-x-circle",
+   "source": "shotgun",
+   "title": "Xmas X The Hall X Shyft X Circle",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": "festivals",
+   "date": "2026-12-24",
+   "start": "2026-12-25T04:59:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.70",
+   "genres": [
+    "indie dance",
+    "tech house",
+    "melodic house & techno"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/xmas-x-the-hall-x-shyft-x-circle"
+  },
+  {
    "id": "hardrock:207839",
    "source": "venue",
    "title": "DAER Nightclub",
@@ -13405,6 +13568,30 @@
    ]
   },
   {
+   "id": "shotgun:nye-2027-gab-rhome",
+   "source": "shotgun",
+   "title": "Nye 2027 With Gab Rhome",
+   "artists": [],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-12-31",
+   "start": "2027-01-01T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$24.99",
+   "genres": [
+    "house",
+    "progressive house",
+    "melodic house & techno"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/nye-2027-gab-rhome"
+  },
+  {
    "id": "hardrock:207897",
    "source": "venue",
    "title": "New Year's Eve 2027",
@@ -13450,6 +13637,29 @@
    "alt_urls": [
     "https://edmtrain.com/fort-lauderdale-fl/deadmau5-554293"
    ]
+  },
+  {
+   "id": "shotgun:new-years-eve-2027-edge",
+   "source": "shotgun",
+   "title": "Nye 2027 At Edge",
+   "artists": [],
+   "venue": "EDGE MIAMI",
+   "venue_slug": null,
+   "date": "2026-12-31",
+   "start": "2027-01-01T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$20.00",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/new-years-eve-2027-edge"
   },
   {
    "id": "dice:6ae37fbe8bf64200012df1ae",
@@ -13953,7 +14163,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "",
-   "price": "",
+   "price": "From $53",
    "genres": [
     "house",
     "techno"
@@ -14204,7 +14414,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "",
-   "price": "",
+   "price": "From $60",
    "genres": [
     "house",
     "techno"
@@ -14551,29 +14761,6 @@
    "description": "",
    "url": "https://tixr.com/e/212386",
    "generic_title": true
-  },
-  {
-   "id": "zeyzey:booker-t-jones-15-jan",
-   "source": "venue",
-   "title": "Booker T. Jones",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2027-01-15",
-   "start": "2027-01-16T01:00:00+00:00",
-   "end": "2027-01-16T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "r&b/soul"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/booker-t-jones-15-jan",
-   "cancelled": false
   },
   {
    "id": "hardrock:212395",
