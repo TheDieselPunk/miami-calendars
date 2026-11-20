@@ -8,19 +8,17 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6ad8e836f3f79d000131952b@jolene.miami-calendars
-DTSTAMP:20261031T041809Z
-LAST-MODIFIED:20261031T041809Z
-SEQUENCE:2
+UID:19hz-4449208-rayzirprincegseg@jolene.miami-calendars
+DTSTAMP:20261120T161815Z
+LAST-MODIFIED:20261120T161815Z
+SEQUENCE:0
 DTSTART:20261120T030000Z
 DTEND:20261120T090000Z
-SUMMARY:The Groove Palace: Rayzir
-LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
- a 33131\, United States
-DESCRIPTION:Lineup: RAYZIR\nTags: minimal\, tech house\nAges: 21+\nhttps://
- dice.fm/event/pyxbmp-the-groove-palace-rayzir-19th-nov-jolene-sound-room-m
- iami-miami-tickets\nhttps://edmtrain.com/miami-fl/the-groove-palace-rayzir
- -547547
+SUMMARY:Rayzir\, Prince!\, G. Segurola
+LOCATION:Jolene Downtown
+DESCRIPTION:Tags: minimal\, tech house\nAges: 21+\nhttps://dice.fm/event/py
+ xbmp-the-groove-palace-rayzir-19th-nov-jolene-sound-room-miami-miami-ticke
+ ts
 URL:https://dice.fm/event/pyxbmp-the-groove-palace-rayzir-19th-nov-jolene-s
  ound-room-miami-miami-tickets
 STATUS:CONFIRMED

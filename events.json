@@ -111,7 +111,7 @@
   },
   {
    "id": "19hz:4449208-secretthursdaysb",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Secret Thursdays: Briella, Jon.Z, Linalove, Meeshy, Reydel, Salynn, Sunny D",
    "artists": [],
    "venue": "Do Not Sit On The Furniture",
@@ -130,25 +130,20 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://link.dice.fm/l12eed94292c",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/secret-thursdays-549813"
-   ]
+   "url": "https://link.dice.fm/l12eed94292c"
   },
   {
-   "id": "dice:6ad8e836f3f79d000131952b",
-   "source": "19hz+dice+edmtrain",
-   "title": "The Groove Palace: Rayzir",
-   "artists": [
-    "RAYZIR"
-   ],
-   "venue": "Jolene Sound Room Miami",
+   "id": "19hz:4449208-rayzirprincegseg",
+   "source": "19hz",
+   "title": "Rayzir, Prince!, G. Segurola",
+   "artists": [],
+   "venue": "Jolene Downtown",
    "venue_slug": "jolene",
    "date": "2026-11-19",
    "start": "2026-11-20T03:00:00+00:00",
    "end": "2026-11-20T09:00:00+00:00",
    "time_estimated": false,
-   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "address": "",
    "ages": "21+",
    "price": "$12",
    "genres": [
@@ -158,21 +153,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/pyxbmp-the-groove-palace-rayzir-19th-nov-jolene-sound-room-miami-miami-tickets",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/event/pyxbmp-the-groove-palace-rayzir-19th-nov-jolene-sound-room-miami-miami-tickets",
-    "https://edmtrain.com/miami-fl/the-groove-palace-rayzir-547547"
-   ]
+   "url": "https://dice.fm/event/pyxbmp-the-groove-palace-rayzir-19th-nov-jolene-sound-room-miami-miami-tickets"
   },
   {
    "id": "19hz:4449208-nervousxnegronid",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Nervous X Negroni DJ Showcase",
-   "artists": [
-    "Mike Nervous",
-    "Nyco Jones"
-   ],
+   "artists": [],
    "venue": "Negroni Bistro & Sushi Bar",
    "venue_slug": null,
    "date": "2026-11-19",
@@ -189,19 +176,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://ra.co/events/2566361",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/mike-nervous-nyco-jones-547013"
-   ]
+   "url": "https://ra.co/events/2566361"
   },
   {
    "id": "19hz:4449211-globalhousemusic",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Global House Music w/ Gianni Blu, Unomas",
-   "artists": [
-    "Gianni Blu",
-    "Unomas"
-   ],
+   "artists": [],
    "venue": "Mynt Lounge",
    "venue_slug": null,
    "date": "2026-11-19",
@@ -218,10 +199,7 @@
    "genres_inferred": false,
    "organizer": "Royale Society & Blaz Ent",
    "description": "",
-   "url": "https://posh.vip/e/gianni-blu-presents-global-house-music",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/global-house-music-gianni-blu-550589"
-   ]
+   "url": "https://posh.vip/e/gianni-blu-presents-global-house-music"
   },
   {
    "id": "19hz:4449214-vanjee",
@@ -247,11 +225,9 @@
   },
   {
    "id": "19hz:4449214-chrisvalencia",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Chris Valencia",
-   "artists": [
-    "Chris Valencia"
-   ],
+   "artists": [],
    "venue": "Selva",
    "venue_slug": null,
    "date": "2026-11-19",
@@ -267,141 +243,7 @@
    "genres_inferred": false,
    "organizer": "Selva",
    "description": "",
-   "url": "https://posh.vip/e/chris-valencia-selva-10",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/chris-valencia-547994"
-   ]
-  },
-  {
-   "id": "edmtrain:551458",
-   "source": "edmtrain",
-   "title": "Dmeyer, Desert Sail, Idossa, naza gold, Dario",
-   "artists": [
-    "Dmeyer",
-    "Desert Sail",
-    "Idossa",
-    "naza gold",
-    "Dario"
-   ],
-   "venue": "111 Northeast 20th Street",
-   "venue_slug": null,
-   "date": "2026-11-19",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "111 NE 20th St, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/d-meyer-desert-sail-idossa-naza-gold-dario?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/dmeyer-desert-sail-551458"
-   ]
-  },
-  {
-   "id": "edmtrain:533946",
-   "source": "edmtrain",
-   "title": "Rockwell",
-   "artists": [
-    "Rockwell"
-   ],
-   "venue": "E11EVEN",
-   "venue_slug": null,
-   "date": "2026-11-19",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "29 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://speakeasygo.com/event/EVE-IF3OZS?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/rockwell-533946"
-   ]
-  },
-  {
-   "id": "edmtrain:550756",
-   "source": "edmtrain",
-   "title": "No Phones Night: Vanjee",
-   "artists": [
-    "Vanjee"
-   ],
-   "venue": "Milā",
-   "venue_slug": null,
-   "date": "2026-11-19",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "1636 Meridian Ave, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://music.mila-miami.com/?id=lta9aq793yhixuqzn5l6vejw7q6hwvc8",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/no-phones-night-vanjee-550756"
-   ]
-  },
-  {
-   "id": "edmtrain:553883",
-   "source": "edmtrain",
-   "title": "Bury Me in Bass Vol.2: Benzo, yōjō, Bondzeye, EA DUBZ, Matte Black",
-   "artists": [
-    "Benzo",
-    "yōjō",
-    "Bondzeye",
-    "EA DUBZ",
-    "Matte Black"
-   ],
-   "venue": "Nowhere FTL",
-   "venue_slug": null,
-   "date": "2026-11-19",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "204 SW 2nd St, Fort Lauderdale, FL 33301, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://posh.vip/e/bass-night-nowhere-special-event?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/bury-me-in-bass-vol-2-benzo-fl-553883"
-   ]
-  },
-  {
-   "id": "edmtrain:545702",
-   "source": "edmtrain",
-   "title": "Bass Bingo Afters",
-   "artists": [],
-   "venue": "Treehouse Miami Beach",
-   "venue_slug": null,
-   "date": "2026-11-19",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "323 23rd St, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.etix.com/ticket/p/93542223",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/bass-bingo-afters-545702"
-   ]
+   "url": "https://posh.vip/e/chris-valencia-selva-10"
   },
   {
    "id": "shotgun:the-roar-battle-of-the-bands",
@@ -1304,26 +1146,6 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/san-dee-rohan-alyan-553607"
    ]
-  },
-  {
-   "id": "shotgun:college-game-day-with-cafe-grooves-2",
-   "source": "shotgun",
-   "title": "College Game Day With Café Grooves",
-   "artists": [],
-   "venue": "University of Miami",
-   "venue_slug": null,
-   "date": "2026-11-21",
-   "start": "2026-11-21T11:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/college-game-day-with-cafe-grooves-2"
   },
   {
    "id": "hardrock:205539",
@@ -9067,6 +8889,26 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/100-michael-jackson-party-in-miami"
+  },
+  {
+   "id": "shotgun:nakama-the-art-of-belonging",
+   "source": "shotgun",
+   "title": "Nakama The Art Of Belonging",
+   "artists": [],
+   "venue": "Nido l Refuge of Senses",
+   "venue_slug": null,
+   "date": "2026-12-05",
+   "start": "2026-12-05T23:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.25",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/nakama-the-art-of-belonging"
   },
   {
    "id": "shotgun:basel-after-hours-live-at-carolina-sardi-studio-dec5",
