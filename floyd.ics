@@ -9,34 +9,36 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:dice-6abe802c0957150001d27a61@floyd.miami-calendars
-DTSTAMP:20261114T041823Z
-LAST-MODIFIED:20261114T041823Z
-SEQUENCE:2
+DTSTAMP:20261120T101823Z
+LAST-MODIFIED:20261120T101823Z
+SEQUENCE:3
 DTSTART:20261121T040000Z
 DTEND:20261121T100000Z
 SUMMARY:Floyd at The Vault: Fletch
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
 DESCRIPTION:Lineup: Fletch\, Raje\, 2UP!\, Méssous\, Bryan Softwell\nTags 
- (guess): house\, techno\nhttps://dice.fm/event/6abe802c0957150001d27a61\nh
- ttps://edmtrain.com/miami-fl/fletch-raje-552840
-URL:https://dice.fm/event/6abe802c0957150001d27a61
+ (guess): house\, techno\nAges: 21+\nhttps://dice.fm/event/7d96y6-floyd-at-
+ the-vault-fletch-20th-nov-floyd-miami-miami-tickets\nhttps://edmtrain.com/
+ miami-fl/fletch-raje-552840
+URL:https://dice.fm/event/7d96y6-floyd-at-the-vault-fletch-20th-nov-floyd-m
+ iami-miami-tickets
 STATUS:CONFIRMED
 CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abe812a02ef7e0001ee351d@floyd.miami-calendars
-DTSTAMP:20261112T221823Z
-LAST-MODIFIED:20261112T221823Z
-SEQUENCE:1
+DTSTAMP:20261120T101823Z
+LAST-MODIFIED:20261120T101823Z
+SEQUENCE:2
 DTSTART:20261122T040000Z
 DTEND:20261122T100000Z
 SUMMARY:Floyd at The Vault: Joe Kay presents TEMPO
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6abe812a02e
- f7e0001ee351d
+DESCRIPTION:Tags: future beats\, hip-hop\nAges: 21+\nhttps://dice.fm/event/
+ 6abe812a02ef7e0001ee351d\nhttps://link.dice.fm/nov21floyd
 URL:https://dice.fm/event/6abe812a02ef7e0001ee351d
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:future beats,hip-hop
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abe81edcf1f4100017bc3b4@floyd.miami-calendars

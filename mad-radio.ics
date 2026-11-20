@@ -8,40 +8,19 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4449108-jointhelocalsign@mad-radio.miami-calendars
-DTSTAMP:20261119T161817Z
-LAST-MODIFIED:20261119T161817Z
-SEQUENCE:1
-DTSTART:20261119T020000Z
-DTEND:20261119T080000Z
-SUMMARY:Join The Local Signal ))): Paul Dudamel / Yusur / Soul Bro
-LOCATION:Mad Radio
-DESCRIPTION:Tags: playa tech\, progressive house\, tech house\nAges: 25+\nh
- ttps://shotgun.live/en/events/madradiomiami111826
-URL:https://shotgun.live/en/events/madradiomiami111826
-STATUS:CONFIRMED
-CATEGORIES:playa tech,progressive house,tech house
-END:VEVENT
-BEGIN:VEVENT
-UID:madradiomiami111926@shotgun.live
-DTSTAMP:20261113T041825Z
-LAST-MODIFIED:20261113T041825Z
-SEQUENCE:1
+UID:19hz-4449204-femmefrequencyso@mad-radio.miami-calendars
+DTSTAMP:20261120T101823Z
+LAST-MODIFIED:20261120T101823Z
+SEQUENCE:0
 DTSTART:20261120T020000Z
 DTEND:20261120T080000Z
-SUMMARY:Femme Frequency / Soirée: Penny Lane / Darelectric /Psy Chic
-LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
-DESCRIPTION:"FEMME FREQUENCY™ is MAD® cultural platform placing women at
-  the center of the music scene\, featuring local\, international\, and eme
- rging DJs\, the stories behind the music\, culture\, talent\, and communit
- y. A safe space to discover\, play\, and belong. See you on the dance floo
- r! Come early\, stay late\, and let the night unfold FREE ENTRY +25 YEARS 
- OLD HAPPY HOUR 5 PM - 9 PM"\nTags: house\, tech house\nTickets: RSVP Free
- \nAges: 25+\nhttps://shotgun.live/en/events/madradiomiami111926
+SUMMARY:Femme Frequency / Soiree: Penny Lane / Darelectric /Psy Chic
+LOCATION:Mad Radio
+DESCRIPTION:Tags: house\, tech house\nAges: 25+\nhttps://shotgun.live/en/ev
+ ents/madradiomiami111926
 URL:https://shotgun.live/en/events/madradiomiami111926
 STATUS:CONFIRMED
 CATEGORIES:house,tech house
-GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami112026@shotgun.live
@@ -156,12 +135,12 @@ GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami112826@shotgun.live
-DTSTAMP:20261113T101829Z
-LAST-MODIFIED:20261113T101829Z
-SEQUENCE:1
+DTSTAMP:20261120T101823Z
+LAST-MODIFIED:20261120T101823Z
+SEQUENCE:2
 DTSTART:20261129T020000Z
 DTEND:20261129T080000Z
-SUMMARY:Music On The Rocks: Sampol / Leo Del Toro
+SUMMARY:Music On The Rocks: Sampol / Ale Sab
 LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
 DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
  ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
@@ -179,12 +158,12 @@ GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami120426@shotgun.live
-DTSTAMP:20261113T101829Z
-LAST-MODIFIED:20261113T101829Z
-SEQUENCE:1
+DTSTAMP:20261120T101823Z
+LAST-MODIFIED:20261120T101823Z
+SEQUENCE:2
 DTSTART:20261205T020000Z
 DTEND:20261205T080000Z
-SUMMARY:Toy Tonics Jam: Kapote & Sam Rufillo / Leo Del Toro
+SUMMARY:Toy Tonics: Cody Currie
 LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
 DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
  ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
@@ -192,8 +171,9 @@ DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
   the urban-chic experience at Mad Radio Miami. See you on the dance floor!
   Come early\, stay late\, and let the night unfold FREE ENTRY BEFORE 10 PM
   / FREE ENTRY LADIES UNTIL MIDNIGHT +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
- \nTags: house\nTickets: AFTER 10 PM $20\, FREE LADIES RSVP BEFORE 12 AM Fr
- ee\nAges: 25+\nhttps://shotgun.live/en/events/madradiomiami120426
+ \nLineup: Cody Currie\nTags: house\nTickets: AFTER 10 PM $20\, FREE LADIES
+  RSVP BEFORE 12 AM Free\nAges: 25+\nhttps://shotgun.live/en/events/madradi
+ omiami120426\nhttps://edmtrain.com/miami-fl/cody-currie-554828
 URL:https://shotgun.live/en/events/madradiomiami120426
 STATUS:CONFIRMED
 CATEGORIES:house

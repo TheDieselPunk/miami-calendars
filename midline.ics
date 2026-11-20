@@ -141,6 +141,23 @@ STATUS:CONFIRMED
 CATEGORIES:bass music,dubstep,trap
 END:VEVENT
 BEGIN:VEVENT
+UID:edmtrain-554620@midline.miami-calendars
+DTSTAMP:20261120T101823Z
+LAST-MODIFIED:20261120T101823Z
+SEQUENCE:0
+DTSTART:20270228T030000Z
+DTEND:20270228T080000Z
+SUMMARY:BARELY ALIVE
+LOCATION:Midline Miami\, 2221 NW Miami Ct\, Miami\, FL 33127\, USA
+DESCRIPTION:Lineup: BARELY ALIVE\nTimes are an estimate from Midline's usua
+ l hours - the listing has no start time yet. Check the link.\nhttps://prod
+ -nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzExMTQ2Ojc=/clickthr
+ u\nhttps://edmtrain.com/miami-fl/barely-alive-554620
+URL:https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzExMT
+ Q2Ojc=/clickthru
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:19hz-4459384-effinpresentshea@midline.miami-calendars
 DTSTAMP:20261101T041756Z
 LAST-MODIFIED:20261101T041756Z

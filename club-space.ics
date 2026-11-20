@@ -46,16 +46,16 @@ CATEGORIES:electro,house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ac69157ede6160001290447@club-space.miami-calendars
-DTSTAMP:20261113T101829Z
-LAST-MODIFIED:20261113T101829Z
-SEQUENCE:2
+DTSTAMP:20261120T101823Z
+LAST-MODIFIED:20261120T101823Z
+SEQUENCE:3
 DTSTART:20261123T040000Z
 DTEND:20261124T010000Z
 SUMMARY:The Vault presents Circoloco Records Radio
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags: tech house\nAges: 21+\nhttps://dice.fm/event/92vlg7-the-v
+DESCRIPTION:Tags: tech house\nAges: 18+\nhttps://dice.fm/event/92vlg7-the-v
  ault-presents-circoloco-records-radio-22nd-nov-club-space-miami-miami-tick
- ets?lng=en-US
+ ets?lng=en-US\nhttps://link.dice.fm/headacheground
 URL:https://dice.fm/event/92vlg7-the-vault-presents-circoloco-records-radio
  -22nd-nov-club-space-miami-miami-tickets?lng=en-US
 STATUS:CONFIRMED
@@ -180,20 +180,18 @@ STATUS:CONFIRMED
 CATEGORIES:techno
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-553861@club-space.miami-calendars
-DTSTAMP:20261117T221813Z
-LAST-MODIFIED:20261117T221813Z
+UID:dice-6ace5fff2f9e660001e2b288@club-space.miami-calendars
+DTSTAMP:20261120T101823Z
+LAST-MODIFIED:20261120T101823Z
 SEQUENCE:0
 DTSTART:20261206T040000Z
-DTEND:20261206T180000Z
-SUMMARY:Solomun\, Pachanga Boys\, Magdalena\, Miluhska\, Max Stern\, Siegel
-LOCATION:Club Space\, Heart\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Solomun\, Pachanga Boys\, Magdalena\, Miluhska\, Max St
- ern\, Siegel\nTags (guess): house\, techno\nTimes are an estimate from Clu
- b Space's usual hours - the listing has no start time yet. Check the link.
- \nhttps://shorturl.at/j4pA0\nhttps://edmtrain.com/miami-fl/solomun-pachang
- a-boys-553861
-URL:https://shorturl.at/j4pA0
+DTEND:20261206T230000Z
+SUMMARY:Solomun (Space Basel 2026)
+LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
+DESCRIPTION:Lineup: Solomun\, Pachanga Boys\, Magdalena\, Max Stern\, Siege
+ l\nTags (guess): house\, techno\nhttps://dice.fm/event/6ace5fff2f9e660001e
+ 2b288\nhttps://edmtrain.com/miami-fl/solomun-pachanga-boys-553861
+URL:https://dice.fm/event/6ace5fff2f9e660001e2b288
 STATUS:CONFIRMED
 CATEGORIES:house,techno
 END:VEVENT

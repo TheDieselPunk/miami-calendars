@@ -251,10 +251,6 @@
   "url": "https://shotgun.live/events/vice-rave-car-meetup?utm_source=edmtrain",
   "checked": "2026-11-08"
  },
- "551215": {
-  "url": "https://dice.fm/event/783n2v?pid=d6342b83",
-  "checked": "2026-11-10"
- },
  "551432": {
   "url": "https://notapromoter.com/discover/x1fAERcOUtILOpMgFhpG",
   "checked": "2026-11-09"
@@ -263,6 +259,10 @@
   "url": "https://shotgun.live/events/la-santa-by-mantra?utm_source=edmtrain",
   "checked": "2026-11-09"
  },
+ "551458": {
+  "url": "https://shotgun.live/events/d-meyer-desert-sail-idossa-naza-gold-dario?utm_source=edmtrain",
+  "checked": "2026-11-20"
+ },
  "551477": {
   "url": "https://dice.fm/event/783no6?pid=d6342b83",
   "checked": "2026-11-09"
@@ -270,14 +270,6 @@
  "551510": {
   "url": "https://dice.fm/event/g7oyrp?pid=d6342b83",
   "checked": "2026-11-09"
- },
- "551792": {
-  "url": "https://bubbl.so/e/6lu5GoR?s=2aYEr43aHBe1mVGdTcAZaHdeO1K2",
-  "checked": "2026-11-10"
- },
- "551894": {
-  "url": "https://speakeasygo.com/event/EVE-M9KYLK?t=edmtrain",
-  "checked": "2026-11-15"
  },
  "551979": {
   "url": "https://posh.vip/e/fisher-nye-presented-by-palm-tree-club-miami?t=edmtrain",
@@ -337,14 +329,6 @@
  },
  "552436": {
   "url": "https://speakeasygo.com/event/EVE-T6LFVS?t=edmtrain",
-  "checked": "2026-11-13"
- },
- "552511": {
-  "url": "https://www.eventbrite.com/e/2004681927610?aff=ebdimtedmtrain",
-  "checked": "2026-11-13"
- },
- "552805": {
-  "url": "https://dice.fm/event/kxpr2o?pid=d6342b83",
   "checked": "2026-11-13"
  },
  "552827": {
@@ -411,10 +395,6 @@
   "url": "https://www.livnightclub.com/miami/event/EVE112156200020270116/two-friends/",
   "checked": "2026-11-17"
  },
- "553861": {
-  "url": "https://shorturl.at/j4pA0",
-  "checked": "2026-11-17"
- },
  "553883": {
   "url": "https://posh.vip/e/bass-night-nowhere-special-event?t=edmtrain",
   "checked": "2026-11-17"
@@ -478,5 +458,53 @@
  "554587": {
   "url": "https://dice.fm/event/r32neq?pid=d6342b83",
   "checked": "2026-11-19"
+ },
+ "554620": {
+  "url": "https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzExMTQ2Ojc=/clickthru",
+  "checked": "2026-11-20"
+ },
+ "554778": {
+  "url": "https://music.mila-miami.com?id=co3xpsjaje4jnzzj0xj8owmy3ypd2xr2",
+  "checked": "2026-11-20"
+ },
+ "554779": {
+  "url": "https://music.mila-miami.com?id=oet6s3swqei7fxva4l7q5cqxka54idv6",
+  "checked": "2026-11-20"
+ },
+ "554780": {
+  "url": "https://music.mila-miami.com?id=wi4236rk5l65s2bb86mcj2dmvdds9cgd",
+  "checked": "2026-11-20"
+ },
+ "554781": {
+  "url": "https://music.mila-miami.com?id=vdkfmedktnkeyljxc0p8zqeds9s20mpx",
+  "checked": "2026-11-20"
+ },
+ "554782": {
+  "url": "https://music.mila-miami.com?id=wx8f3fciu55e2y46tmi9s3ofk9bd12k3",
+  "checked": "2026-11-20"
+ },
+ "554823": {
+  "url": "https://ticketmaster.evyy.net/c/254533/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fid%2F15060083",
+  "checked": "2026-11-20"
+ },
+ "554824": {
+  "url": "https://ticketmaster.evyy.net/c/254533/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fid%2F15060093",
+  "checked": "2026-11-20"
+ },
+ "554825": {
+  "url": "https://ticketmaster.evyy.net/c/254533/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fid%2F15060123",
+  "checked": "2026-11-20"
+ },
+ "554827": {
+  "url": "https://dice.fm/event/g7oyb6?pid=d6342b83",
+  "checked": "2026-11-20"
+ },
+ "554854": {
+  "url": "https://ra.co/events/2588964",
+  "checked": "2026-11-20"
+ },
+ "554867": {
+  "url": "https://dice.fm/event/vvp9m7?pid=d6342b83",
+  "checked": "2026-11-20"
  }
 }
