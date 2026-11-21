@@ -1,251 +1,6 @@
 {
  "events": [
   {
-   "id": "19hz:4449199-superqueengta6re",
-   "source": "19hz",
-   "title": "Superqueen: GTA6 Release Party + Karaokiki Happy Hour",
-   "artists": [],
-   "venue": "777 Northeast 79th Street",
-   "venue_slug": null,
-   "date": "2026-11-19",
-   "start": "2026-11-20T01:00:00+00:00",
-   "end": "2026-11-20T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "18+",
-   "price": "free w/rsvp b4 11pm / $10+",
-   "genres": [
-    "big room house",
-    "electro house",
-    "trap"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/superqueen-41"
-  },
-  {
-   "id": "tablelist:209109f986348f4b",
-   "source": "tablelist",
-   "title": "Vicente Garcia",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-11-19",
-   "start": "2026-11-20T01:00:00+00:00",
-   "end": "2026-11-20T06:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://buy.tablelist.com/e/209109f986348f4b"
-  },
-  {
-   "id": "19hz:4449204-dmeyernazagoldda",
-   "source": "19hz",
-   "title": "Dmeyer, Naza Gold, Dario, Idossa & More",
-   "artists": [],
-   "venue": "Aire Miami",
-   "venue_slug": null,
-   "date": "2026-11-19",
-   "start": "2026-11-20T02:00:00+00:00",
-   "end": "2026-11-20T09:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "free w/rsvp b4 midnight / $20",
-   "genres": [
-    "house"
-   ],
-   "genres_inferred": false,
-   "organizer": "Pitchpark Events",
-   "description": "",
-   "url": "https://ra.co/events/2578674"
-  },
-  {
-   "id": "19hz:4449204-femmefrequencyso",
-   "source": "19hz",
-   "title": "Femme Frequency / Soiree: Penny Lane / Darelectric /Psy Chic",
-   "artists": [],
-   "venue": "Mad Radio",
-   "venue_slug": "mad-radio",
-   "date": "2026-11-19",
-   "start": "2026-11-20T02:00:00+00:00",
-   "end": "2026-11-20T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "25+",
-   "price": "free",
-   "genres": [
-    "house",
-    "tech house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/madradiomiami111926"
-  },
-  {
-   "id": "19hz:4449204-blurindiesleazet",
-   "source": "19hz",
-   "title": "Blur Indie Sleaze Thursdays",
-   "artists": [],
-   "venue": "Respectable Street",
-   "venue_slug": null,
-   "date": "2026-11-19",
-   "start": "2026-11-20T02:00:00+00:00",
-   "end": "2026-11-20T04:00:00+00:00",
-   "time_estimated": false,
-   "address": "West Palm Beach",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.facebook.com/events/1872625933915927/"
-  },
-  {
-   "id": "19hz:4449208-secretthursdaysb",
-   "source": "19hz",
-   "title": "Secret Thursdays: Briella, Jon.Z, Linalove, Meeshy, Reydel, Salynn, Sunny D",
-   "artists": [],
-   "venue": "Do Not Sit On The Furniture",
-   "venue_slug": null,
-   "date": "2026-11-19",
-   "start": "2026-11-20T03:00:00+00:00",
-   "end": "2026-11-20T10:00:00+00:00",
-   "time_estimated": false,
-   "address": "Miami Beach",
-   "ages": "21+",
-   "price": "free w/rsvp b4 midnight ladies / $18-24",
-   "genres": [
-    "progressive house",
-    "tech house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://link.dice.fm/l12eed94292c"
-  },
-  {
-   "id": "19hz:4449208-rayzirprincegseg",
-   "source": "19hz",
-   "title": "Rayzir, Prince!, G. Segurola",
-   "artists": [],
-   "venue": "Jolene Downtown",
-   "venue_slug": "jolene",
-   "date": "2026-11-19",
-   "start": "2026-11-20T03:00:00+00:00",
-   "end": "2026-11-20T09:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "$12",
-   "genres": [
-    "minimal",
-    "tech house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/pyxbmp-the-groove-palace-rayzir-19th-nov-jolene-sound-room-miami-miami-tickets"
-  },
-  {
-   "id": "19hz:4449208-nervousxnegronid",
-   "source": "19hz",
-   "title": "Nervous X Negroni DJ Showcase",
-   "artists": [],
-   "venue": "Negroni Bistro & Sushi Bar",
-   "venue_slug": null,
-   "date": "2026-11-19",
-   "start": "2026-11-20T03:00:00+00:00",
-   "end": "2026-11-20T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "$17.25",
-   "genres": [
-    "afro house",
-    "tech house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://ra.co/events/2566361"
-  },
-  {
-   "id": "19hz:4449211-globalhousemusic",
-   "source": "19hz",
-   "title": "Global House Music w/ Gianni Blu, Unomas",
-   "artists": [],
-   "venue": "Mynt Lounge",
-   "venue_slug": null,
-   "date": "2026-11-19",
-   "start": "2026-11-20T04:00:00+00:00",
-   "end": "2026-11-20T10:00:00+00:00",
-   "time_estimated": false,
-   "address": "Miami Beach",
-   "ages": "21+",
-   "price": "$24+",
-   "genres": [
-    "edm",
-    "house"
-   ],
-   "genres_inferred": false,
-   "organizer": "Royale Society & Blaz Ent",
-   "description": "",
-   "url": "https://posh.vip/e/gianni-blu-presents-global-house-music"
-  },
-  {
-   "id": "19hz:4449214-vanjee",
-   "source": "19hz",
-   "title": "Vanjee",
-   "artists": [],
-   "venue": "Mila Lounge",
-   "venue_slug": null,
-   "date": "2026-11-19",
-   "start": "2026-11-20T04:30:00+00:00",
-   "end": "2026-11-20T09:00:00+00:00",
-   "time_estimated": false,
-   "address": "Miami Beach",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "tech house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://music.mila-miami.com/"
-  },
-  {
-   "id": "19hz:4449214-chrisvalencia",
-   "source": "19hz",
-   "title": "Chris Valencia",
-   "artists": [],
-   "venue": "Selva",
-   "venue_slug": null,
-   "date": "2026-11-19",
-   "start": "2026-11-20T04:30:00+00:00",
-   "end": "2026-11-20T09:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "$25+",
-   "genres": [
-    "tech house"
-   ],
-   "genres_inferred": false,
-   "organizer": "Selva",
-   "description": "",
-   "url": "https://posh.vip/e/chris-valencia-selva-10"
-  },
-  {
    "id": "19hz:4449295-gtaviofficiallau",
    "source": "19hz+edmtrain",
    "title": "GTA VI Official Launch Party Ft Anotr + Jt",
@@ -353,26 +108,6 @@
    "url": "https://ra.co/events/2537402"
   },
   {
-   "id": "shotgun:rami-it-s-jude-jad-abousabe-and-voyz",
-   "source": "shotgun",
-   "title": "Rami + It’S Jude, Jad Abousabe, And Voyz",
-   "artists": [],
-   "venue": "AIRE Miami",
-   "venue_slug": null,
-   "date": "2026-11-20",
-   "start": "2026-11-21T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$22.70",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/rami-it-s-jude-jad-abousabe-and-voyz"
-  },
-  {
    "id": "19hz:4449300-sobeafterdarkthe",
    "source": "19hz",
    "title": "SOBE After Dark � The Premiere: MindGazm, Sunny D, Mish, Tiffany Romero",
@@ -397,37 +132,26 @@
    "url": "https://partiful.com/e/OEoTyBTPT6TcOT2OPVHG"
   },
   {
-   "id": "shotgun:madradiomiami112026",
-   "source": "19hz+shotgun",
-   "title": "Camaraderie: Puma / Harry Hm / Amaré",
+   "id": "19hz:4449300-camaraderiepumah",
+   "source": "19hz",
+   "title": "Camaraderie: Puma / Harry Hm / Amare",
    "artists": [],
-   "venue": "Mad Radio Miami",
+   "venue": "Mad Radio",
    "venue_slug": "mad-radio",
    "date": "2026-11-20",
    "start": "2026-11-21T02:00:00+00:00",
    "end": "2026-11-21T08:00:00+00:00",
    "time_estimated": false,
-   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "address": "",
    "ages": "25+",
-   "price": "$21.80",
+   "price": "free w/rsvp b4 10pm / $22",
    "genres": [
     "house"
    ],
    "genres_inferred": false,
-   "organizer": "Mad Radio Miami",
-   "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY BEFORE 10 PM / FREE ENTRY LADIES UNTIL MIDNIGHT +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
-   "url": "https://shotgun.live/en/events/madradiomiami112026",
-   "tickets": "AFTER 10 PM $20, FREE LADIES RSVP BEFORE 12 AM Free",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.8462027,
-    "longitude": -80.1851332
-   },
-   "created": "2026-11-05T19:28:07.000Z",
-   "alt_urls": [
-    "https://shotgun.live/en/events/madradiomiami112026"
-   ]
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/madradiomiami112026"
   },
   {
    "id": "19hz:4449300-vicecityafterdar",
@@ -500,53 +224,6 @@
    "url": "https://shotgun.live/en/events/clubperreo-3"
   },
   {
-   "id": "shotgun:bloom-m2-7",
-   "source": "19hz+shotgun",
-   "title": "Ctrl Room",
-   "artists": [],
-   "venue": "Club M2 Miami",
-   "venue_slug": null,
-   "date": "2026-11-20",
-   "start": "2026-11-21T03:00:00+00:00",
-   "end": "2026-11-21T09:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "$20.00",
-   "genres": [
-    "tech house",
-    "techno"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/bloom-m2-7",
-   "alt_urls": [
-    "https://ra.co/events/2582273"
-   ]
-  },
-  {
-   "id": "hardrock:206018",
-   "source": "venue",
-   "title": "Fabolous",
-   "artists": [],
-   "venue": "DAER Nightclub",
-   "venue_slug": "daer",
-   "date": "2026-11-20",
-   "start": "2026-11-21T03:00:00+00:00",
-   "end": "2026-11-21T09:00:00+00:00",
-   "time_estimated": false,
-   "address": "1 Seminole Way, Hollywood, FL 33314",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://tixr.com/e/206018",
-   "generic_title": false
-  },
-  {
    "id": "19hz:4449304-halovargasurreal",
    "source": "19hz+edmtrain",
    "title": "Halo Varga, Surreal Flight",
@@ -603,32 +280,6 @@
    ]
   },
   {
-   "id": "shotgun:miguel-bastida-something-chill-nov-20",
-   "source": "19hz+shotgun",
-   "title": "Miguel Bastida By Something Chill",
-   "artists": [],
-   "venue": "EDGE MIAMI",
-   "venue_slug": null,
-   "date": "2026-11-20",
-   "start": "2026-11-21T03:00:00+00:00",
-   "end": "2026-11-21T10:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "$20.00",
-   "genres": [
-    "house",
-    "tech house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/miguel-bastida-something-chill-nov-20",
-   "alt_urls": [
-    "https://shotgun.live/events/miguel-bastida-something-chill-nov-20"
-   ]
-  },
-  {
    "id": "19hz:4449304-guyscheiman",
    "source": "19hz+edmtrain",
    "title": "Guy Scheiman",
@@ -655,6 +306,29 @@
    "alt_urls": [
     "https://edmtrain.com/fort-lauderdale-fl/guy-scheiman-545838"
    ]
+  },
+  {
+   "id": "19hz:4449304-miguelbastidahan",
+   "source": "19hz",
+   "title": "Miguel Bastida, Hannah, Maulini, Brylin Washington, Greenhouse, JOUZA, 717",
+   "artists": [],
+   "venue": "Edge",
+   "venue_slug": null,
+   "date": "2026-11-20",
+   "start": "2026-11-21T03:00:00+00:00",
+   "end": "2026-11-21T10:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "free w/rsvp b4 midnight / $20",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "Humans Alike, Something Chill",
+   "description": "",
+   "url": "https://shotgun.live/events/miguel-bastida-something-chill-nov-20"
   },
   {
    "id": "19hz:4449304-eliescobardjlloy",
@@ -766,47 +440,27 @@
    "url": "https://www.therumor.com/p/joeski"
   },
   {
-   "id": "shotgun:clubperreo-3",
-   "source": "shotgun",
-   "title": "Club Perreo",
+   "id": "19hz:4449304-ctrlroom",
+   "source": "19hz",
+   "title": "Ctrl Room",
    "artists": [],
-   "venue": "Miami",
+   "venue": "M2",
    "venue_slug": null,
    "date": "2026-11-20",
    "start": "2026-11-21T03:00:00+00:00",
-   "end": null,
+   "end": "2026-11-21T09:00:00+00:00",
    "time_estimated": false,
    "address": "",
-   "ages": "",
-   "price": "$10.00",
+   "ages": "21+",
+   "price": "free w/rsvp b4 1 / $20",
    "genres": [
-    "reggaeton",
-    "latin"
+    "tech house",
+    "techno"
    ],
    "genres_inferred": false,
-   "organizer": "",
+   "organizer": "Pitchpark Events",
    "description": "",
-   "url": "https://shotgun.live/en/events/clubperreo-3"
-  },
-  {
-   "id": "shotgun:material-things-4",
-   "source": "shotgun",
-   "title": "Material Things",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-11-20",
-   "start": "2026-11-21T03:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$12.00",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/material-things-4"
+   "url": "https://ra.co/events/2582273"
   },
   {
    "id": "19hz:4449304-specialguests",
@@ -831,42 +485,33 @@
    "url": "https://ra.co/events/2528919"
   },
   {
-   "id": "shotgun:solmates-presents-sparrow-more",
-   "source": "19hz+dice+edmtrain+shotgun+tablelist+venue",
-   "title": "Solmates Presents Sparrow & More",
+   "id": "dice:6adff5fd8be4730001f56177",
+   "source": "19hz+dice+edmtrain+tablelist",
+   "title": "SOLMATES PRESENTS SPARROW (CH)",
    "artists": [
     "Sparrow"
    ],
-   "venue": "ZeyZey Miami",
+   "venue": "ZeyZey",
    "venue_slug": "zeyzey",
    "date": "2026-11-20",
    "start": "2026-11-21T03:00:00+00:00",
    "end": "2026-11-21T08:00:00+00:00",
    "time_estimated": false,
-   "address": "353 Northeast 61st Street, Miami, FL 33137, USA",
+   "address": "353 Northeast 61st Street, Miami, Florida 33137, United States",
    "ages": "",
-   "price": "$34.05",
+   "price": "From $27",
    "genres": [
     "afro house",
     "latin house"
    ],
    "genres_inferred": false,
-   "organizer": "Solmates Miami",
-   "description": "Solmates returns for another night built around the sounds that bring us together. A meeting point for melody, groove, and forward-thinking electronic music, where hypnotic rhythms and emotive sounds set the tone from the first record to the last. Rooted in connection and driven by a shared love for music, Solmates creates a space where different influences meet, new discoveries unfold, and the dancefloor becomes something more than just a place to move. One room, one atmosphere, and a night made for the moments that stay with you. See you on the dancefloor.",
-   "url": "https://shotgun.live/en/events/solmates-presents-sparrow-more",
-   "tickets": "Pre-Sale & General Admission 1 $20 (sold out), General Admission 2 $25 (sold out), General Admission 3 $30, VIP $45",
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6adff5fd8be4730001f56177",
    "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.8327584,
-    "longitude": -80.1890685
-   },
-   "created": "2026-10-26T22:37:01.000Z",
    "alt_urls": [
-    "https://dice.fm/event/6adff5fd8be4730001f56177",
     "https://buy.tablelist.com/e/290d1d974df30991",
     "https://buy.tablelist.com/e/3cd935868309e1a6",
-    "https://calendar.zeyzeymiami.com/shows/solmates-presents-sparrow-more-20-nov",
     "https://shotgun.live/en/events/solmates-presents-sparrow-more",
     "https://edmtrain.com/miami-fl/solmates-presents-sparrow-ch-548040"
    ]
@@ -919,7 +564,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $60",
+   "price": "From $70",
    "genres": [
     "bass house",
     "tech house"
@@ -935,9 +580,9 @@
    ]
   },
   {
-   "id": "dice:6abe802c0957150001d27a61",
-   "source": "19hz+dice+edmtrain",
-   "title": "Floyd at The Vault: Fletch",
+   "id": "19hz:4449307-fletchrajeb2b2up",
+   "source": "19hz+edmtrain",
+   "title": "Fletch, raje b2b 2up!, messous, Bryan Softwell",
    "artists": [
     "Fletch",
     "Raje",
@@ -951,9 +596,9 @@
    "start": "2026-11-21T04:00:00+00:00",
    "end": "2026-11-21T10:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": "From $15",
+   "price": "$14.99",
    "genres": [
     "house",
     "techno"
@@ -962,9 +607,7 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/7d96y6-floyd-at-the-vault-fletch-20th-nov-floyd-miami-miami-tickets",
-   "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/7d96y6-floyd-at-the-vault-fletch-20th-nov-floyd-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/fletch-raje-552840"
    ]
   },
@@ -1490,7 +1133,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "Free w/RSVP b4 midnight / $20",
+   "price": "free w/rsvp b4 midnight / $20",
    "genres": [
     "afro house"
    ],
@@ -3276,7 +2919,7 @@
   },
   {
    "id": "dice:6abbde6877c894000165e049",
-   "source": "dice",
+   "source": "19hz+dice",
    "title": "PAYÉ",
    "artists": [],
    "venue": "The Ground Miami",
@@ -3286,17 +2929,20 @@
    "end": "2026-11-26T12:00:00+00:00",
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
+   "ages": "21+",
    "price": "From $10",
    "genres": [
     "house",
-    "techno"
+    "tech house"
    ],
-   "genres_inferred": true,
+   "genres_inferred": false,
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6abbde6877c894000165e049",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://link.dice.fm/payenovground"
+   ]
   },
   {
    "id": "edmtrain:554035",
@@ -3596,6 +3242,30 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/gaeb-mewsha-jon-roc"
+  },
+  {
+   "id": "19hz:4449972-sobeafterdarkbla",
+   "source": "19hz",
+   "title": "Sobe After Dark � Black Lace & Lingerie Edition: Mindgazm, 717, Ahyoka, Grace Jenn",
+   "artists": [],
+   "venue": "J'adore",
+   "venue_slug": null,
+   "date": "2026-11-27",
+   "start": "2026-11-28T02:00:00+00:00",
+   "end": "2026-11-28T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "Miami Beach",
+   "ages": "21+",
+   "price": "$25 - $75",
+   "genres": [
+    "deep house",
+    "progressive house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "Mr. Secret",
+   "description": "",
+   "url": "https://partiful.com/e/uTQyQqF6CUiAUmIr3cA0"
   },
   {
    "id": "shotgun:madradiomiami112726",
@@ -5453,7 +5123,7 @@
   {
    "id": "19hz:4450204-rawafterhoursclo",
    "source": "19hz",
-   "title": "Raw Afterhours & Closing Party � Isis Muretech, Ana Paula",
+   "title": "Raw Afterhours & Closing Party + Isis Muretech, Ana Paula",
    "artists": [],
    "venue": "Revenge Miami",
    "venue_slug": null,

@@ -8,47 +8,23 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:tablelist-209109f986348f4b@zeyzey.miami-calendars
-DTSTAMP:20261120T101823Z
-LAST-MODIFIED:20261120T101823Z
-SEQUENCE:2
-DTSTART:20261120T010000Z
-DTEND:20261120T060000Z
-SUMMARY:Vicente Garcia
-LOCATION:ZeyZey Miami
-DESCRIPTION:https://buy.tablelist.com/e/209109f986348f4b
-URL:https://buy.tablelist.com/e/209109f986348f4b
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:solmates-presents-sparrow-more@shotgun.live
-DTSTAMP:20261121T041809Z
-LAST-MODIFIED:20261121T041809Z
-SEQUENCE:7
+UID:dice-6adff5fd8be4730001f56177@zeyzey.miami-calendars
+DTSTAMP:20261121T101804Z
+LAST-MODIFIED:20261121T101804Z
+SEQUENCE:0
 DTSTART:20261121T030000Z
 DTEND:20261121T080000Z
-SUMMARY:Solmates Presents Sparrow & More
-LOCATION:ZeyZey Miami\, 353 Northeast 61st Street\, Miami\, FL 33137\, USA
-DESCRIPTION:Solmates returns for another night built around the sounds that
-  bring us together. A meeting point for melody\, groove\, and forward-thin
- king electronic music\, where hypnotic rhythms and emotive sounds set the 
- tone from the first record to the last. Rooted in connection and driven by
-  a shared love for music\, Solmates creates a space where different influe
- nces meet\, new discoveries unfold\, and the dancefloor becomes something 
- more than just a place to move. One room\, one atmosphere\, and a night ma
- de for the moments that stay with you. See you on the dancefloor.\nLineup:
-  Sparrow\nTags: afro house\, latin house\nPresented by: Solmates Miami\nTi
- ckets: Pre-Sale & General Admission 1 $20 (sold out)\, General Admission 2
-  $25 (sold out)\, General Admission 3 $30\, VIP $45\nhttps://shotgun.live/
- en/events/solmates-presents-sparrow-more\nhttps://buy.tablelist.com/e/290d
- 1d974df30991\nhttps://buy.tablelist.com/e/3cd935868309e1a6\nhttps://calend
- ar.zeyzeymiami.com/shows/solmates-presents-sparrow-more-20-nov\nhttps://di
- ce.fm/event/6adff5fd8be4730001f56177\nhttps://edmtrain.com/miami-fl/solmat
- es-presents-sparrow-ch-548040
-URL:https://shotgun.live/en/events/solmates-presents-sparrow-more
+SUMMARY:SOLMATES PRESENTS SPARROW (CH)
+LOCATION:ZeyZey\, 353 Northeast 61st Street\, Miami\, Florida 33137\, Unite
+ d States
+DESCRIPTION:Lineup: Sparrow\nTags: afro house\, latin house\nhttps://dice.f
+ m/event/6adff5fd8be4730001f56177\nhttps://buy.tablelist.com/e/290d1d974df3
+ 0991\nhttps://buy.tablelist.com/e/3cd935868309e1a6\nhttps://edmtrain.com/m
+ iami-fl/solmates-presents-sparrow-ch-548040\nhttps://shotgun.live/en/event
+ s/solmates-presents-sparrow-more
+URL:https://dice.fm/event/6adff5fd8be4730001f56177
 STATUS:CONFIRMED
 CATEGORIES:afro house,latin house
-GEO:25.8327584;-80.1890685
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-selects-donny-benet@shotgun.live

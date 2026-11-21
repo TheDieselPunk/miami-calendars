@@ -8,41 +8,19 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4449204-femmefrequencyso@mad-radio.miami-calendars
-DTSTAMP:20261120T101823Z
-LAST-MODIFIED:20261120T101823Z
+UID:19hz-4449300-camaraderiepumah@mad-radio.miami-calendars
+DTSTAMP:20261121T101804Z
+LAST-MODIFIED:20261121T101804Z
 SEQUENCE:0
-DTSTART:20261120T020000Z
-DTEND:20261120T080000Z
-SUMMARY:Femme Frequency / Soiree: Penny Lane / Darelectric /Psy Chic
-LOCATION:Mad Radio
-DESCRIPTION:Tags: house\, tech house\nAges: 25+\nhttps://shotgun.live/en/ev
- ents/madradiomiami111926
-URL:https://shotgun.live/en/events/madradiomiami111926
-STATUS:CONFIRMED
-CATEGORIES:house,tech house
-END:VEVENT
-BEGIN:VEVENT
-UID:madradiomiami112026@shotgun.live
-DTSTAMP:20261113T041825Z
-LAST-MODIFIED:20261113T041825Z
-SEQUENCE:1
 DTSTART:20261121T020000Z
 DTEND:20261121T080000Z
-SUMMARY:Camaraderie: Puma / Harry Hm / Amaré
-LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
-DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
- ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
-  our slick radio show serving up the latest tracks. Save the date and cath
-  the urban-chic experience at Mad Radio Miami. See you on the dance floor!
-  Come early\, stay late\, and let the night unfold FREE ENTRY BEFORE 10 PM
-  / FREE ENTRY LADIES UNTIL MIDNIGHT +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
- \nTags: house\nTickets: AFTER 10 PM $20\, FREE LADIES RSVP BEFORE 12 AM Fr
- ee\nAges: 25+\nhttps://shotgun.live/en/events/madradiomiami112026
+SUMMARY:Camaraderie: Puma / Harry Hm / Amare
+LOCATION:Mad Radio
+DESCRIPTION:Tags: house\nAges: 25+\nhttps://shotgun.live/en/events/madradio
+ miami112026
 URL:https://shotgun.live/en/events/madradiomiami112026
 STATUS:CONFIRMED
 CATEGORIES:house
-GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami112126@shotgun.live
@@ -159,9 +137,9 @@ GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami120426@shotgun.live
-DTSTAMP:20261121T041809Z
-LAST-MODIFIED:20261121T041809Z
-SEQUENCE:3
+DTSTAMP:20261121T101804Z
+LAST-MODIFIED:20261121T101804Z
+SEQUENCE:5
 DTSTART:20261205T020000Z
 DTEND:20261205T080000Z
 SUMMARY:Art Basel / Toy Tonics: Cody Currie
