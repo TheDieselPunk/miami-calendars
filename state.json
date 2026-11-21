@@ -200,9 +200,9 @@
   "modified": "2026-11-13T10:18:29+00:00"
  },
  "berlin1@shotgun.live": {
-  "hash": "9f3a269e95ea51f1",
-  "seq": 0,
-  "modified": "2026-11-20T10:18:23+00:00"
+  "hash": "1bde76527baab0fd",
+  "seq": 1,
+  "modified": "2026-11-21T04:18:09+00:00"
  },
  "black-friday-cover-show@shotgun.live": {
   "hash": "b8090d8bc5f67b2c",
@@ -795,9 +795,9 @@
   "modified": "2026-09-22T00:50:09+00:00"
  },
  "edmtrain-492064@festivals.miami-calendars": {
-  "hash": "6f0b8d6662a95ffe",
-  "seq": 2,
-  "modified": "2026-09-22T00:50:09+00:00"
+  "hash": "7032238ca353a8dd",
+  "seq": 3,
+  "modified": "2026-11-21T04:18:09+00:00"
  },
  "edmtrain-496902@festivals.miami-calendars": {
   "hash": "3006988ecb31c4a9",
@@ -883,6 +883,11 @@
   "hash": "0fb1ab65c723c842",
   "seq": 0,
   "modified": "2026-11-20T10:18:23+00:00"
+ },
+ "edmtrain-555218@zeyzey.miami-calendars": {
+  "hash": "dc0fe50ca6740dd6",
+  "seq": 0,
+  "modified": "2026-11-21T04:18:09+00:00"
  },
  "equinox-fest-4-day-2-3-november-21-22nd@shotgun.live": {
   "hash": "e9c75d0204f31fa2",
@@ -1270,9 +1275,9 @@
   "modified": "2026-11-13T10:18:29+00:00"
  },
  "madradiomiami112526@shotgun.live": {
-  "hash": "20b0c2460aa1b312",
-  "seq": 1,
-  "modified": "2026-11-13T10:18:29+00:00"
+  "hash": "a96d2347056e021b",
+  "seq": 2,
+  "modified": "2026-11-21T04:18:09+00:00"
  },
  "madradiomiami112626@shotgun.live": {
   "hash": "9472ebe6c9a3ed41",
@@ -1290,9 +1295,9 @@
   "modified": "2026-11-20T10:18:23+00:00"
  },
  "madradiomiami120426@shotgun.live": {
-  "hash": "6bec8445fbb6b7d0",
-  "seq": 2,
-  "modified": "2026-11-20T10:18:23+00:00"
+  "hash": "288256f6a655a344",
+  "seq": 4,
+  "modified": "2026-11-21T04:18:09+00:00"
  },
  "paloma-morphy-miami@shotgun.live": {
   "hash": "2171347b9765ad53",
@@ -1310,9 +1315,9 @@
   "modified": "2026-11-20T10:18:23+00:00"
  },
  "solmates-presents-sparrow-more@shotgun.live": {
-  "hash": "f6734e4be9e7e121",
-  "seq": 6,
-  "modified": "2026-11-20T22:18:10+00:00"
+  "hash": "1913afab92cef245",
+  "seq": 7,
+  "modified": "2026-11-21T04:18:09+00:00"
  },
  "tablelist-03aeb9a56506c2ac@zeyzey.miami-calendars": {
   "hash": "f3134c08c6e24f9d",
@@ -1354,15 +1359,15 @@
   "seq": 0,
   "modified": "2026-11-12T22:18:23+00:00"
  },
- "the-roar-battle-of-the-bands@shotgun.live": {
-  "hash": "bcb0d51797b5b359",
-  "seq": 0,
-  "modified": "2026-11-19T16:18:17+00:00"
- },
  "vice-city-world-art-basel-show-2026@shotgun.live": {
   "hash": "812b91f0a476ca4d",
   "seq": 3,
   "modified": "2026-11-11T22:18:27+00:00"
+ },
+ "vicereality@shotgun.live": {
+  "hash": "e8bcee0f5fa18197",
+  "seq": 0,
+  "modified": "2026-11-21T04:18:09+00:00"
  },
  "witchouse-rave@shotgun.live": {
   "hash": "7443a303da2272e1",

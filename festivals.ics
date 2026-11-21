@@ -135,18 +135,33 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:berlin1@shotgun.live
-DTSTAMP:20261120T101823Z
-LAST-MODIFIED:20261120T101823Z
-SEQUENCE:0
+DTSTAMP:20261121T041809Z
+LAST-MODIFIED:20261121T041809Z
+SEQUENCE:1
 DTSTART:20261129T030000Z
 DTEND:20261129T080000Z
 SUMMARY:Night In Berlin
 LOCATION:Miami
-DESCRIPTION:Tags: industrial techno\, techno\, house\nhttps://shotgun.live/
- en/events/berlin1
+DESCRIPTION:Tags: house\, industrial techno\, techno\nhttps://shotgun.live/
+ en/events/berlin1\nhttps://edmtrain.com/miami-fl/night-in-berlin-555065
 URL:https://shotgun.live/en/events/berlin1
 STATUS:CONFIRMED
-CATEGORIES:industrial techno,techno,house
+CATEGORIES:house,industrial techno,techno
+END:VEVENT
+BEGIN:VEVENT
+UID:vicereality@shotgun.live
+DTSTAMP:20261121T041809Z
+LAST-MODIFIED:20261121T041809Z
+SEQUENCE:0
+DTSTART:20261129T040000Z
+DTEND:20261129T090000Z
+SUMMARY:Vicereality
+LOCATION:Miami
+DESCRIPTION:Tags: tech house\, rock\, techno\nhttps://shotgun.live/en/event
+ s/vicereality
+URL:https://shotgun.live/en/events/vicereality
+STATUS:CONFIRMED
+CATEGORIES:tech house,rock,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:humans-alike-sundays-nov-29@shotgun.live
@@ -454,6 +469,30 @@ URL:https://dice.fm/partner/tickets/event/2wqeoa-unkommon-events-framework-
  present-anotr-4th-dec-watson-island-park-miami-beach-tickets
 STATUS:CONFIRMED
 CATEGORIES:tech house
+END:VEVENT
+BEGIN:VEVENT
+UID:madradiomiami120426@shotgun.live
+DTSTAMP:20261121T041809Z
+LAST-MODIFIED:20261121T041809Z
+SEQUENCE:4
+DTSTART:20261205T020000Z
+DTEND:20261205T080000Z
+SUMMARY:Art Basel / Toy Tonics: Cody Currie
+LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
+DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
+ ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
+  our slick radio show serving up the latest tracks. Save the date and cath
+  the urban-chic experience at Mad Radio Miami. See you on the dance floor!
+  Come early\, stay late\, and let the night unfold FREE ENTRY BEFORE 10 PM
+  / FREE ENTRY LADIES UNTIL MIDNIGHT +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
+ \nLineup: Cody Currie\nTags: house\nPresented by: Mad Radio Miami\nTickets
+ : AFTER 10 PM $20\, FREE LADIES RSVP BEFORE 12 AM Free\nAges: 25+\nhttps:/
+ /shotgun.live/en/events/madradiomiami120426\nhttps://edmtrain.com/miami-fl
+ /cody-currie-554828
+URL:https://shotgun.live/en/events/madradiomiami120426
+STATUS:CONFIRMED
+CATEGORIES:house
+GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:lunasol-pres-tortuga@shotgun.live
@@ -896,6 +935,22 @@ URL:https://www.webelonghere.world/miami/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:edmtrain-492064@festivals.miami-calendars
+DTSTAMP:20261121T041809Z
+LAST-MODIFIED:20261121T041809Z
+SEQUENCE:3
+DTSTART:20270326T190000Z
+DTEND:20270327T060000Z
+SUMMARY:Ultra Miami
+LOCATION:Bayfront Park\, 301 Biscayne Blvd\, Miami\, FL 33132\, USA
+DESCRIPTION:Times are an estimate from Festivals & one-offs's usual hours -
+  the listing has no start time yet. Check the link.\nhttps://ultramusicfes
+ tival.com/tickets/miami-2027\nhttps://edmtrain.com/miami-fl/ultra-miami-49
+ 2064
+URL:https://ultramusicfestival.com/tickets/miami-2027
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:edmtrain-492062@festivals.miami-calendars
 DTSTAMP:20260922T005009Z
 LAST-MODIFIED:20260922T005009Z
@@ -924,22 +979,6 @@ DESCRIPTION:Times are an estimate from Festivals & one-offs's usual hours -
   the listing has no start time yet. Check the link.\nhttps://ultramusicfes
  tival.com/tickets/miami-2027\nhttps://edmtrain.com/miami-fl/ultra-miami-49
  2063
-URL:https://ultramusicfestival.com/tickets/miami-2027
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:edmtrain-492064@festivals.miami-calendars
-DTSTAMP:20260922T005009Z
-LAST-MODIFIED:20260922T005009Z
-SEQUENCE:2
-DTSTART:20270329T190000Z
-DTEND:20270330T060000Z
-SUMMARY:Ultra Miami
-LOCATION:Bayfront Park\, 301 Biscayne Blvd\, Miami\, FL 33132\, USA
-DESCRIPTION:Times are an estimate from Festivals & one-offs's usual hours -
-  the listing has no start time yet. Check the link.\nhttps://ultramusicfes
- tival.com/tickets/miami-2027\nhttps://edmtrain.com/miami-fl/ultra-miami-49
- 2064
 URL:https://ultramusicfestival.com/tickets/miami-2027
 STATUS:CONFIRMED
 END:VEVENT

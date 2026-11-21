@@ -22,9 +22,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:solmates-presents-sparrow-more@shotgun.live
-DTSTAMP:20261120T221810Z
-LAST-MODIFIED:20261120T221810Z
-SEQUENCE:6
+DTSTAMP:20261121T041809Z
+LAST-MODIFIED:20261121T041809Z
+SEQUENCE:7
 DTSTART:20261121T030000Z
 DTEND:20261121T080000Z
 SUMMARY:Solmates Presents Sparrow & More
@@ -37,18 +37,17 @@ DESCRIPTION:Solmates returns for another night built around the sounds that
  nces meet\, new discoveries unfold\, and the dancefloor becomes something 
  more than just a place to move. One room\, one atmosphere\, and a night ma
  de for the moments that stay with you. See you on the dancefloor.\nLineup:
-  Sparrow\nTags: afro house\, indie/alternative\, latin house\nPresented by
- : Solmates Miami\nTickets: Pre-Sale & General Admission 1 $20 (sold out)\,
-  General Admission 2 $25 (sold out)\, General Admission 3 $30\, VIP $45\nh
- ttps://shotgun.live/en/events/solmates-presents-sparrow-more\nhttps://buy.
- tablelist.com/e/290d1d974df30991\nhttps://buy.tablelist.com/e/3cd935868309
- e1a6\nhttps://calendar.zeyzeymiami.com/shows/solmates-presents-sparrow-mor
- e-20-nov\nhttps://calendar.zeyzeymiami.com/shows/the-hails-21-nov\nhttps:/
- /dice.fm/event/6adff5fd8be4730001f56177\nhttps://edmtrain.com/miami-fl/sol
- mates-presents-sparrow-ch-548040
+  Sparrow\nTags: afro house\, latin house\nPresented by: Solmates Miami\nTi
+ ckets: Pre-Sale & General Admission 1 $20 (sold out)\, General Admission 2
+  $25 (sold out)\, General Admission 3 $30\, VIP $45\nhttps://shotgun.live/
+ en/events/solmates-presents-sparrow-more\nhttps://buy.tablelist.com/e/290d
+ 1d974df30991\nhttps://buy.tablelist.com/e/3cd935868309e1a6\nhttps://calend
+ ar.zeyzeymiami.com/shows/solmates-presents-sparrow-more-20-nov\nhttps://di
+ ce.fm/event/6adff5fd8be4730001f56177\nhttps://edmtrain.com/miami-fl/solmat
+ es-presents-sparrow-ch-548040
 URL:https://shotgun.live/en/events/solmates-presents-sparrow-more
 STATUS:CONFIRMED
-CATEGORIES:afro house,indie/alternative,latin house
+CATEGORIES:afro house,latin house
 GEO:25.8327584;-80.1890685
 END:VEVENT
 BEGIN:VEVENT
@@ -342,6 +341,23 @@ DESCRIPTION:Tags: future beats\, hip-hop\, world club\nAges: 21+\nhttps://c
 URL:https://calendar.zeyzeymiami.com/shows/soulection-friends-05-dec
 STATUS:CONFIRMED
 CATEGORIES:future beats,hip-hop,world club
+END:VEVENT
+BEGIN:VEVENT
+UID:edmtrain-555218@zeyzey.miami-calendars
+DTSTAMP:20261121T041809Z
+LAST-MODIFIED:20261121T041809Z
+SEQUENCE:0
+DTSTART:20261206T000000Z
+DTEND:20261206T060000Z
+SUMMARY:Soulection
+LOCATION:ZeyZey Miami\, 353 NE 61st St\, Miami\, FL 33137\, USA
+DESCRIPTION:Times are an estimate from ZeyZey Miami's usual hours - the lis
+ ting has no start time yet. Check the link.\nhttps://calendar.zeyzeymiami.
+ com/shows/soulection-friends-05-dec#tickets\nhttps://edmtrain.com/miami-fl
+ /soulection-555218
+URL:https://calendar.zeyzeymiami.com/shows/soulection-friends-05-dec#ticket
+ s
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-sam-gellaitry-darius-05-dec@zeyzey.miami-calendars

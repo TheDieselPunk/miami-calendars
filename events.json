@@ -246,34 +246,6 @@
    "url": "https://posh.vip/e/chris-valencia-selva-10"
   },
   {
-   "id": "shotgun:the-roar-battle-of-the-bands",
-   "source": "shotgun",
-   "title": "The Roar // Battle Of The Bands",
-   "artists": [],
-   "venue": "The Boombox Miami",
-   "venue_slug": "boombox",
-   "date": "2026-11-20",
-   "start": "2026-11-20T23:00:00+00:00",
-   "end": "2026-11-21T04:00:00+00:00",
-   "time_estimated": false,
-   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
-   "ages": "",
-   "price": "$10.00",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "The Boombox Miami",
-   "description": "BATTLE OF THE BANDS THE ROAR FIU X THE BOOMBOX",
-   "url": "https://shotgun.live/en/events/the-roar-battle-of-the-bands",
-   "tickets": "GA $10",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.7287781,
-    "longitude": -80.3169309
-   },
-   "created": "2026-11-19T12:00:00.000Z"
-  },
-  {
    "id": "19hz:4449295-gtaviofficiallau",
    "source": "19hz+edmtrain",
    "title": "GTA VI Official Launch Party Ft Anotr + Jt",
@@ -643,7 +615,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$10.00",
+   "price": "$20.00",
    "genres": [
     "house",
     "tech house"
@@ -876,7 +848,6 @@
    "price": "$34.05",
    "genres": [
     "afro house",
-    "indie/alternative",
     "latin house"
    ],
    "genres_inferred": false,
@@ -896,7 +867,6 @@
     "https://buy.tablelist.com/e/290d1d974df30991",
     "https://buy.tablelist.com/e/3cd935868309e1a6",
     "https://calendar.zeyzeymiami.com/shows/solmates-presents-sparrow-more-20-nov",
-    "https://calendar.zeyzeymiami.com/shows/the-hails-21-nov",
     "https://shotgun.live/en/events/solmates-presents-sparrow-more",
     "https://edmtrain.com/miami-fl/solmates-presents-sparrow-ch-548040"
    ]
@@ -3038,9 +3008,12 @@
   },
   {
    "id": "shotgun:friendsgiving1",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "A Supernatural Friendsgiving",
-   "artists": [],
+   "artists": [
+    "Athena Dion",
+    "ALAN T"
+   ],
    "venue": "Miami",
    "venue_slug": null,
    "date": "2026-11-25",
@@ -3054,11 +3027,14 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/friendsgiving1"
+   "url": "https://shotgun.live/en/events/friendsgiving1",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/a-supernatural-friendsgiving-athena-dion-555064"
+   ]
   },
   {
    "id": "shotgun:she-knows-best-nov-25",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "She Knows Best (Thanksgiving Eve)",
    "artists": [],
    "venue": "AIRE Miami",
@@ -3077,7 +3053,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/she-knows-best-nov-25"
+   "url": "https://shotgun.live/en/events/she-knows-best-nov-25",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/she-knows-best-555069"
+   ]
   },
   {
    "id": "shotgun:aftercito-thanksgiving-eve",
@@ -3105,8 +3084,8 @@
   },
   {
    "id": "shotgun:madradiomiami112526",
-   "source": "19hz+shotgun",
-   "title": "Join The Local Signal ))): Wax'n Dance",
+   "source": "19hz+edmtrain+shotgun",
+   "title": "Join The Local Signal ))): Residents + Special Guest",
    "artists": [],
    "venue": "Mad Radio Miami",
    "venue_slug": "mad-radio",
@@ -3133,7 +3112,8 @@
    },
    "created": "2026-11-05T19:27:28.000Z",
    "alt_urls": [
-    "https://shotgun.live/en/events/madradiomiami112526"
+    "https://shotgun.live/en/events/madradiomiami112526",
+    "https://edmtrain.com/miami-fl/join-the-local-signal-555135"
    ]
   },
   {
@@ -3734,9 +3714,11 @@
   },
   {
    "id": "shotgun:lightleak-edge-miami",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Lightleak @ Edge Miami",
-   "artists": [],
+   "artists": [
+    "LIGHTLEAK"
+   ],
    "venue": "EDGE Miami",
    "venue_slug": null,
    "date": "2026-11-27",
@@ -3748,13 +3730,16 @@
    "price": "$15.00",
    "genres": [
     "alternative dance",
-    "disco house",
-    "deep tech"
+    "deep tech",
+    "disco house"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/lightleak-edge-miami"
+   "url": "https://shotgun.live/en/events/lightleak-edge-miami",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/lightleak-555095"
+   ]
   },
   {
    "id": "19hz:4449976-blackweekendpass",
@@ -3893,9 +3878,14 @@
   },
   {
    "id": "shotgun:moji-riva-starr-peace-control-special-guest-sable",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Moji - Riva Starr, Peace Control, + Special Guest @ Sable",
-   "artists": [],
+   "artists": [
+    "Moji",
+    "Riva Starr",
+    "Peace Control",
+    "G. Segurola"
+   ],
    "venue": "Sable",
    "venue_slug": null,
    "date": "2026-11-27",
@@ -3907,13 +3897,16 @@
    "price": "$15.00",
    "genres": [
     "dance",
-    "disco",
-    "deep house"
+    "deep house",
+    "disco"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/moji-riva-starr-peace-control-special-guest-sable"
+   "url": "https://shotgun.live/en/events/moji-riva-starr-peace-control-special-guest-sable",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/moji-riva-starr-555165"
+   ]
   },
   {
    "id": "shotgun:the-hall-360-differ-f-2-f-nico-moon-3",
@@ -4740,7 +4733,7 @@
   },
   {
    "id": "shotgun:berlin1",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Night In Berlin",
    "artists": [],
    "venue": "Miami",
@@ -4753,14 +4746,17 @@
    "ages": "",
    "price": "$10.00",
    "genres": [
+    "house",
     "industrial techno",
-    "techno",
-    "house"
+    "techno"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/berlin1"
+   "url": "https://shotgun.live/en/events/berlin1",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/night-in-berlin-555065"
+   ]
   },
   {
    "id": "19hz:4450072-wonkywilla",
@@ -4947,6 +4943,30 @@
    ]
   },
   {
+   "id": "shotgun:vicereality",
+   "source": "shotgun",
+   "title": "Vicereality",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": "festivals",
+   "date": "2026-11-28",
+   "start": "2026-11-29T04:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$23.00",
+   "genres": [
+    "tech house",
+    "rock",
+    "techno"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/vicereality"
+  },
+  {
    "id": "shotgun:deja-vu-ryoka",
    "source": "shotgun",
    "title": "Déjà Vu X Ryoka",
@@ -4997,7 +5017,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "",
-   "price": "From $28",
+   "price": "",
    "genres": [
     "house",
     "techno"
@@ -6379,6 +6399,35 @@
    ]
   },
   {
+   "id": "edmtrain:555136",
+   "source": "edmtrain",
+   "title": "Soundtuary: Peace Control, Massuma, Cameron Jack, MALAS, Kamcoco",
+   "artists": [
+    "Peace Control",
+    "Massuma",
+    "Cameron Jack",
+    "MALAS",
+    "Kamcoco"
+   ],
+   "venue": "Lunasol",
+   "venue_slug": null,
+   "date": "2026-12-02",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "158 NW 24th St, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/soundtuarymusicartbasel?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/soundtuary-peace-control-555136"
+   ]
+  },
+  {
    "id": "edmtrain:554779",
    "source": "edmtrain",
    "title": "Bedouin",
@@ -7428,6 +7477,33 @@
    ]
   },
   {
+   "id": "edmtrain:555143",
+   "source": "edmtrain",
+   "title": "GROSSOMODDO, Kimotion, Nautik",
+   "artists": [
+    "GROSSOMODDO",
+    "Kimotion",
+    "Nautik"
+   ],
+   "venue": "Mynt Lounge",
+   "venue_slug": null,
+   "date": "2026-12-03",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1921 Collins Ave, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://speakeasygo.com/event/EVE-MICVOG?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/grossomoddo-kimotion-555143"
+   ]
+  },
+  {
    "id": "edmtrain:549114",
    "source": "edmtrain",
    "title": "Plus3",
@@ -7771,7 +7847,7 @@
   {
    "id": "shotgun:madradiomiami120426",
    "source": "19hz+edmtrain+shotgun",
-   "title": "Toy Tonics: Cody Currie",
+   "title": "Art Basel / Toy Tonics: Cody Currie",
    "artists": [
     "Cody Currie"
    ],
@@ -7802,6 +7878,9 @@
    "alt_urls": [
     "https://shotgun.live/en/events/madradiomiami120426",
     "https://edmtrain.com/miami-fl/cody-currie-554828"
+   ],
+   "also": [
+    "festivals"
    ]
   },
   {
@@ -9030,26 +9109,6 @@
    "url": "https://shotgun.live/en/events/100-michael-jackson-party-in-miami"
   },
   {
-   "id": "shotgun:nakama-the-art-of-belonging",
-   "source": "shotgun",
-   "title": "Nakama The Art Of Belonging",
-   "artists": [],
-   "venue": "Nido l Refuge of Senses",
-   "venue_slug": null,
-   "date": "2026-12-05",
-   "start": "2026-12-05T23:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$11.25",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/nakama-the-art-of-belonging"
-  },
-  {
    "id": "shotgun:basel-after-hours-live-at-carolina-sardi-studio-dec5",
    "source": "19hz+shotgun",
    "title": "Basel After Hours: Live At Carolina Sardi Studio",
@@ -9123,6 +9182,29 @@
    "description": "",
    "url": "https://dice.fm/event/6af4f399f0373b00013f8c8f",
    "cancelled": false
+  },
+  {
+   "id": "edmtrain:555218",
+   "source": "edmtrain",
+   "title": "Soulection",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-12-05",
+   "start": "2026-12-06T00:00:00+00:00",
+   "end": "2026-12-06T06:00:00+00:00",
+   "time_estimated": true,
+   "address": "353 NE 61st St, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/soulection-friends-05-dec#tickets",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/soulection-555218"
+   ]
   },
   {
    "id": "shotgun:churchill-s-pub-s-basel-destruction",
@@ -9824,6 +9906,34 @@
    "url": "https://music.casa-neos.com/art-week",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/rafael-550290"
+   ]
+  },
+  {
+   "id": "edmtrain:555091",
+   "source": "edmtrain",
+   "title": "Camilo Franco, Jo.Ke",
+   "artists": [
+    "Camilo Franco",
+    "Jo.Ke"
+   ],
+   "venue": "Do Not Sit On The Furniture",
+   "venue_slug": null,
+   "date": "2026-12-05",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "423 16th St, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "deep house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/k62y9l?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/camilo-franco-jo-ke-555091"
    ]
   },
   {
@@ -13177,6 +13287,29 @@
    ]
   },
   {
+   "id": "edmtrain:555201",
+   "source": "edmtrain",
+   "title": "Skihouse",
+   "artists": [],
+   "venue": "Treehouse Miami Beach",
+   "venue_slug": null,
+   "date": "2026-12-26",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "323 23rd St, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.etix.com/ticket/p/53885326",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/skihouse-555201"
+   ]
+  },
+  {
    "id": "hardrock:207857",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -13569,9 +13702,11 @@
   },
   {
    "id": "shotgun:nye-2027-gab-rhome",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Nye 2027 With Gab Rhome",
-   "artists": [],
+   "artists": [
+    "Gab Rhome"
+   ],
    "venue": "AIRE Miami",
    "venue_slug": null,
    "date": "2026-12-31",
@@ -13583,13 +13718,16 @@
    "price": "$24.99",
    "genres": [
     "house",
-    "progressive house",
-    "melodic house & techno"
+    "melodic house & techno",
+    "progressive house"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/nye-2027-gab-rhome"
+   "url": "https://shotgun.live/en/events/nye-2027-gab-rhome",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/gab-rhome-552809"
+   ]
   },
   {
    "id": "hardrock:207897",
@@ -14233,6 +14371,29 @@
    ]
   },
   {
+   "id": "edmtrain:555202",
+   "source": "edmtrain",
+   "title": "Skihouse",
+   "artists": [],
+   "venue": "Treehouse Miami Beach",
+   "venue_slug": null,
+   "date": "2027-01-01",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "323 23rd St, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.etix.com/ticket/p/63512786",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/skihouse-555202"
+   ]
+  },
+  {
    "id": "hardrock:210867",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -14414,7 +14575,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "",
-   "price": "From $60",
+   "price": "From $70",
    "genres": [
     "house",
     "techno"
@@ -16837,6 +16998,29 @@
    ]
   },
   {
+   "id": "edmtrain:492064",
+   "source": "edmtrain",
+   "title": "Ultra Miami",
+   "artists": [],
+   "venue": "Bayfront Park",
+   "venue_slug": "festivals",
+   "date": "2027-03-26",
+   "start": "2027-03-26T19:00:00+00:00",
+   "end": "2027-03-27T06:00:00+00:00",
+   "time_estimated": true,
+   "address": "301 Biscayne Blvd, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://ultramusicfestival.com/tickets/miami-2027",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/ultra-miami-492064"
+   ]
+  },
+  {
    "id": "edmtrain:513567",
    "source": "edmtrain",
    "title": "Winter Music Conference",
@@ -16903,29 +17087,6 @@
    "url": "https://ultramusicfestival.com/tickets/miami-2027",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/ultra-miami-492063"
-   ]
-  },
-  {
-   "id": "edmtrain:492064",
-   "source": "edmtrain",
-   "title": "Ultra Miami",
-   "artists": [],
-   "venue": "Bayfront Park",
-   "venue_slug": "festivals",
-   "date": "2027-03-29",
-   "start": "2027-03-29T19:00:00+00:00",
-   "end": "2027-03-30T06:00:00+00:00",
-   "time_estimated": true,
-   "address": "301 Biscayne Blvd, Miami, FL 33132, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://ultramusicfestival.com/tickets/miami-2027",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/ultra-miami-492064"
    ]
   },
   {

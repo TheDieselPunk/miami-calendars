@@ -8,22 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:the-roar-battle-of-the-bands@shotgun.live
-DTSTAMP:20261119T161817Z
-LAST-MODIFIED:20261119T161817Z
-SEQUENCE:0
-DTSTART:20261120T230000Z
-DTEND:20261121T040000Z
-SUMMARY:The Roar // Battle Of The Bands
-LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
- \, USA
-DESCRIPTION:BATTLE OF THE BANDS THE ROAR FIU X THE BOOMBOX\nTickets: GA $10
- \nhttps://shotgun.live/en/events/the-roar-battle-of-the-bands
-URL:https://shotgun.live/en/events/the-roar-battle-of-the-bands
-STATUS:CONFIRMED
-GEO:25.7287781;-80.3169309
-END:VEVENT
-BEGIN:VEVENT
 UID:equinox-fest-4-day-2-3-november-21-22nd@shotgun.live
 DTSTAMP:20261113T221820Z
 LAST-MODIFIED:20261113T221820Z
