@@ -8,18 +8,16 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6a9840d31cfa4500010544f6@kemistry.miami-calendars
-DTSTAMP:20261026T101803Z
-LAST-MODIFIED:20261026T101803Z
+UID:19hz-4449304-ronisize@kemistry.miami-calendars
+DTSTAMP:20261121T161803Z
+LAST-MODIFIED:20261121T161803Z
 SEQUENCE:0
 DTSTART:20261121T030000Z
 DTEND:20261121T090000Z
-SUMMARY:RONI SIZE
-LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
- 312\, United States
-DESCRIPTION:Lineup: Roni Size\nTags: drum and bass\, jungle\nAges: 18+\nhtt
- ps://dice.fm/event/bbg6eo-roni-size-20th-nov-kemistry-fort-lauderdale-tick
- ets\nhttps://edmtrain.com/fort-lauderdale-fl/roni-size-534312
+SUMMARY:Roni Size
+LOCATION:Kemistry\, Fort Lauderdale
+DESCRIPTION:Tags: drum and bass\, jungle\nAges: 18+\nhttps://dice.fm/event/
+ bbg6eo-roni-size-20th-nov-kemistry-fort-lauderdale-tickets
 URL:https://dice.fm/event/bbg6eo-roni-size-20th-nov-kemistry-fort-lauderdal
  e-tickets
 STATUS:CONFIRMED
@@ -117,21 +115,22 @@ CATEGORIES:bass music,dubstep,riddim
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6af2f69141e87c00011c30d5@kemistry.miami-calendars
-DTSTAMP:20261112T041831Z
-LAST-MODIFIED:20261112T041831Z
-SEQUENCE:0
+DTSTAMP:20261121T161803Z
+LAST-MODIFIED:20261121T161803Z
+SEQUENCE:1
 DTSTART:20261205T030000Z
 DTEND:20261205T090000Z
 SUMMARY:INFEKT: CYCLOPS COVE AFTER-PARTY
 LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
  312\, United States
 DESCRIPTION:Lineup: INFEKT\, PROSECUTE\, A Hundred Drums\, AFTRNOONDLITE\, 
- Crimsxn\nTags (guess): bass\, dubstep\nhttps://dice.fm/event/6af2f69141e87
- c00011c30d5\nhttps://edmtrain.com/fort-lauderdale-fl/infekt-prosecute-5520
- 96
-URL:https://dice.fm/event/6af2f69141e87c00011c30d5
+ Crimsxn\nTags: dubstep\nAges: 18+\nhttps://dice.fm/event/3kq5kv-infekt-cyc
+ lops-cove-after-party-4th-dec-kemistry-fort-lauderdale-tickets\nhttps://ed
+ mtrain.com/fort-lauderdale-fl/infekt-prosecute-552096
+URL:https://dice.fm/event/3kq5kv-infekt-cyclops-cove-after-party-4th-dec-ke
+ mistry-fort-lauderdale-tickets
 STATUS:CONFIRMED
-CATEGORIES:bass,dubstep
+CATEGORIES:dubstep
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6af4f399f0373b00013f8c8f@kemistry.miami-calendars
@@ -151,37 +150,41 @@ CATEGORIES:bass,dubstep
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6af2fa5348bd3f00015b723a@kemistry.miami-calendars
-DTSTAMP:20261112T041831Z
-LAST-MODIFIED:20261112T041831Z
-SEQUENCE:0
+DTSTAMP:20261121T161803Z
+LAST-MODIFIED:20261121T161803Z
+SEQUENCE:1
 DTSTART:20261206T040000Z
 DTEND:20261206T090000Z
 SUMMARY:FUNTCASE: CYCLOPS COVE AFTER-PARTY
 LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
  312\, United States
-DESCRIPTION:Lineup: FuntCase\, Vastive\, sfam\, DIEHL\, Swamp Thiing\nTags 
- (guess): bass\, dubstep\nhttps://dice.fm/event/6af2fa5348bd3f00015b723a\nh
- ttps://edmtrain.com/fort-lauderdale-fl/funtcase-vastive-552097
-URL:https://dice.fm/event/6af2fa5348bd3f00015b723a
+DESCRIPTION:Lineup: FuntCase\, Vastive\, sfam\, DIEHL\, Swamp Thiing\nTags:
+  dubstep\, riddim\, trap\nAges: 18+\nhttps://dice.fm/event/aabdaq-funtcase
+ -cyclops-cove-after-party-5th-dec-kemistry-fort-lauderdale-tickets\nhttps:
+ //edmtrain.com/fort-lauderdale-fl/funtcase-vastive-552097
+URL:https://dice.fm/event/aabdaq-funtcase-cyclops-cove-after-party-5th-dec-
+ kemistry-fort-lauderdale-tickets
 STATUS:CONFIRMED
-CATEGORIES:bass,dubstep
+CATEGORIES:dubstep,riddim,trap
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6af2fd6c961e290001bf9087@kemistry.miami-calendars
-DTSTAMP:20261112T041831Z
-LAST-MODIFIED:20261112T041831Z
-SEQUENCE:0
+DTSTAMP:20261121T161803Z
+LAST-MODIFIED:20261121T161803Z
+SEQUENCE:1
 DTSTART:20261207T030000Z
 DTEND:20261207T090000Z
 SUMMARY:SMOAKLAND: CYCLOPS COVE AFTER-PARTY
 LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
  312\, United States
 DESCRIPTION:Lineup: Smoakland\, Gardella\, Blossom\, Rekka Wubz\, Psyoptic
- \nTags (guess): bass\, dubstep\nhttps://dice.fm/event/6af2fd6c961e290001bf
- 9087\nhttps://edmtrain.com/fort-lauderdale-fl/smoakland-gardella-552098
-URL:https://dice.fm/event/6af2fd6c961e290001bf9087
+ \nTags: bass music\, dubstep\nAges: 18+\nhttps://dice.fm/event/qnxg5o-smoa
+ kland-cyclops-cove-after-party-6th-dec-kemistry-fort-lauderdale-tickets\nh
+ ttps://edmtrain.com/fort-lauderdale-fl/smoakland-gardella-552098
+URL:https://dice.fm/event/qnxg5o-smoakland-cyclops-cove-after-party-6th-dec
+ -kemistry-fort-lauderdale-tickets
 STATUS:CONFIRMED
-CATEGORIES:bass,dubstep
+CATEGORIES:bass music,dubstep
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a6267e25c999a000109f8ae@kemistry.miami-calendars
@@ -256,20 +259,21 @@ CATEGORIES:hard techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6af9273325a1a100013ad38c@kemistry.miami-calendars
-DTSTAMP:20261117T041807Z
-LAST-MODIFIED:20261117T041807Z
-SEQUENCE:0
+DTSTAMP:20261121T161803Z
+LAST-MODIFIED:20261121T161803Z
+SEQUENCE:1
 DTSTART:20270116T030000Z
 DTEND:20270116T090000Z
 SUMMARY:LAYZ
 LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
  312\, United States
-DESCRIPTION:Lineup: LAYZ\nTags (guess): bass\, dubstep\nhttps://dice.fm/eve
- nt/6af9273325a1a100013ad38c\nhttps://edmtrain.com/fort-lauderdale-fl/layz-
- 553353
-URL:https://dice.fm/event/6af9273325a1a100013ad38c
+DESCRIPTION:Lineup: LAYZ\nTags: bass music\, dubstep\nAges: 18+\nhttps://di
+ ce.fm/event/pgo638-layz-15th-jan-kemistry-fort-lauderdale-tickets\nhttps:/
+ /edmtrain.com/fort-lauderdale-fl/layz-553353
+URL:https://dice.fm/event/pgo638-layz-15th-jan-kemistry-fort-lauderdale-tic
+ kets
 STATUS:CONFIRMED
-CATEGORIES:bass,dubstep
+CATEGORIES:bass music,dubstep
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a17a579b4fd860001a0bd2e@kemistry.miami-calendars

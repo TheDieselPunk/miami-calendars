@@ -8,21 +8,31 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6adff5fd8be4730001f56177@zeyzey.miami-calendars
-DTSTAMP:20261121T101804Z
-LAST-MODIFIED:20261121T101804Z
+UID:tablelist-3cd935868309e1a6@zeyzey.miami-calendars
+DTSTAMP:20261121T161803Z
+LAST-MODIFIED:20261121T161803Z
+SEQUENCE:0
+DTSTART:20261121T010000Z
+DTEND:20261121T040000Z
+SUMMARY:The Hails
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://buy.tablelist.com/e/3cd935868309e1a6
+URL:https://buy.tablelist.com/e/3cd935868309e1a6
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tablelist-290d1d974df30991@zeyzey.miami-calendars
+DTSTAMP:20261121T161803Z
+LAST-MODIFIED:20261121T161803Z
 SEQUENCE:0
 DTSTART:20261121T030000Z
 DTEND:20261121T080000Z
-SUMMARY:SOLMATES PRESENTS SPARROW (CH)
-LOCATION:ZeyZey\, 353 Northeast 61st Street\, Miami\, Florida 33137\, Unite
- d States
-DESCRIPTION:Lineup: Sparrow\nTags: afro house\, latin house\nhttps://dice.f
- m/event/6adff5fd8be4730001f56177\nhttps://buy.tablelist.com/e/290d1d974df3
- 0991\nhttps://buy.tablelist.com/e/3cd935868309e1a6\nhttps://edmtrain.com/m
- iami-fl/solmates-presents-sparrow-ch-548040\nhttps://shotgun.live/en/event
- s/solmates-presents-sparrow-more
-URL:https://dice.fm/event/6adff5fd8be4730001f56177
+SUMMARY:Solmates Presents Sparrow & More
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: afro house\, latin house\nhttps://buy.tablelist.com/e/290
+ d1d974df30991\nhttps://shotgun.live/en/events/solmates-presents-sparrow-mo
+ re
+URL:https://buy.tablelist.com/e/290d1d974df30991
 STATUS:CONFIRMED
 CATEGORIES:afro house,latin house
 END:VEVENT
@@ -681,19 +691,20 @@ CATEGORIES:indie/alternative
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-nervous-records-30-jan@zeyzey.miami-calendars
-DTSTAMP:20261116T041808Z
-LAST-MODIFIED:20261116T041808Z
-SEQUENCE:1
+DTSTAMP:20261121T161803Z
+LAST-MODIFIED:20261121T161803Z
+SEQUENCE:2
 DTSTART:20270131T010000Z
 DTEND:20270131T060000Z
 SUMMARY:DJ Minx + DJ Holographic (Free Entry)
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: DJ Minx\, DJ Holographic\nTags: dance/electronic\nhttps
- ://calendar.zeyzeymiami.com/shows/nervous-records-30-jan\nhttps://edmtrain
- .com/miami-fl/dj-minx-dj-holographic-553298
+DESCRIPTION:Lineup: DJ Minx\, DJ Holographic\nTags: house\nAges: 21+\nhttps
+ ://calendar.zeyzeymiami.com/shows/nervous-records-30-jan\nhttps://app.open
+ date.io/e/dj-minx-dj-holographic-free-entry-january-30-2027-753835?default
+ _theme=true\nhttps://edmtrain.com/miami-fl/dj-minx-dj-holographic-553298
 URL:https://calendar.zeyzeymiami.com/shows/nervous-records-30-jan
 STATUS:CONFIRMED
-CATEGORIES:dance/electronic
+CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-puzzle-31-jan@zeyzey.miami-calendars

@@ -39,9 +39,9 @@ CATEGORIES:house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abbe1d7214d4c0001006f40@the-ground.miami-calendars
-DTSTAMP:20261017T161817Z
-LAST-MODIFIED:20261017T161817Z
-SEQUENCE:2
+DTSTAMP:20261121T161803Z
+LAST-MODIFIED:20261121T161803Z
+SEQUENCE:3
 DTSTART:20261128T040000Z
 DTEND:20261128T120000Z
 SUMMARY:RUMBLE IN THE JUNGLE: Nikki Nair + Nanoos
@@ -49,7 +49,7 @@ LOCATION:The Ground Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
 DESCRIPTION:Lineup: Nikki Nair\, Nanoos\nTags: electro\, tech house\nAges: 
  21+\nhttps://dice.fm/event/wwnv3v-rumble-in-the-jungle-nikki-nair-nanoos-2
  7th-nov-the-ground-miami-miami-tickets\nhttps://edmtrain.com/miami-fl/rumb
- le-in-the-jungle-nikki-nair-541195
+ le-in-the-jungle-nikki-nair-541195\nhttps://link.dice.fm/rumblegroundnov
 URL:https://dice.fm/event/wwnv3v-rumble-in-the-jungle-nikki-nair-nanoos-27t
  h-nov-the-ground-miami-miami-tickets
 STATUS:CONFIRMED
@@ -57,18 +57,18 @@ CATEGORIES:electro,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6abbe310b2412f00017024b3@the-ground.miami-calendars
-DTSTAMP:20260929T221815Z
-LAST-MODIFIED:20260929T221815Z
-SEQUENCE:0
+DTSTAMP:20261121T161803Z
+LAST-MODIFIED:20261121T161803Z
+SEQUENCE:1
 DTSTART:20261129T040000Z
 DTEND:20261129T120000Z
 SUMMARY:Ritmo Celestial
 LOCATION:The Ground Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6abbe310b24
- 12f00017024b3
+DESCRIPTION:Tags: reggaeton\nAges: 21+\nhttps://dice.fm/event/6abbe310b2412
+ f00017024b3\nhttps://link.dice.fm/celestialnov28
 URL:https://dice.fm/event/6abbe310b2412f00017024b3
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:reggaeton
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a95af3f8ba41600019bdfd5@the-ground.miami-calendars

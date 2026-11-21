@@ -472,9 +472,9 @@ CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami120426@shotgun.live
-DTSTAMP:20261121T101804Z
-LAST-MODIFIED:20261121T101804Z
-SEQUENCE:6
+DTSTAMP:20261121T161803Z
+LAST-MODIFIED:20261121T161803Z
+SEQUENCE:8
 DTSTART:20261205T020000Z
 DTEND:20261205T080000Z
 SUMMARY:Art Basel / Toy Tonics: Cody Currie
@@ -715,18 +715,20 @@ CATEGORIES:afro house,latin bass
 END:VEVENT
 BEGIN:VEVENT
 UID:the-hall-club-monkey-safari@shotgun.live
-DTSTAMP:20261112T221823Z
-LAST-MODIFIED:20261112T221823Z
-SEQUENCE:0
+DTSTAMP:20261121T161803Z
+LAST-MODIFIED:20261121T161803Z
+SEQUENCE:1
 DTSTART:20261219T020000Z
-DTEND:20261219T070000Z
+DTEND:20261219T080000Z
 SUMMARY:The Hall Club : Monkey Safari
 LOCATION:Miami
-DESCRIPTION:Tags: melodic house & techno\, afro house\, deep house\nhttps:/
- /shotgun.live/en/events/the-hall-club-monkey-safari
+DESCRIPTION:Tags: afro house\, deep house\, indie dance\, melodic house & t
+ echno\, progressive house\, tech house\nhttps://shotgun.live/en/events/the
+ -hall-club-monkey-safari
 URL:https://shotgun.live/en/events/the-hall-club-monkey-safari
 STATUS:CONFIRMED
-CATEGORIES:melodic house & techno,afro house,deep house
+CATEGORIES:afro house,deep house,indie dance,melodic house & techno,progres
+ sive house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:xmas-x-the-hall-x-shyft-x-circle@shotgun.live

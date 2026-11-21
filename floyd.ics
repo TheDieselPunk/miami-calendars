@@ -9,17 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4449307-fletchrajeb2b2up@floyd.miami-calendars
-DTSTAMP:20261121T101804Z
-LAST-MODIFIED:20261121T101804Z
-SEQUENCE:0
+DTSTAMP:20261121T161803Z
+LAST-MODIFIED:20261121T161803Z
+SEQUENCE:1
 DTSTART:20261121T040000Z
 DTEND:20261121T100000Z
 SUMMARY:Fletch\, raje b2b 2up!\, messous\, Bryan Softwell
 LOCATION:Floyd Miami
-DESCRIPTION:Lineup: Fletch\, Raje\, 2UP!\, Méssous\, Bryan Softwell\nTags 
- (guess): house\, techno\nAges: 21+\nhttps://dice.fm/event/7d96y6-floyd-at-
- the-vault-fletch-20th-nov-floyd-miami-miami-tickets\nhttps://edmtrain.com/
- miami-fl/fletch-raje-552840
+DESCRIPTION:Tags (guess): house\, techno\nAges: 21+\nhttps://dice.fm/event/
+ 7d96y6-floyd-at-the-vault-fletch-20th-nov-floyd-miami-miami-tickets
 URL:https://dice.fm/event/7d96y6-floyd-at-the-vault-fletch-20th-nov-floyd-m
  iami-miami-tickets
 STATUS:CONFIRMED
@@ -132,20 +130,20 @@ CATEGORIES:deep house,funk,house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aa05f20dcd56d0001894f1e@floyd.miami-calendars
-DTSTAMP:20261111T101835Z
-LAST-MODIFIED:20261111T101835Z
-SEQUENCE:3
+DTSTAMP:20261121T161803Z
+LAST-MODIFIED:20261121T161803Z
+SEQUENCE:4
 DTSTART:20261204T040000Z
 DTEND:20261204T100000Z
 SUMMARY:The Modern Love Affair (Floyd Basel 2026)
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
 DESCRIPTION:Lineup: Art Department\, D Stone\, Heidi Lawden\, Palms Trax\, 
- Sinopoli\nTags (guess): house\, techno\nAges: 21+\nhttps://dice.fm/event/6
- aa05f20dcd56d0001894f1e\nhttps://edmtrain.com/miami-fl/art-department-d-st
- one-551900\nhttps://link.dice.fm/modernloveaffairbasel
+ Sinopoli\nTags: progressive house\, tech house\nAges: 21+\nhttps://dice.fm
+ /event/6aa05f20dcd56d0001894f1e\nhttps://edmtrain.com/miami-fl/art-departm
+ ent-d-stone-551900\nhttps://link.dice.fm/modernloveaffairbasel
 URL:https://dice.fm/event/6aa05f20dcd56d0001894f1e
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:progressive house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aa05ff479036d0001a67b91@floyd.miami-calendars
@@ -248,18 +246,18 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ae22470c173cf000152ed75@floyd.miami-calendars
-DTSTAMP:20261028T221806Z
-LAST-MODIFIED:20261028T221806Z
-SEQUENCE:0
+DTSTAMP:20261121T161803Z
+LAST-MODIFIED:20261121T161803Z
+SEQUENCE:1
 DTSTART:20261219T040000Z
 DTEND:20261219T100000Z
 SUMMARY:KinAhau All Night Long
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6ae22470c17
- 3cf000152ed75
+DESCRIPTION:Tags: house\nAges: 21+\nhttps://dice.fm/event/6ae22470c173cf000
+ 152ed75\nhttps://link.dice.fm/kinahauallnitefloyd
 URL:https://dice.fm/event/6ae22470c173cf000152ed75
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aea032f2c05400001df7dfc@floyd.miami-calendars
@@ -344,19 +342,20 @@ CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6af34d6308291100017f7af4@floyd.miami-calendars
-DTSTAMP:20261111T101835Z
-LAST-MODIFIED:20261111T101835Z
-SEQUENCE:1
+DTSTAMP:20261121T161803Z
+LAST-MODIFIED:20261121T161803Z
+SEQUENCE:2
 DTSTART:20270214T040000Z
 DTEND:20270214T100000Z
 SUMMARY:Modeselektor
 LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Modeselektor\nTags (guess): house\, techno\nhttps://dic
- e.fm/event/6af34d6308291100017f7af4\nhttps://edmtrain.com/miami-fl/modesel
- ektor-551901
-URL:https://dice.fm/event/6af34d6308291100017f7af4
+DESCRIPTION:Lineup: Modeselektor\nTags: idm\, techno\nAges: 21+\nhttps://di
+ ce.fm/event/lqa6ow-modeselektor-13th-feb-floyd-miami-miami-tickets\nhttps:
+ //edmtrain.com/miami-fl/modeselektor-551901
+URL:https://dice.fm/event/lqa6ow-modeselektor-13th-feb-floyd-miami-miami-ti
+ ckets
 STATUS:CONFIRMED
-CATEGORIES:house,techno
+CATEGORIES:idm,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aea99dd2c054000010bb0c6@floyd.miami-calendars

@@ -9,17 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4449304-eliescobardjlloy@jolene.miami-calendars
-DTSTAMP:20261031T041809Z
-LAST-MODIFIED:20261031T041809Z
-SEQUENCE:0
+DTSTAMP:20261121T161803Z
+LAST-MODIFIED:20261121T161803Z
+SEQUENCE:1
 DTSTART:20261121T030000Z
 DTEND:20261121T090000Z
 SUMMARY:Eli Escobar\, DJ Lloyd
 LOCATION:Jolene Downtown
-DESCRIPTION:Lineup: Eli Escobar\, DJ Lloyd\nTags: disco\, house\nAges: 21+
- \nhttps://dice.fm/event/dky79v-eli-escobar-dj-lloyd-20th-nov-jolene-sound-
- room-miami-miami-tickets\nhttps://edmtrain.com/miami-fl/eli-escobar-dj-llo
- yd-547970
+DESCRIPTION:Tags: disco\, house\nAges: 21+\nhttps://dice.fm/event/dky79v-el
+ i-escobar-dj-lloyd-20th-nov-jolene-sound-room-miami-miami-tickets
 URL:https://dice.fm/event/dky79v-eli-escobar-dj-lloyd-20th-nov-jolene-sound
  -room-miami-miami-tickets
 STATUS:CONFIRMED
@@ -275,20 +273,22 @@ CATEGORIES:deep house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6af7733ee0351200015bffd9@jolene.miami-calendars
-DTSTAMP:20261114T041823Z
-LAST-MODIFIED:20261114T041823Z
-SEQUENCE:0
+DTSTAMP:20261121T161803Z
+LAST-MODIFIED:20261121T161803Z
+SEQUENCE:1
 DTSTART:20261220T030000Z
 DTEND:20261220T090000Z
 SUMMARY:Mano Le Tough
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Lineup: Mano Le Tough\, Thunderpony\nTags (guess): house\, tech
-  house\nhttps://dice.fm/event/6af7733ee0351200015bffd9\nhttps://edmtrain.c
- om/miami-fl/mano-le-tough-thunderpony-552858
-URL:https://dice.fm/event/6af7733ee0351200015bffd9
+DESCRIPTION:Lineup: Mano Le Tough\, Thunderpony\nTags: tech house\, techno
+ \nAges: 21+\nhttps://dice.fm/event/yy2pna-mano-le-tough-19th-dec-jolene-so
+ und-room-miami-miami-tickets\nhttps://edmtrain.com/miami-fl/mano-le-tough-
+ thunderpony-552858
+URL:https://dice.fm/event/yy2pna-mano-le-tough-19th-dec-jolene-sound-room-m
+ iami-miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:house,tech house
+CATEGORIES:tech house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6afdfe1e2d0125000139cc10@jolene.miami-calendars
@@ -309,37 +309,41 @@ CATEGORIES:house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6af7760bfd864c0001b6da48@jolene.miami-calendars
-DTSTAMP:20261114T041823Z
-LAST-MODIFIED:20261114T041823Z
-SEQUENCE:0
+DTSTAMP:20261121T161803Z
+LAST-MODIFIED:20261121T161803Z
+SEQUENCE:1
 DTSTART:20261226T030000Z
 DTEND:20261226T090000Z
 SUMMARY:DJ Three b2b Öona Dahl
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Lineup: DJ Three\, Öona Dahl\, DIFFER\nTags (guess): house\, t
- ech house\nhttps://dice.fm/event/6af7760bfd864c0001b6da48\nhttps://edmtrai
- n.com/miami-fl/dj-three-oona-dahl-552859
-URL:https://dice.fm/event/6af7760bfd864c0001b6da48
+DESCRIPTION:Lineup: DJ Three\, Öona Dahl\, DIFFER\nTags: deep house\, funk
+ y house\nAges: 21+\nhttps://dice.fm/event/ekgab6-dj-three-b2b-ona-dahl-25t
+ h-dec-jolene-sound-room-miami-miami-tickets\nhttps://edmtrain.com/miami-fl
+ /dj-three-oona-dahl-552859
+URL:https://dice.fm/event/ekgab6-dj-three-b2b-ona-dahl-25th-dec-jolene-soun
+ d-room-miami-miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:house,tech house
+CATEGORIES:deep house,funky house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6af76f74fd864c00010f921a@jolene.miami-calendars
-DTSTAMP:20261114T041823Z
-LAST-MODIFIED:20261114T041823Z
-SEQUENCE:0
+DTSTAMP:20261121T161803Z
+LAST-MODIFIED:20261121T161803Z
+SEQUENCE:1
 DTSTART:20261231T030000Z
 DTEND:20261231T090000Z
 SUMMARY:Ben UFO
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Lineup: Ben UFO\, Jonny From Space\, Milo Ziro\nTags (guess): h
- ouse\, tech house\nhttps://dice.fm/event/6af76f74fd864c00010f921a\nhttps:/
- /edmtrain.com/miami-fl/ben-ufo-jonny-from-space-552860
-URL:https://dice.fm/event/6af76f74fd864c00010f921a
+DESCRIPTION:Lineup: Ben UFO\, Jonny From Space\, Milo Ziro\nTags: house\, t
+ echno\nAges: 21+\nhttps://dice.fm/event/2olx77-ben-ufo-30th-dec-jolene-sou
+ nd-room-miami-miami-tickets\nhttps://edmtrain.com/miami-fl/ben-ufo-jonny-f
+ rom-space-552860
+URL:https://dice.fm/event/2olx77-ben-ufo-30th-dec-jolene-sound-room-miami-m
+ iami-tickets
 STATUS:CONFIRMED
-CATEGORIES:house,tech house
+CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4453240-jolenenye@jolene.miami-calendars
@@ -356,19 +360,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6af3854e0c25ed00014a7b8a@jolene.miami-calendars
-DTSTAMP:20261111T101835Z
-LAST-MODIFIED:20261111T101835Z
-SEQUENCE:1
+DTSTAMP:20261121T161803Z
+LAST-MODIFIED:20261121T161803Z
+SEQUENCE:2
 DTSTART:20270131T030000Z
 DTEND:20270131T090000Z
 SUMMARY:DJ Swisha
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Lineup: DJ Swisha\nTags (guess): house\, tech house\nhttps://di
- ce.fm/event/6af3854e0c25ed00014a7b8a\nhttps://edmtrain.com/miami-fl/dj-swi
- sha-551934
-URL:https://dice.fm/event/6af3854e0c25ed00014a7b8a
+DESCRIPTION:Lineup: DJ Swisha\nTags: club music\, footwork\, juke\nAges: 21
+ +\nhttps://dice.fm/event/pgokn8-dj-swisha-30th-jan-jolene-sound-room-miami
+ -miami-tickets\nhttps://edmtrain.com/miami-fl/dj-swisha-551934
+URL:https://dice.fm/event/pgokn8-dj-swisha-30th-jan-jolene-sound-room-miami
+ -miami-tickets
 STATUS:CONFIRMED
-CATEGORIES:house,tech house
+CATEGORIES:club music,footwork,juke
 END:VEVENT
 END:VCALENDAR
