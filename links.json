@@ -111,10 +111,6 @@
   "url": "https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzA0ODE1Ojc=/clickthru",
   "checked": "2026-10-07"
  },
- "544679": {
-  "url": "https://dice.fm/event/yoqgkr?pid=d6342b83",
-  "checked": "2026-10-13"
- },
  "545267": {
   "url": "https://calendar.zeyzeymiami.com/shows/sg-lewis-02-dec",
   "checked": "2026-10-25"
@@ -227,10 +223,6 @@
   "url": "https://notapromoter.com/discover/x1fAERcOUtILOpMgFhpG",
   "checked": "2026-11-09"
  },
- "551441": {
-  "url": "https://shotgun.live/events/la-santa-by-mantra?utm_source=edmtrain",
-  "checked": "2026-11-09"
- },
  "551477": {
   "url": "https://dice.fm/event/783no6?pid=d6342b83",
   "checked": "2026-11-09"
@@ -305,10 +297,6 @@
  },
  "553917": {
   "url": "https://dice.fm/event/kxpbqp?pid=d6342b83",
-  "checked": "2026-11-17"
- },
- "553932": {
-  "url": "https://dice.fm/event/l87rop?pid=d6342b83",
   "checked": "2026-11-17"
  },
  "553933": {
@@ -434,5 +422,9 @@
  "555218": {
   "url": "https://calendar.zeyzeymiami.com/shows/soulection-friends-05-dec#tickets",
   "checked": "2026-11-20"
+ },
+ "555337": {
+  "url": "https://fever.pxf.io/c/254533/1928078/16345?prodsku=851975&u=https%3A%2F%2Ffeverup.com%2Fm%2F851975&intsrc=APIG_15532",
+  "checked": "2026-11-21"
  }
 }

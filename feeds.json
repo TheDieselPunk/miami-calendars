@@ -4,7 +4,7 @@
   "name": "Club Space",
   "file": "club-space.ics",
   "events": 21,
-  "estimated_times": 1,
+  "estimated_times": 0,
   "next": "2026-11-20",
   "sources": [
    "19hz",
@@ -72,7 +72,7 @@
   "slug": "kemistry",
   "name": "Kemistry (Fort Lauderdale)",
   "file": "kemistry.ics",
-  "events": 20,
+  "events": 19,
   "estimated_times": 0,
   "next": "2026-11-20",
   "sources": [

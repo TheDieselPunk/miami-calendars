@@ -179,34 +179,34 @@ CATEGORIES:techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6ace5fff2f9e660001e2b288@club-space.miami-calendars
-DTSTAMP:20261120T101823Z
-LAST-MODIFIED:20261120T101823Z
-SEQUENCE:0
+DTSTAMP:20261121T221805Z
+LAST-MODIFIED:20261121T221805Z
+SEQUENCE:1
 DTSTART:20261206T040000Z
 DTEND:20261206T230000Z
 SUMMARY:Solomun (Space Basel 2026)
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
 DESCRIPTION:Lineup: Solomun\, Pachanga Boys\, Magdalena\, Max Stern\, Siege
- l\nTags (guess): house\, techno\nhttps://dice.fm/event/6ace5fff2f9e660001e
- 2b288\nhttps://edmtrain.com/miami-fl/solomun-pachanga-boys-553861
+ l\nTags (guess): house\, techno\nAges: 21+\nhttps://dice.fm/event/6ace5fff
+ 2f9e660001e2b288\nhttps://edmtrain.com/miami-fl/solomun-pachanga-boys-5538
+ 61
 URL:https://dice.fm/event/6ace5fff2f9e660001e2b288
 STATUS:CONFIRMED
 CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-544679@club-space.miami-calendars
-DTSTAMP:20261013T221825Z
-LAST-MODIFIED:20261013T221825Z
+UID:19hz-4450843-30hourspacebasel@club-space.miami-calendars
+DTSTAMP:20261121T221805Z
+LAST-MODIFIED:20261121T221805Z
 SEQUENCE:0
 DTSTART:20261207T040000Z
-DTEND:20261207T100000Z
-SUMMARY:Space Basel Closing Party
-LOCATION:Club Space\, Heart\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nTimes are an estimate from Club S
- pace's usual hours - the listing has no start time yet. Check the link.\nh
- ttps://dice.fm/event/yoqgkr?pid=d6342b83\nhttps://edmtrain.com/miami-fl/sp
- ace-basel-closing-party-544679
-URL:https://dice.fm/event/yoqgkr?pid=d6342b83
+DTEND:20261207T170000Z
+SUMMARY:30+ Hour Space Basel Closing Party
+LOCATION:Club Space
+DESCRIPTION:Tags (guess): house\, techno\nAges: 21+\nhttps://dice.fm/event/
+ 6ace5f28c629dc00013339ff\nhttps://edmtrain.com/miami-fl/space-basel-closin
+ g-party-544679
+URL:https://dice.fm/event/6ace5f28c629dc00013339ff
 STATUS:CONFIRMED
 CATEGORIES:house,techno
 END:VEVENT

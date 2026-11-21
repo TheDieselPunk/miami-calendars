@@ -154,6 +154,11 @@
   "seq": 0,
   "modified": "2026-10-31T04:18:09+00:00"
  },
+ "19hz-4450843-30hourspacebasel@club-space.miami-calendars": {
+  "hash": "ce93538a84bbbcc2",
+  "seq": 0,
+  "modified": "2026-11-21T22:18:05+00:00"
+ },
  "19hz-4451887-mrpauerfriends@festivals.miami-calendars": {
   "hash": "813ec17374e556ad",
   "seq": 0,
@@ -510,9 +515,9 @@
   "modified": "2026-11-09T22:18:17+00:00"
  },
  "dice-6ace5fff2f9e660001e2b288@club-space.miami-calendars": {
-  "hash": "9f7d05d24754eb14",
-  "seq": 0,
-  "modified": "2026-11-20T10:18:23+00:00"
+  "hash": "e8ac8f885d89ad4a",
+  "seq": 1,
+  "modified": "2026-11-21T22:18:05+00:00"
  },
  "dice-6ada0ef330a6130001bb2b30@kemistry.miami-calendars": {
   "hash": "1cccb4b4195127cb",
@@ -739,11 +744,6 @@
   "seq": 1,
   "modified": "2026-11-19T10:18:13+00:00"
  },
- "dice-6aff67983eb97300013707c0@kemistry.miami-calendars": {
-  "hash": "39ea86b36f41dc5d",
-  "seq": 0,
-  "modified": "2026-11-20T10:18:23+00:00"
- },
  "edmtrain-458944@festivals.miami-calendars": {
   "hash": "52f5b7eb786ce532",
   "seq": 2,
@@ -828,11 +828,6 @@
   "hash": "98d2fdd792658fe6",
   "seq": 0,
   "modified": "2026-10-07T04:18:39+00:00"
- },
- "edmtrain-544679@club-space.miami-calendars": {
-  "hash": "bed2f6b352ad723d",
-  "seq": 0,
-  "modified": "2026-10-13T22:18:25+00:00"
  },
  "edmtrain-545267@zeyzey.miami-calendars": {
   "hash": "08441d9a827722cc",
@@ -920,9 +915,9 @@
   "modified": "2026-09-21T20:07:29+00:00"
  },
  "hardrock-205543@daer.miami-calendars": {
-  "hash": "c06d9c3c8830228c",
-  "seq": 2,
-  "modified": "2026-11-16T22:18:12+00:00"
+  "hash": "c9ea266a337e8799",
+  "seq": 3,
+  "modified": "2026-11-21T22:18:05+00:00"
  },
  "hardrock-206019@daer.miami-calendars": {
   "hash": "cb0b3914cf3fb3bd",
@@ -1281,8 +1276,8 @@
  },
  "madradiomiami120426@shotgun.live": {
   "hash": "288256f6a655a344",
-  "seq": 8,
-  "modified": "2026-11-21T16:18:03+00:00"
+  "seq": 10,
+  "modified": "2026-11-21T22:18:05+00:00"
  },
  "paloma-morphy-miami@shotgun.live": {
   "hash": "2171347b9765ad53",

@@ -597,30 +597,6 @@
    ]
   },
   {
-   "id": "dice:6aff67983eb97300013707c0",
-   "source": "dice",
-   "title": "RABBITHOLE: THE FIRST DESCENT",
-   "artists": [],
-   "venue": "Kemistry",
-   "venue_slug": "kemistry",
-   "date": "2026-11-21",
-   "start": "2026-11-21T17:00:00+00:00",
-   "end": "2026-11-21T21:00:00+00:00",
-   "time_estimated": false,
-   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "bass",
-    "dubstep"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6aff67983eb97300013707c0",
-   "cancelled": false
-  },
-  {
    "id": "shotgun:equinox-fest-4-day-2-3-november-21-22nd",
    "source": "shotgun",
    "title": "Equinox Fest 4. Day 2 & 3. November 21/22nd",
@@ -982,9 +958,11 @@
   },
   {
    "id": "shotgun:la-santa-by-mantra",
-   "source": "19hz+shotgun",
+   "source": "19hz+edmtrain+shotgun",
    "title": "La Santa By Mantra",
-   "artists": [],
+   "artists": [
+    "La Santa"
+   ],
    "venue": "AIRE Miami",
    "venue_slug": null,
    "date": "2026-11-21",
@@ -1002,7 +980,8 @@
    "description": "",
    "url": "https://shotgun.live/en/events/la-santa-by-mantra",
    "alt_urls": [
-    "https://shotgun.live/en/events/la-santa-by-mantra"
+    "https://shotgun.live/en/events/la-santa-by-mantra",
+    "https://edmtrain.com/miami-fl/by-mantra-la-santa-551441"
    ]
   },
   {
@@ -1499,7 +1478,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $15",
+   "price": "From $20",
    "genres": [
     "future beats",
     "hip-hop"
@@ -1615,31 +1594,6 @@
    "organizer": "The Beatrice Boiler Room",
    "description": "",
    "url": "https://posh.vip/e/max-stern-friends-thebeatrice"
-  },
-  {
-   "id": "edmtrain:551441",
-   "source": "edmtrain",
-   "title": "by Mantra: La Santa",
-   "artists": [
-    "La Santa"
-   ],
-   "venue": "111 Northeast 20th Street",
-   "venue_slug": null,
-   "date": "2026-11-21",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "111 NE 20th St, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/la-santa-by-mantra?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/by-mantra-la-santa-551441"
-   ]
   },
   {
    "id": "edmtrain:552416",
@@ -2000,7 +1954,10 @@
    "id": "shotgun:humans-alike-sundays-nov-22",
    "source": "19hz+edmtrain+shotgun",
    "title": "Humans Alike Sundays",
-   "artists": [],
+   "artists": [
+    "Thunderpony",
+    "Dalva"
+   ],
    "venue": "AIRE Miami",
    "venue_slug": null,
    "date": "2026-11-22",
@@ -2020,7 +1977,7 @@
    "url": "https://shotgun.live/en/events/humans-alike-sundays-nov-22",
    "alt_urls": [
     "https://shotgun.live/en/events/humans-alike-sundays-nov-22",
-    "https://edmtrain.com/miami-fl/humans-alike-sundays-551442"
+    "https://edmtrain.com/miami-fl/humans-alike-sundays-thunderpony-553932"
    ]
   },
   {
@@ -2152,32 +2109,6 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/psych-on-drugs-every-sunday-4"
-  },
-  {
-   "id": "edmtrain:553932",
-   "source": "edmtrain",
-   "title": "Thunderpony, Dalva",
-   "artists": [
-    "Thunderpony",
-    "Dalva"
-   ],
-   "venue": "AIRE Miami",
-   "venue_slug": null,
-   "date": "2026-11-22",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "111 NE 20th St, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/l87rop?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/thunderpony-dalva-553932"
-   ]
   },
   {
    "id": "19hz:4449583-mistergray",
@@ -3103,9 +3034,13 @@
   },
   {
    "id": "shotgun:gaeb-mewsha-jon-roc",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Gaeb, Mewsha, Jon Roc",
-   "artists": [],
+   "artists": [
+    "Gaeb",
+    "Mewsha",
+    "Jon Roc"
+   ],
    "venue": "AIRE Miami",
    "venue_slug": null,
    "date": "2026-11-27",
@@ -3119,7 +3054,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/gaeb-mewsha-jon-roc"
+   "url": "https://shotgun.live/en/events/gaeb-mewsha-jon-roc",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/gaeb-mewsha-551443"
+   ]
   },
   {
    "id": "19hz:4449972-sobeafterdarkbla",
@@ -3957,9 +3895,13 @@
   },
   {
    "id": "shotgun:mejias-mr-fulltime-diego-silvestre",
-   "source": "shotgun",
+   "source": "edmtrain+shotgun",
    "title": "Mejias, Mr. Fulltime, Diego Silvestre",
-   "artists": [],
+   "artists": [
+    "Mejias",
+    "Mr. Fulltime",
+    "Diego Silvestre"
+   ],
    "venue": "AIRE Miami",
    "venue_slug": null,
    "date": "2026-11-28",
@@ -3973,7 +3915,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/mejias-mr-fulltime-diego-silvestre"
+   "url": "https://shotgun.live/en/events/mejias-mr-fulltime-diego-silvestre",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/mejias-mr-fulltime-551444"
+   ]
   },
   {
    "id": "19hz:4450068-blackpartyunderw",
@@ -4787,7 +4732,7 @@
   },
   {
    "id": "hardrock:205543",
-   "source": "venue",
+   "source": "19hz+venue",
    "title": "Sunkiss Sundays",
    "artists": [],
    "venue": "DAER Dayclub",
@@ -4797,14 +4742,17 @@
    "end": "2026-11-29T23:00:00+00:00",
    "time_estimated": false,
    "address": "1 Seminole Way, Hollywood, FL 33314",
-   "ages": "",
-   "price": "",
+   "ages": "21+",
+   "price": "$30",
    "genres": [],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/205543",
-   "generic_title": false
+   "generic_title": false,
+   "alt_urls": [
+    "https://www.tixr.com/groups/daerdayclubsouthflorida/events/sunday-november-29th-daer-dayclub-205543"
+   ]
   },
   {
    "id": "zeyzey:zeyzey-juniors-29-nov",
@@ -6450,7 +6398,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "Free w/RSVP b4 midnight ladies / $24",
+   "price": "free w/rsvp b4 midnight ladies / $24",
    "genres": [
     "progressive house",
     "tech house"
@@ -7149,6 +7097,33 @@
    "url": "https://speakeasygo.com/event/EVE-MICVOG?t=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/grossomoddo-kimotion-555143"
+   ]
+  },
+  {
+   "id": "edmtrain:555337",
+   "source": "edmtrain",
+   "title": "Floyd Lavine, Nico Moon, Enmichao",
+   "artists": [
+    "Floyd Lavine",
+    "Nico Moon",
+    "Enmichao"
+   ],
+   "venue": "The Trip",
+   "venue_slug": null,
+   "date": "2026-12-03",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "28 NE 14th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://fever.pxf.io/c/254533/1928078/16345?prodsku=851975&u=https%3A%2F%2Ffeverup.com%2Fm%2F851975&intsrc=APIG_15532",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/floyd-lavine-nico-moon-555337"
    ]
   },
   {
@@ -8800,6 +8775,26 @@
    "url": "https://shotgun.live/en/events/100-michael-jackson-party-in-miami"
   },
   {
+   "id": "shotgun:nakama-the-art-of-belonging",
+   "source": "shotgun",
+   "title": "Nakama The Art Of Belonging",
+   "artists": [],
+   "venue": "Nido l Refuge of Senses",
+   "venue_slug": null,
+   "date": "2026-12-05",
+   "start": "2026-12-05T23:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.25",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/nakama-the-art-of-belonging"
+  },
+  {
    "id": "shotgun:basel-after-hours-live-at-carolina-sardi-studio-dec5",
    "source": "19hz+shotgun",
    "title": "Basel After Hours: Live At Carolina Sardi Studio",
@@ -9491,7 +9486,7 @@
   },
   {
    "id": "dice:6ace5fff2f9e660001e2b288",
-   "source": "dice+edmtrain",
+   "source": "19hz+dice+edmtrain",
    "title": "Solomun (Space Basel 2026)",
    "artists": [
     "Solomun",
@@ -9507,7 +9502,7 @@
    "end": "2026-12-06T23:00:00+00:00",
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
+   "ages": "21+",
    "price": "From $60",
    "genres": [
     "house",
@@ -9519,6 +9514,7 @@
    "url": "https://dice.fm/event/6ace5fff2f9e660001e2b288",
    "cancelled": false,
    "alt_urls": [
+    "https://dice.fm/event/6ace5fff2f9e660001e2b288",
     "https://edmtrain.com/miami-fl/solomun-pachanga-boys-553861"
    ]
   },
@@ -10165,19 +10161,19 @@
    ]
   },
   {
-   "id": "edmtrain:544679",
-   "source": "edmtrain",
-   "title": "Space Basel Closing Party",
+   "id": "19hz:4450843-30hourspacebasel",
+   "source": "19hz+edmtrain",
+   "title": "30+ Hour Space Basel Closing Party",
    "artists": [],
    "venue": "Club Space",
    "venue_slug": "club-space",
    "date": "2026-12-06",
    "start": "2026-12-07T04:00:00+00:00",
-   "end": "2026-12-07T10:00:00+00:00",
-   "time_estimated": true,
-   "address": "Heart, 34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
-   "price": "",
+   "end": "2026-12-07T17:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "$30+",
    "genres": [
     "house",
     "techno"
@@ -10185,7 +10181,7 @@
    "genres_inferred": true,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/yoqgkr?pid=d6342b83",
+   "url": "https://dice.fm/event/6ace5f28c629dc00013339ff",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/space-basel-closing-party-544679"
    ]
@@ -10455,7 +10451,7 @@
    "time_estimated": false,
    "address": "Miami Beach",
    "ages": "21+",
-   "price": "Free w/RSVP b4 midnight ladies / $18-24",
+   "price": "free w/rsvp b4 midnight ladies / $18-24",
    "genres": [
     "progressive house",
     "tech house"
@@ -10641,6 +10637,28 @@
     "https://dice.fm/event/6af1fa17b839de000132f36b",
     "https://edmtrain.com/miami-fl/archie-hamilton-mai-iachetti-551335"
    ]
+  },
+  {
+   "id": "19hz:4451320-thepickle",
+   "source": "19hz",
+   "title": "The Pickle",
+   "artists": [],
+   "venue": "The Pickle",
+   "venue_slug": null,
+   "date": "2026-12-11",
+   "start": "2026-12-12T03:00:00+00:00",
+   "end": "2026-12-12T13:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.20-22.35",
+   "genres": [
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://ra.co/events/2528933"
   },
   {
    "id": "shotgun:the-hall-360-differ-f-2-f-nico-moon-5",
@@ -11924,6 +11942,28 @@
    ]
   },
   {
+   "id": "19hz:4451992-thepickle",
+   "source": "19hz",
+   "title": "The Pickle",
+   "artists": [],
+   "venue": "The Pickle",
+   "venue_slug": null,
+   "date": "2026-12-18",
+   "start": "2026-12-19T03:00:00+00:00",
+   "end": "2026-12-19T13:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.20-22.35",
+   "genres": [
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://ra.co/events/2528935"
+  },
+  {
    "id": "dice:6aea1d431652850001b21949",
    "source": "19hz+dice+edmtrain",
    "title": "Sidepiece + Westend",
@@ -12771,6 +12811,28 @@
     "https://dice.fm/event/ekgab6-dj-three-b2b-ona-dahl-25th-dec-jolene-sound-room-miami-miami-tickets",
     "https://edmtrain.com/miami-fl/dj-three-oona-dahl-552859"
    ]
+  },
+  {
+   "id": "19hz:4452664-thepickle",
+   "source": "19hz",
+   "title": "The Pickle",
+   "artists": [],
+   "venue": "The Pickle",
+   "venue_slug": null,
+   "date": "2026-12-25",
+   "start": "2026-12-26T03:00:00+00:00",
+   "end": "2026-12-26T13:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.20-22.35",
+   "genres": [
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://ra.co/events/2528936"
   },
   {
    "id": "hardrock:207856",
