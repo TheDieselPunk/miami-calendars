@@ -19,7 +19,7 @@
    "organizer": "Equinox Booking",
    "description": "Equinox Fest Day 2 and 3 at The Boombox Line up TBA",
    "url": "https://shotgun.live/en/events/equinox-fest-4-day-2-3-november-21-22nd",
-   "tickets": "Day 2 & 3 Weekend Pass $50, Weekend Pass Early Bird $40 (sold out), Day 3 Ticket $30",
+   "tickets": "Weekend Pass Early Bird $40 (sold out), Day 3 Ticket $30",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -2164,7 +2164,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "Free",
+   "price": "",
    "genres": [
     "latin"
    ],
@@ -7956,7 +7956,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "",
+   "price": "Free",
    "genres": [
     "indie rock",
     "indie",
@@ -8401,26 +8401,6 @@
     "https://shotgun.live/en/events/lunasol-pres-kimonos-2",
     "https://edmtrain.com/miami-fl/lunasol-pres-the-kimonos-553329"
    ]
-  },
-  {
-   "id": "shotgun:playlist-rewindd-disney-nickelodeon-throwback-miami",
-   "source": "shotgun",
-   "title": "Playlist Rewindd: Disney + Nickelodeon Throwback (Miami)",
-   "artists": [],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-12-05",
-   "start": "2026-12-06T03:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$11.35",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/playlist-rewindd-disney-nickelodeon-throwback-miami"
   },
   {
    "id": "19hz:4450744-channeltres",
@@ -9080,6 +9060,26 @@
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/shintaro-sakamoto-06-dec",
    "cancelled": false
+  },
+  {
+   "id": "shotgun:playlist-rewindd-disney-nickelodeon-throwback-miami",
+   "source": "shotgun",
+   "title": "Playlist Rewindd: Disney + Nickelodeon Throwback (Miami)",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2026-12-06",
+   "start": "2026-12-07T01:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$11.35",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/playlist-rewindd-disney-nickelodeon-throwback-miami"
   },
   {
    "id": "dice:6ab5a8633fd3b20001e06e58",

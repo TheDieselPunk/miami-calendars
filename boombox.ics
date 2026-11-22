@@ -9,18 +9,18 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:equinox-fest-4-day-2-3-november-21-22nd@shotgun.live
-DTSTAMP:20261122T041802Z
-LAST-MODIFIED:20261122T041802Z
-SEQUENCE:3
+DTSTAMP:20261122T221800Z
+LAST-MODIFIED:20261122T221800Z
+SEQUENCE:4
 DTSTART:20261121T170000Z
 DTEND:20261123T040000Z
 SUMMARY:Equinox Fest 4. Day 2 & 3. November 21/22nd
 LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
  \, USA
 DESCRIPTION:Equinox Fest Day 2 and 3 at The Boombox Line up TBA\nPresented 
- by: Equinox Booking\nTickets: Day 2 & 3 Weekend Pass $50\, Weekend Pass Ea
- rly Bird $40 (sold out)\, Day 3 Ticket $30\nhttps://shotgun.live/en/events
- /equinox-fest-4-day-2-3-november-21-22nd
+ by: Equinox Booking\nTickets: Weekend Pass Early Bird $40 (sold out)\, Day
+  3 Ticket $30\nhttps://shotgun.live/en/events/equinox-fest-4-day-2-3-novem
+ ber-21-22nd
 URL:https://shotgun.live/en/events/equinox-fest-4-day-2-3-november-21-22nd
 STATUS:CONFIRMED
 GEO:25.7287781;-80.3169309
