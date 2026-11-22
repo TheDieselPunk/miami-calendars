@@ -8,39 +8,10 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:tablelist-3cd935868309e1a6@zeyzey.miami-calendars
-DTSTAMP:20261121T161803Z
-LAST-MODIFIED:20261121T161803Z
-SEQUENCE:0
-DTSTART:20261121T010000Z
-DTEND:20261121T040000Z
-SUMMARY:The Hails
-LOCATION:ZeyZey Miami
-DESCRIPTION:https://buy.tablelist.com/e/3cd935868309e1a6
-URL:https://buy.tablelist.com/e/3cd935868309e1a6
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:tablelist-290d1d974df30991@zeyzey.miami-calendars
-DTSTAMP:20261121T161803Z
-LAST-MODIFIED:20261121T161803Z
-SEQUENCE:0
-DTSTART:20261121T030000Z
-DTEND:20261121T080000Z
-SUMMARY:Solmates Presents Sparrow & More
-LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: afro house\, latin house\nhttps://buy.tablelist.com/e/290
- d1d974df30991\nhttps://shotgun.live/en/events/solmates-presents-sparrow-mo
- re
-URL:https://buy.tablelist.com/e/290d1d974df30991
-STATUS:CONFIRMED
-CATEGORIES:afro house,latin house
-END:VEVENT
-BEGIN:VEVENT
 UID:zeyzey-selects-donny-benet@shotgun.live
-DTSTAMP:20261116T221812Z
-LAST-MODIFIED:20261116T221812Z
-SEQUENCE:7
+DTSTAMP:20261122T101801Z
+LAST-MODIFIED:20261122T101801Z
+SEQUENCE:8
 DTSTART:20261121T233000Z
 DTEND:20261123T040000Z
 SUMMARY:Donny Benét
@@ -48,18 +19,16 @@ LOCATION:ZeyZey Miami\, 353 Northeast 61st Street\, Miami\, FL 33137\, USA
 DESCRIPTION:Donny Benét Saturday\, November 21st 2026 18+ | Zaku Stage Tic
  ket sales for this event have moved. Please visit this link to get tickets
  : https://calendar.zeyzeymiami.com/shows/donny-benet-21-nov\nLineup: Donny
-  Benét\, OTNES\nTags: afrolatin\, disco\, electronica\, funk\, house\, in
- die/alternative\, italo disco\, synthpop\, tropcial\nAges: All ages\nhttps
- ://shotgun.live/en/events/zeyzey-selects-donny-benet\nhttps://buy.tablelis
- t.com/e/4499d09e5bdfc433\nhttps://buy.tablelist.com/e/b7fe9af7cbabc23f\nht
- tps://calendar.zeyzeymiami.com/shows/donny-benet-helado-negro-reyna-tropic
- al-bosq-21-nov\nhttps://calendar.zeyzeymiami.com/shows/under-the-disco-bal
- l-ft-bosq-21-nov\nhttps://edmtrain.com/miami-fl/under-the-disco-ball-bosq-
- 545718
+  Benét\, OTNES\nTags: afrolatin\, disco\, electronica\, funk\, house\, it
+ alo disco\, synthpop\, tropcial\nAges: All ages\nhttps://shotgun.live/en/e
+ vents/zeyzey-selects-donny-benet\nhttps://buy.tablelist.com/e/4499d09e5bdf
+ c433\nhttps://buy.tablelist.com/e/b7fe9af7cbabc23f\nhttps://calendar.zeyze
+ ymiami.com/shows/under-the-disco-ball-ft-bosq-21-nov\nhttps://edmtrain.com
+ /miami-fl/under-the-disco-ball-bosq-545718
 URL:https://shotgun.live/en/events/zeyzey-selects-donny-benet
 STATUS:CONFIRMED
-CATEGORIES:afrolatin,disco,electronica,funk,house,indie/alternative,italo d
- isco,synthpop,tropcial
+CATEGORIES:afrolatin,disco,electronica,funk,house,italo disco,synthpop,trop
+ cial
 GEO:25.8327924;-80.1891253
 END:VEVENT
 BEGIN:VEVENT

@@ -8,21 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4449295-kapo@midline.miami-calendars
-DTSTAMP:20261121T161803Z
-LAST-MODIFIED:20261121T161803Z
-SEQUENCE:1
-DTSTART:20261121T010000Z
-DTEND:20261121T040000Z
-SUMMARY:Kapo
-LOCATION:Midline
-DESCRIPTION:Tags: afro house\, progressive house\nAges: 21+\nhttps://wl.eve
- ntim.us/event/kapo-midline-miami/705177?afflky=Midline
-URL:https://wl.eventim.us/event/kapo-midline-miami/705177?afflky=Midline
-STATUS:CONFIRMED
-CATEGORIES:afro house,progressive house
-END:VEVENT
-BEGIN:VEVENT
 UID:19hz-4449400-notd@midline.miami-calendars
 DTSTAMP:20261017T161817Z
 LAST-MODIFIED:20261017T161817Z

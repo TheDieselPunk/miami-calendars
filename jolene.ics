@@ -8,31 +8,14 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4449304-eliescobardjlloy@jolene.miami-calendars
-DTSTAMP:20261121T161803Z
-LAST-MODIFIED:20261121T161803Z
-SEQUENCE:1
-DTSTART:20261121T030000Z
-DTEND:20261121T090000Z
-SUMMARY:Eli Escobar\, DJ Lloyd
-LOCATION:Jolene Downtown
-DESCRIPTION:Tags: disco\, house\nAges: 21+\nhttps://dice.fm/event/dky79v-el
- i-escobar-dj-lloyd-20th-nov-jolene-sound-room-miami-miami-tickets
-URL:https://dice.fm/event/dky79v-eli-escobar-dj-lloyd-20th-nov-jolene-sound
- -room-miami-miami-tickets
-STATUS:CONFIRMED
-CATEGORIES:disco,house
-END:VEVENT
-BEGIN:VEVENT
-UID:dice-6adb9490e08a040001e559ea@jolene.miami-calendars
-DTSTAMP:20261031T041809Z
-LAST-MODIFIED:20261031T041809Z
-SEQUENCE:1
+UID:19hz-4449400-silvieloto@jolene.miami-calendars
+DTSTAMP:20261122T101801Z
+LAST-MODIFIED:20261122T101801Z
+SEQUENCE:0
 DTSTART:20261122T030000Z
 DTEND:20261122T090000Z
 SUMMARY:Silvie Loto
-LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
- a 33131\, United States
+LOCATION:Jolene Downtown
 DESCRIPTION:Tags: tech house\, techno\nAges: 21+\nhttps://dice.fm/event/6ad
  b9490e08a040001e559ea
 URL:https://dice.fm/event/6adb9490e08a040001e559ea

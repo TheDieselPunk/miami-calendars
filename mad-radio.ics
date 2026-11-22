@@ -8,42 +8,19 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4449300-camaraderiepumah@mad-radio.miami-calendars
-DTSTAMP:20261121T101804Z
-LAST-MODIFIED:20261121T101804Z
+UID:19hz-4449396-moreonloginimpul@mad-radio.miami-calendars
+DTSTAMP:20261122T101801Z
+LAST-MODIFIED:20261122T101801Z
 SEQUENCE:0
-DTSTART:20261121T020000Z
-DTEND:20261121T080000Z
-SUMMARY:Camaraderie: Puma / Harry Hm / Amare
-LOCATION:Mad Radio
-DESCRIPTION:Tags: house\nAges: 25+\nhttps://shotgun.live/en/events/madradio
- miami112026
-URL:https://shotgun.live/en/events/madradiomiami112026
-STATUS:CONFIRMED
-CATEGORIES:house
-END:VEVENT
-BEGIN:VEVENT
-UID:madradiomiami112126@shotgun.live
-DTSTAMP:20261113T101829Z
-LAST-MODIFIED:20261113T101829Z
-SEQUENCE:1
 DTSTART:20261122T020000Z
 DTEND:20261122T080000Z
 SUMMARY:Moreon / Log_In / Impulse
-LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
-DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
- ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
-  our slick radio show serving up the latest tracks. Save the date and cath
-  the urban-chic experience at Mad Radio Miami. See you on the dance floor!
-  Come early\, stay late\, and let the night unfold FREE ENTRY BEFORE 10 PM
-  / FREE ENTRY LADIES UNTIL MIDNIGHT + 25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
- \nTags: house\nTickets: AFTER 10 PM / EARLY BIRD $20\, FREE LADIES RSVP BE
- FORE 12 AM Free\nAges: 25+\nhttps://shotgun.live/en/events/madradiomiami11
- 2126
+LOCATION:Mad Radio
+DESCRIPTION:Tags: house\nAges: 25+\nhttps://shotgun.live/en/events/madradio
+ miami112126
 URL:https://shotgun.live/en/events/madradiomiami112126
 STATUS:CONFIRMED
 CATEGORIES:house
-GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami112526@shotgun.live
@@ -137,9 +114,9 @@ GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami120426@shotgun.live
-DTSTAMP:20261122T041802Z
-LAST-MODIFIED:20261122T041802Z
-SEQUENCE:11
+DTSTAMP:20261122T101801Z
+LAST-MODIFIED:20261122T101801Z
+SEQUENCE:13
 DTSTART:20261205T020000Z
 DTEND:20261205T080000Z
 SUMMARY:Art Basel / Toy Tonics: Cody Currie

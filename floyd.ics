@@ -8,22 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4449307-fletchrajeb2b2up@floyd.miami-calendars
-DTSTAMP:20261121T161803Z
-LAST-MODIFIED:20261121T161803Z
-SEQUENCE:1
-DTSTART:20261121T040000Z
-DTEND:20261121T100000Z
-SUMMARY:Fletch\, raje b2b 2up!\, messous\, Bryan Softwell
-LOCATION:Floyd Miami
-DESCRIPTION:Tags (guess): house\, techno\nAges: 21+\nhttps://dice.fm/event/
- 7d96y6-floyd-at-the-vault-fletch-20th-nov-floyd-miami-miami-tickets
-URL:https://dice.fm/event/7d96y6-floyd-at-the-vault-fletch-20th-nov-floyd-m
- iami-miami-tickets
-STATUS:CONFIRMED
-CATEGORIES:house,techno
-END:VEVENT
-BEGIN:VEVENT
 UID:19hz-4449403-floydatthevaultj@floyd.miami-calendars
 DTSTAMP:20261122T041802Z
 LAST-MODIFIED:20261122T041802Z

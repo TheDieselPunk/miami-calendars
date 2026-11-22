@@ -8,22 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4449304-ronisize@kemistry.miami-calendars
-DTSTAMP:20261121T161803Z
-LAST-MODIFIED:20261121T161803Z
-SEQUENCE:0
-DTSTART:20261121T030000Z
-DTEND:20261121T090000Z
-SUMMARY:Roni Size
-LOCATION:Kemistry\, Fort Lauderdale
-DESCRIPTION:Tags: drum and bass\, jungle\nAges: 18+\nhttps://dice.fm/event/
- bbg6eo-roni-size-20th-nov-kemistry-fort-lauderdale-tickets
-URL:https://dice.fm/event/bbg6eo-roni-size-20th-nov-kemistry-fort-lauderdal
- e-tickets
-STATUS:CONFIRMED
-CATEGORIES:drum and bass,jungle
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6a64b93c7b94a300012b1b10@kemistry.miami-calendars
 DTSTAMP:20261117T101805Z
 LAST-MODIFIED:20261117T101805Z
