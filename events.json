@@ -52,7 +52,7 @@
   },
   {
    "id": "19hz:4449367-wavesofhouse",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Waves Of House",
    "artists": [],
    "venue": "4020 Virginia Beach Dr",
@@ -70,10 +70,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://bubbl.so/event/public/fwhEJkVDqTQTb6lu5GoR?sharedByID=2aYEr43aHBe1mVGdTcAZaHdeO1K2",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/waves-of-house-551792"
-   ]
+   "url": "https://bubbl.so/event/public/fwhEJkVDqTQTb6lu5GoR?sharedByID=2aYEr43aHBe1mVGdTcAZaHdeO1K2"
   },
   {
    "id": "19hz:4449367-miamimodular",
@@ -100,15 +97,9 @@
   },
   {
    "id": "19hz:4449376-intrigaxbohohous",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Intriga X Boho House: Day Party Vol 5 - Ryan Santelises, Goa'98, Laura Carmer, Lyla, Damian & Syros",
-   "artists": [
-    "Santelises",
-    "Goa '98",
-    "Laura carmer",
-    "damian and syros",
-    "Lyla"
-   ],
+   "artists": [],
    "venue": "Boho House",
    "venue_slug": null,
    "date": "2026-11-21",
@@ -125,35 +116,13 @@
    "genres_inferred": false,
    "organizer": "Ryan Santelises",
    "description": "",
-   "url": "https://ra.co/events/2584309",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/intriga-x-boho-house-day-party-vol-5-santelises-552339"
-   ]
+   "url": "https://ra.co/events/2584309"
   },
   {
    "id": "19hz:4449376-grandtheftautovi",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Grand Theft Auto VI: The Festival",
-   "artists": [
-    "Travis Scott",
-    "Don Toliver",
-    "Kodak Black",
-    "SoFaygo",
-    "Cardi B",
-    "CA7RIEL",
-    "Paco Amoroso",
-    "Justice (DJ Set)",
-    "Metro Boomin",
-    "Nick León",
-    "DJ Python",
-    "Prospa",
-    "Skream",
-    "Suero",
-    "Tainy",
-    "The Dare",
-    "Fcukers (DJ Set)",
-    "Rauw Alejandro"
-   ],
+   "artists": [],
    "venue": "Mana Wynwood",
    "venue_slug": "festivals",
    "date": "2026-11-21",
@@ -170,18 +139,13 @@
    "genres_inferred": false,
    "organizer": "Rockstar Games",
    "description": "",
-   "url": "https://dice.fm/event/783n2v-grand-theft-auto-vi-the-festival-21st-nov-mana-wynwood-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/grand-theft-auto-vi-551215"
-   ]
+   "url": "https://dice.fm/event/783n2v-grand-theft-auto-vi-the-festival-21st-nov-mana-wynwood-miami-tickets"
   },
   {
    "id": "19hz:4449376-klingande",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Klingande",
-   "artists": [
-    "Klingande"
-   ],
+   "artists": [],
    "venue": "Palm Tree Club",
    "venue_slug": null,
    "date": "2026-11-21",
@@ -198,22 +162,13 @@
    "genres_inferred": false,
    "organizer": "Palm Tree Club Miami",
    "description": "",
-   "url": "https://posh.vip/e/klingande-presented-by-palm-tree-club-miami-copy",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/klingande-535916"
-   ]
+   "url": "https://posh.vip/e/klingande-presented-by-palm-tree-club-miami-copy"
   },
   {
    "id": "19hz:4449379-playtimepresents",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Playtime Presents Project B",
-   "artists": [
-    "Jane Vanderbilt",
-    "FADR",
-    "INFLIGHT",
-    "Pablo Z",
-    "KENERGY"
-   ],
+   "artists": [],
    "venue": "Kill Your Idol",
    "venue_slug": null,
    "date": "2026-11-21",
@@ -229,14 +184,11 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://www.bouncelife.com/events/6aac7392b849ebb265615a19",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/playtime-present-project-b-jane-vanderbilt-542164"
-   ]
+   "url": "https://www.bouncelife.com/events/6aac7392b849ebb265615a19"
   },
   {
    "id": "shotgun:zeyzey-selects-donny-benet",
-   "source": "19hz+edmtrain+shotgun+tablelist",
+   "source": "19hz+shotgun+tablelist",
    "title": "Donny Benét",
    "artists": [
     "Donny Benét",
@@ -276,8 +228,7 @@
    "alt_urls": [
     "https://buy.tablelist.com/e/4499d09e5bdfc433",
     "https://buy.tablelist.com/e/b7fe9af7cbabc23f",
-    "https://calendar.zeyzeymiami.com/shows/under-the-disco-ball-ft-bosq-21-nov",
-    "https://edmtrain.com/miami-fl/under-the-disco-ball-bosq-545718"
+    "https://calendar.zeyzeymiami.com/shows/under-the-disco-ball-ft-bosq-21-nov"
    ]
   },
   {
@@ -304,12 +255,9 @@
   },
   {
    "id": "19hz:4449391-johnsummit",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "John Summit",
-   "artists": [
-    "John Summit",
-    "Cassian"
-   ],
+   "artists": [],
    "venue": "Kaseya Center",
    "venue_slug": null,
    "date": "2026-11-21",
@@ -325,10 +273,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://www.ticketmaster.com/event/0D0064B3A9E1800A",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/ctrl-escape-arena-tour-john-summit-505496"
-   ]
+   "url": "https://www.ticketmaster.com/event/0D0064B3A9E1800A"
   },
   {
    "id": "19hz:4449396-lasantabymantra",
@@ -445,12 +390,34 @@
    "url": "https://shotgun.live/en/events/vice-rave-car-meetup"
   },
   {
-   "id": "19hz:4449400-elyoaks",
-   "source": "19hz+edmtrain",
-   "title": "Ely Oaks",
-   "artists": [
-    "Ely Oaks"
+   "id": "19hz:4449400-rafeekivsserious",
+   "source": "19hz",
+   "title": "Rafeeki Vs Serious Jorge",
+   "artists": [],
+   "venue": "1448 North State Road 7",
+   "venue_slug": null,
+   "date": "2026-11-21",
+   "start": "2026-11-22T03:00:00+00:00",
+   "end": "2026-11-22T11:00:00+00:00",
+   "time_estimated": false,
+   "address": "Margate",
+   "ages": "",
+   "price": "$8-18",
+   "genres": [
+    "bass music",
+    "dubstep",
+    "glitch-hop"
    ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/rafeeki-vs-serious-jorg"
+  },
+  {
+   "id": "19hz:4449400-elyoaks",
+   "source": "19hz",
+   "title": "Ely Oaks",
+   "artists": [],
    "venue": "Daer Nightclub",
    "venue_slug": "daer",
    "date": "2026-11-21",
@@ -468,20 +435,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://www.tixr.com/groups/daernightclubsouthflorida/events/ely-oaks-daer-nightclub-206019",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/ely-oaks-539032",
-    "https://edmtrain.com/fort-lauderdale-fl/chris-valencia-554507"
-   ]
+   "url": "https://www.tixr.com/groups/daernightclubsouthflorida/events/ely-oaks-daer-nightclub-206019"
   },
   {
    "id": "19hz:4449400-fernandoolayajes",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Fernando Olaya, Jessy Nimni, Lucas Zarate",
-   "artists": [
-    "Fernando Olaya",
-    "Lucas Zárate"
-   ],
+   "artists": [],
    "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
    "date": "2026-11-21",
@@ -497,10 +457,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6aabf64e76c1150001cda0f0",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/fernando-olaya-lucas-zarate-538078"
-   ]
+   "url": "https://dice.fm/event/6aabf64e76c1150001cda0f0"
   },
   {
    "id": "19hz:4449400-silvieloto",
@@ -526,21 +483,19 @@
    "url": "https://dice.fm/event/6adb9490e08a040001e559ea"
   },
   {
-   "id": "dice:6a64b93c7b94a300012b1b10",
-   "source": "19hz+dice+edmtrain",
-   "title": "STAR MONSTER",
-   "artists": [
-    "Star Monster"
-   ],
+   "id": "19hz:4449400-starmonster",
+   "source": "19hz",
+   "title": "Star Monster",
+   "artists": [],
    "venue": "Kemistry",
    "venue_slug": "kemistry",
    "date": "2026-11-21",
    "start": "2026-11-22T03:00:00+00:00",
    "end": "2026-11-22T09:00:00+00:00",
    "time_estimated": false,
-   "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
+   "address": "Fort Lauderdale",
    "ages": "18+",
-   "price": "From $26",
+   "price": "$13.22",
    "genres": [
     "dubstep",
     "trap"
@@ -548,12 +503,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/v3xw57-star-monster-21st-nov-kemistry-fort-lauderdale-tickets",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/event/v3xw57-star-monster-21st-nov-kemistry-fort-lauderdale-tickets",
-    "https://edmtrain.com/fort-lauderdale-fl/star-monster-526019"
-   ]
+   "url": "https://dice.fm/event/v3xw57-star-monster-21st-nov-kemistry-fort-lauderdale-tickets"
   },
   {
    "id": "19hz:4449400-jarobiwhitejagrm",
@@ -578,43 +528,10 @@
    "url": "https://www.therumor.com/p/jarobi"
   },
   {
-   "id": "shotgun:rafeeki-vs-serious-jorg",
-   "source": "19hz+shotgun",
-   "title": "Rafeeki Vs Serious Jorge",
-   "artists": [],
-   "venue": "Margate",
-   "venue_slug": null,
-   "date": "2026-11-21",
-   "start": "2026-11-22T03:00:00+00:00",
-   "end": "2026-11-22T11:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$20.00",
-   "genres": [
-    "bass music",
-    "dub",
-    "dubstep",
-    "edm",
-    "experimental",
-    "glitch-hop"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/rafeeki-vs-serious-jorg",
-   "alt_urls": [
-    "https://shotgun.live/en/events/rafeeki-vs-serious-jorg"
-   ]
-  },
-  {
    "id": "19hz:4449400-notd",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Notd",
-   "artists": [
-    "NOTD",
-    "VHS"
-   ],
+   "artists": [],
    "venue": "Midline",
    "venue_slug": "midline",
    "date": "2026-11-21",
@@ -631,10 +548,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://wl.eventim.us/event/notd-at-midline-miami/703339?afflky=Midline&nts_trk=32183de8-fffa-4854-baad-2f579c89644f",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/notd-vhs-543166"
-   ]
+   "url": "https://wl.eventim.us/event/notd-at-midline-miami/703339?afflky=Midline&nts_trk=32183de8-fffa-4854-baad-2f579c89644f"
   },
   {
    "id": "19hz:4449400-deerjadeiamyoush",
@@ -661,17 +575,9 @@
   },
   {
    "id": "dice:6ac69100272a2a00015116c5",
-   "source": "19hz+dice+edmtrain",
+   "source": "19hz+dice",
    "title": "The Vault: Justice, Barry Can't Swim & Overmono",
-   "artists": [
-    "Justice (DJ Set)",
-    "Barry Can't Swim (DJ Set)",
-    "Overmono (DJ Set)",
-    "Busy P",
-    "Danny Daze",
-    "Mai Iachetti",
-    "Yasmin"
-   ],
+   "artists": [],
    "venue": "Club Space Miami",
    "venue_slug": "club-space",
    "date": "2026-11-21",
@@ -680,7 +586,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $30",
+   "price": " (sold out)",
    "genres": [
     "electro",
     "house",
@@ -692,9 +598,7 @@
    "url": "https://dice.fm/event/mxwapl-the-vault-presents-tba-21st-nov-club-space-miami-miami-tickets",
    "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/mxwapl-the-vault-presents-tba-21st-nov-club-space-miami-miami-tickets",
-    "https://edmtrain.com/miami-fl/the-vault-presents-551457",
-    "https://edmtrain.com/miami-fl/justice-barry-cant-swim-552344"
+    "https://dice.fm/event/mxwapl-the-vault-presents-tba-21st-nov-club-space-miami-miami-tickets"
    ]
   },
   {
@@ -746,11 +650,9 @@
   },
   {
    "id": "19hz:4449406-dod",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "D.O.D",
-   "artists": [
-    "D.O.D"
-   ],
+   "artists": [],
    "venue": "Liv Nightclub",
    "venue_slug": null,
    "date": "2026-11-21",
@@ -766,18 +668,13 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://www.ticketweb.com/event/id/14363794",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/d-o-d-542605"
-   ]
+   "url": "https://www.ticketweb.com/event/id/14363794"
   },
   {
    "id": "19hz:4449406-joezi",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Joezi",
-   "artists": [
-    "Joezi"
-   ],
+   "artists": [],
    "venue": "Selva",
    "venue_slug": null,
    "date": "2026-11-21",
@@ -795,10 +692,7 @@
    "genres_inferred": false,
    "organizer": "Selva",
    "description": "",
-   "url": "https://posh.vip/e/joezi-selva",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/joezi-548871"
-   ]
+   "url": "https://posh.vip/e/joezi-selva"
   },
   {
    "id": "19hz:4449406-maxsternfriends",
@@ -822,175 +716,6 @@
    "organizer": "The Beatrice Boiler Room",
    "description": "",
    "url": "https://posh.vip/e/max-stern-friends-thebeatrice"
-  },
-  {
-   "id": "edmtrain:551441",
-   "source": "edmtrain",
-   "title": "by Mantra: La Santa",
-   "artists": [
-    "La Santa"
-   ],
-   "venue": "AIRE Miami",
-   "venue_slug": null,
-   "date": "2026-11-21",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "111 NE 20th St, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/la-santa-by-mantra?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/by-mantra-la-santa-551441"
-   ]
-  },
-  {
-   "id": "edmtrain:552416",
-   "source": "edmtrain",
-   "title": "Max Stern",
-   "artists": [
-    "Max Stern"
-   ],
-   "venue": "Beatrice Pizza Club",
-   "venue_slug": null,
-   "date": "2026-11-21",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "1905 Collins Ave, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://posh.vip/e/max-stern-friends-thebeatrice?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/max-stern-552416"
-   ]
-  },
-  {
-   "id": "edmtrain:552985",
-   "source": "edmtrain",
-   "title": "NINE1NINE Saturday Night",
-   "artists": [],
-   "venue": "E11EVEN",
-   "venue_slug": null,
-   "date": "2026-11-21",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "29 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://spkeasy.com/event/EVE-C7V1HK?t=EDMTrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/nine1nine-saturday-night-552985"
-   ]
-  },
-  {
-   "id": "edmtrain:553476",
-   "source": "edmtrain",
-   "title": "Nativos",
-   "artists": [
-    "Nativos"
-   ],
-   "venue": "Edge Miami",
-   "venue_slug": null,
-   "date": "2026-11-21",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "114 NE 20th Terrace, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/nativos-br-nov-21?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/nativos-br-553476"
-   ]
-  },
-  {
-   "id": "edmtrain:546140",
-   "source": "edmtrain",
-   "title": "Deer Jade",
-   "artists": [
-    "Deer Jade"
-   ],
-   "venue": "Sable Miami",
-   "venue_slug": null,
-   "date": "2026-11-21",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "2219 NW 2nd Ave, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/av8q62?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/deer-jade-546140"
-   ]
-  },
-  {
-   "id": "edmtrain:551055",
-   "source": "edmtrain",
-   "title": "Vice Rave & Car Meetup",
-   "artists": [],
-   "venue": "Tenth Level Tavern",
-   "venue_slug": null,
-   "date": "2026-11-21",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "1242 NE 38th St, Oakland Park, FL 33334, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/vice-rave-car-meetup?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/vice-rave-and-car-meetup-551055"
-   ]
-  },
-  {
-   "id": "shotgun:just-us-carry-on-nov-22",
-   "source": "shotgun",
-   "title": "Just Us: The Carry On",
-   "artists": [],
-   "venue": "AIRE Miami",
-   "venue_slug": null,
-   "date": "2026-11-22",
-   "start": "2026-11-22T09:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$20.00",
-   "genres": [
-    "tech house",
-    "house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/just-us-carry-on-nov-22"
   },
   {
    "id": "hardrock:205540",
@@ -2716,7 +2441,7 @@
    "time_estimated": false,
    "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
    "ages": "",
-   "price": "$16.00",
+   "price": "$11.35",
    "genres": [
     "electronica",
     "drum & bass",
@@ -2726,7 +2451,7 @@
    "organizer": "Talk Less Just Dance",
    "description": "CLIPS CLIPS X JWELSET X EQUINOX BOOKING x TALK LESS JUST DANCE ▲///▲///▲ WITCHOUSE RAVE 11/27/26 • 18+ • 10:00PM - 3:00AM ▲ SIDEWALKS AND SKELETONS B2B ESSEX ▲ JWELSET ▲ KITTY ▲ SOUND GUY * more djs to be announced EDM / DARKWAVE / WITCH HOUSE / + MORE DJS SPINNING MUSIC BY S4LEM , CRYSTAL CASTLES,WHITE RING, oOoOO, SUMMER OF HAZE, PASTEL GHOST, + MORE NO REFUNDS!",
    "url": "https://shotgun.live/en/events/witchouse-rave",
-   "tickets": "Second tier $14.1",
+   "tickets": "Second tier $14.1, 21+ $10",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -16523,7 +16248,7 @@
    "time_estimated": false,
    "address": "353 Northeast 61st Street, Miami, FL 33137, USA",
    "ages": "",
-   "price": "$35.05",
+   "price": "$29.88",
    "genres": [
     "indie pop",
     "latin",

@@ -9,19 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:dice-6ac69100272a2a00015116c5@club-space.miami-calendars
-DTSTAMP:20261113T101829Z
-LAST-MODIFIED:20261113T101829Z
-SEQUENCE:4
+DTSTAMP:20261122T161758Z
+LAST-MODIFIED:20261122T161758Z
+SEQUENCE:5
 DTSTART:20261122T040000Z
 DTEND:20261123T010000Z
 SUMMARY:The Vault: Justice\, Barry Can't Swim & Overmono
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Justice (DJ Set)\, Barry Can't Swim (DJ Set)\, Overmono
-  (DJ Set)\, Busy P\, Danny Daze\, Mai Iachetti\, Yasmin\nTags: electro\, h
- ouse\, techno\nAges: 21+\nhttps://dice.fm/event/mxwapl-the-vault-presents-
- tba-21st-nov-club-space-miami-miami-tickets\nhttps://edmtrain.com/miami-fl
- /justice-barry-cant-swim-552344\nhttps://edmtrain.com/miami-fl/the-vault-p
- resents-551457
+DESCRIPTION:Tags: electro\, house\, techno\nAges: 21+\nhttps://dice.fm/even
+ t/mxwapl-the-vault-presents-tba-21st-nov-club-space-miami-miami-tickets
 URL:https://dice.fm/event/mxwapl-the-vault-presents-tba-21st-nov-club-space
  -miami-miami-tickets
 STATUS:CONFIRMED
