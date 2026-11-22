@@ -571,32 +571,6 @@
    "url": "https://ra.co/events/2584056"
   },
   {
-   "id": "hardrock:205539",
-   "source": "edmtrain+venue",
-   "title": "Chris Valencia",
-   "artists": [
-    "Chris Valencia"
-   ],
-   "venue": "DAER Dayclub",
-   "venue_slug": "daer",
-   "date": "2026-11-21",
-   "start": "2026-11-21T17:00:00+00:00",
-   "end": "2026-11-21T23:00:00+00:00",
-   "time_estimated": false,
-   "address": "1 Seminole Way, Hollywood, FL 33314",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://tixr.com/e/205539",
-   "generic_title": false,
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/chris-valencia-554507"
-   ]
-  },
-  {
    "id": "shotgun:equinox-fest-4-day-2-3-november-21-22nd",
    "source": "shotgun",
    "title": "Equinox Fest 4. Day 2 & 3. November 21/22nd",
@@ -615,7 +589,7 @@
    "organizer": "Equinox Booking",
    "description": "Equinox Fest Day 2 and 3 at The Boombox Line up TBA",
    "url": "https://shotgun.live/en/events/equinox-fest-4-day-2-3-november-21-22nd",
-   "tickets": "Day 2 & 3 Weekend Pass $50, Weekend Pass Early Bird $40 (sold out), Day 2 Ticket $30, Day 3 Ticket $30",
+   "tickets": "Day 2 & 3 Weekend Pass $50, Weekend Pass Early Bird $40 (sold out), Day 3 Ticket $30",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -695,33 +669,9 @@
    "url": "https://ra.co/events/2586285"
   },
   {
-   "id": "shotgun:miami-synth-meet-4",
-   "source": "shotgun",
-   "title": "Miami Synth Meet 4",
-   "artists": [],
-   "venue": "Churchill's Pub",
-   "venue_slug": null,
-   "date": "2026-11-21",
-   "start": "2026-11-21T19:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$10.00",
-   "genres": [
-    "experimental",
-    "ambient",
-    "techno"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/miami-synth-meet-4"
-  },
-  {
-   "id": "shotgun:intriga-x-boho-house-day-party-vol-5",
-   "source": "19hz+edmtrain+shotgun",
-   "title": "Intriga X Boho House: Day Party Vol 5",
+   "id": "19hz:4449376-intrigaxbohohous",
+   "source": "19hz+edmtrain",
+   "title": "Intriga X Boho House: Day Party Vol 5 - Ryan Santelises, Goa'98, Laura Carmer, Lyla, Damian & Syros",
    "artists": [
     "Santelises",
     "Goa '98",
@@ -729,7 +679,7 @@
     "damian and syros",
     "Lyla"
    ],
-   "venue": "BOHO House Miami",
+   "venue": "Boho House",
    "venue_slug": null,
    "date": "2026-11-21",
    "start": "2026-11-21T21:00:00+00:00",
@@ -737,19 +687,16 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$39.73",
+   "price": "free b4 8pm / $28-35",
    "genres": [
     "afro house",
-    "indie dance",
-    "progressive house",
     "tech house"
    ],
    "genres_inferred": false,
-   "organizer": "",
+   "organizer": "Ryan Santelises",
    "description": "",
-   "url": "https://shotgun.live/en/events/intriga-x-boho-house-day-party-vol-5",
+   "url": "https://ra.co/events/2584309",
    "alt_urls": [
-    "https://ra.co/events/2584309",
     "https://edmtrain.com/miami-fl/intriga-x-boho-house-day-party-vol-5-santelises-552339"
    ]
   },
@@ -1162,7 +1109,8 @@
    "generic_title": false,
    "alt_urls": [
     "https://www.tixr.com/groups/daernightclubsouthflorida/events/ely-oaks-daer-nightclub-206019",
-    "https://edmtrain.com/fort-lauderdale-fl/ely-oaks-539032"
+    "https://edmtrain.com/fort-lauderdale-fl/ely-oaks-539032",
+    "https://edmtrain.com/fort-lauderdale-fl/chris-valencia-554507"
    ]
   },
   {
@@ -1208,7 +1156,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$20.00",
+   "price": "",
    "genres": [
     "afro house",
     "house",
@@ -1235,7 +1183,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $10",
+   "price": "$10",
    "genres": [
     "tech house",
     "techno"
@@ -1264,7 +1212,7 @@
    "time_estimated": false,
    "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "18+",
-   "price": "From $13",
+   "price": "From $26",
    "genres": [
     "dubstep",
     "trap"
@@ -1368,7 +1316,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$10.00",
+   "price": "$15.00",
    "genres": [],
    "genres_inferred": false,
    "organizer": "",
@@ -1466,19 +1414,19 @@
    ]
   },
   {
-   "id": "dice:6abe812a02ef7e0001ee351d",
-   "source": "19hz+dice",
-   "title": "Floyd at The Vault: Joe Kay presents TEMPO",
+   "id": "19hz:4449403-floydatthevaultj",
+   "source": "19hz",
+   "title": "Floyd at The Vault: Joe Kay Presents Tempo",
    "artists": [],
-   "venue": "Floyd Miami",
+   "venue": "Floyd",
    "venue_slug": "floyd",
    "date": "2026-11-21",
    "start": "2026-11-22T04:00:00+00:00",
    "end": "2026-11-22T10:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": "From $20",
+   "price": "$15+",
    "genres": [
     "future beats",
     "hip-hop"
@@ -1486,11 +1434,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6abe812a02ef7e0001ee351d",
-   "cancelled": false,
-   "alt_urls": [
-    "https://link.dice.fm/nov21floyd"
-   ]
+   "url": "https://link.dice.fm/nov21floyd"
   },
   {
    "id": "19hz:4449403-midnightserviced",
@@ -4346,6 +4290,30 @@
    ]
   },
   {
+   "id": "shotgun:soulfire-sessions-unconditional-thanksgiving",
+   "source": "shotgun",
+   "title": "Soulfire Sessions : Unconditional Thanksgiving",
+   "artists": [],
+   "venue": "Paraiso Estereo",
+   "venue_slug": null,
+   "date": "2026-11-28",
+   "start": "2026-11-29T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$30.00",
+   "genres": [
+    "afro house",
+    "progressive house",
+    "indie dance"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/soulfire-sessions-unconditional-thanksgiving"
+  },
+  {
    "id": "19hz:4450072-tchamiferno",
    "source": "19hz+edmtrain",
    "title": "Tchami, Ferno",
@@ -6679,7 +6647,7 @@
    "time_estimated": false,
    "address": "4800 NW 37th Ave, Miami, FL 33142, USA",
    "ages": "",
-   "price": "From $60",
+   "price": "From $70",
    "genres": [
     "house",
     "techno"
@@ -8929,7 +8897,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "Free",
+   "price": "",
    "genres": [
     "indie rock",
     "indie",
@@ -9568,7 +9536,7 @@
    "time_estimated": false,
    "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "18+",
-   "price": "From $26",
+   "price": "From $33",
    "genres": [
     "dubstep",
     "riddim",
@@ -12117,6 +12085,29 @@
    "organizer": "",
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/dayme-arocena-la-ultima-rumba-19-dec",
+   "cancelled": false
+  },
+  {
+   "id": "zeyzey:salsa-z-19-dec",
+   "source": "venue",
+   "title": "Salsa Z",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-12-19",
+   "start": "2026-12-20T00:00:00+00:00",
+   "end": "2026-12-20T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "latin"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/salsa-z-19-dec",
    "cancelled": false
   },
   {

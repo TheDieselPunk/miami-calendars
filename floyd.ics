@@ -24,17 +24,17 @@ STATUS:CONFIRMED
 CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
-UID:dice-6abe812a02ef7e0001ee351d@floyd.miami-calendars
-DTSTAMP:20261120T101823Z
-LAST-MODIFIED:20261120T101823Z
-SEQUENCE:2
+UID:19hz-4449403-floydatthevaultj@floyd.miami-calendars
+DTSTAMP:20261122T041802Z
+LAST-MODIFIED:20261122T041802Z
+SEQUENCE:0
 DTSTART:20261122T040000Z
 DTEND:20261122T100000Z
-SUMMARY:Floyd at The Vault: Joe Kay presents TEMPO
-LOCATION:Floyd Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags: future beats\, hip-hop\nAges: 21+\nhttps://dice.fm/event/
- 6abe812a02ef7e0001ee351d\nhttps://link.dice.fm/nov21floyd
-URL:https://dice.fm/event/6abe812a02ef7e0001ee351d
+SUMMARY:Floyd at The Vault: Joe Kay Presents Tempo
+LOCATION:Floyd
+DESCRIPTION:Tags: future beats\, hip-hop\nAges: 21+\nhttps://link.dice.fm/n
+ ov21floyd
+URL:https://link.dice.fm/nov21floyd
 STATUS:CONFIRMED
 CATEGORIES:future beats,hip-hop
 END:VEVENT

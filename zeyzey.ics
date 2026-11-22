@@ -468,6 +468,21 @@ STATUS:CONFIRMED
 CATEGORIES:latin
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-salsa-z-19-dec@zeyzey.miami-calendars
+DTSTAMP:20261122T041802Z
+LAST-MODIFIED:20261122T041802Z
+SEQUENCE:0
+DTSTART:20261220T000000Z
+DTEND:20261220T060000Z
+SUMMARY:Salsa Z
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: latin\nhttps://calendar.zeyzeymiami.com/shows/salsa-z-19-
+ dec
+URL:https://calendar.zeyzeymiami.com/shows/salsa-z-19-dec
+STATUS:CONFIRMED
+CATEGORIES:latin
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-una-noche-en-nuyorico-19-dec@zeyzey.miami-calendars
 DTSTAMP:20261110T161817Z
 LAST-MODIFIED:20261110T161817Z
