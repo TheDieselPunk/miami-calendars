@@ -8,22 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4449403-thevaultjusticeb@club-space.miami-calendars
-DTSTAMP:20261123T041806Z
-LAST-MODIFIED:20261123T041806Z
-SEQUENCE:0
-DTSTART:20261122T040000Z
-DTEND:20261123T010000Z
-SUMMARY:The Vault: Justice\, Barry Can't Swim & Overmono\, Danny Daze
-LOCATION:Club Space
-DESCRIPTION:Tags: electro\, house\, techno\nAges: 21+\nhttps://dice.fm/even
- t/mxwapl-the-vault-presents-tba-21st-nov-club-space-miami-miami-tickets
-URL:https://dice.fm/event/mxwapl-the-vault-presents-tba-21st-nov-club-space
- -miami-miami-tickets
-STATUS:CONFIRMED
-CATEGORIES:electro,house,techno
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6ac69157ede6160001290447@club-space.miami-calendars
 DTSTAMP:20261120T101823Z
 LAST-MODIFIED:20261120T101823Z

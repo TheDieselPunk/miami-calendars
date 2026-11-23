@@ -8,35 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4449400-elyoaks@daer.miami-calendars
-DTSTAMP:20261122T161758Z
-LAST-MODIFIED:20261122T161758Z
-SEQUENCE:1
-DTSTART:20261122T030000Z
-DTEND:20261122T090000Z
-SUMMARY:Ely Oaks
-LOCATION:Daer Nightclub\, Hollywood
-DESCRIPTION:Tags: edm\, eurodance\, trance\nAges: 21+\nhttps://www.tixr.com
- /groups/daernightclubsouthflorida/events/ely-oaks-daer-nightclub-206019
-URL:https://www.tixr.com/groups/daernightclubsouthflorida/events/ely-oaks-d
- aer-nightclub-206019
-STATUS:CONFIRMED
-CATEGORIES:edm,eurodance,trance
-END:VEVENT
-BEGIN:VEVENT
-UID:hardrock-205540@daer.miami-calendars
-DTSTAMP:20261116T221812Z
-LAST-MODIFIED:20261116T221812Z
-SEQUENCE:2
-DTSTART:20261122T170000Z
-DTEND:20261122T230000Z
-SUMMARY:Sunkiss Sundays
-LOCATION:DAER Dayclub\, 1 Seminole Way\, Hollywood\, FL 33314
-DESCRIPTION:https://tixr.com/e/205540
-URL:https://tixr.com/e/205540
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:hardrock-206020@daer.miami-calendars
 DTSTAMP:20261121T161803Z
 LAST-MODIFIED:20261121T161803Z

@@ -8,23 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4449400-notd@midline.miami-calendars
-DTSTAMP:20261122T161758Z
-LAST-MODIFIED:20261122T161758Z
-SEQUENCE:1
-DTSTART:20261122T030000Z
-DTEND:20261122T080000Z
-SUMMARY:Notd
-LOCATION:Midline
-DESCRIPTION:Tags: future bass\, pop edm\nAges: 18+\nhttps://wl.eventim.us/e
- vent/notd-at-midline-miami/703339?afflky=Midline&nts_trk=32183de8-fffa-485
- 4-baad-2f579c89644f
-URL:https://wl.eventim.us/event/notd-at-midline-miami/703339?afflky=Midline
- &nts_trk=32183de8-fffa-4854-baad-2f579c89644f
-STATUS:CONFIRMED
-CATEGORIES:future bass,pop edm
-END:VEVENT
-BEGIN:VEVENT
 UID:19hz-4449772-inna@midline.miami-calendars
 DTSTAMP:20260926T221817Z
 LAST-MODIFIED:20260926T221817Z

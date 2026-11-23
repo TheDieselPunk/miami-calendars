@@ -8,22 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4449400-starmonster@kemistry.miami-calendars
-DTSTAMP:20261122T161758Z
-LAST-MODIFIED:20261122T161758Z
-SEQUENCE:0
-DTSTART:20261122T030000Z
-DTEND:20261122T090000Z
-SUMMARY:Star Monster
-LOCATION:Kemistry\, Fort Lauderdale
-DESCRIPTION:Tags: dubstep\, trap\nAges: 18+\nhttps://dice.fm/event/v3xw57-s
- tar-monster-21st-nov-kemistry-fort-lauderdale-tickets
-URL:https://dice.fm/event/v3xw57-star-monster-21st-nov-kemistry-fort-lauder
- dale-tickets
-STATUS:CONFIRMED
-CATEGORIES:dubstep,trap
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6aaae809e78bd300017554b1@kemistry.miami-calendars
 DTSTAMP:20261026T101803Z
 LAST-MODIFIED:20261026T101803Z

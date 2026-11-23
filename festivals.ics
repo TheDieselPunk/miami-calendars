@@ -8,42 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4449376-grandtheftautovi@festivals.miami-calendars
-DTSTAMP:20261122T161758Z
-LAST-MODIFIED:20261122T161758Z
-SEQUENCE:1
-DTSTART:20261121T210000Z
-DTEND:20261122T070000Z
-SUMMARY:Grand Theft Auto VI: The Festival
-LOCATION:Mana Wynwood
-DESCRIPTION:Tags: hip-hop\, house\nPresented by: Rockstar Games\nAges: 17+
- \nhttps://dice.fm/event/783n2v-grand-theft-auto-vi-the-festival-21st-nov-m
- ana-wynwood-miami-tickets
-URL:https://dice.fm/event/783n2v-grand-theft-auto-vi-the-festival-21st-nov-
- mana-wynwood-miami-tickets
-STATUS:CONFIRMED
-CATEGORIES:hip-hop,house
-END:VEVENT
-BEGIN:VEVENT
-UID:19hz-4449396-blackroom3yearan@festivals.miami-calendars
-DTSTAMP:20261110T041823Z
-LAST-MODIFIED:20261110T041823Z
-SEQUENCE:0
-DTSTART:20261122T020000Z
-DTEND:20261122T080000Z
-SUMMARY:Black Room 3 Year Anniversary Fest: Frederic.\, Arweenn\, Flash Gea
- \, Domnrob\, Franky De Rey\, Kujo\, Rara\, Spice Crime B2B Violeta\, V1Fro
- \, Cultus Vis B2B Dadrev\, Federico Barga\, Felizeta B2B Fiuza\, Icky B2B 
- Kryz\, In6Stinct\, Yari\, V.Seven B2B Proletar\, Ziur\, Doffy\, Ez Miel\, 
- Nishikigoi\, Tektroidgrl\, Aneurysm\, Derek Darko
-LOCATION:Casa Nube Wynwood
-DESCRIPTION:Tags: hard techno\, schranz\nPresented by: Black Room\nAges: 18
- +\nhttps://ra.co/events/2572799
-URL:https://ra.co/events/2572799
-STATUS:CONFIRMED
-CATEGORIES:hard techno,schranz
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6ac69157ede6160001290447@festivals.miami-calendars
 DTSTAMP:20261120T101823Z
 LAST-MODIFIED:20261120T101823Z
@@ -468,9 +432,9 @@ CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami120426@shotgun.live
-DTSTAMP:20261123T041806Z
-LAST-MODIFIED:20261123T041806Z
-SEQUENCE:20
+DTSTAMP:20261123T101754Z
+LAST-MODIFIED:20261123T101754Z
+SEQUENCE:22
 DTSTART:20261205T020000Z
 DTEND:20261205T080000Z
 SUMMARY:Art Basel / Toy Tonics: Cody Currie

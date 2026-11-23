@@ -8,42 +8,17 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:zeyzey-selects-donny-benet@shotgun.live
-DTSTAMP:20261122T161758Z
-LAST-MODIFIED:20261122T161758Z
-SEQUENCE:9
-DTSTART:20261121T233000Z
-DTEND:20261123T040000Z
-SUMMARY:Donny Benét
-LOCATION:ZeyZey Miami\, 353 Northeast 61st Street\, Miami\, FL 33137\, USA
-DESCRIPTION:Donny Benét Saturday\, November 21st 2026 18+ | Zaku Stage Tic
- ket sales for this event have moved. Please visit this link to get tickets
- : https://calendar.zeyzeymiami.com/shows/donny-benet-21-nov\nLineup: Donny
-  Benét\, OTNES\nTags: afrolatin\, disco\, electronica\, funk\, house\, it
- alo disco\, synthpop\, tropcial\nAges: All ages\nhttps://shotgun.live/en/e
- vents/zeyzey-selects-donny-benet\nhttps://buy.tablelist.com/e/4499d09e5bdf
- c433\nhttps://buy.tablelist.com/e/b7fe9af7cbabc23f\nhttps://calendar.zeyze
- ymiami.com/shows/under-the-disco-ball-ft-bosq-21-nov
-URL:https://shotgun.live/en/events/zeyzey-selects-donny-benet
-STATUS:CONFIRMED
-CATEGORIES:afrolatin,disco,electronica,funk,house,italo disco,synthpop,trop
- cial
-GEO:25.8327924;-80.1891253
-END:VEVENT
-BEGIN:VEVENT
 UID:tablelist-eb49879b8b613c42@zeyzey.miami-calendars
-DTSTAMP:20261101T101757Z
-LAST-MODIFIED:20261101T101757Z
-SEQUENCE:0
+DTSTAMP:20261123T101754Z
+LAST-MODIFIED:20261123T101754Z
+SEQUENCE:1
 DTSTART:20261123T000000Z
 DTEND:20261123T060000Z
 SUMMARY:Arde Bogotá
 LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: rock\nhttps://buy.tablelist.com/e/eb49879b8b613c42\nhttps
- ://calendar.zeyzeymiami.com/shows/arde-bogota-22-nov
+DESCRIPTION:https://buy.tablelist.com/e/eb49879b8b613c42
 URL:https://buy.tablelist.com/e/eb49879b8b613c42
 STATUS:CONFIRMED
-CATEGORIES:rock
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-friendsgiving-ft-suenalo-the-lab-25-nov@zeyzey.miami-calendars
