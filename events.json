@@ -24,11 +24,9 @@
   },
   {
    "id": "19hz:4449475-sogoodsundayswdj",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "So Good Sundays w/ DJ Craze",
-   "artists": [
-    "Craze"
-   ],
+   "artists": [],
    "venue": "Tomorrowland",
    "venue_slug": null,
    "date": "2026-11-22",
@@ -50,18 +48,13 @@
    "genres_inferred": false,
    "organizer": "Culture",
    "description": "",
-   "url": "https://www.eventbrite.com/e/so-good-sundays-w-dj-craze-tickets-2004431131472",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/craze-551083"
-   ]
+   "url": "https://www.eventbrite.com/e/so-good-sundays-w-dj-craze-tickets-2004431131472"
   },
   {
    "id": "19hz:4449480-sundancewbudakid",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Sundance w/ Budakid",
-   "artists": [
-    "Budakid"
-   ],
+   "artists": [],
    "venue": "Upside",
    "venue_slug": null,
    "date": "2026-11-22",
@@ -77,10 +70,7 @@
    "genres_inferred": false,
    "organizer": "Apex",
    "description": "",
-   "url": "https://ra.co/events/2551231",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/budakid-539891"
-   ]
+   "url": "https://ra.co/events/2551231"
   },
   {
    "id": "tablelist:eb49879b8b613c42",
@@ -128,12 +118,9 @@
   },
   {
    "id": "19hz:4449487-humansalikesunda",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Humans Alike Sundays",
-   "artists": [
-    "Thunderpony",
-    "Dalva"
-   ],
+   "artists": [],
    "venue": "Aire",
    "venue_slug": null,
    "date": "2026-11-22",
@@ -150,10 +137,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/humans-alike-sundays-nov-22",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/humans-alike-sundays-thunderpony-553932"
-   ]
+   "url": "https://shotgun.live/en/events/humans-alike-sundays-nov-22"
   },
   {
    "id": "dice:6ac69157ede6160001290447",
@@ -187,13 +171,9 @@
   },
   {
    "id": "19hz:4449499-divorceegregwils",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Divorcee: Greg Wilson",
-   "artists": [
-    "Greg Wilson",
-    "Adam At The Door",
-    "Will Buck"
-   ],
+   "artists": [],
    "venue": "Floyd",
    "venue_slug": "floyd",
    "date": "2026-11-22",
@@ -211,10 +191,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://link.dice.fm/divorceefloyd",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/greg-wilson-adam-at-the-door-554034"
-   ]
+   "url": "https://link.dice.fm/divorceefloyd"
   },
   {
    "id": "19hz:4449583-mistergray",
@@ -523,9 +500,9 @@
    ]
   },
   {
-   "id": "shotgun:she-knows-best-nov-25",
-   "source": "edmtrain+shotgun",
-   "title": "She Knows Best (Thanksgiving Eve)",
+   "id": "shotgun:thanksgiving-eve-aire",
+   "source": "shotgun",
+   "title": "Thanksgiving Eve At Aire",
    "artists": [],
    "venue": "AIRE Miami",
    "venue_slug": null,
@@ -543,10 +520,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/she-knows-best-nov-25",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/she-knows-best-555069"
-   ]
+   "url": "https://shotgun.live/en/events/thanksgiving-eve-aire"
   },
   {
    "id": "shotgun:aftercito-thanksgiving-eve",
@@ -561,7 +535,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$6.14",
+   "price": "$12.00",
    "genres": [
     "miami bass",
     "house",
@@ -789,6 +763,29 @@
    "cancelled": false,
    "alt_urls": [
     "https://link.dice.fm/payenovground"
+   ]
+  },
+  {
+   "id": "edmtrain:555069",
+   "source": "edmtrain",
+   "title": "She Knows Best",
+   "artists": [],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-11-25",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "111 NE 20th St, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/she-knows-best-nov-25?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/she-knows-best-555069"
    ]
   },
   {
@@ -12824,6 +12821,31 @@
    "created": "2026-11-18T23:47:28.000Z"
   },
   {
+   "id": "edmtrain:555424",
+   "source": "edmtrain",
+   "title": "CamelPhat",
+   "artists": [
+    "CamelPhat"
+   ],
+   "venue": "1235 Washington Ave",
+   "venue_slug": null,
+   "date": "2027-01-02",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1235 Washington Ave, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://resistancemiami.com/tickets/january-2-camelphat/",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/camelphat-555424"
+   ]
+  },
+  {
    "id": "edmtrain:546412",
    "source": "edmtrain",
    "title": "Loud Luxury, Ty Sunderland, Anne Louise",
@@ -14315,6 +14337,27 @@
    "description": "",
    "url": "https://tixr.com/e/214371",
    "generic_title": true
+  },
+  {
+   "id": "zeyzey:equiss-06-feb",
+   "source": "venue",
+   "title": "EQUISS",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2027-02-06",
+   "start": "2027-02-07T02:00:00+00:00",
+   "end": "2027-02-07T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/equiss-06-feb",
+   "cancelled": false
   },
   {
    "id": "hardrock:214382",
