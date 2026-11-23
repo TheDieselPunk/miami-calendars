@@ -13,20 +13,20 @@
    "time_estimated": false,
    "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
    "ages": "",
-   "price": "$34.05",
+   "price": "",
    "genres": [],
    "genres_inferred": false,
    "organizer": "Equinox Booking",
    "description": "Equinox Fest Day 2 and 3 at The Boombox Line up TBA",
    "url": "https://shotgun.live/en/events/equinox-fest-4-day-2-3-november-21-22nd",
-   "tickets": "Weekend Pass Early Bird $40 (sold out), Day 3 Ticket $30",
+   "tickets": "",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
     "latitude": 25.7287781,
     "longitude": -80.3169309
    },
-   "created": "2026-10-19T15:50:33.000Z"
+   "created": null
   },
   {
    "id": "19hz:4449360-turntablebagelmi",
@@ -574,19 +574,19 @@
    "url": "https://dice.fm/event/av8q62-deer-jade-i-am-you-showcase-21st-nov-sable-miami-miami-tickets"
   },
   {
-   "id": "dice:6ac69100272a2a00015116c5",
-   "source": "19hz+dice",
-   "title": "The Vault: Justice, Barry Can't Swim & Overmono",
+   "id": "19hz:4449403-thevaultjusticeb",
+   "source": "19hz",
+   "title": "The Vault: Justice, Barry Can't Swim & Overmono, Danny Daze",
    "artists": [],
-   "venue": "Club Space Miami",
+   "venue": "Club Space",
    "venue_slug": "club-space",
    "date": "2026-11-21",
    "start": "2026-11-22T04:00:00+00:00",
    "end": "2026-11-23T01:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": " (sold out)",
+   "price": "$30+",
    "genres": [
     "electro",
     "house",
@@ -595,11 +595,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/mxwapl-the-vault-presents-tba-21st-nov-club-space-miami-miami-tickets",
-   "cancelled": false,
-   "alt_urls": [
-    "https://dice.fm/event/mxwapl-the-vault-presents-tba-21st-nov-club-space-miami-miami-tickets"
-   ]
+   "url": "https://dice.fm/event/mxwapl-the-vault-presents-tba-21st-nov-club-space-miami-miami-tickets"
   },
   {
    "id": "19hz:4449403-floydatthevaultj",
@@ -739,26 +735,6 @@
    "generic_title": false
   },
   {
-   "id": "shotgun:sunday-social-chillin-n-grillin-pop-up",
-   "source": "shotgun",
-   "title": "Sunday Social / Chillin' N Grillin' Pop Up",
-   "artists": [],
-   "venue": "Fooq's",
-   "venue_slug": null,
-   "date": "2026-11-22",
-   "start": "2026-11-22T19:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/sunday-social-chillin-n-grillin-pop-up"
-  },
-  {
    "id": "19hz:4449468-chillinngrillinb",
    "source": "19hz",
    "title": "Chillin N Grillin: Benefica - Manumat, Bandito Chico, La Vega, Israel Sunshine, Leo Del Toro",
@@ -836,26 +812,6 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/end-of-summer-presents-fall"
-  },
-  {
-   "id": "shotgun:gypsy-83-at-sidewalk-bottleshop",
-   "source": "shotgun",
-   "title": "Gypsy 83: A Goth Night At Sidewalk Bottleshop",
-   "artists": [],
-   "venue": "North Miami",
-   "venue_slug": null,
-   "date": "2026-11-22",
-   "start": "2026-11-22T23:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/gypsy-83-at-sidewalk-bottleshop"
   },
   {
    "id": "19hz:4449480-sundancewbudakid",
@@ -984,30 +940,6 @@
    ]
   },
   {
-   "id": "dice:6a079483f03f2d0001135fb0",
-   "source": "dice",
-   "title": "Ground at The Vault: Headache",
-   "artists": [],
-   "venue": "The Ground Miami",
-   "venue_slug": "the-ground",
-   "date": "2026-11-22",
-   "start": "2026-11-23T01:00:00+00:00",
-   "end": "2026-11-23T05:00:00+00:00",
-   "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
-   "price": "",
-   "genres": [
-    "house",
-    "techno"
-   ],
-   "genres_inferred": true,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/6a079483f03f2d0001135fb0",
-   "cancelled": false
-  },
-  {
    "id": "shotgun:kinoplex-bicho-habits",
    "source": "shotgun",
    "title": "Kinoplex Movie Night : El Bicho (2026) & Dark Habits (1983)",
@@ -1058,23 +990,23 @@
    ]
   },
   {
-   "id": "dice:6abe81edcf1f4100017bc3b4",
-   "source": "19hz+dice+edmtrain",
-   "title": "Floyd at The Vault: Divorcée presents Greg Wilson",
+   "id": "19hz:4449499-divorceegregwils",
+   "source": "19hz+edmtrain",
+   "title": "Divorcee: Greg Wilson",
    "artists": [
     "Greg Wilson",
     "Adam At The Door",
     "Will Buck"
    ],
-   "venue": "Floyd Miami",
+   "venue": "Floyd",
    "venue_slug": "floyd",
    "date": "2026-11-22",
    "start": "2026-11-23T04:00:00+00:00",
    "end": "2026-11-23T10:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": "From $15",
+   "price": "$15+",
    "genres": [
     "disco",
     "electrofunk",
@@ -1083,10 +1015,8 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6abe81edcf1f4100017bc3b4",
-   "cancelled": false,
+   "url": "https://link.dice.fm/divorceefloyd",
    "alt_urls": [
-    "https://link.dice.fm/divorceefloyd",
     "https://edmtrain.com/miami-fl/greg-wilson-adam-at-the-door-554034"
    ]
   },
@@ -1591,7 +1521,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $7",
+   "price": "From $10",
    "genres": [
     "electro",
     "techno"
@@ -4193,7 +4123,7 @@
    "description": "",
    "url": "https://spkeasy.com/event/EVE-4T6QPB",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/nine1nine-le-twins-552827"
+    "https://edmtrain.com/miami-fl/nine1nine-miami-art-week-le-twins-552827"
    ]
   },
   {
@@ -5451,7 +5381,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$22.70",
+   "price": "$28.38",
    "genres": [
     "hip hop",
     "baile funk",
@@ -6072,6 +6002,29 @@
    "url": "https://app.hive.co/contests/contest/37359/spotlight/",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/hugel-540040"
+   ]
+  },
+  {
+   "id": "edmtrain:552829",
+   "source": "edmtrain",
+   "title": "NINE1NINE Miami Art Week",
+   "artists": [],
+   "venue": "E11EVEN",
+   "venue_slug": null,
+   "date": "2026-12-03",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "29 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://spkeasy.com/event/EVE-5MVWJ5?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/nine1nine-miami-art-week-552829"
    ]
   },
   {
@@ -7241,6 +7194,29 @@
    "url": "https://ra.co/events/2513593",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/where-are-my-keys-546404"
+   ]
+  },
+  {
+   "id": "edmtrain:552830",
+   "source": "edmtrain",
+   "title": "NINE1NINE Miami Art Week",
+   "artists": [],
+   "venue": "E11EVEN",
+   "venue_slug": null,
+   "date": "2026-12-04",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "29 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://spkeasy.com/event/EVE-CTHUZD?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/nine1nine-miami-art-week-552830"
    ]
   },
   {
@@ -8692,6 +8668,29 @@
    ]
   },
   {
+   "id": "edmtrain:552831",
+   "source": "edmtrain",
+   "title": "NINE1NINE Miami Art Week",
+   "artists": [],
+   "venue": "E11EVEN",
+   "venue_slug": null,
+   "date": "2026-12-05",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "29 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://spkeasy.com/event/EVE-R359AH?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/nine1nine-miami-art-week-552831"
+   ]
+  },
+  {
    "id": "edmtrain:554186",
    "source": "edmtrain",
    "title": "Section's One Year Anniversary: TBA",
@@ -8739,6 +8738,32 @@
    "url": "https://music.mila-miami.com?id=wx8f3fciu55e2y46tmi9s3ofk9bd12k3",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/kaz-james-554782"
+   ]
+  },
+  {
+   "id": "edmtrain:555390",
+   "source": "edmtrain",
+   "title": "Tom Enzy, Ochok",
+   "artists": [
+    "Tom Enzy",
+    "Ochok"
+   ],
+   "venue": "Mynt Lounge",
+   "venue_slug": null,
+   "date": "2026-12-05",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1921 Collins Ave, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://spkeasy.com/event/EVE-C1DVYL?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/tom-enzy-ochok-555390"
    ]
   },
   {
@@ -9322,6 +9347,29 @@
    "url": "https://dice.fm/event/avklnq?pid=d6342b83",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/golfos-pawsa-and-dennis-cruz-533428"
+   ]
+  },
+  {
+   "id": "edmtrain:552832",
+   "source": "edmtrain",
+   "title": "NINE1NINE Miami Art Week",
+   "artists": [],
+   "venue": "E11EVEN",
+   "venue_slug": null,
+   "date": "2026-12-06",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "29 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://spkeasy.com/event/EVE-CMLN3J?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/nine1nine-miami-art-week-552832"
    ]
   },
   {
@@ -11100,6 +11148,33 @@
    "url": "https://shotgun.live/events/the-hall-club-monkey-safari?utm_source=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/monkey-safari-polk-552388"
+   ]
+  },
+  {
+   "id": "edmtrain:555404",
+   "source": "edmtrain",
+   "title": "German Brigante",
+   "artists": [
+    "German Brigante"
+   ],
+   "venue": "M2 Nightclub",
+   "venue_slug": null,
+   "date": "2026-12-18",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1235 Washington Ave, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "open-format"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/unity-pres-german-brigante-m2-miami?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/german-brigante-555404"
    ]
   },
   {
@@ -15645,9 +15720,11 @@
   },
   {
    "id": "zeyzey:mike-dunn-27-feb",
-   "source": "venue",
+   "source": "edmtrain+venue",
    "title": "Mike Dunn (Free Entry)",
-   "artists": [],
+   "artists": [
+    "Mike Dunn"
+   ],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2027-02-27",
@@ -15664,7 +15741,10 @@
    "organizer": "",
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/mike-dunn-27-feb",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/mike-dunn-555410"
+   ]
   },
   {
    "id": "hardrock:214388",
