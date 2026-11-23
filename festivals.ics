@@ -8,17 +8,17 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6ac69157ede6160001290447@festivals.miami-calendars
-DTSTAMP:20261120T101823Z
-LAST-MODIFIED:20261120T101823Z
-SEQUENCE:2
+UID:19hz-4449499-circolocorecords@festivals.miami-calendars
+DTSTAMP:20261123T221757Z
+LAST-MODIFIED:20261123T221757Z
+SEQUENCE:0
 DTSTART:20261123T040000Z
-DTEND:20261124T010000Z
-SUMMARY:The Vault presents Circoloco Records Radio
-LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags: tech house\nAges: 18+\nhttps://dice.fm/event/92vlg7-the-v
- ault-presents-circoloco-records-radio-22nd-nov-club-space-miami-miami-tick
- ets?lng=en-US\nhttps://link.dice.fm/headacheground
+DTEND:20261123T100000Z
+SUMMARY:Circoloco Records Radio
+LOCATION:Club Space
+DESCRIPTION:Tags: tech house\nPresented by: The Vault\nAges: 21+\nhttps://d
+ ice.fm/event/92vlg7-the-vault-presents-circoloco-records-radio-22nd-nov-cl
+ ub-space-miami-miami-tickets?lng=en-US
 URL:https://dice.fm/event/92vlg7-the-vault-presents-circoloco-records-radio
  -22nd-nov-club-space-miami-miami-tickets?lng=en-US
 STATUS:CONFIRMED
@@ -432,9 +432,9 @@ CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami120426@shotgun.live
-DTSTAMP:20261123T161756Z
-LAST-MODIFIED:20261123T161756Z
-SEQUENCE:24
+DTSTAMP:20261123T221757Z
+LAST-MODIFIED:20261123T221757Z
+SEQUENCE:26
 DTSTART:20261205T020000Z
 DTEND:20261205T080000Z
 SUMMARY:Art Basel / Toy Tonics: Cody Currie
@@ -472,10 +472,10 @@ CATEGORIES:afro house,deep house,house,latin house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:cafe-grooves-art-week@shotgun.live
-DTSTAMP:20261020T041827Z
-LAST-MODIFIED:20261020T041827Z
-SEQUENCE:1
-DTSTART:20261205T180000Z
+DTSTAMP:20261123T221757Z
+LAST-MODIFIED:20261123T221757Z
+SEQUENCE:2
+DTSTART:20261205T190000Z
 DTEND:20261205T230000Z
 SUMMARY:Café Grooves // Art Basel
 LOCATION:Lunasol

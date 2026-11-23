@@ -1,4 +1,19 @@
 {
+ "19hz-4449487-headacheamrvpn@club-space.miami-calendars": {
+  "hash": "68081900a8b08ed1",
+  "seq": 0,
+  "modified": "2026-11-23T22:17:57+00:00"
+ },
+ "19hz-4449499-circolocorecords@club-space.miami-calendars": {
+  "hash": "025c541aada1880a",
+  "seq": 0,
+  "modified": "2026-11-23T22:17:57+00:00"
+ },
+ "19hz-4449499-circolocorecords@festivals.miami-calendars": {
+  "hash": "025c541aada1880a",
+  "seq": 0,
+  "modified": "2026-11-23T22:17:57+00:00"
+ },
  "19hz-4449499-divorceegregwils@floyd.miami-calendars": {
   "hash": "81d403f7a2080f18",
   "seq": 1,
@@ -185,9 +200,9 @@
   "modified": "2026-11-11T04:18:27+00:00"
  },
  "cafe-grooves-art-week@shotgun.live": {
-  "hash": "bbf01bb33a85d152",
-  "seq": 1,
-  "modified": "2026-10-20T04:18:27+00:00"
+  "hash": "b14a821236c434e3",
+  "seq": 2,
+  "modified": "2026-11-23T22:17:57+00:00"
  },
  "clay-birds-at-the-boombox-11-24@shotgun.live": {
   "hash": "f94ab6ac139c5ff7",
@@ -408,16 +423,6 @@
   "hash": "ff69b0778cea4647",
   "seq": 2,
   "modified": "2026-10-17T16:18:17+00:00"
- },
- "dice-6ac69157ede6160001290447@club-space.miami-calendars": {
-  "hash": "461148da78149681",
-  "seq": 3,
-  "modified": "2026-11-20T10:18:23+00:00"
- },
- "dice-6ac69157ede6160001290447@festivals.miami-calendars": {
-  "hash": "461148da78149681",
-  "seq": 2,
-  "modified": "2026-11-20T10:18:23+00:00"
  },
  "dice-6ac6b477b79982000164dae2@factory-town.miami-calendars": {
   "hash": "6132c4b9fb6d66ce",
@@ -1139,6 +1144,11 @@
   "seq": 0,
   "modified": "2026-11-10T22:18:24+00:00"
  },
+ "hardrock-215985@daer.miami-calendars": {
+  "hash": "d7322d33dc095bdf",
+  "seq": 0,
+  "modified": "2026-11-23T22:17:57+00:00"
+ },
  "humans-alike-sundays-nov-29@shotgun.live": {
   "hash": "5ad9b20aa102e613",
   "seq": 2,
@@ -1176,8 +1186,8 @@
  },
  "madradiomiami120426@shotgun.live": {
   "hash": "288256f6a655a344",
-  "seq": 24,
-  "modified": "2026-11-23T16:17:56+00:00"
+  "seq": 26,
+  "modified": "2026-11-23T22:17:57+00:00"
  },
  "paloma-morphy-miami@shotgun.live": {
   "hash": "2171347b9765ad53",
@@ -1288,6 +1298,11 @@
   "hash": "022d477dae491918",
   "seq": 2,
   "modified": "2026-11-05T16:18:02+00:00"
+ },
+ "zeyzey-danay-suarez-22-jan@zeyzey.miami-calendars": {
+  "hash": "bab5e5f3b2897507",
+  "seq": 0,
+  "modified": "2026-11-23T22:17:57+00:00"
  },
  "zeyzey-danny-kravit-free-entry-26-dec@zeyzey.miami-calendars": {
   "hash": "25e8844bea707d33",

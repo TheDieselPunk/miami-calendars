@@ -618,6 +618,19 @@ STATUS:CONFIRMED
 CATEGORIES:emo
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-danay-suarez-22-jan@zeyzey.miami-calendars
+DTSTAMP:20261123T221757Z
+LAST-MODIFIED:20261123T221757Z
+SEQUENCE:0
+DTSTART:20270122T230000Z
+DTEND:20270123T080000Z
+SUMMARY:Danay Suarez
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://calendar.zeyzeymiami.com/shows/danay-suarez-22-jan
+URL:https://calendar.zeyzeymiami.com/shows/danay-suarez-22-jan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-ordinary-boys-09-jan-ccb5f@zeyzey.miami-calendars
 DTSTAMP:20261106T161826Z
 LAST-MODIFIED:20261106T161826Z

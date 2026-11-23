@@ -140,31 +140,49 @@
    "url": "https://shotgun.live/en/events/humans-alike-sundays-nov-22"
   },
   {
-   "id": "dice:6ac69157ede6160001290447",
-   "source": "19hz+dice",
-   "title": "The Vault presents Circoloco Records Radio",
+   "id": "19hz:4449487-headacheamrvpn",
+   "source": "19hz",
+   "title": "Headache, AMR, vpn",
    "artists": [],
-   "venue": "Club Space Miami",
+   "venue": "The Ground At Club Space",
+   "venue_slug": "club-space",
+   "date": "2026-11-22",
+   "start": "2026-11-23T01:00:00+00:00",
+   "end": "2026-11-23T10:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "18+",
+   "price": "$20",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://link.dice.fm/headacheground"
+  },
+  {
+   "id": "19hz:4449499-circolocorecords",
+   "source": "19hz",
+   "title": "Circoloco Records Radio",
+   "artists": [],
+   "venue": "Club Space",
    "venue_slug": "club-space",
    "date": "2026-11-22",
    "start": "2026-11-23T04:00:00+00:00",
-   "end": "2026-11-24T01:00:00+00:00",
+   "end": "2026-11-23T10:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "18+",
-   "price": "From $80",
+   "address": "",
+   "ages": "21+",
+   "price": "$80+",
    "genres": [
     "tech house"
    ],
    "genres_inferred": false,
-   "organizer": "",
+   "organizer": "The Vault",
    "description": "",
    "url": "https://dice.fm/event/92vlg7-the-vault-presents-circoloco-records-radio-22nd-nov-club-space-miami-miami-tickets?lng=en-US",
-   "cancelled": false,
-   "alt_urls": [
-    "https://link.dice.fm/headacheground",
-    "https://dice.fm/event/92vlg7-the-vault-presents-circoloco-records-radio-22nd-nov-club-space-miami-miami-tickets?lng=en-US"
-   ],
    "also": [
     "festivals"
    ]
@@ -1276,6 +1294,27 @@
     "https://calendar.zeyzeymiami.com/shows/reggaeton-rave-27-nov",
     "https://calendar.zeyzeymiami.com/shows/romping-shop-27-nov"
    ]
+  },
+  {
+   "id": "hardrock:215985",
+   "source": "venue",
+   "title": "Alex Sensation",
+   "artists": [],
+   "venue": "DAER Dayclub Afterdark",
+   "venue_slug": "daer",
+   "date": "2026-11-27",
+   "start": "2026-11-28T03:00:00+00:00",
+   "end": "2026-11-28T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "1 Seminole Way, Hollywood, FL 33314",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://tixr.com/e/215985",
+   "generic_title": false
   },
   {
    "id": "hardrock:206020",
@@ -2607,7 +2646,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$23.00",
+   "price": "",
    "genres": [
     "tech house",
     "rock",
@@ -3438,6 +3477,29 @@
    ]
   },
   {
+   "id": "shotgun:uncharted-realm-art-week-dec-02",
+   "source": "shotgun",
+   "title": "Uncharted Realm (Art Week Edition)",
+   "artists": [],
+   "venue": "EDGE MIAMI",
+   "venue_slug": null,
+   "date": "2026-12-02",
+   "start": "2026-12-02T22:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/uncharted-realm-art-week-dec-02"
+  },
+  {
    "id": "19hz:4450440-kybba",
    "source": "19hz+edmtrain",
    "title": "Kybba",
@@ -4098,7 +4160,7 @@
   {
    "id": "edmtrain:555136",
    "source": "edmtrain",
-   "title": "Soundtuary: Peace Control, Massuma, Cameron Jack, MALAS, Kamcoco",
+   "title": "Peace Control, Massuma, Cameron Jack, MALAS, Kamcoco",
    "artists": [
     "Peace Control",
     "Massuma",
@@ -4121,7 +4183,7 @@
    "description": "",
    "url": "https://shotgun.live/events/soundtuarymusicartbasel?utm_source=edmtrain",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/soundtuary-peace-control-555136"
+    "https://edmtrain.com/miami-fl/peace-control-massuma-555136"
    ]
   },
   {
@@ -6597,7 +6659,7 @@
    "venue": "Lunasol",
    "venue_slug": "festivals",
    "date": "2026-12-05",
-   "start": "2026-12-05T18:00:00+00:00",
+   "start": "2026-12-05T19:00:00+00:00",
    "end": "2026-12-05T23:00:00+00:00",
    "time_estimated": false,
    "address": "",
@@ -8682,6 +8744,30 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/gianni-blu-545152"
    ]
+  },
+  {
+   "id": "shotgun:gadi-mitrani-dec-10",
+   "source": "shotgun",
+   "title": "Gadi Mitrani & More",
+   "artists": [],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-12-10",
+   "start": "2026-12-11T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.70",
+   "genres": [
+    "house",
+    "afro house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/gadi-mitrani-dec-10"
   },
   {
    "id": "19hz:4451224-secretthursdays2",
@@ -13379,6 +13465,31 @@
    ]
   },
   {
+   "id": "edmtrain:555425",
+   "source": "edmtrain",
+   "title": "Adam Beyer",
+   "artists": [
+    "Adam Beyer"
+   ],
+   "venue": "1235 Washington Ave",
+   "venue_slug": null,
+   "date": "2027-01-16",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1235 Washington Ave, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://resistancemiami.com/tickets/january-16-adam-beyer/",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/adam-beyer-555425"
+   ]
+  },
+  {
    "id": "edmtrain:553721",
    "source": "edmtrain",
    "title": "Two Friends",
@@ -13519,6 +13630,27 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/groove-cruise-miami-2027-458944"
    ]
+  },
+  {
+   "id": "zeyzey:danay-suarez-22-jan",
+   "source": "venue",
+   "title": "Danay Suarez",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2027-01-22",
+   "start": "2027-01-22T23:00:00+00:00",
+   "end": "2027-01-23T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/danay-suarez-22-jan",
+   "cancelled": false
   },
   {
    "id": "hardrock:212397",
@@ -13798,6 +13930,31 @@
    "alt_urls": [
     "https://dice.fm/event/6ae0b22eeeeae40001c1bdce",
     "https://edmtrain.com/miami-fl/nicole-moudaber-548305"
+   ]
+  },
+  {
+   "id": "edmtrain:555426",
+   "source": "edmtrain",
+   "title": "Mau P",
+   "artists": [
+    "Mau P"
+   ],
+   "venue": "1235 Washington Ave",
+   "venue_slug": null,
+   "date": "2027-01-23",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1235 Washington Ave, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://resistancemiami.com/tickets/january-23-mau-p/",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/mau-p-555426"
    ]
   },
   {
@@ -14174,6 +14331,31 @@
    "alt_urls": [
     "https://dice.fm/event/53k25d-junkie-kid-30th-jan-kemistry-fort-lauderdale-tickets",
     "https://edmtrain.com/fort-lauderdale-fl/junkie-kid-541640"
+   ]
+  },
+  {
+   "id": "edmtrain:555427",
+   "source": "edmtrain",
+   "title": "Korolova",
+   "artists": [
+    "Korolova"
+   ],
+   "venue": "1235 Washington Ave",
+   "venue_slug": null,
+   "date": "2027-01-30",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1235 Washington Ave, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://resistancemiami.com/tickets/january-30-korolova/",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/korolova-555427"
    ]
   },
   {
@@ -14801,6 +14983,31 @@
    "description": "",
    "url": "https://tixr.com/e/214386",
    "generic_title": true
+  },
+  {
+   "id": "edmtrain:555428",
+   "source": "edmtrain",
+   "title": "Cassian",
+   "artists": [
+    "Cassian"
+   ],
+   "venue": "1235 Washington Ave",
+   "venue_slug": null,
+   "date": "2027-02-20",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1235 Washington Ave, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://resistancemiami.com/tickets/february-20-cassian/",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/cassian-555428"
+   ]
   },
   {
    "id": "hardrock:214378",
