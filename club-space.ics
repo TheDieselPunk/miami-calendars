@@ -8,38 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4449487-headacheamrvpn@club-space.miami-calendars
-DTSTAMP:20261123T221757Z
-LAST-MODIFIED:20261123T221757Z
-SEQUENCE:0
-DTSTART:20261123T010000Z
-DTEND:20261123T100000Z
-SUMMARY:Headache\, AMR\, vpn
-LOCATION:The Ground At Club Space
-DESCRIPTION:Tags (guess): house\, techno\nAges: 18+\nhttps://link.dice.fm/h
- eadacheground
-URL:https://link.dice.fm/headacheground
-STATUS:CONFIRMED
-CATEGORIES:house,techno
-END:VEVENT
-BEGIN:VEVENT
-UID:19hz-4449499-circolocorecords@club-space.miami-calendars
-DTSTAMP:20261123T221757Z
-LAST-MODIFIED:20261123T221757Z
-SEQUENCE:0
-DTSTART:20261123T040000Z
-DTEND:20261123T100000Z
-SUMMARY:Circoloco Records Radio
-LOCATION:Club Space
-DESCRIPTION:Tags: tech house\nPresented by: The Vault\nAges: 21+\nhttps://d
- ice.fm/event/92vlg7-the-vault-presents-circoloco-records-radio-22nd-nov-cl
- ub-space-miami-miami-tickets?lng=en-US
-URL:https://dice.fm/event/92vlg7-the-vault-presents-circoloco-records-radio
- -22nd-nov-club-space-miami-miami-tickets?lng=en-US
-STATUS:CONFIRMED
-CATEGORIES:tech house
-END:VEVENT
-BEGIN:VEVENT
 UID:dice-6ac68eedf6f26b00017c493b@club-space.miami-calendars
 DTSTAMP:20261017T161817Z
 LAST-MODIFIED:20261017T161817Z

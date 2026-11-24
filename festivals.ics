@@ -8,23 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4449499-circolocorecords@festivals.miami-calendars
-DTSTAMP:20261123T221757Z
-LAST-MODIFIED:20261123T221757Z
-SEQUENCE:0
-DTSTART:20261123T040000Z
-DTEND:20261123T100000Z
-SUMMARY:Circoloco Records Radio
-LOCATION:Club Space
-DESCRIPTION:Tags: tech house\nPresented by: The Vault\nAges: 21+\nhttps://d
- ice.fm/event/92vlg7-the-vault-presents-circoloco-records-radio-22nd-nov-cl
- ub-space-miami-miami-tickets?lng=en-US
-URL:https://dice.fm/event/92vlg7-the-vault-presents-circoloco-records-radio
- -22nd-nov-club-space-miami-miami-tickets?lng=en-US
-STATUS:CONFIRMED
-CATEGORIES:tech house
-END:VEVENT
-BEGIN:VEVENT
 UID:edmtrain-543177@festivals.miami-calendars
 DTSTAMP:20261007T041839Z
 LAST-MODIFIED:20261007T041839Z
@@ -432,9 +415,9 @@ CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami120426@shotgun.live
-DTSTAMP:20261124T041801Z
-LAST-MODIFIED:20261124T041801Z
-SEQUENCE:28
+DTSTAMP:20261124T101755Z
+LAST-MODIFIED:20261124T101755Z
+SEQUENCE:30
 DTSTART:20261205T020000Z
 DTEND:20261205T080000Z
 SUMMARY:Art Basel / Toy Tonics: Cody Currie
