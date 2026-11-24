@@ -327,6 +327,23 @@ URL:https://dice.fm/event/6acea6ba0671d7000182aa7e
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:dice-6b04d0492faee500018de7be@jolene.miami-calendars
+DTSTAMP:20261124T041801Z
+LAST-MODIFIED:20261124T041801Z
+SEQUENCE:0
+DTSTART:20270102T030000Z
+DTEND:20270102T090000Z
+SUMMARY:Matias Aguayo
+LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
+ a 33131\, United States
+DESCRIPTION:Lineup: Matias Aguayo\, Thunderpony\nTags (guess): house\, tech
+  house\nhttps://dice.fm/event/6b04d0492faee500018de7be\nhttps://edmtrain.c
+ om/miami-fl/matias-aguayo-thunderpony-555615
+URL:https://dice.fm/event/6b04d0492faee500018de7be
+STATUS:CONFIRMED
+CATEGORIES:house,tech house
+END:VEVENT
+BEGIN:VEVENT
 UID:dice-6af3854e0c25ed00014a7b8a@jolene.miami-calendars
 DTSTAMP:20261121T161803Z
 LAST-MODIFIED:20261121T161803Z

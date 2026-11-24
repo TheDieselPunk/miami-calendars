@@ -705,19 +705,6 @@ URL:https://calendar.zeyzeymiami.com/shows/jam-cruise-pre-party-03-feb
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:zeyzey-equiss-06-feb@zeyzey.miami-calendars
-DTSTAMP:20261123T161756Z
-LAST-MODIFIED:20261123T161756Z
-SEQUENCE:0
-DTSTART:20270207T020000Z
-DTEND:20270207T060000Z
-SUMMARY:EQUISS
-LOCATION:ZeyZey Miami
-DESCRIPTION:https://calendar.zeyzeymiami.com/shows/equiss-06-feb
-URL:https://calendar.zeyzeymiami.com/shows/equiss-06-feb
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:zeyzey-icee-red-06-feb@zeyzey.miami-calendars
 DTSTAMP:20261116T161811Z
 LAST-MODIFIED:20261116T161811Z

@@ -27,9 +27,9 @@ GEO:25.7287781;-80.3169309
 END:VEVENT
 BEGIN:VEVENT
 UID:black-friday-cover-show@shotgun.live
-DTSTAMP:20261119T041851Z
-LAST-MODIFIED:20261119T041851Z
-SEQUENCE:0
+DTSTAMP:20261124T041801Z
+LAST-MODIFIED:20261124T041801Z
+SEQUENCE:1
 DTSTART:20261127T230000Z
 DTEND:20261128T030000Z
 SUMMARY:Black Friday Cover Show
@@ -37,8 +37,8 @@ LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
  \, USA
 DESCRIPTION:Black Friday Cover Show Featuring: Blink 182 Hatebreed Alice In
   Chains Gorilla Biscuits $10 6 pm all ages\nPresented by: Equinox Booking
- \nTickets: General Admission $10\, cheap ahh ticket $7\nhttps://shotgun.li
- ve/en/events/black-friday-cover-show
+ \nTickets: General Admission $10\nhttps://shotgun.live/en/events/black-fri
+ day-cover-show
 URL:https://shotgun.live/en/events/black-friday-cover-show
 STATUS:CONFIRMED
 GEO:25.7287781;-80.3169309

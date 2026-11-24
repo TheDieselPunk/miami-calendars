@@ -203,10 +203,6 @@
   "url": "https://www.tixr.com/pr/edmtrain/213717",
   "checked": "2026-11-06"
  },
- "550896": {
-  "url": "https://speakeasygo.com/event/EVE-WYZZ03?t=edmtrain",
-  "checked": "2026-11-15"
- },
  "551014": {
   "url": "https://www.eventbrite.com/e/2004390159925?aff=ebdimtedmtrain",
   "checked": "2026-11-07"
@@ -457,6 +453,42 @@
  },
  "555428": {
   "url": "https://resistancemiami.com/tickets/february-20-cassian/",
+  "checked": "2026-11-23"
+ },
+ "555501": {
+  "url": "https://www.tixr.com/pr/edmtrain/215980",
+  "checked": "2026-11-23"
+ },
+ "555502": {
+  "url": "https://ra.co/events/2528921",
+  "checked": "2026-11-23"
+ },
+ "555532": {
+  "url": "https://spkeasy.com/event/EVE-W8Z2K0?t=edmtrain",
+  "checked": "2026-11-23"
+ },
+ "555538": {
+  "url": "https://ra.co/events/2591882",
+  "checked": "2026-11-23"
+ },
+ "555556": {
+  "url": "https://ticketmaster.evyy.net/c/254533/264167/4272?u=https%3A%2F%2Fwww.ticketweb.com%2Fevent%2Fid%2F15066323",
+  "checked": "2026-11-23"
+ },
+ "555574": {
+  "url": "https://www.eventbrite.com/e/2005222555643?aff=ebdimtedmtrain",
+  "checked": "2026-11-23"
+ },
+ "555610": {
+  "url": "https://shotgun.live/events/uncharted-realm-art-week-dec-02?utm_source=edmtrain",
+  "checked": "2026-11-23"
+ },
+ "555636": {
+  "url": "https://dice.fm/event/aab5a2?pid=d6342b83",
+  "checked": "2026-11-23"
+ },
+ "555637": {
+  "url": "https://dice.fm/event/yy2w2x?pid=d6342b83",
   "checked": "2026-11-23"
  }
 }
