@@ -649,19 +649,6 @@ URL:https://calendar.zeyzeymiami.com/shows/danay-suarez-22-jan
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:zeyzey-beta-free-entry-22-jan@zeyzey.miami-calendars
-DTSTAMP:20261125T161755Z
-LAST-MODIFIED:20261125T161755Z
-SEQUENCE:0
-DTSTART:20270123T020000Z
-DTEND:20270123T080000Z
-SUMMARY:BETA (Free Entry)
-LOCATION:ZeyZey Miami
-DESCRIPTION:https://calendar.zeyzeymiami.com/shows/beta-free-entry-22-jan
-URL:https://calendar.zeyzeymiami.com/shows/beta-free-entry-22-jan
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:zeyzey-ordinary-boys-09-jan-ccb5f@zeyzey.miami-calendars
 DTSTAMP:20261106T161826Z
 LAST-MODIFIED:20261106T161826Z
@@ -690,6 +677,21 @@ DESCRIPTION:Tags: indie/alternative\nhttps://calendar.zeyzeymiami.com/shows
 URL:https://calendar.zeyzeymiami.com/shows/alkaloides-free-entry-28-jan
 STATUS:CONFIRMED
 CATEGORIES:indie/alternative
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-salsa-z-presents-rebolu-29-jan@zeyzey.miami-calendars
+DTSTAMP:20261125T221754Z
+LAST-MODIFIED:20261125T221754Z
+SEQUENCE:0
+DTSTART:20270130T020000Z
+DTEND:20270130T080000Z
+SUMMARY:Rebolu (Free Entry)
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: latin\nhttps://calendar.zeyzeymiami.com/shows/salsa-z-pre
+ sents-rebolu-29-jan
+URL:https://calendar.zeyzeymiami.com/shows/salsa-z-presents-rebolu-29-jan
+STATUS:CONFIRMED
+CATEGORIES:latin
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-nervous-records-30-jan@zeyzey.miami-calendars

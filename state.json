@@ -370,9 +370,9 @@
   "modified": "2026-10-21T10:18:16+00:00"
  },
  "dice-6abbde6877c894000165e049@the-ground.miami-calendars": {
-  "hash": "533fe8c0ef600ad9",
-  "seq": 1,
-  "modified": "2026-11-21T10:18:04+00:00"
+  "hash": "ee4ffe508aace525",
+  "seq": 2,
+  "modified": "2026-11-25T22:17:54+00:00"
  },
  "dice-6abbe1d7214d4c0001006f40@the-ground.miami-calendars": {
   "hash": "11d8c3aa4e331049",
@@ -400,9 +400,9 @@
   "modified": "2026-11-13T10:18:29+00:00"
  },
  "dice-6ac68eedf6f26b00017c493b@club-space.miami-calendars": {
-  "hash": "ff69b0778cea4647",
-  "seq": 2,
-  "modified": "2026-10-17T16:18:17+00:00"
+  "hash": "b7f3010d8da5581b",
+  "seq": 3,
+  "modified": "2026-11-25T22:17:54+00:00"
  },
  "dice-6ac6b477b79982000164dae2@factory-town.miami-calendars": {
   "hash": "6132c4b9fb6d66ce",
@@ -475,9 +475,9 @@
   "modified": "2026-11-03T04:18:09+00:00"
  },
  "dice-6ae8e7649ac9250001b75f9d@the-ground.miami-calendars": {
-  "hash": "9ade20a9e78ed24d",
-  "seq": 0,
-  "modified": "2026-11-02T22:17:57+00:00"
+  "hash": "96268906b818fe30",
+  "seq": 1,
+  "modified": "2026-11-25T22:17:54+00:00"
  },
  "dice-6aea02f973dd3500015ff82f@floyd.miami-calendars": {
   "hash": "e45c51956098844d",
@@ -558,6 +558,11 @@
   "hash": "28837a54dd5d904d",
   "seq": 2,
   "modified": "2026-11-13T10:18:29+00:00"
+ },
+ "dice-6aea47528723ec0001205ac2@club-space.miami-calendars": {
+  "hash": "4c6ab587bf94cd5c",
+  "seq": 0,
+  "modified": "2026-11-25T22:17:54+00:00"
  },
  "dice-6aea70fe16528500017b9334@jolene.miami-calendars": {
   "hash": "237899fcdc05a527",
@@ -663,6 +668,16 @@
   "hash": "453800a26d1042bf",
   "seq": 0,
   "modified": "2026-11-24T04:18:01+00:00"
+ },
+ "dice-6b05dbbafd16af00015acf39@club-space.miami-calendars": {
+  "hash": "413175034b0c8adb",
+  "seq": 0,
+  "modified": "2026-11-25T22:17:54+00:00"
+ },
+ "dice-6b0723fcc475220001953935@jolene.miami-calendars": {
+  "hash": "423abea756eed061",
+  "seq": 0,
+  "modified": "2026-11-25T22:17:54+00:00"
  },
  "edmtrain-458944@festivals.miami-calendars": {
   "hash": "52f5b7eb786ce532",
@@ -1191,8 +1206,8 @@
  },
  "madradiomiami120426@shotgun.live": {
   "hash": "288256f6a655a344",
-  "seq": 36,
-  "modified": "2026-11-25T16:17:55+00:00"
+  "seq": 38,
+  "modified": "2026-11-25T22:17:54+00:00"
  },
  "noche-mala@shotgun.live": {
   "hash": "d9f812018755da3a",
@@ -1213,6 +1228,11 @@
   "hash": "1a7e14cf6c054aa4",
   "seq": 1,
   "modified": "2026-11-25T04:18:03+00:00"
+ },
+ "scent-lab@shotgun.live": {
+  "hash": "ce5d6c56d3cda57e",
+  "seq": 0,
+  "modified": "2026-11-25T22:17:54+00:00"
  },
  "tablelist-03aeb9a56506c2ac@zeyzey.miami-calendars": {
   "hash": "f3134c08c6e24f9d",
@@ -1298,11 +1318,6 @@
   "hash": "7942101eb42b1d85",
   "seq": 0,
   "modified": "2026-09-21T20:01:40+00:00"
- },
- "zeyzey-beta-free-entry-22-jan@zeyzey.miami-calendars": {
-  "hash": "7f32bc87a880038f",
-  "seq": 0,
-  "modified": "2026-11-25T16:17:55+00:00"
  },
  "zeyzey-carla-s-home-a-listening-experience-by-carla-03-dec@zeyzey.miami-calendars": {
   "hash": "fe8218d3791f3cb0",
@@ -1463,6 +1478,11 @@
   "hash": "9ca9c63aa0863241",
   "seq": 0,
   "modified": "2026-11-22T04:18:02+00:00"
+ },
+ "zeyzey-salsa-z-presents-rebolu-29-jan@zeyzey.miami-calendars": {
+  "hash": "7de7996d7146fe88",
+  "seq": 0,
+  "modified": "2026-11-25T22:17:54+00:00"
  },
  "zeyzey-sam-gellaitry-darius-05-dec@zeyzey.miami-calendars": {
   "hash": "f1544fb389797928",

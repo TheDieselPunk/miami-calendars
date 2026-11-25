@@ -454,6 +454,7 @@
    "genres": [
     "deep house",
     "funky house",
+    "house",
     "jackin house",
     "tech house"
    ],
@@ -464,13 +465,14 @@
    "cancelled": false,
    "alt_urls": [
     "https://dice.fm/event/6ac68eedf6f26b00017c493b",
+    "https://link.dice.fm/payenovground",
     "https://edmtrain.com/miami-fl/franky-rizardo-east-end-dubs-543637"
    ]
   },
   {
    "id": "dice:6abbde6877c894000165e049",
-   "source": "19hz+dice",
-   "title": "PAYÉ",
+   "source": "dice",
+   "title": "PAYÉ: Freenzy + Jesse Calosso",
    "artists": [],
    "venue": "The Ground Miami",
    "venue_slug": "the-ground",
@@ -479,20 +481,17 @@
    "end": "2026-11-26T12:00:00+00:00",
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "21+",
+   "ages": "",
    "price": "From $10",
    "genres": [
     "house",
-    "tech house"
+    "techno"
    ],
-   "genres_inferred": false,
+   "genres_inferred": true,
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6abbde6877c894000165e049",
-   "cancelled": false,
-   "alt_urls": [
-    "https://link.dice.fm/payenovground"
-   ]
+   "cancelled": false
   },
   {
    "id": "edmtrain:555069",
@@ -3257,6 +3256,30 @@
    "url": "https://shotgun.live/en/events/uncharted-realm-art-week-dec-02"
   },
   {
+   "id": "shotgun:the-hall-studios-opening-party",
+   "source": "shotgun",
+   "title": "The Hall Studios : Opening Party",
+   "artists": [],
+   "venue": "Nido l Refuge of Senses",
+   "venue_slug": null,
+   "date": "2026-12-02",
+   "start": "2026-12-02T22:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "house",
+    "melodic house & techno",
+    "deep house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/the-hall-studios-opening-party"
+  },
+  {
    "id": "19hz:4450440-kybba",
    "source": "19hz+edmtrain",
    "title": "Kybba",
@@ -3283,6 +3306,30 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/kybba-552418"
    ]
+  },
+  {
+   "id": "shotgun:scent-lab",
+   "source": "shotgun",
+   "title": "Scent Lab",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": "festivals",
+   "date": "2026-12-02",
+   "start": "2026-12-02T23:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.70",
+   "genres": [
+    "downtempo",
+    "deep house",
+    "ambient"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/scent-lab"
   },
   {
    "id": "19hz:4450444-hugelbaselweek",
@@ -7735,7 +7782,7 @@
   {
    "id": "dice:6ae8e7649ac9250001b75f9d",
    "source": "dice",
-   "title": "NTS Miami (Ground Basel 2026)",
+   "title": "NTS Miami: Boyg1rl, Debit, Mechatok, New York + More (Ground Basel 2026)",
    "artists": [],
    "venue": "The Ground Miami",
    "venue_slug": "the-ground",
@@ -9341,6 +9388,30 @@
    ]
   },
   {
+   "id": "shotgun:ella-romand-dec-12",
+   "source": "shotgun",
+   "title": "Ella Romand & More",
+   "artists": [],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-12-12",
+   "start": "2026-12-13T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.70",
+   "genres": [
+    "melodic house & techno",
+    "progressive house",
+    "indie dance"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/ella-romand-dec-12"
+  },
+  {
    "id": "shotgun:nightmare-before-emo-x-mas",
    "source": "shotgun",
    "title": "Nightmare Before Emo X-Mas!",
@@ -10339,6 +10410,30 @@
    ]
   },
   {
+   "id": "dice:6b0723fcc475220001953935",
+   "source": "dice",
+   "title": "Generous B, Baby Bass, & Ben Roberts",
+   "artists": [],
+   "venue": "Jolene Sound Room Miami",
+   "venue_slug": "jolene",
+   "date": "2026-12-18",
+   "start": "2026-12-19T03:00:00+00:00",
+   "end": "2026-12-19T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "200 East Flagler Street, Miami, Florida 33131, United States",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "house",
+    "tech house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6b0723fcc475220001953935",
+   "cancelled": false
+  },
+  {
    "id": "dice:6a6267e25c999a000109f8ae",
    "source": "19hz+dice+edmtrain",
    "title": "THE RESISTANCE",
@@ -10993,6 +11088,30 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/safar-554166"
    ]
+  },
+  {
+   "id": "dice:6b05dbbafd16af00015acf39",
+   "source": "dice",
+   "title": "Race To Space",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2026-12-20",
+   "start": "2026-12-20T12:00:00+00:00",
+   "end": "2026-12-20T16:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6b05dbbafd16af00015acf39",
+   "cancelled": false
   },
   {
    "id": "hardrock:207855",
@@ -11921,6 +12040,30 @@
    ]
   },
   {
+   "id": "dice:6aea47528723ec0001205ac2",
+   "source": "dice",
+   "title": "Polo & Pan",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2026-12-29",
+   "start": "2026-12-30T04:00:00+00:00",
+   "end": "2026-12-30T17:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $20",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6aea47528723ec0001205ac2",
+   "cancelled": false
+  },
+  {
    "id": "19hz:4453054-tiesto",
    "source": "19hz+edmtrain",
    "title": "Tiesto",
@@ -12086,7 +12229,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "",
+   "price": "$71.95",
    "genres": [
     "hip hop",
     "r&b",
@@ -13970,27 +14113,6 @@
    "cancelled": false
   },
   {
-   "id": "zeyzey:beta-free-entry-22-jan",
-   "source": "venue",
-   "title": "BETA (Free Entry)",
-   "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2027-01-22",
-   "start": "2027-01-23T02:00:00+00:00",
-   "end": "2027-01-23T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/beta-free-entry-22-jan",
-   "cancelled": false
-  },
-  {
    "id": "hardrock:212397",
    "source": "venue",
    "title": "DAER Nightclub",
@@ -14408,6 +14530,29 @@
    "organizer": "",
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/alkaloides-free-entry-28-jan",
+   "cancelled": false
+  },
+  {
+   "id": "zeyzey:salsa-z-presents-rebolu-29-jan",
+   "source": "venue",
+   "title": "Rebolu (Free Entry)",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2027-01-29",
+   "start": "2027-01-30T02:00:00+00:00",
+   "end": "2027-01-30T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "latin"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/salsa-z-presents-rebolu-29-jan",
    "cancelled": false
   },
   {

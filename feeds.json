@@ -3,7 +3,7 @@
   "slug": "club-space",
   "name": "Club Space",
   "file": "club-space.ics",
-  "events": 18,
+  "events": 20,
   "estimated_times": 0,
   "next": "2026-11-25",
   "sources": [
@@ -144,7 +144,7 @@
   "slug": "jolene",
   "name": "Jolene Sound Room",
   "file": "jolene.ics",
-  "events": 20,
+  "events": 21,
   "estimated_times": 0,
   "next": "2026-11-25",
   "sources": [
@@ -171,7 +171,7 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 58,
+  "events": 59,
   "estimated_times": 25,
   "next": "2026-11-25",
   "sources": [
