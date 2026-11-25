@@ -115,23 +115,6 @@ URL:https://calendar.zeyzeymiami.com/shows/justin-nozuka-second-show-02-dec
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-556136@zeyzey.miami-calendars
-DTSTAMP:20261125T041803Z
-LAST-MODIFIED:20261125T041803Z
-SEQUENCE:0
-DTSTART:20261203T000000Z
-DTEND:20261203T060000Z
-SUMMARY:Rio Kosta
-LOCATION:ZeyZey Miami\, 353 NE 61st St\, Miami\, FL 33137\, USA
-DESCRIPTION:Lineup: Rio Kosta\nTimes are an estimate from ZeyZey Miami's us
- ual hours - the listing has no start time yet. Check the link.\nhttps://ap
- p.opendate.io/e/rio-kosta-dj-set-free-entry-december-02-2026-805324?defaul
- t_theme=true\nhttps://edmtrain.com/miami-fl/rio-kosta-556136
-URL:https://app.opendate.io/e/rio-kosta-dj-set-free-entry-december-02-2026-
- 805324?default_theme=true
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:edmtrain-545267@zeyzey.miami-calendars
 DTSTAMP:20261028T101812Z
 LAST-MODIFIED:20261028T101812Z
@@ -174,6 +157,23 @@ LOCATION:ZeyZey Miami
 DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
  sg-lewis-02-dec
 URL:https://calendar.zeyzeymiami.com/shows/sg-lewis-02-dec
+STATUS:CONFIRMED
+CATEGORIES:dance/electronic
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-rio-kosta-dj-set-free-entry-02-dec@zeyzey.miami-calendars
+DTSTAMP:20261125T161755Z
+LAST-MODIFIED:20261125T161755Z
+SEQUENCE:0
+DTSTART:20261203T020000Z
+DTEND:20261203T060000Z
+SUMMARY:Rio Kosta DJ Set (Free Entry)
+LOCATION:ZeyZey Miami
+DESCRIPTION:Lineup: Rio Kosta\nTags: dance/electronic\nhttps://calendar.zey
+ zeymiami.com/shows/rio-kosta-dj-set-free-entry-02-dec\nhttps://edmtrain.co
+ m/miami-fl/rio-kosta-556136
+URL:https://calendar.zeyzeymiami.com/shows/rio-kosta-dj-set-free-entry-02-d
+ ec
 STATUS:CONFIRMED
 CATEGORIES:dance/electronic
 END:VEVENT
@@ -646,6 +646,19 @@ SUMMARY:Danay Suarez
 LOCATION:ZeyZey Miami
 DESCRIPTION:https://calendar.zeyzeymiami.com/shows/danay-suarez-22-jan
 URL:https://calendar.zeyzeymiami.com/shows/danay-suarez-22-jan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-beta-free-entry-22-jan@zeyzey.miami-calendars
+DTSTAMP:20261125T161755Z
+LAST-MODIFIED:20261125T161755Z
+SEQUENCE:0
+DTSTART:20270123T020000Z
+DTEND:20270123T080000Z
+SUMMARY:BETA (Free Entry)
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://calendar.zeyzeymiami.com/shows/beta-free-entry-22-jan
+URL:https://calendar.zeyzeymiami.com/shows/beta-free-entry-22-jan
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

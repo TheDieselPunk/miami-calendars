@@ -814,11 +814,6 @@
   "seq": 0,
   "modified": "2026-11-25T04:18:03+00:00"
  },
- "edmtrain-556136@zeyzey.miami-calendars": {
-  "hash": "a7cc98b4436d4efe",
-  "seq": 0,
-  "modified": "2026-11-25T04:18:03+00:00"
- },
  "experience-incendia-art-basel@shotgun.live": {
   "hash": "d2820b6111d21eaa",
   "seq": 3,
@@ -1196,8 +1191,8 @@
  },
  "madradiomiami120426@shotgun.live": {
   "hash": "288256f6a655a344",
-  "seq": 34,
-  "modified": "2026-11-25T10:17:56+00:00"
+  "seq": 36,
+  "modified": "2026-11-25T16:17:55+00:00"
  },
  "noche-mala@shotgun.live": {
   "hash": "d9f812018755da3a",
@@ -1303,6 +1298,11 @@
   "hash": "7942101eb42b1d85",
   "seq": 0,
   "modified": "2026-09-21T20:01:40+00:00"
+ },
+ "zeyzey-beta-free-entry-22-jan@zeyzey.miami-calendars": {
+  "hash": "7f32bc87a880038f",
+  "seq": 0,
+  "modified": "2026-11-25T16:17:55+00:00"
  },
  "zeyzey-carla-s-home-a-listening-experience-by-carla-03-dec@zeyzey.miami-calendars": {
   "hash": "fe8218d3791f3cb0",
@@ -1448,6 +1448,11 @@
   "hash": "d9f8031decbf378c",
   "seq": 0,
   "modified": "2026-10-20T22:18:22+00:00"
+ },
+ "zeyzey-rio-kosta-dj-set-free-entry-02-dec@zeyzey.miami-calendars": {
+  "hash": "e72c2c89da99e6ff",
+  "seq": 0,
+  "modified": "2026-11-25T16:17:55+00:00"
  },
  "zeyzey-romain-garcia-16-jan@zeyzey.miami-calendars": {
   "hash": "ff70aa363cc7ff9c",

@@ -2,11 +2,9 @@
  "events": [
   {
    "id": "19hz:4449679-rennmateos",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Renn Mateos",
-   "artists": [
-    "Renn Mateos"
-   ],
+   "artists": [],
    "venue": "E11even",
    "venue_slug": null,
    "date": "2026-11-24",
@@ -24,35 +22,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://speakeasygo.com/event/EVE-R975UO",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/renn-mateos-544366"
-   ]
-  },
-  {
-   "id": "edmtrain:555636",
-   "source": "edmtrain",
-   "title": "Andy Martinez",
-   "artists": [
-    "Andy Martinez"
-   ],
-   "venue": "Sable Miami",
-   "venue_slug": null,
-   "date": "2026-11-24",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "2219 NW 2nd Ave, Miami, FL 33127, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/aab5a2?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/andy-martinez-555636"
-   ]
+   "url": "https://speakeasygo.com/event/EVE-R975UO"
   },
   {
    "id": "edmtrain:543177",
@@ -2106,6 +2076,30 @@
    "url": "https://dice.fm/event/6af1005080664100015bf551"
   },
   {
+   "id": "shotgun:saturday-edge-nov-28",
+   "source": "shotgun",
+   "title": "Saturday Night At Edge",
+   "artists": [],
+   "venue": "EDGE MIAMI",
+   "venue_slug": null,
+   "date": "2026-11-28",
+   "start": "2026-11-29T03:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$20.00",
+   "genres": [
+    "progressive house",
+    "afro",
+    "house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/saturday-edge-nov-28"
+  },
+  {
    "id": "dice:6a6bc6a9f6f43900015dbfd4",
    "source": "19hz+dice+edmtrain",
    "title": "Ryan Elliot & Danny Daze",
@@ -3340,31 +3334,6 @@
    "cancelled": false
   },
   {
-   "id": "edmtrain:556136",
-   "source": "edmtrain",
-   "title": "Rio Kosta",
-   "artists": [
-    "Rio Kosta"
-   ],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-12-02",
-   "start": "2026-12-03T00:00:00+00:00",
-   "end": "2026-12-03T06:00:00+00:00",
-   "time_estimated": true,
-   "address": "353 NE 61st St, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://app.opendate.io/e/rio-kosta-dj-set-free-entry-december-02-2026-805324?default_theme=true",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/rio-kosta-556136"
-   ]
-  },
-  {
    "id": "edmtrain:545267",
    "source": "edmtrain",
    "title": "SG Lewis",
@@ -3662,6 +3631,34 @@
    "organizer": "Phase 3",
    "description": "",
    "url": "https://dice.fm/event/kxp88p-tehmplo-dixon-jimi-jules-2nd-dec-sable-miami-miami-tickets"
+  },
+  {
+   "id": "zeyzey:rio-kosta-dj-set-free-entry-02-dec",
+   "source": "edmtrain+venue",
+   "title": "Rio Kosta DJ Set (Free Entry)",
+   "artists": [
+    "Rio Kosta"
+   ],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2026-12-02",
+   "start": "2026-12-03T02:00:00+00:00",
+   "end": "2026-12-03T06:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "dance/electronic"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/rio-kosta-dj-set-free-entry-02-dec",
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/rio-kosta-556136"
+   ]
   },
   {
    "id": "19hz:4450456-deron",
@@ -7111,39 +7108,6 @@
    "url": "https://shotgun.live/en/events/drumspleasefab"
   },
   {
-   "id": "shotgun:art-department-miami-art-week",
-   "source": "19hz+edmtrain+shotgun",
-   "title": "Art Department & More (Miami Art Week)",
-   "artists": [
-    "Art Department",
-    "Fiin",
-    "Falco"
-   ],
-   "venue": "AIRE Miami",
-   "venue_slug": null,
-   "date": "2026-12-05",
-   "start": "2026-12-06T02:00:00+00:00",
-   "end": "2026-12-06T09:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "$22.70",
-   "genres": [
-    "deep house",
-    "house",
-    "progressive house",
-    "tech house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/art-department-miami-art-week",
-   "alt_urls": [
-    "https://shotgun.live/en/events/art-department-miami-art-week",
-    "https://edmtrain.com/miami-fl/art-department-fiin-552391"
-   ]
-  },
-  {
    "id": "19hz:4450740-pangeaartweekfal",
    "source": "19hz",
    "title": "Pangea Art Week: Falcons, Supernova, Joaqu.n",
@@ -7341,6 +7305,39 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/rap-vs-rock-night"
+  },
+  {
+   "id": "shotgun:art-department-miami-art-week",
+   "source": "19hz+edmtrain+shotgun",
+   "title": "Art Department & More (Miami Art Week)",
+   "artists": [
+    "Art Department",
+    "Fiin",
+    "Falco"
+   ],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-12-05",
+   "start": "2026-12-06T03:00:00+00:00",
+   "end": "2026-12-06T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "21+",
+   "price": "$22.70",
+   "genres": [
+    "deep house",
+    "house",
+    "progressive house",
+    "tech house"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/art-department-miami-art-week",
+   "alt_urls": [
+    "https://shotgun.live/en/events/art-department-miami-art-week",
+    "https://edmtrain.com/miami-fl/art-department-fiin-552391"
+   ]
   },
   {
    "id": "hardrock:207834",
@@ -7686,7 +7683,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $25",
+   "price": "From $35",
    "genres": [
     "tech house"
    ],
@@ -11171,6 +11168,30 @@
    "cancelled": false
   },
   {
+   "id": "shotgun:ella-dar-mori-inaya-mish",
+   "source": "shotgun",
+   "title": "Ella Darr, Møri, Inaya, Mish",
+   "artists": [],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-12-24",
+   "start": "2026-12-25T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$22.70",
+   "genres": [
+    "progressive house",
+    "afro house",
+    "indie dance"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/ella-dar-mori-inaya-mish"
+  },
+  {
    "id": "hardrock:214220",
    "source": "venue",
    "title": "Zehavi",
@@ -13946,6 +13967,27 @@
    "organizer": "",
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/danay-suarez-22-jan",
+   "cancelled": false
+  },
+  {
+   "id": "zeyzey:beta-free-entry-22-jan",
+   "source": "venue",
+   "title": "BETA (Free Entry)",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2027-01-22",
+   "start": "2027-01-23T02:00:00+00:00",
+   "end": "2027-01-23T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/beta-free-entry-22-jan",
    "cancelled": false
   },
   {
