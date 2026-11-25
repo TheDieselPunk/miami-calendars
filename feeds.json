@@ -17,7 +17,7 @@
   "slug": "the-ground",
   "name": "The Ground at Space",
   "file": "the-ground.ics",
-  "events": 11,
+  "events": 12,
   "estimated_times": 0,
   "next": "2026-11-25",
   "sources": [
@@ -45,8 +45,8 @@
   "slug": "domicile",
   "name": "Domicile",
   "file": "domicile.ics",
-  "events": 6,
-  "estimated_times": 1,
+  "events": 7,
+  "estimated_times": 2,
   "next": "2026-11-27",
   "sources": [
    "19hz",
@@ -88,7 +88,7 @@
   "file": "boombox.ics",
   "events": 9,
   "estimated_times": 0,
-  "next": "2026-11-24",
+  "next": "2026-11-27",
   "sources": [
    "19hz",
    "edmtrain",
@@ -100,8 +100,8 @@
   "slug": "zeyzey",
   "name": "ZeyZey Miami",
   "file": "zeyzey.ics",
-  "events": 59,
-  "estimated_times": 2,
+  "events": 61,
+  "estimated_times": 3,
   "next": "2026-11-25",
   "sources": [
    "19hz",
@@ -171,8 +171,8 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 55,
-  "estimated_times": 24,
+  "events": 58,
+  "estimated_times": 25,
   "next": "2026-11-25",
   "sources": [
    "19hz",

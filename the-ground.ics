@@ -151,16 +151,32 @@ CATEGORIES:house,techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aea03af8723ec00012e16cc@the-ground.miami-calendars
-DTSTAMP:20261103T161801Z
-LAST-MODIFIED:20261103T161801Z
-SEQUENCE:0
+DTSTAMP:20261125T041803Z
+LAST-MODIFIED:20261125T041803Z
+SEQUENCE:1
 DTSTART:20261228T040000Z
-DTEND:20261228T100000Z
+DTEND:20261228T120000Z
 SUMMARY:Groovers Only
 LOCATION:The Ground Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6aea03af872
- 3ec00012e16cc
+DESCRIPTION:Lineup: Chico Rose\, Jeff Sorkowitz\, Bryan Softwell\, Swifi\nT
+ ags (guess): house\, techno\nhttps://dice.fm/event/6aea03af8723ec00012e16c
+ c\nhttps://edmtrain.com/miami-fl/chico-rose-jeff-sorkowitz-556097
 URL:https://dice.fm/event/6aea03af8723ec00012e16cc
+STATUS:CONFIRMED
+CATEGORIES:house,techno
+END:VEVENT
+BEGIN:VEVENT
+UID:dice-6b00c31fcfcd400001f78263@the-ground.miami-calendars
+DTSTAMP:20261125T041803Z
+LAST-MODIFIED:20261125T041803Z
+SEQUENCE:0
+DTSTART:20270130T040000Z
+DTEND:20270130T120000Z
+SUMMARY:Emo Nite
+LOCATION:The Ground Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
+DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6b00c31fcfc
+ d400001f78263
+URL:https://dice.fm/event/6b00c31fcfcd400001f78263
 STATUS:CONFIRMED
 CATEGORIES:house,techno
 END:VEVENT

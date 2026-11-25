@@ -184,10 +184,10 @@
   "seq": 2,
   "modified": "2026-11-23T22:17:57+00:00"
  },
- "clay-birds-at-the-boombox-11-24@shotgun.live": {
-  "hash": "f94ab6ac139c5ff7",
+ "cafe-grooves@shotgun.live": {
+  "hash": "71b3ab287fe32bd9",
   "seq": 0,
-  "modified": "2026-10-28T22:18:06+00:00"
+  "modified": "2026-11-25T04:18:03+00:00"
  },
  "deja-vu-ryoka@shotgun.live": {
   "hash": "88f4272a489c0dfb",
@@ -515,9 +515,9 @@
   "modified": "2026-11-03T16:18:01+00:00"
  },
  "dice-6aea03af8723ec00012e16cc@the-ground.miami-calendars": {
-  "hash": "01e979b6034cadde",
-  "seq": 0,
-  "modified": "2026-11-03T16:18:01+00:00"
+  "hash": "50bde5b3d6aca003",
+  "seq": 1,
+  "modified": "2026-11-25T04:18:03+00:00"
  },
  "dice-6aea1d431652850001b21949@club-space.miami-calendars": {
   "hash": "827d4b139eb333be",
@@ -653,6 +653,11 @@
   "hash": "37033a6eb906f581",
   "seq": 1,
   "modified": "2026-11-19T10:18:13+00:00"
+ },
+ "dice-6b00c31fcfcd400001f78263@the-ground.miami-calendars": {
+  "hash": "2d2629eadc2356d7",
+  "seq": 0,
+  "modified": "2026-11-25T04:18:03+00:00"
  },
  "dice-6b04d0492faee500018de7be@jolene.miami-calendars": {
   "hash": "453800a26d1042bf",
@@ -799,6 +804,21 @@
   "seq": 0,
   "modified": "2026-11-24T04:18:01+00:00"
  },
+ "edmtrain-555872@festivals.miami-calendars": {
+  "hash": "651a19fdf1b9b3ee",
+  "seq": 0,
+  "modified": "2026-11-25T04:18:03+00:00"
+ },
+ "edmtrain-555949@domicile.miami-calendars": {
+  "hash": "9d7d6924ef2bb47e",
+  "seq": 0,
+  "modified": "2026-11-25T04:18:03+00:00"
+ },
+ "edmtrain-556136@zeyzey.miami-calendars": {
+  "hash": "a7cc98b4436d4efe",
+  "seq": 0,
+  "modified": "2026-11-25T04:18:03+00:00"
+ },
  "experience-incendia-art-basel@shotgun.live": {
   "hash": "d2820b6111d21eaa",
   "seq": 3,
@@ -815,9 +835,9 @@
   "modified": "2026-09-21T21:40:09+00:00"
  },
  "hardrock-205541@daer.miami-calendars": {
-  "hash": "4545bc6dd68c0de5",
-  "seq": 1,
-  "modified": "2026-09-21T20:07:29+00:00"
+  "hash": "cb79b20809dfd5d4",
+  "seq": 2,
+  "modified": "2026-11-25T04:18:03+00:00"
  },
  "hardrock-205543@daer.miami-calendars": {
   "hash": "c9ea266a337e8799",
@@ -1176,8 +1196,13 @@
  },
  "madradiomiami120426@shotgun.live": {
   "hash": "288256f6a655a344",
-  "seq": 30,
-  "modified": "2026-11-24T10:17:55+00:00"
+  "seq": 32,
+  "modified": "2026-11-25T04:18:03+00:00"
+ },
+ "noche-mala@shotgun.live": {
+  "hash": "d9f812018755da3a",
+  "seq": 0,
+  "modified": "2026-11-25T04:18:03+00:00"
  },
  "paloma-morphy-miami@shotgun.live": {
   "hash": "2171347b9765ad53",
@@ -1190,9 +1215,9 @@
   "modified": "2026-10-28T22:18:06+00:00"
  },
  "sarah-tonin@shotgun.live": {
-  "hash": "488fc6a60a56f3aa",
-  "seq": 0,
-  "modified": "2026-11-20T10:18:23+00:00"
+  "hash": "1a7e14cf6c054aa4",
+  "seq": 1,
+  "modified": "2026-11-25T04:18:03+00:00"
  },
  "tablelist-03aeb9a56506c2ac@zeyzey.miami-calendars": {
   "hash": "f3134c08c6e24f9d",
@@ -1229,15 +1254,20 @@
   "seq": 3,
   "modified": "2026-11-11T22:18:27+00:00"
  },
+ "vice-miami-music-week-2027@shotgun.live": {
+  "hash": "4f396eacc0591a1d",
+  "seq": 0,
+  "modified": "2026-11-25T04:18:03+00:00"
+ },
  "vicereality@shotgun.live": {
   "hash": "e8bcee0f5fa18197",
   "seq": 0,
   "modified": "2026-11-21T04:18:09+00:00"
  },
  "witchouse-rave@shotgun.live": {
-  "hash": "d84bebdec18396f6",
-  "seq": 2,
-  "modified": "2026-11-22T16:17:58+00:00"
+  "hash": "4a253dfefe8e2802",
+  "seq": 3,
+  "modified": "2026-11-25T04:18:03+00:00"
  },
  "xmas-x-the-hall-x-shyft-x-circle@shotgun.live": {
   "hash": "e69a41f4b0c0c498",
@@ -1319,10 +1349,15 @@
   "seq": 0,
   "modified": "2026-11-13T16:18:22+00:00"
  },
+ "zeyzey-feder-31-dec@zeyzey.miami-calendars": {
+  "hash": "3dced4349fc4b4e6",
+  "seq": 0,
+  "modified": "2026-11-25T04:18:03+00:00"
+ },
  "zeyzey-friendsgiving-ft-suenalo-the-lab-25-nov@zeyzey.miami-calendars": {
-  "hash": "a1ca24c4877e14f2",
-  "seq": 1,
-  "modified": "2026-11-10T16:18:17+00:00"
+  "hash": "4374a371342999e1",
+  "seq": 2,
+  "modified": "2026-11-25T04:18:03+00:00"
  },
  "zeyzey-i-love-r-b-party-18-dec@zeyzey.miami-calendars": {
   "hash": "3a9aef0ac187e159",

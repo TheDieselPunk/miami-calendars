@@ -91,6 +91,23 @@ STATUS:CONFIRMED
 CATEGORIES:hard techno
 END:VEVENT
 BEGIN:VEVENT
+UID:edmtrain-555949@domicile.miami-calendars
+DTSTAMP:20261125T041803Z
+LAST-MODIFIED:20261125T041803Z
+SEQUENCE:0
+DTSTART:20261207T030000Z
+DTEND:20261207T100000Z
+SUMMARY:Domicile Invites
+LOCATION:Domicile Miami\, 2900 NW 7th Ave\, Miami\, FL 33127\, USA
+DESCRIPTION:Tags (guess): techno\nTimes are an estimate from Domicile's usu
+ al hours - the listing has no start time yet. Check the link.\nhttps://dic
+ e.fm/event/ok27yy?pid=d6342b83\nhttps://edmtrain.com/miami-fl/domicile-inv
+ ites-555949
+URL:https://dice.fm/event/ok27yy?pid=d6342b83
+STATUS:CONFIRMED
+CATEGORIES:techno
+END:VEVENT
+BEGIN:VEVENT
 UID:edmtrain-554510@domicile.miami-calendars
 DTSTAMP:20261119T101813Z
 LAST-MODIFIED:20261119T101813Z

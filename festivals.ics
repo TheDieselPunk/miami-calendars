@@ -415,9 +415,9 @@ CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami120426@shotgun.live
-DTSTAMP:20261124T101755Z
-LAST-MODIFIED:20261124T101755Z
-SEQUENCE:30
+DTSTAMP:20261125T041803Z
+LAST-MODIFIED:20261125T041803Z
+SEQUENCE:32
 DTSTART:20261205T020000Z
 DTEND:20261205T080000Z
 SUMMARY:Art Basel / Toy Tonics: Cody Currie
@@ -467,6 +467,23 @@ DESCRIPTION:Tags: house\nhttps://shotgun.live/en/events/cafe-grooves-art-we
 URL:https://shotgun.live/en/events/cafe-grooves-art-week
 STATUS:CONFIRMED
 CATEGORIES:house
+END:VEVENT
+BEGIN:VEVENT
+UID:edmtrain-555872@festivals.miami-calendars
+DTSTAMP:20261125T041803Z
+LAST-MODIFIED:20261125T041803Z
+SEQUENCE:0
+DTSTART:20261205T200000Z
+DTEND:20261206T070000Z
+SUMMARY:COFFEEANDBEATS ART BASEL: Lizzy Jane\, Thats Rocky\, Waitless
+LOCATION:Libertino Cafe\, 220 NW 24th St\, Miami\, FL 33127\, USA
+DESCRIPTION:Lineup: Lizzy Jane\, Thats Rocky\, Waitless\nTimes are an estim
+ ate from Festivals & one-offs's usual hours - the listing has no start tim
+ e yet. Check the link.\nhttps://posh.vip/e/coffeeandbeats-x-libertino-cafe
+ -art-basel?t=edmtrain\nhttps://edmtrain.com/miami-fl/coffeeandbeats-art-ba
+ sel-lizzy-jane-555872
+URL:https://posh.vip/e/coffeeandbeats-x-libertino-cafe-art-basel?t=edmtrain
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:edmtrain-552131@festivals.miami-calendars
@@ -594,14 +611,18 @@ CATEGORIES:deep house,funky house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:sarah-tonin@shotgun.live
-DTSTAMP:20261120T101823Z
-LAST-MODIFIED:20261120T101823Z
-SEQUENCE:0
+DTSTAMP:20261125T041803Z
+LAST-MODIFIED:20261125T041803Z
+SEQUENCE:1
 DTSTART:20261206T120000Z
 DTEND:20261206T170000Z
 SUMMARY:21hr Art Basel Closing Party: Sarah Tonin & Keep On Dancing
 LOCATION:Miami
-DESCRIPTION:Tags: house\nhttps://shotgun.live/en/events/sarah-tonin
+DESCRIPTION:Lineup: Sarah Tonin\, Ohm Hourani\, Mr. K\, K-Alexi\, Aman Umbe
+ r\, Max Sprauer\, André Baum\, Usherenko\, Ageless\, Mink\, m.O.N.R.O.E.
+ \, Rimaye\, EZ Dee\, Dylan Schwartz\nTags: house\nhttps://shotgun.live/en/
+ events/sarah-tonin\nhttps://edmtrain.com/miami-fl/21hr-art-basel-closing-p
+ arty-sarah-tonin-and-keep-on-dancing-sarah-tonin-555979
 URL:https://shotgun.live/en/events/sarah-tonin
 STATUS:CONFIRMED
 CATEGORIES:house
@@ -829,6 +850,19 @@ URL:https://www.groovecruise.com/
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:cafe-grooves@shotgun.live
+DTSTAMP:20261125T041803Z
+LAST-MODIFIED:20261125T041803Z
+SEQUENCE:0
+DTSTART:20270206T180000Z
+DTEND:20270206T230000Z
+SUMMARY:Café Grooves
+LOCATION:Miami Beach Bandshell
+DESCRIPTION:https://shotgun.live/en/events/cafe-grooves
+URL:https://shotgun.live/en/events/cafe-grooves
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:edmtrain-496902@festivals.miami-calendars
 DTSTAMP:20260922T005009Z
 LAST-MODIFIED:20260922T005009Z
@@ -878,6 +912,22 @@ DESCRIPTION:Times are an estimate from Festivals & one-offs's usual hours -
  4
 URL:https://www.webelonghere.world/miami/
 STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:vice-miami-music-week-2027@shotgun.live
+DTSTAMP:20261125T041803Z
+LAST-MODIFIED:20261125T041803Z
+SEQUENCE:0
+DTSTART:20270325T160000Z
+DTEND:20270325T210000Z
+SUMMARY:Vice Miami Music Week 2027
+LOCATION:The Elser Hotel Miami
+DESCRIPTION:Tags: afro house\, house\, nu-disco\nhttps://shotgun.live/en/ev
+ ents/vice-miami-music-week-2027\nhttps://edmtrain.com/miami-fl/vice-miami-
+ music-week-556096
+URL:https://shotgun.live/en/events/vice-miami-music-week-2027
+STATUS:CONFIRMED
+CATEGORIES:afro house,house,nu-disco
 END:VEVENT
 BEGIN:VEVENT
 UID:edmtrain-492064@festivals.miami-calendars
