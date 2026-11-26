@@ -383,22 +383,6 @@ URL:https://calendar.zeyzeymiami.com/shows/i-love-r-b-party-18-dec
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:zeyzey-dayme-arocena-la-ultima-rumba-19-dec@zeyzey.miami-calendars
-DTSTAMP:20260923T161804Z
-LAST-MODIFIED:20260923T161804Z
-SEQUENCE:0
-DTSTART:20261220T000000Z
-DTEND:20261220T060000Z
-SUMMARY:Daymé Arocena - La Última Rumba
-LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: latin\nhttps://calendar.zeyzeymiami.com/shows/dayme-aroce
- na-la-ultima-rumba-19-dec
-URL:https://calendar.zeyzeymiami.com/shows/dayme-arocena-la-ultima-rumba-19
- -dec
-STATUS:CONFIRMED
-CATEGORIES:latin
-END:VEVENT
-BEGIN:VEVENT
 UID:zeyzey-salsa-z-19-dec@zeyzey.miami-calendars
 DTSTAMP:20261122T041802Z
 LAST-MODIFIED:20261122T041802Z
@@ -410,6 +394,22 @@ LOCATION:ZeyZey Miami
 DESCRIPTION:Tags: latin\nhttps://calendar.zeyzeymiami.com/shows/salsa-z-19-
  dec
 URL:https://calendar.zeyzeymiami.com/shows/salsa-z-19-dec
+STATUS:CONFIRMED
+CATEGORIES:latin
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-dayme-arocena-la-ultima-rumba-19-dec@zeyzey.miami-calendars
+DTSTAMP:20261126T221805Z
+LAST-MODIFIED:20261126T221805Z
+SEQUENCE:1
+DTSTART:20261220T020000Z
+DTEND:20261220T060000Z
+SUMMARY:Daymé Arocena - La Última Rumba
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: latin\nhttps://calendar.zeyzeymiami.com/shows/dayme-aroce
+ na-la-ultima-rumba-19-dec
+URL:https://calendar.zeyzeymiami.com/shows/dayme-arocena-la-ultima-rumba-19
+ -dec
 STATUS:CONFIRMED
 CATEGORIES:latin
 END:VEVENT
