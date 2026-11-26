@@ -1,30 +1,6 @@
 {
  "events": [
   {
-   "id": "19hz:4449679-rennmateos",
-   "source": "19hz",
-   "title": "Renn Mateos",
-   "artists": [],
-   "venue": "E11even",
-   "venue_slug": null,
-   "date": "2026-11-24",
-   "start": "2026-11-25T01:00:00+00:00",
-   "end": "2026-11-25T06:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "21+",
-   "price": "free w/rsvp / $12-23",
-   "genres": [
-    "afro house",
-    "edm",
-    "tech house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://speakeasygo.com/event/EVE-R975UO"
-  },
-  {
    "id": "edmtrain:543177",
    "source": "edmtrain",
    "title": "KARAN!, LAMEBOT, JEAN SEAN, Craze",
@@ -177,109 +153,27 @@
    "url": "https://www.eventbrite.com/e/submission-events-presents-spanksgiving-eve-tickets-2003748357276"
   },
   {
-   "id": "shotgun:friendsgiving1",
-   "source": "edmtrain+shotgun",
-   "title": "A Supernatural Friendsgiving",
-   "artists": [
-    "Athena Dion",
-    "ALAN T"
-   ],
-   "venue": "Miami",
-   "venue_slug": null,
-   "date": "2026-11-25",
-   "start": "2026-11-26T01:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/friendsgiving1",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/a-supernatural-friendsgiving-athena-dion-555064"
-   ]
-  },
-  {
-   "id": "zeyzey:friendsgiving-ft-suenalo-the-lab-25-nov",
-   "source": "venue",
-   "title": "Friendsgiving ft. Suenalo + The Lab (Free Entry)",
+   "id": "19hz:4449780-jointhelocalsign",
+   "source": "19hz+edmtrain",
+   "title": "Join The Local Signal ))): Wax'n Dance",
    "artists": [],
-   "venue": "ZeyZey Miami",
-   "venue_slug": "zeyzey",
-   "date": "2026-11-25",
-   "start": "2026-11-26T01:00:00+00:00",
-   "end": "2026-11-26T06:00:00+00:00",
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [
-    "dance/electronic"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://calendar.zeyzeymiami.com/shows/friendsgiving-ft-suenalo-the-lab-25-nov",
-   "cancelled": false
-  },
-  {
-   "id": "shotgun:aftercito-thanksgiving-eve",
-   "source": "shotgun",
-   "title": "Aftercito Thanksgiving Eve",
-   "artists": [],
-   "venue": "Fooq's",
-   "venue_slug": null,
-   "date": "2026-11-25",
-   "start": "2026-11-26T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$12.00",
-   "genres": [
-    "miami bass",
-    "house",
-    "uk garage"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/aftercito-thanksgiving-eve"
-  },
-  {
-   "id": "shotgun:madradiomiami112526",
-   "source": "19hz+edmtrain+shotgun",
-   "title": "Join The Local Signal ))): Residents + Special Guest",
-   "artists": [],
-   "venue": "Mad Radio Miami",
+   "venue": "Mad Radio",
    "venue_slug": "mad-radio",
    "date": "2026-11-25",
    "start": "2026-11-26T02:00:00+00:00",
    "end": "2026-11-26T08:00:00+00:00",
    "time_estimated": false,
-   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "address": "",
    "ages": "25+",
-   "price": "Free",
+   "price": "free",
    "genres": [
     "house"
    ],
    "genres_inferred": false,
-   "organizer": "Mad Radio Miami",
-   "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY 25+ YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
+   "organizer": "",
+   "description": "",
    "url": "https://shotgun.live/en/events/madradiomiami112526",
-   "tickets": "RSVP Free",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.8462027,
-    "longitude": -80.1851332
-   },
-   "created": "2026-11-05T19:27:28.000Z",
    "alt_urls": [
-    "https://shotgun.live/en/events/madradiomiami112526",
     "https://edmtrain.com/miami-fl/join-the-local-signal-555135"
    ]
   },
@@ -332,29 +226,6 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/juan-yarin-551889"
    ]
-  },
-  {
-   "id": "shotgun:sixto-rein-thanksgiving-eve-social-high-club",
-   "source": "shotgun",
-   "title": "Sixto Rein By Social High Club (Thanksgiving Eve)",
-   "artists": [],
-   "venue": "EDGE MIAMI",
-   "venue_slug": null,
-   "date": "2026-11-25",
-   "start": "2026-11-26T03:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$20.00",
-   "genres": [
-    "reggaeton",
-    "latin"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/sixto-rein-thanksgiving-eve-social-high-club"
   },
   {
    "id": "dice:6a8b4d68fec4480001a68ffe",
@@ -424,7 +295,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $48 (sold out)",
+   "price": "From $30",
    "genres": [
     "deep house",
     "funky house",
@@ -444,28 +315,30 @@
    ]
   },
   {
-   "id": "dice:6abbde6877c894000165e049",
-   "source": "dice",
-   "title": "PAYÉ: Freenzy + Jesse Calosso",
-   "artists": [],
-   "venue": "The Ground Miami",
-   "venue_slug": "the-ground",
-   "date": "2026-11-25",
-   "start": "2026-11-26T04:00:00+00:00",
-   "end": "2026-11-26T12:00:00+00:00",
-   "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
-   "ages": "",
-   "price": "From $15",
-   "genres": [
-    "house",
-    "techno"
+   "id": "edmtrain:555064",
+   "source": "edmtrain",
+   "title": "A Supernatural Friendsgiving: Athena Dion, ALAN T",
+   "artists": [
+    "Athena Dion",
+    "ALAN T"
    ],
-   "genres_inferred": true,
+   "venue": "777 NE 79th St",
+   "venue_slug": null,
+   "date": "2026-11-25",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "777 NE 79th St, Miami, FL 33138, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6abbde6877c894000165e049",
-   "cancelled": false
+   "url": "https://shotgun.live/events/friendsgiving1?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/a-supernatural-friendsgiving-athena-dion-555064"
+   ]
   },
   {
    "id": "edmtrain:555069",
@@ -7177,7 +7050,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "Free",
+   "price": "",
    "genres": [
     "indie rock",
     "indie",

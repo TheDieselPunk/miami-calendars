@@ -8,26 +8,19 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:madradiomiami112526@shotgun.live
-DTSTAMP:20261121T041809Z
-LAST-MODIFIED:20261121T041809Z
-SEQUENCE:2
+UID:19hz-4449780-jointhelocalsign@mad-radio.miami-calendars
+DTSTAMP:20261126T101804Z
+LAST-MODIFIED:20261126T101804Z
+SEQUENCE:0
 DTSTART:20261126T020000Z
 DTEND:20261126T080000Z
-SUMMARY:Join The Local Signal ))): Residents + Special Guest
-LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
-DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
- ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
-  our slick radio show serving up the latest tracks. Save the date and cath
-  the urban-chic experience at Mad Radio Miami. See you on the dance floor!
-  Come early\, stay late\, and let the night unfold FREE ENTRY 25+ YEARS OL
- D HAPPY HOUR 5 PM - 9 PM"\nTags: house\nTickets: RSVP Free\nAges: 25+\nhtt
- ps://shotgun.live/en/events/madradiomiami112526\nhttps://edmtrain.com/miam
- i-fl/join-the-local-signal-555135
+SUMMARY:Join The Local Signal ))): Wax'n Dance
+LOCATION:Mad Radio
+DESCRIPTION:Tags: house\nAges: 25+\nhttps://shotgun.live/en/events/madradio
+ miami112526\nhttps://edmtrain.com/miami-fl/join-the-local-signal-555135
 URL:https://shotgun.live/en/events/madradiomiami112526
 STATUS:CONFIRMED
 CATEGORIES:house
-GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami112626@shotgun.live
