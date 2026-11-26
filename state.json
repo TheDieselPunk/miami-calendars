@@ -1,8 +1,8 @@
 {
  "19hz-4449768-ianasher@festivals.miami-calendars": {
-  "hash": "60d098890c7fd526",
-  "seq": 0,
-  "modified": "2026-11-20T10:18:23+00:00"
+  "hash": "576f5c2bcff300d6",
+  "seq": 1,
+  "modified": "2026-11-26T16:18:04+00:00"
  },
  "19hz-4449769-tudobemkarandjcr@festivals.miami-calendars": {
   "hash": "8701856c52cd27a5",
@@ -15,9 +15,9 @@
   "modified": "2026-09-26T22:18:17+00:00"
  },
  "19hz-4449780-jointhelocalsign@mad-radio.miami-calendars": {
-  "hash": "8a62fa2d7268f667",
-  "seq": 0,
-  "modified": "2026-11-26T10:18:04+00:00"
+  "hash": "54e108fafe8e927d",
+  "seq": 1,
+  "modified": "2026-11-26T16:18:04+00:00"
  },
  "19hz-4449940-urgemiamifestiva@festivals.miami-calendars": {
   "hash": "ee2b50dcf5abe61f",
@@ -235,9 +235,9 @@
   "modified": "2026-09-29T22:18:15+00:00"
  },
  "dice-6a8b4d68fec4480001a68ffe@jolene.miami-calendars": {
-  "hash": "727f469417ec6457",
-  "seq": 2,
-  "modified": "2026-09-26T22:18:17+00:00"
+  "hash": "acb586cf9a490f46",
+  "seq": 3,
+  "modified": "2026-11-26T16:18:04+00:00"
  },
  "dice-6a8f2332f7d5af0001278253@club-space.miami-calendars": {
   "hash": "bee96f816fae96e8",
@@ -400,9 +400,9 @@
   "modified": "2026-11-13T10:18:29+00:00"
  },
  "dice-6ac68eedf6f26b00017c493b@club-space.miami-calendars": {
-  "hash": "b7f3010d8da5581b",
-  "seq": 3,
-  "modified": "2026-11-25T22:17:54+00:00"
+  "hash": "f58e6369f0bed7ac",
+  "seq": 4,
+  "modified": "2026-11-26T16:18:04+00:00"
  },
  "dice-6ac6b477b79982000164dae2@factory-town.miami-calendars": {
   "hash": "6132c4b9fb6d66ce",
@@ -758,11 +758,6 @@
   "hash": "8ad05b242058e5e7",
   "seq": 2,
   "modified": "2026-09-22T00:50:09+00:00"
- },
- "edmtrain-543177@festivals.miami-calendars": {
-  "hash": "98d2fdd792658fe6",
-  "seq": 0,
-  "modified": "2026-10-07T04:18:39+00:00"
  },
  "edmtrain-545267@zeyzey.miami-calendars": {
   "hash": "08441d9a827722cc",
@@ -1349,6 +1344,16 @@
   "seq": 0,
   "modified": "2026-09-21T20:01:40+00:00"
  },
+ "zeyzey-beta-free-entry-22-jan@zeyzey.miami-calendars": {
+  "hash": "7f32bc87a880038f",
+  "seq": 0,
+  "modified": "2026-11-26T16:18:04+00:00"
+ },
+ "zeyzey-black-chiney-sound-free-entry-24-dec@zeyzey.miami-calendars": {
+  "hash": "886436c72c27c0d1",
+  "seq": 0,
+  "modified": "2026-11-26T16:18:04+00:00"
+ },
  "zeyzey-carla-s-home-a-listening-experience-by-carla-03-dec@zeyzey.miami-calendars": {
   "hash": "fe8218d3791f3cb0",
   "seq": 0,
@@ -1438,6 +1443,11 @@
   "hash": "dc5c60f671b92eac",
   "seq": 0,
   "modified": "2026-09-21T20:01:40+00:00"
+ },
+ "zeyzey-lemon-city-trio-electric-kif-anemoia-more-free-entry-15-jan@zeyzey.miami-calendars": {
+  "hash": "2a53e24e3cb02341",
+  "seq": 0,
+  "modified": "2026-11-26T16:18:04+00:00"
  },
  "zeyzey-los-amigos-invisibles-11-dec@zeyzey.miami-calendars": {
   "hash": "3970ed7b73110793",

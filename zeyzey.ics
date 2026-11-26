@@ -460,6 +460,22 @@ STATUS:CONFIRMED
 CATEGORIES:reggae
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-black-chiney-sound-free-entry-24-dec@zeyzey.miami-calendars
+DTSTAMP:20261126T161804Z
+LAST-MODIFIED:20261126T161804Z
+SEQUENCE:0
+DTSTART:20261224T010000Z
+DTEND:20261224T060000Z
+SUMMARY:Black Chiney Sound (Free Entry)
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
+ black-chiney-sound-free-entry-24-dec
+URL:https://calendar.zeyzeymiami.com/shows/black-chiney-sound-free-entry-24
+ -dec
+STATUS:CONFIRMED
+CATEGORIES:dance/electronic
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-danny-kravit-free-entry-26-dec@zeyzey.miami-calendars
 DTSTAMP:20261113T101829Z
 LAST-MODIFIED:20261113T101829Z
@@ -574,6 +590,22 @@ STATUS:CONFIRMED
 CATEGORIES:baile funk,club music,footwork,house,techno,uk garage
 END:VEVENT
 BEGIN:VEVENT
+UID:zeyzey-lemon-city-trio-electric-kif-anemoia-more-free-entry-15-jan@zeyz
+ ey.miami-calendars
+DTSTAMP:20261126T161804Z
+LAST-MODIFIED:20261126T161804Z
+SEQUENCE:0
+DTSTART:20270116T010000Z
+DTEND:20270116T080000Z
+SUMMARY:Lemon City Trio\, Electric Kif\, Anemoia & more! (Free Entry)
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://calendar.zeyzeymiami.com/shows/lemon-city-trio-electric
+ -kif-anemoia-more-free-entry-15-jan
+URL:https://calendar.zeyzeymiami.com/shows/lemon-city-trio-electric-kif-ane
+ moia-more-free-entry-15-jan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:zeyzey-doctor-calavera-16-jan@zeyzey.miami-calendars
 DTSTAMP:20261106T161826Z
 LAST-MODIFIED:20261106T161826Z
@@ -630,6 +662,19 @@ SUMMARY:Danay Suarez
 LOCATION:ZeyZey Miami
 DESCRIPTION:https://calendar.zeyzeymiami.com/shows/danay-suarez-22-jan
 URL:https://calendar.zeyzeymiami.com/shows/danay-suarez-22-jan
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-beta-free-entry-22-jan@zeyzey.miami-calendars
+DTSTAMP:20261126T161804Z
+LAST-MODIFIED:20261126T161804Z
+SEQUENCE:0
+DTSTART:20270123T020000Z
+DTEND:20270123T080000Z
+SUMMARY:BETA (Free Entry)
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://calendar.zeyzeymiami.com/shows/beta-free-entry-22-jan
+URL:https://calendar.zeyzeymiami.com/shows/beta-free-entry-22-jan
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT

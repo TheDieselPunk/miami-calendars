@@ -8,36 +8,16 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:edmtrain-543177@festivals.miami-calendars
-DTSTAMP:20261007T041839Z
-LAST-MODIFIED:20261007T041839Z
-SEQUENCE:0
-DTSTART:20261125T200000Z
-DTEND:20261126T070000Z
-SUMMARY:KARAN!\, LAMEBOT\, JEAN SEAN\, Craze
-LOCATION:North Beach Bandshell\, 7275 Collins Ave\, Miami Beach\, FL 33141
- \, USA
-DESCRIPTION:Lineup: KARAN!\, LAMEBOT\, JEAN SEAN\, Craze\nTimes are an esti
- mate from Festivals & one-offs's usual hours - the listing has no start ti
- me yet. Check the link.\nhttps://prod-nts-api.seeticketsusa.us/v1.0.0/prom
- ote/YWZmOlNUVVMtNzA0ODE1Ojc=/clickthru\nhttps://edmtrain.com/miami-fl/kara
- n-lamebot-543177
-URL:https://prod-nts-api.seeticketsusa.us/v1.0.0/promote/YWZmOlNUVVMtNzA0OD
- E1Ojc=/clickthru
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:19hz-4449768-ianasher@festivals.miami-calendars
-DTSTAMP:20261120T101823Z
-LAST-MODIFIED:20261120T101823Z
-SEQUENCE:0
+DTSTAMP:20261126T161804Z
+LAST-MODIFIED:20261126T161804Z
+SEQUENCE:1
 DTSTART:20261125T230000Z
 DTEND:20261126T070000Z
 SUMMARY:Ian Asher
 LOCATION:The Shorely At Marina Village\, Fort Lauderdale
-DESCRIPTION:Lineup: Ian Asher\nTags: edm\, house\nAges: 21+\nhttps://www.ev
- entbrite.com/e/ian-asher-the-shorely-tickets-2004681927610\nhttps://edmtra
- in.com/fort-lauderdale-fl/ian-asher-552511
+DESCRIPTION:Tags: edm\, house\nAges: 21+\nhttps://www.eventbrite.com/e/ian-
+ asher-the-shorely-tickets-2004681927610
 URL:https://www.eventbrite.com/e/ian-asher-the-shorely-tickets-200468192761
  0
 STATUS:CONFIRMED

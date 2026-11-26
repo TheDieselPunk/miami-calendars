@@ -9,15 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4449780-jointhelocalsign@mad-radio.miami-calendars
-DTSTAMP:20261126T101804Z
-LAST-MODIFIED:20261126T101804Z
-SEQUENCE:0
+DTSTAMP:20261126T161804Z
+LAST-MODIFIED:20261126T161804Z
+SEQUENCE:1
 DTSTART:20261126T020000Z
 DTEND:20261126T080000Z
 SUMMARY:Join The Local Signal ))): Wax'n Dance
 LOCATION:Mad Radio
 DESCRIPTION:Tags: house\nAges: 25+\nhttps://shotgun.live/en/events/madradio
- miami112526\nhttps://edmtrain.com/miami-fl/join-the-local-signal-555135
+ miami112526
 URL:https://shotgun.live/en/events/madradiomiami112526
 STATUS:CONFIRMED
 CATEGORIES:house

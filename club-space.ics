@@ -9,17 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:dice-6ac68eedf6f26b00017c493b@club-space.miami-calendars
-DTSTAMP:20261125T221754Z
-LAST-MODIFIED:20261125T221754Z
-SEQUENCE:3
+DTSTAMP:20261126T161804Z
+LAST-MODIFIED:20261126T161804Z
+SEQUENCE:4
 DTSTART:20261126T040000Z
 DTEND:20261126T190000Z
 SUMMARY:Franky Rizardo + East End Dubs
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Franky Rizardo\, East End Dubs\nTags: deep house\, funk
- y house\, house\, jackin house\, tech house\nAges: 21+\nhttps://dice.fm/ev
- ent/6ac68eedf6f26b00017c493b\nhttps://edmtrain.com/miami-fl/franky-rizardo
- -east-end-dubs-543637\nhttps://link.dice.fm/payenovground
+DESCRIPTION:Tags: deep house\, funky house\, house\, jackin house\, tech ho
+ use\nAges: 21+\nhttps://dice.fm/event/6ac68eedf6f26b00017c493b\nhttps://li
+ nk.dice.fm/payenovground
 URL:https://dice.fm/event/6ac68eedf6f26b00017c493b
 STATUS:CONFIRMED
 CATEGORIES:deep house,funky house,house,jackin house,tech house
