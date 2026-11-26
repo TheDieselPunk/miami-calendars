@@ -98,13 +98,55 @@ CATEGORIES:house
 GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
+UID:madradiomiami120226@shotgun.live
+DTSTAMP:20261126T041810Z
+LAST-MODIFIED:20261126T041810Z
+SEQUENCE:0
+DTSTART:20261203T020000Z
+DTEND:20261203T080000Z
+SUMMARY:Mad Basel / Un_Mute: Raphael Carrau / Francula / Pavlo
+LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
+DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
+ ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
+  our slick radio show serving up the latest tracks. Save the date and cath
+  the urban-chic experience at Mad Radio Miami. See you on the dance floor!
+  Come early\, stay late\, and let the night unfold FREE ENTRY 25+ YEARS OL
+ D HAPPY HOUR 5 PM - 9 PM"\nTags (guess): deep house\, house\nTickets: RSVP
+  Free\nhttps://shotgun.live/en/events/madradiomiami120226
+URL:https://shotgun.live/en/events/madradiomiami120226
+STATUS:CONFIRMED
+CATEGORIES:deep house,house
+GEO:25.8462027;-80.1851332
+END:VEVENT
+BEGIN:VEVENT
+UID:madradiomiami120326@shotgun.live
+DTSTAMP:20261126T041810Z
+LAST-MODIFIED:20261126T041810Z
+SEQUENCE:0
+DTSTART:20261204T020000Z
+DTEND:20261204T080000Z
+SUMMARY:Mad Basel: Radio Slave / Darelectric + Clandestina
+LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
+DESCRIPTION:"FEMME FREQUENCY™ is MAD® cultural platform placing women at
+  the center of the music scene\, featuring local\, international\, and eme
+ rging DJs\, the stories behind the music\, culture\, talent\, and communit
+ y. A safe space to discover\, play\, and belong. See you on the dance floo
+ r! Come early\, stay late\, and let the night unfold FREE ENTRY +25 YEARS 
+ OLD HAPPY HOUR 5 PM - 9 PM"\nTags (guess): deep house\, house\nTickets: RS
+ VP Free\nhttps://shotgun.live/en/events/madradiomiami120326
+URL:https://shotgun.live/en/events/madradiomiami120326
+STATUS:CONFIRMED
+CATEGORIES:deep house,house
+GEO:25.8462027;-80.1851332
+END:VEVENT
+BEGIN:VEVENT
 UID:madradiomiami120426@shotgun.live
-DTSTAMP:20261125T221754Z
-LAST-MODIFIED:20261125T221754Z
-SEQUENCE:37
+DTSTAMP:20261126T041810Z
+LAST-MODIFIED:20261126T041810Z
+SEQUENCE:39
 DTSTART:20261205T020000Z
 DTEND:20261205T080000Z
-SUMMARY:Art Basel / Toy Tonics: Cody Currie
+SUMMARY:Mad Basel / Toy Tonics: Cody Currie & Jovigibs + Clandestina
 LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
 DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
  ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
@@ -118,6 +160,117 @@ DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
 URL:https://shotgun.live/en/events/madradiomiami120426
 STATUS:CONFIRMED
 CATEGORIES:house
+GEO:25.8462027;-80.1851332
+END:VEVENT
+BEGIN:VEVENT
+UID:madradiomiami120526@shotgun.live
+DTSTAMP:20261126T041810Z
+LAST-MODIFIED:20261126T041810Z
+SEQUENCE:0
+DTSTART:20261206T020000Z
+DTEND:20261206T080000Z
+SUMMARY:Mad Basel: Floyd Levine / Ay Papi + Clandestina
+LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
+DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
+ ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
+  our slick radio show serving up the latest tracks. Save the date and cath
+  the urban-chic experience at Mad Radio Miami. See you on the dance floor!
+  Come early\, stay late\, and let the night unfold FREE ENTRY BEFORE 10 PM
+  / FREE ENTRY LADIES UNTIL MIDNIGHT + 25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
+ \nTags (guess): deep house\, house\nTickets: AFTER 10 PM / EARLY BIRD $20
+ \, FREE LADIES RSVP BEFORE 12 AM Free\nhttps://shotgun.live/en/events/madr
+ adiomiami120526
+URL:https://shotgun.live/en/events/madradiomiami120526
+STATUS:CONFIRMED
+CATEGORIES:deep house,house
+GEO:25.8462027;-80.1851332
+END:VEVENT
+BEGIN:VEVENT
+UID:madradiomiami120926@shotgun.live
+DTSTAMP:20261126T041810Z
+LAST-MODIFIED:20261126T041810Z
+SEQUENCE:0
+DTSTART:20261210T020000Z
+DTEND:20261210T080000Z
+SUMMARY:Join The Local Signal ))): Francula & Friends
+LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
+DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
+ ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
+  our slick radio show serving up the latest tracks. Save the date and cath
+  the urban-chic experience at Mad Radio Miami. See you on the dance floor!
+  Come early\, stay late\, and let the night unfold FREE ENTRY 25+ YEARS OL
+ D HAPPY HOUR 5 PM - 9 PM"\nTags (guess): deep house\, house\nTickets: RSVP
+  Free\nhttps://shotgun.live/en/events/madradiomiami120926
+URL:https://shotgun.live/en/events/madradiomiami120926
+STATUS:CONFIRMED
+CATEGORIES:deep house,house
+GEO:25.8462027;-80.1851332
+END:VEVENT
+BEGIN:VEVENT
+UID:madradiomiami121026@shotgun.live
+DTSTAMP:20261126T041810Z
+LAST-MODIFIED:20261126T041810Z
+SEQUENCE:0
+DTSTART:20261211T020000Z
+DTEND:20261211T080000Z
+SUMMARY:Femme Frequency: Shelley De Vos / Gali
+LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
+DESCRIPTION:"FEMME FREQUENCY™ is MAD® cultural platform placing women at
+  the center of the music scene\, featuring local\, international\, and eme
+ rging DJs\, the stories behind the music\, culture\, talent\, and communit
+ y. A safe space to discover\, play\, and belong. See you on the dance floo
+ r! Come early\, stay late\, and let the night unfold FREE ENTRY +25 YEARS 
+ OLD HAPPY HOUR 5 PM - 9 PM"\nTags (guess): deep house\, house\nTickets: RS
+ VP Free\nhttps://shotgun.live/en/events/madradiomiami121026
+URL:https://shotgun.live/en/events/madradiomiami121026
+STATUS:CONFIRMED
+CATEGORIES:deep house,house
+GEO:25.8462027;-80.1851332
+END:VEVENT
+BEGIN:VEVENT
+UID:madradiomiami121126@shotgun.live
+DTSTAMP:20261126T041810Z
+LAST-MODIFIED:20261126T041810Z
+SEQUENCE:0
+DTSTART:20261212T020000Z
+DTEND:20261212T080000Z
+SUMMARY:Camaraderie: Puma / Harry Hm / Amaré
+LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
+DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
+ ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
+  our slick radio show serving up the latest tracks. Save the date and cath
+  the urban-chic experience at Mad Radio Miami. See you on the dance floor!
+  Come early\, stay late\, and let the night unfold FREE ENTRY BEFORE 10 PM
+  / FREE ENTRY LADIES UNTIL MIDNIGHT +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
+ \nTags (guess): deep house\, house\nTickets: AFTER 10 PM $20\, FREE LADIES
+  RSVP BEFORE 12 AM Free\nhttps://shotgun.live/en/events/madradiomiami12112
+ 6
+URL:https://shotgun.live/en/events/madradiomiami121126
+STATUS:CONFIRMED
+CATEGORIES:deep house,house
+GEO:25.8462027;-80.1851332
+END:VEVENT
+BEGIN:VEVENT
+UID:madradiomiami121226@shotgun.live
+DTSTAMP:20261126T041810Z
+LAST-MODIFIED:20261126T041810Z
+SEQUENCE:0
+DTSTART:20261213T020000Z
+DTEND:20261213T080000Z
+SUMMARY:Hector Romero / The Love Tempo
+LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
+DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
+ ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
+  our slick radio show serving up the latest tracks. Save the date and cath
+  the urban-chic experience at Mad Radio Miami. See you on the dance floor!
+  Come early\, stay late\, and let the night unfold FREE ENTRY BEFORE 10 PM
+  / FREE ENTRY LADIES UNTIL MIDNIGHT + 25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
+ \nTags (guess): deep house\, house\nTickets: AFTER 10 PM / EARLY BIRD $20
+ \, FREE LADIES RSVP BEFORE 12 AM Free\nhttps://shotgun.live/en/events/madr
+ adiomiami121226
+URL:https://shotgun.live/en/events/madradiomiami121226
+STATUS:CONFIRMED
+CATEGORIES:deep house,house
 GEO:25.8462027;-80.1851332
 END:VEVENT
 END:VCALENDAR

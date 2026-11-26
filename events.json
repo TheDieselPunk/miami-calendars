@@ -226,32 +226,6 @@
    "cancelled": false
   },
   {
-   "id": "shotgun:thanksgiving-eve-aire",
-   "source": "edmtrain+shotgun",
-   "title": "Thanksgiving Eve At Aire",
-   "artists": [],
-   "venue": "AIRE Miami",
-   "venue_slug": null,
-   "date": "2026-11-25",
-   "start": "2026-11-26T02:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "$22.70",
-   "genres": [
-    "house",
-    "tech house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/thanksgiving-eve-aire",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/thanksgiving-eve-555508"
-   ]
-  },
-  {
    "id": "shotgun:aftercito-thanksgiving-eve",
    "source": "shotgun",
    "title": "Aftercito Thanksgiving Eve",
@@ -397,7 +371,7 @@
    "time_estimated": false,
    "address": "200 East Flagler Street, Miami, Florida 33131, United States",
    "ages": "21+",
-   "price": "From $10",
+   "price": "From $12",
    "genres": [
     "electro",
     "techno"
@@ -450,7 +424,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $30",
+   "price": "From $48 (sold out)",
    "genres": [
     "deep house",
     "funky house",
@@ -482,7 +456,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "",
-   "price": "From $10",
+   "price": "From $15",
    "genres": [
     "house",
     "techno"
@@ -514,6 +488,29 @@
    "url": "https://shotgun.live/events/she-knows-best-nov-25?utm_source=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/she-knows-best-555069"
+   ]
+  },
+  {
+   "id": "edmtrain:555508",
+   "source": "edmtrain",
+   "title": "THANKSGIVING EVE",
+   "artists": [],
+   "venue": "AIRE Miami",
+   "venue_slug": null,
+   "date": "2026-11-25",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "111 NE 20th St, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/events/thanksgiving-eve-aire?utm_source=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/thanksgiving-eve-555508"
    ]
   },
   {
@@ -3256,30 +3253,6 @@
    "url": "https://shotgun.live/en/events/uncharted-realm-art-week-dec-02"
   },
   {
-   "id": "shotgun:the-hall-studios-opening-party",
-   "source": "shotgun",
-   "title": "The Hall Studios : Opening Party",
-   "artists": [],
-   "venue": "Nido l Refuge of Senses",
-   "venue_slug": null,
-   "date": "2026-12-02",
-   "start": "2026-12-02T22:00:00+00:00",
-   "end": null,
-   "time_estimated": false,
-   "address": "",
-   "ages": "",
-   "price": "Free",
-   "genres": [
-    "house",
-    "melodic house & techno",
-    "deep house"
-   ],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/en/events/the-hall-studios-opening-party"
-  },
-  {
    "id": "19hz:4450440-kybba",
    "source": "19hz+edmtrain",
    "title": "Kybba",
@@ -3654,6 +3627,37 @@
     "https://shotgun.live/en/events/art-basel-shotgun-takeover-fooq-s-miami",
     "https://edmtrain.com/miami-fl/shotgun-takeover-sainte-vie-550550"
    ]
+  },
+  {
+   "id": "shotgun:madradiomiami120226",
+   "source": "shotgun",
+   "title": "Mad Basel / Un_Mute: Raphael Carrau / Francula / Pavlo",
+   "artists": [],
+   "venue": "Mad Radio Miami",
+   "venue_slug": "mad-radio",
+   "date": "2026-12-02",
+   "start": "2026-12-03T02:00:00+00:00",
+   "end": "2026-12-03T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "deep house",
+    "house"
+   ],
+   "genres_inferred": true,
+   "organizer": "Mad Radio Miami",
+   "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY 25+ YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
+   "url": "https://shotgun.live/en/events/madradiomiami120226",
+   "tickets": "RSVP Free",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.8462027,
+    "longitude": -80.1851332
+   },
+   "created": "2026-11-26T03:38:36.000Z"
   },
   {
    "id": "19hz:4450452-tehmplodixonjimi",
@@ -4486,6 +4490,37 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/floyd-lavine-meloko-552169"
    ]
+  },
+  {
+   "id": "shotgun:madradiomiami120326",
+   "source": "shotgun",
+   "title": "Mad Basel: Radio Slave / Darelectric + Clandestina",
+   "artists": [],
+   "venue": "Mad Radio Miami",
+   "venue_slug": "mad-radio",
+   "date": "2026-12-03",
+   "start": "2026-12-04T02:00:00+00:00",
+   "end": "2026-12-04T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "deep house",
+    "house"
+   ],
+   "genres_inferred": true,
+   "organizer": "Mad Radio Miami",
+   "description": "\"FEMME FREQUENCY™ is MAD® cultural platform placing women at the center of the music scene, featuring local, international, and emerging DJs, the stories behind the music, culture, talent, and community. A safe space to discover, play, and belong. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
+   "url": "https://shotgun.live/en/events/madradiomiami120326",
+   "tickets": "RSVP Free",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.8462027,
+    "longitude": -80.1851332
+   },
+   "created": "2026-11-26T03:40:17.000Z"
   },
   {
    "id": "shotgun:sangomia1205",
@@ -5679,7 +5714,7 @@
   {
    "id": "shotgun:madradiomiami120426",
    "source": "19hz+edmtrain+shotgun",
-   "title": "Art Basel / Toy Tonics: Cody Currie",
+   "title": "Mad Basel / Toy Tonics: Cody Currie & Jovigibs + Clandestina",
    "artists": [
     "Cody Currie"
    ],
@@ -5710,9 +5745,6 @@
    "alt_urls": [
     "https://shotgun.live/en/events/madradiomiami120426",
     "https://edmtrain.com/miami-fl/cody-currie-554828"
-   ],
-   "also": [
-    "festivals"
    ]
   },
   {
@@ -5894,7 +5926,8 @@
    "source": "19hz+edmtrain",
    "title": "Patrice Baumel",
    "artists": [
-    "Patrice Bäumel"
+    "Patrice Bäumel",
+    "Lucas Zárate"
    ],
    "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
@@ -5915,7 +5948,7 @@
    "description": "",
    "url": "https://dice.fm/event/6aa80170c9750400019b720c",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/patrice-baumel-536849"
+    "https://edmtrain.com/miami-fl/patrice-baumel-lucas-zarate-536849"
    ]
   },
   {
@@ -6910,7 +6943,8 @@
    "source": "19hz+edmtrain",
    "title": "Adam Port - Open Air",
    "artists": [
-    "Adam Port"
+    "Adam Port",
+    "GOLFOS (PAWSA & Dennis Cruz)"
    ],
    "venue": "73 West Flagler Street",
    "venue_slug": "festivals",
@@ -6929,7 +6963,7 @@
    "description": "",
    "url": "https://dice.fm/event/2wnav6-club-space-presents-adam-port-open-air-5th-dec-73-west-flagler-street-miami-tickets",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/adam-port-548680"
+    "https://edmtrain.com/miami-fl/adam-port-golfos-pawsa-and-dennis-cruz-548680"
    ]
   },
   {
@@ -7235,6 +7269,61 @@
     "https://shotgun.live/en/events/patriarchy-deflowered-florida-tour-ft-mvtant-angel-husk",
     "https://edmtrain.com/miami-fl/mvtant-546571"
    ]
+  },
+  {
+   "id": "shotgun:madradiomiami120526",
+   "source": "shotgun",
+   "title": "Mad Basel: Floyd Levine / Ay Papi + Clandestina",
+   "artists": [],
+   "venue": "Mad Radio Miami",
+   "venue_slug": "mad-radio",
+   "date": "2026-12-05",
+   "start": "2026-12-06T02:00:00+00:00",
+   "end": "2026-12-06T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "ages": "",
+   "price": "$21.80",
+   "genres": [
+    "deep house",
+    "house"
+   ],
+   "genres_inferred": true,
+   "organizer": "Mad Radio Miami",
+   "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY BEFORE 10 PM / FREE ENTRY LADIES UNTIL MIDNIGHT + 25 YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
+   "url": "https://shotgun.live/en/events/madradiomiami120526",
+   "tickets": "AFTER 10 PM / EARLY BIRD $20, FREE LADIES RSVP BEFORE 12 AM Free",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.8462027,
+    "longitude": -80.1851332
+   },
+   "created": "2026-11-26T03:44:25.000Z"
+  },
+  {
+   "id": "shotgun:ghost-sound-showcase-miami-art-week",
+   "source": "shotgun",
+   "title": "Ghost Sound Showcase: Miami Art Week",
+   "artists": [],
+   "venue": "Miami, United States 🇺🇸",
+   "venue_slug": null,
+   "date": "2026-12-05",
+   "start": "2026-12-06T02:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "latin",
+    "indie",
+    "experimental"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/ghost-sound-showcase-miami-art-week"
   },
   {
    "id": "shotgun:raw-cuts-records-h-foundation",
@@ -8748,6 +8837,37 @@
    ]
   },
   {
+   "id": "shotgun:madradiomiami120926",
+   "source": "shotgun",
+   "title": "Join The Local Signal ))): Francula & Friends",
+   "artists": [],
+   "venue": "Mad Radio Miami",
+   "venue_slug": "mad-radio",
+   "date": "2026-12-09",
+   "start": "2026-12-10T02:00:00+00:00",
+   "end": "2026-12-10T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "deep house",
+    "house"
+   ],
+   "genres_inferred": true,
+   "organizer": "Mad Radio Miami",
+   "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY 25+ YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
+   "url": "https://shotgun.live/en/events/madradiomiami120926",
+   "tickets": "RSVP Free",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.8462027,
+    "longitude": -80.1851332
+   },
+   "created": "2026-11-26T03:48:24.000Z"
+  },
+  {
    "id": "edmtrain:554513",
    "source": "edmtrain",
    "title": "Crespo",
@@ -8828,6 +8948,37 @@
    "alt_urls": [
     "https://edmtrain.com/miami-fl/gadi-mitrani-555510"
    ]
+  },
+  {
+   "id": "shotgun:madradiomiami121026",
+   "source": "shotgun",
+   "title": "Femme Frequency: Shelley De Vos / Gali",
+   "artists": [],
+   "venue": "Mad Radio Miami",
+   "venue_slug": "mad-radio",
+   "date": "2026-12-10",
+   "start": "2026-12-11T02:00:00+00:00",
+   "end": "2026-12-11T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "ages": "",
+   "price": "Free",
+   "genres": [
+    "deep house",
+    "house"
+   ],
+   "genres_inferred": true,
+   "organizer": "Mad Radio Miami",
+   "description": "\"FEMME FREQUENCY™ is MAD® cultural platform placing women at the center of the music scene, featuring local, international, and emerging DJs, the stories behind the music, culture, talent, and community. A safe space to discover, play, and belong. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
+   "url": "https://shotgun.live/en/events/madradiomiami121026",
+   "tickets": "RSVP Free",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.8462027,
+    "longitude": -80.1851332
+   },
+   "created": "2026-11-26T03:50:45.000Z"
   },
   {
    "id": "19hz:4451224-secretthursdays2",
@@ -8946,6 +9097,37 @@
    "organizer": "",
    "description": "",
    "url": "https://www.utix.com/event/collision-001-monty-submorphics-m3a7"
+  },
+  {
+   "id": "shotgun:madradiomiami121126",
+   "source": "shotgun",
+   "title": "Camaraderie: Puma / Harry Hm / Amaré",
+   "artists": [],
+   "venue": "Mad Radio Miami",
+   "venue_slug": "mad-radio",
+   "date": "2026-12-11",
+   "start": "2026-12-12T02:00:00+00:00",
+   "end": "2026-12-12T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "ages": "",
+   "price": "$21.80",
+   "genres": [
+    "deep house",
+    "house"
+   ],
+   "genres_inferred": true,
+   "organizer": "Mad Radio Miami",
+   "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY BEFORE 10 PM / FREE ENTRY LADIES UNTIL MIDNIGHT +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
+   "url": "https://shotgun.live/en/events/madradiomiami121126",
+   "tickets": "AFTER 10 PM $20, FREE LADIES RSVP BEFORE 12 AM Free",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.8462027,
+    "longitude": -80.1851332
+   },
+   "created": "2026-11-26T03:52:58.000Z"
   },
   {
    "id": "hardrock:207835",
@@ -9474,6 +9656,37 @@
    "organizer": "",
    "description": "",
    "url": "https://shotgun.live/en/events/templarsatlasrosas"
+  },
+  {
+   "id": "shotgun:madradiomiami121226",
+   "source": "shotgun",
+   "title": "Hector Romero / The Love Tempo",
+   "artists": [],
+   "venue": "Mad Radio Miami",
+   "venue_slug": "mad-radio",
+   "date": "2026-12-12",
+   "start": "2026-12-13T02:00:00+00:00",
+   "end": "2026-12-13T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "7700 Biscayne Boulevard, Miami, FL 33138, USA",
+   "ages": "",
+   "price": "$21.80",
+   "genres": [
+    "deep house",
+    "house"
+   ],
+   "genres_inferred": true,
+   "organizer": "Mad Radio Miami",
+   "description": "\"The river venue sets the stage for a stylish yet chill night out. Whether you´re a party pro or just vibing, this is the spot. Tune in our slick radio show serving up the latest tracks. Save the date and cath the urban-chic experience at Mad Radio Miami. See you on the dance floor! Come early, stay late, and let the night unfold FREE ENTRY BEFORE 10 PM / FREE ENTRY LADIES UNTIL MIDNIGHT + 25 YEARS OLD HAPPY HOUR 5 PM - 9 PM\"",
+   "url": "https://shotgun.live/en/events/madradiomiami121226",
+   "tickets": "AFTER 10 PM / EARLY BIRD $20, FREE LADIES RSVP BEFORE 12 AM Free",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.8462027,
+    "longitude": -80.1851332
+   },
+   "created": "2026-11-26T03:55:11.000Z"
   },
   {
    "id": "19hz:4451412-eddbrokensoundre",
@@ -10054,7 +10267,7 @@
   {
    "id": "dice:6aea031485f24b0001343ecc",
    "source": "dice",
-   "title": "TBA",
+   "title": "Thunderpony's Saloon presents All Night Royal Rumble",
    "artists": [],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
@@ -12041,9 +12254,11 @@
   },
   {
    "id": "dice:6aea47528723ec0001205ac2",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "Polo & Pan",
-   "artists": [],
+   "artists": [
+    "Polo & Pan"
+   ],
    "venue": "Club Space Miami",
    "venue_slug": "club-space",
    "date": "2026-12-29",
@@ -12061,7 +12276,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6aea47528723ec0001205ac2",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/polo-and-pan-556281"
+   ]
   },
   {
    "id": "19hz:4453054-tiesto",
@@ -13029,6 +13247,33 @@
    ]
   },
   {
+   "id": "edmtrain:556284",
+   "source": "edmtrain",
+   "title": "Nico Morano",
+   "artists": [
+    "Nico Morano"
+   ],
+   "venue": "Do Not Sit On The Furniture",
+   "venue_slug": null,
+   "date": "2027-01-01",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "423 16th St, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "deep house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/w83mev?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/nico-morano-556284"
+   ]
+  },
+  {
    "id": "edmtrain:554824",
    "source": "edmtrain",
    "title": "Steve Aoki",
@@ -13555,11 +13800,9 @@
   },
   {
    "id": "19hz:4454104-talfussman",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Tal Fussman",
-   "artists": [
-    "Tal Fussman"
-   ],
+   "artists": [],
    "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
    "date": "2027-01-09",
@@ -13577,10 +13820,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/5woyk8-tal-fussman-9th-jan-do-not-sit-on-the-furniture-miami-beach-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/tal-fussman-552434"
-   ]
+   "url": "https://dice.fm/event/5woyk8-tal-fussman-9th-jan-do-not-sit-on-the-furniture-miami-beach-tickets"
   },
   {
    "id": "zeyzey:omni-soundspace-presents-black-rave-culture-shekdash-sky-jetta-09-jan",
@@ -13616,6 +13856,33 @@
    "alt_urls": [
     "https://calendar.zeyzeymiami.com/shows/omni-soundspace-presents-black-rave-culture-shekdash-sky-jetta-09-jan#tickets",
     "https://edmtrain.com/miami-fl/black-rave-culture-shekdash-549482"
+   ]
+  },
+  {
+   "id": "edmtrain:552434",
+   "source": "edmtrain",
+   "title": "Santiago Garcia",
+   "artists": [
+    "Santiago Garcia"
+   ],
+   "venue": "Do Not Sit On The Furniture",
+   "venue_slug": null,
+   "date": "2027-01-09",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "423 16th St, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [
+    "deep house"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/5woyk8?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/santiago-garcia-552434"
    ]
   },
   {
@@ -13727,7 +13994,7 @@
    "time_estimated": false,
    "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "18+",
-   "price": "From $26",
+   "price": "From $33",
    "genres": [
     "bass music",
     "dubstep"

@@ -239,6 +239,10 @@
   "url": "https://shotgun.live/events/the-hall-club-monkey-safari?utm_source=edmtrain",
   "checked": "2026-11-12"
  },
+ "552434": {
+  "url": "https://dice.fm/event/5woyk8?pid=d6342b83",
+  "checked": "2026-11-25"
+ },
  "552829": {
   "url": "https://spkeasy.com/event/EVE-5MVWJ5?t=edmtrain",
   "checked": "2026-11-22"
@@ -463,6 +467,10 @@
   "url": "https://ra.co/events/2528921",
   "checked": "2026-11-23"
  },
+ "555508": {
+  "url": "https://shotgun.live/events/thanksgiving-eve-aire?utm_source=edmtrain",
+  "checked": "2026-11-25"
+ },
  "555532": {
   "url": "https://spkeasy.com/event/EVE-W8Z2K0?t=edmtrain",
   "checked": "2026-11-23"
@@ -514,5 +522,9 @@
  "556116": {
   "url": "https://www.etix.com/ticket/p/44766858",
   "checked": "2026-11-24"
+ },
+ "556284": {
+  "url": "https://dice.fm/event/w83mev?pid=d6342b83",
+  "checked": "2026-11-25"
  }
 }

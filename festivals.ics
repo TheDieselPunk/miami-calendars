@@ -429,30 +429,6 @@ STATUS:CONFIRMED
 CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
-UID:madradiomiami120426@shotgun.live
-DTSTAMP:20261125T221754Z
-LAST-MODIFIED:20261125T221754Z
-SEQUENCE:38
-DTSTART:20261205T020000Z
-DTEND:20261205T080000Z
-SUMMARY:Art Basel / Toy Tonics: Cody Currie
-LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
-DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
- ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
-  our slick radio show serving up the latest tracks. Save the date and cath
-  the urban-chic experience at Mad Radio Miami. See you on the dance floor!
-  Come early\, stay late\, and let the night unfold FREE ENTRY BEFORE 10 PM
-  / FREE ENTRY LADIES UNTIL MIDNIGHT +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
- \nLineup: Cody Currie\nTags: house\nPresented by: Mad Radio Miami\nTickets
- : AFTER 10 PM $20\, FREE LADIES RSVP BEFORE 12 AM Free\nAges: 25+\nhttps:/
- /shotgun.live/en/events/madradiomiami120426\nhttps://edmtrain.com/miami-fl
- /cody-currie-554828
-URL:https://shotgun.live/en/events/madradiomiami120426
-STATUS:CONFIRMED
-CATEGORIES:house
-GEO:25.8462027;-80.1851332
-END:VEVENT
-BEGIN:VEVENT
 UID:lunasol-pres-tortuga@shotgun.live
 DTSTAMP:20261118T041824Z
 LAST-MODIFIED:20261118T041824Z
@@ -571,16 +547,17 @@ CATEGORIES:progressive house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:19hz-4450723-adamportopenair@festivals.miami-calendars
-DTSTAMP:20261110T041823Z
-LAST-MODIFIED:20261110T041823Z
-SEQUENCE:0
+DTSTAMP:20261126T041810Z
+LAST-MODIFIED:20261126T041810Z
+SEQUENCE:1
 DTSTART:20261205T220000Z
 DTEND:20261206T050000Z
 SUMMARY:Adam Port - Open Air
 LOCATION:73 West Flagler Street
-DESCRIPTION:Lineup: Adam Port\nTags: tech house\nAges: 18+\nhttps://dice.fm
- /event/2wnav6-club-space-presents-adam-port-open-air-5th-dec-73-west-flagl
- er-street-miami-tickets\nhttps://edmtrain.com/miami-fl/adam-port-548680
+DESCRIPTION:Lineup: Adam Port\, GOLFOS (PAWSA & Dennis Cruz)\nTags: tech ho
+ use\nAges: 18+\nhttps://dice.fm/event/2wnav6-club-space-presents-adam-port
+ -open-air-5th-dec-73-west-flagler-street-miami-tickets\nhttps://edmtrain.c
+ om/miami-fl/adam-port-golfos-pawsa-and-dennis-cruz-548680
 URL:https://dice.fm/event/2wnav6-club-space-presents-adam-port-open-air-5th
  -dec-73-west-flagler-street-miami-tickets
 STATUS:CONFIRMED

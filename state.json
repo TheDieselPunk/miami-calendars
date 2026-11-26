@@ -85,9 +85,9 @@
   "modified": "2026-10-25T04:18:11+00:00"
  },
  "19hz-4450723-adamportopenair@festivals.miami-calendars": {
-  "hash": "32f70ea6aba1ba4b",
-  "seq": 0,
-  "modified": "2026-11-10T04:18:23+00:00"
+  "hash": "909c6d77804d9aa9",
+  "seq": 1,
+  "modified": "2026-11-26T04:18:10+00:00"
  },
  "19hz-4450723-michaelbibi@festivals.miami-calendars": {
   "hash": "cc313781c449fc4d",
@@ -485,9 +485,9 @@
   "modified": "2026-11-03T16:18:01+00:00"
  },
  "dice-6aea031485f24b0001343ecc@floyd.miami-calendars": {
-  "hash": "3380a1fa6d55fd01",
-  "seq": 0,
-  "modified": "2026-11-03T16:18:01+00:00"
+  "hash": "778c2362925467f1",
+  "seq": 1,
+  "modified": "2026-11-26T04:18:10+00:00"
  },
  "dice-6aea032f2c05400001df7dfc@floyd.miami-calendars": {
   "hash": "d561e687156278ab",
@@ -560,9 +560,9 @@
   "modified": "2026-11-13T10:18:29+00:00"
  },
  "dice-6aea47528723ec0001205ac2@club-space.miami-calendars": {
-  "hash": "4c6ab587bf94cd5c",
-  "seq": 0,
-  "modified": "2026-11-25T22:17:54+00:00"
+  "hash": "64b022101c564a6d",
+  "seq": 1,
+  "modified": "2026-11-26T04:18:10+00:00"
  },
  "dice-6aea70fe16528500017b9334@jolene.miami-calendars": {
   "hash": "237899fcdc05a527",
@@ -1204,10 +1204,45 @@
   "seq": 2,
   "modified": "2026-11-20T10:18:23+00:00"
  },
+ "madradiomiami120226@shotgun.live": {
+  "hash": "60b5212ea31375d9",
+  "seq": 0,
+  "modified": "2026-11-26T04:18:10+00:00"
+ },
+ "madradiomiami120326@shotgun.live": {
+  "hash": "a3b36a6a7b7e1f00",
+  "seq": 0,
+  "modified": "2026-11-26T04:18:10+00:00"
+ },
  "madradiomiami120426@shotgun.live": {
-  "hash": "288256f6a655a344",
-  "seq": 38,
-  "modified": "2026-11-25T22:17:54+00:00"
+  "hash": "a7d4e2a51d73f278",
+  "seq": 39,
+  "modified": "2026-11-26T04:18:10+00:00"
+ },
+ "madradiomiami120526@shotgun.live": {
+  "hash": "c1605e1a224b86cf",
+  "seq": 0,
+  "modified": "2026-11-26T04:18:10+00:00"
+ },
+ "madradiomiami120926@shotgun.live": {
+  "hash": "8f77b647444e0275",
+  "seq": 0,
+  "modified": "2026-11-26T04:18:10+00:00"
+ },
+ "madradiomiami121026@shotgun.live": {
+  "hash": "8f8eddf64f658206",
+  "seq": 0,
+  "modified": "2026-11-26T04:18:10+00:00"
+ },
+ "madradiomiami121126@shotgun.live": {
+  "hash": "833262ef4796be0a",
+  "seq": 0,
+  "modified": "2026-11-26T04:18:10+00:00"
+ },
+ "madradiomiami121226@shotgun.live": {
+  "hash": "a6beb916e7a45679",
+  "seq": 0,
+  "modified": "2026-11-26T04:18:10+00:00"
  },
  "noche-mala@shotgun.live": {
   "hash": "d9f812018755da3a",
