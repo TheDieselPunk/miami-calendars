@@ -484,7 +484,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$15.00",
+   "price": "$20.00",
    "genres": [
     "alternative dance",
     "disco house",
@@ -730,7 +730,7 @@
    "time_estimated": false,
    "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
    "ages": "",
-   "price": "$11.35",
+   "price": "$20.00",
    "genres": [
     "electronica",
     "drum & bass",
@@ -740,7 +740,7 @@
    "organizer": "Talk Less Just Dance",
    "description": "CLIPS CLIPS X JWELSET X EQUINOX BOOKING x TALK LESS JUST DANCE ▲///▲///▲ WITCHOUSE RAVE 11/27/26 • 18+ • 10:00PM - 3:00AM ▲ SIDEWALKS AND SKELETONS B2B ESSEX ▲ JWELSET ▲ KITTY ▲ SOUND GUY * more djs to be announced EDM / DARKWAVE / WITCH HOUSE / + MORE DJS SPINNING MUSIC BY S4LEM , CRYSTAL CASTLES,WHITE RING, oOoOO, SUMMER OF HAZE, PASTEL GHOST, + MORE NO REFUNDS! PHYSICAL ID ONLY",
    "url": "https://shotgun.live/en/events/witchouse-rave",
-   "tickets": "Second tier 18+ $14.1 (sold out), 21+ $10, THIRD WAVE $17.62, DOORS $26.43",
+   "tickets": "Second tier 18+ $14.1 (sold out), 21+ $10 (sold out), THIRD WAVE $17.62, DOORS $26.43",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -1636,7 +1636,7 @@
   {
    "id": "dice:6a6bc6a9f6f43900015dbfd4",
    "source": "19hz+dice+edmtrain",
-   "title": "Ryan Elliot & Danny Daze",
+   "title": "Ryan Elliott & Danny Daze",
    "artists": [
     "Danny Daze",
     "Ryan Elliott"
@@ -3912,7 +3912,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$42.80",
+   "price": "$53.50",
    "genres": [
     "deep house"
    ],
@@ -6286,7 +6286,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "",
-   "price": "$39.73",
+   "price": "$45.40",
    "genres": [
     "house"
    ],
@@ -8274,7 +8274,7 @@
    "time_estimated": false,
    "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
-   "price": "From $20",
+   "price": "From $30",
    "genres": [
     "electro",
     "eurodance",
@@ -9045,7 +9045,7 @@
   {
    "id": "hardrock:207851",
    "source": "venue",
-   "title": "DAER Dayclub",
+   "title": "Rick Ross & Rubi Rose",
    "artists": [],
    "venue": "DAER Dayclub",
    "venue_slug": "daer",
@@ -9061,7 +9061,7 @@
    "organizer": "",
    "description": "",
    "url": "https://tixr.com/e/207851",
-   "generic_title": true
+   "generic_title": false
   },
   {
    "id": "19hz:4451392-frankwalker",
@@ -13437,6 +13437,30 @@
    ]
   },
   {
+   "id": "dice:6b09dd7cffd0de0001cd6619",
+   "source": "dice",
+   "title": "Jeff Mills + Marcel Dettmann + Danny Daze",
+   "artists": [],
+   "venue": "Club Space Miami",
+   "venue_slug": "club-space",
+   "date": "2027-01-08",
+   "start": "2027-01-09T04:00:00+00:00",
+   "end": "2027-01-09T17:00:00+00:00",
+   "time_estimated": false,
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "ages": "",
+   "price": "From $30",
+   "genres": [
+    "house",
+    "techno"
+   ],
+   "genres_inferred": true,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/6b09dd7cffd0de0001cd6619",
+   "cancelled": false
+  },
+  {
    "id": "hardrock:212385",
    "source": "venue",
    "title": "DAER Dayclub",
@@ -15918,6 +15942,29 @@
    "alt_urls": [
     "https://edmtrain.com/fort-lauderdale-fl/vnv-nation-an-evening-with-vnv-nation-517365"
    ]
+  },
+  {
+   "id": "shotgun:scattered-remnants-fl-debut",
+   "source": "shotgun",
+   "title": "Scattered Remnants Exclusive Fl Debut",
+   "artists": [],
+   "venue": "Miami",
+   "venue_slug": null,
+   "date": "2027-03-13",
+   "start": "2027-03-13T23:00:00+00:00",
+   "end": null,
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "$23.10",
+   "genres": [
+    "death metal",
+    "heavy metal"
+   ],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://shotgun.live/en/events/scattered-remnants-fl-debut"
   },
   {
    "id": "zeyzey:alex-sampson-14-mar",

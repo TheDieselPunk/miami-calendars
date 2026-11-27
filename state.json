@@ -215,9 +215,9 @@
   "modified": "2026-11-17T10:18:05+00:00"
  },
  "dice-6a6bc6a9f6f43900015dbfd4@jolene.miami-calendars": {
-  "hash": "983094bc153784ec",
-  "seq": 0,
-  "modified": "2026-09-29T22:18:15+00:00"
+  "hash": "af9760e31db0cf4d",
+  "seq": 1,
+  "modified": "2026-11-27T22:17:58+00:00"
  },
  "dice-6a8f2332f7d5af0001278253@club-space.miami-calendars": {
   "hash": "bee96f816fae96e8",
@@ -654,6 +654,11 @@
   "seq": 0,
   "modified": "2026-11-25T22:17:54+00:00"
  },
+ "dice-6b09dd7cffd0de0001cd6619@club-space.miami-calendars": {
+  "hash": "ee89d730ce28308e",
+  "seq": 0,
+  "modified": "2026-11-27T22:17:58+00:00"
+ },
  "edmtrain-458944@festivals.miami-calendars": {
   "hash": "52f5b7eb786ce532",
   "seq": 2,
@@ -885,9 +890,9 @@
   "modified": "2026-09-21T20:07:29+00:00"
  },
  "hardrock-207851@daer.miami-calendars": {
-  "hash": "82a71b42408202b5",
-  "seq": 1,
-  "modified": "2026-09-21T20:07:29+00:00"
+  "hash": "481b85efb01da8b1",
+  "seq": 2,
+  "modified": "2026-11-27T22:17:58+00:00"
  },
  "hardrock-207852@daer.miami-calendars": {
   "hash": "7d7a2c3e7d17721a",
@@ -1275,9 +1280,9 @@
   "modified": "2026-11-21T04:18:09+00:00"
  },
  "witchouse-rave@shotgun.live": {
-  "hash": "4abc1de3e7ee7976",
-  "seq": 6,
-  "modified": "2026-11-27T10:18:04+00:00"
+  "hash": "40a855d1954407f4",
+  "seq": 7,
+  "modified": "2026-11-27T22:17:58+00:00"
  },
  "xmas-x-the-hall-x-shyft-x-circle@shotgun.live": {
   "hash": "e69a41f4b0c0c498",
