@@ -25,19 +25,19 @@ CATEGORIES:latin
 END:VEVENT
 BEGIN:VEVENT
 UID:tablelist-515b312cd7dea586@zeyzey.miami-calendars
-DTSTAMP:20261101T101757Z
-LAST-MODIFIED:20261101T101757Z
-SEQUENCE:0
+DTSTAMP:20261127T161803Z
+LAST-MODIFIED:20261127T161803Z
+SEQUENCE:1
 DTSTART:20261128T230000Z
 DTEND:20261129T030000Z
 SUMMARY:Josh Fawaz (Sunset Show)
 LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: hip-hop\, house\, uk garage\nAges: 18+\nhttps://buy.table
- list.com/e/515b312cd7dea586\nhttps://calendar.zeyzeymiami.com/shows/josh-f
- awaz-sunset-show-28-nov\nhttps://ra.co/events/2563133
+DESCRIPTION:Tags: comedy\, hip-hop\, house\, uk garage\nAges: 18+\nhttps://
+ buy.tablelist.com/e/515b312cd7dea586\nhttps://calendar.zeyzeymiami.com/sho
+ ws/josh-fawaz-sunset-show-28-nov\nhttps://ra.co/events/2563133
 URL:https://buy.tablelist.com/e/515b312cd7dea586
 STATUS:CONFIRMED
-CATEGORIES:hip-hop,house,uk garage
+CATEGORIES:comedy,hip-hop,house,uk garage
 END:VEVENT
 BEGIN:VEVENT
 UID:tablelist-03aeb9a56506c2ac@zeyzey.miami-calendars
@@ -86,17 +86,18 @@ CATEGORIES:indie/alternative
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-justin-nozuka-second-show-02-dec@zeyzey.miami-calendars
-DTSTAMP:20260921T200140Z
-LAST-MODIFIED:20260921T200140Z
-SEQUENCE:0
+DTSTAMP:20261127T161803Z
+LAST-MODIFIED:20261127T161803Z
+SEQUENCE:1
 DTSTART:20261203T000000Z
 DTEND:20261203T060000Z
 SUMMARY:Justin Nozuka (Second Show)
 LOCATION:ZeyZey Miami
-DESCRIPTION:https://calendar.zeyzeymiami.com/shows/justin-nozuka-second-sho
- w-02-dec
+DESCRIPTION:Tags: folk\nhttps://calendar.zeyzeymiami.com/shows/justin-nozuk
+ a-second-show-02-dec
 URL:https://calendar.zeyzeymiami.com/shows/justin-nozuka-second-show-02-dec
 STATUS:CONFIRMED
+CATEGORIES:folk
 END:VEVENT
 BEGIN:VEVENT
 UID:edmtrain-545267@zeyzey.miami-calendars
@@ -310,17 +311,18 @@ CATEGORIES:indie/alternative
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-los-amigos-invisibles-11-dec@zeyzey.miami-calendars
-DTSTAMP:20260921T200140Z
-LAST-MODIFIED:20260921T200140Z
-SEQUENCE:0
+DTSTAMP:20261127T161803Z
+LAST-MODIFIED:20261127T161803Z
+SEQUENCE:1
 DTSTART:20261212T010000Z
 DTEND:20261212T080000Z
 SUMMARY:Los Amigos Invisibles
 LOCATION:ZeyZey Miami
-DESCRIPTION:https://calendar.zeyzeymiami.com/shows/los-amigos-invisibles-11
- -dec
+DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
+ los-amigos-invisibles-11-dec
 URL:https://calendar.zeyzeymiami.com/shows/los-amigos-invisibles-11-dec
 STATUS:CONFIRMED
+CATEGORIES:dance/electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-takuya-nakamura-12-dec@zeyzey.miami-calendars
@@ -358,29 +360,33 @@ CATEGORIES:indie/alternative
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-yung-bleu-17-dec@zeyzey.miami-calendars
-DTSTAMP:20261029T161812Z
-LAST-MODIFIED:20261029T161812Z
-SEQUENCE:0
+DTSTAMP:20261127T161803Z
+LAST-MODIFIED:20261127T161803Z
+SEQUENCE:1
 DTSTART:20261218T000000Z
 DTEND:20261218T060000Z
 SUMMARY:Yung Bleu
 LOCATION:ZeyZey Miami
-DESCRIPTION:https://calendar.zeyzeymiami.com/shows/yung-bleu-17-dec
+DESCRIPTION:Tags: hip-hop/rap\nhttps://calendar.zeyzeymiami.com/shows/yung-
+ bleu-17-dec
 URL:https://calendar.zeyzeymiami.com/shows/yung-bleu-17-dec
 STATUS:CONFIRMED
+CATEGORIES:hip-hop/rap
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-i-love-r-b-party-18-dec@zeyzey.miami-calendars
-DTSTAMP:20260929T041814Z
-LAST-MODIFIED:20260929T041814Z
-SEQUENCE:0
+DTSTAMP:20261127T161803Z
+LAST-MODIFIED:20261127T161803Z
+SEQUENCE:1
 DTSTART:20261219T010000Z
 DTEND:20261219T080000Z
 SUMMARY:I Love R&B party
 LOCATION:ZeyZey Miami
-DESCRIPTION:https://calendar.zeyzeymiami.com/shows/i-love-r-b-party-18-dec
+DESCRIPTION:Tags: r&b/soul\nhttps://calendar.zeyzeymiami.com/shows/i-love-r
+ -b-party-18-dec
 URL:https://calendar.zeyzeymiami.com/shows/i-love-r-b-party-18-dec
 STATUS:CONFIRMED
+CATEGORIES:r&b/soul
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-salsa-z-19-dec@zeyzey.miami-calendars
@@ -511,17 +517,18 @@ CATEGORIES:electrofunk,house,synthpop
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-feder-31-dec@zeyzey.miami-calendars
-DTSTAMP:20261125T041803Z
-LAST-MODIFIED:20261125T041803Z
-SEQUENCE:0
+DTSTAMP:20261127T161803Z
+LAST-MODIFIED:20261127T161803Z
+SEQUENCE:1
 DTSTART:20270101T010000Z
 DTEND:20270101T060000Z
 SUMMARY:Feder
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: Feder\nhttps://calendar.zeyzeymiami.com/shows/feder-31-
- dec\nhttps://edmtrain.com/miami-fl/feder-556137
+DESCRIPTION:Lineup: Feder\nTags: dance/electronic\nhttps://calendar.zeyzeym
+ iami.com/shows/feder-31-dec\nhttps://edmtrain.com/miami-fl/feder-556137
 URL:https://calendar.zeyzeymiami.com/shows/feder-31-dec
 STATUS:CONFIRMED
+CATEGORIES:dance/electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-new-years-eve-with-dabuell-dj-set-31-dec@zeyzey.miami-calendars
@@ -542,17 +549,19 @@ CATEGORIES:disco,funk
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-party-pupils-02-jan@zeyzey.miami-calendars
-DTSTAMP:20261118T101813Z
-LAST-MODIFIED:20261118T101813Z
-SEQUENCE:1
+DTSTAMP:20261127T161803Z
+LAST-MODIFIED:20261127T161803Z
+SEQUENCE:2
 DTSTART:20270103T010000Z
 DTEND:20270103T060000Z
 SUMMARY:Party Pupils
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: Party Pupils\nhttps://calendar.zeyzeymiami.com/shows/pa
- rty-pupils-02-jan\nhttps://edmtrain.com/miami-fl/party-pupils-554268
+DESCRIPTION:Lineup: Party Pupils\nTags: dance/electronic\nhttps://calendar.
+ zeyzeymiami.com/shows/party-pupils-02-jan\nhttps://edmtrain.com/miami-fl/p
+ arty-pupils-554268
 URL:https://calendar.zeyzeymiami.com/shows/party-pupils-02-jan
 STATUS:CONFIRMED
+CATEGORIES:dance/electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-uma-galera-03-jan@zeyzey.miami-calendars
@@ -592,31 +601,34 @@ END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-lemon-city-trio-electric-kif-anemoia-more-free-entry-15-jan@zeyz
  ey.miami-calendars
-DTSTAMP:20261126T161804Z
-LAST-MODIFIED:20261126T161804Z
-SEQUENCE:0
+DTSTAMP:20261127T161803Z
+LAST-MODIFIED:20261127T161803Z
+SEQUENCE:1
 DTSTART:20270116T010000Z
 DTEND:20270116T080000Z
 SUMMARY:Lemon City Trio\, Electric Kif\, Anemoia & more! (Free Entry)
 LOCATION:ZeyZey Miami
-DESCRIPTION:https://calendar.zeyzeymiami.com/shows/lemon-city-trio-electric
- -kif-anemoia-more-free-entry-15-jan
+DESCRIPTION:Tags: rock\nhttps://calendar.zeyzeymiami.com/shows/lemon-city-t
+ rio-electric-kif-anemoia-more-free-entry-15-jan
 URL:https://calendar.zeyzeymiami.com/shows/lemon-city-trio-electric-kif-ane
  moia-more-free-entry-15-jan
 STATUS:CONFIRMED
+CATEGORIES:rock
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-doctor-calavera-16-jan@zeyzey.miami-calendars
-DTSTAMP:20261106T161826Z
-LAST-MODIFIED:20261106T161826Z
-SEQUENCE:0
+DTSTAMP:20261127T161803Z
+LAST-MODIFIED:20261127T161803Z
+SEQUENCE:1
 DTSTART:20270117T010000Z
 DTEND:20270117T060000Z
 SUMMARY:Doctor Calavera
 LOCATION:ZeyZey Miami
-DESCRIPTION:https://calendar.zeyzeymiami.com/shows/doctor-calavera-16-jan
+DESCRIPTION:Tags: latin\nhttps://calendar.zeyzeymiami.com/shows/doctor-cala
+ vera-16-jan
 URL:https://calendar.zeyzeymiami.com/shows/doctor-calavera-16-jan
 STATUS:CONFIRMED
+CATEGORIES:latin
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-romain-garcia-16-jan@zeyzey.miami-calendars
@@ -653,29 +665,33 @@ CATEGORIES:emo
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-danay-suarez-22-jan@zeyzey.miami-calendars
-DTSTAMP:20261123T221757Z
-LAST-MODIFIED:20261123T221757Z
-SEQUENCE:0
+DTSTAMP:20261127T161803Z
+LAST-MODIFIED:20261127T161803Z
+SEQUENCE:1
 DTSTART:20270122T230000Z
 DTEND:20270123T080000Z
 SUMMARY:Danay Suarez
 LOCATION:ZeyZey Miami
-DESCRIPTION:https://calendar.zeyzeymiami.com/shows/danay-suarez-22-jan
+DESCRIPTION:Tags: hip-hop/rap\nhttps://calendar.zeyzeymiami.com/shows/danay
+ -suarez-22-jan
 URL:https://calendar.zeyzeymiami.com/shows/danay-suarez-22-jan
 STATUS:CONFIRMED
+CATEGORIES:hip-hop/rap
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-beta-free-entry-22-jan@zeyzey.miami-calendars
-DTSTAMP:20261126T161804Z
-LAST-MODIFIED:20261126T161804Z
-SEQUENCE:0
+DTSTAMP:20261127T161803Z
+LAST-MODIFIED:20261127T161803Z
+SEQUENCE:1
 DTSTART:20270123T020000Z
 DTEND:20270123T080000Z
 SUMMARY:BETA (Free Entry)
 LOCATION:ZeyZey Miami
-DESCRIPTION:https://calendar.zeyzeymiami.com/shows/beta-free-entry-22-jan
+DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
+ beta-free-entry-22-jan
 URL:https://calendar.zeyzeymiami.com/shows/beta-free-entry-22-jan
 STATUS:CONFIRMED
+CATEGORIES:dance/electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-ordinary-boys-09-jan-ccb5f@zeyzey.miami-calendars
@@ -741,30 +757,33 @@ CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-puzzle-31-jan@zeyzey.miami-calendars
-DTSTAMP:20261020T221822Z
-LAST-MODIFIED:20261020T221822Z
-SEQUENCE:0
+DTSTAMP:20261127T161803Z
+LAST-MODIFIED:20261127T161803Z
+SEQUENCE:1
 DTSTART:20270201T000000Z
 DTEND:20270201T060000Z
 SUMMARY:Puzzle
 LOCATION:ZeyZey Miami
-DESCRIPTION:https://calendar.zeyzeymiami.com/shows/puzzle-31-jan
+DESCRIPTION:Tags: rock\nhttps://calendar.zeyzeymiami.com/shows/puzzle-31-ja
+ n
 URL:https://calendar.zeyzeymiami.com/shows/puzzle-31-jan
 STATUS:CONFIRMED
+CATEGORIES:rock
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-jam-cruise-pre-party-03-feb@zeyzey.miami-calendars
-DTSTAMP:20261021T161817Z
-LAST-MODIFIED:20261021T161817Z
-SEQUENCE:0
+DTSTAMP:20261127T161803Z
+LAST-MODIFIED:20261127T161803Z
+SEQUENCE:1
 DTSTART:20270204T000000Z
 DTEND:20270204T060000Z
 SUMMARY:An Evening with Pigeons Playing Ping Pong
 LOCATION:ZeyZey Miami
-DESCRIPTION:https://calendar.zeyzeymiami.com/shows/jam-cruise-pre-party-03-
- feb
+DESCRIPTION:Tags: reggae\nhttps://calendar.zeyzeymiami.com/shows/jam-cruise
+ -pre-party-03-feb
 URL:https://calendar.zeyzeymiami.com/shows/jam-cruise-pre-party-03-feb
 STATUS:CONFIRMED
+CATEGORIES:reggae
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-icee-red-06-feb@zeyzey.miami-calendars
@@ -796,16 +815,18 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-el-david-aguilar-13-feb@zeyzey.miami-calendars
-DTSTAMP:20261113T161822Z
-LAST-MODIFIED:20261113T161822Z
-SEQUENCE:0
+DTSTAMP:20261127T161803Z
+LAST-MODIFIED:20261127T161803Z
+SEQUENCE:1
 DTSTART:20270213T230000Z
 DTEND:20270214T060000Z
 SUMMARY:El David Aguilar
 LOCATION:ZeyZey Miami
-DESCRIPTION:https://calendar.zeyzeymiami.com/shows/el-david-aguilar-13-feb
+DESCRIPTION:Tags: folk\nhttps://calendar.zeyzeymiami.com/shows/el-david-agu
+ ilar-13-feb
 URL:https://calendar.zeyzeymiami.com/shows/el-david-aguilar-13-feb
 STATUS:CONFIRMED
+CATEGORIES:folk
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-jerro-13-feb@zeyzey.miami-calendars
@@ -837,6 +858,19 @@ DESCRIPTION:Tags: r&b/soul\nhttps://calendar.zeyzeymiami.com/shows/the-temp
 URL:https://calendar.zeyzeymiami.com/shows/the-temptations-19-feb
 STATUS:CONFIRMED
 CATEGORIES:r&b/soul
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-carlos-willengton-19-feb@zeyzey.miami-calendars
+DTSTAMP:20261127T161803Z
+LAST-MODIFIED:20261127T161803Z
+SEQUENCE:0
+DTSTART:20270220T033000Z
+DTEND:20270220T080000Z
+SUMMARY:Carlos Willengton
+LOCATION:ZeyZey Miami
+DESCRIPTION:https://calendar.zeyzeymiami.com/shows/carlos-willengton-19-feb
+URL:https://calendar.zeyzeymiami.com/shows/carlos-willengton-19-feb
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-early-show-mamas-gun-26-feb@zeyzey.miami-calendars
@@ -871,16 +905,18 @@ CATEGORIES:dance/electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-shaheri-06-mar@zeyzey.miami-calendars
-DTSTAMP:20261102T221757Z
-LAST-MODIFIED:20261102T221757Z
-SEQUENCE:0
+DTSTAMP:20261127T161803Z
+LAST-MODIFIED:20261127T161803Z
+SEQUENCE:1
 DTSTART:20270307T010000Z
 DTEND:20270307T060000Z
 SUMMARY:SHĀHERI
 LOCATION:ZeyZey Miami
-DESCRIPTION:https://calendar.zeyzeymiami.com/shows/shaheri-06-mar
+DESCRIPTION:Tags: rock\nhttps://calendar.zeyzeymiami.com/shows/shaheri-06-m
+ ar
 URL:https://calendar.zeyzeymiami.com/shows/shaheri-06-mar
 STATUS:CONFIRMED
+CATEGORIES:rock
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-alex-sampson-14-mar@zeyzey.miami-calendars
@@ -897,16 +933,18 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-almost-monday-06-apr@zeyzey.miami-calendars
-DTSTAMP:20261117T161809Z
-LAST-MODIFIED:20261117T161809Z
-SEQUENCE:0
+DTSTAMP:20261127T161803Z
+LAST-MODIFIED:20261127T161803Z
+SEQUENCE:1
 DTSTART:20270406T230000Z
 DTEND:20270407T050000Z
 SUMMARY:almost monday
 LOCATION:ZeyZey Miami
-DESCRIPTION:https://calendar.zeyzeymiami.com/shows/almost-monday-06-apr
+DESCRIPTION:Tags: hip-hop/rap\nhttps://calendar.zeyzeymiami.com/shows/almos
+ t-monday-06-apr
 URL:https://calendar.zeyzeymiami.com/shows/almost-monday-06-apr
 STATUS:CONFIRMED
+CATEGORIES:hip-hop/rap
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-the-growlers-city-club-live-08-apr@zeyzey.miami-calendars
@@ -926,16 +964,18 @@ CATEGORIES:indie/alternative
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-john-splithoff-15-apr@zeyzey.miami-calendars
-DTSTAMP:20261015T041828Z
-LAST-MODIFIED:20261015T041828Z
-SEQUENCE:0
+DTSTAMP:20261127T161803Z
+LAST-MODIFIED:20261127T161803Z
+SEQUENCE:1
 DTSTART:20270415T230000Z
 DTEND:20270416T050000Z
 SUMMARY:John Splithoff
 LOCATION:ZeyZey Miami
-DESCRIPTION:https://calendar.zeyzeymiami.com/shows/john-splithoff-15-apr
+DESCRIPTION:Tags: dance/electronic\nhttps://calendar.zeyzeymiami.com/shows/
+ john-splithoff-15-apr
 URL:https://calendar.zeyzeymiami.com/shows/john-splithoff-15-apr
 STATUS:CONFIRMED
+CATEGORIES:dance/electronic
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-ye-dry-06-may@zeyzey.miami-calendars
@@ -954,16 +994,18 @@ CATEGORIES:latin
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-dillom-08-may@zeyzey.miami-calendars
-DTSTAMP:20261107T101822Z
-LAST-MODIFIED:20261107T101822Z
-SEQUENCE:0
+DTSTAMP:20261127T161803Z
+LAST-MODIFIED:20261127T161803Z
+SEQUENCE:1
 DTSTART:20270508T230000Z
 DTEND:20270509T050000Z
 SUMMARY:Dillom
 LOCATION:ZeyZey Miami
-DESCRIPTION:https://calendar.zeyzeymiami.com/shows/dillom-08-may
+DESCRIPTION:Tags: hip-hop/rap\nhttps://calendar.zeyzeymiami.com/shows/dillo
+ m-08-may
 URL:https://calendar.zeyzeymiami.com/shows/dillom-08-may
 STATUS:CONFIRMED
+CATEGORIES:hip-hop/rap
 END:VEVENT
 BEGIN:VEVENT
 UID:paloma-morphy-miami@shotgun.live

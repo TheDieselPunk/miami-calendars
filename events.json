@@ -2,11 +2,9 @@
  "events": [
   {
    "id": "19hz:4449871-mistergray",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Mister Gray",
-   "artists": [
-    "Mister Gray"
-   ],
+   "artists": [],
    "venue": "E11even",
    "venue_slug": null,
    "date": "2026-11-26",
@@ -23,10 +21,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://spkeasy.com/event/EVE-WYZZ03",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/thanksgiving-day-a-nine1nine-mister-gray-550896"
-   ]
+   "url": "https://spkeasy.com/event/EVE-WYZZ03"
   },
   {
    "id": "19hz:4449876-afterthanksgivin",
@@ -115,32 +110,6 @@
    "organizer": "",
    "description": "",
    "url": "https://music.mila-miami.com/"
-  },
-  {
-   "id": "edmtrain:553404",
-   "source": "edmtrain",
-   "title": "Rodrigo Vieira, Sophie Du Futur",
-   "artists": [
-    "Rodrigo Vieira",
-    "Sophie Du Futur"
-   ],
-   "venue": "AIRE Miami",
-   "venue_slug": null,
-   "date": "2026-11-26",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "111 NE 20th St, Miami, FL 33137, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/r32aoq?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/rodrigo-vieira-sophie-du-futur-553404"
-   ]
   },
   {
    "id": "19hz:4449940-urgemiamifestiva",
@@ -1260,6 +1229,7 @@
    "ages": "18+",
    "price": "$23-51.70",
    "genres": [
+    "comedy",
     "hip-hop",
     "house",
     "uk garage"
@@ -3026,7 +2996,9 @@
    "address": "",
    "ages": "",
    "price": "",
-   "genres": [],
+   "genres": [
+    "folk"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
@@ -8741,7 +8713,9 @@
    "address": "",
    "ages": "",
    "price": "",
-   "genres": [],
+   "genres": [
+    "dance/electronic"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
@@ -10002,7 +9976,9 @@
    "address": "",
    "ages": "",
    "price": "",
-   "genres": [],
+   "genres": [
+    "hip-hop/rap"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
@@ -10183,7 +10159,9 @@
    "address": "",
    "ages": "",
    "price": "",
-   "genres": [],
+   "genres": [
+    "r&b/soul"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
@@ -12203,7 +12181,9 @@
    "address": "",
    "ages": "",
    "price": "",
-   "genres": [],
+   "genres": [
+    "dance/electronic"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
@@ -13127,7 +13107,9 @@
    "address": "",
    "ages": "",
    "price": "",
-   "genres": [],
+   "genres": [
+    "dance/electronic"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
@@ -13641,7 +13623,9 @@
    "address": "",
    "ages": "",
    "price": "Free",
-   "genres": [],
+   "genres": [
+    "rock"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
@@ -13763,7 +13747,9 @@
    "address": "",
    "ages": "",
    "price": "",
-   "genres": [],
+   "genres": [
+    "latin"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
@@ -14115,7 +14101,9 @@
    "address": "",
    "ages": "",
    "price": "",
-   "genres": [],
+   "genres": [
+    "hip-hop/rap"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
@@ -14136,7 +14124,9 @@
    "address": "",
    "ages": "",
    "price": "Free",
-   "genres": [],
+   "genres": [
+    "dance/electronic"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
@@ -14959,7 +14949,9 @@
    "address": "",
    "ages": "",
    "price": "",
-   "genres": [],
+   "genres": [
+    "rock"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
@@ -14980,7 +14972,9 @@
    "address": "",
    "ages": "",
    "price": "",
-   "genres": [],
+   "genres": [
+    "reggae"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
@@ -15277,7 +15271,9 @@
    "address": "",
    "ages": "",
    "price": "",
-   "genres": [],
+   "genres": [
+    "folk"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
@@ -15478,6 +15474,27 @@
    "description": "",
    "url": "https://tixr.com/e/214385",
    "generic_title": true
+  },
+  {
+   "id": "zeyzey:carlos-willengton-19-feb",
+   "source": "venue",
+   "title": "Carlos Willengton",
+   "artists": [],
+   "venue": "ZeyZey Miami",
+   "venue_slug": "zeyzey",
+   "date": "2027-02-19",
+   "start": "2027-02-20T03:30:00+00:00",
+   "end": "2027-02-20T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://calendar.zeyzeymiami.com/shows/carlos-willengton-19-feb",
+   "cancelled": false
   },
   {
    "id": "hardrock:214376",
@@ -15840,7 +15857,9 @@
    "address": "",
    "ages": "",
    "price": "",
-   "genres": [],
+   "genres": [
+    "rock"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
@@ -16151,7 +16170,9 @@
    "address": "",
    "ages": "",
    "price": "",
-   "genres": [],
+   "genres": [
+    "hip-hop/rap"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
@@ -16224,7 +16245,9 @@
    "address": "",
    "ages": "",
    "price": "",
-   "genres": [],
+   "genres": [
+    "dance/electronic"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
@@ -16268,7 +16291,9 @@
    "address": "",
    "ages": "",
    "price": "",
-   "genres": [],
+   "genres": [
+    "hip-hop/rap"
+   ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
