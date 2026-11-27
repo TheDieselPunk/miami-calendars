@@ -27,9 +27,9 @@ GEO:25.7287781;-80.3169309
 END:VEVENT
 BEGIN:VEVENT
 UID:witchouse-rave@shotgun.live
-DTSTAMP:20261127T041805Z
-LAST-MODIFIED:20261127T041805Z
-SEQUENCE:5
+DTSTAMP:20261127T101804Z
+LAST-MODIFIED:20261127T101804Z
+SEQUENCE:6
 DTSTART:20261128T030000Z
 DTEND:20261128T080000Z
 SUMMARY:Witchouse Rave
@@ -42,8 +42,8 @@ DESCRIPTION:CLIPS CLIPS X JWELSET X EQUINOX BOOKING x TALK LESS JUST DANCE
  USIC BY S4LEM \, CRYSTAL CASTLES\,WHITE RING\, oOoOO\, SUMMER OF HAZE\, PA
  STEL GHOST\, + MORE NO REFUNDS! PHYSICAL ID ONLY\nTags: electronica\, drum
   & bass\, hypnotic techno\nPresented by: Talk Less Just Dance\nTickets: Se
- cond tier 18+ $14.1 (sold out)\, 21+ $10\, THIRD WAVE $17.62\nhttps://shot
- gun.live/en/events/witchouse-rave
+ cond tier 18+ $14.1 (sold out)\, 21+ $10\, THIRD WAVE $17.62\, DOORS $26.4
+ 3\nhttps://shotgun.live/en/events/witchouse-rave
 URL:https://shotgun.live/en/events/witchouse-rave
 STATUS:CONFIRMED
 CATEGORIES:electronica,drum & bass,hypnotic techno
@@ -96,9 +96,9 @@ GEO:25.7287781;-80.3169309
 END:VEVENT
 BEGIN:VEVENT
 UID:vice-city-world-art-basel-show-2026@shotgun.live
-DTSTAMP:20261111T221827Z
-LAST-MODIFIED:20261111T221827Z
-SEQUENCE:3
+DTSTAMP:20261127T101804Z
+LAST-MODIFIED:20261127T101804Z
+SEQUENCE:4
 DTSTART:20261203T220000Z
 DTEND:20261204T030000Z
 SUMMARY:Vice City World Art Basel Show 2026
@@ -111,8 +111,8 @@ DESCRIPTION:18+ EVENT | PROMO CODE “777” FOR $5 OFF ART BASEL SHOWCASE
  k. Get your tickets now and use code 777 to save $5!\nLineup: BabyBartier
  \, Boohavinn\, Percaso\, holottacheese\, Sir Untre\, Unitus\, Dxrop\, whot
  fis2k\nTags: alternative\, rap\, hip hop\nPresented by: Vice City World\nT
- ickets: General Admission $30.84\nhttps://shotgun.live/en/events/vice-city
- -world-art-basel-show-2026
+ ickets: General Admission $30.84\, BLACK FRIDAY TICKETS LIMITED $24.67\nht
+ tps://shotgun.live/en/events/vice-city-world-art-basel-show-2026
 URL:https://shotgun.live/en/events/vice-city-world-art-basel-show-2026
 STATUS:CONFIRMED
 CATEGORIES:alternative,rap,hip hop

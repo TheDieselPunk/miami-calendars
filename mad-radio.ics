@@ -8,25 +8,19 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:madradiomiami112626@shotgun.live
-DTSTAMP:20261113T101829Z
-LAST-MODIFIED:20261113T101829Z
-SEQUENCE:1
+UID:19hz-4449876-femmefrequencyma@mad-radio.miami-calendars
+DTSTAMP:20261127T101804Z
+LAST-MODIFIED:20261127T101804Z
+SEQUENCE:0
 DTSTART:20261127T020000Z
 DTEND:20261127T080000Z
 SUMMARY:Femme Frequency: Mary Zander / La Vega
-LOCATION:Mad Radio Miami\, 7700 Biscayne Boulevard\, Miami\, FL 33138\, USA
-DESCRIPTION:"FEMME FREQUENCY™ is MAD® cultural platform placing women at
-  the center of the music scene\, featuring local\, international\, and eme
- rging DJs\, the stories behind the music\, culture\, talent\, and communit
- y. A safe space to discover\, play\, and belong. See you on the dance floo
- r! Come early\, stay late\, and let the night unfold FREE ENTRY +25 YEARS 
- OLD HAPPY HOUR 5 PM - 9 PM"\nTags: house\nTickets: RSVP Free\nAges: 25+\nh
- ttps://shotgun.live/en/events/madradiomiami112626
+LOCATION:Mad Radio
+DESCRIPTION:Tags: house\nAges: 25+\nhttps://shotgun.live/en/events/madradio
+ miami112626
 URL:https://shotgun.live/en/events/madradiomiami112626
 STATUS:CONFIRMED
 CATEGORIES:house
-GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami112726@shotgun.live
