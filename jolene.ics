@@ -9,20 +9,19 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:dice-6a8b4d68fec4480001a68ffe@jolene.miami-calendars
-DTSTAMP:20261126T161804Z
-LAST-MODIFIED:20261126T161804Z
-SEQUENCE:3
+DTSTAMP:20261127T041805Z
+LAST-MODIFIED:20261127T041805Z
+SEQUENCE:4
 DTSTART:20261126T030000Z
 DTEND:20261126T090000Z
 SUMMARY:Helena Hauff
 LOCATION:Jolene Sound Room Miami\, 200 East Flagler Street\, Miami\, Florid
  a 33131\, United States
-DESCRIPTION:Tags: electro\, techno\nAges: 21+\nhttps://dice.fm/event/l87pxx
- -helena-hauff-28th-nov-jolene-sound-room-miami-miami-tickets
-URL:https://dice.fm/event/l87pxx-helena-hauff-28th-nov-jolene-sound-room-mi
- ami-miami-tickets
+DESCRIPTION:Tags (guess): house\, tech house\nhttps://dice.fm/event/6a8b4d6
+ 8fec4480001a68ffe
+URL:https://dice.fm/event/6a8b4d68fec4480001a68ffe
 STATUS:CONFIRMED
-CATEGORIES:electro,techno
+CATEGORIES:house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aea70fe16528500017b9334@jolene.miami-calendars

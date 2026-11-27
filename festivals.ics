@@ -8,40 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4449768-ianasher@festivals.miami-calendars
-DTSTAMP:20261126T161804Z
-LAST-MODIFIED:20261126T161804Z
-SEQUENCE:1
-DTSTART:20261125T230000Z
-DTEND:20261126T070000Z
-SUMMARY:Ian Asher
-LOCATION:The Shorely At Marina Village\, Fort Lauderdale
-DESCRIPTION:Tags: edm\, house\nAges: 21+\nhttps://www.eventbrite.com/e/ian-
- asher-the-shorely-tickets-2004681927610
-URL:https://www.eventbrite.com/e/ian-asher-the-shorely-tickets-200468192761
- 0
-STATUS:CONFIRMED
-CATEGORIES:edm,house
-END:VEVENT
-BEGIN:VEVENT
-UID:19hz-4449769-tudobemkarandjcr@festivals.miami-calendars
-DTSTAMP:20261110T041823Z
-LAST-MODIFIED:20261110T041823Z
-SEQUENCE:0
-DTSTART:20261125T233000Z
-DTEND:20261126T030000Z
-SUMMARY:Tudo Bem: Karan!\, DJ Craze\, Lamebot\, Jean Sean
-LOCATION:Miami Beach Bandshell\, Miami Beach
-DESCRIPTION:Tags: baile funk\, club\, miami bass\nPresented by: PeoplePlace
- sThingsMiami & The Rhythm Foundation\nAges: All ages\nhttps://wl.eventim.u
- s/event/tudo-bem/704815?afflky=MiamiBeachBandshell&nts_trk=32183de8-fffa-4
- 854-baad-2f579c89644f
-URL:https://wl.eventim.us/event/tudo-bem/704815?afflky=MiamiBeachBandshell&
- nts_trk=32183de8-fffa-4854-baad-2f579c89644f
-STATUS:CONFIRMED
-CATEGORIES:baile funk,club,miami bass
-END:VEVENT
-BEGIN:VEVENT
 UID:19hz-4449940-urgemiamifestiva@festivals.miami-calendars
 DTSTAMP:20261002T221826Z
 LAST-MODIFIED:20261002T221826Z
@@ -58,15 +24,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:berlin1@shotgun.live
-DTSTAMP:20261121T041809Z
-LAST-MODIFIED:20261121T041809Z
-SEQUENCE:1
+DTSTAMP:20261127T041805Z
+LAST-MODIFIED:20261127T041805Z
+SEQUENCE:2
 DTSTART:20261129T030000Z
-DTEND:20261129T080000Z
+DTEND:20261129T100000Z
 SUMMARY:Night In Berlin
 LOCATION:Miami
-DESCRIPTION:Tags: house\, industrial techno\, techno\nhttps://shotgun.live/
- en/events/berlin1\nhttps://edmtrain.com/miami-fl/night-in-berlin-555065
+DESCRIPTION:Tags: house\, industrial techno\, techno\nAges: 21+\nhttps://sh
+ otgun.live/en/events/berlin1\nhttps://edmtrain.com/miami-fl/night-in-berli
+ n-555065
 URL:https://shotgun.live/en/events/berlin1
 STATUS:CONFIRMED
 CATEGORIES:house,industrial techno,techno

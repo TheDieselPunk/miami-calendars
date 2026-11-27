@@ -1,24 +1,4 @@
 {
- "19hz-4449768-ianasher@festivals.miami-calendars": {
-  "hash": "576f5c2bcff300d6",
-  "seq": 1,
-  "modified": "2026-11-26T16:18:04+00:00"
- },
- "19hz-4449769-tudobemkarandjcr@festivals.miami-calendars": {
-  "hash": "8701856c52cd27a5",
-  "seq": 0,
-  "modified": "2026-11-10T04:18:23+00:00"
- },
- "19hz-4449772-inna@midline.miami-calendars": {
-  "hash": "53bcd42fad6afef2",
-  "seq": 0,
-  "modified": "2026-09-26T22:18:17+00:00"
- },
- "19hz-4449780-jointhelocalsign@mad-radio.miami-calendars": {
-  "hash": "54e108fafe8e927d",
-  "seq": 1,
-  "modified": "2026-11-26T16:18:04+00:00"
- },
  "19hz-4449940-urgemiamifestiva@festivals.miami-calendars": {
   "hash": "ee2b50dcf5abe61f",
   "seq": 0,
@@ -170,9 +150,9 @@
   "modified": "2026-11-13T10:18:29+00:00"
  },
  "berlin1@shotgun.live": {
-  "hash": "1bde76527baab0fd",
-  "seq": 1,
-  "modified": "2026-11-21T04:18:09+00:00"
+  "hash": "c993d8a785ee6d39",
+  "seq": 2,
+  "modified": "2026-11-27T04:18:05+00:00"
  },
  "black-friday-cover-show@shotgun.live": {
   "hash": "de47aa35275d05c0",
@@ -195,9 +175,9 @@
   "modified": "2026-11-25T04:18:03+00:00"
  },
  "deja-vu-ryoka@shotgun.live": {
-  "hash": "88f4272a489c0dfb",
-  "seq": 1,
-  "modified": "2026-11-21T16:18:03+00:00"
+  "hash": "5b1ac6f9a931b3ad",
+  "seq": 2,
+  "modified": "2026-11-27T04:18:05+00:00"
  },
  "dice-6a02cf0a5ca3ee0001e1d1dc@kemistry.miami-calendars": {
   "hash": "f47eb8ae663aa098",
@@ -235,9 +215,9 @@
   "modified": "2026-09-29T22:18:15+00:00"
  },
  "dice-6a8b4d68fec4480001a68ffe@jolene.miami-calendars": {
-  "hash": "acb586cf9a490f46",
-  "seq": 3,
-  "modified": "2026-11-26T16:18:04+00:00"
+  "hash": "35bacc857fd29803",
+  "seq": 4,
+  "modified": "2026-11-27T04:18:05+00:00"
  },
  "dice-6a8f2332f7d5af0001278253@club-space.miami-calendars": {
   "hash": "bee96f816fae96e8",
@@ -1200,24 +1180,24 @@
   "modified": "2026-11-20T10:18:23+00:00"
  },
  "madradiomiami120226@shotgun.live": {
-  "hash": "60b5212ea31375d9",
-  "seq": 0,
-  "modified": "2026-11-26T04:18:10+00:00"
+  "hash": "43ee2ce6d5208fdd",
+  "seq": 1,
+  "modified": "2026-11-27T04:18:05+00:00"
  },
  "madradiomiami120326@shotgun.live": {
-  "hash": "a3b36a6a7b7e1f00",
-  "seq": 0,
-  "modified": "2026-11-26T04:18:10+00:00"
+  "hash": "f9f081f7adbe5a24",
+  "seq": 1,
+  "modified": "2026-11-27T04:18:05+00:00"
  },
  "madradiomiami120426@shotgun.live": {
-  "hash": "a7d4e2a51d73f278",
-  "seq": 39,
-  "modified": "2026-11-26T04:18:10+00:00"
+  "hash": "ad90f8154e0f5804",
+  "seq": 40,
+  "modified": "2026-11-27T04:18:05+00:00"
  },
  "madradiomiami120526@shotgun.live": {
-  "hash": "d076ca7f06228c0f",
-  "seq": 1,
-  "modified": "2026-11-26T22:18:05+00:00"
+  "hash": "247001c05991a1a0",
+  "seq": 2,
+  "modified": "2026-11-27T04:18:05+00:00"
  },
  "madradiomiami120926@shotgun.live": {
   "hash": "8f77b647444e0275",
@@ -1235,9 +1215,9 @@
   "modified": "2026-11-26T04:18:10+00:00"
  },
  "madradiomiami121226@shotgun.live": {
-  "hash": "a6beb916e7a45679",
-  "seq": 0,
-  "modified": "2026-11-26T04:18:10+00:00"
+  "hash": "baea89767080670f",
+  "seq": 1,
+  "modified": "2026-11-27T04:18:05+00:00"
  },
  "noche-mala@shotgun.live": {
   "hash": "d9f812018755da3a",
@@ -1310,9 +1290,9 @@
   "modified": "2026-11-21T04:18:09+00:00"
  },
  "witchouse-rave@shotgun.live": {
-  "hash": "9f3e7a8d90b2da39",
-  "seq": 4,
-  "modified": "2026-11-25T10:17:56+00:00"
+  "hash": "2d7dd033f5f4db27",
+  "seq": 5,
+  "modified": "2026-11-27T04:18:05+00:00"
  },
  "xmas-x-the-hall-x-shyft-x-circle@shotgun.live": {
   "hash": "e69a41f4b0c0c498",

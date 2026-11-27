@@ -116,9 +116,9 @@
   "slug": "mad-radio",
   "name": "Mad Radio Miami",
   "file": "mad-radio.ics",
-  "events": 12,
+  "events": 11,
   "estimated_times": 0,
-  "next": "2026-11-25",
+  "next": "2026-11-26",
   "sources": [
    "19hz",
    "edmtrain",
@@ -158,9 +158,9 @@
   "slug": "midline",
   "name": "Midline",
   "file": "midline.ics",
-  "events": 9,
+  "events": 8,
   "estimated_times": 1,
-  "next": "2026-11-25",
+  "next": "2026-11-28",
   "sources": [
    "19hz",
    "edmtrain"
@@ -171,9 +171,9 @@
   "slug": "festivals",
   "name": "Festivals & one-offs",
   "file": "festivals.ics",
-  "events": 57,
+  "events": 55,
   "estimated_times": 24,
-  "next": "2026-11-25",
+  "next": "2026-11-27",
   "sources": [
    "19hz",
    "dice",

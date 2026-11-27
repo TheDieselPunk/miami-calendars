@@ -8,21 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4449780-jointhelocalsign@mad-radio.miami-calendars
-DTSTAMP:20261126T161804Z
-LAST-MODIFIED:20261126T161804Z
-SEQUENCE:1
-DTSTART:20261126T020000Z
-DTEND:20261126T080000Z
-SUMMARY:Join The Local Signal ))): Wax'n Dance
-LOCATION:Mad Radio
-DESCRIPTION:Tags: house\nAges: 25+\nhttps://shotgun.live/en/events/madradio
- miami112526
-URL:https://shotgun.live/en/events/madradiomiami112526
-STATUS:CONFIRMED
-CATEGORIES:house
-END:VEVENT
-BEGIN:VEVENT
 UID:madradiomiami112626@shotgun.live
 DTSTAMP:20261113T101829Z
 LAST-MODIFIED:20261113T101829Z
@@ -92,9 +77,9 @@ GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami120226@shotgun.live
-DTSTAMP:20261126T041810Z
-LAST-MODIFIED:20261126T041810Z
-SEQUENCE:0
+DTSTAMP:20261127T041805Z
+LAST-MODIFIED:20261127T041805Z
+SEQUENCE:1
 DTSTART:20261203T020000Z
 DTEND:20261203T080000Z
 SUMMARY:Mad Basel / Un_Mute: Raphael Carrau / Francula / Pavlo
@@ -103,9 +88,9 @@ DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
  ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
   our slick radio show serving up the latest tracks. Save the date and cath
   the urban-chic experience at Mad Radio Miami. See you on the dance floor!
-  Come early\, stay late\, and let the night unfold FREE ENTRY 25+ YEARS OL
- D HAPPY HOUR 5 PM - 9 PM"\nTags (guess): deep house\, house\nTickets: RSVP
-  Free\nhttps://shotgun.live/en/events/madradiomiami120226
+  Come early\, stay late\, and let the night unfold 25+ YEARS OLD HAPPY HOU
+ R 5 PM - 9 PM"\nTags (guess): deep house\, house\nTickets: RSVP Free (sold
+  out)\nhttps://shotgun.live/en/events/madradiomiami120226
 URL:https://shotgun.live/en/events/madradiomiami120226
 STATUS:CONFIRMED
 CATEGORIES:deep house,house
@@ -113,9 +98,9 @@ GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami120326@shotgun.live
-DTSTAMP:20261126T041810Z
-LAST-MODIFIED:20261126T041810Z
-SEQUENCE:0
+DTSTAMP:20261127T041805Z
+LAST-MODIFIED:20261127T041805Z
+SEQUENCE:1
 DTSTART:20261204T020000Z
 DTEND:20261204T080000Z
 SUMMARY:Mad Basel: Radio Slave / Darelectric + Clandestina
@@ -124,9 +109,10 @@ DESCRIPTION:"FEMME FREQUENCY™ is MAD® cultural platform placing women at
   the center of the music scene\, featuring local\, international\, and eme
  rging DJs\, the stories behind the music\, culture\, talent\, and communit
  y. A safe space to discover\, play\, and belong. See you on the dance floo
- r! Come early\, stay late\, and let the night unfold FREE ENTRY +25 YEARS 
- OLD HAPPY HOUR 5 PM - 9 PM"\nTags (guess): deep house\, house\nTickets: RS
- VP Free\nhttps://shotgun.live/en/events/madradiomiami120326
+ r! Come early\, stay late\, and let the night unfold +25 YEARS OLD HAPPY H
+ OUR 5 PM - 9 PM"\nTags (guess): deep house\, house\nTickets: RSVP Free (so
+ ld out)\, AFTER 9 PM $20\, FREE LADIES RSVP BEFORE 12 AM Free\nhttps://sho
+ tgun.live/en/events/madradiomiami120326
 URL:https://shotgun.live/en/events/madradiomiami120326
 STATUS:CONFIRMED
 CATEGORIES:deep house,house
@@ -134,9 +120,9 @@ GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami120426@shotgun.live
-DTSTAMP:20261126T041810Z
-LAST-MODIFIED:20261126T041810Z
-SEQUENCE:39
+DTSTAMP:20261127T041805Z
+LAST-MODIFIED:20261127T041805Z
+SEQUENCE:40
 DTSTART:20261205T020000Z
 DTEND:20261205T080000Z
 SUMMARY:Mad Basel / Toy Tonics: Cody Currie & Jovigibs + Clandestina
@@ -145,11 +131,11 @@ DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
  ut. Whether you´re a party pro or just vibing\, this is the spot. Tune in
   our slick radio show serving up the latest tracks. Save the date and cath
   the urban-chic experience at Mad Radio Miami. See you on the dance floor!
-  Come early\, stay late\, and let the night unfold FREE ENTRY BEFORE 10 PM
-  / FREE ENTRY LADIES UNTIL MIDNIGHT +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
- \nLineup: Cody Currie\nTags: house\nTickets: AFTER 10 PM $20\, FREE LADIES
-  RSVP BEFORE 12 AM Free\nAges: 25+\nhttps://shotgun.live/en/events/madradi
- omiami120426\nhttps://edmtrain.com/miami-fl/cody-currie-554828
+  Come early\, stay late\, and let the night unfold FREE ENTRY LADIES UNTIL
+  MIDNIGHT +25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"\nLineup: Cody Currie\nTags
+ : house\nTickets: AFTER 9 PM $20\, FREE LADIES RSVP BEFORE 12 AM Free\nAge
+ s: 25+\nhttps://shotgun.live/en/events/madradiomiami120426\nhttps://edmtra
+ in.com/miami-fl/cody-currie-554828
 URL:https://shotgun.live/en/events/madradiomiami120426
 STATUS:CONFIRMED
 CATEGORIES:house
@@ -157,9 +143,9 @@ GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami120526@shotgun.live
-DTSTAMP:20261126T221805Z
-LAST-MODIFIED:20261126T221805Z
-SEQUENCE:1
+DTSTAMP:20261127T041805Z
+LAST-MODIFIED:20261127T041805Z
+SEQUENCE:2
 DTSTART:20261206T020000Z
 DTEND:20261206T080000Z
 SUMMARY:Mad Basel: Floyd Lavine / Ay Papi + Clandestina
@@ -170,9 +156,9 @@ DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
   the urban-chic experience at Mad Radio Miami. See you on the dance floor!
   Come early\, stay late\, and let the night unfold FREE ENTRY BEFORE 10 PM
   / FREE ENTRY LADIES UNTIL MIDNIGHT + 25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
- \nTags (guess): deep house\, house\nTickets: AFTER 10 PM / EARLY BIRD $20
- \, FREE LADIES RSVP BEFORE 12 AM Free\nhttps://shotgun.live/en/events/madr
- adiomiami120526
+ \nTags (guess): deep house\, house\nTickets: AFTER 9 PM / EARLY BIRD $20\,
+  FREE LADIES RSVP BEFORE 12 AM Free\nhttps://shotgun.live/en/events/madrad
+ iomiami120526
 URL:https://shotgun.live/en/events/madradiomiami120526
 STATUS:CONFIRMED
 CATEGORIES:deep house,house
@@ -245,9 +231,9 @@ GEO:25.8462027;-80.1851332
 END:VEVENT
 BEGIN:VEVENT
 UID:madradiomiami121226@shotgun.live
-DTSTAMP:20261126T041810Z
-LAST-MODIFIED:20261126T041810Z
-SEQUENCE:0
+DTSTAMP:20261127T041805Z
+LAST-MODIFIED:20261127T041805Z
+SEQUENCE:1
 DTSTART:20261213T020000Z
 DTEND:20261213T080000Z
 SUMMARY:Hector Romero / The Love Tempo
@@ -258,9 +244,10 @@ DESCRIPTION:"The river venue sets the stage for a stylish yet chill night o
   the urban-chic experience at Mad Radio Miami. See you on the dance floor!
   Come early\, stay late\, and let the night unfold FREE ENTRY BEFORE 10 PM
   / FREE ENTRY LADIES UNTIL MIDNIGHT + 25 YEARS OLD HAPPY HOUR 5 PM - 9 PM"
- \nTags (guess): deep house\, house\nTickets: AFTER 10 PM / EARLY BIRD $20
- \, FREE LADIES RSVP BEFORE 12 AM Free\nhttps://shotgun.live/en/events/madr
- adiomiami121226
+ \nLineup: Hector Romero\nTags (guess): deep house\, house\nTickets: AFTER 
+ 10 PM / EARLY BIRD $20\, FREE LADIES RSVP BEFORE 12 AM Free\nhttps://shotg
+ un.live/en/events/madradiomiami121226\nhttps://edmtrain.com/miami-fl/hecto
+ r-romero-556439
 URL:https://shotgun.live/en/events/madradiomiami121226
 STATUS:CONFIRMED
 CATEGORIES:deep house,house
