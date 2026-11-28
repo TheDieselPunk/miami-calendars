@@ -101,17 +101,17 @@ CATEGORIES:folk
 END:VEVENT
 BEGIN:VEVENT
 UID:edmtrain-545267@zeyzey.miami-calendars
-DTSTAMP:20261028T101812Z
-LAST-MODIFIED:20261028T101812Z
-SEQUENCE:1
+DTSTAMP:20261128T041803Z
+LAST-MODIFIED:20261128T041803Z
+SEQUENCE:2
 DTSTART:20261203T000000Z
 DTEND:20261203T060000Z
-SUMMARY:SG Lewis
+SUMMARY:SG Lewis\, LP Giobbi\, Arielle Free
 LOCATION:ZeyZey Miami\, 353 NE 61st St\, Miami\, FL 33137\, USA
-DESCRIPTION:Lineup: SG Lewis\nTimes are an estimate from ZeyZey Miami's usu
- al hours - the listing has no start time yet. Check the link.\nhttps://cal
- endar.zeyzeymiami.com/shows/sg-lewis-02-dec\nhttps://edmtrain.com/miami-fl
- /sg-lewis-545267
+DESCRIPTION:Lineup: SG Lewis\, LP Giobbi\, Arielle Free\nTimes are an estim
+ ate from ZeyZey Miami's usual hours - the listing has no start time yet. C
+ heck the link.\nhttps://calendar.zeyzeymiami.com/shows/sg-lewis-02-dec\nht
+ tps://edmtrain.com/miami-fl/sg-lewis-lp-giobbi-545267
 URL:https://calendar.zeyzeymiami.com/shows/sg-lewis-02-dec
 STATUS:CONFIRMED
 END:VEVENT

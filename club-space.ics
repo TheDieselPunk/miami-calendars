@@ -305,15 +305,16 @@ CATEGORIES:deep house,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6b09dd7cffd0de0001cd6619@club-space.miami-calendars
-DTSTAMP:20261127T221758Z
-LAST-MODIFIED:20261127T221758Z
-SEQUENCE:0
+DTSTAMP:20261128T041803Z
+LAST-MODIFIED:20261128T041803Z
+SEQUENCE:1
 DTSTART:20270109T040000Z
 DTEND:20270109T170000Z
 SUMMARY:Jeff Mills + Marcel Dettmann + Danny Daze
 LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Tags (guess): house\, techno\nhttps://dice.fm/event/6b09dd7cffd
- 0de0001cd6619
+DESCRIPTION:Lineup: Jeff Mills\, Marcel Dettmann\, Danny Daze\nTags (guess)
+ : house\, techno\nhttps://dice.fm/event/6b09dd7cffd0de0001cd6619\nhttps://
+ edmtrain.com/miami-fl/jeff-mills-marcel-dettmann-556527
 URL:https://dice.fm/event/6b09dd7cffd0de0001cd6619
 STATUS:CONFIRMED
 CATEGORIES:house,techno

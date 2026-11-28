@@ -132,34 +132,6 @@
    "url": "https://www.eventbrite.com/e/urge-miami-festival-2026-festival-passes-tickets-1987540335647"
   },
   {
-   "id": "shotgun:black-friday-cover-show",
-   "source": "shotgun",
-   "title": "Black Friday Cover Show",
-   "artists": [],
-   "venue": "The Boombox Miami",
-   "venue_slug": "boombox",
-   "date": "2026-11-27",
-   "start": "2026-11-27T23:00:00+00:00",
-   "end": "2026-11-28T03:00:00+00:00",
-   "time_estimated": false,
-   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
-   "ages": "",
-   "price": "$11.35",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "Equinox Booking",
-   "description": "Black Friday Cover Show Featuring: Blink 182 Hatebreed Alice In Chains Gorilla Biscuits $10 6 pm all ages",
-   "url": "https://shotgun.live/en/events/black-friday-cover-show",
-   "tickets": "General Admission $10",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.7287781,
-    "longitude": -80.3169309
-   },
-   "created": "2026-11-18T22:55:23.000Z"
-  },
-  {
    "id": "19hz:4449964-backalleyftpagan",
    "source": "19hz",
    "title": "Back Alley ft Pagano",
@@ -701,7 +673,7 @@
    "time_estimated": false,
    "address": "",
    "ages": "21+",
-   "price": "$15.00",
+   "price": "$28.13",
    "genres": [
     "dance",
     "deep house",
@@ -716,38 +688,6 @@
     "https://shotgun.live/en/events/moji-riva-starr-peace-control-special-guest-sable",
     "https://edmtrain.com/miami-fl/moji-riva-starr-555165"
    ]
-  },
-  {
-   "id": "shotgun:witchouse-rave",
-   "source": "shotgun",
-   "title": "Witchouse Rave",
-   "artists": [],
-   "venue": "The Boombox Miami",
-   "venue_slug": "boombox",
-   "date": "2026-11-27",
-   "start": "2026-11-28T03:00:00+00:00",
-   "end": "2026-11-28T08:00:00+00:00",
-   "time_estimated": false,
-   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
-   "ages": "",
-   "price": "$20.00",
-   "genres": [
-    "electronica",
-    "drum & bass",
-    "hypnotic techno"
-   ],
-   "genres_inferred": false,
-   "organizer": "Talk Less Just Dance",
-   "description": "CLIPS CLIPS X JWELSET X EQUINOX BOOKING x TALK LESS JUST DANCE ▲///▲///▲ WITCHOUSE RAVE 11/27/26 • 18+ • 10:00PM - 3:00AM ▲ SIDEWALKS AND SKELETONS B2B ESSEX ▲ JWELSET ▲ KITTY ▲ SOUND GUY * more djs to be announced EDM / DARKWAVE / WITCH HOUSE / + MORE DJS SPINNING MUSIC BY S4LEM , CRYSTAL CASTLES,WHITE RING, oOoOO, SUMMER OF HAZE, PASTEL GHOST, + MORE NO REFUNDS! PHYSICAL ID ONLY",
-   "url": "https://shotgun.live/en/events/witchouse-rave",
-   "tickets": "Second tier 18+ $14.1 (sold out), 21+ $10 (sold out), THIRD WAVE $17.62, DOORS $26.43",
-   "cancelled": false,
-   "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": 25.7287781,
-    "longitude": -80.3169309
-   },
-   "created": "2026-11-19T05:33:29.000Z"
   },
   {
    "id": "shotgun:the-hall-360-differ-f-2-f-nico-moon-3",
@@ -869,6 +809,38 @@
    ]
   },
   {
+   "id": "shotgun:witchouse-rave",
+   "source": "shotgun",
+   "title": "Witchouse Rave",
+   "artists": [],
+   "venue": "The Boombox Miami",
+   "venue_slug": "boombox",
+   "date": "2026-11-27",
+   "start": "2026-11-28T04:00:00+00:00",
+   "end": "2026-11-28T09:00:00+00:00",
+   "time_estimated": false,
+   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
+   "ages": "",
+   "price": "$30.00",
+   "genres": [
+    "electronica",
+    "drum & bass",
+    "hypnotic techno"
+   ],
+   "genres_inferred": false,
+   "organizer": "Talk Less Just Dance",
+   "description": "CLIPS CLIPS X JWELSET X EQUINOX BOOKING x TALK LESS JUST DANCE ▲///▲///▲ WITCHOUSE RAVE 11/27/26 • 18+ • 11pm- 4pm ▲ SIDEWALKS AND SKELETONS B2B ESSEX ▲ JWELSET ▲ KITTY ▲ SOUND GUY * more djs to be announced EDM / DARKWAVE / WITCH HOUSE / + MORE DJS SPINNING MUSIC BY S4LEM , CRYSTAL CASTLES,WHITE RING, oOoOO, SUMMER OF HAZE, PASTEL GHOST, + MORE NO REFUNDS! PHYSICAL ID ONLY",
+   "url": "https://shotgun.live/en/events/witchouse-rave",
+   "tickets": "Second tier 18+ $14.1 (sold out), 21+ $10 (sold out), THIRD WAVE $17.62 (sold out), DOORS $26.43",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.7287781,
+    "longitude": -80.3169309
+   },
+   "created": "2026-11-19T05:33:29.000Z"
+  },
+  {
    "id": "dice:6abbe1d7214d4c0001006f40",
    "source": "19hz+dice+edmtrain",
    "title": "RUMBLE IN THE JUNGLE: Nikki Nair + Nanoos",
@@ -973,6 +945,31 @@
    "url": "https://shotgun.live/events/clubperreo-4?utm_source=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/ale-acosta-hazon-549327"
+   ]
+  },
+  {
+   "id": "edmtrain:556522",
+   "source": "edmtrain",
+   "title": "Serge Devant",
+   "artists": [
+    "Serge Devant"
+   ],
+   "venue": "Beatrice Pizza Club",
+   "venue_slug": null,
+   "date": "2026-11-27",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1905 Collins Ave, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/this-week-thebeatrice?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/serge-devant-556522"
    ]
   },
   {
@@ -3008,9 +3005,11 @@
   {
    "id": "edmtrain:545267",
    "source": "edmtrain",
-   "title": "SG Lewis",
+   "title": "SG Lewis, LP Giobbi, Arielle Free",
    "artists": [
-    "SG Lewis"
+    "SG Lewis",
+    "LP Giobbi",
+    "Arielle Free"
    ],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
@@ -3027,7 +3026,7 @@
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/sg-lewis-02-dec",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/sg-lewis-545267"
+    "https://edmtrain.com/miami-fl/sg-lewis-lp-giobbi-545267"
    ]
   },
   {
@@ -3946,7 +3945,7 @@
    "time_estimated": false,
    "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
    "ages": "",
-   "price": "$28.00",
+   "price": "$35.00",
    "genres": [
     "alternative",
     "rap",
@@ -3956,7 +3955,7 @@
    "organizer": "Vice City World",
    "description": "18+ EVENT | PROMO CODE “777” FOR $5 OFF ART BASEL SHOWCASE FEATURING BOOHAVINN, Baby Bartier, Percaso, Holottacheese, Siruntre, Dxrop, Whotfis2k & more! Thursday, December 3, Vice City World brings Miami’s underground rap scene together for one night during Art Basel week. Get your tickets now and use code 777 to save $5!",
    "url": "https://shotgun.live/en/events/vice-city-world-art-basel-show-2026",
-   "tickets": "General Admission $30.84, BLACK FRIDAY TICKETS LIMITED $24.67",
+   "tickets": "General Admission $30.84, BLACK FRIDAY TICKETS LIMITED $24.67 (sold out)",
    "cancelled": false,
    "geo": {
     "@type": "GeoCoordinates",
@@ -7787,6 +7786,34 @@
    ]
   },
   {
+   "id": "edmtrain:556511",
+   "source": "edmtrain",
+   "title": "Art Week Pool Party: Rello, DEDRO, Derek Darko, Franky De Rey",
+   "artists": [
+    "Rello",
+    "DEDRO",
+    "Derek Darko",
+    "Franky De Rey"
+   ],
+   "venue": "The Goodtime Hotel",
+   "venue_slug": null,
+   "date": "2026-12-05",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "601 Washington Ave, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://goodtimehotelpoolparty.com/events/saturday-december-5th-at-goodtime-hotel-pool-party",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/art-week-pool-party-rello-556511"
+   ]
+  },
+  {
    "id": "edmtrain:552938",
    "source": "edmtrain",
    "title": "Skihouse",
@@ -7873,7 +7900,8 @@
    "description": "",
    "url": "https://bagatelle.com/events/miami-art-week-marco-carola-dec-6",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/bagatelle-sundays-art-week-closing-marco-carola-550499"
+    "https://edmtrain.com/miami-fl/bagatelle-sundays-art-week-closing-marco-carola-550499",
+    "https://edmtrain.com/miami-fl/marco-carola-556519"
    ]
   },
   {
@@ -13438,9 +13466,13 @@
   },
   {
    "id": "dice:6b09dd7cffd0de0001cd6619",
-   "source": "dice",
+   "source": "dice+edmtrain",
    "title": "Jeff Mills + Marcel Dettmann + Danny Daze",
-   "artists": [],
+   "artists": [
+    "Jeff Mills",
+    "Marcel Dettmann",
+    "Danny Daze"
+   ],
    "venue": "Club Space Miami",
    "venue_slug": "club-space",
    "date": "2027-01-08",
@@ -13458,7 +13490,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/6b09dd7cffd0de0001cd6619",
-   "cancelled": false
+   "cancelled": false,
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/jeff-mills-marcel-dettmann-556527"
+   ]
   },
   {
    "id": "hardrock:212385",
@@ -14804,9 +14839,11 @@
   },
   {
    "id": "19hz:4456120-lunalenthe",
-   "source": "19hz",
+   "source": "19hz+edmtrain",
    "title": "Luna & Lenthe",
-   "artists": [],
+   "artists": [
+    "Luna & Lenthe"
+   ],
    "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
    "date": "2027-01-30",
@@ -14822,7 +14859,10 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6ae22d1d0263c100015808b7"
+   "url": "https://dice.fm/event/6ae22d1d0263c100015808b7",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/luna-and-lenthe-556533"
+   ]
   },
   {
    "id": "dice:6af3854e0c25ed00014a7b8a",

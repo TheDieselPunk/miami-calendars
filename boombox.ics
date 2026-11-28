@@ -8,42 +8,24 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:black-friday-cover-show@shotgun.live
-DTSTAMP:20261124T041801Z
-LAST-MODIFIED:20261124T041801Z
-SEQUENCE:1
-DTSTART:20261127T230000Z
-DTEND:20261128T030000Z
-SUMMARY:Black Friday Cover Show
-LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
- \, USA
-DESCRIPTION:Black Friday Cover Show Featuring: Blink 182 Hatebreed Alice In
-  Chains Gorilla Biscuits $10 6 pm all ages\nPresented by: Equinox Booking
- \nTickets: General Admission $10\nhttps://shotgun.live/en/events/black-fri
- day-cover-show
-URL:https://shotgun.live/en/events/black-friday-cover-show
-STATUS:CONFIRMED
-GEO:25.7287781;-80.3169309
-END:VEVENT
-BEGIN:VEVENT
 UID:witchouse-rave@shotgun.live
-DTSTAMP:20261127T221758Z
-LAST-MODIFIED:20261127T221758Z
-SEQUENCE:7
-DTSTART:20261128T030000Z
-DTEND:20261128T080000Z
+DTSTAMP:20261128T041803Z
+LAST-MODIFIED:20261128T041803Z
+SEQUENCE:8
+DTSTART:20261128T040000Z
+DTEND:20261128T090000Z
 SUMMARY:Witchouse Rave
 LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
  \, USA
 DESCRIPTION:CLIPS CLIPS X JWELSET X EQUINOX BOOKING x TALK LESS JUST DANCE 
- ▲///▲///▲ WITCHOUSE RAVE 11/27/26 • 18+ • 10:00PM - 3:00AM ▲ S
- IDEWALKS AND SKELETONS B2B ESSEX ▲ JWELSET ▲ KITTY ▲ SOUND GUY * mor
- e djs to be announced EDM / DARKWAVE / WITCH HOUSE / + MORE DJS SPINNING M
- USIC BY S4LEM \, CRYSTAL CASTLES\,WHITE RING\, oOoOO\, SUMMER OF HAZE\, PA
- STEL GHOST\, + MORE NO REFUNDS! PHYSICAL ID ONLY\nTags: electronica\, drum
-  & bass\, hypnotic techno\nPresented by: Talk Less Just Dance\nTickets: Se
- cond tier 18+ $14.1 (sold out)\, 21+ $10 (sold out)\, THIRD WAVE $17.62\, 
- DOORS $26.43\nhttps://shotgun.live/en/events/witchouse-rave
+ ▲///▲///▲ WITCHOUSE RAVE 11/27/26 • 18+ • 11pm- 4pm ▲ SIDEWALK
+ S AND SKELETONS B2B ESSEX ▲ JWELSET ▲ KITTY ▲ SOUND GUY * more djs t
+ o be announced EDM / DARKWAVE / WITCH HOUSE / + MORE DJS SPINNING MUSIC BY
+  S4LEM \, CRYSTAL CASTLES\,WHITE RING\, oOoOO\, SUMMER OF HAZE\, PASTEL GH
+ OST\, + MORE NO REFUNDS! PHYSICAL ID ONLY\nTags: electronica\, drum & bass
+ \, hypnotic techno\nPresented by: Talk Less Just Dance\nTickets: Second ti
+ er 18+ $14.1 (sold out)\, 21+ $10 (sold out)\, THIRD WAVE $17.62 (sold out
+ )\, DOORS $26.43\nhttps://shotgun.live/en/events/witchouse-rave
 URL:https://shotgun.live/en/events/witchouse-rave
 STATUS:CONFIRMED
 CATEGORIES:electronica,drum & bass,hypnotic techno
@@ -96,9 +78,9 @@ GEO:25.7287781;-80.3169309
 END:VEVENT
 BEGIN:VEVENT
 UID:vice-city-world-art-basel-show-2026@shotgun.live
-DTSTAMP:20261127T101804Z
-LAST-MODIFIED:20261127T101804Z
-SEQUENCE:4
+DTSTAMP:20261128T041803Z
+LAST-MODIFIED:20261128T041803Z
+SEQUENCE:5
 DTSTART:20261203T220000Z
 DTEND:20261204T030000Z
 SUMMARY:Vice City World Art Basel Show 2026
@@ -111,8 +93,9 @@ DESCRIPTION:18+ EVENT | PROMO CODE “777” FOR $5 OFF ART BASEL SHOWCASE
  k. Get your tickets now and use code 777 to save $5!\nLineup: BabyBartier
  \, Boohavinn\, Percaso\, holottacheese\, Sir Untre\, Unitus\, Dxrop\, whot
  fis2k\nTags: alternative\, rap\, hip hop\nPresented by: Vice City World\nT
- ickets: General Admission $30.84\, BLACK FRIDAY TICKETS LIMITED $24.67\nht
- tps://shotgun.live/en/events/vice-city-world-art-basel-show-2026
+ ickets: General Admission $30.84\, BLACK FRIDAY TICKETS LIMITED $24.67 (so
+ ld out)\nhttps://shotgun.live/en/events/vice-city-world-art-basel-show-202
+ 6
 URL:https://shotgun.live/en/events/vice-city-world-art-basel-show-2026
 STATUS:CONFIRMED
 CATEGORIES:alternative,rap,hip hop
