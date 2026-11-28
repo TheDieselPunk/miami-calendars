@@ -9,19 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:tablelist-1a812eb5de36eab4@zeyzey.miami-calendars
-DTSTAMP:20261111T161829Z
-LAST-MODIFIED:20261111T161829Z
-SEQUENCE:1
+DTSTAMP:20261128T101757Z
+LAST-MODIFIED:20261128T101757Z
+SEQUENCE:2
 DTSTART:20261128T020000Z
 DTEND:20261128T070000Z
 SUMMARY:Reggaeton Rave
 LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: latin\nhttps://buy.tablelist.com/e/1a812eb5de36eab4\nhttp
- s://calendar.zeyzeymiami.com/shows/reggaeton-rave-27-nov\nhttps://calendar
- .zeyzeymiami.com/shows/romping-shop-27-nov
+DESCRIPTION:https://buy.tablelist.com/e/1a812eb5de36eab4
 URL:https://buy.tablelist.com/e/1a812eb5de36eab4
 STATUS:CONFIRMED
-CATEGORIES:latin
 END:VEVENT
 BEGIN:VEVENT
 UID:tablelist-515b312cd7dea586@zeyzey.miami-calendars
@@ -1038,5 +1035,20 @@ URL:https://shotgun.live/en/events/paloma-morphy-miami
 STATUS:CONFIRMED
 CATEGORIES:indie pop,latin,pop
 GEO:25.8327584;-80.1890685
+END:VEVENT
+BEGIN:VEVENT
+UID:zeyzey-ocean-alley-29-may@zeyzey.miami-calendars
+DTSTAMP:20261128T101757Z
+LAST-MODIFIED:20261128T101757Z
+SEQUENCE:0
+DTSTART:20270530T000000Z
+DTEND:20270530T050000Z
+SUMMARY:Ocean Alley
+LOCATION:ZeyZey Miami
+DESCRIPTION:Tags: indie/alternative\nhttps://calendar.zeyzeymiami.com/shows
+ /ocean-alley-29-may
+URL:https://calendar.zeyzeymiami.com/shows/ocean-alley-29-may
+STATUS:CONFIRMED
+CATEGORIES:indie/alternative
 END:VEVENT
 END:VCALENDAR

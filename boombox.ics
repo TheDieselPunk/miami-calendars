@@ -8,30 +8,6 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:witchouse-rave@shotgun.live
-DTSTAMP:20261128T041803Z
-LAST-MODIFIED:20261128T041803Z
-SEQUENCE:8
-DTSTART:20261128T040000Z
-DTEND:20261128T090000Z
-SUMMARY:Witchouse Rave
-LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
- \, USA
-DESCRIPTION:CLIPS CLIPS X JWELSET X EQUINOX BOOKING x TALK LESS JUST DANCE 
- ▲///▲///▲ WITCHOUSE RAVE 11/27/26 • 18+ • 11pm- 4pm ▲ SIDEWALK
- S AND SKELETONS B2B ESSEX ▲ JWELSET ▲ KITTY ▲ SOUND GUY * more djs t
- o be announced EDM / DARKWAVE / WITCH HOUSE / + MORE DJS SPINNING MUSIC BY
-  S4LEM \, CRYSTAL CASTLES\,WHITE RING\, oOoOO\, SUMMER OF HAZE\, PASTEL GH
- OST\, + MORE NO REFUNDS! PHYSICAL ID ONLY\nTags: electronica\, drum & bass
- \, hypnotic techno\nPresented by: Talk Less Just Dance\nTickets: Second ti
- er 18+ $14.1 (sold out)\, 21+ $10 (sold out)\, THIRD WAVE $17.62 (sold out
- )\, DOORS $26.43\nhttps://shotgun.live/en/events/witchouse-rave
-URL:https://shotgun.live/en/events/witchouse-rave
-STATUS:CONFIRMED
-CATEGORIES:electronica,drum & bass,hypnotic techno
-GEO:25.7287781;-80.3169309
-END:VEVENT
-BEGIN:VEVENT
 UID:the-boombox-equinox-bookings-presents-arythmia@shotgun.live
 DTSTAMP:20261003T101836Z
 LAST-MODIFIED:20261003T101836Z

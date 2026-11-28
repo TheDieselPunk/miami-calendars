@@ -1,13 +1,28 @@
 {
- "19hz-4449876-femmefrequencyma@mad-radio.miami-calendars": {
-  "hash": "e4d1b0d4d41cdcf1",
-  "seq": 0,
-  "modified": "2026-11-27T10:18:04+00:00"
- },
  "19hz-4449940-urgemiamifestiva@festivals.miami-calendars": {
   "hash": "ee2b50dcf5abe61f",
   "seq": 0,
   "modified": "2026-10-02T22:18:26+00:00"
+ },
+ "19hz-4449972-tompetersisraels@mad-radio.miami-calendars": {
+  "hash": "3cc1b6ae5c3d50c1",
+  "seq": 0,
+  "modified": "2026-11-28T10:17:57+00:00"
+ },
+ "19hz-4449976-quavo@daer.miami-calendars": {
+  "hash": "c3851c0356836473",
+  "seq": 0,
+  "modified": "2026-11-28T10:17:57+00:00"
+ },
+ "19hz-4449979-georgesmeddles@floyd.miami-calendars": {
+  "hash": "a0579f496e5bdf3e",
+  "seq": 0,
+  "modified": "2026-11-28T10:17:57+00:00"
+ },
+ "19hz-4449979-nikkinairnanoos@the-ground.miami-calendars": {
+  "hash": "b34fe4be4e530f2f",
+  "seq": 0,
+  "modified": "2026-11-28T10:17:57+00:00"
  },
  "19hz-4449979-omaks@domicile.miami-calendars": {
   "hash": "215aa0adcdc2c75b",
@@ -300,9 +315,9 @@
   "modified": "2026-10-26T10:18:03+00:00"
  },
  "dice-6ab17e0bf1fdd8000191620e@club-space.miami-calendars": {
-  "hash": "cbeaec43d9891965",
-  "seq": 4,
-  "modified": "2026-11-24T04:18:01+00:00"
+  "hash": "1551b757e5259be9",
+  "seq": 5,
+  "modified": "2026-11-28T10:17:57+00:00"
  },
  "dice-6ab3a356f3be0b000115831c@jolene.miami-calendars": {
   "hash": "6239e408707cefff",
@@ -349,11 +364,6 @@
   "seq": 1,
   "modified": "2026-10-21T10:18:16+00:00"
  },
- "dice-6abbe1d7214d4c0001006f40@the-ground.miami-calendars": {
-  "hash": "11d8c3aa4e331049",
-  "seq": 3,
-  "modified": "2026-11-21T16:18:03+00:00"
- },
  "dice-6abbe310b2412f00017024b3@the-ground.miami-calendars": {
   "hash": "2aabb7113119fb12",
   "seq": 1,
@@ -363,11 +373,6 @@
   "hash": "86f8de9906c9d600",
   "seq": 0,
   "modified": "2026-11-13T10:18:29+00:00"
- },
- "dice-6abe821acf1f4100010d2096@floyd.miami-calendars": {
-  "hash": "f9793af2a35bec31",
-  "seq": 3,
-  "modified": "2026-10-31T04:18:09+00:00"
  },
  "dice-6abe8450c57ae3000126d8c3@floyd.miami-calendars": {
   "hash": "9d2c971f9b5debc6",
@@ -824,11 +829,6 @@
   "seq": 3,
   "modified": "2026-11-21T22:18:05+00:00"
  },
- "hardrock-206020@daer.miami-calendars": {
-  "hash": "a61fd87f198550d8",
-  "seq": 3,
-  "modified": "2026-11-21T16:18:03+00:00"
- },
  "hardrock-206021@daer.miami-calendars": {
   "hash": "e78964e1617b86ef",
   "seq": 2,
@@ -1134,11 +1134,6 @@
   "seq": 0,
   "modified": "2026-11-10T22:18:24+00:00"
  },
- "hardrock-215985@daer.miami-calendars": {
-  "hash": "d7322d33dc095bdf",
-  "seq": 0,
-  "modified": "2026-11-23T22:17:57+00:00"
- },
  "humans-alike-sundays-nov-29@shotgun.live": {
   "hash": "5ad9b20aa102e613",
   "seq": 2,
@@ -1153,11 +1148,6 @@
   "hash": "472a51dfc48b32dd",
   "seq": 0,
   "modified": "2026-11-18T04:18:24+00:00"
- },
- "madradiomiami112726@shotgun.live": {
-  "hash": "9d09a7cef521b6b9",
-  "seq": 2,
-  "modified": "2026-11-13T10:18:29+00:00"
  },
  "madradiomiami112826@shotgun.live": {
   "hash": "d23d01495d446a27",
@@ -1235,9 +1225,9 @@
   "modified": "2026-11-01T10:17:57+00:00"
  },
  "tablelist-1a812eb5de36eab4@zeyzey.miami-calendars": {
-  "hash": "ea46cbf86d20651e",
-  "seq": 1,
-  "modified": "2026-11-11T16:18:29+00:00"
+  "hash": "53b7ee2b257fe887",
+  "seq": 2,
+  "modified": "2026-11-28T10:17:57+00:00"
  },
  "tablelist-515b312cd7dea586@zeyzey.miami-calendars": {
   "hash": "073528fe942e06a5",
@@ -1273,11 +1263,6 @@
   "hash": "e8bcee0f5fa18197",
   "seq": 0,
   "modified": "2026-11-21T04:18:09+00:00"
- },
- "witchouse-rave@shotgun.live": {
-  "hash": "909d515fb882ac6a",
-  "seq": 8,
-  "modified": "2026-11-28T04:18:03+00:00"
  },
  "xmas-x-the-hall-x-shyft-x-circle@shotgun.live": {
   "hash": "e69a41f4b0c0c498",
@@ -1448,6 +1433,11 @@
   "hash": "4b5e50fdaa093856",
   "seq": 3,
   "modified": "2026-11-05T16:18:02+00:00"
+ },
+ "zeyzey-ocean-alley-29-may@zeyzey.miami-calendars": {
+  "hash": "9469576c03a87161",
+  "seq": 0,
+  "modified": "2026-11-28T10:17:57+00:00"
  },
  "zeyzey-omni-soundspace-presents-black-rave-culture-shekdash-sky-jetta-09-jan@zeyzey.miami-calendars": {
   "hash": "960f983eb982f963",
