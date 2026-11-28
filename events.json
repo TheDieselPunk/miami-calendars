@@ -89,13 +89,9 @@
   },
   {
    "id": "19hz:4449972-gaebmewshajonroc",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Gaeb, Mewsha, Jon Roc",
-   "artists": [
-    "Gaeb",
-    "Mewsha",
-    "Jon Roc"
-   ],
+   "artists": [],
    "venue": "Aire",
    "venue_slug": null,
    "date": "2026-11-27",
@@ -111,10 +107,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/gaeb-mewsha-jon-roc",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/gaeb-mewsha-551443"
-   ]
+   "url": "https://shotgun.live/en/events/gaeb-mewsha-jon-roc"
   },
   {
    "id": "19hz:4449972-sobeafterdarkbla",
@@ -168,12 +161,9 @@
   },
   {
    "id": "19hz:4449972-tompetersisraels",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Tom Peters / Israel Sunshine",
-   "artists": [
-    "Tom Peters",
-    "Israel Sunshine"
-   ],
+   "artists": [],
    "venue": "Mad Radio",
    "venue_slug": "mad-radio",
    "date": "2026-11-27",
@@ -191,10 +181,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/madradiomiami112726",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/tom-peters-israel-sunshine-550572"
-   ]
+   "url": "https://shotgun.live/en/events/madradiomiami112726"
   },
   {
    "id": "tablelist:1a812eb5de36eab4",
@@ -263,12 +250,9 @@
   },
   {
    "id": "19hz:4449976-sanderkleinenber",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Sander Kleinenberg",
-   "artists": [
-    "Sander Kleinenberg",
-    "Lucas Zárate"
-   ],
+   "artists": [],
    "venue": "Do Not Sit On The Furniture",
    "venue_slug": null,
    "date": "2026-11-27",
@@ -285,10 +269,7 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6aabf7a1a39fdf0001005e00",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/sander-kleinenberg-lucas-zarate-538079"
-   ]
+   "url": "https://dice.fm/event/6aabf7a1a39fdf0001005e00"
   },
   {
    "id": "19hz:4449976-blackweekendpass",
@@ -315,12 +296,9 @@
   },
   {
    "id": "19hz:4449976-lightleakrello",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Lightleak, Rello",
-   "artists": [
-    "LIGHTLEAK",
-    "Rello"
-   ],
+   "artists": [],
    "venue": "Edge",
    "venue_slug": null,
    "date": "2026-11-27",
@@ -338,14 +316,11 @@
    "genres_inferred": false,
    "organizer": "Frqnc",
    "description": "",
-   "url": "https://dice.fm/event/r32dwv-lightleak-rello-edge-27th-nov-edge-miami-miami-tickets",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/lightleak-rello-555095"
-   ]
+   "url": "https://dice.fm/event/r32dwv-lightleak-rello-edge-27th-nov-edge-miami-miami-tickets"
   },
   {
    "id": "dice:6aea70fe16528500017b9334",
-   "source": "19hz+dice+edmtrain",
+   "source": "19hz+dice",
    "title": "Generous B Presents",
    "artists": [],
    "venue": "Jolene Sound Room Miami",
@@ -368,17 +343,14 @@
    "url": "https://dice.fm/event/6aea70fe16528500017b9334",
    "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/6aea70fe16528500017b9334",
-    "https://edmtrain.com/miami-fl/generous-b-presents-549860"
+    "https://dice.fm/event/6aea70fe16528500017b9334"
    ]
   },
   {
    "id": "dice:6aaae809e78bd300017554b1",
-   "source": "19hz+dice+edmtrain",
+   "source": "19hz+dice",
    "title": "SPACE 92",
-   "artists": [
-    "Space 92"
-   ],
+   "artists": [],
    "venue": "Kemistry",
    "venue_slug": "kemistry",
    "date": "2026-11-27",
@@ -387,7 +359,7 @@
    "time_estimated": false,
    "address": "307 Southwest 2nd Street, Fort Lauderdale, Florida 33312, United States",
    "ages": "18+",
-   "price": "From $26",
+   "price": "$19.84",
    "genres": [
     "techno"
    ],
@@ -397,8 +369,7 @@
    "url": "https://dice.fm/event/8e7g5w-space-92-27th-nov-kemistry-fort-lauderdale-tickets",
    "cancelled": false,
    "alt_urls": [
-    "https://dice.fm/event/8e7g5w-space-92-27th-nov-kemistry-fort-lauderdale-tickets",
-    "https://edmtrain.com/fort-lauderdale-fl/space-92-538122"
+    "https://dice.fm/event/8e7g5w-space-92-27th-nov-kemistry-fort-lauderdale-tickets"
    ]
   },
   {
@@ -427,7 +398,7 @@
   },
   {
    "id": "19hz:4449976-somewhereundergr",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Somewhere Underground @ Nowhere",
    "artists": [],
    "venue": "Nowhere Ftl",
@@ -446,20 +417,13 @@
    "genres_inferred": false,
    "organizer": "Nowhere Ftl",
    "description": "",
-   "url": "https://posh.vip/e/somewhere-underground-nowhere-2",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/somewhere-underground-543191"
-   ]
+   "url": "https://posh.vip/e/somewhere-underground-nowhere-2"
   },
   {
    "id": "19hz:4449976-mojirivastarrpea",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Moji, Riva Starr, Peace Control, Hakuna, Matt E Love",
-   "artists": [
-    "Moji",
-    "Riva Starr",
-    "Peace Control"
-   ],
+   "artists": [],
    "venue": "Sable",
    "venue_slug": null,
    "date": "2026-11-27",
@@ -476,54 +440,35 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://shotgun.live/en/events/moji-riva-starr-peace-control-special-guest-sable",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/moji-riva-starr-555165"
-   ]
+   "url": "https://shotgun.live/en/events/moji-riva-starr-peace-control-special-guest-sable"
   },
   {
-   "id": "dice:6ab17e0bf1fdd8000191620e",
-   "source": "19hz+dice+edmtrain",
+   "id": "19hz:4449979-teletech",
+   "source": "19hz",
    "title": "Teletech",
-   "artists": [
-    "Adrián Mills",
-    "Benwal",
-    "Danyelino",
-    "Hannah Laing",
-    "Ultrathem"
-   ],
-   "venue": "Club Space Miami",
+   "artists": [],
+   "venue": "Club Space",
    "venue_slug": "club-space",
    "date": "2026-11-27",
    "start": "2026-11-28T04:00:00+00:00",
    "end": "2026-11-28T19:00:00+00:00",
    "time_estimated": false,
-   "address": "34 NE 11th St, Miami, FL 33132, USA",
+   "address": "",
    "ages": "21+",
-   "price": "From $20",
+   "price": "$20+",
    "genres": [
-    "electro",
-    "hard techno",
-    "tech house"
+    "hard techno"
    ],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://dice.fm/event/6ab17e0bf1fdd8000191620e",
-   "cancelled": false,
-   "alt_urls": [
-    "https://link.dice.fm/rumblegroundnov",
-    "https://dice.fm/event/6ab17e0bf1fdd8000191620e",
-    "https://edmtrain.com/miami-fl/teletech-adrian-mills-538703"
-   ]
+   "url": "https://dice.fm/event/6ab17e0bf1fdd8000191620e"
   },
   {
    "id": "19hz:4449979-omaks",
-   "source": "19hz+edmtrain",
+   "source": "19hz",
    "title": "Omaks",
-   "artists": [
-    "OMAKS"
-   ],
+   "artists": [],
    "venue": "Domicile",
    "venue_slug": "domicile",
    "date": "2026-11-27",
@@ -542,27 +487,20 @@
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://ra.co/events/2574009",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/omaks-548810"
-   ]
+   "url": "https://ra.co/events/2574009"
   },
   {
-   "id": "19hz:4449979-georgesmeddles",
-   "source": "19hz+edmtrain",
-   "title": "George Smeddles",
-   "artists": [
-    "George Smeddles",
-    "Siegel",
-    "Vivi Santana"
-   ],
+   "id": "dice:6abe821acf1f4100010d2096",
+   "source": "19hz+dice",
+   "title": "INSULATE: George Smeddles",
+   "artists": [],
    "venue": "Floyd Miami",
    "venue_slug": "floyd",
    "date": "2026-11-27",
    "start": "2026-11-28T04:00:00+00:00",
    "end": "2026-11-28T10:00:00+00:00",
    "time_estimated": false,
-   "address": "",
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
    "price": "$15",
    "genres": [
@@ -573,25 +511,23 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/q235ky-insulate-27th-nov-floyd-miami-miami-tickets",
+   "cancelled": false,
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/george-smeddles-siegel-547528"
+    "https://dice.fm/event/q235ky-insulate-27th-nov-floyd-miami-miami-tickets"
    ]
   },
   {
-   "id": "19hz:4449979-nikkinairnanoos",
-   "source": "19hz+edmtrain",
-   "title": "Nikki Nair, Nanoos",
-   "artists": [
-    "Nikki Nair",
-    "Nanoos"
-   ],
-   "venue": "The Ground",
+   "id": "dice:6abbe1d7214d4c0001006f40",
+   "source": "19hz+dice",
+   "title": "RUMBLE IN THE JUNGLE: Nikki Nair + Nanoos",
+   "artists": [],
+   "venue": "The Ground Miami",
    "venue_slug": "the-ground",
    "date": "2026-11-27",
    "start": "2026-11-28T04:00:00+00:00",
    "end": "2026-11-28T12:00:00+00:00",
    "time_estimated": false,
-   "address": "",
+   "address": "34 NE 11th St, Miami, FL 33132, USA",
    "ages": "21+",
    "price": "$10+",
    "genres": [
@@ -602,8 +538,10 @@
    "organizer": "",
    "description": "",
    "url": "https://dice.fm/event/wwnv3v-rumble-in-the-jungle-nikki-nair-nanoos-27th-nov-the-ground-miami-miami-tickets",
+   "cancelled": false,
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/rumble-in-the-jungle-nikki-nair-541195"
+    "https://dice.fm/event/wwnv3v-rumble-in-the-jungle-nikki-nair-nanoos-27th-nov-the-ground-miami-miami-tickets",
+    "https://link.dice.fm/rumblegroundnov"
    ]
   },
   {
@@ -627,201 +565,6 @@
    "organizer": "",
    "description": "",
    "url": "https://music.mila-miami.com/"
-  },
-  {
-   "id": "edmtrain:555502",
-   "source": "edmtrain",
-   "title": "Free Acid: Gunk",
-   "artists": [
-    "Gunk"
-   ],
-   "venue": "1395 NW 57th Ave",
-   "venue_slug": null,
-   "date": "2026-11-27",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "1395 NW 57th Ave, Miami, FL 33126, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://ra.co/events/2528921",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/free-acid-gunk-555502"
-   ]
-  },
-  {
-   "id": "edmtrain:549327",
-   "source": "edmtrain",
-   "title": "Ale Acosta, Hazon, TRIPPIE HIPPIE, Lupreme",
-   "artists": [
-    "Ale Acosta",
-    "Hazon",
-    "TRIPPIE HIPPIE",
-    "Lupreme"
-   ],
-   "venue": "777 NE 79th St",
-   "venue_slug": null,
-   "date": "2026-11-27",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "777 NE 79th St, Miami, FL 33138, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://shotgun.live/events/clubperreo-4?utm_source=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/ale-acosta-hazon-549327"
-   ]
-  },
-  {
-   "id": "edmtrain:556522",
-   "source": "edmtrain",
-   "title": "Serge Devant",
-   "artists": [
-    "Serge Devant"
-   ],
-   "venue": "Beatrice Pizza Club",
-   "venue_slug": null,
-   "date": "2026-11-27",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "1905 Collins Ave, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://posh.vip/e/this-week-thebeatrice?t=edmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/serge-devant-556522"
-   ]
-  },
-  {
-   "id": "edmtrain:546509",
-   "source": "edmtrain",
-   "title": "Pagano, Tom Stephan",
-   "artists": [
-    "Pagano",
-    "Tom Stephan"
-   ],
-   "venue": "Eagle Wilton Manors",
-   "venue_slug": null,
-   "date": "2026-11-27",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "2209 Wilton Dr, Wilton Manors, FL 33305, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://dice.fm/event/7d9m6p?pid=d6342b83",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/pagano-tom-stephan-546509"
-   ]
-  },
-  {
-   "id": "edmtrain:550758",
-   "source": "edmtrain",
-   "title": "Saxony Bar: Frank Delour",
-   "artists": [
-    "Frank Delour"
-   ],
-   "venue": "Faena Hotel",
-   "venue_slug": null,
-   "date": "2026-11-27",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "3201 Collins Ave, Miami Beach, FL 33140, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/saxony-bar",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/saxony-bar-frank-delour-550758"
-   ]
-  },
-  {
-   "id": "edmtrain:539771",
-   "source": "edmtrain",
-   "title": "Urge Miami: ADHAM, Cesar Hernandz, DJ Deanne, Deep Cleansing, Eliad Cohen, GSP, Isis Muretech, Jace M, Juka, Jerac, Joey with the Mustache, Junyo, Naim Zarzour, Raul Mata, Robincal Fajardo, Sharon O Love",
-   "artists": [
-    "ADHAM",
-    "Cesar Hernandz",
-    "DJ Deanne",
-    "Deep Cleansing",
-    "Eliad Cohen",
-    "GSP",
-    "Isis Muretech",
-    "Jace M",
-    "Juka",
-    "Jerac",
-    "Joey with the Mustache",
-    "Junyo",
-    "Naim Zarzour",
-    "Raul Mata",
-    "Robincal Fajardo",
-    "Sharon O Love"
-   ],
-   "venue": "Miami (Multiple Venues)",
-   "venue_slug": null,
-   "date": "2026-11-27",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "Miami, FL, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.eventbrite.com/e/1987540335647?aff=ebdimtedmtrain",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/urge-miami-539771"
-   ]
-  },
-  {
-   "id": "edmtrain:547837",
-   "source": "edmtrain",
-   "title": "Rooftop Sessions x Discoluminati: Yung Bae, MGR Mike",
-   "artists": [
-    "Yung Bae",
-    "MGR Mike"
-   ],
-   "venue": "Rooftop @1WLO",
-   "venue_slug": null,
-   "date": "2026-11-27",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "1 W Las Olas Blvd #700, Fort Lauderdale, FL 33301, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://laylo.com/discoluminati/m/o95Fuf",
-   "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/rooftop-sessions-x-discoluminati-yung-bae-547837"
-   ]
   },
   {
    "id": "hardrock:205541",
@@ -2307,7 +2050,7 @@
   {
    "id": "edmtrain:533949",
    "source": "edmtrain",
-   "title": "NINE1NINE Miami Art Week: Emkay",
+   "title": "Emkay",
    "artists": [
     "Emkay"
    ],
@@ -2326,7 +2069,7 @@
    "description": "",
    "url": "https://speakeasygo.com/event/EVE-269ESQ?t=edmtrain",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/nine1nine-miami-art-week-emkay-533949"
+    "https://edmtrain.com/miami-fl/emkay-533949"
    ]
   },
   {
@@ -3235,7 +2978,7 @@
    "cancelled": false,
    "alt_urls": [
     "https://dice.fm/event/6ab443f8697fd600018d79bd",
-    "https://edmtrain.com/miami-fl/basel-benny-benassi-539604"
+    "https://edmtrain.com/miami-fl/benny-benassi-mutant-pete-539604"
    ]
   },
   {
@@ -3755,9 +3498,14 @@
   },
   {
    "id": "zeyzey:through-the-wall-afters-with-rochelle-jordan-live-special-guests-03-dec",
-   "source": "19hz+venue",
+   "source": "19hz+edmtrain+venue",
    "title": "Beatport Live: Rochelle Jordan (LIVE), salute, Todd Edwards, Hercules & Love Affair (DJ), CHRYSALIS",
-   "artists": [],
+   "artists": [
+    "Rochelle Jordan",
+    "Todd Edwards",
+    "Hercules & Love Affair",
+    "CHRYSALIS"
+   ],
    "venue": "ZeyZey Miami",
    "venue_slug": "zeyzey",
    "date": "2026-12-03",
@@ -3777,7 +3525,8 @@
    "url": "https://calendar.zeyzeymiami.com/shows/through-the-wall-afters-with-rochelle-jordan-live-special-guests-03-dec",
    "cancelled": false,
    "alt_urls": [
-    "https://ra.co/events/2570591"
+    "https://ra.co/events/2570591",
+    "https://edmtrain.com/miami-fl/beatport-live-rochelle-jordan-551109"
    ]
   },
   {
@@ -4272,7 +4021,7 @@
    "cancelled": false,
    "alt_urls": [
     "https://dice.fm/event/92k2p7-level-up-cyclops-cove-pre-party-3rd-dec-kemistry-fort-lauderdale-tickets",
-    "https://edmtrain.com/fort-lauderdale-fl/cyclops-cove-pre-party-level-up-525244"
+    "https://edmtrain.com/fort-lauderdale-fl/level-up-vicky-b-525244"
    ]
   },
   {
@@ -4394,7 +4143,7 @@
    "alt_urls": [
     "https://dice.fm/event/6aa05356c1a81a000145fda3",
     "https://link.dice.fm/rawcutsbasel",
-    "https://edmtrain.com/miami-fl/paradise-space-basel-2026-fleur-shore-535407"
+    "https://edmtrain.com/miami-fl/fleur-shore-manda-moor-535407"
    ]
   },
   {
@@ -5626,7 +5375,6 @@
    "artists": [
     "A-Trak",
     "Melé",
-    "BNYX",
     "Natasha Diggs"
    ],
    "venue": "ZeyZey Miami",
@@ -6033,30 +5781,29 @@
    ]
   },
   {
-   "id": "edmtrain:555872",
+   "id": "edmtrain:556622",
    "source": "edmtrain",
-   "title": "COFFEEANDBEATS ART BASEL: Lizzy Jane, Thats Rocky, Waitless",
+   "title": "Intriga x Boho House - Art Basel day party Vol. 6: Santelises, Goa '98",
    "artists": [
-    "Lizzy Jane",
-    "Thats Rocky",
-    "Waitless"
+    "Santelises",
+    "Goa '98"
    ],
-   "venue": "Libertino Cafe",
+   "venue": "BOHO Wynwood",
    "venue_slug": "festivals",
    "date": "2026-12-05",
    "start": "2026-12-05T20:00:00+00:00",
    "end": "2026-12-06T07:00:00+00:00",
    "time_estimated": true,
-   "address": "220 NW 24th St, Miami, FL 33127, USA",
+   "address": "85 NW 25th St, Miami, FL 33127, USA",
    "ages": "",
    "price": "",
    "genres": [],
    "genres_inferred": false,
    "organizer": "",
    "description": "",
-   "url": "https://posh.vip/e/coffeeandbeats-x-libertino-cafe-art-basel?t=edmtrain",
+   "url": "https://shotgun.live/events/intriga-x-boho-house-art-basel-day-party-vol-6?utm_source=edmtrain",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/coffeeandbeats-art-basel-lizzy-jane-555872"
+    "https://edmtrain.com/miami-fl/intriga-x-boho-house-art-basel-day-party-vol-6-santelises-556622"
    ]
   },
   {
@@ -6107,6 +5854,29 @@
    "url": "https://posh.vip/e/novo-flow-art-basel-3-day-experience?t=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/art-basel-3-day-pool-party-552131"
+   ]
+  },
+  {
+   "id": "edmtrain:556645",
+   "source": "edmtrain",
+   "title": "Art Basel x Run N Rave x Paraiso Cafe x Something Chill x Jade Space x Collabaret x Pickle",
+   "artists": [],
+   "venue": "Paraiso Market Cafe",
+   "venue_slug": "festivals",
+   "date": "2026-12-05",
+   "start": "2026-12-05T20:00:00+00:00",
+   "end": "2026-12-06T07:00:00+00:00",
+   "time_estimated": true,
+   "address": "3131 NE 7th Ave, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/art-basel-x-run-n-rave-x-paraiso-cafe-x-something-chill-x-jade-space-x-collabaret-1?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/art-basel-x-run-n-rave-x-paraiso-cafe-x-something-chill-x-jade-space-x-collabaret-x-pickle-556645"
    ]
   },
   {
@@ -6981,7 +6751,7 @@
    "cancelled": false,
    "alt_urls": [
     "https://dice.fm/event/6aa82e05fcb1030001a9cd65",
-    "https://edmtrain.com/miami-fl/circoloco-miami-536726"
+    "https://edmtrain.com/miami-fl/aline-umber-beltran-536726"
    ],
    "also": [
     "festivals"
@@ -7387,6 +7157,33 @@
    ]
   },
   {
+   "id": "edmtrain:555872",
+   "source": "edmtrain",
+   "title": "Lizzy Jane, Thats Rocky, Waitless",
+   "artists": [
+    "Lizzy Jane",
+    "Thats Rocky",
+    "Waitless"
+   ],
+   "venue": "Libertino Cafe",
+   "venue_slug": null,
+   "date": "2026-12-05",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "220 NW 24th St, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://posh.vip/e/coffeeandbeats-x-libertino-cafe-art-basel?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/lizzy-jane-thats-rocky-555872"
+   ]
+  },
+  {
    "id": "edmtrain:554186",
    "source": "edmtrain",
    "title": "Section's One Year Anniversary: TBA",
@@ -7522,10 +7319,10 @@
   {
    "id": "edmtrain:556511",
    "source": "edmtrain",
-   "title": "Art Week Pool Party: Rello, DEDRO, Derek Darko, Franky De Rey",
+   "title": "DEDRO b2b Rello, Derek Darko, Franky De Rey",
    "artists": [
-    "Rello",
     "DEDRO",
+    "Rello",
     "Derek Darko",
     "Franky De Rey"
    ],
@@ -7544,7 +7341,7 @@
    "description": "",
    "url": "https://goodtimehotelpoolparty.com/events/saturday-december-5th-at-goodtime-hotel-pool-party",
    "alt_urls": [
-    "https://edmtrain.com/miami-fl/art-week-pool-party-rello-556511"
+    "https://edmtrain.com/miami-fl/dedro-rello-556511"
    ]
   },
   {
@@ -7786,15 +7583,9 @@
   },
   {
    "id": "shotgun:mixmax-caribbean-overtones",
-   "source": "19hz+edmtrain+shotgun",
+   "source": "19hz+shotgun",
    "title": "Mixmag Caribbean Sessions X Overtones",
-   "artists": [
-    "Alves",
-    "Franc Fala",
-    "Harvy Valencia",
-    "Rello",
-    "Tony Guerra"
-   ],
+   "artists": [],
    "venue": "EDGE MIAMI",
    "venue_slug": null,
    "date": "2026-12-06",
@@ -7814,8 +7605,7 @@
    "description": "",
    "url": "https://shotgun.live/en/events/mixmax-caribbean-overtones",
    "alt_urls": [
-    "https://shotgun.live/events/mixmax-caribbean-overtones",
-    "https://edmtrain.com/miami-fl/mixmag-caribbean-sessions-alves-555957"
+    "https://shotgun.live/events/mixmax-caribbean-overtones"
    ]
   },
   {
@@ -8150,6 +7940,35 @@
    "url": "https://spkeasy.com/event/EVE-CMLN3J?t=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/nine1nine-miami-art-week-552832"
+   ]
+  },
+  {
+   "id": "edmtrain:555957",
+   "source": "edmtrain",
+   "title": "Alves, Franc Fala, Harvy Valencia, Rello, Tony Guerra",
+   "artists": [
+    "Alves",
+    "Franc Fala",
+    "Harvy Valencia",
+    "Rello",
+    "Tony Guerra"
+   ],
+   "venue": "Edge Miami",
+   "venue_slug": null,
+   "date": "2026-12-06",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "114 NE 20th Terrace, Miami, FL 33137, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://ra.co/events/2566875",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/alves-franc-fala-555957"
    ]
   },
   {
@@ -8978,7 +8797,7 @@
   {
    "id": "shotgun:ella-romand-dec-12",
    "source": "shotgun",
-   "title": "Ella Romand & More",
+   "title": "Ella Romand (Hybrid Birthday Set)",
    "artists": [],
    "venue": "AIRE Miami",
    "venue_slug": null,
@@ -9700,9 +9519,34 @@
    "cancelled": false
   },
   {
+   "id": "edmtrain:556615",
+   "source": "edmtrain",
+   "title": "The Kimonos",
+   "artists": [
+    "The Kimonos"
+   ],
+   "venue": "Bagatelle Miami River",
+   "venue_slug": null,
+   "date": "2026-12-13",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "311 NW S River Dr, Miami, FL 33128, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://spkeasy.com/event/EVE-7Z6TWX?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/the-kimonos-556615"
+   ]
+  },
+  {
    "id": "edmtrain:556077",
    "source": "edmtrain",
-   "title": "Paradise Found Presents: Wenzday",
+   "title": "Wenzday",
    "artists": [
     "Wenzday"
    ],
@@ -9721,7 +9565,7 @@
    "description": "",
    "url": "https://posh.vip/e/paradise-found-presents-wenzday?t=edmtrain",
    "alt_urls": [
-    "https://edmtrain.com/fort-lauderdale-fl/paradise-found-presents-wenzday-556077"
+    "https://edmtrain.com/fort-lauderdale-fl/wenzday-556077"
    ]
   },
   {
@@ -10089,7 +9933,7 @@
    "cancelled": false,
    "alt_urls": [
     "https://dice.fm/event/7dxyd9-the-resistance-18th-dec-kemistry-fort-lauderdale-tickets",
-    "https://edmtrain.com/fort-lauderdale-fl/rise-of-the-shadowcell-the-resistance-524125"
+    "https://edmtrain.com/fort-lauderdale-fl/the-resistance-automhate-vyle-set-524125"
    ]
   },
   {
@@ -10251,6 +10095,31 @@
    "url": "https://shotgun.live/events/the-hall-club-monkey-safari?utm_source=edmtrain",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/monkey-safari-polk-552388"
+   ]
+  },
+  {
+   "id": "edmtrain:556634",
+   "source": "edmtrain",
+   "title": "Un_Mute Presents: Liquid Earth (Urulu)",
+   "artists": [
+    "Liquid Earth (Urulu)"
+   ],
+   "venue": "Fooq's",
+   "venue_slug": null,
+   "date": "2026-12-18",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "150 NW 73rd St, Miami, FL 33150, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/qnxd6x?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/un-mute-presents-liquid-earth-urulu-556634"
    ]
   },
   {
@@ -10555,6 +10424,41 @@
    "url": "https://dice.fm/event/oe9kwy-cyclops-machaki-sportmode-19th-dec-studio-60-miami-miami-tickets",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/cyclops-machaki-534106"
+   ]
+  },
+  {
+   "id": "shotgun:furry-rave",
+   "source": "edmtrain+shotgun",
+   "title": "Furry Rave",
+   "artists": [],
+   "venue": "The Boombox Miami",
+   "venue_slug": "boombox",
+   "date": "2026-12-19",
+   "start": "2026-12-20T03:00:00+00:00",
+   "end": "2026-12-20T08:00:00+00:00",
+   "time_estimated": false,
+   "address": "4447 Southwest 75th Avenue, Miami, FL 33155, USA",
+   "ages": "",
+   "price": "$6.14",
+   "genres": [
+    "gabber",
+    "hyperpop",
+    "techno"
+   ],
+   "genres_inferred": false,
+   "organizer": "Talk Less Just Dance",
+   "description": "🐾 MIAMI, WE’RE THROWING A FURRY RAVE WITH CHUNGUS MIAMI X CHUD IN MIAMI ;) TAG YOUR FAVORITE LOCAL DJS YOU WANNA SEE PLAY!! Expect fursuits, DJs, a fursuit competition, a ball pit (YES, THE BALL PIT IS BACK) IFYK Bring your fursona, bring your friends, and come dance with us :3 18+ RAVE PHYSICAL ID ONLY",
+   "url": "https://shotgun.live/en/events/furry-rave",
+   "tickets": "18+ FIRST TIER $10, 21+ FIRST TIER $5.14",
+   "cancelled": false,
+   "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 25.7287781,
+    "longitude": -80.3169309
+   },
+   "created": "2026-11-28T11:24:32.000Z",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/furry-rave-556653"
    ]
   },
   {
@@ -10863,6 +10767,33 @@
    "description": "",
    "url": "https://dice.fm/event/6ae219d6be58e900015632e5",
    "cancelled": false
+  },
+  {
+   "id": "edmtrain:556616",
+   "source": "edmtrain",
+   "title": "Dorian Craft, Baron, Baron",
+   "artists": [
+    "Dorian Craft",
+    "Baron",
+    "Baron"
+   ],
+   "venue": "Bagatelle Miami River",
+   "venue_slug": null,
+   "date": "2026-12-20",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "311 NW S River Dr, Miami, FL 33128, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://spkeasy.com/event/EVE-FCMLRN?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/dorian-craft-baron-556616"
+   ]
   },
   {
    "id": "19hz:4452367-arielassault",
@@ -11633,6 +11564,31 @@
    "cancelled": false,
    "alt_urls": [
     "https://edmtrain.com/miami-fl/chico-rose-jeff-sorkowitz-556097"
+   ]
+  },
+  {
+   "id": "edmtrain:556617",
+   "source": "edmtrain",
+   "title": "Guy Gerber",
+   "artists": [
+    "Guy Gerber"
+   ],
+   "venue": "Bagatelle Miami River",
+   "venue_slug": null,
+   "date": "2026-12-27",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "311 NW S River Dr, Miami, FL 33128, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://spkeasy.com/event/EVE-2DGUW8?t=edmtrain",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/guy-gerber-556617"
    ]
   },
   {
@@ -12998,33 +12954,6 @@
    "created": "2026-11-18T23:47:28.000Z"
   },
   {
-   "id": "edmtrain:555501",
-   "source": "edmtrain",
-   "title": "Afterservice: Morabito, Miguel Clark, Naim Zarzour",
-   "artists": [
-    "Morabito",
-    "Miguel Clark",
-    "Naim Zarzour"
-   ],
-   "venue": "1235 Washington Ave",
-   "venue_slug": null,
-   "date": "2027-01-02",
-   "start": null,
-   "end": null,
-   "time_estimated": false,
-   "address": "1235 Washington Ave, Miami Beach, FL 33139, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://www.tixr.com/pr/edmtrain/215980",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/afterservice-morabito-555501"
-   ]
-  },
-  {
    "id": "edmtrain:555424",
    "source": "edmtrain",
    "title": "CamelPhat",
@@ -13047,6 +12976,33 @@
    "url": "https://resistancemiami.com/tickets/january-2-camelphat/",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/camelphat-555424"
+   ]
+  },
+  {
+   "id": "edmtrain:555501",
+   "source": "edmtrain",
+   "title": "Morabito, Miguel Clark, Naim Zarzour",
+   "artists": [
+    "Morabito",
+    "Miguel Clark",
+    "Naim Zarzour"
+   ],
+   "venue": "1235 Washington Ave",
+   "venue_slug": null,
+   "date": "2027-01-02",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "1235 Washington Ave, Miami Beach, FL 33139, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://www.tixr.com/pr/edmtrain/215980",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/morabito-miguel-clark-555501"
    ]
   },
   {
@@ -13660,7 +13616,7 @@
    "cancelled": false,
    "alt_urls": [
     "https://dice.fm/event/6daxpq-infected-mushroom-16th-jan-kemistry-fort-lauderdale-tickets",
-    "https://edmtrain.com/fort-lauderdale-fl/im-game-tour-infected-mushroom-511448"
+    "https://edmtrain.com/fort-lauderdale-fl/infected-mushroom-suzy-solar-511448"
    ]
   },
   {
@@ -13736,6 +13692,31 @@
    "url": "https://dice.fm/event/g7oyb6?pid=d6342b83",
    "alt_urls": [
     "https://edmtrain.com/miami-fl/horse-meat-disco-554827"
+   ]
+  },
+  {
+   "id": "edmtrain:556657",
+   "source": "edmtrain",
+   "title": "Gene Farris",
+   "artists": [
+    "Gene Farris"
+   ],
+   "venue": "Upside",
+   "venue_slug": null,
+   "date": "2027-01-16",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "59 NW 28th St, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/qnxdax?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/gene-farris-556657"
    ]
   },
   {
@@ -14941,6 +14922,31 @@
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/icee-red-06-feb",
    "cancelled": false
+  },
+  {
+   "id": "edmtrain:556658",
+   "source": "edmtrain",
+   "title": "Jeremy Olander",
+   "artists": [
+    "Jeremy Olander"
+   ],
+   "venue": "Upside",
+   "venue_slug": null,
+   "date": "2027-02-06",
+   "start": null,
+   "end": null,
+   "time_estimated": false,
+   "address": "59 NW 28th St, Miami, FL 33127, USA",
+   "ages": "",
+   "price": "",
+   "genres": [],
+   "genres_inferred": false,
+   "organizer": "",
+   "description": "",
+   "url": "https://dice.fm/event/kxp2vo?pid=d6342b83",
+   "alt_urls": [
+    "https://edmtrain.com/miami-fl/jeremy-olander-556658"
+   ]
   },
   {
    "id": "hardrock:214373",
@@ -16205,43 +16211,6 @@
    "description": "",
    "url": "https://calendar.zeyzeymiami.com/shows/ocean-alley-29-may",
    "cancelled": false
-  },
-  {
-   "id": "edmtrain:555538",
-   "source": "edmtrain",
-   "title": "21hr Art Basel Closing Party - Sarah Tonin & Keep On Dancing: Ohm Hourani, Mr. K, K-Alexi, Aman Umber, Max Sprauer, André Baum, Usherenko, Ageless, Mink, m.O.N.R.O.E., Rimaye, EZ Dee, Dylan Schwartz",
-   "artists": [
-    "Ohm Hourani",
-    "Mr. K",
-    "K-Alexi",
-    "Aman Umber",
-    "Max Sprauer",
-    "André Baum",
-    "Usherenko",
-    "Ageless",
-    "Mink",
-    "m.O.N.R.O.E.",
-    "Rimaye",
-    "EZ Dee",
-    "Dylan Schwartz"
-   ],
-   "venue": "Fooq's",
-   "venue_slug": "festivals",
-   "date": "2027-11-06",
-   "start": "2027-11-06T19:00:00+00:00",
-   "end": "2027-11-07T07:00:00+00:00",
-   "time_estimated": true,
-   "address": "150 NW 73rd St, Miami, FL 33150, USA",
-   "ages": "",
-   "price": "",
-   "genres": [],
-   "genres_inferred": false,
-   "organizer": "",
-   "description": "",
-   "url": "https://ra.co/events/2591882",
-   "alt_urls": [
-    "https://edmtrain.com/miami-fl/21hr-art-basel-closing-party-sarah-tonin-and-keep-on-dancing-ohm-hourani-555538"
-   ]
   }
  ]
 }

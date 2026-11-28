@@ -138,6 +138,29 @@ STATUS:CONFIRMED
 GEO:25.7287781;-80.3169309
 END:VEVENT
 BEGIN:VEVENT
+UID:furry-rave@shotgun.live
+DTSTAMP:20261128T161811Z
+LAST-MODIFIED:20261128T161811Z
+SEQUENCE:0
+DTSTART:20261220T030000Z
+DTEND:20261220T080000Z
+SUMMARY:Furry Rave
+LOCATION:The Boombox Miami\, 4447 Southwest 75th Avenue\, Miami\, FL 33155
+ \, USA
+DESCRIPTION:🐾 MIAMI\, WE’RE THROWING A FURRY RAVE WITH CHUNGUS MIAMI X
+  CHUD IN MIAMI \;) TAG YOUR FAVORITE LOCAL DJS YOU WANNA SEE PLAY!! Expect
+  fursuits\, DJs\, a fursuit competition\, a ball pit (YES\, THE BALL PIT I
+ S BACK) IFYK Bring your fursona\, bring your friends\, and come dance with
+  us :3 18+ RAVE PHYSICAL ID ONLY\nTags: gabber\, hyperpop\, techno\nPresen
+ ted by: Talk Less Just Dance\nTickets: 18+ FIRST TIER $10\, 21+ FIRST TIER
+  $5.14\nhttps://shotgun.live/en/events/furry-rave\nhttps://edmtrain.com/mi
+ ami-fl/furry-rave-556653
+URL:https://shotgun.live/en/events/furry-rave
+STATUS:CONFIRMED
+CATEGORIES:gabber,hyperpop,techno
+GEO:25.7287781;-80.3169309
+END:VEVENT
+BEGIN:VEVENT
 UID:afterlife-the-purgatory@shotgun.live
 DTSTAMP:20261119T041851Z
 LAST-MODIFIED:20261119T041851Z

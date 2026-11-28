@@ -8,21 +8,19 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:dice-6ab17e0bf1fdd8000191620e@club-space.miami-calendars
-DTSTAMP:20261128T101757Z
-LAST-MODIFIED:20261128T101757Z
-SEQUENCE:5
+UID:19hz-4449979-teletech@club-space.miami-calendars
+DTSTAMP:20261128T161811Z
+LAST-MODIFIED:20261128T161811Z
+SEQUENCE:0
 DTSTART:20261128T040000Z
 DTEND:20261128T190000Z
 SUMMARY:Teletech
-LOCATION:Club Space Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
-DESCRIPTION:Lineup: Adrián Mills\, Benwal\, Danyelino\, Hannah Laing\, Ult
- rathem\nTags: electro\, hard techno\, tech house\nAges: 21+\nhttps://dice.
- fm/event/6ab17e0bf1fdd8000191620e\nhttps://edmtrain.com/miami-fl/teletech-
- adrian-mills-538703\nhttps://link.dice.fm/rumblegroundnov
+LOCATION:Club Space
+DESCRIPTION:Tags: hard techno\nAges: 21+\nhttps://dice.fm/event/6ab17e0bf1f
+ dd8000191620e
 URL:https://dice.fm/event/6ab17e0bf1fdd8000191620e
 STATUS:CONFIRMED
-CATEGORIES:electro,hard techno,tech house
+CATEGORIES:hard techno
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a8f2332f7d5af0001278253@club-space.miami-calendars
@@ -77,9 +75,9 @@ CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aa05356c1a81a000145fda3@club-space.miami-calendars
-DTSTAMP:20261028T101812Z
-LAST-MODIFIED:20261028T101812Z
-SEQUENCE:4
+DTSTAMP:20261128T161811Z
+LAST-MODIFIED:20261128T161811Z
+SEQUENCE:5
 DTSTART:20261204T040000Z
 DTEND:20261205T010000Z
 SUMMARY:Paradise (Space Basel 2026)
@@ -88,8 +86,7 @@ DESCRIPTION:Lineup: Fleur Shore\, Manda Moor\, Toman\, Jamie Jones\, The Ma
  rtinez Brothers\, Miguelle & Tons\, Josh Baker\, Enzo Siragusa\, Max Dean
  \, Luke Dean\, Joss Dean\nTags: house\, tech house\, techno\nAges: 21+\nht
  tps://dice.fm/event/6aa05356c1a81a000145fda3\nhttps://edmtrain.com/miami-f
- l/paradise-space-basel-2026-fleur-shore-535407\nhttps://link.dice.fm/rawcu
- tsbasel
+ l/fleur-shore-manda-moor-535407\nhttps://link.dice.fm/rawcutsbasel
 URL:https://dice.fm/event/6aa05356c1a81a000145fda3
 STATUS:CONFIRMED
 CATEGORIES:house,tech house,techno

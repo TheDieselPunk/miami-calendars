@@ -162,17 +162,19 @@ END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-through-the-wall-afters-with-rochelle-jordan-live-special-guests
  -03-dec@zeyzey.miami-calendars
-DTSTAMP:20261117T221813Z
-LAST-MODIFIED:20261117T221813Z
-SEQUENCE:3
+DTSTAMP:20261128T161811Z
+LAST-MODIFIED:20261128T161811Z
+SEQUENCE:4
 DTSTART:20261204T010000Z
 DTEND:20261204T060000Z
 SUMMARY:Beatport Live: Rochelle Jordan (LIVE)\, salute\, Todd Edwards\, Her
  cules & Love Affair (DJ)\, CHRYSALIS
 LOCATION:ZeyZey Miami
-DESCRIPTION:Tags: house\, r&b/soul\nAges: 18+\nhttps://calendar.zeyzeymiami
- .com/shows/through-the-wall-afters-with-rochelle-jordan-live-special-guest
- s-03-dec\nhttps://ra.co/events/2570591
+DESCRIPTION:Lineup: Rochelle Jordan\, Todd Edwards\, Hercules & Love Affair
+ \, CHRYSALIS\nTags: house\, r&b/soul\nAges: 18+\nhttps://calendar.zeyzeymi
+ ami.com/shows/through-the-wall-afters-with-rochelle-jordan-live-special-gu
+ ests-03-dec\nhttps://edmtrain.com/miami-fl/beatport-live-rochelle-jordan-5
+ 51109\nhttps://ra.co/events/2570591
 URL:https://calendar.zeyzeymiami.com/shows/through-the-wall-afters-with-roc
  helle-jordan-live-special-guests-03-dec
 STATUS:CONFIRMED
@@ -213,16 +215,16 @@ CATEGORIES:minimal,tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:zeyzey-a-trak-friends-04-dec@zeyzey.miami-calendars
-DTSTAMP:20261107T161849Z
-LAST-MODIFIED:20261107T161849Z
-SEQUENCE:4
+DTSTAMP:20261128T161811Z
+LAST-MODIFIED:20261128T161811Z
+SEQUENCE:5
 DTSTART:20261205T040000Z
 DTEND:20261205T080000Z
 SUMMARY:A-Trak & Friends with Melé\, BNYX\, Natasha Diggs & more
 LOCATION:ZeyZey Miami
-DESCRIPTION:Lineup: A-Trak\, Melé\, BNYX\, Natasha Diggs\nTags: beats\, fu
- nk\, house\nAges: 21+\nhttps://calendar.zeyzeymiami.com/shows/a-trak-frien
- ds-04-dec\nhttps://edmtrain.com/miami-fl/a-trak-mele-547644
+DESCRIPTION:Lineup: A-Trak\, Melé\, Natasha Diggs\nTags: beats\, funk\, ho
+ use\nAges: 21+\nhttps://calendar.zeyzeymiami.com/shows/a-trak-friends-04-d
+ ec\nhttps://edmtrain.com/miami-fl/a-trak-mele-547644
 URL:https://calendar.zeyzeymiami.com/shows/a-trak-friends-04-dec
 STATUS:CONFIRMED
 CATEGORIES:beats,funk,house

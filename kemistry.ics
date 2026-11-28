@@ -9,17 +9,16 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:dice-6aaae809e78bd300017554b1@kemistry.miami-calendars
-DTSTAMP:20261026T101803Z
-LAST-MODIFIED:20261026T101803Z
-SEQUENCE:0
+DTSTAMP:20261128T161811Z
+LAST-MODIFIED:20261128T161811Z
+SEQUENCE:1
 DTSTART:20261128T030000Z
 DTEND:20261128T090000Z
 SUMMARY:SPACE 92
 LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
  312\, United States
-DESCRIPTION:Lineup: Space 92\nTags: techno\nAges: 18+\nhttps://dice.fm/even
- t/8e7g5w-space-92-27th-nov-kemistry-fort-lauderdale-tickets\nhttps://edmtr
- ain.com/fort-lauderdale-fl/space-92-538122
+DESCRIPTION:Tags: techno\nAges: 18+\nhttps://dice.fm/event/8e7g5w-space-92-
+ 27th-nov-kemistry-fort-lauderdale-tickets
 URL:https://dice.fm/event/8e7g5w-space-92-27th-nov-kemistry-fort-lauderdale
  -tickets
 STATUS:CONFIRMED
@@ -46,9 +45,9 @@ CATEGORIES:bass music,dubstep
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a02cf0a5ca3ee0001e1d1dc@kemistry.miami-calendars
-DTSTAMP:20261026T101803Z
-LAST-MODIFIED:20261026T101803Z
-SEQUENCE:0
+DTSTAMP:20261128T161811Z
+LAST-MODIFIED:20261128T161811Z
+SEQUENCE:1
 DTSTART:20261204T030000Z
 DTEND:20261204T090000Z
 SUMMARY:LEVEL UP : CYCLOPS COVE PRE-PARTY
@@ -57,7 +56,7 @@ LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
 DESCRIPTION:Lineup: LEVEL UP\, Vicky B\nTags: bass music\, dubstep\, riddim
  \nAges: 18+\nhttps://dice.fm/event/92k2p7-level-up-cyclops-cove-pre-party-
  3rd-dec-kemistry-fort-lauderdale-tickets\nhttps://edmtrain.com/fort-lauder
- dale-fl/cyclops-cove-pre-party-level-up-525244
+ dale-fl/level-up-vicky-b-525244
 URL:https://dice.fm/event/92k2p7-level-up-cyclops-cove-pre-party-3rd-dec-ke
  mistry-fort-lauderdale-tickets
 STATUS:CONFIRMED
@@ -138,9 +137,9 @@ CATEGORIES:bass music,dubstep
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a6267e25c999a000109f8ae@kemistry.miami-calendars
-DTSTAMP:20261117T101805Z
-LAST-MODIFIED:20261117T101805Z
-SEQUENCE:0
+DTSTAMP:20261128T161811Z
+LAST-MODIFIED:20261128T161811Z
+SEQUENCE:1
 DTSTART:20261219T030000Z
 DTEND:20261219T090000Z
 SUMMARY:THE RESISTANCE
@@ -149,7 +148,7 @@ LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
 DESCRIPTION:Lineup: The Resistance\, Automhate (Vyle Set)\nTags: bass music
  \, dubstep\nAges: 18+\nhttps://dice.fm/event/7dxyd9-the-resistance-18th-de
  c-kemistry-fort-lauderdale-tickets\nhttps://edmtrain.com/fort-lauderdale-f
- l/rise-of-the-shadowcell-the-resistance-524125
+ l/the-resistance-automhate-vyle-set-524125
 URL:https://dice.fm/event/7dxyd9-the-resistance-18th-dec-kemistry-fort-laud
  erdale-tickets
 STATUS:CONFIRMED
@@ -227,9 +226,9 @@ CATEGORIES:bass music,dubstep
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6a17a579b4fd860001a0bd2e@kemistry.miami-calendars
-DTSTAMP:20261113T041825Z
-LAST-MODIFIED:20261113T041825Z
-SEQUENCE:1
+DTSTAMP:20261128T161811Z
+LAST-MODIFIED:20261128T161811Z
+SEQUENCE:2
 DTSTART:20270117T030000Z
 DTEND:20270117T090000Z
 SUMMARY:INFECTED MUSHROOM
@@ -238,8 +237,8 @@ LOCATION:Kemistry\, 307 Southwest 2nd Street\, Fort Lauderdale\, Florida 33
 DESCRIPTION:Lineup: Infected Mushroom\, Suzy Solar\, Silvio Rodrigues\, Rob
  b Blak\nTags: electro house\, glitch\, psytrance\nAges: 18+\nhttps://dice.
  fm/event/6daxpq-infected-mushroom-16th-jan-kemistry-fort-lauderdale-ticket
- s\nhttps://edmtrain.com/fort-lauderdale-fl/im-game-tour-infected-mushroom-
- 511448
+ s\nhttps://edmtrain.com/fort-lauderdale-fl/infected-mushroom-suzy-solar-51
+ 1448
 URL:https://dice.fm/event/6daxpq-infected-mushroom-16th-jan-kemistry-fort-l
  auderdale-tickets
 STATUS:CONFIRMED

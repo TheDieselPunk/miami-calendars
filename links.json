@@ -91,10 +91,6 @@
   "url": "https://dice.fm/event/6dg2o3?pid=d6342b83",
   "checked": "2026-10-20"
  },
- "539771": {
-  "url": "https://www.eventbrite.com/e/1987540335647?aff=ebdimtedmtrain",
-  "checked": "2026-09-24"
- },
  "539772": {
   "url": "https://www.eventbrite.com/e/1987540335647?aff=ebdimtedmtrain",
   "checked": "2026-09-24"
@@ -127,10 +123,6 @@
   "url": "https://dice.fm/event/xe82rm?pid=d6342b83",
   "checked": "2026-10-21"
  },
- "546509": {
-  "url": "https://dice.fm/event/7d9m6p?pid=d6342b83",
-  "checked": "2026-10-21"
- },
  "546510": {
   "url": "https://dice.fm/event/yoqbkv?pid=d6342b83",
   "checked": "2026-10-21"
@@ -139,10 +131,6 @@
   "url": "https://shotgun.live/events/yasumi-fiesta?utm_source=edmtrain",
   "checked": "2026-10-21"
  },
- "547837": {
-  "url": "https://laylo.com/discoluminati/m/o95Fuf",
-  "checked": "2026-10-26"
- },
  "547838": {
   "url": "https://laylo.com/discoluminati/m/o95Fuf",
   "checked": "2026-10-26"
@@ -150,10 +138,6 @@
  "549114": {
   "url": "https://www.etix.com/ticket/p/85800734",
   "checked": "2026-10-31"
- },
- "549327": {
-  "url": "https://shotgun.live/events/clubperreo-4?utm_source=edmtrain",
-  "checked": "2026-11-02"
  },
  "549547": {
   "url": "https://www.etix.com/ticket/p/71335529",
@@ -181,10 +165,6 @@
  },
  "550755": {
   "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/major-lazer-at-faena-miami-beach-miami-art-week-2026",
-  "checked": "2026-11-06"
- },
- "550758": {
-  "url": "https://www.faena.com/miami-beach/things-to-do/event-calendar/saxony-bar",
   "checked": "2026-11-06"
  },
  "550774": {
@@ -439,16 +419,8 @@
   "url": "https://www.tixr.com/pr/edmtrain/215980",
   "checked": "2026-11-23"
  },
- "555502": {
-  "url": "https://ra.co/events/2528921",
-  "checked": "2026-11-23"
- },
  "555532": {
   "url": "https://spkeasy.com/event/EVE-W8Z2K0?t=edmtrain",
-  "checked": "2026-11-23"
- },
- "555538": {
-  "url": "https://ra.co/events/2591882",
   "checked": "2026-11-23"
  },
  "555574": {
@@ -479,6 +451,10 @@
   "url": "https://dice.fm/event/nyl5g9?pid=d6342b83",
   "checked": "2026-11-24"
  },
+ "555957": {
+  "url": "https://ra.co/events/2566875",
+  "checked": "2026-11-28"
+ },
  "556039": {
   "url": "https://dice.fm/event/2ol6n7?pid=d6342b83",
   "checked": "2026-11-24"
@@ -499,8 +475,36 @@
   "url": "https://goodtimehotelpoolparty.com/events/saturday-december-5th-at-goodtime-hotel-pool-party",
   "checked": "2026-11-27"
  },
- "556522": {
-  "url": "https://posh.vip/e/this-week-thebeatrice?t=edmtrain",
-  "checked": "2026-11-27"
+ "556615": {
+  "url": "https://spkeasy.com/event/EVE-7Z6TWX?t=edmtrain",
+  "checked": "2026-11-28"
+ },
+ "556616": {
+  "url": "https://spkeasy.com/event/EVE-FCMLRN?t=edmtrain",
+  "checked": "2026-11-28"
+ },
+ "556617": {
+  "url": "https://spkeasy.com/event/EVE-2DGUW8?t=edmtrain",
+  "checked": "2026-11-28"
+ },
+ "556622": {
+  "url": "https://shotgun.live/events/intriga-x-boho-house-art-basel-day-party-vol-6?utm_source=edmtrain",
+  "checked": "2026-11-28"
+ },
+ "556634": {
+  "url": "https://dice.fm/event/qnxd6x?pid=d6342b83",
+  "checked": "2026-11-28"
+ },
+ "556645": {
+  "url": "https://posh.vip/e/art-basel-x-run-n-rave-x-paraiso-cafe-x-something-chill-x-jade-space-x-collabaret-1?t=edmtrain",
+  "checked": "2026-11-28"
+ },
+ "556657": {
+  "url": "https://dice.fm/event/qnxdax?pid=d6342b83",
+  "checked": "2026-11-28"
+ },
+ "556658": {
+  "url": "https://dice.fm/event/kxp2vo?pid=d6342b83",
+  "checked": "2026-11-28"
  }
 }

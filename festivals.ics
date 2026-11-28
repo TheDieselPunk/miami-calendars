@@ -408,20 +408,22 @@ STATUS:CONFIRMED
 CATEGORIES:house
 END:VEVENT
 BEGIN:VEVENT
-UID:edmtrain-555872@festivals.miami-calendars
-DTSTAMP:20261125T041803Z
-LAST-MODIFIED:20261125T041803Z
+UID:edmtrain-556622@festivals.miami-calendars
+DTSTAMP:20261128T161811Z
+LAST-MODIFIED:20261128T161811Z
 SEQUENCE:0
 DTSTART:20261205T200000Z
 DTEND:20261206T070000Z
-SUMMARY:COFFEEANDBEATS ART BASEL: Lizzy Jane\, Thats Rocky\, Waitless
-LOCATION:Libertino Cafe\, 220 NW 24th St\, Miami\, FL 33127\, USA
-DESCRIPTION:Lineup: Lizzy Jane\, Thats Rocky\, Waitless\nTimes are an estim
- ate from Festivals & one-offs's usual hours - the listing has no start tim
- e yet. Check the link.\nhttps://posh.vip/e/coffeeandbeats-x-libertino-cafe
- -art-basel?t=edmtrain\nhttps://edmtrain.com/miami-fl/coffeeandbeats-art-ba
- sel-lizzy-jane-555872
-URL:https://posh.vip/e/coffeeandbeats-x-libertino-cafe-art-basel?t=edmtrain
+SUMMARY:Intriga x Boho House - Art Basel day party Vol. 6: Santelises\, Goa
+  '98
+LOCATION:BOHO Wynwood\, 85 NW 25th St\, Miami\, FL 33127\, USA
+DESCRIPTION:Lineup: Santelises\, Goa '98\nTimes are an estimate from Festiv
+ als & one-offs's usual hours - the listing has no start time yet. Check th
+ e link.\nhttps://shotgun.live/events/intriga-x-boho-house-art-basel-day-pa
+ rty-vol-6?utm_source=edmtrain\nhttps://edmtrain.com/miami-fl/intriga-x-boh
+ o-house-art-basel-day-party-vol-6-santelises-556622
+URL:https://shotgun.live/events/intriga-x-boho-house-art-basel-day-party-vo
+ l-6?utm_source=edmtrain
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -438,6 +440,25 @@ DESCRIPTION:Times are an estimate from Festivals & one-offs's usual hours -
  vo-flow-art-basel-3-day-experience?t=edmtrain\nhttps://edmtrain.com/miami-
  fl/art-basel-3-day-pool-party-552131
 URL:https://posh.vip/e/novo-flow-art-basel-3-day-experience?t=edmtrain
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:edmtrain-556645@festivals.miami-calendars
+DTSTAMP:20261128T161811Z
+LAST-MODIFIED:20261128T161811Z
+SEQUENCE:0
+DTSTART:20261205T200000Z
+DTEND:20261206T070000Z
+SUMMARY:Art Basel x Run N Rave x Paraiso Cafe x Something Chill x Jade Spac
+ e x Collabaret x Pickle
+LOCATION:Paraiso Market Cafe\, 3131 NE 7th Ave\, Miami\, FL 33137\, USA
+DESCRIPTION:Times are an estimate from Festivals & one-offs's usual hours -
+  the listing has no start time yet. Check the link.\nhttps://posh.vip/e/ar
+ t-basel-x-run-n-rave-x-paraiso-cafe-x-something-chill-x-jade-space-x-colla
+ baret-1?t=edmtrain\nhttps://edmtrain.com/miami-fl/art-basel-x-run-n-rave-x
+ -paraiso-cafe-x-something-chill-x-jade-space-x-collabaret-x-pickle-556645
+URL:https://posh.vip/e/art-basel-x-run-n-rave-x-paraiso-cafe-x-something-ch
+ ill-x-jade-space-x-collabaret-1?t=edmtrain
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -532,9 +553,9 @@ CATEGORIES:tech house
 END:VEVENT
 BEGIN:VEVENT
 UID:dice-6aa82e05fcb1030001a9cd65@festivals.miami-calendars
-DTSTAMP:20261004T221819Z
-LAST-MODIFIED:20261004T221819Z
-SEQUENCE:2
+DTSTAMP:20261128T161811Z
+LAST-MODIFIED:20261128T161811Z
+SEQUENCE:3
 DTSTART:20261206T030000Z
 DTEND:20261206T120000Z
 SUMMARY:Circoloco Miami (Factory Basel 2026)
@@ -543,8 +564,8 @@ DESCRIPTION:Lineup: Aline Umber\, Beltran\, Carlita\, Chloé Caillet\, Dixo
  n\, Jamback\, Jimi Jules\, Luke Dean\, Make A Dance\, Max Dean\, Miguelle 
  & Tons\, Omar+\, Palms Trax\, PAWSA\, Prospa\, Rampa\, Rony Seikaly\, Seth
   Troxler\nTags: deep house\, funky house\, tech house\nAges: 18+\nhttps://
- dice.fm/event/6aa82e05fcb1030001a9cd65\nhttps://edmtrain.com/miami-fl/circ
- oloco-miami-536726
+ dice.fm/event/6aa82e05fcb1030001a9cd65\nhttps://edmtrain.com/miami-fl/alin
+ e-umber-beltran-536726
 URL:https://dice.fm/event/6aa82e05fcb1030001a9cd65
 STATUS:CONFIRMED
 CATEGORIES:deep house,funky house,tech house
@@ -932,26 +953,6 @@ DESCRIPTION:Lineup: BUNT.\nTimes are an estimate from Festivals & one-offs'
  //discopresents.com/event/2027-0512-miami-northbeachbandshell\nhttps://edm
  train.com/miami-fl/bunt-552879
 URL:https://discopresents.com/event/2027-0512-miami-northbeachbandshell
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:edmtrain-555538@festivals.miami-calendars
-DTSTAMP:20261124T041801Z
-LAST-MODIFIED:20261124T041801Z
-SEQUENCE:0
-DTSTART:20271106T190000Z
-DTEND:20271107T070000Z
-SUMMARY:21hr Art Basel Closing Party - Sarah Tonin & Keep On Dancing: Ohm H
- ourani\, Mr. K\, K-Alexi\, Aman Umber\, Max Sprauer\, André Baum\, Ushere
- nko\, Ageless\, Mink\, m.O.N.R.O.E.\, Rimaye\, EZ Dee\, Dylan Schwartz
-LOCATION:Fooq's\, 150 NW 73rd St\, Miami\, FL 33150\, USA
-DESCRIPTION:Lineup: Ohm Hourani\, Mr. K\, K-Alexi\, Aman Umber\, Max Spraue
- r\, André Baum\, Usherenko\, Ageless\, Mink\, m.O.N.R.O.E.\, Rimaye\, EZ 
- Dee\, Dylan Schwartz\nTimes are an estimate from Festivals & one-offs's us
- ual hours - the listing has no start time yet. Check the link.\nhttps://ra
- .co/events/2591882\nhttps://edmtrain.com/miami-fl/21hr-art-basel-closing-p
- arty-sarah-tonin-and-keep-on-dancing-ohm-hourani-555538
-URL:https://ra.co/events/2591882
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -9,16 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4449979-omaks@domicile.miami-calendars
-DTSTAMP:20261110T041823Z
-LAST-MODIFIED:20261110T041823Z
-SEQUENCE:0
+DTSTAMP:20261128T161811Z
+LAST-MODIFIED:20261128T161811Z
+SEQUENCE:1
 DTSTART:20261128T040000Z
 DTEND:20261128T100000Z
 SUMMARY:Omaks
 LOCATION:Domicile
-DESCRIPTION:Lineup: OMAKS\nTags: hard bounce\, hard dance\, hard techno\, h
- ardcore\nAges: 18+\nhttps://ra.co/events/2574009\nhttps://edmtrain.com/mia
- mi-fl/omaks-548810
+DESCRIPTION:Tags: hard bounce\, hard dance\, hard techno\, hardcore\nAges: 
+ 18+\nhttps://ra.co/events/2574009
 URL:https://ra.co/events/2574009
 STATUS:CONFIRMED
 CATEGORIES:hard bounce,hard dance,hard techno,hardcore

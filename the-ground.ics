@@ -8,18 +8,17 @@ X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
-UID:19hz-4449979-nikkinairnanoos@the-ground.miami-calendars
-DTSTAMP:20261128T101757Z
-LAST-MODIFIED:20261128T101757Z
+UID:dice-6abbe1d7214d4c0001006f40@the-ground.miami-calendars
+DTSTAMP:20261128T161811Z
+LAST-MODIFIED:20261128T161811Z
 SEQUENCE:0
 DTSTART:20261128T040000Z
 DTEND:20261128T120000Z
-SUMMARY:Nikki Nair\, Nanoos
-LOCATION:The Ground
-DESCRIPTION:Lineup: Nikki Nair\, Nanoos\nTags: electro\, tech house\nAges: 
- 21+\nhttps://dice.fm/event/wwnv3v-rumble-in-the-jungle-nikki-nair-nanoos-2
- 7th-nov-the-ground-miami-miami-tickets\nhttps://edmtrain.com/miami-fl/rumb
- le-in-the-jungle-nikki-nair-541195
+SUMMARY:RUMBLE IN THE JUNGLE: Nikki Nair + Nanoos
+LOCATION:The Ground Miami\, 34 NE 11th St\, Miami\, FL 33132\, USA
+DESCRIPTION:Tags: electro\, tech house\nAges: 21+\nhttps://dice.fm/event/ww
+ nv3v-rumble-in-the-jungle-nikki-nair-nanoos-27th-nov-the-ground-miami-miam
+ i-tickets\nhttps://link.dice.fm/rumblegroundnov
 URL:https://dice.fm/event/wwnv3v-rumble-in-the-jungle-nikki-nair-nanoos-27t
  h-nov-the-ground-miami-miami-tickets
 STATUS:CONFIRMED

@@ -9,17 +9,15 @@ X-PUBLISHED-TTL:PT6H
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 BEGIN:VEVENT
 UID:19hz-4449972-tompetersisraels@mad-radio.miami-calendars
-DTSTAMP:20261128T101757Z
-LAST-MODIFIED:20261128T101757Z
-SEQUENCE:0
+DTSTAMP:20261128T161811Z
+LAST-MODIFIED:20261128T161811Z
+SEQUENCE:1
 DTSTART:20261128T020000Z
 DTEND:20261128T080000Z
 SUMMARY:Tom Peters / Israel Sunshine
 LOCATION:Mad Radio
-DESCRIPTION:Lineup: Tom Peters\, Israel Sunshine\nTags: deep house\, progre
- ssive house\, tech house\nAges: 25+\nhttps://shotgun.live/en/events/madrad
- iomiami112726\nhttps://edmtrain.com/miami-fl/tom-peters-israel-sunshine-55
- 0572
+DESCRIPTION:Tags: deep house\, progressive house\, tech house\nAges: 25+\nh
+ ttps://shotgun.live/en/events/madradiomiami112726
 URL:https://shotgun.live/en/events/madradiomiami112726
 STATUS:CONFIRMED
 CATEGORIES:deep house,progressive house,tech house
